@@ -1,0 +1,1224 @@
+The arena master shouts 'Team 1 consists of Gotrek'
+The arena master shouts 'Team 2 consists of Mankind'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '% close door.'[0m
+[32mSirdest says '%You close team 2 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Gotrek'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Mankind'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%Hp:485/485 Sp:883/1011 Ep:267/267 >%You say '% close door.'.'[0m
+Calmis looks at Sirdest.
+Cobain arrives from down.
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #......#  
+ #[1;36m1[0m....[1;36m2[0m#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
+la arena
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           485/485   883/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:11] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+           
+ ########  
+ #......#  
+ #......#  
+ #[1;36m1[0m....[1;36m2[0m#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           485/485   883/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:11] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '%Hp:485/485 Sp:883/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%  #####       All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '%Hp:485/485 Sp:883/1011 Ep:267/267 >%You say '%  #####       All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+la arena
+           
+ ########  
+ #...[1;36m1[0m..#  
+ #......#  
+ #......#  
+ #......#  
+ #.....[1;36m2[0m#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           485/485   883/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:14] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Stargazer leaves west.
+[32mSirdest says '% acid3 gotrek.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:485/485 Sp:883/1011 Ep:267/267 >%You say '% acid3 gotrek.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Gotrek hits Someone 2 times.'[0m
+[32mSirdest says '%Someone hits Gotrek 1 time.'[0m
+[32mSirdest says '%Hp:383/485(-102) Sp:883/1011() Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%Gotrek leaves south.'[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%  ######      All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:383/485 Sp:883/1011 Ep:267/267 >%You say '%Your movement prevents [0m[32myou from casting the spell.'.'[0m
+           
+ ########  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ #....[1;36m2[0m.#  
+ #....[1;36m1[0m.#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           383/485   883/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1394/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:17] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:383/485 Sp:883/1011 Ep:267/267 >%% north.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:383/485 Sp:883/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:383/485 Sp:883/1011 Ep:267/267 >%You say '%Hp:383/485 Sp:883/1011 [0m[32mEp:267/267 >%% north.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:383/485 Sp:883/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says '%Hp:383/485 Sp:883/1011 Ep:267/267 >%You say '%You start chanting.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #...[1;36m2[0m..#  
+ #......#  
+ #......#  
+ #.....[1;36m1[0m#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           383/485   883/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1394/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:19] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mJacen giggles inanely.[0m
+[32mSirdest says '%Acid blast: ####.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #...[1;36m2[0m.[1;36m1[0m#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           383/485   883/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1394/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:22] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mChack cackles gleefully.[0m
+la arena
+           
+ ########  
+ #.....[1;36m1[0m#  
+ #...[1;36m2[0m..#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           383/485   883/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1394/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:25] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Acid blast: ##.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32m*Mape 2.[0m
+la arena
+           
+ ########  
+ #[1;36m1[0m.....#  
+ #...[1;36m2[0m..#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           383/485   883/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1394/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:28] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Cobain looks at Calmis.
+la arena
+           
+ ########  
+ #.....[1;36m1[0m#  
+ #...[1;36m2[0m..#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           383/485   865/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1394/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:30] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You turn visible.'[0m
+[32mSirdest asks '%Cast acid blast at what?'[0m
+[32mSirdest says '%Hp:383/485() Sp:865/1011(-18) Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Gotrek hits Mankind 2 times.'[0m
+[32mSirdest says '%Mankind hits Gotrek 1 time.'[0m
+[32mSirdest says '%Hp:258/485(-125) Sp:865/1011() Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%Gotrek leaves west.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:258/485 Sp:865/1011 Ep:267/267 >%You say '%You start chanting.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #[1;36m1[0m..[1;36m2[0m..#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           258/485   865/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1393/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:31] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:258/485 Sp:865/1011 Ep:267/267 >%% south.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:258/485 Sp:865/1011 Ep:267/267 >%You say '%You are not in a [0m[32mparty.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:258/485 Sp:865/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #[1;36m1[0m.....#  
+ #......#  
+ #......#  
+ #...[1;36m2[0m..#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1393/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:33] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% south.'[0m
+[32mSirdest says '%  #######     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '% south.'.'[0m
+[32mSirdest says '%  #######     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '%  #######     All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%   ######     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '%   ######     All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%   #.....     All around is a dense fog. You can see maybe.'[0m
+la arena
+[32mSirdest says '%Obvious exits are: nw, n, ne, w and e.'[0m
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '%   #.....     All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+           
+ ########  
+ #......#  
+ #[1;36m1[0m.....#  
+ #......#  
+ #......#  
+ #......#  
+ #.[1;36m2[0m....#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1393/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:34] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%   ######     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '%   ######     All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #[1;36m1[0m.....#  
+ #......#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:36] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '%You start chanting.'.'[0m
+[1;37mJuo [0;53m[fall+]:[1;37m rip![0m
+[32mCalmis grunts 'hmm.'[0m
+[32mMerja acks.[0m
+Malekith arrives from west.
+[32mSirdest says '% acid3 gotrek.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '% acid3 gotrek.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #[1;36m1[0m.....#  
+ #......#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:38] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSerra quacks 'his dead.'[0m
+[32mSirdest says '%Jacen tells you 'battle listen all 3'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #.....[1;36m1[0m#  
+ #......#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:40] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+la arena
+
+           
+ ########  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #[1;36m1[0m.....#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:43] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% battle listen all 3.'[0m
+[32mSirdest says '%Listening to: all At Level: 3.'[0m
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '% battle listen all 3.'.'[0m
+[32mJacen blushes to a deep crimson.[0m
+la arena
+           
+ ########  
+ #[1;36m1[0m.....#  
+ #......#  
+ #......#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:45] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Ggr arrives from down.
+[32mSirdest says '%Acid blast: ##.'[0m
+Nathanielw [1;30m[bat]:[0m say last
+[32m*Mape 2.[0m
+[32mCalmis grunts 'mankind? vähän joo.'[0m
+[56mTICK IN 5 SECONDS.[0m
+Scaler arrives from down.
+la arena
+           
+ ########  
+ #......#  
+ #.....[1;36m1[0m#  
+ #......#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:47] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Acid blast: #.'[0m
+[32m*Mape 1.[0m
+la arena
+[32mBlayke says 'hahahha.'[0m
+[1;37mDupre [0;53m(fall+):[1;37m what happens![0m
+           
+ ########  
+ #......#  
+ #[1;36m1[0m.....#  
+ #......#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:48] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mScaler is absolutely stunned and amazed and can only say 'Wow...'.[0m
+[32mSirdest says '% acid3 gotrek.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '% acid3 gotrek.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #......#  
+ #..[1;36m1[0m...#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:50] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #......#  
+ #....[1;36m1[0m.#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:52] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mCalmis grunts 'aika borea.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #......#  
+ #.....[1;36m1[0m#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:53] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Acid blast: ##.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32m*Mape 2.[0m
+la arena
+[32mSirdest says '% acid3 gotrek.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+           
+ ########  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ #.[1;36m2[0m...[1;36m1[0m#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           261/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:55] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Hp:261/485 Sp:905/1011 Ep:267/267 >%You say '% acid3 gotrek.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%...BUT you avoid being stunned with pure willpower.'[0m
+[32mSirdest says '%Gotrek incises you causing anaphylactic shock.'[0m
+[32mSirdest says '%Gotrek misses you.'[0m
+[32mSirdest says '%You miss Gotrek.'[0m
+[32mSirdest says '%You spank Gotrek making small marks.'[0m
+[32mSirdest says '%Hp:202/485(-59) Sp:905/1011() Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%Gotrek leaves west.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ #[1;36m12[0m....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           202/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1396/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:57] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% north.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:202/485 Sp:905/1011 Ep:267/267 >%You say '% north.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+la arena
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:202/485 Sp:905/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mJacen giggles inanely at Krokodiili.[0m
+           
+ ########  
+ #......#  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ #[1;36m1[0m.....#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           202/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1396/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:58] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSerra quacks 'epatoivosta.'[0m
+[32mSirdest says '% east.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:202/485 Sp:905/1011 Ep:267/267 >%You say '% east.'.'[0m
+[32mSsmud rolls on the floor laughing.[0m
+[32mSirdest says '% east.'[0m
+la arena
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:202/485 Sp:905/1011 Ep:267/267 >%You say '% east.'.'[0m
+           
+ ########  
+ #......#  
+ #......#  
+ #...[1;36m2[0m..#  
+ #..[1;36m1[0m...#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           202/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1396/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:22:59] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+*Roc cocks its head to the side.
+[32mSirdest says '% north.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:202/485 Sp:905/1011 Ep:267/267 >%You say '% north.'.'[0m
+[31mBlack Tiger shouts 'Thanks Sirus, I still need 5k for next level!'[0m
+[1;30mInfo: Sirus dies.[0m
+la arena
+[32mSirdest says '%Black Tiger shouts 'Thanks Sirus, I still need 5k for next level!'.'[0m
+           
+ ########  
+ #......#  
+ #...[1;36m2[0m..#  
+ #.[1;36m1[0m....#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           202/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1396/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:01] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Shujinko [34m[newbie]:[0m shardik is in charge of answering newbie questions why don't you ask him when he is avalible
+[32mSirdest says '% heal.'[0m
+la arena
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says '%Hp:202/485 Sp:905/1011 Ep:267/267 >%You say '% heal.'.'[0m
+           
+ ########  
+ #......#  
+ #[1;36m1[0m..[1;36m2[0m..#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           202/485   905/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1396/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:02] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Heal self: ##.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Gotrek misses you.'[0m
+[32mSirdest says '%Gotrek incises you forcing spinal discs to dislodge.'[0m
+[32mSirdest says '%Gotrek successfully dodges your futile punch.'[0m
+[32mSirdest says '%Gotrek successfully dodges your futile punch.'[0m
+[32mSirdest says '%Hp:154/485(-52) Sp:945/1011() Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%Gotrek leaves east.'[0m
+la arena
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+           
+ ########  
+ #......#  
+ #....[1;36m1[0m.#  
+ #...[1;36m2[0m..#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           154/485   945/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1396/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:04] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:154/485 Sp:945/1011 Ep:267/267 >%You say '%Your movement prevents [0m[32myou from casting the spell.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:154/485 Sp:945/1011 Ep:267/267 >%% south.'[0m
+[32mSirdest says '%  #######     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:154/485 Sp:945/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+Ggr leaves west.
+la arena
+[32mBleezuz goes 'Heh'.[0m
+*Murgan the Blac cocks its head to the side.
+[32mMerja roars 'ooo -1 hp.'[0m
+           
+ ########  
+ #......#  
+ #....[1;36m1[0m.#  
+ #......#  
+ #......#  
+ #...[1;36m2[0m..#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           154/485   945/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:06] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% heal.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:154/485 Sp:945/1011 Ep:267/267 >%You say '% heal.'.'[0m
+Stargazer arrives from west.
+la arena
+           
+ ########  
+ #......#  
+ #...[1;36m1[0m..#  
+ #......#  
+ #......#  
+ #...[1;36m2[0m..#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           154/485   945/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:07] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Stargazer leaves east.
+[32mJacen falls down laughing.[0m
+[32mSirdest says '%Heal self: ##.'[0m
+la arena
+           
+ ########  
+ #.....[1;36m1[0m#  
+ #......#  
+ #......#  
+ #......#  
+ #...[1;36m2[0m..#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           154/485   945/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:09] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+la arena
+
+           
+ ########  
+ #.....[1;36m1[0m#  
+ #......#  
+ #......#  
+ #......#  
+ #...[1;36m2[0m..#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           154/485   945/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:11] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mHannah booms 'heal :D.'[0m
+[32mSirdest says '%Heal self: #.'[0m
+la arena
+           
+ ########  
+ #.....[1;36m1[0m#  
+ #......#  
+ #......#  
+ #......#  
+ #...[1;36m2[0m..#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           154/485   945/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:13] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+la arena
+
+           
+ ########  
+ #......#  
+ #......#  
+ #......#  
+ #...[1;36m1[0m..#  
+ #...[1;36m2[0m..#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           216/485   892/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:15] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You clap your hands and whisper 'judicandus littleee' [57m(Heal self)[32m.'[0m
+[32mSirdest says '%You heal a few of your wounds.'[0m
+[32mSirdest says '%Hp:216/485(+62) Sp:892/1011(-53) Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%  #######     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:216/485 Sp:892/1011 Ep:267/267 >%You say '%  #######     All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%   ######     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:216/485 Sp:892/1011 Ep:267/267 >%You say '%Obvious exits are: nw, [0m[32mn, ne, w, e, sw, s and se.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:216/485 Sp:892/1011 Ep:267/267 >%You say '%Hp:216/485 Sp:892/1011 [0m[32mEp:267/267 >%You say '%Obvious exits are: nw,.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:216/485 Sp:892/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+la arena
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:216/485 Sp:892/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+           
+ ########  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ #...[1;36m1[0m..#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           216/485   892/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:16] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mScaler squeezes Hannah's breasts and shouts 'Honk! Honk!'.[0m
+[32mSirdest says '% heal.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says '%Hp:216/485 Sp:892/1011 Ep:267/267 >%You say '% heal.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ #.[1;36m1[0m....#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           216/485   892/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1397/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:18] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+Ggr arrives from west.
+[32mSirdest says '%Gotrek arrives from south.'[0m
+la arena
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Gotrek incises you snapping back a limb.'[0m
+[32mSirdest says '%Gotrek misses you.'[0m
+[32mSirdest says '%You miss Gotrek.'[0m
+[32mSirdest says '%You spank Gotrek making small marks.'[0m
+[32mSirdest says '%Hp:157/485(-59) Sp:892/1011() Ep:267/267() || Cash: 0() Exp: 93().'[0m
+           
+ ########  
+ #......#  
+ #.[1;36m2[0m....#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           157/485   892/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1396/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:20] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+*Roc is sooo cool.
+[32mSirdest says '%Hp:157/485 Sp:892/1011 Ep:267/267 >%% @@zap gotrek with wand 1.'[0m
+[32mSirdest says '%You zap Gotrek with Custom wand named acid blast (1/100).'[0m
+[42mSirdest says '%You watch with selfpride as your acid blast hits Gotrek.'[0m
+[32mSirdest says '%Gotrek screams in pain.'[0m
+[32mSirdest says '%Hp:157/485 Sp:892/1011 Ep:267/267 >%% @@scan all.'[0m
+[32mSirdest says '%Gotrek is slightly hurt.'[0m
+[32mSirdest says '%Hp:157/485 Sp:892/1011 Ep:267/267 >%*Roc is sooo cool.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus littleee' [57m(Heal self)[32m.'[0m
+[32mSirdest says '%You heal a few of your wounds.'[0m
+[32mSirdest says '%Hp:201/485(+44) Sp:839/1011(-53) Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Gotrek the Gargantuan dragonscale Gargoyle <team 1>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You spank Gotrek making small marks.'[0m
+[32mSirdest says '%You spank Gotrek making small marks.'[0m
+[32mSirdest says '%Gotrek incises you causing high wattage to sever arteries.'[0m
+[32mSirdest says '%Gotrek tears you smashing rib bones into a lung.'[0m
+[32mSirdest says '%You feel that Mankind is in great pain.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%Hp:95/485(-106) Sp:839/1011() Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%You are done with the [0m[32mchant.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%You spank Gotrek making [0m[32msmall marks.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%Hp:95/485 Sp:839/1011 [0m[32mEp:267/267 >%You say '%You are done with the.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #.[1;36m1[0m..[1;36m2[0m.#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind            95/485   839/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1106/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:22] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mChack roars 'ee hele.'[0m
+[32mSirdest says '% west.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '% west.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #[1;36m1[0m..[1;36m2[0m..#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind            95/485   839/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1106/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:24] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #[1;36m1[0m.....#  
+ #......#  
+ #...[1;36m2[0m..#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind            95/485   839/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1106/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:25] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+la arena
+           
+ ########  
+ #......#  
+ #[1;36m1[0m.....#  
+ #......#  
+ #..[1;36m2[0m...#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind            95/485   839/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1106/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:26] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+la arena
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+           
+ ########  
+ #......#  
+ #..[1;36m1[0m...#  
+ #..[1;36m2[0m...#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind            95/485   839/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek           1106/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:28] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Gotrek the Gargantuan dragonscale Gargoyle <team 1>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Gotrek.'[0m
+[32mSirdest says '%You miss Gotrek.'[0m
+[32mSirdest says '%Gotrek incises you causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You lose your muscle control as electricity JOLTS through you!'[0m
+[32mSirdest says '%Gotrek misses you.'[0m
+[32mSirdest says '%Hp:56/485(-39) Sp:839/1011() Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%Hp:95/485 Sp:839/1011 Ep:267/267 >%You say '%              All around [0m[32mis a dense fog. You can see maybe.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+la arena
+[32mSirdest says '% bb.'[0m
+[32mSirdest says '%Hp:56/485 Sp:839/1011 Ep:267/267 >%% @@zap gotrek with wand 2.'[0m
+[32mSirdest says '%You zap Gotrek with Custom wand named acid blast (1/100).'[0m
+[32mSirdest exclaims '%Custom wand named acid blast (1/78) explodes!'[0m
+[42mSirdest says '%You watch with selfpride as your acid blast hits Gotrek.'[0m
+[32mSirdest says '%Gotrek screams in pain.'[0m
+[32mSirdest exclaims '%Custom wand named dispel magical prote (2/100) explodes!'[0m
+[32mSirdest says '%You cast the dispel magical protection successfully.'[0m
+[32mSirdest says '%You destroyed Force absorption.'[0m
+[32mSirdest says '%You feel much more vulnerable.'[0m
+           
+ ########  
+ #......#  
+ #..[1;36m1[0m...#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind            56/485   839/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek            527/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:29] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You destroyed Displacement.'[0m
+[32mSirdest exclaims '%Custom wand named acid blast (1/100) explodes!'[0m
+[42mSirdest says '%You watch with selfpride as your acid blast hits Gotrek.'[0m
+[32mSirdest says '%Gotrek screams in pain.'[0m
+[32mSirdest says '%Nothing happens.'[0m
+[32mSirdest says '%Hp:56/485 Sp:839/1011 Ep:267/267 >%% @@scan all.'[0m
+[32mSirdest says '%Gotrek is not in a good shape.'[0m
+[32mSirdest says '%Hp:56/485 Sp:839/1011 Ep:267/267 >%You say '% bb.'.'[0m
+[32mSirdest says '%Hp:56/485 Sp:839/1011 Ep:267/267 >%You exclaim '%Custom wand named [0m[32macid blast (1/78) explodes!'.'[0m
+[31mMaster of archives shouts 'Dangergirl was just DOGMEAT, who is next?'[0m
+[1;30mInfo: Dangergirl dies.[0m
+[32mSirdest says '%Master of archives shouts 'Dangergirl was just DOGMEAT, who is next?'.'[0m
+[32mSirdest says '%Gotrek bashes her foe in berserk rage!!'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Gotrek successfully dodges your futile punch.'[0m
+[32mSirdest says '%Gotrek successfully dodges your futile punch.'[0m
+[32mSirdest says '%Gotrek incises you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%You lose your muscle control as electricity JOLTS through you!'[0m
+la arena
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You feel that Mankind goes [51munconscious[32m.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest says '%Gotrek tears you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Hp:-56/485(-112) Sp:839/1011() Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+[32mSirdest says '%Gotrek starts concentrating on a new offensive skill.'[0m
+[32m*Scaler cleared stun.[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-56/485 Sp:839/1011 Ep:267/267 >%You exclaim '%You wish your wounds [0m[32mwould stop BLEEDING so much!'.'[0m
+           
+ ########  
+ #......#  
+ #..[1;36m1[0m...#  
+ #......#  
+ #......#  
+ #......#  
+ #......#  
+ ########  
+           
+           
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mankind           -56/485   839/1011 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gotrek            527/1397 -144/-144 |                                      |
+`-----------------------------------------------------------------------------'
+[22:23:30] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Stargazer arrives from east.
+Stargazer leaves down.
+la arena
+The arena master shouts 'Mankind of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Gotrek'
+[32mSirdest says '%Gotrek bashes her foe in berserk rage!!'[0m
+There is no fight going on.
+[22:23:33] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Gotrek horribly shreds you inducing a shock to the heart.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%You lose your muscle control as electricity JOLTS through you!'[0m
+[32mSirdest says '%Smiling devilishly Gotrek rives you forcing the heart to incinerate.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%You die!'[0m
+[32mSirdest says '%Mankind dies and is carried away by two clerics.'[0m
+[32mSirdest says '%The arena master shouts 'Mankind of team 2 dies and is removed from [0m[32mthe arena!'.'[0m
+[32mSirdest says '%This room is filled with healing equipment and here the clerics revive [0m[32mthe.'[0m
+[32mSirdest says '%Obvious exit is: east.'[0m
+[32mSirdest says '%Hp:4/485(+60) Sp:879/1011(+40) Ep:267/267() || Cash: 0() Exp: 93().'[0m
+[32mSirdest says '%The arena master shouts 'Fight is over! Winner is team 1 which [0m[32mconsists of Gotrek'.'[0m

@@ -1,0 +1,691 @@
+The arena master shouts 'Team 1 consists of Jacen'
+The arena master shouts 'Team 2 consists of Stargazer'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '% close door.'[0m
+[32mSirdest says '%You close team 1 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Jacen'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Stargazer'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%Hp:1189/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '% close door.'.'[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:1189/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '% l.'.'[0m
+la arena
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Stargazer.'[0m
+[32mSirdest says '%You tear Stargazer producing large scratches.'[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         867/917   991/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1140/1189  767/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:22] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%You try to dodge, but Stargazer is not fooled.'[0m
+[32mSirdest says '%Stargazer stomp-kicks you in the thigh.'[0m
+[32mSirdest says '%hp: 1140-49 (1189) sp: 767 (792) ep: 521 (530).'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+[32mSirdest says '%Hp:1189/1189 Sp:767/792 Ep:521/530 Exp:6513 >%% party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1189/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '%Arena grounds [0m[32m(w,sw,s).'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%Hp:1189/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '%Arena grounds [0m[32m(nw,n,w).'.'[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+la arena
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%Stargazer tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%Stargazer shrieks in pain from Lightsaber's devastating blow.'[0m
+[32mSirdest says '%You incise Stargazer causing a small wound.'[0m
+[32mSirdest says '%Stargazer successfully parries your slash.'[0m
+[32mSirdest says '%Stargazer smashes you making small marks.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%hp: 1118-22 (1189) sp: 767 (792) ep: 521 (530).'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '%Arena grounds [0m[32m(w,sw,s).'.'[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         790/917   991/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1118/1189  767/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:25] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '%Hp:1118/1189 [0m[32mSp:767/792 Ep:521/530 Exp:6513 >%You say '%Arena grounds.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%Sperwer grunts 'Hp: 1234 [0m[32m(1234) Sp: 29 (29) Ep: 412 (412).'.'[0m
+[32mSirdest says '%Stargazer leaves south.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tear Stargazer causing a small wound.'[0m
+[32mSirdest says '%You miss Stargazer.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '%Your movement [0m[32mprevents you from casting the spell.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+la arena
+[32mSirdest says '% party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%% tcc.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '% party [0m[32mreport.'.'[0m
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         743/917   991/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1118/1189  767/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:27] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[1;30mInfo: Teppo recovers from link death.[0m
+[32mSirdest says '%Stargazer shreds air with his hands and screams 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest says '%Stargazer shreds air with his hands and screams 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%You manage to break the pain with intense concentration!'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+la arena
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         743/917   884/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1118/1189  767/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:30] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mCalmis grunts 'kova spammeri.'[0m
+Ignore [32m[sales]:[0m  dahbec crown 10k, green glove 15k, river daughter belt 15k, ruby neck 15k
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         743/917   884/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1118/1189  767/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:32] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Stargazer successfully parries your slash.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest says '%You successfully dodge Stargazer's attack.'[0m
+[32mSirdest says '%You successfully parry Stargazer's attack.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '% w.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+la arena
+[32mSirdest says '%You miss Stargazer.'[0m
+[32mSirdest says '%You miss Stargazer.'[0m
+[32mSirdest says '%You successfully parry Stargazer's attack.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%You bash your foe in berserk rage!!'[0m
+[32mSirdest says '% party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         743/917   884/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1118/1189  767/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:33] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%Sperwer grunts 'Hp: 1234 [0m[32m(1234) Sp: 29 (29) Ep: 412 (412).'.'[0m
+[32mSirdest says '% tcc.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '%You miss [0m[32mStargazer.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:767/792 Ep:521/530 Exp:6513 >%You say '%You miss [0m[32mStargazer.'.'[0m
+Urza [1;30m[chat]:[0m god i hate snape
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         743/917   884/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1118/1189  767/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:34] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '%Stargazer claps his hands and whispers 'yugzhrr' [57m(Hemorrhage)[32m.'[0m
+[32mSirdest says '%Stargazer fails to touch you.'[0m
+[32mSirdest says '%You bash your foe in berserk rage!!'[0m
+[32mSirdest says '%Spider Queen smiles upon you and helps you control the demon.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:747/792 Ep:521/530 Exp:6513 >%You say '%Spider Queen [0m[32msmiles upon you and helps you control the demon.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         743/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1118/1189  747/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:36] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mCalmis grunts 'jaah.'[0m
+[32mAedos sits onerously on Ssmud.[0m
+[32mSirdest says '% ne.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Stargazer.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%hp: 1118 (1189) sp: 747-20 (792) ep: 521 (530).'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:747/792 Ep:521/530 Exp:6513 >%Aedos sits onerously on [0m[32mSsmud.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:747/792 Ep:521/530 Exp:6513 >%You say '%You are not in [0m[32ma party.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+[32mSirdest says '% tcc.'[0m
+la arena
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:747/792 Ep:521/530 Exp:6513 >%You say '% tcc.'.'[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         743/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1118/1189  747/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:39] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+,-----------------------------------------------------------------------.
+| Time    Channel           Program                                     |
+|-----------------------------------------------------------------------|
+| 22:40   YLE TV1           Julkkis                                     |
+`-----------------------------------------------------------------------'
+[1;37mDupre [0;53m(fall+):[1;37m eihä ne osu toisiisa :P[0m
+[32mSirdest says '%You turn visible.'[0m
+[32mSirdest says '%Garou tells you 'help spell tiger claw' (Sat Jul 16 22:37:16 2005).'[0m
+[32mSirdest says '%You shred air with your tiger claws and scream 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest says '%You shred air with your tiger claws and scream 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest exclaims '%As Stargazer drops to his knees you leap in for the kill!'[0m
+[32mSirdest says '%hp: 1118 (1189) sp: 629-118 (792) ep: 521 (530).'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You successfully dodge Stargazer's attack.'[0m
+[32mSirdest says '%Lightsaber glows with power as it sinks into Stargazer.'[0m
+[32mSirdest says '%You horribly shred Stargazer causing a leg freeze and shatter.'[0m
+[32mSirdest says '%You tear Stargazer inducing a nasty lesion.'[0m
+[32mSirdest says '%You bash your foe in berserk rage!!'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:629/792 Ep:521/530 Exp:6513 >%You say '%You are not in [0m[32ma party.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         486/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1118/1189  629/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:42] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% tcc.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1118/1189 Sp:629/792 Ep:521/530 Exp:6513 >%You say '% tcc.'.'[0m
+Peelo arrives from down.
+Gogi [32m[sales]:[0m aje kej od tega dobrga zame
+[32mSirdest says '% sw.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%Stargazer tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You incise Stargazer sparking a limb to slice open.'[0m
+[32mSirdest says '%Stargazer successfully parries your slash.'[0m
+[32mSirdest says '%Stargazer smashes you making small marks.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%hp: 1102-16 (1189) sp: 629 (792) ep: 521 (530).'[0m
+[32mSirdest says '%Hp:1102/1189 Sp:629/792 Ep:521/530 Exp:6513 >%You say '% sw.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+[32mChizra booms 'heh heh what i said.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1102/1189 Sp:629/792 Ep:521/530 Exp:6513 >%You say '%Stargazer [0m[32mmisses you.'.'[0m
+la arena
+[32mSirdest says '% tcc.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1102/1189 Sp:629/792 Ep:521/530 Exp:6513 >%Chizra booms 'heh heh [0m[32mwhat i said.'.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         428/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1102/1189  629/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:45] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mGotrek laughs out loud.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%hp: 1124+22 (1189) sp: 648+19 (792) ep: 530+9 (530).'[0m
+[32mSirdest says '%You bash your foe in berserk rage!!'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         428/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1124/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:48] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%% tcc.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%Your movement [0m[32mprevents you from casting the spell.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         428/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1124/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:49] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSsmud rolls on the floor laughing.[0m
+[32mCalmis grunts 'nojoo.'[0m
+[32mSirdest says '% torso stargazer.'[0m
+[32mSirdest exclaims '%The ghost of Grand Master Torturer laughs at you!'[0m
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '% torso [0m[32mstargazer.'.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+la arena
+Someone arrives from down.
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%Your movement [0m[32mprevents you from casting the spell.'.'[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         428/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1124/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:51] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%You start [0m[32mchanting.'.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (e,s,se).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Stargazer successfully parries your slash.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%Your movement [0m[32mprevents you from casting the spell.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+Someone leaves east.
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%Sperwer grunts 'Hp: 1234 [0m[32m(1234) Sp: 29 (29) Ep: 412 (412).'.'[0m
+[1;37mJuo [0;53m[fall+]:[1;37m ketkä whot[0m
+la arena
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%You start [0m[32mchanting.'.'[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         428/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1124/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:52] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSsmud rolls on the floor laughing.[0m
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e).'[0m
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '% s.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         428/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1124/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:53] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Arena grounds (e,s,se).'[0m
+[32mSirdest says '%Hp:1124/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%Arena grounds [0m[32m(e,s,se).'.'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         428/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1124/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:55] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Grinning diabolically you savagely shave Stargazer inducing a shock to [0m[32mthe heart.'[0m
+[32mSirdest says '%Stargazer punches you making small marks.'[0m
+[32mSirdest says '%You successfully parry Stargazer's attack.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%hp: 1090-34 (1189) sp: 648 (792) ep: 530 (530).'[0m
+[32mSirdest says '%Hp:1090/1189 Sp:648/792 Ep:530/530 Exp:6513 >%%Stargazer starts [0m[32mconcentrating on a new offensive spell.'[0m
+[32mSirdest says '%Garou tells you 'help skill quick chant :)'.'[0m
+[32mPeelo exclaims 'Critin vinhasin!'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1090/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%hp: 1090-34 [0m[32m(1189) sp: 648 (792) ep: 530 (530).'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%Hp:1090/1189 Sp:648/792 Ep:530/530 Exp:6513 >%Sperwer grunts 'Hp: 1234 [0m[32m(1234) Sp: 29 (29) Ep: 412 (412).'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer          93/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1090/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:56] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%Hp:1090/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%Arena grounds [0m[32m(w,sw,s).'.'[0m
+[32mSirdest says '%Stargazer smashes you making small marks.'[0m
+[32mSirdest says '%You successfully parry Stargazer's attack.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%You tear Stargazer causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You miss Stargazer.'[0m
+[32mSirdest says '%hp: 1071-19 (1189) sp: 648 (792) ep: 530 (530).'[0m
+[32mSirdest says '% tcc.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%Stargazer [0m[32msmashes you making small marks.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer          41/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1071/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:57] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%You are not in [0m[32ma party.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer          41/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1071/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:37:59] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% wave stargazer.'[0m
+[32mSirdest says '%You emote to Stargazer 'waves you goodbye.'.'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '% wave [0m[32mstargazer.'.'[0m
+[32mSsmud quacks 'done.'[0m
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '% s.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer          41/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1071/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:38:00] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mPeelo goes 'Heh'.[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest says '%Stargazer successfully parries your slash.'[0m
+[32mSirdest says '%You successfully parry Stargazer's attack.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%Stargazer misses you.'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '% w.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+Gogi [32m[sales]:[0m sorry wrong chanell
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer          30/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1071/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:38:01] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '% party [0m[32mreport.'.'[0m
+[32mSirdest says '% ne.'[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '% ne.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer          30/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1071/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:38:03] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Madmalk [1;30m[chat]:[0m Sirius?
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%Arena grounds (e,s,se).'[0m
+[32mSirdest says '%Stargazer Salvation the Triton is Mr. Emotion (DEPRESSION) <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Stargazer successfully dodges your futile slash.'[0m
+[32mSirdest says '%You tear Stargazer inducing a shock to the heart.'[0m
+[32mSirdest says '%Stargazer lapses into [51munconscious[32mness from severe loss of blood.'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '% w.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%Sperwer grunts 'Hp: 1234 [0m[32m(1234) Sp: 29 (29) Ep: 412 (412).'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer         -17/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1071/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:38:04] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Torso Maker is ready to cut meat!!'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You incise Stargazer inducing the heart to totally freeze.'[0m
+[32mSirdest says '%You incise Stargazer inducing a shock to the heart.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1071/1189 Sp:648/792 Ep:530/530 Exp:6513 >%You say '%You are not in [0m[32ma party.'.'[0m
+[32mSperwer grunts 'Hp: 1234 (1234) Sp: 29 (29) Ep: 412 (412).'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Stargazer        -165/917   836/991  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1071/1189  648/792  |                                      |
+`-----------------------------------------------------------------------------'
+[22:38:06] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mCalmis says 'Oh', with a blank look on his face.[0m
+[32mXunisiih quacks 'hoho.'[0m
+[32mCalmis asks 'avoid?'[0m
+The arena master shouts 'Stargazer of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Jacen'
+Urza [1;30m[chat]:[0m all i'm gonna say about it tho... so i don't spoil anything for anybody....
+[32mSirdest says '%Blood pours from Stargazer's wounds.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Stargazer howls in pain as it feels the anger of Lightsaber.'[0m
+[32mSirdest says '%You incise Stargazer inducing the heart to totally freeze.'[0m
+[32mSirdest says '%You tear Stargazer causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You get bad vibrations as Stargazer's spine snaps with an audible [0m[32m*SNAP*.'[0m
+[32mSirdest says '%Stargazer dies and is carried away by two clerics.'[0m
+[32mSirdest says '%The arena master shouts 'Stargazer of team 2 dies and is removed from [0m[32mthe arena!'.'[0m
+[32mSirdest says '%Stargazer leaves away.'[0m
+[32mSirdest says '%The arena master shouts 'Fight is over! Winner is team 1 which [0m[32mconsists of Jacen'.'[0m

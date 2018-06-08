@@ -1,0 +1,896 @@
+The arena master shouts 'Team 1 consists of Tackle'
+The arena master shouts 'Team 2 consists of Kerzebel'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%You close team 1 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Tackle'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Kerzebel'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%** Cost for 'close door': Cost: utime:467 stime:3 ticks:911878 **.'[0m
+[32mSirdest says '%Hp:1263/1291 Sp:570/585 Ep:458/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mclose team 1 door.'.'[0m
+[32mSirdest says '%hp: 1291 (1291) [+28] sp: 585 (585) [+15] ep: 512 (512) [+54].'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%*Tackle Pearl Tick Timed: 2:16.'[0m
+[32mSirdest says '%Hp:1291/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%*Tackle Pearl Tick Timed: 2:16.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1217/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1291/1291  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:08] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Kerzebel leaves south.'[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1291/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '% [0m[32ml.'.'[0m
+Conquer the owl [35m(wanted):[0m useless to cap at 400 wis, anyone can get there these days!
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1291/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%Conquer the [0m[32mowl [35m(wanted):[32m useless to cap at 400 wis, anyone can get there these.'[0m
+la arena
+[32mSirdest says '%Conquer the owl [35m(wanted):[32m useless to cap at 400 wis, anyone can get [0m[32mthere these.'[0m
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1217/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1291/1291  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:11] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1291/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1291/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1291/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '% [0m[32mw.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1217/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1291/1291  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:12] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1291/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%.'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1291/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+la arena
+[56mTICK IN 5 SECONDS.[0m
+Eronk [35m[wanted]:[0m owls dont have HANDS!
+       
+ [31m####[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1217/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1291/1291  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:16] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest exclaims '%Eronk [35m[wanted]:[32m owls dont have HANDS!'[0m
+[32mSirdest says '%You cut Kerzebel causing skin to sizzle.'[0m
+[32mSirdest says '%You cut Kerzebel inducing a strangling.'[0m
+[32mSirdest says '%You lightly cut Kerzebel causing a small scratch.'[0m
+[32mSirdest says '%You lightly cut Kerzebel making small marks.'[0m
+[32mSirdest says '%Kerzebel tears you producing large scratches.'[0m
+[32mSirdest says '%You successfully parry Kerzebel's bash.'[0m
+[32mSirdest says '%hp: 1242 (1291) [-49] sp: 585 (585) [] ep: 512 (512) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1242(1291)[54m  585( 585)[32m 512(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Kerzebel is in excellent shape. [0m(90-100% hps)[32m'[0m
+la arena
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+       
+ [31m####[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1128/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1242/1291  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:17] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest exclaims '%No krr here !'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You exclaim [0m[32m'%No krr here !'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mstart concentrating on the skill.'.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%You cut Kerzebel inducing a strangling.'[0m
+[32mSirdest says '%You hurt Kerzebel who seems to become somewhat confused.'[0m
+[32mSirdest says '%You cut Kerzebel causing a small scratch.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1242(1291)[54m  585( 585)[32m 512(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1088/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1242/1291  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:20] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Kerzebel is in a good shape.'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is in a good shape.'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is in a good shape.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m21[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1135/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1242/1291  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:25] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% cast spider web.'[0m
+[32mSirdest says '%You have an unusual feeling as you cast the spell.'[0m
+[32mSirdest says '%You break your skill attempt.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '% [0m[32mcast spider web.'.'[0m
+[1;35mThe devil monkey of Brokus whispers: You become what you think about. [0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '% [0m[32ml.'.'[0m
+[32mSirdest says '%Tixe tells you 'go go go, you're winning'.'[0m
+[32mSirdest says '%*Tackle spider web -> 3.'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%*Tackle spider web -> 3.'.'[0m
+Spiral [35m(wanted):[0m wis still helps for owls and nuns
+[32mSirdest says '%Spiral [35m(wanted):[32m wis still helps for owls and nuns.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m21[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1135/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1242/1291  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:30] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '%Tackle [1;30m[report]:[0;32m spider web -> 1.'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:585/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Tackle [1;30m[report]:[0;32m spider web -> 1.'.'[0m
+Spiral [35m(wanted):[0m for tarms it's useless
+la arena
+[32mSirdest says '%Spiral [35m(wanted):[32m for tarms it's useless.'[0m
+       
+ [31m####[0m  
+ [31m#[35m21[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1135/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1242/1291  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:33] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You weave the web with your hands and chant 'infernalicus thanatos [0m[32marachnidos' [57m(Spider demon banishment)[32m.'[0m
+[32mSirdest says '%The area is covered in magical spider webs.'[0m
+[32mSirdest exclaims '%A horde of tiny spiders crawls down from the web!'[0m
+[32mSirdest exclaims '%The horde of spiders crawls to west!'[0m
+[32mSirdest exclaims '%A horde of tiny spiders crawls in!'[0m
+[32mSirdest exclaims '%The horde of spiders crawls to south!'[0m
+[32mSirdest exclaims '%A horde of tiny spiders crawls in!'[0m
+[32mSirdest exclaims '%The horde of spiders crawls to south!'[0m
+[32mSirdest exclaims '%A horde of tiny spiders crawls in!'[0m
+[32mSirdest says '%The horde of spiders disperses in all directions.'[0m
+[32mSirdest says '%hp: 1242 (1291) [] sp: 534 (585) [-51] ep: 512 (512) [].'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m21[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1135/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1242/1291  534/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:36] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:534/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%The web blocks your way, but you try to force yourself through it.'[0m
+[32mSirdest exclaims '%You fail to rip the web!'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:516/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '% [0m[32mw.'.'[0m
+[1;30mInfo: Suikale goes link dead.[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest exclaims '%You are too badly stuck to do that!'[0m
+[32mSirdest says '%Hp:1242/1291 Sp:516/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '% [0m[32mw.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m21[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1135/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1242/1291  516/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:40] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Eronk [35m[wanted]:[0m how come :(
+[32mSirdest says '%Eronk [35m[wanted]:[32m how come :(.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1264/1291 Sp:540/585 Ep:512/512 Weight:38 Rms:9955 >>%%Spider walk: [0m[32m##.'[0m
+[32mSirdest says '%*Tackle spider walk -> 2.'[0m
+[32mSirdest says '%Hp:1264/1291 Sp:540/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%*Tackle spider walk -> 2.'.'[0m
+la arena
+Spiral [35m(wanted):[0m uumm...druids and nuns even
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m21[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1135/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1264/1291  540/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:45] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Spiral [35m(wanted):[32m uumm...druids and nuns even.'[0m
+Cyberlahko [1;30m[bat]:[0m i'd say that job goes to kawasa, maye
+[32mSirdest says '%Cyberlahko [1;30m[bat]:[0;32m i'd say that job goes to kawasa, maye.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '% @party report spider walk -> 1.'[0m
+[32mSirdest says '%Tackle [1;30m[report]:[0;32m spider walk -> 1.'[0m
+[32mSirdest says '%Hp:1264/1291 Sp:540/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '% [0m[32m@party report spider walk -> 1.'.'[0m
+[1;30mInfo: Skyline recovers from link death.[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1264/1291 Sp:540/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%.'.'[0m
+[1;37mMardus [0;52m<party>:[1;37m ee hele[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m21[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1135/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1264/1291  540/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:48] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Eronk [35m[wanted]:[0m 350 wis doesnt hit healcap always!
+[32mSirdest exclaims '%Eronk [35m[wanted]:[32m 350 wis doesnt hit healcap always!'[0m
+[32mSirdest says '%You weave the Walk with your hands and chant 'Khizanth Arachnidus [0m[32mWalkitus' [57m(Spider walk)[32m.'[0m
+[32mSirdest says '%For some reason you want to run on the walls for a little while.'[0m
+[32mSirdest says '%hp: 1264 (1291) [] sp: 508 (585) [-32] ep: 512 (512) [].'[0m
+[32mSirdest says '%Tackle [1;30m[report]:[0;32m (Spider Walk up) (cast by Tackle).'[0m
+[32mSirdest says '%Hp:1264/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Tackle [1;30m[report]:[0;32m (Spider Walk up) (cast by Tackle).'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+la arena
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Kerzebel causing an infection.'[0m
+[32mSirdest says '%You tear Kerzebel causing a small scratch.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You cut Kerzebel causing a small scratch.'[0m
+[32mSirdest says '%You successfully parry Kerzebel's slash.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1033/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1219/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:51] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%Kerzebel thrusts you producing large scratches.'[0m
+[32mSirdest says '%Kerzebel is drained as she attacks you through your barrier of [0m[32mdarkness.'[0m
+[32mSirdest says '%hp: 1219 (1291) [-45] sp: 508 (585) [] ep: 512 (512) [].'[0m
+[32mSirdest says '%** Cost for 'w': Cost: utime:11 stime:0 ticks:116772 **.'[0m
+[32mSirdest says '%Hp:1219/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1219(1291)  508( 585) 512(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1219/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Kerzebel is in a good shape.'[0m
+[32mSirdest says '%Hp:1219/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is in a good shape.'[0m
+[32mSirdest says '%Hp:1219/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is in a good shape.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1219/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mstart concentrating on the skill.'.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+la arena
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1005/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1175/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:53] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%Kerzebel shreds you inducing a minor poison burn.'[0m
+[32mSirdest says '%Kerzebel is drained as she attacks you through your barrier of [0m[32mdarkness.'[0m
+[32mSirdest says '%Kerzebel is drained as she attacks you through your barrier of [0m[32mdarkness.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%hp: 1175 (1291) [-44] sp: 508 (585) [] ep: 512 (512) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1175(1291)  508( 585) 512(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1175/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mmiss Kerzebel.'.'[0m
+[32mSirdest says '%Kerzebel is in a good shape.'[0m
+[32mSirdest says '%Hp:1175/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say '%hp: [0m[32m1175 (1291) [-44] sp: 508 (585) [] ep: 512 (512) [].'.'[0m
+[32mSirdest says '%Kerzebel is in a good shape.'[0m
+[32mSirdest says '%Hp:1175/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[1;30mInfo: Lurkku left the game.[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         1005/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1175/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:55] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Kerzebel is knocked senseless by the shear power of MageKiller's [0m[32mattack.'[0m
+[32mSirdest says '%You cut Kerzebel causing an infection.'[0m
+[32mSirdest says '%You lightly cut Kerzebel causing a small scratch.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%Kerzebel tears you producing large scratches.'[0m
+[32mSirdest says '%Kerzebel strokes you producing large scratches.'[0m
+[32mSirdest says '%Kerzebel is drained as she attacks you through your barrier of [0m[32mdarkness.'[0m
+[32mSirdest says '%hp: 1092 (1291) [-83] sp: 508 (585) [] ep: 512 (512) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1092(1291)  508( 585) 512(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1092/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Kerzebel is slightly hurt.'[0m
+[32mSirdest says '%Hp:1092/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is slightly hurt.'[0m
+[32mSirdest says '%Hp:1092/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is slightly hurt.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          939/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1092/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:13:57] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest exclaims '%Kerzebel tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You cut Kerzebel causing a small scratch.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1092(1291)  508( 585) 512(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1092/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You exclaim [0m[32m'%Kerzebel tries to dodge your hit, but you are not fooled that.'[0m
+[32mSirdest says '%Kerzebel is slightly hurt.'[0m
+la arena
+[32mSirdest says '%Hp:1092/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is slightly hurt.'[0m
+[32mSirdest says '%Hp:1092/1291 Sp:508/585 Ep:512/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is slightly hurt.'.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          919/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1092/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:00] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Rota [35m[wanted]:[0m expi
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%Kerzebel successfully parries your slash.'[0m
+[32mSirdest exclaims '%Kerzebel tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You cut Kerzebel causing a small scratch.'[0m
+[32mSirdest exclaims '%Kerzebel tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+la arena
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          601/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1068/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:06] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Smiling devilishly you incisively cut Kerzebel making rib bones snap [0m[32mand crack.'[0m
+[32mSirdest says '%You successfully parry Kerzebel's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%You are prepared to do the skill.'[0m
+la arena
+[32mSirdest says '%Your blow impacts with chaotic force...'[0m
+[32mSirdest says '%A quick feint leaves an opening that you exploit for a deep thrust [0m[32minto.'[0m
+[32mSirdest says '%Kerzebel suffers as poison from your blade enters her blood stream.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          601/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1068/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:08] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%hp: 1117 (1291) [+25] sp: 508 (585) [] ep: 485 (512) [-27].'[0m
+[32mSirdest says '%Tixe tells you 'you're owning him'.'[0m
+[32mSirdest says '%Rota [35m[wanted]:[32m expi.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1117(1291)  508( 585) 485(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1117/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel successfully parries your slash.'.'[0m
+[32mSirdest says '%Kerzebel is not in a good shape.'[0m
+[32mSirdest says '%Hp:1117/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You exclaim [0m[32m'%Kerzebel tries to dodge your hit, but you are not fooled that.'[0m
+[32mSirdest says '%Kerzebel is not in a good shape.'[0m
+[32mSirdest says '%Hp:1117/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mcut Kerzebel causing a small scratch.'.'[0m
+[32mSirdest exclaims '%Tackle [52m[party]:[32m CRITTED the fucker!'[0m
+[32mSirdest says '%Hp:1117/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You exclaim [0m[32m'%Kerzebel tries to dodge your hit, but you are not fooled that.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1117/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You exclaim [0m[32m'%You score a CRITICAL hit!'.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%Kerzebel tears you creating a nasty infection.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%hp: 1068 (1291) [-49] sp: 508 (585) [] ep: 485 (512) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1068(1291)  508( 585) 485(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1068/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mare prepared to do the skill.'.'[0m
+[32mSirdest says '%Kerzebel is not in a good shape.'[0m
+[32mSirdest says '%Hp:1068/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Your blow impacts with chaotic force...'.'[0m
+[32mSirdest says '%Kerzebel is not in a good shape.'[0m
+[32mSirdest says '%Hp:1068/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say '%A [0m[32mquick feint leaves an opening that you exploit for a deep thrust.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          482/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            941/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:09] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You tear Kerzebel inducing a minor poison burn.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest exclaims '%Kerzebel tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You lightly cut Kerzebel producing large scratches.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%Kerzebel strokes you producing large scratches.'[0m
+[32mSirdest says '%Kerzebel is drained as she attacks you through your barrier of [0m[32mdarkness.'[0m
+[32mSirdest says '%hp: 1037 (1291) [-31] sp: 508 (585) [] ep: 485 (512) [].'[0m
+[32mSirdest exclaims '%You lunge at Kerzebel, but he turns your attack against you and [0m[32mslashes you!'[0m
+[32mSirdest says '%Kerzebel is drained as she attacks you through your barrier of [0m[32mdarkness.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr  941(1291)  508( 585) 485(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:941/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is drained as she attacks you through your barrier of.'[0m
+[32mSirdest says '%Kerzebel is not in a good shape.'[0m
+[32mSirdest says '%Hp:941/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is not in a good shape.'[0m
+[32mSirdest says '%Hp:941/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is not in a good shape.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          482/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            941/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:10] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;30mInfo: Za left the game.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%You successfully parry Kerzebel's bash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr  941(1291)  508( 585) 485(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:941/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say '%You [0m[32msuccessfully parry Kerzebel's bash.'.'[0m
+[32mSirdest says '%Kerzebel is not in a good shape.'[0m
+[32mSirdest says '%Hp:941/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is not in a good shape.'[0m
+[32mSirdest says '%Hp:941/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is not in a good shape.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          481/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            941/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:13] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest exclaims '%Kerzebel tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You cut Kerzebel causing bad burns.'[0m
+[32mSirdest says '%You lightly cut Kerzebel producing large scratches.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%You successfully parry Kerzebel's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[1;30mInfo: Za enters the game.[0m
+[32mSirdest exclaims '%You howls in agony as the evil mace crushes bones!'[0m
+[32mSirdest says '%Kerzebel strokes you making hair burn.'[0m
+[32mSirdest says '%Kerzebel is drained as she attacks you through your barrier of [0m[32mdarkness.'[0m
+[32mSirdest says '%hp: 905 (1291) [-36] sp: 508 (585) [] ep: 485 (512) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr  905(1291)  508( 585) 485(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:905/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel strokes you making hair burn.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          409/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            905/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:16] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Kerzebel is in bad shape.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%Hp:905/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is in bad shape.'[0m
+[32mSirdest says '%Hp:905/1291 Sp:508/585 Ep:485/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is in bad shape.'.'[0m
+[32mSirdest says '%Your blow impacts with chaotic force...'[0m
+[32mSirdest says '%A blanket of rage shuts out all but Kerzebel.  Sensing her every move, [0m[32myou.'[0m
+[32mSirdest says '%Kerzebel suffers as poison from your blade enters her blood stream.'[0m
+[32mSirdest says '%hp: 936 (1291) [+31] sp: 508 (585) [] ep: 458 (512) [-27].'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Kerzebel causing toxins to fester on the limbs.'[0m
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You successfully parry Kerzebel's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%You successfully parry Kerzebel's bash.'[0m
+la arena
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr  936(1291)  508( 585) 458(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:936/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          170/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            936/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:18] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Kerzebel is in very bad shape.'[0m
+[32mSirdest says '%Hp:936/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is in very bad shape.'[0m
+[32mSirdest says '%Hp:936/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is in very bad shape.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:936/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mstart concentrating on the skill.'.'[0m
+[32mSirdest says '%You cut Kerzebel inducing a nasty internal infection.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest exclaims '%Kerzebel tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You cut Kerzebel snapping a collarbone.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%Kerzebel thrusts you causing a small wound.'[0m
+[32mSirdest says '%Kerzebel is drained as she attacks you through your barrier of [0m[32mdarkness.'[0m
+[32mSirdest says '%hp: 893 (1291) [-43] sp: 508 (585) [] ep: 458 (512) [].'[0m
+[32mSirdest says '%Tixe tells you 'he's got 400hps'.'[0m
+[32mSirdest says '%Kerzebel looks at you.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+la arena
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  893(1291)[32m  508( 585) 458(512) |  77 |       [0m[32m333815 |.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel          102/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            893/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:22] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:893/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mcut Kerzebel snapping a collarbone.'.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+[32mSirdest says '%Hp:893/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+[32mSirdest says '%Hp:893/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say '%| [0m[32m1.3   Tackle       [53m ldr  893(1291)[32m  508( 585) 458(512) |  77 |.'[0m
+Zard stretches out his arms slowly, flexing his bulging muscles.
+la arena
+[32mSirdest says '%*****************************************************.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel           39/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            785/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:25] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%You cut Kerzebel causing a NASTY head wound.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest exclaims '%Kerzebel tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You cut Kerzebel puncturing a hole, allowing entrails to spill [0m[32meverywhere.'[0m
+[32mSirdest says '%Kerzebel incises you causing a small wound.'[0m
+[32mSirdest says '%You try to dodge, but Kerzebel is not fooled.'[0m
+[32mSirdest says '%Kerzebel jabs you causing a nasty laceration.'[0m
+[32mSirdest says '%Kerzebel is drained as she attacks you through your barrier of [0m[32mdarkness.'[0m
+[32mSirdest says '%That really hurt! You just have to stop your skill.'[0m
+[32mSirdest says '%You[51m lose your concentration [32mand cannot do the skill.'[0m
+[32mSirdest says '%hp: 785 (1291) [-108] sp: 508 (585) [] ep: 458 (512) [].'[0m
+[32mSirdest says '%Kerzebel tries to slash Tackle, but her attack is easily blocked.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  785(1291)[32m  508( 585) 458(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mcut Kerzebel causing a NASTY head wound.'.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%%Kerzebel [0m[32mstarts concentrating on a new offensive skill.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You exclaim [0m[32m'%Kerzebel tries to dodge your hit, but you are not fooled that.'[0m
+[32mSirdest says '%She fails to rip the web.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel tries to slash Tackle, but her attack is easily blocked.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel           39/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            785/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:26] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+[32mSirdest says '%Kerzebel successfully parries your slash.'[0m
+[32mSirdest says '%Kerzebel successfully parries your slash.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%Tixe tells you 'you fucking rule'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  785(1291)[32m  508( 585) 458(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+la arena
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is near death.'.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel           39/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            785/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:28] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says 'good thing not to bet.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Kerzebel successfully dodges your futile slash.'[0m
+la arena
+[32mSirdest says '%You cut Kerzebel causing the soul to get sucked out.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel            4/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            785/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:33] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You miss Kerzebel.'[0m
+[32mFil is absolutely stunned and amazed and can only say 'Wow...'.[0m
+[32mSirdest exclaims '%Kerzebel tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You lightly cut Kerzebel causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest says '%Kerzebel misses you.'[0m
+[32mSirdest exclaims '%Kerzebel tries to rip the webs!'[0m
+[32mSirdest says '%She fails to rip the web.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  785(1291)[32m  508( 585) 458(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel successfully dodges your futile slash.'.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mcut Kerzebel causing the soul to get sucked out.'.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say '%You [0m[32mmiss Kerzebel.'.'[0m
+[32mSirdest prods Cilwand like a stray cow.[0m
+la arena
+[1;30mInfo: Simpro goes link dead.[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Kerzebel         -109/1217   28/28   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            785/1291  508/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:14:34] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You tear Kerzebel causing the head to explode from a poison blast.'[0m
+[32mSirdest says '%Kerzebel lapses into [51munconscious[32mness from severe loss of blood.'[0m
+[32mSirdest says '%You cut Kerzebel causing the soul to get sucked out.'[0m
+[32mSirdest says '%You cut Kerzebel causing the soul to get sucked out.'[0m
+[32mSirdest says '%You cut Kerzebel causing heart tissue to fly everywhere.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  785(1291)[32m  508( 585) 458(512) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Kerzebel is near death.'[0m
+[32mSirdest says '%Hp:785/1291 Sp:508/585 Ep:458/512 Weight:38 Rms:9955 >>%You say [0m[32m'%Kerzebel is near death.'.'[0m
+[32mZumbalo acks.[0m
+The arena master shouts 'Kerzebel of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Tackle'

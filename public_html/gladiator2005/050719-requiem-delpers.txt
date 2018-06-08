@@ -1,0 +1,1034 @@
+The arena master shouts 'Team 1 consists of Requiem'
+The arena master shouts 'Team 2 consists of Delpers'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Delpers'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mJuo buzzes 'ootellaa viel 5min että matsi alkaa.'[0m
+[1;30mInfo: Glacius goes link dead.[0m
+[32mEnochian says 'ei tunnu missään.'[0m
+la arena
+[32mSirdest says '% c.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m.[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers          1023/1023  717/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem          1239/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:43] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%Hp:1239/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% 1.'[0m
+[32mSirdest exclaims '%No delpers here !'[0m
+[32mSirdest says '%Hp:1239/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% c.'.'[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1239/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% l.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers          1023/1023  717/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem          1239/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:45] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '% l.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1239/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% l.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers          1023/1023  717/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem          1239/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:46] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%You try to dodge, but Delpers is not fooled.'[0m
+[32mSirdest says '%Delpers incises you causing skin to slightly freeze.'[0m
+[32mSirdest says '%Delpers successfully parries your slash.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile slash.'[0m
+[32mSirdest says '%Hp: 1186 -53 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%Delpers incises you making skin bubble and sizzle.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%You incise Delpers causing third degree burns.'[0m
+[32mSirdest says '%Delpers seems [51mhurt and confused[32m.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Hp: 1140 -46 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%Delpers is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1140/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% ...AND [0m[32mcounterattacks with ferocity.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1140/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers [0m[32msuccessfully dodges your futile slash.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1140/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Hp: 1186 -53 [0m[32mSp: 28  Ep: 176.'.'[0m
+[32mSirdest says '%Delpers is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1140/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers incises [0m[32myou making skin bubble and sizzle.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1140/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers misses [0m[32myou.'.'[0m
+[32mSirdest says '%Channel party is now on.'[0m
+[32mSirdest exclaims '%Requiem [52m[party]:[32m Delpers lost its concentration!'[0m
+[32mSirdest says '%Hp:1140/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You incise [0m[32mDelpers causing third degree burns.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           949/1023  710/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem          1140/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:48] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+*Roc is sooo cool.
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers incises you producing large scratches.'[0m
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%You incise Delpers causing a bad acid wound.'[0m
+[32mSirdest says '%Hp: 1092 -48 Sp: 28  Ep: 176.'[0m
+la arena
+[32mSirdest says '%Delpers is in a good shape.'[0m
+[32mSirdest says '%Hp:1092/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%...AND [0m[32mcounterattack with ferocity.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1092/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You miss [0m[32mDelpers.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           884/1023  710/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem          1092/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:50] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1092/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Your movement [0m[32mprevents you from doing the skill.'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1092/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very [0m[32mdark, but your infravision helps you..'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           884/1023  710/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem          1092/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:52] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+*Mystique squawks loudly.
+[32mSirdest says '%Hp:1092/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@use lure.'[0m
+Sirdar [1;30m<gladiator>:[0m Requiem went into battle with empty stomach, tsk..
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1092/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@party say Luring.'[0m
+[32mSirdest says '%Requiem [52m[party]:[32m Luring.'[0m
+[32mSirdest says '%Hp:1092/1282 Sp:28/28 Ep:176/406 [0m[32mExp:[7277]>%%*****************************************************.'[0m
+[32mSirdest says '%You try to dodge, but Delpers is not fooled.'[0m
+[32mSirdest says '%Delpers incises you producing large scratches.'[0m
+[32mSirdest says '%You try to dodge, but Delpers is not fooled.'[0m
+[32mSirdest says '%You become somewhat confused, losing your edge.'[0m
+[32mSirdest says '%...BUT you break it off with intense concentration.'[0m
+[32mSirdest says '%Delpers incises you causing a small wound.'[0m
+[32mSirdest says '%Delpers successfully parries your slash.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Hp: 988 -104 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%Delpers is in a good shape.'[0m
+[32mSirdest says '%Hp:988/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Hp:1092/1282 [0m[32mSp:28/28 Ep:176/406 Exp:[7277]>%% @@party say Luring.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:988/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Requiem [52m[party]:[32m [0m[32mLuring.'.'[0m
+[32mSirdest says '%Requiem [52m[party]:[32m Got Stunned! (2/6).'[0m
+[32mSirdest says '%Hp:988/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Hp:1092/1282 [0m[32mSp:28/28 Ep:176/406 Exp:[7277]>%%************************.'[0m
+[32mSirdest exclaims '%Requiem [52m[party]:[32m ...BUT I broke it off!'[0m
+[32mSirdest says '%Hp:988/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You try to [0m[32mdodge, but Delpers is not fooled.'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:988/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers is in a [0m[32mgood shape.'.'[0m
+la arena
+[1;30mInfo: Glycoli enters the game.[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           884/1023  710/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           988/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:54] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:988/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You exclaim '%You are [0m[32malready fighting!'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:988/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% ###.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:988/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Your movement [0m[32mprevents you from doing the skill.'.'[0m
+la arena
+Amd arrives from down.
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           884/1023  655/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           985/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:56] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%Hp: 985 -3 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '% #..'[0m
+[32mSirdest says '%Hp:985/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% #..'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:985/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very dark, [0m[32mbut your infravision helps you..'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           884/1023  655/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           985/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:57] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+Juo leaves west.
+[32mSirdest says '% l.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:985/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% l.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+la arena
+[32mSirdest says '%You tear Delpers causing third degree burns.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile slash.'[0m
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest says '%Delpers tears you producing large scratches.'[0m
+[32mSirdest says '%Hp: 950 -35 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%Hp:950/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say [0m[32m'%*****************************************************.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           831/1023  655/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           950/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:38:59] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%Delpers is in a good shape.'[0m
+[32mSirdest says '%Hp:950/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You tear Delpers [0m[32mcausing third degree burns.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:950/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers [0m[32msuccessfully dodges your futile slash.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:950/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You start [0m[32mconcentrating on the skill.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:950/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% ###.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           831/1023  655/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           950/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:01] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%Hp: 849 -101 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile slash.'[0m
+[32mSirdest says '%You incise Delpers causing a small wound.'[0m
+[32mSirdest says '%You try to dodge, but Delpers is not fooled.'[0m
+[32mSirdest says '%Smiling devilishly Delpers uncontrollably slashes you making the head [0m[32mexplode from a MASSIVE acid blast.'[0m
+[32mSirdest says '%Delpers incises you making limbs stiffen with ice.'[0m
+[32mSirdest says '%Hp: 469 -380 Sp: 28  Ep: 176.'[0m
+[32mSirdest exclaims '%Requiem [52m[party]:[32m Came out of Stun!'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You feel your [0m[32mhead clearing up.'.'[0m
+[32mSirdest says '%Delpers is slightly hurt.'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You are no [0m[32mlonger stunned.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Hp: 849 -101 Sp: [0m[32m28  Ep: 176.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           776/1023  544/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           469/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:03] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very dark, [0m[32mbut your infravision helps you..'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           776/1023  544/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           469/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:05] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very dark, [0m[32mbut your infravision helps you..'.'[0m
+[32mSirdest says '% ...'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% ...'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           776/1023  544/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           469/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:07] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[1;37mDupre [0;52m(party):[1;37m juoksis vaa delpersi pakoo ni se kuolee famishii toi :D[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very dark, [0m[32mbut your infravision helps you..'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% ###.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           776/1023  544/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           469/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:09] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very dark, [0m[32mbut your infravision helps you..'.'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@use lure.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@party say Luring.'[0m
+[32mSirdest says '%Requiem [52m[party]:[32m Luring.'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Hp:469/1282 [0m[32mSp:28/28 Ep:176/406 Exp:[7277]>%% @@use lure.'.'[0m
+[32mSirdest says '% #..'[0m
+la arena
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% #..'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m.[35m2[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           776/1023  544/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           469/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:10] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest exclaims '%No delpers here !'[0m
+[32mSirdest says '%Hp:469/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You exclaim '%No delpers [0m[32mhere !'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%You try to dodge, but Delpers is not fooled.'[0m
+[32mSirdest says '%Delpers tears you making limbs stiffen with ice.'[0m
+[32mSirdest says '%Hp: 434 -35 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Your movement [0m[32mprevents you from doing the skill.'.'[0m
+[32mSirdest says '%Delpers is slightly hurt.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You try to [0m[32mdodge, but Delpers is not fooled.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers tears [0m[32myou making limbs stiffen with ice.'.'[0m
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers is [0m[32mslightly hurt.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           770/1023  544/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           434/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:12] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@use lure.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@party say Luring.'[0m
+[32mSirdest says '%Requiem [52m[party]:[32m Luring.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Hp:434/1282 [0m[32mSp:28/28 Ep:176/406 Exp:[7277]>%% @@use lure.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You start [0m[32mconcentrating on the skill.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           795/1023  562/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           434/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:14] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Your movement [0m[32mprevents you from doing the skill.'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very dark, [0m[32mbut your infravision helps you..'.'[0m
+[1;30mInfo: Ramjett recovers from link death.[0m
+la arena
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@use lure.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           795/1023  562/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           434/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:15] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@party say Luring.'[0m
+[32mSirdest says '%Requiem [52m[party]:[32m Luring.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Hp:434/1282 [0m[32mSp:28/28 Ep:176/406 Exp:[7277]>%% @@use lure.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You start [0m[32mconcentrating on the skill.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m.[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           795/1023  562/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           434/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:16] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% ###.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%You incise Delpers causing third degree burns.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Delpers is slightly hurt.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% pr.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers is [0m[32mslightly hurt.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           738/1023  562/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           434/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:18] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '% 1.'[0m
+[32mSirdest exclaims '%No delpers here !'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% 1.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%You incise Delpers causing a nasty laceration.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile slash.'[0m
+la arena
+[32mSirdest says '%Delpers is slightly hurt.'[0m
+[1;30mInfo: Rhoads enters the game.[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% pr.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           670/1023  562/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           434/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:20] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers is [0m[32mslightly hurt.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '% cc.'[0m
+[32mSirdest says '%You are using 'lure'.'[0m
+[32mSirdest says '%Hp:434/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% cc.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           670/1023  562/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           434/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:22] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest says '%Delpers successfully parries your slash.'[0m
+[32mSirdest says '%Delpers successfully parries your slash.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%Hp: 428 -6 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%Delpers is noticeably hurt.'[0m
+[32mSirdest says '%Hp:428/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers [0m[32msuccessfully parries your slash.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:428/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers [0m[32msuccessfully parries your slash.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           661/1023  562/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           428/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:24] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%Hp: 403 -25 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers tears you sparking a limb to slice open.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%You incise Delpers causing bad burns.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Hp: 363 -40 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%Delpers is noticeably hurt.'[0m
+[32mSirdest says '%Hp:363/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You incise [0m[32mDelpers causing bad burns.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:363/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You miss [0m[32mDelpers.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           605/1023  562/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           363/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:26] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+Brog arrives from down.
+Rhoads [1;30m[ifin]:[0m kuuleeko holmokura
+[32mSirdest says '%Delpers shreds air with his hands and screams 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest says '%Delpers shreds air with his hands and screams 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%Hp: 284 -79 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest exclaims '%Requiem [52m[party]:[32m Came out of Stun!'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You exclaim '%The pain [0m[32mforces you to your knees!'.'[0m
+[32mSirdest says '%Delpers is noticeably hurt.'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You feel your [0m[32mhead clearing up.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You are no [0m[32mlonger stunned.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           605/1023  451/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           284/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:29] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '% cc.'[0m
+[32mSirdest says '%You are not doing anything at the moment.'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% cc.'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very dark, [0m[32mbut your infravision helps you..'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m2[31m..#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           605/1023  451/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           284/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:32] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very dark, [0m[32mbut your infravision helps you..'.'[0m
+[32mSirdest says '% ...'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% ...'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#...#[0m 
+ [31m#[35m21[31m.#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           605/1023  451/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           284/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:34] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%It is very dark, [0m[32mbut your infravision helps you..'.'[0m
+Juo arrives from west.
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@use lure.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% @@party say Luring.'[0m
+[32mSirdest says '%Requiem [52m[party]:[32m Luring.'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% x.'.'[0m
+[32mSirdest says '% ###.'[0m
+la arena
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% ###.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#.[35m2[31m.#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           630/1023  468/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           284/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:36] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mJuo buzzes '[17:39]:Delpers [saato+]: ei oo hyva gprs tahan.'[0m
+[32mSirdest says '%Delpers arrives from south.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest exclaims '%Delpers tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You incise Delpers causing a nasty laceration.'[0m
+[32mSirdest says '%Delpers successfully parries your slash.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%Delpers is noticeably hurt.'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% pr.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers arrives [0m[32mfrom south.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m21[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           570/1023  468/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           284/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:38] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+Walciz arrives from down.
+[32mSirdest says '%Delpers arrives from west.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           570/1023  468/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           284/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:40] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+*Mystique squawks loudly.
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%You incise Delpers ripping off a hand with a hydrochloric blast.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%Delpers is not in a good shape.'[0m
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers misses [0m[32myou.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+la arena
+[32mSirdest says '%Hp:284/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers is not [0m[32min a good shape.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           510/1023  468/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           284/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:41] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%Hp: 209 -75 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tear Delpers making skin scorch.'[0m
+[32mSirdest says '%Delpers incises you causing vital organs to sizzle with a hypochlorous [0m[32mblast.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%Delpers horribly shreds you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Hp: 82 -127 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%Delpers is not in a good shape.'[0m
+[32mSirdest says '%Hp:82/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Hp: 209 -75 Sp: [0m[32m28  Ep: 176.'.'[0m
+la arena
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:82/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest exclaims '%Requiem [52m[party]:[32m I'm DYING!'[0m
+[32mSirdest says '%Hp:82/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You tear Delpers [0m[32mmaking skin scorch.'.'[0m
+[32mSirdest exclaims '%Requiem [52m[party]:[32m I'm DYING!'[0m
+[32mSirdest says '%Hp:82/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers incises [0m[32myou causing vital organs to sizzle with a.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           460/1023  357/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem            82/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:44] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%Hp:82/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You try to act [0m[32mbut just blank out, losing focus.'.'[0m
+[1;30mInfo: Dazzt goes link dead.[0m
+[32mSirdest says '% w.'[0m
+la arena
+[32mSirdest exclaims '%You stagger in confusion!'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:82/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% w.'.'[0m
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#.[35m2[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           460/1023  357/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem            82/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:46] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%Hp:82/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You feel your [0m[32mhead clearing up.'.'[0m
+[32mSirdest exclaims '%Requiem [52m[party]:[32m Came out of Stun!'[0m
+[32mSirdest says '%Hp:82/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '% n.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#.[35m2[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           460/1023  357/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem            82/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:48] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%Hp:82/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You cannot go [0m[32mthat way.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers tears you making the head explode from a MASSIVE acid blast.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin MELTS exposing your internal organs!'[0m
+[32mSirdest says '%Delpers incises you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest says '%Hp: -3 -85 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-3/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% l.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-3/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-3/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% pr.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-3/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers tears you [0m[32mmaking the head explode from a MASSIVE acid blast.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-3/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers incises [0m[32myou causing heart tissue to fly everywhere.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           460/1023  357/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem            -3/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:50] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest exclaims '%Blood pours from your wounds!'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-18/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You exclaim '%Blood pours [0m[32mfrom your wounds!'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-18/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You are [0m[51munconscious[32m, unable to do anything.'.'[0m
+whee delpers
+You emote to Delpers 'shouts enthusiastically and screams 'WHEE!' in your face.'
+[17:39:52] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+Gilead [35m[wanted]:[0m heal all!
+la arena
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           460/1023  357/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem           -18/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:53] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%Your highly regenerating physique is trying to restore your [0m[32mconsciousness...'[0m
+[32mSirdest exclaims '%Blood pours from your wounds!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers shreds you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin MELTS exposing your internal organs!'[0m
+[32mSirdest says '%Delpers tears you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Hp: -136 -133 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-136/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%% pr.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-136/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You exclaim '%Blood pours [0m[32mfrom your wounds!'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-136/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You are [0m[51munconscious[32m, unable to do anything.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           460/1023  357/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Requiem          -136/1282   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[17:39:55] hp 657/657  sp 1134/1134  ep 279/279  xp 8874  $ 3721/10554  wimpy off
+
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-136/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You are [0m[51munconscious[32m, unable to do anything.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mDupre cheers enthusiastically.[0m
+[32mSirdest says '%Delpers incises you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin MELTS exposing your internal organs!'[0m
+[32mSirdest says '%Delpers tears you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Hp: -222 -86 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-222/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers incises [0m[32myou causing heart tissue to fly everywhere.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-222/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You exclaim '%You wish [0m[32myour wounds would stop BLEEDING so much!'.'[0m
+[1;30mInfo: Dazzt recovers from link death.[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-222/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%You are [0m[51munconscious[32m, unable to do anything.'.'[0m
+[1;30mInfo: Tuppi recovers from link death.[0m
+[32mSirdest says '%Your highly regenerating physique is trying to restore your [0m[32mconsciousness...'[0m
+[32mSirdest exclaims '%Blood pours from your wounds!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers tears you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin MELTS exposing your internal organs!'[0m
+[32mSirdest says '%Delpers tears you inducing the heart to totally freeze.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Hp: -330 -108 Sp: 28  Ep: 176.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-330/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-330/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%You say '%Delpers tears [0m[32myou causing heart tissue to fly everywhere.'.'[0m
+Brog leaves down.
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-330/1282 Sp:28/28 Ep:176/406 Exp:[7277]>%Brog leaves down.'[0m
+[32mMystic whistles 'GO DELPERS GO.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers incises you making the head explode from a MASSIVE acid blast.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest exclaims '%Your skin MELTS exposing your internal organs!'[0m
+[32mSirdest says '%Delpers incises you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Hp: -368 -38 Sp: 28  Ep: 226 +50.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-368/1282 Sp:28/28 Ep:226/406 Exp:[7277]>%You exclaim '%Your skin [0m[32mMELTS exposing your internal organs!'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-368/1282 Sp:28/28 Ep:226/406 Exp:[7277]>%You say '%Delpers incises [0m[32myou causing heart tissue to fly everywhere.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-368/1282 Sp:28/28 Ep:226/406 Exp:[7277]>%You exclaim '%You wish [0m[32myour wounds would stop BLEEDING so much!'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-368/1282 Sp:28/28 Ep:226/406 Exp:[7277]>%You exclaim '%Your body [0m[32mis almost FROZEN solid!'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-368/1282 Sp:28/28 Ep:226/406 Exp:[7277]>%You say '%You are [0m[51munconscious[32m, unable to do anything.'.'[0m
+The arena master shouts 'Requiem of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Delpers'

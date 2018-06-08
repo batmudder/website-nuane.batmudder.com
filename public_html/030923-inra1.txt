@@ -1,0 +1,587 @@
+Dupre [party]: ajetaa si
+*Akvavitix ticks 162sps [30s].
+Delpers removes Mirror breastplate, a battle-scarred shin guard labeled as oldshin, a battle-scarred shin guard labeled as newshin, the bracelets of axidia, Necklace of The Petrified Heart, a white glove, sparkling ruby ring, Pendant of Apathy..  emitting a dead black aura, Circlet of Flame and sparkling ruby ring.
+Delpers wears Scarf of Beauty, swirling bands of lava <flaming>, Holy vest of Yak, an obsidian finger guard <red glow>, an obsidian finger guard <red glow>, gloves of Nimbleness labeled as qc <red glow>, bracelet made of green crystal, bracelet made of green crystal, the stone amulet of the earth elementalist and the shining helm of azakh-khanan <red glow>.
+Delpers removes Rod of Artemis.
+Delpers removes a wand of magic.
+Delpers wields A glass no-dachi named 'candyking' <red glow> in his left hand.
+Delpers wields High-quality cork knife <red glow> in his right hand.
+Delpers looks at knife.
+Dupre [party]: jep
+Andthi nods solemnly.
+Ghost of Alorn [ghost]: ress
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:   1315723 |
+| Created: Tue Sep 23 18:55:12 2003        ( 2h 11m 28s) | Exp/min:      9967 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+|*1.1   Kyo           fol 1830(1830)   50(  50) 408(408) |  74 |       124052 |
+| 1.2   Dupre         ldr 1586(1586)   29(  29) 401(401) |  68 |       157848 |
+| 1.3   Kozma         fol 1582(1582)  905( 940) 413(413) |  95 |       176736 |
+| 2.1   Nuane         fol 1015(1019)  988(1148) 361(362) | 100 |       147678 |
+| 2.2   Delpers       fol  976( 976)  797(1150) 479(447) |  96 |       146880 |
+| 2.3   Andthi        fol  897( 897) 1363(1363) 237(227) |  85 |       138027 |
+| 3.1   Mandrake      fol 1000(1013)  974( 974) 280(282) |  88 |       147052 |
+| 3.2   Akvavitix     fol  875( 882) 1021(1435) 279(279) |  97 |       145797 |
+| 3.3   Heidel        fol  785( 785)  886(1052) 322(317) |  80 |       131653 |
+`-----------------------------------------------------------------------------'
+[21:06:40] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Cealdyn [wanted]: spr ring, small sailor chest, max spr amu, shin guards
+Akvavitix removes leggings of putrid flesh (undead), a white glove labeled as <|MAD|>, a white glove labeled as <|MAD|>, the Bracelets of Darkness, Mirror breastplate, a golden necklace studded with huge diamonds labeled as <|ancient|>, a black hood labeled as <|MAD|>, a wand of magic, A heavy black metal ring, A heavy black metal ring, Slime cloak labeled as <|MAD|>, Boots of the Goddess, The Amulet of Truth labeled as <|ancient|>, Sacred Bracelets of Eternity and Girdle of Ethereal Power labeled as <|MAD/Spr|>.
+Akvavitix wears gloves of Nimbleness (glowing) <orange glow>, Holy vest of Yak (glowing) <yellow glow>, A blue hat of wizardy labeled as <|MAD|> (glowing) <red glow>, an engraved cross amulet labeled as <|MAD|> (glowing) <yellow glow>, a black cloak (evil glow) labeled as <|MAD-AK|> (glowing) <yellow glow>, Ring of the Medusa labeled as <|MAD|> (glowing) <red glow>, Ring of the Medusa labeled as <|MAD|> (glowing) <red glow>, segmented titanium belt labeled as intti (glowing) <blue glow>, the Bracelets of Darkness (glowing) <red glow>, a little leather bag (glowing) <blue glow>, a pair of black boots (glowing), Glass armbands labeled as <|MAD|> (glowing) <yellow glow> and moonstone leggings labeled as <|MAD|> (glowing).
+Dupre tiptoes to the up.
+Heidel leaves up.
+Akvavitix leaves up.
+Kozma tiptoes to the up.
+Andthi leaves up.
+Mandrake flies to the up.
+At spiral staircase leading down (n,d).
+Mandrake Mun'rake the Zombie < d >
+Andthi the Owl is Evil or Divine.. < d >
+Kozma the black Human lightbringer < d >
+Akvavitix the Unicorn whinewhineyhyhy < d >
+Heidel the esteemed Brownie is headless (undead) < d >
+Dupre Muumi the Cromagnon < d >
+Kyo arrives from down.
+Delpers arrives from down.
+Mandrake's disc floats in.
+habo
+You have an unusual feeling as you cast the spell.
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[21:06:42] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Nuane (party): Casting concealed.
+[21:06:42] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Harm body: 6
+Dupre tiptoes to the north.
+Heidel leaves north.
+Akvavitix leaves north.
+Kozma tiptoes to the north.
+Andthi leaves north.
+Mandrake flies to the north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Hall of infinite proportions (n,s,w,e).
+Mandrake Mun'rake the Zombie < d >
+Andthi the Owl is Evil or Divine.. < d >
+Kozma the black Human lightbringer < d >
+Akvavitix the Unicorn whinewhineyhyhy < d >
+Heidel the esteemed Brownie is headless (undead) < d >
+Dupre Muumi the Cromagnon < d >
+Kyo arrives from south.
+Delpers arrives from south.
+habo
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[21:06:44] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Nuane (party): Casting concealed.
+[21:06:44] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Akvavitix [party]: Concealed
+Dupre tiptoes to the east.
+Heidel leaves east.
+Akvavitix leaves east.
+Kozma tiptoes to the east.
+Andthi leaves east.
+Mandrake flies to the east.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+At spiral staircase leading up (w,u).
+Mandrake Mun'rake the Zombie < d >
+Andthi the Owl is Evil or Divine.. < d >
+Kozma the black Human lightbringer < d >
+Akvavitix the Unicorn whinewhineyhyhy < d >
+Heidel the esteemed Brownie is headless (undead) < d >
+Dupre Muumi the Cromagnon < d >
+Kyo arrives from west.
+Delpers arrives from west.
+Dupre tiptoes to the up.
+Heidel leaves up.
+Akvavitix leaves up.
+Kozma tiptoes to the up.
+Andthi leaves up.
+Mandrake flies to the up.
+Inra's room at the top of the tower (s,d).
+small sphere is floating here
+Mandrake Mun'rake the Zombie < d >
+Andthi the Owl is Evil or Divine.. < d >
+Kozma the black Human lightbringer < d >
+Akvavitix the Unicorn whinewhineyhyhy < d >
+Heidel the esteemed Brownie is headless (undead) < d >
+Dupre Muumi the Cromagnon < d >
+Kyo arrives from down.
+Delpers arrives from down.
+Akvavitix [party]: Concealed
+habo
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[21:06:47] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Nuane (party): Casting concealed.
+[21:06:47] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Akvavitix [party]: Concealed
+Dupre tiptoes to the south.
+Heidel leaves south.
+Akvavitix leaves south.
+Kozma tiptoes to the south.
+Andthi leaves south.
+Mandrake flies to the south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Small pitch black balcony (n).
+one copper coin
+Mandrake Mun'rake the Zombie < d >
+Andthi the Owl is Evil or Divine.. < d >
+Kozma the black Human lightbringer < d >
+Akvavitix the Unicorn whinewhineyhyhy < d >
+Heidel the esteemed Brownie is headless (undead) < d >
+Dupre Muumi the Cromagnon < d >
+Inra the valheru god (unholy)
+Your keen senses note a disturbance seconds before the ambush!
+Kyo arrives from north.
+Delpers arrives from north.
+Mandrake's disc floats in.
+Dupre starts concentrating on a new offensive skill.
+habo
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[21:06:49] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Heidel starts concentrating on a new offensive spell.
+Akvavitix [party]: Concealed
+Info: Nerull left the game.
+Nuane (party): Casting concealed.
+[21:06:49] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+scan all
+cast info
+*****************************************************
+Kozma hits Inra 1 time.
+Dupre hits Inra 1 time.
+Inra hits Kozma 5 times.
+Akvavitix fails to run away.
+Harm body: 6
+You feel godly power hasten your casting.
+A sphere floats here.
+Kyo reports: Hp: 1830 (1830) Sp: 50 (50) Ep: 408 (408).
+Favorit <chat>: presst Ctrl-Alt-Del, get taskmanager, new task -> type 'explorer'
+Andthi starts concentrating on a new spell.
+Inra is near death.
+[21:06:50] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Akvavitix [party]: AMBUSHED!
+You are casting 'harm body'.
+[21:06:50] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Kozma starts concentrating on a new spell.
+scan all
+cast info
+*****************************************************
+Kozma's flex shield wobbles.
+Inra hits Kozma 6 times.
+Heidel waves his hand and says 'tsaibaa' (Channelbolt)
+Heidel fires a thundering arc of blue lightning which hits Inra with full force!
+Heidel grins as his channelbolt hits Inra.
+Akvavitix leaves north.
+Akvavitix left somewhere.
+Harm body: 3
+Harm body: 1 (greater haste)
+Electricity jolts through Inra!
+Kyo reports: Hp: 1830 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:06:53] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You are casting 'harm body'.
+[21:06:53] hp 1015/1019 | sp 988/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Heidel starts concentrating on a new offensive spell.
+scan all
+cast info
+*****************************************************
+Kozma hits Inra 1 time.
+Kozma's flex shield wobbles.
+Inra hits Kozma 4 times.
+Dupre's powerful bash sends Inra sprawling to the floor.
+Andthi cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Andthi's spell heals you. You feel much better.
+hp 1017/1019 (+2) | sp 988/1148 () | ep 361/362 ()
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+The curse in your dagger allows you to channel harmful power through it!
+You harm Inra really much.
+You feel the discontent of Burglefloogah as you harm an evil being.
+hp 1017/1019 () | sp 773/1148 (-215) | ep 361/362 ()
+Kyo reports: Hp: 1829 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:06:56] hp 1017/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+habo
+
+You are not doing anything at the moment.
+[21:06:56] hp 1017/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[21:06:57] hp 1017/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Nuane (party): Casting concealed.
+[21:06:57] hp 1017/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+Favorit <chat>: and "miracle", it will be back
+Inra cast(s): 'vorek ky taree' (Paralyze)
+Inra paralyzes you with his mind.
+scan all
+cast info
+*****************************************************
+Dupre hits Inra 1 time.
+Inra hits Kozma 2 times.
+Kyo hits Inra 1 time.
+Heidel waves his hand and says 'tsaibaa' (Channelbolt)
+Heidel fires a thundering arc of blue lightning which hits Inra with full force!
+Heidel grins as his channelbolt hits Inra.
+Mandrake cast(s): 'kewa dan dol rae hout' (Degenerate person)
+Inra appears weakened!
+Kyo reports: Hp: 1828 (1830) Sp: 50 (50) Ep: 408 (408).
+You try to act but just blank out, losing focus.
+[21:06:59] hp 1017/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You try to concentrate but your head spins like a whirligig!
+[21:06:59] hp 1017/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Mandrake starts concentrating on a new offensive spell.
+Info: Xymbarg goes link dead.
+Heidel starts concentrating on a new offensive spell.
+Kozma starts concentrating on a new spell.
+Dupre [party]: jätit wimpy
+scan all
+cast info
+*****************************************************
+Dupre hits Inra 1 time.
+Kyo's flex shield wobbles.
+Inra hits Kyo 2 times.
+Andthi cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Andthi's spell heals you. You feel much better.
+hp 1018/1019 (+1) | sp 773/1148 () | ep 361/362 ()
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Inra.
+Dupre's powerful bash sends Inra sprawling to the floor.
+Inra loses his concentration and stops the skill.
+You try to act but just blank out, losing focus.
+[21:07:02] hp 1018/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Kyo reports: Hp: 1793 (1830) Sp: 50 (50) Ep: 408 (408).
+You try to concentrate but your head spins like a whirligig!
+[21:07:02] hp 1018/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Kyo looks at Inra.
+Delpers starts concentrating on a new offensive spell.
+Dupre starts concentrating on a new offensive skill.
+Akvavitix [party]: joo
+Andthi starts concentrating on a new spell.
+Kozma cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Kozma's spell heals you. You feel all better.
+scan all
+cast info
+*****************************************************
+Inra hits Kozma 4 times.
+hp 1019/1019 (+1) | sp 773/1148 () | ep 361/362 ()
+Dupre [party]: us nuane
+Kozma {party}: UNS down
+Kyo reports: Hp: 1826 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:07:05] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You try to act but just blank out, losing focus.
+[21:07:05] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+The sphere floats north.
+Kozma starts concentrating on a new spell.
+[chat]: Fistan cheers enthusiastically.
+Inra cast(s): 'havia kauhistus pois' (Banish)
+scan all
+cast info
+*****************************************************
+Inra hits Kozma 7 times.
+Kyo hits Inra 1 time.
+Dupre's powerful bash sends Inra sprawling to the floor.
+Heidel waves his hand and says 'tsaibaa' (Channelbolt)
+Heidel fires a thundering arc of blue lightning which hits Inra with full force!
+Heidel grins as his channelbolt hits Inra.
+Mandrake cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Mandrake casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Mandrake grins as her acid blast hits Inra.
+p say *is no longer stunned.*
+You are no longer stunned.
+You feel your head clearing up.
+Electricity jolts through Inra!
+Kyo reports: Hp: 1826 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:07:08] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You are not doing anything at the moment.
+[21:07:08] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Heidel starts concentrating on a new offensive spell.
+(party): Nuane is no longer stunned.
+[21:07:08] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+habo
+
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[21:07:09] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Nuane (party): Casting concealed.
+[21:07:09] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+scan all
+cast info
+*****************************************************
+Kozma hits Inra 1 time.
+Inra hits Kozma 2 times.
+Andthi cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Harm body: 6
+Harm body: 5
+Kyo reports: Hp: 1829 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:07:11] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You are casting 'harm body'.
+[21:07:11] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+Kozma starts concentrating on a new spell.
+scan all
+cast info
+*****************************************************
+Kozma hits Inra 2 times.
+Inra hits Kozma 3 times.
+Kyo hits Inra 1 time.
+Heidel waves his hand and says 'tsaibaa' (Channelbolt)
+Heidel fires a thundering arc of blue lightning which hits Inra with full force!
+Heidel grins as his channelbolt hits Inra.
+Harm body: 4
+Harm body: 2 (greater haste)
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Inra.
+Kyo reports: Hp: 1827 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:07:14] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You are casting 'harm body'.
+[21:07:14] hp 1019/1019 | sp 773/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Heidel starts concentrating on a new offensive spell.
+Delpers starts concentrating on a new offensive spell.
+Dupre [party]: relo takas ja heti pf
+Kozma starts concentrating on a new spell.
+scan all
+cast info
+*****************************************************
+Kozma hits Inra 1 time.
+Inra hits Kozma 3 times.
+Dupre's powerful bash sends Inra sprawling to the floor.
+Mandrake cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Mandrake casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Mandrake grins as her acid blast hits Inra.
+Harm body: 1
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+The curse in your dagger allows you to channel harmful power through it!
+You harm Inra really much.
+You feel the discontent of Burglefloogah as you harm an evil being.
+hp 1019/1019 () | sp 517/1148 (-256) | ep 361/362 ()
+Akvavitix [party]: tuun
+Kyo reports: Hp: 1824 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:07:17] hp 1019/1019 | sp 517/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You are not doing anything at the moment.
+[21:07:17] hp 1019/1019 | sp 517/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Mandrake starts concentrating on a new offensive spell.
+habo
+Dupre starts concentrating on a new offensive skill.
+Info: Sammaster enters the game.
+You start chanting.
+[21:07:18] hp 1019/1019 | sp 517/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Akvavitix arrives from north.
+Akvavitix starts following the leader.
+scan all
+cast info
+*****************************************************
+Inra hits Kozma 6 times.
+Andthi cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Heidel waves his hand and says 'tsaibaa' (Channelbolt)
+Heidel fires a thundering arc of blue lightning which hits Inra with full force!
+Heidel grins as his channelbolt hits Inra.
+Harm body: 6
+Harm body: 4 (greater haste)
+Kyo reports: Hp: 1828 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:07:20] hp 1019/1019 | sp 517/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You are casting 'harm body'.
+[21:07:20] hp 1019/1019 | sp 517/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+Akvavitix starts concentrating on a new offensive spell.
+Heidel starts concentrating on a new offensive spell.
+Kozma is caught by sudden enlightment.
+Kyo smiles looking much better.
+Holy aura nurses Mandrake's soul.
+Gentle glow takes over Andthi.
+Heidel kneels before Kozma and she blesses him.
+Dupre smiles looking much better.
+Kozma cast(s): 'judicandus puorgo mangenic' (Major party heal)
+scan all
+cast info
+*****************************************************
+Kozma hits Inra 1 time.
+Dupre hits Inra 1 time.
+Inra hits Kozma 2 times.
+Harm body: 3
+Harm body: 2 (haste)
+You feel unearthly power hasten your casting.
+Kyo reports: Hp: 1829 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:07:23] hp 1019/1019 | sp 517/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You are casting 'harm body'.
+[21:07:23] hp 1019/1019 | sp 517/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Kozma starts concentrating on a new spell.
+Vulcanus [wanted]: summon somewhere
+Inra cast(s): 'zing yulygul bugh' (Fireball)
+Inra hits Akvavitix, Delpers, Kyo, Nuane, Mandrake, Andthi, Kozma, Heidel and Dupre with his fireball.
+Kyo's flex shield wobbles.
+scan all
+cast info
+*****************************************************
+Inra hits Dupre 5 times.
+Kyo hits Inra 1 time.
+hp 853/1019 (-166) | sp 517/1148 () | ep 361/362 ()
+Dupre's powerful bash sends Inra sprawling to the floor.
+Heidel waves his hand and says 'tsaibaa' (Channelbolt)
+Heidel fires a thundering arc of blue lightning which hits Inra with full force!
+Heidel grins as his channelbolt hits Inra.
+Akvavitix clenches her fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Akvavitix flails wildly and throws DOZENS of exploding bombs, leaving a pillar
+of black smoke!
+The blasts explode all around Inra, bursting into flames!
+Akvavitix grins as her channelburn hits Inra.
+Mandrake cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Mandrake casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Mandrake grins as her acid blast hits Inra.
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+The curse in your dagger allows you to channel harmful power through it!
+You harm Inra really much.
+You feel the discontent of Burglefloogah as you harm an evil being.
+hp 853/1019 () | sp 443/1148 (-74) | ep 361/362 ()
+Kyo reports: Hp: 1759 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:07:26] hp 853/1019 | sp 443/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You are not doing anything at the moment.
+[21:07:26] hp 853/1019 | sp 443/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Mandrake starts concentrating on a new offensive spell.
+Heidel starts concentrating on a new offensive spell.
+habo
+Dupre starts concentrating on a new offensive skill.
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[21:07:27] hp 853/1019 | sp 443/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Akvavitix [party]: blast in (20 % resist)
+Nuane (party): Casting concealed.
+[21:07:27] hp 853/1019 | sp 443/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Akvavitix [party]: Concealed
+Inra leaves north.
+Kozma cast(s): 'judicandus pafzarmus' (Major heal)
+Harm body: 6
+p say kuoleepi
+Nuane (party): kuoleepi
+[21:07:30] hp 853/1019 | sp 443/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Heidel starts concentrating on a new offensive spell.
+Andthi cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Andthi's spell heals you. You feel much better.
+hp 937/1019 (+84) | sp 443/1148 () | ep 361/362 ()
+Harm body: 5
+Harm body: 4 (haste)
+*Akvavitix ticks 37sps [24s].
+Kozma starts concentrating on a new spell.
+Dupre [party]: < Infravision DOWN > [0:00]
+Info: Bashag recovers from link death.
+Blackstar [chat]: hmm the task manager isnt comming up
+Spider Queen smiles upon you and helps you control the demon.
+p say 74sp habo
+Nuane (party): 74sp habo
+[21:07:34] hp 937/1019 | sp 435/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Akvavitix [party]: Concealed
+Inra arrives from north.
+scan all
+cast info
+*****************************************************
+Inra hits Kozma 5 times.
+hp 937/1019 () | sp 435/1148 (-8) | ep 361/362 ()
+Your knowledge about Inra's tactics allows you to evade the ambush.
+Dupre's powerful bash sends Inra sprawling to the floor.
+Mandrake cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Mandrake casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Mandrake grins as her acid blast hits Inra.
+Harm body: 3
+Harm body: 2 (haste)
+Harm body: 1
+Andthi starts concentrating on a new spell.
+Kyo reports: Hp: 1795 (1830) Sp: 50 (50) Ep: 408 (408).
+Inra is near death.
+[21:07:35] hp 937/1019 | sp 435/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+You are casting 'harm body'.
+[21:07:35] hp 937/1019 | sp 435/1148 | ep 361/362 | exp 6577 | $ 2610/99674 | wimpy: off
+
+Dupre [party]: ei menny spt haboo?
+Dupre starts concentrating on a new offensive skill.
+Kozma starts concentrating on a new spell.
+Akvavitix clenches her fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Akvavitix flails wildly and throws DOZENS of exploding bombs, leaving a pillar
+of black smoke!
+The blasts explode all around Inra, bursting into flames!
+Akvavitix grins as her channelburn hits Inra.
+You have completed the quest, but your level is too high to receive it.
+Malitrius appears in a blink of light !
+Malitrius says 'Good work brave comrades, you have done good in defeating the
+evil that has haunted my realm. Now Inra is dead, everything will sort itself
+out. The spirit of my forest will destroy the evil, but it will take a couple
+of years. 
+Malitrius makes a gesture and a portal appears, and then is he gone as
+suddenly as he appeared.
+Kozma utters a prayer for the fallen foe 'In nomine Faerwon. Amen.'
+Inra loses the privilege to live.
+save
+Inra is DEAD, R.I.P.
+The magic mist around the dead Inra's neck leaps to Kozma's Kerbholz.
+The magic mist around the dead Inra's neck leaps to Mandrake's Kerbholz.
+The magic mist around the dead Inra's neck leaps to your Kerbholz.
+A new mark appears.

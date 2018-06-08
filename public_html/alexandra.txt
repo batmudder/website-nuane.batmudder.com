@@ -1,0 +1,2792 @@
+Hannah [party]: --> meni <--
+Hannah leaves northeast.
+Susette leaves northeast.
+Temple (w,n,sw,ne).
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+a high priestess of Esachen, protector of stability
+Your superb dexterity avoids a nasty ambush.
+Foxbat arrives from southwest.
+Nerull arrives from southwest.
+scan all
+*****************************************************
+Alexandra hits Nerull 1 time.
+Morglum arrives from southwest.
+Martow arrives from southwest.
+Caruth arrives from southwest.
+Brock flies in from southwest.
+Alexandra is near death.
+"-. hp 854/854 | sp 665/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Nerull reports: Hp: 1915 (2018) Sp: -12 (48) Ep: 413 (413).
+unity
+You start chanting.
+"-. hp 854/854 | sp 665/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah [party]: casting concealed
+Martow starts concentrating on a new offensive skill.
+Foxbat starts concentrating on a new offensive spell.
+scan all
+*****************************************************
+Alexandra hits Caruth 3 times.
+Caruth hits Alexandra 1 time.
+Strength in unity: ##
+You skillfully cast the spell with haste.
+Brock starts concentrating on a new spell.
+Alexandra is near death.
+"-. hp 854/854 | sp 665/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Caruth reports: Hp: 527 (1805) Sp: -292 (27) Ep: 403 (403).
+Martow reports: Hp: 1706 (1706) Sp: 65 (65) Ep: 421 (421).
+Nerull reports: Hp: 1915 (2018) Sp: -12 (48) Ep: 413 (413).
+Caruth booms 'Hp: 527 (1805) Sp: -292 (27) Ep: 403 (403).'
+Caruth booms 'Hp: 527 (1805) Sp: -292 (27) Ep: 403 (403).'
+Caruth [party]: Unstun Expired.[7m40s]
+Info: Yohoack left the game.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 48m 38s) | Exp/min:       595 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol  527(1805) -292(  27) 403(403) |  80 |            0 |
+| 1.2   Martow        fol 1706(1706)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol 1915(2018)  -12(  48) 413(413) |  80 |        37626 |
+| 2.1   Brock         fol  734( 734) 1070(1140) 285(285) |  82 |            0 |
+| 2.2   Morglum       fol 1069(1069) 1135(1397) 448(448) |  86 |            0 |
+| 2.3   Nuane         fol  854( 854)  665( 706) 385(385) |  78 |        36281 |
+| 3.1   Susette       fol  510( 510) 1061(1061) 248(248) |  75 |        40372 |
+| 3.2   Hannah        ldr  790( 765)  857(1158) 259(259) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071(1071)  469( 785) 338(338) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 854/854 | sp 665/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Info: Yohoack enters the game.
+scan all
+*****************************************************
+party say Caruth has gone UNCONSCIOUS!
+dd Caruth
+Caruth lapses into unconsciousness from severe loss of blood.
+Caruth is dogfood.
+save
+Caruth is DEAD, R.I.P.
+Alexandra shouts 'Caruth, no hard feelings, ok? *cackle*'
+Caruth dies.
+Caruth's corpse is collected by Death, clad in black.
+Alexandra hits Caruth 3 times.
+You are done with the chant.
+CASTED.
+You sing: 'You say you don't believe this unity will last, nobody said it
+ would be perfect, but co-operate, share your pain and strength. Together we
+ are strong.
+ '
+You feel great unity with your party members.
+Caruth reports: Hp: 1 (1735) Sp: -292 (25) Ep: 403 (400).
+Nerull reports: Hp: 1915 (2018) Sp: -12 (48) Ep: 413 (413).
+Martow reports: Hp: 1703 (1706) Sp: 65 (65) Ep: 421 (421).
+Hannah [party]: Caruth has gone UNCONSCIOUS!
+Alexandra is near death.
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Foxbat [party]: Someone UNCON
+Nuane [party]: Caruth has gone UNCONSCIOUS!
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah [party]: --> UNITY ACTIVE, LETS WHACK THE BASTARD! <--
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+You don't know that spell.
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+NFS getattr failed for server lerppu-d: RPC: Timed out
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+SAVED.
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+cft
+You start chanting.
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Morglum (party): 1
+Alexandra cast(s) -> 'Dispel Magical Protection'
+Alexandra is surrounded by a large ball of blinding white light.
+Morglum cast(s) -> 'Harm Body'
+Brock is now in the 1st row.
+Susette is now in the 2nd row.
+scan all
+*****************************************************
+party say Brock has gone UNCONSCIOUS!
+dd Brock
+Brock lapses into unconsciousness from severe loss of blood.
+Unicorn hits Brock 2 times.
+Martow's powerful bash sends Unicorn sprawling to the floor.
+Blood pours from Brock's wounds.
+Susette cast(s) -> 'Golden Arrow'
+As Susette casts the spell, she pulls out a copper rod from a small pouch.
+Susette grins as her golden arrow hits Unicorn.
+All damage just seems to disperse in the Unicorn's aura.
+hp 854/854 () | sp 549/706 (-116) | ep 385/385 ()
+Campfire tune: ##
+Hannah cast(s) -> 'Acid Blast'
+Hannah holds aloft a handful of olivine powder which glows softly and fades from view.
+Hannah grins as its acid blast hits Unicorn.
+All damage just seems to disperse in the Unicorn's aura.
+Foxbat weaves a mystic matrix with glowing indigo lines and chants 'Khizanth
+ Arachnidus Iracundus'
+A shower of black blood flies from Foxbat's palm at Unicorn!
+All damage just seems to disperse in the Unicorn's aura.
+All damage just seems to disperse in the Unicorn's aura.
+Foxbat [party]: DMP
+Nerull reports: Hp: 1828 (2018) Sp: -12 (48) Ep: 413 (413).
+Hannah [party]: Remove Armour has been cast.
+Susette [party]: War ensemble --> Off
+Martow reports: Hp: 1703 (1706) Sp: 65 (65) Ep: 411 (421).
+Hannah [party]: Brock has gone UNCONSCIOUS!
+Unicorn is near death.
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Ghost of Caruth [party]: Ensemble Expires. [9m34s]
+Nuane [party]: Brock has gone UNCONSCIOUS!
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Foxbat [party]: Someone UNCON
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Susette [party]: blast in (100 % resist)
+Foxbat [party]: 40% resist
+You don't know that spell.
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+@Durand kicks you hard in the knee.
+"-. hp 854/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Morglum starts concentrating on a new offensive spell.
+Foxbat starts concentrating on a new offensive spell.
+scan all
+*****************************************************
+Nerull hits Unicorn 1 time.
+Unicorn hits Martow 1 time.
+Blood pours from Brock's wounds.
+hp 834/854 (-20) | sp 549/706 () | ep 385/385 ()
+Campfire tune: #
+Martow starts concentrating on a new offensive skill.
+Unicorn is near death.
+"-. hp 834/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah leaves west.
+Susette leaves west.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (s,e,sw,ne,nw).
+A pile of tin coins
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from east.
+Nerull arrives from east.
+Morglum arrives from east.
+Martow arrives from east.
+Martow reports: Hp: 1679 (1706) Sp: 65 (65) Ep: 411 (421).
+Nerull reports: Hp: 1823 (2018) Sp: -12 (48) Ep: 413 (413).
+Info: Dryad goes link dead.
+Hannah leaves northwest.
+Susette leaves northwest.
+Temple (se,sw,ne,nw).
+Ebony tube, a big pile of mowgles coins, 16 silver coins and
+handful of onyx gravel
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southeast.
+Nerull arrives from southeast.
+Morglum arrives from southeast.
+Martow arrives from southeast.
+cft
+You start chanting.
+"-. hp 834/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Susette is now in the 1st row.
+Unicorn shouts 'Brock's BLOOD tasted good!'
+Info: Brock dies.
+Brock dies.
+Campfire tune: ##
+Hannah leaves northwest.
+Susette leaves northwest.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,w,n,sw,ne).
+A pile of copper coins
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southeast.
+Nerull arrives from southeast.
+Morglum arrives from southeast.
+Martow arrives from southeast.
+p say aww
+Nuane [party]: aww
+"-. hp 834/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 48m 51s) | Exp/min:       595 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Susette       fol  483( 285)  904(1061) 248(231) |  75 |        40372 |
+| 1.2   Martow        fol 1679(1706)   65(  65) 411(421) |  80 |        45292 |
+| 1.3   Nerull        fol 1823(2018)  -12(  48) 413(413) |  80 |        37626 |
+| 2.2   Morglum       fol 1061( 844) 1041(1397) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  834( 854)  549( 706) 385(385) |  78 |        36281 |
+| 3.2   Hannah        ldr  785( 765)  731(1158) 259(259) |  90 |        54604 |
+| 3.3   Foxbat        fol 1047(1071)  366( 785) 338(338) |  78 |        28457 |
+| ?.?   Caruth       dead    1(1510) -292(  25) 403(383) |  80 |            0 |
+| ?.?   Brock        dead    1( 482) 1070(1059) 285(256) |  82 |            0 |
+`-----------------------------------------------------------------------------'
+"-. hp 834/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |M  + +  O+.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  +---/ +-+-/.'
+Hannah says '  |M  +-+ PO|.'
+Hannah says '  /-+-+ /---\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \---/.'
+Hannah says '  +  O|       |  O|.'
+Hannah says '  +-+-\       /---\.'
+Morglum (party): keskelle
+cft
+You start chanting.
+"-. hp 834/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |M  + +  O+.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  +---/ +-+-/.'
+Hannah says '  |M  +-+ PO|.'
+Hannah says '  /-+-+ /---\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \---/.'
+Hannah says '  +  O|       |  O|.'
+Hannah says '  +-+-\       /---\.'
+Strikerbum [wanted]: party for blaster
+*Foxbat ticks +30 sps [00:30] <50% of full sps>.
+Morglum (party): mee jo
+Martow [party]: (Armour of aether off)
+Hannah leaves northeast.
+Susette leaves northeast.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,e,w,sw,ne,nw).
+A pile of zinc coins and handful of onyx gravel
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southwest.
+Nerull arrives from southwest.
+Morglum arrives from southwest.
+Martow arrives from southwest.
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+cft
+You start chanting.
+"-. hp 834/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Campfire tune: ##
+Morglum (party): Raising -> brock
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+l
+Campfire tune: #
+..#..#..#..  All around you, temple pillars after temple pillars, without
+#...#.#...#  end in sight. The illuminated marble temple strikes you as
+..#..#..#..  never ending, every point being surrounded by infinity, thus
+.###.*.###.  every point is at the pinnacle of equilibrium.
+..#..#..#..  This is the cradle of balance.
+#...#.#...#  Obvious exits are: se, e, w, sw, ne and nw.
+A pile of zinc coins
+Handful of onyx gravel
+Martow Bladesinger the Gnoll < ¿ >
+Morglum Necksnapper the dark Drow saa palkkansa < ¿ >
+Nerull Rannanjarvi the brown Centaur
+Foxbat DragonBird the Ent Shirley's Darkling
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+"-. hp 834/854 | sp 549/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Morglum (party): mita venaat
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Info: Robinhood goes link dead.
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Nerull
+Your playing heals Foxbat
+Your playing heals Nuane
+Nuane's song heals some of your wounds.
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Info: Robinhood recovers from link death.
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+hp 854/854 (+20) | sp 478/706 (-71) | ep 385/385 ()
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Gore <fin>: eli spessut on se suurin murhe nykyisissä equmonsuissa?
+Morglum (party): ois kerenny jo raisee
+Hannah says '  \---/       \---/.'
+Hannah says '  +M O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+p say onkse korni
+Nuane [party]: onkse korni
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '  \---/       \---/.'
+Hannah says '  +M O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +M O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Morglum (party): mut aimays
+Unicorn arrives from northwest.
+scan all
+*****************************************************
+Unicorn hits Nerull 1 time.
+Your knowledge about Unicorn's tactics allows you to evade the ambush.
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+MPO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Unicorn is near death.
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Martow reports: Hp: 1706 (1706) Sp: 65 (65) Ep: 417 (421).
+Nerull reports: Hp: 1326 (2018) Sp: -12 (48) Ep: 413 (413).
+Hannah [party]: --> o <--
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+MPO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Morglum invokes the powers of ancient gods and chants 'vokinsalak
+ elfirtluassa'
+scan all
+*****************************************************
+Unicorn hits Nerull 3 times.
+Martow hits Unicorn 1 time.
+Unicorn is near death.
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Martow reports: Hp: 1706 (1706) Sp: 65 (65) Ep: 417 (421).
+Nerull reports: Hp: 477 (2018) Sp: -12 (48) Ep: 413 (413).
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+MPO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 49m 15s) | Exp/min:       594 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Susette       fol  483( 285)  949(1061) 248(231) |  75 |        40372 |
+| 1.2   Martow        fol 1706(1706)   65(  65) 417(421) |  80 |        45292 |
+| 1.3   Nerull        fol  477(2018)  -12(  48) 413(413) |  80 |        37626 |
+| 2.2   Morglum       fol 1061( 844)  820(1397) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  854( 854)  478( 706) 385(385) |  78 |        36281 |
+| 3.2   Hannah        ldr  785( 765)  587(1158) 259(259) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071(1071)  396( 785) 338(338) |  78 |        28457 |
+| ?.?   Caruth       dead    1(1510) -292(  25) 403(383) |  80 |            0 |
+| ?.?   Brock        dead    1( 482) 1070(1059) 285(256) |  82 |            0 |
+`-----------------------------------------------------------------------------'
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+cft
+You start chanting.
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah leaves southeast.
+Susette leaves southeast.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,e,n,sw,nw).
+A pile of bronze coins and three handfuls of onyx gravel
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from northwest.
+Nerull arrives from northwest.
+Morglum arrives from northwest.
+Martow arrives from northwest.
+Hannah leaves southeast.
+Susette leaves southeast.
+Temple (s,e,n,sw,nw).
+A pile of zinc coins and two handfuls of onyx gravel
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from northwest.
+Nerull arrives from northwest.
+Morglum arrives from northwest.
+Martow arrives from northwest.
+cft
+You start chanting.
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '  \-+-+ \---+.'
+Hannah says '  |  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '       \  |.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        | PO+-+M O+.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  |  O+ +   |.'
+Hannah says '  /-+-+ /---+.'
+Hannah leaves south.
+Susette leaves south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (w,n,sw,ne).
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from north.
+Nerull arrives from north.
+Morglum arrives from north.
+Martow arrives from north.
+Hannah leaves west.
+Susette leaves west.
+Temple (s,e,sw,ne,nw).
+A pile of tin coins
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from east.
+Nerull arrives from east.
+Morglum arrives from east.
+Martow arrives from east.
+cft
+You start chanting.
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+M  |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Ghost of Caruth [party]: AoA off
+Argooni [wanted]: tarmanav for expie
+Hannah leaves northwest.
+Susette leaves northwest.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,sw,ne,nw).
+Ebony tube, a big pile of mowgles coins, 16 silver coins and
+handful of onyx gravel
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southeast.
+Nerull arrives from southeast.
+Morglum arrives from southeast.
+Martow arrives from southeast.
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+*Foxbat ticks +27 sps [00:30] <53% of full sps>.
+Hannah leaves northwest.
+Susette leaves northwest.
+Temple (se,w,n,sw,ne).
+A pile of copper coins
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southeast.
+Nerull arrives from southeast.
+Morglum arrives from southeast.
+Martow arrives from southeast.
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |M  + +  O+.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  +---/ +-+-/.'
+Hannah says '  |M  +-+ PO|.'
+Hannah says '  /-+-+ /---\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \---/.'
+Hannah says '  +  O|       |  O|.'
+Hannah says '  +-+-\       /---\.'
+cft
+You start chanting.
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |M  + +  O+.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  +---/ +-+-/.'
+Hannah says '  |M  +-+ PO|.'
+Hannah says '  /-+-+ /---\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \---/.'
+Hannah says '  +  O|       |  O|.'
+Hannah says '  +-+-\       /---\.'
+Hannah leaves northeast.
+Susette leaves northeast.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,e,w,sw,ne,nw).
+A pile of zinc coins and handful of onyx gravel
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southwest.
+Nerull arrives from southwest.
+Morglum arrives from southwest.
+Martow arrives from southwest.
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+cft
+You start chanting.
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+M O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+M O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Campfire tune: ##
+Unicorn arrives from east.
+scan all
+*****************************************************
+Unicorn hits Martow 1 time.
+Martow hits Unicorn 1 time.
+Your knowledge about Unicorn's tactics allows you to evade the ambush.
+Campfire tune: #
+Unicorn is near death.
+"-. hp 854/854 | sp 478/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+MPO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Martow reports: Hp: 1605 (1706) Sp: 65 (65) Ep: 417 (421).
+Nerull reports: Hp: 472 (2018) Sp: -12 (48) Ep: 413 (413).
+scan all
+*****************************************************
+party say Susette has gone UNCONSCIOUS!
+dd Susette
+Susette lapses into unconsciousness from severe loss of blood.
+You hear the horrendous death-cry of the Susette as it dies.
+save
+Susette is DEAD, R.I.P.
+Unicorn shouts 'Susette should stick to PIGEONS! I want a tougher challenge!'
+Susette dies.
+Susette's corpse is collected by Death, clad in black.
+Unicorn hits Susette 3 times.
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Martow
+Your playing heals Nerull
+Nerull reports: Hp: 569 (2018) Sp: -12 (48) Ep: 413 (413).
+Hannah [party]: Susette has gone UNCONSCIOUS!
+Unicorn is near death.
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Martow reports: Hp: 1706 (1706) Sp: 65 (65) Ep: 417 (421).
+Nuane [party]: Susette has gone UNCONSCIOUS!
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Foxbat [party]: Someone UNCON
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+You don't know that spell.
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+cft
+Game Driver says 'You come to me and say, "Don Driver, give me commands." But
+ you don't ask me with respect. You don't offer friendship. You don't even
+ think to call me "gamedriver." Instead, you come into my game on the day of
+ my hardware upgrade, and you ask me to accept typos.'
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+SAVED.
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+You start chanting.
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah leaves southeast.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,e,n,sw,nw).
+A pile of bronze coins and three handfuls of onyx gravel
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from northwest.
+Nerull arrives from northwest.
+Morglum arrives from northwest.
+Martow arrives from northwest.
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '       \  |.'
+Hannah says '        \-+-+ \---+.'
+Hannah says '        | PO+-+  O|.'
+Hannah says '        /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+cft
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '       \  |.'
+Hannah says '        \-+-+ \---+.'
+Hannah says '        | PO+-+  O|.'
+Hannah says '        /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+You start chanting.
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+hp 854/854 () | sp 407/706 (-71) | ep 385/385 ()
+Campfire tune: ##
+You skillfully cast the spell with haste.
+Hannah leaves southeast.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (s,e,n,sw,nw).
+A pile of zinc coins and two handfuls of onyx gravel
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from northwest.
+Nerull arrives from northwest.
+Morglum arrives from northwest.
+Martow arrives from northwest.
+cft
+You start chanting.
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Bleezuz (fin): no niin mun mielest
+Hannah leaves south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (w,n,sw,ne).
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from north.
+Nerull arrives from north.
+Morglum arrives from north.
+Martow arrives from north.
+Ghost of Susette [ghost]: rais
+Hannah leaves west.
+Temple (s,e,sw,ne,nw).
+A pile of tin coins
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from east.
+Nerull arrives from east.
+Morglum arrives from east.
+Martow arrives from east.
+p say (Aura weakening)
+Your aura is starting to weaken!
+Nuane [party]: (Aura weakening)
+"-. hp 854/854 | sp 407/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+*Hannah ticks 39 sps[25s].
+hp 854/854 () | sp 469/706 (+62) | ep 385/385 ()
+Hannah [party]: --> vittuku tulee <--
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 49m 51s) | Exp/min:       594 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Martow        fol 1706(1706)   65(  65) 417(421) |  80 |        45292 |
+| 1.3   Nerull        fol  591(2018)  -10(  48) 413(413) |  80 |        37626 |
+| 2.2   Morglum       fol 1061( 844)  962(1397) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  854( 854)  469( 706) 385(385) |  78 |        36281 |
+| 3.2   Hannah        ldr  785( 787)  518(1264) 259(271) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071(1071)  423( 785) 338(338) |  78 |        28457 |
+| ?.?   Susette      dead    1( 275)  949(1013) 248(221) |  75 |        40372 |
+| ?.?   Caruth       dead    1(1510) -292(  25) 403(383) |  80 |            0 |
+| ?.?   Brock        dead    1( 482) 1070(1059) 285(256) |  82 |            0 |
+`-----------------------------------------------------------------------------'
+"-. hp 854/854 | sp 469/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+cast energy aura
+You start chanting.
+"-. hp 854/854 | sp 469/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Energy aura: ############
+You skillfully cast the spell with haste.
+Energy aura: ##########
+*Foxbat ticks +28 sps [00:30] <57% of full sps>.
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+You skillfully cast the spell with haste.
+Energy aura: #######
+You skillfully cast the spell with greater haste.
+Hannah says '  \---/       \-+-+.'
+Hannah says '  |  O|       |  O+.'
+Hannah says '  /---\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '        \---/ +-+-/.'
+Hannah says '        | PO+-+   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '       /  |.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+ +  O|.'
+Hannah says '  /---\ +-+-\.'
+Info: Bippo left the game.
+Hannah leaves southwest.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,e,w,sw,ne,nw).
+A pile of zinc coins and handful of onyx gravel
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from northeast.
+Nerull arrives from northeast.
+Morglum arrives from northeast.
+Martow arrives from northeast.
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+cast energy aura
+You start chanting.
+"-. hp 854/854 | sp 469/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Energy aura: ############
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Ghost of Brock [party]: otin sit ulkoo,
+Hannah leaves northwest.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,s,w,ne,nw).
+A small pile of bronze coins, a small pile of copper coins and two
+handfuls of onyx gravel
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southeast.
+Nerull arrives from southeast.
+Morglum arrives from southeast.
+Martow arrives from southeast.
+Blackhand [fin]: entry critit ja resistit ei ainakaa haittaa
+Info: Drakh goes link dead.
+Foxbat [party]: War Ensemble <DOWN> [10:51]
+Hannah says '  +-+-/       \---/.'
+Hannah says '  +  O|       |  O|.'
+Hannah says '  +-+-\       /---\.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/.'
+Hannah says '  |M O+-+ PO|.'
+Hannah says '  +---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |M  + +  O+.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '  +-+-/       \---/.'
+Hannah says '  +  O|       |  O|.'
+Hannah says '  +-+-\       /---\.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/.'
+Hannah says '  |M O+-+ PO|.'
+Hannah says '  +---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |M  + +  O+.'
+Hannah says '        /-+-+ /---\.'
+cast energy aura
+You start chanting.
+"-. hp 854/854 | sp 469/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Energy aura: ############
+Info: Kooper goes link dead.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 50m  7s) | Exp/min:       593 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Martow        fol 1706(1706)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol  591(2018)  -10(  48) 413(413) |  80 |        37626 |
+| 2.2   Morglum       fol 1061( 844)  962(1397) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  854( 854)  469( 706) 385(385) |  78 |        36281 |
+| 3.2   Hannah        ldr  785( 787)  452(1264) 259(271) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 768)  451( 785) 338(316) |  78 |        28457 |
+| ?.?   Susette      dead    1( 275)  949(1013) 248(221) |  75 |        40372 |
+| ?.?   Caruth       dead    1(1510) -292(  25) 403(383) |  80 |            0 |
+| ?.?   Brock        dead    1( 482) 1070(1059) 285(256) |  82 |            0 |
+`-----------------------------------------------------------------------------'
+"-. hp 854/854 | sp 469/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah leaves northeast.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,sw,ne,nw).
+Ebony tube, a big pile of mowgles coins, 16 silver coins and
+handful of onyx gravel
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southwest.
+Nerull arrives from southwest.
+Morglum arrives from southwest.
+Martow arrives from southwest.
+John shouts 'Platano was too easy! I want a tougher challenge!'
+Info: Platano dies.
+hp 854/854 () | sp 569/706 (+100) | ep 385/385 ()
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Bleezuz (fin): eipä juuri
+cast energy aura
+You start chanting.
+"-. hp 854/854 | sp 569/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Energy aura: ############
+You skillfully cast the spell with haste.
+Hannah [party]: --> raisee <--
+*Hannah ticks 80 sps[1m28s].
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Energy aura: ##########
+You skillfully cast the spell with haste.
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Juggelo <fin>: resistit kulkee aika käsikädessä hp'n kanssa
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Energy aura: ########
+You skillfully cast the spell with haste.
+Foxbat [party]: otin surgeryn kesken tan partyn ja charisma on 18
+Vippy [wanted]: what spell is this hot hot not zeis daimons
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Energy aura: ######
+You skillfully cast the spell with haste.
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Energy aura: ####
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+*Foxbat ticks +81 sps [00:30] <67% of full sps>.
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Energy aura: ###
+You skillfully cast the spell with haste.
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Robinhood [wanted]: infra? not sure
+Morglum (party): Raising -> brock
+Energy aura: #
+Robinhood [wanted]: maybe not
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+You are done with the chant.
+CASTED.
+You brace your body and yell 'RRRRAAAAAHHRRRRGGGGGGHHH!!!!!'
+You try your hardest but cannot focus enough energy.
+You do, however, recharge your aura.
+Ghost of Brock [ghost]: got from party.,
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 50m 34s) | Exp/min:       593 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Martow        fol 1706(1706)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol  622(2018)   -1(  48) 413(413) |  80 |        37626 |
+| 2.2   Morglum       fol 1061( 844) 1079(1397) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  849( 854)  483( 706) 383(385) |  78 |        36281 |
+| 3.2   Hannah        ldr  787( 787)  442(1264) 263(271) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 768)  532( 785) 338(316) |  78 |        28457 |
+| ?.?   Susette      dead    1( 275)  949(1013) 248(221) |  75 |        40372 |
+|*?.?   Caruth       dead    1(1510) -292(  25) 403(383) |  80 |            0 |
+| ?.?   Brock        dead    1( 482) 1070(1059) 285(256) |  82 |            0 |
+`-----------------------------------------------------------------------------'
+"-. hp 849/854 | sp 483/706 | ep 383/385 | exp 28 | cash 20/260582 .-"
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+hp 849/854 (-5) | sp 483/706 (-86) | ep 383/385 (-2)
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+p say Full hp.
+You feel fully healed.
+hp 854/854 (+5) | sp 613/706 (+130) | ep 385/385 (+2)
+Nuane [party]: Full hp.
+"-. hp 854/854 | sp 613/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Ghost of Brock [party]: hidastaah on ulkoo
+Morglum (party): 1
+*Hannah ticks 115 sps[30s].
+Hannah removes alchemist moulded ring labeled as +5int.
+Hannah removes alchemist moulded ring labeled as +5int.
+Hannah removes the crown of mental power.
+Hannah removes Faded blue glove.
+Hannah removes Faded blue glove.
+Hannah removes The staff of Lerethin from its right hand.
+Hannah removes The staff of Lerethin from its left hand.
+Hannah removes dark grey and white plaid kilt.
+Hannah removes a little leather bag.
+Hannah removes Glass armbands.
+Hannah removes strong sapphire boots.
+Hannah shivers from the cold.
+Hannah wears leggings of putrid flesh (undead), The Bracers of Gods <red glow>, Boots of the Goddess, a collar made of black silk <red glow>, an ancient staff of the necromancer <yellow glow>, a wand of magic <orange glow>, Red Glove of the Healer, Red Glove of the Healer, tarnished Golden Helm <orange glow>, A heavy black metal ring and Ring Of Spiritual Prowess [Made by: Zion] labeled as 6spr.
+Morglum invokes the powers of ancient gods and chants 'vokinsalak
+ elfirtluassa'
+Brock arrives through a loophole in space-time continuum.
+The corpse starts to move.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 50m 41s) | Exp/min:       593 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Martow        fol 1706(1706)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol  622(2018)   -1(  48) 413(413) |  80 |        37626 |
+| 2.2   Morglum       fol 1061( 844) 1016(1397) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  854( 854)  613( 706) 385(385) |  78 |        36281 |
+| 3.2   Hannah        ldr  787( 813)  551(1129) 269(268) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 768)  532( 785) 338(316) |  78 |        28457 |
+| ?.?   Susette      dead    1( 275)  949(1013) 248(221) |  75 |        40372 |
+|*?.?   Caruth       dead    1(1510) -292(  25) 403(383) |  80 |            0 |
+| ?.?   Brock         mbr  101( 482) 1070(1059) 256(256) |  82 |            0 |
+`-----------------------------------------------------------------------------'
+"-. hp 854/854 | sp 613/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Slith [wanted]: infra is demoni on pomoni
+Morglum (party): Raising -> caruth
+Hannah removes a collar made of black silk.
+Info: Shodan left the game.
+Brock starts concentrating on a new spell.
+Brock [party]: raising susette
+cft
+You start chanting.
+"-. hp 854/854 | sp 613/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Hannah wears a little leather bag.
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Campfire tune: ##
+Ramjett [wanted]: heat reduction?
+Brock starts following the leader.
+Campfire tune: #
+Nerull [party]: Aether armour down. [11m28s]
+Robinhood [wanted]: thank you. but that spell soudns so familar!
+Hannah guides Brock to the left side of 3rd row.
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Brock
+Your playing heals Nerull
+Your playing heals Hannah
+*Foxbat ticks +95 sps [00:30] <79% of full sps>.
+Morglum (party): placee ittes brock
+cft
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+You start chanting.
+"-. hp 854/854 | sp 542/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Martow [party]: <AoA:- PfG:ON Us:ON FS:->
+hp 854/854 () | sp 542/706 (-71) | ep 385/385 ()
+Campfire tune: ##
+You skillfully cast the spell with haste.
+Gore <fin>: ok, koska en ole koodaillut spessuja equmonsuihin niin en myöskään siis puutu tähän keskusteluun tämän enempää, piti vaan varmistaa ettei joku mun säätö nyt riko kaikkea.
+Info: Kinila goes link dead.
+Morglum invokes the powers of ancient gods and chants 'vokinsalak
+ elfirtluassa'
+Caruth arrives through a loophole in space-time continuum.
+The corpse starts to move.
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Caruth
+Your playing heals Brock
+Your playing heals Nerull
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Gore <fin>: kiitoksia ja illanjatkoja.
+Brock [party]: kophillaa o
+Vippy [wanted]: heat reduction someone said
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+hp 854/854 () | sp 471/706 (-71) | ep 385/385 ()
+Morglum starts concentrating on a new spell.
+Morglum (party): Raising -> susette
+Brock [party]: 1
+Brock cast(s) -> 'Raise Dead'
+Susette arrives through a loophole in space-time continuum.
+The corpse starts to move.
+cft
+You start chanting.
+"-. hp 854/854 | sp 471/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+Martow [party]: (War ensemble off)
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+*Hannah ticks 156 sps[27s].
+Morglum aborts the spell casting.
+Brock starts concentrating on a new spell.
+Susette starts following the leader.
+Caruth starts following the leader.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 51m  7s) | Exp/min:       592 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Susette       fol  101( 275) 1013(1013) 221(221) |  75 |        40372 |
+| 1.2   Martow        fol 1706(1338)   65(  65) 421(418) |  80 |        45292 |
+| 1.3   Nerull        fol  880(2074)   12(  53) 413(416) |  80 |        37626 |
+|*2.1   Caruth        fol  223(1510) -192(  25) 383(383) |  80 |            0 |
+| 2.2   Morglum       fol 1061( 844)  948(1397) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  854( 854)  471( 706) 385(385) |  78 |        36281 |
+| 3.1   Brock         fol  297( 509)  861(1140) 256(271) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 813)  677(1134) 269(268) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 768)  627( 785) 338(316) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 854/854 | sp 471/706 | ep 385/385 | exp 28 | cash 20/260582 .-"
+hp 854/854 () | sp 603/706 (+132) | ep 385/385 ()
+Campfire tune: ##
+p say Death effects gone.
+You feel more vital.
+Campfire tune: #
+Susette [party]: Death Effects --> OFF
+Nuane [party]: Death effects gone.
+"-. hp 854/866 | sp 603/750 | ep 385/408 | exp 28 | cash 20/260582 .-"
+Hannah swaps the places of Susette and Caruth.
+Morglum (party): joko me voitettais =)
+Morglum points toward an object and shouts 'Gawd DAMN IT!'
+Morglum calls a curse upon weapon.
+Brock cast(s) -> 'Major Party Heal'
+Brock's spell heals you. You feel little better.
+hp 856/866 (+2) | sp 603/750 () | ep 385/408 ()
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Susette
+Your playing heals Caruth
+Your playing heals Brock
+Your playing heals Nerull
+Your playing heals Nuane
+Nuane's song heals some of your wounds.
+party say War Ensemble off. [0s]
+The effect of war ensemble wears off.
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |M O+.'
+Hannah says '  /---\       /---\.'
+Hannah says '       \     /.'
+Hannah says '        \---/.'
+Hannah says '        | PO|.'
+Hannah says '        /---\.'
+Hannah says '       /     \.'
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Brock starts concentrating on a new spell.
+Nuane [party]: War Ensemble off. [0s]
+"-. hp 866/490 | sp 532/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 51m 15s) | Exp/min:       592 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+|*1.1   Caruth        fol  547(1510) -192(  25) 383(383) |  80 |            0 |
+| 1.2   Martow        fol 1706(1338)   65(  65) 421(418) |  80 |        45292 |
+| 1.3   Nerull        fol 1256(2074)   27(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  249( 285) 1013(1061) 221(231) |  75 |        40372 |
+| 2.2   Morglum       fol 1061( 844)  746(1394) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  866( 490)  532( 750) 385(382) |  78 |        36281 |
+| 3.1   Brock         fol  460( 509)  763(1140) 256(271) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 813)  671(1134) 269(268) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 768)  627( 785) 338(316) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/490 | sp 532/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Morglum starts concentrating on a new spell.
+cft
+You start chanting.
+"-. hp 866/490 | sp 532/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Hannah leaves southwest.
+Susette leaves southwest.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Temple (se,s,w,ne,nw).
+A small pile of bronze coins, a small pile of copper coins and two
+handfuls of onyx gravel
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from northeast.
+Nerull arrives from northeast.
+Morglum arrives from northeast.
+Martow arrives from northeast.
+Caruth arrives from northeast.
+Brock flies in from northeast.
+hp 866/490 (+10) | sp 532/750 (-71) | ep 385/382 ()
+Hannah says '  +-+-/       \---/.'
+Hannah says '  +  O|       |  O|.'
+Hannah says '  +-+-\       /---\.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/.'
+Hannah says '  |  O+-+ PO|.'
+Hannah says '  +---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |M  + +  O+.'
+Hannah says '        /-+-+ /---\.'
+Brock starts concentrating on a new spell.
+Hannah leaves northwest.
+Susette leaves northwest.
+Temple (se,s,w,n,ne).
+A small pile of silver coins and a toad shaped poker of ebony
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southeast.
+Nerull arrives from southeast.
+Morglum arrives from southeast.
+Martow arrives from southeast.
+Caruth arrives from southeast.
+Brock flies in from southeast.
+cft
+You start chanting.
+"-. hp 866/490 | sp 532/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+Brock starts concentrating on a new spell.
+Martow [party]: protit
+Campfire tune: ##
+You skillfully cast the spell with haste.
+*Foxbat ticks +99 sps [00:30] <92% of full sps>.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 51m 23s) | Exp/min:       592 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol  571(1580) -191(  27) 383(401) |  80 |            0 |
+| 1.2   Martow        fol 1706(1338)   65(  65) 421(418) |  80 |        45292 |
+| 1.3   Nerull        fol 1256(2074)   27(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  249( 285) 1013(1061) 221(231) |  75 |        40372 |
+| 2.2   Morglum       fol 1061( 844)  746(1394) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  866( 490)  532( 750) 385(382) |  78 |        36281 |
+| 3.1   Brock         fol  462( 509)  905(1140) 260(271) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 813)  659(1134) 269(268) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 768)  726( 785) 338(316) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/490 | sp 532/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Hannah starts concentrating on a new skill.
+*Hannah is performing ceremony...
+Susette [party]: pfg:t
+Brock cast(s) -> 'True Heal'
+Brock casts her spell at Caruth.
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Brock
+Your playing heals Caruth
+Your playing heals Nerull
+Your playing heals Susette
+Nerull [party]: Prots: Us
+Foxbat [party]: Got stats back [05:04]
+Mardus (wanted): tiger, monk for one kill (kharadus)
+cft
+You start chanting.
+"-. hp 866/490 | sp 461/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 51m 27s) | Exp/min:       592 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 1369(1580) -191(  27) 383(401) |  80 |            0 |
+| 1.2   Martow        fol 1706(1338)   65(  65) 421(418) |  80 |        45292 |
+| 1.3   Nerull        fol 1365(2074)   27(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  285( 285) 1013(1061) 221(231) |  75 |        40372 |
+| 2.2   Morglum       fol 1061( 844)  746(1394) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  866( 490)  461( 750) 385(382) |  78 |        36281 |
+| 3.1   Brock         fol  509( 509)  701(1140) 260(271) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 813)  659(1134) 269(268) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 795)  726( 838) 338(335) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/490 | sp 461/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+hp 866/490 () | sp 461/750 (-71) | ep 385/382 ()
+Campfire tune: ##
+Morglum (party): dicee heti ku toi kuolee ni voin jaada joko venaa loppua tai lahtee mnee =)
+Amarth <fin>: oli muuten tossa hirvikolari enemmdn kuin ldhelld
+Brock starts concentrating on a new spell.
+Campfire tune: #
+Avenar [wanted]: summon to civilazation paying
+Brock cast(s) -> 'True Heal'
+Brock casts her spell at Nerull.
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Caruth
+Your playing heals Nerull
+Bagr [wanted]: its fire resistance
+ps
+hp 866/490 () | sp 519/750 (+58) | ep 385/382 ()
+Info: Slith left the game.
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 51m 38s) | Exp/min:       592 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 1469(1580) -191(  27) 383(401) |  80 |            0 |
+| 1.2   Martow        fol 1706(1338)   65(  65) 421(418) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   27(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  285( 285) 1061(1061) 227(231) |  75 |        40372 |
+| 2.2   Morglum       fol 1061( 844)  887(1394) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  866( 490)  519( 750) 385(382) |  78 |        36281 |
+| 3.1   Brock         fol  509( 509)  497(1140) 260(271) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 813)  826(1134) 269(268) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 795)  726( 838) 338(335) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/490 | sp 519/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+*Hannah ticks 167 sps[27s].
+Brock starts concentrating on a new spell.
+cft
+You start chanting.
+"-. hp 866/490 | sp 519/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Campfire tune: ##
+Hannah performs a solemn ceremony to please Aveallis.
+Martow [party]: pfg+aoa+ensemble
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+Brock cast(s) -> 'Cure Critical Wounds'
+Brock casts her spell at Caruth.
+Campfire tune: #
+Brock starts concentrating on a new skill.
+Morglum starts concentrating on a new spell.
+Morglum (party): pfg -> martow
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 51m 48s) | Exp/min:       592 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 1580(1580) -188(  27) 392(401) |  80 |            0 |
+| 1.2   Martow        fol 1706(1338)   65(  65) 421(418) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   41(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  285( 285) 1061(1061) 227(231) |  75 |        40372 |
+| 2.2   Morglum       fol 1061( 844)  887(1394) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  866( 490)  519( 750) 385(382) |  78 |        36281 |
+| 3.1   Brock         fol  509( 509)  632(1140) 266(271) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 813)  814(1134) 268(268) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 795)  726( 838) 338(335) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/490 | sp 519/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Hannah [party]: Sticky ----
+Kharadus [wanted]: someone without eqs to come and kill me
+Hannah [party]: casting concealed
+hp 866/490 () | sp 448/750 (-71) | ep 385/382 ()
+*Foxbat ticks +106 sps [00:30] <99% of full sps>.
+Hannah tweaks Caruth's nose mischeviously.
+Caruth [party]: Prots: Flex 315m28s|Fire 1756m39s|Elec 12m18s
+Kharadus [wanted]: ask mardus for summon
+Hannah cast(s) -> 'zicks laai qluu'
+Martow seems to look different.
+Hannah [party]: --> War Ensemble wears Off <--
+Hannah [party]: --> Detecting Auras ---> caruth <--
+Hannah [party]: casting concealed
+Brock performs a solemn ceremony to please Aveallis.
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 52m  0s) | Exp/min:       591 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 1580(1580) -188(  27) 392(401) |  80 |            0 |
+| 1.2   Martow        fol 1706(1338)   65(  65) 421(418) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   41(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  285( 285) 1061(1061) 227(231) |  75 |        40372 |
+| 2.2   Morglum       fol 1061( 844)  887(1394) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  866( 490)  448( 750) 385(382) |  78 |        36281 |
+| 3.1   Brock         fol  509( 509)  632(1140) 265(271) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 393)  757(1134) 268(238) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 795)  832( 838) 338(335) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/490 | sp 448/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Caruth [party]: (o) emsamle (o)
+Descad {fin}: missä päin maailmaa
+Hannah cast(s) -> 'Aura Detection'
+Hannah falters and loses its spell.
+Hannah starts concentrating on a new spell.
+Hannah [party]: --> Detecting Auras ---> caruth <--
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+*Hannah ticks 163 sps[35s].
+hp 866/490 () | sp 584/750 (+136) | ep 385/382 ()
+Hannah cast(s) -> 'Aura Detection'
+Info: Duke sent a news article to ideas-wanted.
+Morglum cast(s) -> 'Protection From Good'
+Martow is suddenly surrounded by a vile black aura.
+Caruth [party]: (o) ok hannah (o)
+Martow [party]: (Protection from good off)
+Martow [party]: (Protection from good on)
+Hannah [party]: Sticky ----
+Hannah [party]: casting concealed
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 52m 13s) | Exp/min:       591 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 1580(1580) -188(  27) 392(401) |  80 |            0 |
+| 1.2   Martow        fol 1706(1338)   65(  65) 421(418) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   41(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  285( 285) 1061(1061) 231(231) |  75 |        40372 |
+| 2.2   Morglum       fol 1061( 844)  855(1394) 448(431) |  86 |            0 |
+| 2.3   Nuane         fol  866( 490)  584( 750) 385(382) |  78 |        36281 |
+| 3.1   Brock         fol  509( 509)  632(1140) 265(271) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 393)  874(1134) 268(238) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071( 795)  832( 838) 338(335) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/490 | sp 584/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Hannah [party]: --> pfg caruth <--
+Morglum (party): pfg -> caruth
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+Hannah cast(s) -> 'zicks laai qluu'
+Hannah fails miserably in its spell.
+ware
+You start chanting.
+"-. hp 866/490 | sp 584/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Hannah [party]: Sticky ----
+Hannah [party]: casting concealed
+War ensemble: ####
+You skillfully cast the spell with haste.
+Brock starts concentrating on a new spell.
+Brock [party]: Unpaining ca.
+dam
+"-. hp 866/490 | sp 584/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+You remove the Bracelets of Darkness.
+You remove golden wristbands.
+You remove a pair of blue radium boots.
+You remove Rod of Artemis.
+You remove a purple glove.
+You remove a purple glove.
+You remove tarnished Golden Helm labeled as ghelm.
+You remove a golden pendant inscribed with a symbol of Aeo labeled as aeo.
+You remove a magic cloak.
+You remove The vest of Abriel.
+You remove an ancient staff of the necromancer.
+You remove the frozen ice belt of the demon lord.
+
+Your body returns to normal temperature.  You become confused and shiver
+as your body remembers the safety and comfort of how the frost felt.
+
+You remove a pair of dirty leggings.
+"-. hp 866/490 | sp 584/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+Trumpets ring through the hills as the Helm of the Crimson Plume that you have
+placed upon your head causes your vision to swim and multiply.
+
+             A distant voice echoes in your head ......
+
+
+               Lonely are my tears of pain 
+               and i'm punsished by their cause 
+               pain is that what we are 
+               waiting for ? While grief lies 
+               at your door. For shreds of 
+               flesh you have torn. The 
+               pain comes back for me, too 
+               vague for you to see. 
+               Ill rest now on my burning throne'
+               This painful life has raped 
+               my mind ...
+You wear leather glove (glowing), leather glove (glowing), helm of the Crimson
+Plume (glowing) <orange glow>, Pendant of Quickness (glowing) <orange glow>,
+Cloak of fire (glowing) <orange glow>, a silver jacket (glowing) <orange
+glow>, staff of a jester (glowing) <orange glow>, the staff of olympus
+(glowing) <yellow glow>, Girdle of Feral Power (glowing) <orange glow>, a pair
+of lambskin leggings (glowing) <white glow>, great yellow boots (glowing)
+<orange glow>, Glass armbands (glowing) <yellow glow>, Bracelet of Despair
+(glowing) and Bracelet of Despair labeled as test1 (glowing) <blue glow>.
+"-. hp 866/490 | sp 584/750 | ep 385/382 | exp 28 | cash 20/260582 .-"
+War ensemble: ##
+Hannah cast(s) -> 'zicks laai qluu'
+Hannah falters and loses its spell.
+Hannah starts concentrating on a new spell.
+Hannah [party]: Sticky ----
+War ensemble: #
+p say tungenpa sitä waree joka koloon
+Nuane [party]: tungenpa sitä waree joka koloon
+"-. hp 866/490 | sp 584/739 | ep 385/421 | exp 28 | cash 20/260582 .-"
+You are done with the chant.
+CASTED.
+You sing: 'War is TOTAL massacre, sport the war, war SUPPOORT!!!'
+Brock is full of battle rage!
+Caruth is full of battle rage!
+Martow is full of battle rage!
+Morglum is full of battle rage!
+Foxbat is full of battle rage!
+You feel full of battle rage! Victory is CERTAIN!
+Susette is full of battle rage!
+Hannah is full of battle rage!
+Hannah cast(s) -> 'zicks laai qluu'
+Hannah fails miserably in its spell.
+hp 866/715 () | sp 385/739 (-199) | ep 385/423 ()
+Brock [party]: Ensemble active.
+Susette [party]: War ensemble --> On
+regen
+"-. hp 866/715 | sp 385/739 | ep 385/423 | exp 28 | cash 20/260582 .-"
+You remove Bracelet of Despair.
+You remove Bracelet of Despair labeled as test1.
+You remove Glass armbands.
+You remove great yellow boots.
+You remove leather glove.
+You remove leather glove.
+You remove helm of the Crimson Plume.
+The helm has been removed and your extra senses seem to fade away.  It takes a
+moment for your eyes to see clearly once again.
+You remove Pendant of Quickness.
+You remove Cloak of fire.
+
+Something whispers ...
+
+Crawling out of life my fire is strong
+I'm hurt now, don't turn your back
+Forgive me as i die ....
+You remove a silver jacket.
+You remove staff of a jester.
+You remove the staff of olympus.
+You remove Girdle of Feral Power.
+You remove a pair of lambskin leggings.
+"-. hp 866/715 | sp 385/739 | ep 385/423 | exp 28 | cash 20/260582 .-"
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+
+You shiver from the cold.  Your blood freezes in its path.
+The air freezes in your lungs.  Your breath catches in your
+throat.  Your flesh crawls as the ice travels to your limbs.
+After a moment your body becomes used to the feeling.
+
+You wear a purple glove (glowing), a purple glove (glowing), tarnished Golden
+Helm labeled as ghelm (glowing) <orange glow>, a golden pendant inscribed with
+a symbol of Aeo labeled as aeo (glowing) <yellow glow>, a magic cloak
+(glowing) <orange glow>, The vest of Abriel (glowing) <orange glow>, an
+ancient staff of the necromancer (glowing) <yellow glow>, Rod of Artemis
+(glowing) <yellow glow>, the frozen ice belt of the demon lord (glowing)
+<purple glow>, a pair of dirty leggings (glowing) <yellow glow>, a pair of
+blue radium boots (glowing) <orange glow>, golden wristbands (glowing) <orange
+glow> and the Bracelets of Darkness (glowing).
+"-. hp 866/715 | sp 385/739 | ep 385/423 | exp 28 | cash 20/260582 .-"
+Hannah [party]: Sticky ----
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 52m 31s) | Exp/min:       591 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 1580(1961) -183(  27) 401(404) |  80 |            0 |
+| 1.2   Martow        fol 1706(1696)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   53(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  285( 510) 1061(1061) 231(247) |  75 |        40372 |
+| 2.2   Morglum       fol 1061(1069)  855(1394) 448(452) |  86 |            0 |
+| 2.3   Nuane         fol  866( 715)  385( 750) 385(396) |  78 |        36281 |
+| 3.1   Brock         fol  509( 890)  802(1140) 270(302) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 618)  737(1134) 268(253) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071(1225)  838( 838) 338(362) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/715 | sp 385/750 | ep 385/396 | exp 28 | cash 20/260582 .-"
+Hannah [party]: casting concealed
+Foxbat [party]: War Ensemble <UP> [+430hp] (Cast by: Nuane.)
+Brock cast(s) -> 'Unpain'
+Amarth <fin>: ajettiin kolme autoo suht. kovaa tollasta pimeetd metsataipaletta kun oltiin menossa yhdelle testausalueell Hki-Vantaan lentokentan ja Klaukkalan valissa, yhtakkii tielle puskee kolme aivan_vitun_isoa hirvee out of nowhere
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+Caruth [party]: Unpain Active.
+*Hannah ticks 162 sps[24s].
+Brock starts concentrating on a new spell.
+Thematrix [bat]: Anna are you a boy? or a gurl?
+hp 866/715 () | sp 513/750 (+128) | ep 389/396 (+4)
+Hannah cast(s) -> 'zicks laai qluu'
+Caruth seems to look different.
+ps
+Avenar [wanted]: paying 1k for that summon...
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 52m 35s) | Exp/min:       591 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 1849(2230) -183(  27) 401(404) |  80 |            0 |
+| 1.2   Martow        fol 1706(1696)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   53(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  290( 510) 1061(1061) 239(247) |  75 |        40372 |
+| 2.2   Morglum       fol 1069(1069) 1006(1394) 452(452) |  86 |            0 |
+| 2.3   Nuane         fol  866( 715)  513( 750) 389(396) |  78 |        36281 |
+| 3.1   Brock         fol  509( 890)  682(1140) 270(302) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 618)  842(1134) 268(253) |  90 |        54604 |
+| 3.3   Foxbat        fol 1071(1225)  838( 838) 338(362) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/715 | sp 513/750 | ep 389/396 | exp 28 | cash 20/260582 .-"
+Brock cast(s) -> 'Major Party Heal'
+Hannah starts concentrating on a new spell.
+Hannah [party]: Armour Of Aether ---> caruth
+cft
+You start chanting.
+"-. hp 866/715 | sp 513/750 | ep 389/396 | exp 28 | cash 20/260582 .-"
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+Campfire tune: ##
+Susette cast(s) -> 'Armour of Aether'
+As Susette casts the spell, she pulls out a small highsteel disc from a small pouch.
+Campfire tune: #
+Martow [party]: (Sticky armour of aether on)
+Morglum looks at Caruth.
+Brock starts concentrating on a new spell.
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Brock
+Your playing heals Caruth
+Your playing heals Foxbat
+Your playing heals Susette
+Hannah cast(s) -> 'Armour of Aether'
+As Hannah casts the spell, it pulls out a small highsteel disc which bursts into a million prismatic starbursts.
+Avenar [wanted]: got from Haii
+Morglum looks at Nerull.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 52m 48s) | Exp/min:       591 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 2220(2230) -178(  27) 404(404) |  80 |            0 |
+| 1.2   Martow        fol 1706(1696)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   53(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  508( 510)  755(1061) 239(247) |  75 |        40372 |
+| 2.2   Morglum       fol 1069(1069) 1006(1394) 452(452) |  86 |            0 |
+| 2.3   Nuane         fol  866( 715)  442( 750) 389(396) |  78 |        36281 |
+| 3.1   Brock         fol  850( 890)  767(1140) 276(302) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 618)  632(1134) 268(253) |  90 |        54604 |
+| 3.3   Foxbat        fol 1225(1225)  838( 838) 338(362) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/715 | sp 442/750 | ep 389/396 | exp 28 | cash 20/260582 .-"
+hp 866/715 () | sp 442/750 (-71) | ep 389/396 ()
+Hannah [party]: --> kaikki protit up? <--
+ps
+Brock cast(s) -> 'Minor Party Heal'
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 52m 53s) | Exp/min:       591 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 2230(2230) -178(  27) 404(404) |  80 |            0 |
+| 1.2   Martow        fol 1706(1696)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   53(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  510( 510)  755(1061) 239(247) |  75 |        40372 |
+| 2.2   Morglum       fol 1069(1069) 1006(1394) 452(452) |  86 |            0 |
+| 2.3   Nuane         fol  866( 715)  442( 750) 389(396) |  78 |        36281 |
+| 3.1   Brock         fol  867( 890)  729(1140) 276(302) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 618)  632(1134) 268(253) |  90 |        54604 |
+| 3.3   Foxbat        fol 1225(1225)  838( 838) 347(362) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/715 | sp 442/750 | ep 389/396 | exp 28 | cash 20/260582 .-"
+Hannah tweaks Nerull's nose mischeviously.
+Brock starts concentrating on a new spell.
+Brock [party]: Unpaining martow.
+save
+Nerull [party]: Prots: Us
+SAVED.
+"-. hp 866/715 | sp 442/750 | ep 389/396 | exp 28 | cash 20/260582 .-"
+score
+Name: Nuane Maanviljelija the Sprite < ¿ >
+----------------------------------------------------------------------
+Player level: 78                        Experience: 28
+Money: 20.00                            Bank: 260582.91
+Explore count: 10224/12100 (E%: 84)     Last reinc: Sep 27 2002
+Task Points: 6                          Reinc Count: 35
+
+  Hit Points     Spell Points     Endurance Points
+    866/715         442/750            389/396
+
+Str: Nice (36++)          Dex: Great (174++)        Con: Good (44+)           
+Int: Great (114+)         Wis: Great (113)          
+Cha: Tolerable (46)       Siz: Short (37)           
+
+You have a mediocre ability for avoiding hits.
+You are a blessing to the world.
+You have completed 21 active quests.  (15 level, 1 guild, 5 area)
+You feel refreshed, satiated, very young and brave.
+Soya leads the sprite race.
+"-. hp 866/715 | sp 442/750 | ep 389/396 | exp 28 | cash 20/260582 .-"
+Sirus [sales]: W:+5 mastery of camping blankie
+Sirus [wanted]: +5 mastery of camping blankie
+Brock cast(s) -> 'Unpain'
+Martow [party]: (Unpain on)
+Hannah [party]: Sticky ----
+*Hannah ticks 159 sps[27s].
+Hannah [party]: casting concealed
+Susette starts concentrating on a new spell.
+Brock starts concentrating on a new skill.
+hp 866/715 () | sp 580/750 (+138) | ep 393/396 (+4)
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 53m  2s) | Exp/min:       590 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 2230(2230) -178(  27) 404(404) |  80 |            0 |
+| 1.2   Martow        fol 1978(1978)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   53(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  510( 510)  890(1061) 247(247) |  75 |        40372 |
+| 2.2   Morglum       fol 1069(1069) 1161(1394) 452(452) |  86 |            0 |
+| 2.3   Nuane         fol  866( 715)  580( 750) 393(396) |  78 |        36281 |
+| 3.1   Brock         fol  867( 890)  579(1140) 276(302) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 618)  791(1134) 268(253) |  90 |        54604 |
+| 3.3   Foxbat        fol 1225(1225)  838( 838) 347(362) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/715 | sp 580/750 | ep 393/396 | exp 28 | cash 20/260582 .-"
+Caruth [party]: Elecprot Down [13m26s]
+Hannah [party]: --> pfg nerull <--
+Brock performs a solemn ceremony to please Aveallis.
+Susette cast(s) -> 'zicks laai qluu'
+Nerull seems to look different.
+Hannah cast(s) -> 'zicks laai qluu'
+Nerull seems to look different.
+Morglum (party): pfg -> nerull
+Hannah starts concentrating on a new spell.
+Hannah [party]: Armour Of Aether ---> nerull
+Foxbat starts concentrating on a new skill.
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+Ramjett [wanted]: nog it's heat reduction
+Susette starts concentrating on a new skill.
+Susette [party]: Ceremony...
+Nerull smiles happily.
+Morglum cast(s) -> 'Protection From Good'
+Nerull is suddenly surrounded by a vile black aura.
+Nerull [party]: PfG Active.
+f nuane
+Nuane Maanviljelija is a level 78 mortal of the Sprite race.
+She was created Sun Feb 18 16:04:07 2001 and she is 273d, 13h, 24min and 48s old.
+She has been on for 14h, 37min and 39s, not idle.
+She has killed: an enormous grizzly bear, 55196 exp
+                Tom Bombadil is here feeding birds a.., 761451 exp (party of 9)
+Web page: 30bard30channeller3nav                                   (finger nobbs)
+Plan:
+>Jellybelly [twilight+]: Onhan jenkkienkin presidenttinä aivoton alkoholisti
+>narkkari downinsyndroomainen koeputkikeskonen
+>Jellybelly [twilight+]: Itse asiassa jos se mudais ni senhän vois invaa tänne
+>Shadizar [twilight+]: " WE ARE CERTAIN THAT TWILIGHT+ HAS URANIUM TO BUILD UP
+>A TORSOMAKER "
+"-. hp 866/715 | sp 580/750 | ep 393/396 | exp 28 | cash 20/260582 .-"
+Susette performs a solemn ceremony to please Aveallis.
+Hannah [party]: --> menee aoasta <--
+Amarth <fin>: painoin niin vitusti sita jarruu kuin vaan lahti (ei ehtiny ABS paljoo sanoo kun renkaat huus), keskimmainen hirvi vetas viel turvalleen asfaltilla paniikissa
+*Hannah ticks 158 sps[27s].
+Hannah cast(s) -> 'Armour of Aether'
+Hannah fails miserably in its spell.
+Foxbat performs a solemn ceremony to please Aveallis.
+wq
+Queue is empty.
+123 unidle mortals in the game and 175 mortals in total.
+Maximum unidle mortals is 1337.
+"-. hp 866/715 | sp 580/750 | ep 393/396 | exp 28 | cash 20/260582 .-"
+save
+SAVED.
+"-. hp 866/715 | sp 580/750 | ep 393/396 | exp 28 | cash 20/260582 .-"
+ps
+Foxbat starts concentrating on a new spell.
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 53m 31s) | Exp/min:       590 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 2230(2230) -173(  27) 404(404) |  80 |            0 |
+| 1.2   Martow        fol 1978(1978)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   53(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  510( 510)  958(1061) 247(247) |  75 |        40372 |
+| 2.2   Morglum       fol 1069(1069) 1127(1394) 452(452) |  86 |            0 |
+| 2.3   Nuane         fol  866( 715)  580( 750) 393(396) |  78 |        36281 |
+| 3.1   Brock         fol  872( 890)  758(1140) 280(302) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 618)  586(1134) 268(253) |  90 |        54604 |
+| 3.3   Foxbat        fol 1225(1225)  838( 838) 355(362) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/715 | sp 580/750 | ep 393/396 | exp 28 | cash 20/260582 .-"
+Anna [bat]: i am a woman
+Hannah starts concentrating on a new spell.
+Hannah [party]: Armour Of Aether ---> nerull
+hp 866/715 () | sp 716/750 (+136) | ep 396/396 (+3)
+Hannah [party]: --> joo! <--
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ¿                            (Members:  9) | Exp Tot:    350876 |
+| Created: Tue Oct 01 14:24:40 2002        ( 9h 53m 34s) | Exp/min:       590 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Caruth        fol 2230(2230) -173(  27) 404(404) |  80 |            0 |
+| 1.2   Martow        fol 1978(1978)   65(  65) 421(421) |  80 |        45292 |
+| 1.3   Nerull        fol 2074(2074)   53(  53) 416(416) |  80 |        37626 |
+| 2.1   Susette       fol  510( 510)  958(1061) 247(247) |  75 |        40372 |
+| 2.2   Morglum       fol 1069(1069) 1127(1394) 452(452) |  86 |            0 |
+| 2.3   Nuane         fol  866( 715)  716( 750) 396(396) |  78 |        36281 |
+| 3.1   Brock         fol  872( 890)  758(1140) 280(302) |  82 |            0 |
+| 3.2   Hannah        ldr  813( 618)  586(1134) 268(253) |  90 |        54604 |
+| 3.3   Foxbat        fol 1225(1225)  838( 838) 355(362) |  78 |        28457 |
+`-----------------------------------------------------------------------------'
+"-. hp 866/715 | sp 716/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+wq
+Queue is empty.
+122 unidle mortals in the game and 175 mortals in total.
+Maximum unidle mortals is 1337.
+"-. hp 866/715 | sp 716/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Morglum (party): huoh
+save
+SAVED.
+"-. hp 866/715 | sp 716/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Hannah [party]: --> 2 <--
+Anna [bat]: you can check my website from sumu
+Hannah cast(s) -> 'Armour of Aether'
+As Hannah casts the spell, it pulls out a small highsteel disc which bursts into a million prismatic starbursts.
+Nerull [party]: Aether armour up (sticky).
+Hannah removes Ring Of Spiritual Prowess [Made by: Zion] labeled as 6spr.
+Hannah removes A heavy black metal ring.
+Hannah removes tarnished Golden Helm.
+Hannah removes Red Glove of the Healer.
+Hannah removes Red Glove of the Healer.
+Hannah removes leggings of putrid flesh (undead).
+Hannah removes The Bracers of Gods.
+Hannah removes Boots of the Goddess.
+Hannah removes an ancient staff of the necromancer.
+Hannah removes a wand of magic.
+Hannah wields The staff of Lerethin in its right hand.
+Hannah wields The staff of Lerethin in its left hand.
+Hannah wears dark grey and white plaid kilt <red glow>, Glass armbands <yellow glow>, strong sapphire boots, Faded blue glove, Faded blue glove, the crown of mental power, alchemist moulded ring labeled as +5int <red glow> and alchemist moulded ring labeled as +5int <red glow>.
+Amarth <fin>: onneks ne (ihme ja kumma) pelasty meita
+Hannah says '        +---/ +-+-/.'
+Hannah says '        |M  + +  O|.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +M O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |  O+ +  O|.'
+Hannah says '        +---\ +-+-\.'
+Hannah leaves northeast.
+Susette leaves northeast.
+Temple (se,w,n,sw,ne).
+A pile of copper coins
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southwest.
+Nerull arrives from southwest.
+Morglum arrives from southwest.
+Martow arrives from southwest.
+Caruth arrives from southwest.
+Brock flies in from southwest.
+Hannah says '        \-+-+ \---/.'
+Hannah says '        |M  + +  O+.'
+Hannah says '        /-+-+ /---\.'
+Hannah says '          |  /.'
+Hannah says '  +---/ +-+-/.'
+Hannah says '  |M  +-+ PO|.'
+Hannah says '  /-+-+ /---\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \---/.'
+Hannah says '  +  O|       |  O|.'
+Hannah says '  +-+-\       /---\.'
+Stalgrad [bat]: i am 2!!
+Hannah leaves northeast.
+Susette leaves northeast.
+Temple (se,e,w,sw,ne,nw).
+A pile of zinc coins and handful of onyx gravel
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from southwest.
+Nerull arrives from southwest.
+Morglum arrives from southwest.
+Martow arrives from southwest.
+Caruth arrives from southwest.
+Brock flies in from southwest.
+Hannah says '  \---/       \---/.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  +-+-\       /-+-+.'
+Hannah says '       \     /.'
+Hannah says '  \-+-+ \---/ +-+-/.'
+Hannah says '  |M  +-+ PO+-+  O|.'
+Hannah says '  /-+-+ /---\ +-+-\.'
+Hannah says '       /     \.'
+Hannah says '  +-+-/       \-+-+.'
+Hannah says '  +  O|       |  O+.'
+Hannah says '  /---\       /---\.'
+Morglum starts concentrating on a new offensive spell.
+Hannah leaves east.
+Susette leaves east.
+Temple (se,s,w,n,ne).
+A large pink moss agate and a match
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from west.
+Nerull arrives from west.
+Morglum arrives from west.
+Martow arrives from west.
+Caruth arrives from west.
+Brock flies in from west.
+Anna [bat]: home.nycap.rr.com/sumu
+Hannah says '        \---/ +-+-/.'
+Hannah says '        |  O+ +   |.'
+Hannah says '        /-+-+ /---+.'
+Hannah says '          |  /.'
+Hannah says '  \---/ +-+-/.'
+Hannah says '  +  O+-+ PO|.'
+Hannah says '  /---\ +-+-\.'
+Hannah says '          |  \.'
+Hannah says '        \-+-+ \---+.'
+Hannah says '        |  O+ +M O|.'
+Hannah says '        /---\ +-+-\.'
+Hannah leaves south.
+Susette leaves south.
+Temple (se,e,n,sw,nw).
+A pile of bronze coins and three handfuls of onyx gravel
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+Foxbat arrives from north.
+Nerull arrives from north.
+Morglum arrives from north.
+Martow arrives from north.
+Caruth arrives from north.
+Brock flies in from north.
+*Hannah ticks 122 sps[29s].
+Hannah [party]: --> meni <--
+Hannah leaves east.
+Susette leaves east.
+Temple (se,s,w,nw).
+A small pile of bronze coins, a big pile of mowgles coins, a pile of
+zinc coins, small simple key, a rusty iron key and black door
+key
+Susette the Duck blasts and prots < ¿ >
+Hannah Lovers the wicked Kobold and horny Sorceress < ¿ >
+a high priestess of Esachen, protector of stability
+Your superb dexterity avoids a nasty ambush.
+Foxbat arrives from west.
+Nerull arrives from west.
+scan all
+*****************************************************
+Nerull hits Alexandra 1 time.
+Morglum arrives from west.
+Martow arrives from west.
+Caruth arrives from west.
+Brock flies in from west.
+Nerull reports: Hp: 2070 (2074) Sp: 53 (53) Ep: 416 (416).
+Hannah [party]: casting concealed
+unity
+Alexandra is near death.
+"-. hp 866/715 | sp 716/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+You start chanting.
+"-. hp 866/715 | sp 716/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Martow starts concentrating on a new offensive skill.
+Foxbat starts concentrating on a new spell.
+Nerull starts concentrating on a new offensive skill.
+Brock starts concentrating on a new spell.
+Susette starts concentrating on a new offensive spell.
+scan all
+*****************************************************
+Martow hits Alexandra 1 time.
+Caruth hits Alexandra 1 time.
+Strength in unity: ##
+You skillfully cast the spell with haste.
+Martow reports: Hp: 1978 (1978) Sp: 65 (65) Ep: 421 (421).
+Alexandra is near death.
+"-. hp 866/715 | sp 716/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Nerull reports: Hp: 2070 (2074) Sp: 53 (53) Ep: 416 (416).
+Caruth reports: Hp: 2230 (2230) Sp: -168 (27) Ep: 404 (404).
+scan all
+*****************************************************
+Alexandra hits Nerull 2 times.
+Martow's powerful bash sends Alexandra sprawling to the floor.
+You are done with the chant.
+CASTED.
+You sing: 'You say you don't believe this unity will last, nobody said it
+ would be perfect, but co-operate, share your pain and strength. Together we
+ are strong.
+ '
+You feel great unity with your party members.
+Alexandra is near death.
+"-. hp 866/715 | sp 600/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Martow reports: Hp: 1975 (1977) Sp: 65 (65) Ep: 411 (421).
+Hannah [party]: --> UNITY ACTIVE, LETS WHACK THE BASTARD! <--
+Nerull reports: Hp: 1847 (2074) Sp: 53 (53) Ep: 416 (416).
+Caruth reports: Hp: 2227 (2229) Sp: -168 (27) Ep: 404 (404).
+cft
+You start chanting.
+"-. hp 866/715 | sp 600/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Martow starts concentrating on a new offensive skill.
+scan all
+*****************************************************
+Nerull hits Alexandra 2 times.
+Alexandra hits Caruth 3 times.
+Brock cast(s) -> 'Major Party Heal'
+hp 715/715 (-151) | sp 600/750 (-116) | ep 396/396 ()
+Campfire tune: ##
+You skillfully cast the spell with haste.
+Hannah cast(s) -> 'Acid Blast'
+As Hannah casts the spell, it pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Hannah grins as its acid blast hits Alexandra.
+Nerull's powerful bash sends Alexandra sprawling to the floor.
+Morglum cast(s) -> 'Harm Body'
+Morglum casts a harming spell on Alexandra.
+Caruth reports: Hp: 2039 (2147) Sp: -168 (27) Ep: 404 (404).
+Nerull reports: Hp: 2040 (2074) Sp: 53 (53) Ep: 406 (416).
+Martow reports: Hp: 1977 (1977) Sp: 65 (65) Ep: 411 (421).
+Hannah [party]: 100% resist
+Alexandra is near death.
+"-. hp 715/715 | sp 600/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Caruth booms 'Hp: 2039 (2147) Sp: -168 (27) Ep: 404 (404).'
+Caruth [party]: Unstun Expired.[13m26s]
+Brock starts concentrating on a new spell.
+Hannah starts concentrating on a new offensive spell.
+scan all
+*****************************************************
+Caruth hits Alexandra 1 time.
+Susette cast(s) -> 'Golden Arrow'
+As Susette casts the spell, she pulls out a copper rod from a small pouch.
+Susette grins as her golden arrow hits Alexandra.
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Brock
+Your playing heals Caruth
+Your playing heals Nerull
+Your playing heals Susette
+Foxbat weaves a mystic matrix with glowing red lines in arcane ways and chants
+'Khizanth Arachnidus Diametricus'
+Alexandra turns very pale and shivers as if she had just been poisoned.
+Caruth reports: Hp: 2142 (2147) Sp: -168 (27) Ep: 404 (404).
+Nerull reports: Hp: 2074 (2074) Sp: 53 (53) Ep: 406 (416).
+Martow reports: Hp: 1977 (1977) Sp: 65 (65) Ep: 411 (421).
+Alexandra is near death.
+"-. hp 715/715 | sp 529/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Foxbat starts concentrating on a new offensive spell.
+Susette [party]: blast in (no analyze)
+cft
+You start chanting.
+"-. hp 715/715 | sp 529/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Susette starts concentrating on a new offensive spell.
+scan all
+*****************************************************
+Martow hits Alexandra 1 time.
+Martow's powerful bash sends Alexandra sprawling to the floor.
+Brock cast(s) -> 'Major Party Heal'
+hp 715/715 () | sp 529/750 (-71) | ep 396/396 ()
+Campfire tune: ##
+Martow reports: Hp: 1977 (1977) Sp: 65 (65) Ep: 401 (421).
+Alexandra is near death.
+"-. hp 715/715 | sp 529/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Caruth reports: Hp: 2146 (2147) Sp: -168 (27) Ep: 404 (404).
+Nerull reports: Hp: 2071 (2074) Sp: 53 (53) Ep: 406 (416).
+Nerull starts concentrating on a new offensive skill.
+Martow starts concentrating on a new offensive skill.
+Brock looks at Alexandra.
+Morglum (party): 2
+Brock starts concentrating on a new spell.
+Amarth <fin>: ((tai vaihtoehtosesti ne oli ylittamassa tosi loivasti sita tieta)) mutta perkele etta ne tulla rymisteli kovaa
+scan all
+*****************************************************
+Martow hits Alexandra 1 time.
+Nerull hits Alexandra 2 times.
+Alexandra hits Caruth 2 times.
+Campfire tune: #
+Hannah cast(s) -> 'Acid Blast'
+As Hannah casts the spell, it pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Hannah grins as its acid blast hits Alexandra.
+Martow reports: Hp: 1977 (1977) Sp: 65 (65) Ep: 401 (421).
+Hannah [party]: 100% resist
+Alexandra is near death.
+"-. hp 715/715 | sp 529/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Nerull reports: Hp: 2071 (2074) Sp: 53 (53) Ep: 406 (416).
+Caruth reports: Hp: 2036 (2115) Sp: -168 (27) Ep: 404 (404).
+Enochian [bat]: stalgrad is a hottie
+Hannah [party]: casting concealed
+Morglum (party): 1
+Bubo [wanted]: merchant for one identify
+scan all
+*****************************************************
+Caruth hits Alexandra 2 times.
+Morglum cast(s) -> 'Harm Body'
+Morglum casts a harming spell on Alexandra.
+Susette cast(s) -> 'Golden Arrow'
+As Susette casts the spell, she pulls out a copper rod from a small pouch.
+Susette grins as her golden arrow hits Alexandra.
+You are done with the chant.
+CASTED.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Your playing heals Caruth
+Your playing heals Morglum
+Your playing heals Foxbat
+Foxbat weaves a mystic matrix with glowing indigo lines and chants 'Khizanth
+ Arachnidus Iracundus'
+A shower of black blood flies from Foxbat's palm at Alexandra!
+hp 715/715 () | sp 458/750 (-71) | ep 396/396 ()
+Alexandra is near death.
+"-. hp 715/715 | sp 458/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Caruth reports: Hp: 2110 (2115) Sp: -168 (27) Ep: 404 (404).
+Nerull reports: Hp: 2074 (2074) Sp: 53 (53) Ep: 406 (416).
+Martow reports: Hp: 1977 (1977) Sp: 65 (65) Ep: 401 (421).
+Foxbat starts concentrating on a new offensive spell.
+cft
+Susette [party]: blast in (100 % resist)
+You start chanting.
+"-. hp 715/715 | sp 458/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+scan all
+*****************************************************
+Alexandra hits Martow 3 times.
+Alexandra cast(s) -> 'Dispel Magical Protection'
+Martow's powerful bash sends Alexandra sprawling to the floor.
+Brock cast(s) -> 'Major Party Heal'
+Campfire tune: ##
+Nerull's powerful bash sends Alexandra sprawling to the floor.
+Martow reports: Hp: 1589 (1791) Sp: 65 (65) Ep: 391 (421).
+Foxbat [party]: DMP
+Nerull reports: Hp: 2074 (2074) Sp: 53 (53) Ep: 396 (416).
+Hannah [party]: Remove Armour has been cast.
+Alexandra is near death.
+"-. hp 715/715 | sp 458/750 | ep 396/396 | exp 28 | cash 20/260582 .-"
+Caruth reports: Hp: 2111 (2111) Sp: -168 (27) Ep: 404 (404).
+Martow reports: Hp: 1589 (1791) Sp: 65 (65) Ep: 391 (421).
+Hannah [party]: --> 1 <--
+Brock starts concentrating on a new spell.
+Martow starts concentrating on a new offensive skill.
+Nerull starts concentrating on a new offensive skill.
+scan all
+*****************************************************
+Alexandra hits Martow 3 times.
+Alexandra exclaims 'Esachen! I bid you to balance their
+conditions!'
+A balancing wind sweeps through Susette and across the room!
+hp 505/715 (-210) | sp 458/750 () | ep 396/396 ()
+Campfire tune: #
+Hannah cast(s) -> 'Acid Blast'
+As Hannah casts the spell, it pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Hannah grins as its acid blast hits Alexandra.
+Esaches echoes 'Cursed be susette, nerull, gildron, martow and morglum.'
+Alexandra starts levitating and vibrating violently...
+Burglefloogah belches 'Die you balance whore, DIE!'
+      ...and suddenly EXPLODES splattering her intestines all over you.
+The magic mist around the dead Alexandra's neck leaps to Morglum's Kerbholz.
+An ivory amulet in the shape of small scales turns to dust.
+A pair of pure white flowing sleeves turns to dust.
+You are not in combat right now.
+"-. hp 505/715 | sp 458/750 | ep 396/396 | exp 70286 | cash 20/260582 .-"
+You gained 70258 xp.

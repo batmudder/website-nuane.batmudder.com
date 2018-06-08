@@ -1,0 +1,91 @@
+The Battle Royale Continues:
+Dupre and Toudi will fight to the death!
+Dupre has moved to a new environment.
+Toudi: remove 4dam1a
+Toudi: wear dring
+Dupre: use pound at toudi
+Dupre: kill toudi
+Dupre: target toudi
+Dupre: Hp 98%
+Toudi: use 'assault'
+Dupre: cast info
+Toudi: touch tissau
+Dupre: Hp 98%
+Dupre: use pound at toudi
+Dupre: scan all
+Toudi: Hp 90%
+Dupre: Hp 98%
+Toudi: touch tisau
+Dupre: target toudi
+Toudi: Hp 90%
+Dupre: Hp 96%
+Toudi: Hp 90%
+Dupre: Hp 94%
+Dupre: scream
+Dupre: battle listen all 3
+Dupre: use pound at toudi
+Dupre: scan all
+Toudi: scan all
+Dupre: cast info
+Toudi: Hp 93%
+Dupre: Hp 88%
+Toudi: use 'assault'
+Toudi: scan all
+Toudi: Hp 93%
+Dupre: Hp 80%
+Dupre: cast info
+Toudi: scan all
+Dupre: rebirth heal
+Toudi: Hp 93%
+Dupre: Hp 96%
+Dupre: use pound at toudi
+Toudi: scan all
+Dupre: scan all
+Toudi: Hp 88%
+Dupre: Hp 96%
+Dupre: scan all
+Toudi: Hp 88%
+Dupre: Hp 95%
+Dupre: cast info
+Toudi: Hp 88%
+Dupre: Hp 93%
+Dupre: scream
+Toudi: scan all
+Toudi: Hp 83%
+Dupre: Hp 86%
+Toudi: read m
+Toudi: use 'assault'
+Dupre: drink major_heal
+Toudi: Hp 69%
+Dupre: Hp 75%
+Dupre: scan all
+Toudi: Hp 69%
+Dupre: Hp 66%
+Dupre: scan all
+Toudi: Hp 69%
+Dupre: Hp 61%
+Toudi: use 'assault'
+Toudi: scan all
+Dupre: scan all
+Toudi: read h
+Toudi: Hp 79%
+Dupre: Hp 63%
+Dupre: scan all
+Toudi: Hp 79%
+Dupre: Hp 38%
+Toudi: scan all
+Dupre: cast info
+Dupre: scan all
+Toudi: Hp 79%
+Dupre: Hp 13%
+Toudi: lead drake
+Toudi: look
+Toudi: Hp 23%
+Dupre: Hp -14%
+Toudi died and thus loses this round!
+Dupre has won this round of the Battle Royale!
+Dupre has moved to a new environment.
+
+
+
+// this was a nice one, dupre went uncons first but then toudi died to spikes, so dupre indeed is the winner :)

@@ -1,0 +1,771 @@
+The arena master shouts 'Team 1 consists of Mathieu'
+The arena master shouts 'Team 2 consists of Hardtop'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Hardtop'.'[0m
+Suddenly Runeaxe draws your attention.
+[32mRuneaxe exclaims 'Fear me! I be known as Creator!'[0m
+[32mSirdest lets out a soul wrenching scream of sheer terror.[0m
+la arena
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%hp: 1093 (1093) [] sp: 32 (32) [] ep: 395 (395) cash: 2000 [] exp: 1 [0m[32m[].'[0m
+       
+ [31m####[0m  
+ [31m#[35m12[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          1164/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:42:42] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%hp: 1093 (1093) [] sp: 32 (32) [] ep: 395 (395) cash: 2000 [0m[32m[] exp: 1.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%Hardtop [1;30m[report]:[0;32m LURING!!!'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m12[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          1164/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:42:46] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[1;37m PERÄVIIKARI [0;55m<twilight+>:[1;37m köh juurihoito?[0m
+[32mRuneaxe talks '"oho".'[0m
+[32mSirdest says '%You are prepared to do the skill.'[0m
+[32mSirdest asks '%Lure whom?'[0m
+[32mSirdest says '% look.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You are prepared to do the skill.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m12[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          1164/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:42:52] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%Mathieu starts concentrating on a new offensive skill.'[0m
+Cordoba [32m[sales]:[0m awe henry maul for sale
+[1;30mInfo: Ouchi recovers from link death.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Mathieu misses you.'[0m
+[32mSirdest says '%You successfully dodge Mathieu's slash.'[0m
+[32mSirdest says '%You miss Mathieu.'[0m
+[32mSirdest says '%You tear Mathieu causing a small scratch.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@party status short.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@scan all.'[0m
+[32mSirdest says '%Mathieu is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu misses you.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You successfully dodge Mathieu's slash.'.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You miss Mathieu.'.'[0m
+[32mSirdest says '%.'[0m
+la arena
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+       
+ [31m####[0m  
+ [31m#[35m21[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          1123/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:42:55] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[1;37mDr'Mengele [0;55m[twilight+]:[1;37m parasta[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@kill mathieu.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%% @@use cleave.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          1123/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:42:57] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[1;37m PERÄVIIKARI [0;55m<twilight+>:[1;37m onnee vaa :D[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@use 'lure'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@party report LURING!!!'[0m
+[32mSirdest says '%Hardtop [1;30m[report]:[0;32m LURING!!!'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:1093/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'.'[0m
+Cordoba [32m[sales]:[0m or trade
+[1;37mDr'Mengele [0;55m[twilight+]:[1;37m ya[0m
+la arena
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          1123/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:02] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[1;30mInfo: Peelo recovers from link death.[0m
+[32mSirdest says '%Mathieu arrives from northeast.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Mathieu tears you inducing a slight shivering.'[0m
+[32mSirdest says '%You try to dodge, but Mathieu is not fooled.'[0m
+[32mSirdest says '%Mathieu tears you producing large scratches.'[0m
+Tarli [35m[wanted]:[0m eqparty for priest
+[32mSirdest says '%You miss Mathieu.'[0m
+[32mSirdest says '%You tear Mathieu making a hand corrode.'[0m
+[32mSirdest says '%hp: 1010 (1093) [-83] sp: 32 (32) [] ep: 395 (395) cash: 2000 [] exp: [0m[32m1 [].'[0m
+[32mSirdest says '%Mathieu starts concentrating on a new offensive skill.'[0m
+[32mSirdest says '%Hp:1010/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@party status short.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1010/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@scan all.'[0m
+[32mSirdest says '%Mathieu is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1010/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1010/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says '%Hp:1010/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu tears you inducing a slight shivering.'.'[0m
+[32mSirdest says '%Mathieu misses you.'[0m
+[32mSirdest says '%Mathieu tears you producing large scratches.'[0m
+[32mSirdest says '%Mathieu successfully dodges your futile slash.'[0m
+[32mSirdest says '%You tear Mathieu making skin bubble and sizzle.'[0m
+[32mSirdest says '%hp: 970 (1093) [-40] sp: 32 (32) [] ep: 395 (395) cash: 2000 [] exp: 1 [0m[32m[].'[0m
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:1010/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%% @@party status short.'.'[0m
+[32mSirdest says '%Mathieu is in a good shape.'[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You are not in a party.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:1010/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'.'[0m
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%% @@scan all.'.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           970/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          1037/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:03] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%Mathieu misses you.'[0m
+[32mSirdest says '%You successfully dodge Mathieu's slash.'[0m
+[32mSirdest says '%Mathieu successfully dodges your futile slash.'[0m
+[32mSirdest says '%You tear Mathieu making a hand corrode.'[0m
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@party status short.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@scan all.'[0m
+[32mSirdest says '%Mathieu is in a good shape.'[0m
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You successfully dodge Mathieu's slash.'.'[0m
+[32mSirdest says '%Hp:970/1093 Sp:32/32 Ep:395/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu making a hand corrode.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           970/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          1000/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:07] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%Mathieu misses you.'[0m
+[32mSirdest says '%Mathieu tears you producing large scratches.'[0m
+[32mSirdest says '%Mathieu successfully dodges your futile slash.'[0m
+[32mSirdest says '%You incise Mathieu causing a small wound.'[0m
+[32mSirdest says '%hp: 930 (1093) [-40] sp: 32 (32) [] ep: 395 (395) cash: 2000 [] exp: 1 [0m[32m[].'[0m
+[32mSirdest says '%You are prepared to do the skill.'[0m
+[32mSirdest says '%You expose yourself to Mathieu.'[0m
+[32mSirdest says '%Mathieu's hit barely nudges you.'[0m
+[32mSirdest says '%You have Mathieu in the exact position you want her to be.'[0m
+[32mSirdest says '%hp: 923 (1093) [-7] sp: 32 (32) [] ep: 355 (395) cash: 2000 [] exp: 1 [0m[32m[].'[0m
+[32mSirdest says '%Mathieu leaves north.'[0m
+[32mSirdest says '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu tears you producing large scratches.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu successfully dodges your futile slash.'.'[0m
+[32mSirdest says '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You incise Mathieu causing a small wound.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%hp: 930 (1093) [-40] sp: 32 (32) [] ep: 395 (395) cash: 2000 [0m[32m[] exp:.'[0m
+[32mSirdest says '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You are prepared to do the skill.'.'[0m
+[32mSirdest says '%Hardtop [1;30m[report]:[0;32m Mob stunned for 4 rounds.'[0m
+[32mSirdest says '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You expose yourself to Mathieu.'.'[0m
+[32mSirdest says '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You say '%You are prepared to do the skill.'.'.'[0m
+la arena
+[32mSirdest exclaims '%No mathieu here !'[0m
+[32mSirdest says '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hardtop [1;30m[report]:[0;32m Mob stunned for 4 rounds.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:923/1093 Sp:32/32 Ep:355/395 Exp:1 W:35 R:9574 >.'.'[0m
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           923/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu           936/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:11] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '% look.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '% look.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tear Mathieu producing large scratches.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Smiling devilishly you savagely shave Mathieu puncturing a hole, [0m[32mallowing entrails to spill everywhere.'[0m
+[32mSirdest says '%Mathieu misses you.'[0m
+[32mSirdest says '%You successfully dodge Mathieu's slash.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@party status short.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@scan all.'[0m
+[32mSirdest says '%Mathieu is noticeably hurt.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest exclaims '%Hardtop [1;30m[report]:[0;32m I JUST CRITTED!'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu producing large scratches.'.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Smiling devilishly you savagely shave Mathieu puncturing a [0m[32mhole,.'[0m
+la arena
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu misses you.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You successfully dodge Mathieu's slash.'.'[0m
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           948/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu           585/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:14] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:948/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tear Mathieu inducing a nasty lesion.'[0m
+[32mSirdest says '%You incise Mathieu ripping off a hand with a hydrochloric blast.'[0m
+[32mSirdest says '%Mathieu tears you producing large scratches.'[0m
+[32mSirdest says '%Mathieu cuts you producing large scratches.'[0m
+[32mSirdest says '%hp: 865 (1093) [-83] sp: 32 (32) [] ep: 362 (395) cash: 2000 [] exp: 1 [0m[32m[].'[0m
+[32mSirdest says '%Hp:865/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% z.'[0m
+[32mSirdest says '%Hp:865/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@party status short.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:865/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@scan all.'[0m
+[32mSirdest says '%Mathieu is not in a good shape.'[0m
+[32mSirdest says '%Hp:865/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+la arena
+[32mSirdest says '%% @@party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:865/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%Hp:865/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says '%Hp:865/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You incise Mathieu ripping off a hand with a hydrochloric [0m[32mblast.'.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+       
+ [31m####[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           865/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu           477/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:17] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%Hp:865/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu tears you producing large scratches.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:865/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu cuts you producing large scratches.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tear Mathieu causing a third degree acid burn.'[0m
+[32mSirdest says '%You tear Mathieu causing a nasty laceration.'[0m
+[32mSirdest says '%You try to dodge, but Mathieu is not fooled.'[0m
+[32mSirdest says '%Mathieu tears you causing a minor magical burn.'[0m
+[32mSirdest says '%Mathieu tears you producing large scratches.'[0m
+[32mSirdest says '%hp: 781 (1093) [-84] sp: 32 (32) [] ep: 362 (395) cash: 2000 [] exp: 1 [0m[32m[].'[0m
+[32mSirdest says '%Hp:781/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%Hp:781/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:781/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says '%Mathieu is in bad shape.'[0m
+[32mSirdest says '%Hp:781/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu causing a third degree acid burn.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:781/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu causing a nasty laceration.'.'[0m
+[32mSirdest says '%Hp:781/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You try to dodge, but Mathieu is not fooled.'.'[0m
+[32mSirdest says '%Hp:781/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu tears you causing a minor magical burn.'.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:781/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+la arena
+[32mSirdest says '%You say '%Mathieu tears you producing large scratches.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:781/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%hp: 781 (1093) [-84] sp: 32 (32) [] ep: 362 (395) cash: 2000 [0m[32m[] exp:.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           781/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu           391/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:18] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%You tear Mathieu causing teeth to disintegrate from corrosion.'[0m
+[32mSirdest says '%You tear Mathieu causing teeth to disintegrate from corrosion.'[0m
+[32mSirdest says '%Mathieu tears you producing large scratches.'[0m
+[32mSirdest says '%Mathieu tears you producing large scratches.'[0m
+[32mSirdest says '%hp: 697 (1093) [-84] sp: 32 (32) [] ep: 362 (395) cash: 2000 [] exp: 1 [0m[32m[].'[0m
+[32mSirdest says '% z.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu causing teeth to disintegrate from [0m[32mcorrosion.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu causing teeth to disintegrate from [0m[32mcorrosion.'.'[0m
+[32mSirdest says '%Mathieu is in bad shape.'[0m
+[1;37m PERÄVIIKARI [0;55m<twilight+>:[1;37m vertaan aina kaikkee juurihoitoon mut eipä o kohalle [0m[1;37msattunu, velipojalla on kyllä tarina poikineen[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu tears you producing large scratches.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu tears you producing large scratches.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%hp: 697 (1093) [-84] sp: 32 (32) [] ep: 362 (395) cash: 2000 [0m[32m[] exp:.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Mathieu is in bad shape.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m21[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           697/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu           300/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:20] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@kill mathieu.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You say '%.'.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@kill mathieu.'[0m
+[32mSirdest exclaims '%No mathieu here !'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% west.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% south.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%% @@kill mathieu.'.'[0m
+[32mSirdest exclaims '%No mathieu here !'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You exclaim '%No mathieu here !'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Mathieu sparking a limb to slice open.'[0m
+[1;30mInfo: Arafat recovers from link death.[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Grinning diabolically you cruelly tatter Mathieu making the head [0m[32mexplode from a MASSIVE acid blast.'[0m
+[32mSirdest says '%Mathieu lapses into [51munconscious[32mness from severe loss of blood.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%% @@use cleave.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You exclaim '%No mathieu here !'.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+[32mSirdest says '%Mathieu is near death.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 [0m[32m>.'.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest exclaims '%Hardtop [1;30m[report]:[0;32m I JUST CRITTED!'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+la arena
+[32mSirdest exclaims '%Hardtop [1;30m[report]:[0;32m say Mathieu  is UNCONCIOUS!'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           697/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu           -21/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:23] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You say '%% @@use cleave.'.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You say '%Your movement prevents you from doing the [0m[32mskill.'.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You exclaim '%Hardtop [1;30m[report]:[0;32m I JUST CRITTED!'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'.'[0m
+[1;30mInfo: Zock enters the game.[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% kill mathieu.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'.'[0m
+la arena
+[32mSirdest says '%You start concentrating on the skill.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           697/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          -116/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:25] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%Hp:519/519 Sp:534/534 >You say '%% kill mathieu.'.'[0m
+[32mSirdest says '%You tear Mathieu causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You tear Mathieu causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:519/519 Sp:534/534 >You say '%% kill mathieu.'.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu causing heart tissue to fly everywhere.'.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu causing heart tissue to fly everywhere.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%.'[0m
+la arena
+[32mCilwand says 'hooray.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% kill mathieu.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@kill mathieu.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           697/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          -116/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:26] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+Conquer Possu Parps from down.
+[32mSirdest says '% south.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% kill mathieu.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%%*****************************************************.'[0m
+[32mSirdest says '%You tear Mathieu causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You tear Mathieu causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%Blood pours from Mathieu's wounds.'[0m
+[32mSirdest says '% @@kill mathieu.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '% south.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'.'[0m
+[32mSirdest says '%Mathieu is near death.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%Hp:519/519 Sp:534/534 >% @@party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%% kill mathieu.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%Excessive typos can be hazardous for your health.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+la arena
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:519/519 Sp:534/534 >% @@party report.'.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m21[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           697/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mathieu          -237/1164   36/36   |                                      |
+`-----------------------------------------------------------------------------'
+[21:43:28] hp 537/537  sp 1134/1134  ep 266/266  xp 32049  $ 8870/10456  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@kill mathieu.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'.'[0m
+[1;30mInfo: Peelo goes link dead.[0m
+[32mDarol says 'god damn spam :P.'[0m
+[32mSirdest says '%You tear Mathieu causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You tear Mathieu making the head explode from a MASSIVE acid blast.'[0m
+[32mSirdest says '% z.'[0m
+[1;37mDr'Mengele [0;55m[twilight+]:[1;37m jep jep[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%Darol says 'god damn spam :P.'.'[0m
+[32mSirdest says '% @@party status short.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu causing heart tissue to fly everywhere.'.'[0m
+[32mSirdest says '%Mathieu is near death.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%You tear Mathieu making the head explode from a MASSIVE acid [0m[32mblast.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%Hp:519/519 Sp:534/534 >%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '% z.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+Delveling [35m(wanted):[0m tiger spider in 30 mins
+[32mSirdest says '% east.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% kill mathieu.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@kill mathieu.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:697/1093 Sp:32/32 Ep:362/395 Exp:1 W:35 R:9574 >.'[0m
+[32mSirdest says '%You say '% east.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+The arena master shouts 'Mathieu of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Hardtop'

@@ -1,0 +1,11 @@
+#ECHO Simple counter for harms. Type 'prieststats' to see them and
+#ECHO 'clearprieststats' for reset. Counts all harm spells, some lites
+#ECHO included as well.
+#ECHO 
+#ALIAS clearprieststats {#VAR harm_hit 0;#VAR harm_miss 0;#VAR harm_burgle 0} {prieststats}
+#ALIAS evalburgles {#mat perc ((@%1 * 100) / @harm_hit);#mat mod ((@%1 * 100) \ @harm_hit);#mat dec ((@mod * 100) / @harm_hit);#mat mod2 ((@mod * 100) \ @harm_hit);#mat dec2 ((@mod2 * 100) / @harm_hit);#var %1perc {@perc.@dec@dec2}} {prieststats}
+#ALIAS evalharms {#mat perc ((@%1 * 100) / @harm_total);#mat mod ((@%1 * 100) \ @harm_total);#mat dec ((@mod * 100) / @harm_total);#mat mod2 ((@mod * 100) \ @harm_total);#mat dec2 ((@mod2 * 100) / @harm_total);#var %1perc {@perc.@dec@dec2}} {prieststats}
+#ALIAS prieststats {#ECHO Priest stats:;#MATH harm_total @harm_hit+@harm_miss;evalharms harm_hit;evalharms harm_miss;evalburgles harm_burgle;#ECHO Total casts: @harm_total (100.0000%);#ECHO Hits: @harm_hit ~(@harm_hitperc~%~);#ECHO Misses: @harm_miss ~(@harm_missperc~%~);#ECHO Burglecrits: @harm_burgle ~(@harm_burgleperc~%~)} {prieststats}
+#TRIGGER {^ ..The power of Burglefloogah takes over you!!$} {#AD harm_burgle 1;#CW bright,green} {prieststats}
+#TRIGGER {^You fail to reach *.$} {#AD harm_miss 1;#CW magenta} {prieststats}
+#TRIGGER {^You harm * {a little|some|a good bit|a lot|really much}.$} {#AD harm_hit 1;#CW green} {prieststats}

@@ -1,0 +1,2690 @@
+The arena master shouts 'Team 1 consists of Scaler'
+The arena master shouts 'Team 2 consists of Sperwer'
+The arena master shouts 'All teams ready! Let the fight begin!'
+la arena
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Scaler'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Sperwer'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1234/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler           1085/1088  571/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:29] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%look.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:1085/1088 Sp:571/597 Ep:418/436 Exp:484.'[0m
+[32mSirdest says '%You say '%look.'.'[0m
+Stargazer leaves west.
+[32mSirdest says '% cast tiger claw.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You have an unusual feeling as you cast the spell.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1085/1088 Sp:571/597 Ep:418/436 Exp:484.'[0m
+[32mSirdest says '%You say '% cast tiger claw.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1234/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler           1085/1088  571/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:32] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You sizzle with magical energy.'[0m
+[32mSirdest says '%Hp:1088/1088[+3] Sp:597/597[+26] Ep:436/436[+18].'[0m
+[32mSirdest says '% party say Full Health.'[0m
+[32mSirdest says '%party say Full Health.'[0m
+[32mSirdest says '%Scaler [52m[party]:[32m Full Health.'[0m
+[32mSirdest says '%Hp:1088/1088 Sp:597/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You sizzle with magical energy.'.'[0m
+[32mSirdest says '%party say *is fully charged.*.'[0m
+[32mSirdest says '%[52m[party]:[32m Scaler is fully charged.'[0m
+[32mSirdest says '%Hp:1088/1088 Sp:597/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% party say Full Health.'.'[0m
+[32mSirdest says '%kil sperwer.'[0m
+[32mSirdest asks '%Do you mean 'quit'?'[0m
+[32mSirdest says '%Hp:1088/1088 Sp:597/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%kil sperwer.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1234/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler           1088/1088  597/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:34] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% parry 51.'[0m
+[32mSirdest says '%parry 51.'[0m
+[32mSirdest says '%You put 51 points of your attack skill to parry.'[0m
+[32mSirdest says '%Hp:1088/1088 Sp:597/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% parry 51.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1234/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler           1088/1088  597/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:36] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Tiger claw: #.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest asks '%Cast tiger claw at what?'[0m
+[32mSirdest says '%Hp:1088/1088[] Sp:588/597[-9] Ep:436/436[].'[0m
+[32mSirdest says '% kill sperwer.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You spin-kick Sperwer.'[0m
+[32mSirdest says '%Hp:1073/1088[-15] Sp:588/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Hp:1073/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You are done with the chant.'.'[0m
+[32mSirdest says '%scan all.'[0m
+la arena
+[32mSirdest says '%Sperwer is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1073/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:1073/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%scan all.'.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1185/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler           1073/1088  588/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:39] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1073/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '%southeast.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:1073/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%southeast.'.'[0m
+la arena
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1073/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1185/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler           1073/1088  588/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:42] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest says '%Tiger claw: #.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1214/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler           1073/1088  588/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:49] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%west.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Sperwer WarFlame the Minotaur <team 2>.'[0m
+[32mSirdest says '%Hp:1073/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%west.'.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+la arena
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You stomp-kick Sperwer.'[0m
+[32mSirdest says '%You punch Sperwer.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Hp:975/1088[-98] Sp:588/597[] Ep:436/436[].'[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1155/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            975/1088  588/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:50] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Hp:975/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% cast tiger claw.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:975/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%kill sperwer.'.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:975/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You stomp-kick Sperwer.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:975/1088 Sp:588/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You punch Sperwer.'.'[0m
+[32mSirdest says '%Hp:814/1088[-161] Sp:588/597[] Ep:436/436[].'[0m
+la arena
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1155/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            814/1088  588/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:51] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Koff @sumu [1;30m[ifin]:[0m moi, kuuleeko b‰tti
+[32mSirdest says '%You stomp-kick Sperwer.'[0m
+[32mSirdest says '%Sperwer parries.'[0m
+[32mSirdest says '% ...AND counterattacks.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%#$%&&&! Sperwer tumbles your dodge.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%Hp:790/1088[-24] Sp:588/597[] Ep:436/436[].'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You shred air with your tiger claws and scream 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest says '%You shred air with your tiger claws and scream 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest exclaims '%As Sperwer drops to his knees you leap in for the kill!'[0m
+[32mSirdest says '%Hp:790/1088[] Sp:470/597[-118] Ep:436/436[].'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is in a good shape.'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You stomp-kick Sperwer.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% ...AND counterattacks.'.'[0m
+[32mSirdest exclaims '%party say Claw Hit!'[0m
+[32mSirdest exclaims '%Scaler [52m[party]:[32m Claw Hit!'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You dodge.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You say '%You dodge.'.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1031/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            790/1088  470/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:54] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mJacen goes 'Ooooo...'.[0m
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '% ne.'[0m
+[32mSirdest says '%northeast.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% cast tiger claw.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Tiger claw: ##.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1031/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            790/1088  470/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:52:57] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%west.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Sperwer WarFlame the Minotaur <team 2>.'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% w.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You stomp-kick Sperwer.'[0m
+[32mSirdest says '%Sperwer thumps you.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Hp:758/1088[-32] Sp:470/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is in a good shape.'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%%Sperwer leaves east.'[0m
+[32mSirdest says '% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:790/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           993/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            758/1088  470/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:01] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%east.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Sperwer WarFlame the Minotaur <team 2>.'[0m
+[32mSirdest says '%Hp:758/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%east.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:758/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You say '%east.'.'.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You punch Sperwer.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%#$%&&&! Sperwer tumbles your dodge.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Hp:707/1088[-51] Sp:470/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Hp:758/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:758/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:758/1088 Sp:470/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%%Sperwer grunts 'Hp: 965 (1234) Sp: 29 (29) Ep: 265 (414).'.'[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           965/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            707/1088  470/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:02] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '%Tiger claw: #.'[0m
+[32mSirdest says '%Spider Queen smiles upon you and helps you control the demon.'[0m
+[32mSirdest says '% sw.'[0m
+[32mSirdest says '%southwest.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:725/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% sw.'.'[0m
+[32mSirdest says '%north.'[0m
+la arena
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:725/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%north.'.'[0m
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           965/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            725/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:04] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%east.'[0m
+[32mKerzebel smiles happily.[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Sperwer WarFlame the Minotaur <team 2>.'[0m
+[32mSirdest says '%Hp:725/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%east.'.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:725/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%kill sperwer.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:725/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You exclaim '%You are already fighting!'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           965/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            725/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:05] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Hp:707/1088[-18] Sp:498/597[-1] Ep:436/436[].'[0m
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:707/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You dodge.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:707/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer pierces you.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           965/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            707/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:06] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mLarppa eeks panicedly.[0m
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%south.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Sperwer WarFlame the Minotaur <team 2>.'[0m
+[32mSirdest says '%Hp:707/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% kill sperwer.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Sperwer parries.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%Hp:689/1088[-18] Sp:498/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Hp:707/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% s.'.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:707/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from casting the spell.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:707/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer WarFlame the Minotaur <team 2>.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:707/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer parries.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           965/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            689/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:08] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '%northwest.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:689/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northwest.'.'[0m
+[32mSirdest says '%east.'[0m
+la arena
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Sperwer WarFlame the Minotaur <team 2>.'[0m
+[32mSirdest says '%Hp:689/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%east.'.'[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           894/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            585/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:11] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:689/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% kill sperwer.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You stomp-kick Sperwer.'[0m
+[32mSirdest says '%You punch Sperwer.'[0m
+[32mSirdest exclaims '%You howls in agony as the evil mace crushes bones!'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%#$%&&&! Sperwer tumbles your dodge.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%#$%&&&! Sperwer tumbles your dodge.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%Hp:585/1088[-104] Sp:498/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Hp:689/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:689/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:689/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%%Tiger claw: ##.'[0m
+[32mSirdest says '%Sperwer grunts 'Hp: 894 (1234) Sp: 29 (29) Ep: 265 (414).'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           894/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            585/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:12] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%south.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Sperwer WarFlame the Minotaur <team 2>.'[0m
+[32mSirdest says '%Hp:585/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% s.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           894/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            585/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:14] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Garou [57m[holz]:[0m marks
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:585/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% kill sperwer.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Sperwer parries.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%#$%&&&! Sperwer tumbles your dodge.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%Hp:568/1088[-17] Sp:498/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Hp:585/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:585/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:585/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%scan all.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            568/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:15] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest says '%Sperwer leaves west.'[0m
+[32mSirdest says '%Tiger claw: #.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            568/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:18] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%northwest.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:568/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northwest.'.'[0m
+Jacen [57m[holz]:[0m nubu garou
+[32mSirdest says '%cast spider wrath.'[0m
+la arena
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:568/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast spider wrath.'.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            568/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:20] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Garou [57m[holz]:[0m damnit :P
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[1;30mInfo: Pradedek recovers from link death.[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            568/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:21] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Yrden {dutch+}: yeah kill him.'[0m
+Skythace @icesus [1;30m[ifin]:[0m koffi on pahaa
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            568/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:24] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Sperwer arrives from east.'[0m
+[32mSirdest says '%south.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:568/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% kill sperwer.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest exclaims '%No sperwer here !'[0m
+[32mSirdest says '%Hp:568/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%south.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:568/1088 Sp:498/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You exclaim '%No sperwer here !'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            568/1088  498/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:26] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:584/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            584/1088  528/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:28] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% look.'[0m
+[32mSirdest says '%look.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Sperwer WarFlame the Minotaur <team 2>.'[0m
+[32mSirdest says '%Hp:584/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% look.'.'[0m
+[32mSirdest says '%east.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:584/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% cast cure light wounds at mina.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:584/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%east.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            584/1088  528/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:29] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% nw.'[0m
+[32mSirdest says '%northwest.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:584/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% nw.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+la arena
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:584/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            584/1088  528/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:31] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Cure light wounds: #.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:625/1088[+41] Sp:509/597[-19] Ep:436/436[].'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            625/1088  509/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:33] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%southeast.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:625/1088 Sp:509/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%southeast.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:625/1088 Sp:509/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            625/1088  509/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:34] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Sperwer arrives from northwest.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            625/1088  506/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:39] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You are disturbed by something, your spell misfires.'[0m
+[32mSirdest exclaims '%You feel like you just saved some spell points!'[0m
+[32mSirdest says '%Hp:625/1088[] Sp:506/597[-3] Ep:436/436[].'[0m
+[32mSirdest says '%west.'[0m
+la arena
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:625/1088 Sp:506/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% cast cure light wounds at mina.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:625/1088 Sp:506/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%west.'.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           921/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            625/1088  506/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:39] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Sperwer arrives from east.'[0m
+[1;30mInfo: Kimvais goes link dead.[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:625/1088 Sp:506/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%%Cure light wounds: #.'[0m
+[32mSirdest says '%northeast.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:625/1088 Sp:506/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northeast.'.'[0m
+la arena
+[1;30mInfo: Kimvais recovers from link death.[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           949/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            625/1088  506/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:46] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Hp:625/1088 Sp:506/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+Sumar is caught by sudden enlightment.
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           949/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            625/1088  506/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:50] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:666/1088[+41] Sp:487/597[-19] Ep:436/436[].'[0m
+la arena
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:666/1088 Sp:487/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           949/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            666/1088  487/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:51] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%look.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:666/1088 Sp:487/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%look.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           949/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            666/1088  487/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:53] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Cure light wounds: #.'[0m
+[32mBlayke says 'aggro yes :P.'[0m
+[32mSirdest says '%Sperwer arrives from southwest.'[0m
+eye
+You give suspicious looks to everyone.
+[22:53:56] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%south.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:685/1088 Sp:566/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% s.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:685/1088 Sp:566/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Obvious exits are: nw, n and w.'.'[0m
+la arena
+[32mBlayke laughs out loud.[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           949/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            685/1088  566/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:57] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% nw.'[0m
+[32mSirdest says '%northwest.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:685/1088 Sp:566/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% nw.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:685/1088 Sp:566/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northwest.'.'[0m
+[32mKerzebel giggles inanely.[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           949/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            685/1088  566/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:53:58] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mGotrek says 'rub mask.'[0m
+[32mSirdest says '%Cure light wounds: #.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           949/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            685/1088  566/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:00] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mGotrek smirks.[0m
+*Murgan the Blac cocks its head to the side.
+la arena
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:719/1088[+34] Sp:547/597[-19] Ep:436/436[].'[0m
+[32mSirdest says '%Sperwer arrives from southeast.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           949/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            719/1088  547/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:03] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mBlayke smirks.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Sperwer thrusts you.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Hp:649/1088[-70] Sp:547/597[] Ep:436/436[].'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:649/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:649/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%%Sperwer grunts 'Hp: 949 (1234) Sp: 29 (29) Ep: 277 (414).'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:649/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You miss.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           949/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            649/1088  547/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:04] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Bmoa [35m{wanted}:[0m anyone needs a small tiny pitiful nun?
+*Murgan the Blac spreads its mighty wings.
+[32mSirdest says '%#$%&&&! Sperwer tumbles your dodge.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%You stomp-kick Sperwer.'[0m
+[32mSirdest says '%You tumble Sperwer's dodge.'[0m
+[32mSirdest says '%You stomp-kick Sperwer.'[0m
+[32mSirdest says '%Hp:551/1088[-98] Sp:547/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:551/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%#$%&&&! Sperwer tumbles your dodge.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:551/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer strokes you.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           864/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            551/1088  547/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:06] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Sperwer thrusts you.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer parries.'[0m
+[32mSirdest says '%Sperwer parries.'[0m
+[32mSirdest says '%Hp:490/1088[-61] Sp:547/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Tiger claw: #.'[0m
+[32mSirdest says '%Sperwer leaves east.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Hp:490/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer thrusts you.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:490/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You dodge.'.'[0m
+Lightscape [35m(wanted):[0m conjumage
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           864/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            490/1088  547/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:10] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% cast cure light wounds at mina.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:490/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% cast cure light wounds at mina.'.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Sperwer parries.'[0m
+[32mSirdest says '% ...AND counterattacks.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Hp:442/1088[-48] Sp:547/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Cure light wounds: #.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:442/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer dodges.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:442/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer parries.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           864/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            442/1088  547/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:13] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%southeast.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:442/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%southeast.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:442/1088 Sp:547/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           864/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            442/1088  547/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:14] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Sperwer arrives from west.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:488/1088[+46] Sp:528/597[-19] Ep:436/436[].'[0m
+[32mSirdest says '% nw.'[0m
+[32mSirdest says '%northwest.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:488/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% cast cure light wounds at mina.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:488/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% nw.'.'[0m
+[32mSirdest says '%northeast.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%Hp:488/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northeast.'.'[0m
+[32mSirdest says '%east.'[0m
+la arena
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:488/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%east.'.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           895/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            488/1088  528/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:19] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mTixe howls 'sperwer is going to win.'[0m
+[32mSirdest says '% cast cure light wounds at mina.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:488/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% cast cure light wounds at mina.'.'[0m
+*Ghost of Kalmis is sooo cool.
+[32mSirdest says '%Sperwer arrives from west.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           895/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            488/1088  528/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:22] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[1;30mInfo: Urza goes link dead.[0m
+[32mSirdest says '%southwest.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:488/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%southwest.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:488/1088 Sp:528/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+*Ghost of Kalmis p‰‰st‰nkˆ het p‰‰h‰n?
+la arena
+[32mSirdest says '%Tiger claw: ##.'[0m
+[1;37mMardus [0;52m<party>:[1;37m sperwer strokes you kuulosti jotenkin perverssilt‰[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           895/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            503/1088  554/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:24] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Koff @sumu [1;30m[ifin]:[0m ainoo joka on hereill‰ on apsolutisti icesuksesta lauantai-iltana, ja saa vasta olutta muutaman vuoden p‰‰st‰ laillisesti. on t‰‰ mudimaailma menny kuivaks
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%You stomp-kick Sperwer.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:503/1088 Sp:554/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:503/1088 Sp:554/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You parry.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           854/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            503/1088  554/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:26] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+*Murgan the Blac cocks its head to the side.
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You shred air with your tiger claws and scream 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest says '%You shred air with your tiger claws and scream 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest exclaims '%As Sperwer drops to his knees you leap in for the kill!'[0m
+[32mSirdest says '%Hp:503/1088[] Sp:436/597[-118] Ep:436/436[].'[0m
+[32mSirdest exclaims '%party say Claw Hit!'[0m
+[32mSirdest exclaims '%Scaler [52m[party]:[32m Claw Hit!'[0m
+[32mSirdest says '%Hp:503/1088 Sp:436/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You shred air with your tiger claws and scream 'Haii!' [0m[57m(Tiger claw/Shadow leap)[32m.'.'[0m
+[32mSirdest says '%You say '%You shred air with your tiger claws and scream 'Haii!' [0m[57m(Tiger claw/Shadow leap)[32m.'.'[0m
+la arena
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:503/1088 Sp:436/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           775/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            503/1088  436/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:28] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%#$%&&&! Sperwer tumbles your dodge.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%You get hit hard but your discipline saves concentration on your [0m[32mspell.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Hp:425/1088[-78] Sp:436/597[] Ep:436/436[].'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:425/1088 Sp:436/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:425/1088 Sp:436/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer strokes you.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           775/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            425/1088  436/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:30] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[1;37mGgr [0;52m[party]:[1;37m hittoako toi spammaa noita You say ...[0m
+[32mSirdest says '%Sperwer arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Hp:379/1088[-46] Sp:436/597[] Ep:436/436[].'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:379/1088 Sp:436/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You miss.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:379/1088 Sp:436/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You miss.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:379/1088 Sp:436/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer is noticeably hurt.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           775/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            379/1088  436/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:33] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% cast tiger claw.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:379/1088 Sp:422/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% cast tiger claw.'.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%#$%&&&! Sperwer tumbles your dodge.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Hp:329/1088[-50] Sp:422/597[] Ep:436/436[].'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:329/1088 Sp:422/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:329/1088 Sp:422/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%%Sperwer grunts 'Hp: 775 (1234) Sp: 29 (29) Ep: 283 (414).'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           775/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            329/1088  422/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:36] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[31mCarnivorous plant shouts 'Zograh died like a DOG!'[0m
+[1;30mInfo: Zograh dies.[0m
+[32mSirdest says '%Carnivorous plant shouts 'Zograh died like a DOG!'.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest asks '%Cast tiger claw at what?'[0m
+[32mSirdest says '%Hp:329/1088[] Sp:363/597[-59] Ep:436/436[].'[0m
+[32mSirdest says '% cast tiger claw.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:329/1088 Sp:363/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Carnivorous plant shouts 'Zograh died like a DOG!'.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           775/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            329/1088  363/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:39] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[1;30mInfo: Baradam goes link dead.[0m
+[32mSirdest says '% ne.'[0m
+[32mSirdest says '%northeast.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:329/1088 Sp:363/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% ne.'.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest exclaims '%No sperwer here !'[0m
+[32mSirdest says '%Hp:329/1088 Sp:363/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%kill sperwer.'.'[0m
+la arena
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:329/1088 Sp:363/597 Ep:436/436 Exp:484.'[0m
+Aedos looks at sabre.
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           775/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            329/1088  363/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:41] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+[31mCarnivorous plant shouts 'Iktomi bites the dust!'[0m
+[1;30mInfo: Iktomi dies.[0m
+[32mSirdest says '%Carnivorous plant shouts 'Iktomi bites the dust!'.'[0m
+[32mSirdest says '%Cure light wounds: #.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:367/1088[+38] Sp:344/597[-19] Ep:436/436[].'[0m
+la arena
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:367/1088 Sp:344/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           775/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            367/1088  344/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:43] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%west.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:367/1088 Sp:344/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% w.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:367/1088 Sp:344/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+[32mSirdest says '%southeast.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:367/1088 Sp:344/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%southeast.'.'[0m
+la arena
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           802/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            367/1088  344/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:45] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Hp:367/1088 Sp:344/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+[1;37mGgr [0;52m[party]:[1;37m onkohan sill‰ aina tommoset trigut p‰‰ll‰ vai mik‰h‰n[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%Cure light wounds: #.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:413/1088[+30] Sp:354/597[-19] Ep:436/436[].'[0m
+[32mSirdest says '%northwest.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Sperwer WarFlame the Minotaur <team 2>.'[0m
+[32mSirdest says '%Hp:413/1088 Sp:354/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northwest.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:413/1088 Sp:354/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           802/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            413/1088  354/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:52] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%south.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:413/1088 Sp:354/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%south.'.'[0m
+[32mSirdest says '%southeast.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%Hp:413/1088 Sp:354/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%southeast.'.'[0m
+[32mSirdest says '%northeast.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:413/1088 Sp:354/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northeast.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:413/1088 Sp:354/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%%Cure light wounds: #.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:449/1088[+36] Sp:335/597[-19] Ep:436/436[].'[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           802/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            449/1088  335/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:54] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:449/1088 Sp:335/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           802/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            449/1088  335/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:54:56] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:477/1088[+28] Sp:316/597[-19] Ep:436/436[].'[0m
+la arena
+[32mSirdest says '%cast spider wrath.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:477/1088 Sp:316/597 Ep:436/436 Exp:484.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           802/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            477/1088  316/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:01] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You say '%cast spider wrath.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:477/1088 Sp:316/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+[32mSirdest says '%kill sperwer.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Sperwer thrusts you.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Hp:405/1088[-72] Sp:316/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Hp:477/1088 Sp:316/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You say '%cast tiger claw.'.'.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:477/1088 Sp:316/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:477/1088 Sp:316/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%kill sperwer.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           802/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            405/1088  316/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:02] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Hp:359/1088[-46] Sp:316/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is slightly hurt.'[0m
+[32mSirdest says '%Hp:359/1088 Sp:316/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You dodge.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:359/1088 Sp:316/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer misses.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           802/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            359/1088  316/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:04] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%#$%&&&! Sperwer tumbles your dodge.'[0m
+[32mSirdest exclaims '%You howls in agony as the evil mace crushes bones!'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%You smash Sperwer.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Hp:293/1088[-66] Sp:316/597[] Ep:436/436[].'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You shred air with your tiger claws and scream 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest says '%You shred air with your tiger claws and scream 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest exclaims '%As Sperwer drops to his knees you leap in for the kill!'[0m
+[32mSirdest says '%Hp:293/1088[] Sp:198/597[-118] Ep:436/436[].'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:293/1088 Sp:198/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%#$%&&&! Sperwer tumbles your dodge.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:293/1088 Sp:198/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You exclaim '%You howls in agony as the evil mace crushes bones!'.'[0m
+[32mSirdest exclaims '%party say Claw Hit!'[0m
+[32mSirdest exclaims '%Scaler [52m[party]:[32m Claw Hit!'[0m
+[32mSirdest says '%Hp:293/1088 Sp:198/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer strokes you.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:293/1088 Sp:198/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+[1;37mMardus [0;52m<party>:[1;37m onkohan t‰‰ preserver dilemma[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           706/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            293/1088  198/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:07] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% cast cure light wounds at mina.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:293/1088 Sp:198/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% cast cure light wounds at mina.'.'[0m
+[32mJacen goes 'Ooooo...'.[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           706/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            293/1088  198/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:10] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[1;37mMardus [0;52m<party>:[1;37m luen sen aina 'perseveri'[0m
+[32mSirdest says '%Sperwer arrives from west.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:328/1088[+35] Sp:179/597[-19] Ep:436/436[].'[0m
+[32mSirdest says '%southwest.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:328/1088 Sp:179/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%southwest.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:328/1088 Sp:179/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Obvious exits are: n, ne and e.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           706/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            328/1088  179/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:14] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%east.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:328/1088 Sp:179/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%east.'.'[0m
+Ghost of Zograh [31m[ghost]:[0m ress
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:328/1088 Sp:179/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%%Ghost of Zograh [31m[ghost]:[32m ress.'[0m
+[1;37mGgr [0;52m[party]:[1;37m :D[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           706/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            328/1088  179/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:15] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Hp:344/1088[+16] Sp:208/597[+29] Ep:436/436[].'[0m
+[32mSirdest says '%Cure light wounds: #.'[0m
+[1;30mInfo: Muumipeikko goes link dead.[0m
+[1;30mInfo: Muumipeikko recovers from link death.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:373/1088[+29] Sp:189/597[-19] Ep:436/436[].'[0m
+[32mSirdest says '%northwest.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:373/1088 Sp:189/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northwest.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:373/1088 Sp:189/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You say '%northwest.'.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           734/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            373/1088  189/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:20] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:411/1088[+38] Sp:170/597[-19] Ep:436/436[].'[0m
+[32mSirdest says '%Sperwer arrives from southeast.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+la arena
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:411/1088 Sp:170/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           734/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            411/1088  170/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:25] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mCordoba asks 'miks ei barbi vetele frenzyll‰?'[0m
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%east.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:411/1088 Sp:170/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% cast cure light wounds at mina.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:411/1088 Sp:170/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% e.'.'[0m
+la arena
+[32mSirdest says '%southwest.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:411/1088 Sp:170/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%southwest.'.'[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           734/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            411/1088  170/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:27] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:411/1088 Sp:170/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+Ghost of Iktomi [31m[ghost]:[0m ress please
+[32mSirdest says '%Ghost of Iktomi [31m[ghost]:[32m ress please.'[0m
+[1;37mCyberlahko [0;52m[party]:[1;37m -=> aina <=-[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:453/1088[+42] Sp:151/597[-19] Ep:436/436[].'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%Sperwer parries.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Hp:388/1088[-65] Sp:151/597[] Ep:436/436[].'[0m
+[32mSirdest says '%Sperwer grunts 'Hp: 734 (1234) Sp: 29 (29) Ep: 294 (414).'.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:388/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:388/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer strokes you.'.'[0m
+[32mSirdest says '%east.'[0m
+la arena
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:388/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% nw.'[0m
+[32mSirdest says '%northwest.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:388/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%east.'.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           734/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            388/1088  151/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:32] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:388/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:388/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           734/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            388/1088  151/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:34] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Zenor leaves down.
+[32mSirdest says '%Sperwer arrives from southeast.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:388/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+[1;37mMardus [0;52m<party>:[1;37m aina.[0m
+la arena
+[32mSirdest says '%Sperwer misses.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           707/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            332/1088  151/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:38] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You writhes in sheer agony as the daemon skulls feast upon you.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%You punch Sperwer.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%Hp:332/1088[-56] Sp:151/597[] Ep:436/436[].'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:332/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer misses.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:332/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You writhes in sheer agony as the daemon skulls feast upon [0m[32myou.'.'[0m
+[32mSirdest says '%south.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:332/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer dodges.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:332/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           707/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            332/1088  151/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:39] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Sperwer arrives from north.'[0m
+[32mSirdest says '%Sperwer thrusts you.'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%You kick Sperwer.'[0m
+[32mSirdest says '%Hp:250/1088[-82] Sp:151/597[] Ep:436/436[].'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:250/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer thrusts you.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:250/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer pierces you.'.'[0m
+[32mSirdest says '%east.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:250/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+la arena
+[32mSirdest says '%You say '%east.'.'[0m
+[32mSirdest says '%northeast.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%Hp:250/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northeast.'.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           696/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            250/1088  151/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:41] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:250/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+[32mSirdest says '%north.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:250/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%north.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[52m[party]:[1;37m Ggr agrees fully.[0m
+[32mSirdest says '%Hp:250/1088 Sp:151/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+Rwuorio [1;30m[bat]:[0m ok any1 else somewhat drunk?
+la arena
+*Raven spreads its mighty wings.
+       
+ ####  
+ #.[1;36m1[0m#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           696/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            268/1088  180/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:43] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Tiger claw: ##.'[0m
+[32mSirdest says '%Hp:268/1088[+18] Sp:180/597[+29] Ep:436/436[].'[0m
+[32mSirdest says '%Tiger claw: #.'[0m
+[32mKerzebel goes 'MUAH'.[0m
+Zenor [31m[ghost]:[0m accept if need.
+[32mSirdest says '%Zenor [31m[ghost]:[32m accept if need.'[0m
+[32mSirdest asks '%Cast tiger claw at what?'[0m
+[32mSirdest says '%Hp:268/1088[] Sp:161/597[-19] Ep:436/436[].'[0m
+[32mSirdest says '%west.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:268/1088 Sp:161/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%west.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:268/1088 Sp:161/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You say '%west.'.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           724/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            268/1088  161/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:47] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest says '%Cure light wounds: #.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer dodges.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Hp:177/1088[-91] Sp:161/597[] Ep:436/436[].'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:177/1088 Sp:161/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Hp:177/1088[-91] Sp:161/597[] Ep:436/436[].'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:177/1088 Sp:161/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% se.'[0m
+[32mSirdest says '%southeast.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:177/1088 Sp:161/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%scan all.'.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:177/1088 Sp:161/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           724/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            177/1088  161/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:50] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Cure light wounds: #.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:210/1088[+33] Sp:142/597[-19] Ep:436/436[].'[0m
+[32mSirdest says '%You dodge.'[0m
+la arena
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%Sperwer parries.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Hp:193/1088[-17] Sp:142/597[] Ep:436/436[].'[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%west.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:193/1088 Sp:142/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           724/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            193/1088  142/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:52] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Hp:193/1088 Sp:142/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% party report.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:193/1088 Sp:142/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%% cast cure light wounds at mina.'[0m
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:193/1088 Sp:142/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You dodge.'.'[0m
+Zenor arrives from down.
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           724/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            193/1088  142/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:54] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Sperwer arrives from east.'[0m
+[32mSirdest says '%northeast.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:193/1088 Sp:142/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northeast.'.'[0m
+[32mSirdest says '%cast tiger claw.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:193/1088 Sp:142/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast tiger claw.'.'[0m
+la arena
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           724/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            193/1088  142/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:55] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+la arena
+
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           724/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            193/1088  128/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:58] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest asks '%Cast tiger claw at what?'[0m
+[32mSirdest says '%Hp:193/1088[] Sp:128/597[-14] Ep:436/436[].'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Sperwer thrusts you.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You GASP for air and wish you could breathe!'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You smash Sperwer.'[0m
+[32mSirdest says '%Hp:132/1088[-61] Sp:128/597[] Ep:436/436[].'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:132/1088 Sp:128/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer misses.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:132/1088 Sp:128/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You exclaim '%You are about to DIE!'.'[0m
+[32mSirdest says '%southwest.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:132/1088 Sp:128/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%southwest.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           704/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler            132/1088  128/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:55:59] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%cast cure light wounds at scaler.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:132/1088 Sp:128/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast cure light wounds at scaler.'.'[0m
+[1;30mInfo: Radagast left the game.[0m
+[32mSirdest says '%Sperwer arrives from northeast.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%You GASP for air and wish you could breathe!'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You stomp-kick Sperwer.'[0m
+[32mSirdest says '%Hp:81/1088[-51] Sp:128/597[] Ep:436/436[].'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Sperwer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:81/1088 Sp:128/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You dodge.'.'[0m
+[32mSirdest says '%party report.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%Hp:81/1088 Sp:128/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You exclaim '%You wish your wounds would stop BLEEDING so much!'.'[0m
+[32mSirdest says '%east.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+la arena
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:81/1088 Sp:128/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%east.'.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           670/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler             81/1088  128/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:56:03] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%northwest.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp:81/1088 Sp:128/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%northwest.'.'[0m
+[32mSirdest says '%cast spider wrath.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:81/1088 Sp:128/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%cast spider wrath.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           670/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler             81/1088  128/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:56:07] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Spider wrath: ###.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '%Sperwer arrives from southeast.'[0m
+[32mSirdest says '%You become somewhat confused, losing your edge.'[0m
+[32mSirdest says '%You[51m lose your concentration [32mand cannot cast the spell.'[0m
+[32mSirdest says '%Sperwer thrusts you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Sperwer misses.'[0m
+[32mSirdest says '%Your mind reels and the world becomes blurred.'[0m
+[32mSirdest says '%Sperwer shafts you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest says '%Hp:-115/1088[-196] Sp:127/597[-1] Ep:436/436[].'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-115/1088 Sp:127/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You[51m lose your concentration [32mand cannot cast the spell.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-115/1088 Sp:127/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%Sperwer thrusts you.'.'[0m
+[32mSirdest says '% party say *lost spell casting.*.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-115/1088 Sp:127/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You exclaim '%You wish your wounds would stop BLEEDING so much!'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-115/1088 Sp:127/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You exclaim '%Your skin is CHARRED severly!'.'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Sperwer thrusts you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%You GASP for air and wish you could breathe!'[0m
+[32mSirdest says '%Sperwer pierces you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Hp:-241/1088[-126] Sp:127/597[] Ep:436/436[].'[0m
+[32mSirdest exclaims '%Blood pours from your wounds!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-283/1088 Sp:127/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '%You are [51munconscious[32m, unable to do anything.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-283/1088 Sp:127/597 Ep:436/436 Exp:484.'[0m
+[32mSirdest says '%You say '% party say *lost spell casting.*.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           670/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Scaler           -283/1088  127/597  |                                      |
+`-----------------------------------------------------------------------------'
+[22:56:10] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Fizzl [1;30m<bat>:[0m _o/
+Stargazer arrives from west.
+The arena master shouts 'Scaler of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Sperwer'
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You howls in agony as the evil mace crushes bones!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Sperwer strokes you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Sperwer thrusts you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%You GASP for air and wish you could breathe!'[0m
+[32mSirdest exclaims '%You die!'[0m
+[32mSirdest says '%Scaler dies and is carried away by two clerics.'[0m
+[32mSirdest says '%The arena master shouts 'Scaler of team 1 dies and is removed from the [0m[32marena!'.'[0m
+[32mSirdest says '%This room is filled with healing equipment and here the clerics revive [0m[32mthe.'[0m
+[32mSirdest says '%Obvious exit is: east.'[0m
+[32mSirdest says '%Hp:1/1088[+242] Sp:127/597[] Ep:436/436[].'[0m
+[32mSirdest says '%The arena master shouts 'Fight is over! Winner is team 2 which [0m[32mconsists of Sperwer'.'[0m

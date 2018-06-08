@@ -1,0 +1,1238 @@
+The arena master shouts 'Team 1 consists of Jacen'
+The arena master shouts 'Team 2 consists of Moonlord'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32m*Sirdest % close door.[0m
+[32m*Sirdest %You close team 1 door.[0m
+[32m*Sirdest %The arena master shouts 'Team 1 consists of Jacen'.[0m
+[32m*Sirdest %The arena master shouts 'Team 2 consists of Moonlord'.[0m
+[32m*Sirdest %The arena master shouts 'All teams ready! Let the fight begin!'.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest % close door.[0m
+[32m*Sirdest %There are no light sources here, but you can still see.[0m
+[32m*Sirdest %Waitingroom for team 1. This room is magically created,.[0m
+[32m*Sirdest %Team 1 door [53m(closed)[32m leads out.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest %There are no light [0m[32msources here, but you can still see.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:03:43] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest % l.[0m
+[32m*Sirdest %            All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: e, s and se.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest % l.[0m
+[32m*Sirdest %Arena grounds (w,sw,s).[0m
+la arena
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest %Arena grounds [0m[32m(w,sw,s).[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:03:45] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove blade.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove sword.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest %You start [0m[32mconcentrating on the skill.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:03:47] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+Blazzer arrives from down.
+[32m*Sirdest % s.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %Arena grounds (nw,n,w).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest % s.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32m*Sirdest %*Moonlord shouts terrifying battlecry 'HASAA!'.[0m
+[32m*Sirdest %Moonlord looks at you.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:03:50] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove blade.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove sword.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest %You start [0m[32mconcentrating on the skill.[0m
+Zard twiddles all 4 of his thumbs, that looks weird.
+[32m*Sirdest %Moonlord leaves west.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:03:52] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %Arena grounds (n,ne,e).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest %Your movement [0m[32mprevents you from doing the skill.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove blade.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove sword.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest %You start [0m[32mconcentrating on the skill.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:03:53] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest % n.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %Arena grounds (e,s,se).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest % n.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:03:56] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove blade.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove sword.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest %You start [0m[32mconcentrating on the skill.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:03:57] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+Blazzer screams 'KILLLLLLLLL!  I must DESTROY!
+[32m*Sirdest % se.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %Arena grounds (nw,n,w).[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest % se.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove blade.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%% remove sword.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:684/792 Ep:527/529 Exp:14490 >%*Sirdest %You start [0m[32mconcentrating on the skill.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:00] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+la arena
+
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  684/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:02] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %hp: 1187 (1187) sp: 761+77 (792) ep: 529+2 (529).[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %Arena grounds (n,ne,e).[0m
+[32m*Sirdest %Hp:1187/1187 Sp:761/792 Ep:529/529 Exp:14490 >%*Sirdest %Your movement [0m[32mprevents you from doing the skill.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  761/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:06] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Arena grounds (nw,n,w).[0m
+[32m*Sirdest %Hp:1187/1187 Sp:761/792 Ep:529/529 Exp:14490 >%*Sirdest %Arena grounds [0m[32m(nw,n,w).[0m
+[32m*Sirdest %Someone's spider demon draws power from you.[0m
+[32m*Sirdest % n.[0m
+[32m*Sirdest %Arena grounds (w,sw,s).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:655/792 Ep:529/529 Exp:14490 >%*Sirdest %Someone's spider [0m[32mdemon draws power from you.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:08] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1187/1187 Sp:655/792 Ep:529/529 Exp:14490 >%% remove blade.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:655/792 Ep:529/529 Exp:14490 >%% remove sword.[0m
+[32m*Sirdest %You have nothing to remove![0m
+[32m*Sirdest %Hp:1187/1187 Sp:655/792 Ep:529/529 Exp:14490 >%*Sirdest %You start [0m[32mconcentrating on the skill.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1324/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1187/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:10] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Moonlord YELLS at you! It's TERRIFYING! You can only watch helplessly as.[0m
+[32m*Sirdest %You are no longer stunned.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You spin-kick Moonlord in the thigh.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %You successfully dodge Moonlord's bash.[0m
+[32m*Sirdest %You try to dodge, but Moonlord is not fooled.[0m
+[32m*Sirdest %Moonlord bores you making skin bubble and sizzle.[0m
+[32m*Sirdest %hp: 1015-172 (1187) sp: 655-106 (792) ep: 529 (529).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:1015/1187 Sp:655/792 Ep:529/529 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1278/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1015/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:12] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest % s.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %Arena grounds (nw,n,w).[0m
+[32m*Sirdest %Hp:1015/1187 Sp:655/792 Ep:529/529 Exp:14490 >%*Sirdest % s.[0m
+la arena
+[32m*Sirdest %Arena grounds (n,ne,e).[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1278/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1015/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:14] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Hp:1015/1187 Sp:655/792 Ep:529/529 Exp:14490 >%*Sirdest %Arena grounds [0m[32m(n,ne,e).[0m
+[32m*Sirdest %Moonlord arrives from east.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %You successfully parry Moonlord's pierce.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %Moonlord successfully dodges your futile attack.[0m
+[32m*Sirdest %Moonlord successfully parries your attack.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:1015/1187 Sp:655/792 Ep:529/529 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %Power rushes through your entire being as you ready Lightsaber to vanquish.[0m
+[32m*Sirdest %You wield A malachite no-dachi named 'Lightsaber' <red glow> in your right [0m[32mpaw.[0m
+[32m*Sirdest %Hp:1015/1187 Sp:655/792 Ep:529/529 Exp:14490 >%% wield sword.[0m
+[32m*Sirdest %You are not skilled enough to wield in combat![0m
+[32m*Sirdest %Hp:1015/1187 Sp:655/792 Ep:529/529 Exp:14490 >%*Sirdest %Power rushes [0m[32mthrough your entire being as you ready Lightsaber to.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1272/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1015/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:17] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You wield the Torso Maker sword <red glow> in your left paw.[0m
+[32m*Sirdest %Hp:1015/1187 Sp:655/792 Ep:529/529 Exp:14490 >%*Sirdest %You wield the [0m[32mTorso Maker sword <red glow> in your left paw.[0m
+[32m*Sirdest % tcc.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:1015/1187 Sp:655/792 Ep:529/530 Exp:14490 >%*Sirdest % tcc.[0m
+[32mKrokodiili smirks.[0m
+[32mBrokus snickers.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Moonlord craters you causing a third degree acid burn.[0m
+[32m*Sirdest %Moonlord successfully dodges your futile slash.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %hp: 934-81 (1187) sp: 655 (792) ep: 529 (530).[0m
+[32m*Sirdest %Tiger claw: ##.[0m
+[32m*Sirdest %You are not in a party.[0m
+la arena
+[32m*Sirdest %Hp:934/1187 Sp:655/792 Ep:529/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1272/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             934/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:20] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You bash your foe in berserk rage!![0m
+[32m*Sirdest % e.[0m
+la arena
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1272/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             934/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:24] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Arena grounds (nw,n,w).[0m
+[32m*Sirdest %Hp:934/1187 Sp:655/792 Ep:529/530 Exp:14490 >%*Sirdest % e.[0m
+[32m*Sirdest %You are now aggressive to your enemies.[0m
+[32m*Sirdest %Hp:934/1187 Sp:655/792 Ep:529/530 Exp:14490 >%*Sirdest %You are now [0m[32maggressive to your enemies.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1307/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             934/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:26] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %            All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: nw, n and w.[0m
+[32m*Sirdest %Hp:934/1187 Sp:655/792 Ep:529/530 Exp:14490 >%*Sirdest %            All [0m[32maround is a dense fog. You can see maybe.[0m
+[32m*Sirdest % parry.[0m
+[32m*Sirdest %You currently have 51/51 points in parry.[0m
+[32m*Sirdest %Hp:934/1187 Sp:655/792 Ep:529/530 Exp:14490 >%*Sirdest % parry.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1307/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             934/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:29] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest % rp im fucked:P.[0m
+[32m*Sirdest %Jacen [rape+]: im fucked:P.[0m
+[32m*Sirdest %Hp:934/1187 Sp:655/792 Ep:529/530 Exp:14490 >%*Sirdest % rp im fucked:P.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1307/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             934/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:31] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest % l.[0m
+[32m*Sirdest %            All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: nw, n and w.[0m
+[32m*Sirdest %Hp:934/1187 Sp:655/792 Ep:529/530 Exp:14490 >%*Sirdest % l.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1307/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             934/1187  655/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:33] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest % n.[0m
+[32m*Sirdest %Arena grounds (w,sw,s).[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%%Moss [rape+]: np.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1307/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             956/1187  674/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:37] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Arena grounds (nw,n,w).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %You incise Moonlord producing large scratches.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest %Arena grounds [0m[32m(nw,n,w).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%%Moonlord starts [0m[32mconcentrating on a new offensive skill.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1249/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             956/1187  674/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:38] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest %Tiger claw: ##.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1249/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             956/1187  674/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:42] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (n,ne,e).[0m
+[1;35mThe devil monkey of Brokus whispers: Leave no stone unturned. [0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest %Your movement [0m[32mprevents you from casting the spell.[0m
+Era is caught by sudden enlightment.
+[32m*Sirdest % n.[0m
+la arena
+[32m*Sirdest %Arena grounds (e,s,se).[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest % n.[0m
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1249/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             956/1187  674/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:45] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest %You skillfully cast the spell with haste.[0m
+[32m*Illusia hastes![0m
+[32m*Sirdest % se.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32mMarrow whistles 'haste...'[0m
+[32m*Sirdest %Arena grounds (nw,n,w).[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest %You skillfully cast [0m[32mthe spell with haste.[0m
+[32m*Sirdest %You start chanting.[0m
+la arena
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1249/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             956/1187  674/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:47] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Moonlord arrives from west.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %You tear Moonlord causing skin to slightly freeze.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest %Moonlord arrives [0m[32mfrom west.[0m
+[32m*Sirdest % w.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (n,ne,e).[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest % w.[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1203/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             956/1187  674/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:50] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+la arena
+
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1203/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             956/1187  674/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:53] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:956/1187 Sp:674/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest %Cure light wounds: #.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1242/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             956/1187  674/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:04:56] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You turn visible.[0m
+[32m*Sirdest %Nomiculious tells you 'moonlord rocking you?' (Mon Jul 25 16:04:46 2005).[0m
+[32m*Sirdest %You clap your hands and whisper 'judicandus mercuree' [57m(Cure light wounds)[32m.[0m
+[32m*Sirdest %You heal little of your own wounds.[0m
+[32m*Sirdest %hp: 998+42 (1187) sp: 656-18 (792) ep: 530 (530).[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:998/1187 Sp:656/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest %Jacen [rape+]: not yet at least.[0m
+[32m*Sirdest %Hp:998/1187 Sp:656/792 Ep:530/530 Exp:14490 >%*Sirdest %Jacen [rape+]: not [0m[32myet at least.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1242/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             998/1187  656/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:00] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %You try to dodge, but Moonlord is not fooled.[0m
+[32m*Sirdest %Moonlord sinks you producing large scratches.[0m
+[32m*Sirdest %Moonlord successfully dodges your futile slash.[0m
+[32m*Sirdest %You tear Moonlord producing a shock.[0m
+[32m*Sirdest %hp: 946-52 (1187) sp: 656 (792) ep: 530 (530).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:946/1187 Sp:656/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1204/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             946/1187  656/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:01] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (nw,n,w).[0m
+[32m*Sirdest %Hp:946/1187 Sp:656/792 Ep:530/530 Exp:14490 >%*Sirdest %Your movement [0m[32mprevents you from casting the spell.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:946/1187 Sp:656/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest %Moonlord arrives from west.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully dodge Moonlord's bash.[0m
+[32m*Sirdest %Moonlord bores you causing a small wound.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %hp: 890-56 (1187) sp: 656 (792) ep: 530 (530).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:890/1187 Sp:656/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1204/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             890/1187  656/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:04] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You bash your foe in berserk rage!![0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Moonlord successfully dodges your futile slash.[0m
+[32m*Sirdest %Moonlord successfully dodges your futile slash.[0m
+[32m*Sirdest %You skillfully cast the spell with haste.[0m
+[32m*Illusia hastes![0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:890/1187 Sp:656/792 Ep:530/530 Exp:14490 >%*Illusia hastes![0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1204/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             890/1187  656/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:06] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Info: Nix enters the game.[0m
+[32m*Sirdest %Moonlord thrusts you causing third degree burns.[0m
+[32m*Sirdest %You successfully parry Moonlord's pierce.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %Moonlord successfully parries your slash.[0m
+[32m*Sirdest %You incise Moonlord causing a small wound.[0m
+[32m*Sirdest %hp: 816-74 (1187) sp: 656 (792) ep: 530 (530).[0m
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %You feel your rage cracking Moonlord's bones![0m
+[32m*Sirdest %As Moonlord drops to her knees you leap in for the kill![0m
+[32m*Sirdest %hp: 816 (1187) sp: 547-109 (792) ep: 530 (530).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:816/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1035/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             816/1187  547/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:08] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:816/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest % n.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (w,sw,s).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You incise Moonlord causing skin to slightly freeze.[0m
+[32m*Sirdest %You shred Moonlord inducing a nasty lesion.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Hp:816/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest % n.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:816/1187 Sp:547/792 Ep:530/530 Exp:14490 >%Geryon [1;30m(suomi):[0;32m [0m[32mhttp://arkisto.rikos.org/2004/10/17/ilmoitus_karvisessa.jpg [.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:816/1187 Sp:547/792 Ep:530/530 Exp:14490 >%%You bash your foe in berserk [0m[32mrage!![0m
+[32m*Sirdest %Tiger claw: ##.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          899/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             816/1187  547/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:11] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest % w.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (e,s,se).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %hp: 807-9 (1187) sp: 547 (792) ep: 530 (530).[0m
+[32m*Sirdest %Hp:807/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest % w.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:807/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:807/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          899/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             807/1187  547/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:13] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %Moonlord successfully parries your slash.[0m
+[32m*Sirdest %You try to dodge, but Moonlord is not fooled.[0m
+[32m*Sirdest %Moonlord jabs you causing bad burns.[0m
+[32m*Sirdest %That really hurt! You just have to stop your spell.[0m
+[32m*Sirdest %You[51m lose your concentration [32mand cannot cast the spell.[0m
+[32m*Sirdest %You successfully parry Moonlord's pierce.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %hp: 711-96 (1187) sp: 547 (792) ep: 530 (530).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:711/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          891/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             711/1187  547/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:15] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest % tcc.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:711/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest % tcc.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (w,sw,s).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord successfully dodges your futile slash.[0m
+[32m*Sirdest %Moonlord successfully dodges your futile slash.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %You successfully dodge Moonlord's pierce.[0m
+[32m*Sirdest %Hp:711/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest %Your movement [0m[32mprevents you from casting the spell.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:711/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest % tcc.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:711/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest % tcc.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          891/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             711/1187  547/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:17] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest % s.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (nw,n,w).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You tear Moonlord causing skin to freeze.[0m
+[32m*Sirdest %You shred Moonlord causing skin cells to get shocked.[0m
+[32m*Sirdest %You successfully parry Moonlord's bash.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Hp:711/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest % s.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:711/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:711/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+la arena
+Blazzer screams 'KILLLLLLLLL!  I must DESTROY!
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          720/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             711/1187  547/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:20] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You incise Moonlord causing skin to freeze.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %You successfully dodge Moonlord's bash.[0m
+[32m*Sirdest %You successfully dodge Moonlord's pierce.[0m
+[32m*Sirdest %You skillfully cast the spell with haste.[0m
+[32m*Illusia hastes![0m
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:711/1187 Sp:547/792 Ep:530/530 Exp:14490 >%*Sirdest % party report.[0m
+[32m*Sirdest %You incise Moonlord causing bad burns.[0m
+la arena
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %Moonlord thrusts you making skin scorch.[0m
+[32m*Sirdest %Moonlord bores you causing a third degree acid burn.[0m
+[32m*Sirdest %hp: 567-144 (1187) sp: 547 (792) ep: 530 (530).[0m
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %As Moonlord drops to her knees you leap in for the kill![0m
+[32m*Sirdest %hp: 567 (1187) sp: 438-109 (792) ep: 530 (530).[0m
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          551/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             567/1187  438/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:23] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:567/1187 Sp:438/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:567/1187 Sp:438/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest %Spider Queen smiles upon you and helps you control the demon.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (n,ne,e).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Faster than the eye can follow, Lightsaber slices into Moonlord.[0m
+[32m*Sirdest %You slash Moonlord causing a bodily conflagration.[0m
+[32m*Sirdest %You horribly shred Moonlord causing high wattage to sever arteries.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %hp: 567 (1187) sp: 420-18 (792) ep: 530 (530).[0m
+[32m*Sirdest %Hp:567/1187 Sp:420/792 Ep:530/530 Exp:14490 >%*Sirdest %Your movement [0m[32mprevents you from casting the spell.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:567/1187 Sp:420/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+[32m*Sirdest %You start chanting.[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          292/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             567/1187  420/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:26] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Hp:567/1187 Sp:420/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest % n.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (e,s,se).[0m
+[32m*Sirdest %Moonlord the Supreme Giant < xx > <team 2>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord successfully dodges your futile slash.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %You try to dodge, but Moonlord is not fooled.[0m
+[32m*Sirdest %Moonlord thrusts you making skin scorch.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %hp: 503-64 (1187) sp: 420 (792) ep: 530 (530).[0m
+[32m*Sirdest %Hp:503/1187 Sp:420/792 Ep:530/530 Exp:14490 >%*Sirdest % n.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:503/1187 Sp:420/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:503/1187 Sp:420/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          292/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             503/1187  420/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:28] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %Moonlord successfully dodges your futile slash.[0m
+[32m*Sirdest %Moonlord successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %You successfully dodge Moonlord's pierce.[0m
+[32m*Sirdest %hp: 491-12 (1187) sp: 420 (792) ep: 530 (530).[0m
+[32m*Sirdest %Tiger claw: ##.[0m
+[32m*Sirdest %You skillfully cast the spell with haste.[0m
+[32m*Illusia hastes![0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:491/1187 Sp:420/792 Ep:530/530 Exp:14490 >%*Illusia hastes![0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          292/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             491/1187  420/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:29] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %Moonlord successfully parries your slash.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %...BUT you avoid being stunned with pure willpower.[0m
+[32m*Sirdest %Moonlord bores you sparking a limb to slice open.[0m
+[32m*Sirdest %hp: 426-65 (1187) sp: 420 (792) ep: 530 (530).[0m
+[32m*Sirdest %You bash your foe in berserk rage!![0m
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %You feel your rage cracking Moonlord's bones![0m
+[32m*Sirdest %As Moonlord drops to her knees you leap in for the kill![0m
+[32m*Sirdest %hp: 426 (1187) sp: 311-109 (792) ep: 530 (530).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:426/1187 Sp:311/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          193/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             426/1187  311/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:32] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:426/1187 Sp:311/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32mJuo buzzes 'sinne meni.'[0m
+[32m*Sirdest %Moonlord leaves east.[0m
+[32m*Sirdest %Tiger claw: ##.[0m
+[32m*Sirdest %You skillfully cast the spell with haste.[0m
+[32m*Illusia hastes![0m
+[32m*Sirdest %Moonlord arrives from east.[0m
+la arena
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %You horribly shred Moonlord inducing a shock to the heart.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (w,sw,s).[0m
+[32m*Sirdest %Hp:449/1187 Sp:332/792 Ep:530/530 Exp:14490 >%*Sirdest [0m[32m%*****************************************************.[0m
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord           96/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             449/1187  332/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:35] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:449/1187 Sp:332/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:449/1187 Sp:332/792 Ep:530/530 Exp:14490 >%*Sirdest %You start chanting.[0m
+[32mMarrow whistles 'vittu.'[0m
+[32mAmd quacks 'jeps...'[0m
+[32m*Sirdest %Moonlord arrives from west.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully dodge Moonlord's bash.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %You miss Moonlord.[0m
+[32m*Sirdest %You incise Moonlord causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:449/1187 Sp:332/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord           45/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             449/1187  332/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:39] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Moonlord misses you.[0m
+[32m*Sirdest %Moonlord successfully dodges your futile slash.[0m
+[32m*Sirdest %Moonlord tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You incise Moonlord inducing a shock to the heart.[0m
+[32m*Sirdest %Moonlord lapses into [51munconscious[32mness from severe loss of blood.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:449/1187 Sp:332/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord           -8/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             449/1187  332/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:42] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32mAmd quacks 'alkaa olla selvä.'[0m
+[32m*Sirdest %Torso Maker is ready to cut meat!![0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Chaos magic tears at Moonlord, sending chunks into oblivion.[0m
+[32m*Sirdest %You incise Moonlord inducing the heart to totally freeze.[0m
+[32m*Sirdest %You tear Moonlord causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %You feel your rage cracking Moonlord's bones![0m
+[32m*Sirdest %As Moonlord drops to her knees you leap in for the kill![0m
+[32m*Sirdest %hp: 449 (1187) sp: 223-109 (792) ep: 530 (530).[0m
+[32m*Sirdest % rp got him.[0m
+[32m*Sirdest %Jacen [rape+]: got him.[0m
+[32m*Sirdest %Hp:449/1187 Sp:223/792 Ep:530/530 Exp:14490 >%*Sirdest %Torso Maker is [0m[32mready to cut meat!![0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:449/1187 Sp:223/792 Ep:530/530 Exp:14490 >%*Sirdest %Hp:449/1187 [0m[32mSp:223/792 Ep:530/530 Exp:14490 >%*Sirdest %Torso Maker.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         -128/1324   15/15   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             449/1187  223/792  |                                      |
+`-----------------------------------------------------------------------------'
+[16:05:44] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+[32m*Sirdest %@Cran goes 'Ooooo...' at you.[0m
+[32m*Sirdest %Faster than the eye can follow, Lightsaber slices into Moonlord.[0m
+[32m*Sirdest %You shred Moonlord inducing the heart to totally freeze.[0m
+[32m*Sirdest %You incise Moonlord causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:449/1187 Sp:223/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+Blood rushes to Blazzer's face and he trembles violently.
+[32mMarrow whistles 'toivottavasti se avoidaa.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You slash Moonlord inducing the heart to totally freeze.[0m
+[32m*Sirdest %You shred Moonlord causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:449/1187 Sp:223/792 Ep:530/530 Exp:14490 >%*Sirdest %You are not in a [0m[32mparty.[0m
+smirk
+You smirk.
+[16:05:52] hp 1031/1031  sp 707/707  ep 402/402  xp 22458  $ 3000/70905  wimpy off
+
+The arena master shouts 'Moonlord of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Jacen'

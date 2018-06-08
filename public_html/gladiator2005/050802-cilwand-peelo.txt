@@ -1,0 +1,1328 @@
+
+*Sirdest %Info: Mendar goes link dead.
+*Sirdest %You perform the ceremony.
+*Sirdest %Hp: 1172 [] Sp: 981 [] Exp: 162592 [].
+*Sirdest %Peelo tells Sirdar and you 'jees'.
+Naanunaane (fall+): mun mielest enteil vois olla semmone et ne "stomppaa" firet pois ku neh‰ on
+ v‰h‰ niinku puita ni ei ne varmaa tykk‰‰ tulest :(
+*Sirdest %You have an unusual feeling as you cast the spell.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1172/1172 Sp:981/981 Ep:476/477 W:off Exp:162592 $:1675/200367.
+Jumbo leaves west.
+*Sirdest %Sirdar tells Peelo and you '3'.
+*Sirdest %You stand firmly and chant 'infernalicus domus arachnid rex'.
+*Sirdest %You feed Cilwand's spider demon's hunger with your ritual.
+*Sirdest %Hp: 1172 [] Sp: 952 [-29] Exp: 162592 [].
+*Sirdest %Sirdar tells Peelo and you '1'.
+*Sirdest %You start concentrating on the skill.
+*Sirdest %Hp:1172/1172 Sp:952/981 Ep:476/477 W:off Exp:162592 $:1675/200367.
+Kawasa xDDDD from down.
+*Sirdest % cast spider walk at cilwand.
+*Sirdest %You break your skill attempt.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1172/1172 Sp:952/981 Ep:476/477 W:off Exp:162592 $:1675/200367.
+*Kawasa ticks 107 sps[7s].
+Bmoa {wanted}: good-aligned tank
+*Sirdest %You sizzle with magical energy.
+*Sirdest %Hp: 1172 [] Sp: 981 [+29] Exp: 162592 [].
+*Sirdest %Spider walk: #.
+*Sirdest %You weave the Walk with your hands and chant 'Khizanth Arachnidus Walkitus'.
+*Sirdest %You are disturbed by something, your spell misfires.
+*Sirdest %Hp: 1172 [] Sp: 949 [-32] Exp: 162592 [].
+*Sirdest %You start chanting.
+*Sirdest %Hp:1172/1172 Sp:949/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+Link Death arrives on his black stallion and carries Bleezuz away!
+Link Death arrives on his black stallion and drops Bleezuz here!
+*Sirdest %Info: Bleezuz recovers from link death.
+*Stargazer SIZZLES.
+*Sirdest % whistle.
+*Sirdest %You whistle appreciatively.
+*Sirdest %Hp:1172/1172 Sp:949/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+Farliss preaches about greatness of Tarmalen.
+Bleezuz tries to hide a yawn.
+Stargazer tries to hide a yawn.
+Sumar smiles and nods her head in agreement.
+Mathieu tries to hide a yawn.
+Brewer tries to hide a yawn.
+*Sirdest %Spider walk: #.
+Broetchen (sales): ruby long spear <red glow> +dam mb 50k
+*Sirdest %You weave the Walk with your hands and chant 'Khizanth Arachnidus Walkitus'.
+*Sirdest %Your spell just sputters.
+*Sirdest %You feel like you just saved some spell points!
+*Sirdest %Hp: 1172 [] Sp: 925 [-24] Exp: 162592 [].
+*Sirdest %You start chanting.
+*Sirdest %Hp:1172/1172 Sp:925/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+*Sirdest %You skillfully cast the spell with haste.
+Marrow whistles 'haste...'
+*Sirdest %Info: Cealdyn goes link dead.
+Kahmuli [saato+]: Experience gained: 724403
+Kawasa looks at star.
+*Kawasa ticks 134 sps[22s].
+Yehat arrives from down.
+Broetchen (sales): going to shop x1
+Luupy [wanted]: eqparty for de
+Blackstar [sales]: 50k
+*Sirdest %You are done with the chant.
+*Sirdest %You weave the Walk with your hands and chant 'Khizanth Arachnidus Walkitus'.
+*Sirdest %For some reason you want to run on the walls for a little while.
+*Sirdest %Hp: 1172 [] Sp: 893 [-32] Exp: 162592 [].
+Kahmuli [saato+]: ei huono p‰iv‰
+*Kawasa ticks 58 sps[2s].
+*Sirdest % cast glory of destruction at amount 100.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1172/1172 Sp:893/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+Kawasa preaches about greatness of Tarmalen.
+Yehat tries to hide a yawn.
+Requiem smiles and nods his head in agreement.
+Hellvasara tries to hide a yawn.
+Brokus tries to hide a yawn.
+Sirdest tries to hide a yawn.
+Nitra tries to hide a yawn.
+Broetchen (sales): 50k x1
+*Sirdest %Info: Sloppy recovers from link death.
+*Kawasa ticks 224 sps[3s].
+Nu [sales]: 60k
+Shadizar [fall+]: miksei ketk‰‰ kovat osallistunu gladiatorz
+*Sirdest %Glory of destruction: #######.
+Broetchen (sales): 60k x1
+Broetchen (sales): 60k x2
+Blackstar [sales]: 70k
+*Sirdest %You sizzle with magical energy.
+*Sirdest %Hp: 1172 [] Sp: 981 [+88] Exp: 162592 [].
+*Sirdest %Glory of destruction: ######.
+*Sirdest %You are no more hunting.
+*Sirdest %Hp:1172/1172 Sp:981/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+*Sirdest %You interrupt the chant in order to start a new chant.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1172/1172 Sp:981/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are carrying 16.3 kg of equipment:
+*Sirdest %1550 coins (14 platinum, 1535 gold and 1 silver) [Cash: 1675.60  Bank:
+*Sirdest %Keep:
+*Sirdest %Two Sturdy black leather boot inlaids with rubies <orange glow>.
+*Sirdest %Hp:1172/1172 Sp:981/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+Broetchen (sales): 70k x1
+Broetchen (sales): 70k x2
+Darol (fall+): ei mulla ollu aikaa!
+Broetchen (sales): 70k x3
+*Sirdest %You are done with the chant.
+*Sirdest %You stand firmly and chant 'infernalicus domus arachnid rex'.
+*Sirdest %You poke yourself in the eye and your spell misfires.
+*Sirdest %You feel like you just saved some spell points!
+*Sirdest %Hp: 1172 [] Sp: 969 [-12] Exp: 162592 [].
+*Sirdest %You start chanting.
+*Sirdest %Hp:1172/1172 Sp:969/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+Grotlik (wanted): party
+*Sirdest %You feel infernal energies flowing to your body from your heart.
+Shadizar [fall+]: vai onko cilwand ja peelo kovimmat
+*Sirdest %You say 'no jopas failataa.'.
+*Sirdest %Hp:1172/1172 Sp:969/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are done with the chant.
+*Sirdest %You stand firmly and chant 'infernalicus domus arachnid rex'.
+*Sirdest %You feed Cilwand's spider demon's hunger with your ritual.
+*Sirdest %Hp: 1155 [] Sp: 918 [-33] Exp: 162592 [].
+*Sirdest %You start chanting.
+*Sirdest %Hp:1155/1172 Sp:918/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+Kawasa quacks 'hihi v‰h‰ failaaaa cilwand xD.'
+*Kawasa ticks 199 sps[19s].
+Tobe arrives from down.
+Broetchen (sales): sold to blackstar
+Henry shouts 'Greatorian no longer causes lag!'
+*Sirdest %Henry shouts 'Greatorian no longer causes lag!'.
+*Sirdest %Info: Greatorian dies.
+Keffe (sales): 8 unsorted jade gems mb 20k
+Henry shouts 'Juo dies from a single blow, well almost at least!'
+Info: Juo dies.
+Henry shouts 'I hope you have a life insurance, Dornier!'
+*Sirdest %Henry shouts 'Juo dies from a single blow, well almost at least!'.
+*Sirdest %Info: Juo dies.
+*Sirdest %Henry shouts 'I hope you have a life insurance, Dornier!'.
+*Sirdest %Info: Dornier dies.
+Jumbo arrives from east.
+*Sirdest %You sizzle with magical energy.
+*Sirdest %Hp: 1172 [+17] Sp: 981 [+63] Exp: 162592 [].
+*Sirdest %You skillfully cast the spell with haste.
+*Sirdest % party say Full Hp.
+*Sirdest %Channel party is now on.
+*Sirdest %Cilwand {party}: Full Hp.
+*Sirdest %Hp:1172/1172 Sp:981/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are no more hunting.
+*Sirdest %Hp:1172/1172 Sp:981/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+*Sirdest %You interrupt the chant in order to start a new chant.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1172/1172 Sp:981/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+Jumbo leaves down.
+Marrow whistles 'haste...'
+Requiem [sales]: 20k
+*Sirdest %You interrupt the chant in order to start a new chant.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1172/1172 Sp:981/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+*Sirdest %Glory of destruction: #######.
+*Sirdest %You go 'Gnnnn!'.
+*Sirdest %Hp:1172/1172 Sp:981/981 Ep:477/477 W:off Exp:162592 $:1675/200367.
+Defender shouts 'Slobber is in a much warmer place now!'
+Info: Slobber dies.
+*Sirdest %Glory of destruction: ######.
+*Sirdest %You skillfully cast the spell with haste.
+*Sirdest %Defender shouts 'Slobber is in a much warmer place now!'.
+*Sirdest %Info: Slobber dies.
+Marrow whistles 'haste...'
+*Sirdest %Glory of destruction: ##.
+Farliss mews 'jeesus mita trigui.'
+Broetchen (sales): and the last item in this sale, armour of red dragon scales AWEmax +physres
+ +csense +exprate mb 1k
+Jumbo arrives from down.
+Keffe (sales): sold
+*Sirdest %You are done with the chant.
+*Sirdest %You kneel and chant 'Grant me the power, the fire from within'.
+*Sirdest %Your prayer to the powers of destruction are answered.
+*Sirdest %Hp: 1172 [] Sp: 901 [-80] Exp: 162592 [].
+*Sirdest %Cilwand {report}: Glory of Destruction -ON-.
+*Sirdest %Hp:1172/1208 Sp:901/981 Ep:477/482 W:off Exp:162592 $:1675/200367.
+Apopapopyy arrives from down.
+*Sirdest % cere.
+*Sirdest %You start concentrating on the skill.
+*Sirdest %Hp:1172/1208 Sp:901/981 Ep:477/482 W:off Exp:162592 $:1675/200367.
+The devil monkey of Kawasa whispers: It is better to return a borrowed pot with a little something you last cooked in it. 
+Jumbo leaves west.
+Nu [sales]: 1k!
+Pahvi hums a little tune.
+Brewer grunts 'heh.'
+*Sirdest %Hp: 1206 [+34] Sp: 981 [+80] Exp: 162592 [].
+Morthius [sales]: 5k
+*Sirdest %You are carrying 16.3 kg of equipment:
+*Sirdest %1550 coins (14 platinum, 1535 gold and 1 silver) [Cash: 1675.60  Bank:
+*Sirdest %Keep:
+*Sirdest %Two Sturdy black leather boot inlaids with rubies <orange glow>.
+*Sirdest %Hp:1206/1208 Sp:981/981 Ep:482/482 W:off Exp:162592 $:1675/200367.
+Jumbo arrives from west.
+*Sirdest %You break your skill attempt.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1206/1208 Sp:981/981 Ep:482/482 W:off Exp:162592 $:1675/200367.
+Koan [sales]: 20k
+Nu [sales]: 20k
+*Sirdest %You are not in combat right now.
+*Sirdest %Hp:1206/1208 Sp:981/981 Ep:482/482 W:off Exp:162592 $:1675/200367.
+*Sirdest %You pull hard on your leggings and they finally let go.
+*Sirdest %The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+*Sirdest %You remove a purple glove, a purple glove, the Bracelets of Darkness <yellow glow>, red
+ robe with mystic symbol at back, sparkling ruby ring, sparkling ruby ring, leggings of putrid
+ flesh (undead) <yellow glow>, Boots of the Goddess <yellow glow>, a black belt decored with golden
+ stripes <yellow glow>, Tattered Silver Shimmering Cloak <orange glow>, a black hood <yellow glow>,
+ silver dragon bracers <red glow>, a crystal pendant, a black leaf of The Old Man Willow. and an
+ ancient staff of the necromancer <yellow glow>.
+*Sirdest %Hp:1206/1208 Sp:981/981 Ep:482/482 W:off Exp:162592 $:1675/200367.
+*Sirdest %.
+*Sirdest %.
+*Sirdest %Pure POWER surges from the ring to your limbs!
+*Sirdest %Pure POWER surges from the ring to your limbs!
+*Sirdest %You wear a fine runed o-yoroi <yellow glow>, an impure bracelet, a snake bracelet
+ (beastly aura), the bracelet of no forgiveness, a runed blue belt of unholy resistance <orange
+ glow>, a cracked onyx mask, scaly cloak of diffusion <yellow glow>, sparkling emerald ring,
+ sparkling emerald ring, Sturdy black leather boot inlaid with rubies <orange glow>, Sturdy black
+ leather boot inlaid with rubies <orange glow>, a pair of legendary Maze Master's gloves <orange
+ glow>, The Staff of Ulmat-Took <yellow glow> and The Staff of Ulmat-Took <yellow glow>.
+*Sirdest %Hp:1206/1208 Sp:981/981 Ep:482/482 W:off Exp:162592 $:1675/200367.
+Nu [sales]: 25k
+*Sirdest %Spider demon control: #.
+*Sirdest %You are done with the chant.
+*Sirdest %You stand firmly and chant 'infernalicus domus arachnid rex'.
+*Sirdest %You feed Cilwand's spider demon's hunger with your ritual.
+*Sirdest %Hp: 1204 [] Sp: 920 [-33] Exp: 162592 [].
+Groomish [sales]: 30k
+*Sirdest %You start concentrating on the skill.
+*Sirdest %Hp:1204/1204 Sp:920/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+Morthius [sales]: 35k
+Nu [sales]: 50k!
+Groomish [sales]: 60k
+Shadizar arrives from west.
+Jumbo leaves west.
+Shadizar leaves down.
+*Sirdest % command 2 cast tiger claw at peelo.
+*Sirdest %'2' is a command-alias to 'cast tiger claw at peelo'.
+*Sirdest %Hp:1204/1204 Sp:920/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+Shadizar arrives from down.
+Shadizar leaves west.
+Sumar is caught by sudden enlightment.
+Info: Juo wrote a new blog entry.
+Broetchen (sales): 60k x1
+*Sirdest %You sizzle with magical energy.
+*Sirdest %Hp: 1204 [] Sp: 953 [+33] Exp: 162592 [].
+Zenick arrives from down.
+*Sirdest %You are prepared to do the skill.
+*Sirdest %You perform the ceremony.
+*Sirdest %Hp: 1204 [] Sp: 953 [] Exp: 162592 [].
+*Sirdest %'k' is now aliased to '{kill peelo.
+*Sirdest %Hp:1204/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %'1' is a command-alias to 'cast spider web'.
+*Sirdest %Hp:1204/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+Broetchen (sales): 60k x3 on AWEmax +physres +csense +exprate armour!
+*Sirdest %Info: Borix recovers from link death.
+The arena master shouts 'Team 1 consists of Cilwand'
+The arena master shouts 'Team 2 consists of Peelo'
+The arena master shouts 'All teams ready! Let the fight begin!'
+Broetchen (sales): 90k x1
+*Sirdest %You close team 1 door.
+*Sirdest %The arena master shouts 'Team 1 consists of Cilwand'.
+*Sirdest %The arena master shouts 'Team 2 consists of Peelo'.
+*Sirdest %The arena master shouts 'All teams ready! Let the fight begin!'.
+*Sirdest %Hp:1204/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo arrives.
+*Sirdest %Peelo starts concentrating on a new offensive skill.
+*Sirdest %You have an unusual feeling as you cast the spell.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1204/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+Broetchen (sales): 90k x2
+*Sirdest %You interrupt the chant in order to start a new chant.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1204/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %No such target.
+*Sirdest %Hp:1204/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %No jacen here !
+*Sirdest %Hp:1204/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Peelo strokes you producing large scratches.
+*Sirdest %You get hit hard but your discipline saves concentration on your spell.
+*Sirdest %Peelo successfully dodges your futile attack.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You smash Peelo making small marks.
+*Sirdest %You puncture Peelo causing a small scratch.
+*Sirdest %Hp: 1160 [-44] Sp: 953 [] Exp: 162592 [].
+*Sirdest %Peelo is in excellent shape.
+*Sirdest %Hp:1160/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             879/910   633/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1160/1204  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+Broetchen (sales): 90k x3 and
+*Sirdest %You cannot go that way.
+*Sirdest %Hp:1160/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             879/910   633/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1160/1204  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %          All around is a dense fog. You can see maybe.
+*Sirdest %Obvious exit is: south.
+*Sirdest %Peelo Puskaryssa the dented member of Tinmen < aa > <team 2>.
+*Sirdest %Hp:1160/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You interrupt the chant in order to start a new chant.
+*Sirdest %You start chanting.
+*Sirdest %Hp:1160/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             879/910   633/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1160/1204  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %You go 'Oops' and blush.
+*Sirdest %Hp:1160/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+Broetchen (sales): sold to zorru
+*Sirdest %You skillfully cast the spell with haste.
+*Sirdest %*****************************************************.
+*Sirdest %Peelo misses you.
+*Sirdest %Peelo misses you.
+*Sirdest %You punch Peelo making small marks.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You stomp-kick Peelo in the thigh.
+Marrow whistles 'haste...'
+*Sirdest %Peelo successfully parries your pierce.
+*Sirdest %Peelo strikes you SAVAGELY in the chest with such force that it totally crushes.
+*Sirdest %Peelo is in excellent shape.
+*Sirdest %Hp:916/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             834/910   618/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           916/1204  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest % say vanhat aliakset oli.
+*Sirdest %You say 'vanhat aliakset oli.'.
+*Sirdest %Hp:916/1204 Sp:953/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are done with the chant.
+*Sirdest %Cast tiger claw at what?
+*Sirdest %Hp: 916 [] Sp: 943 [-10] Exp: 162592 [].
+*Sirdest %You are not in combat right now.
+*Sirdest %Hp:916/1204 Sp:943/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             834/910   618/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           916/1204  943/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+Blodwyn [wanted]: summon
+*Sirdest % cast spider web.
+*Sirdest %You start chanting.
+*Sirdest %Hp:916/1204 Sp:943/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             906/910   603/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           916/1204  943/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Spider web: ##.
+*Sirdest %You skillfully cast the spell with haste.
+*Sirdest %Peelo arrives from south.
+Marrow whistles 'haste...'
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             906/910   603/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           916/1204  943/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Peelo starts concentrating on a new offensive skill.
+*Sirdest %Peelo misses you.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Peelo successfully parries your attack.
+*Sirdest % ...AND counterattacks with ferocity.
+*Sirdest %You miss Peelo.
+*Sirdest %You puncture Peelo causing a small scratch.
+*Sirdest %Hp: 905 [-11] Sp: 943 [] Exp: 162592 [].
+*Sirdest %Peelo is in excellent shape.
+*Sirdest %Hp:905/1204 Sp:943/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+*Sirdest %You weave the web with your hands and chant 'infernalicus thanatos arachnidos'.
+look at arena
+       
+  ###  
+  #1#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             891/910   603/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           905/1204  919/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %You lose touch with the magic and the spell fizzles.
+*Sirdest %You feel like you just saved some spell points!
+*Sirdest %Hp: 905 [] Sp: 919 [-24] Exp: 162592 [].
+*Sirdest %Peelo is in excellent shape.
+*Sirdest %Hp:905/1204 Sp:919/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Arena grounds (n).
+*Sirdest %Hp:905/1204 Sp:919/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #2#  
+  #1#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             891/910   603/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           905/1204  919/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest % cast spider web.
+*Sirdest %You start chanting.
+*Sirdest %Hp:905/1204 Sp:919/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+Alucard shouts 'Euno should learn to use consider!'
+look at arena
+       
+  ###  
+  #.#  
+  #1#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             910/910   619/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           905/1204  919/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Info: Euno dies.
+*Sirdest %Spider web: ###.
+*Sirdest %You skillfully cast the spell with haste.
+*Sirdest %Peelo arrives from north.
+Marrow whistles 'haste...'
+*Sirdest %Peelo starts concentrating on a new offensive skill.
+la arena
+look at arena
+       
+  ###  
+  #.#  
+  #1#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             910/910   619/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           905/1204  919/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Peelo misses you.
+*Sirdest %Peelo strokes you producing large scratches.
+*Sirdest %Peelo successfully parries your attack.
+*Sirdest %You stomp-kick Peelo in the thigh.
+*Sirdest %You puncture Peelo causing a small scratch.
+*Sirdest %Hp: 870 [-35] Sp: 919 [] Exp: 162592 [].
+*Sirdest %Peelo is in excellent shape.
+*Sirdest %Hp:870/1204 Sp:919/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+Jumbo arrives from west.
+la arena
+look at arena
+       
+  ###  
+  #.#  
+  #1#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             868/910   619/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  919/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Info: Taerom left the game.
+*Sirdest % say jopas failin.
+*Sirdest %You say 'jopas failin.'.
+*Sirdest %Hp:870/1204 Sp:919/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #.#  
+  #1#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             868/910   619/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  919/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+Timpe [twilight+]: euno litteen
+*Sirdest %*****************************************************.
+*Sirdest %Peelo misses you.
+*Sirdest %Peelo misses you.
+*Sirdest %Peelo successfully dodges your futile attack.
+*Sirdest %You score a CRITICAL hit!
+*Sirdest %Smiling devilishly you punch Peelo in the ribs breaking several with loud crunching
+ noises.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You puncture Peelo causing a small scratch.
+*Sirdest %You are done with the chant.
+*Sirdest %You weave the web with your hands and chant 'infernalicus thanatos arachnidos'.
+*Sirdest %The area is covered in magical spider webs.
+*Sirdest %Hp: 870 [] Sp: 864 [-55] Exp: 162592 [].
+*Sirdest %Peelo is slightly hurt.
+*Sirdest %Hp:870/1204 Sp:864/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is slightly hurt.
+*Sirdest %Hp:870/1204 Sp:864/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #.#  
+  #1#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             672/910   619/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  864/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Arena grounds (s).
+*Sirdest %Hp:870/1204 Sp:864/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You start chanting.
+*Sirdest %Hp:870/1204 Sp:864/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             672/910   619/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  864/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             672/910   619/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  858/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Hp: 870 [] Sp: 858 [-6] Exp: 162592 [].
+*Sirdest %Tiger claw: #.
+*Sirdest %Usage: aggro <yes|no>.
+la arena
+*Sirdest %Hp:870/1204 Sp:858/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+look at arena
+       
+  ###  
+  #1#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             672/910   619/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  858/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Cast tiger claw at what?
+*Sirdest %Hp: 870 [] Sp: 837 [-21] Exp: 162592 [].
+*Sirdest %You are not in combat right now.
+*Sirdest %Hp:870/1204 Sp:837/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are now aggressive to your enemies.
+*Sirdest %Hp:870/1204 Sp:837/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+*Sirdest %You start chanting.
+*Sirdest %Hp:870/1204 Sp:837/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+look at arena
+       
+  ###  
+  #1#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             861/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  837/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Tiger claw: ##.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             861/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  837/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %*****************************************************.
+*Sirdest %Peelo misses you.
+*Sirdest %Peelo misses you.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You stomp-kick Peelo in the thigh.
+*Sirdest %You smash Peelo making small marks.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You puncture Peelo causing a small scratch.
+*Sirdest %Peelo is in excellent shape.
+*Sirdest %Hp:870/1204 Sp:837/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             825/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  837/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %*****************************************************.
+*Sirdest %Peelo misses you.
+*Sirdest %Peelo misses you.
+*Sirdest %You punch Peelo making small marks.
+*Sirdest %Peelo successfully dodges your futile attack.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You pierce Peelo causing a small scratch.
+*Sirdest %Tiger claw: #.
+*Sirdest %Peelo is in a good shape.
+*Sirdest %Hp:870/1204 Sp:837/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are casting 'tiger claw' at 'peelo'.
+la arena
+*Sirdest %Hp:870/1204 Sp:837/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+look at arena
+       
+  ###  
+  #1#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             795/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  837/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %You are done with the chant.
+*Sirdest %Cast tiger claw at what?
+*Sirdest %Hp: 870 [] Sp: 828 [-9] Exp: 162592 [].
+*Sirdest %You are not in combat right now.
+*Sirdest %Hp:870/1204 Sp:828/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #1#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             795/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  828/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Arena grounds (n).
+*Sirdest %Spider webs block this way. You need to return.
+*Sirdest %Peelo Puskaryssa the dented member of Tinmen < aa > <team 2>.
+*Sirdest %*****************************************************.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You smash Peelo making small marks.
+*Sirdest %You spin-kick Peelo in the face, swelling an eye purple and shut.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You pierce Peelo causing a small scratch.
+*Sirdest %Peelo misses you.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Hp:870/1204 Sp:828/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You start chanting.
+*Sirdest %Hp:870/1204 Sp:828/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is slightly hurt.
+*Sirdest %Hp:870/1204 Sp:828/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #.#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             725/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           870/1204  828/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+Shadizar [fall+]: tuommonen castertankki p‰rj‰‰
+*Sirdest %You are now aggressive to your enemies.
+*Sirdest %Hp:870/1204 Sp:828/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You skillfully cast the spell with haste.
+*Sirdest %*****************************************************.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You stomp-kick Peelo just below the chin.
+*Sirdest %Peelo successfully parries your attack.
+Marrow whistles 'haste...'
+*Sirdest %Peelo successfully dodges your futile pierce.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Peelo strokes you producing large scratches.
+*Sirdest %Hp: 831 [-39] Sp: 828 [] Exp: 162592 [].
+*Sirdest %Peelo is slightly hurt.
+*Sirdest %Hp:831/1204 Sp:828/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #.#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             686/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           831/1204  828/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %          All around is a dense fog. You can see maybe.
+*Sirdest %Obvious exit is: north.
+*Sirdest %Spider webs block this way. You need to return.
+*Sirdest %Peelo Puskaryssa the dented member of Tinmen < aa > <team 2>.
+*Sirdest %Hp:831/1204 Sp:828/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #.#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             686/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           831/1204  828/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %You shred air with your tiger claws and scream 'Haii!'.
+*Sirdest %As Peelo drops to his knees you leap in for the kill!
+*Sirdest %Hp: 831 [] Sp: 720 [-108] Exp: 162592 [].
+*Sirdest %*****************************************************.
+*Sirdest %You score a CRITICAL hit!
+*Sirdest %Smiling devilishly you punch Peelo forcing the fingers enter through the mouth and
+ instantly come out from the back of the head.
+*Sirdest %You miss Peelo.
+*Sirdest %You puncture Peelo causing a small wound.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Peelo strokes you producing large scratches.
+*Sirdest %Hp: 784 [-47] Sp: 720 [] Exp: 162592 [].
+*Sirdest %Peelo is not in a good shape.
+*Sirdest %Hp:784/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Cilwand {report}: Peelo stunned from claw!
+*Sirdest %Hp:784/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is not in a good shape.
+*Sirdest %Hp:784/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Hp:784/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #2#  
+  #1#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             387/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           784/1204  720/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Arena grounds (s).
+*Sirdest %Peelo Puskaryssa the dented member of Tinmen < aa > <team 2>.
+*Sirdest %*****************************************************.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You spin-kick Peelo tumbling down.
+*Sirdest %You miss Peelo.
+*Sirdest %Peelo successfully dodges your futile pierce.
+*Sirdest %Peelo strokes you producing large scratches.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Hp: 744 [-40] Sp: 720 [] Exp: 162592 [].
+*Sirdest %Hp:744/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is not in a good shape.
+*Sirdest %Hp:744/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You start chanting.
+*Sirdest %Hp:744/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #2#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             350/910   576/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           744/1204  720/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %*Peelo hastes.
+*Sirdest %Peelo successfully parries your attack.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You punch Peelo just below the chin.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You puncture Peelo inducing a nasty lesion.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %You try to dodge, but Peelo is not fooled.
+*Sirdest %Peelo strokes you causing third degree burns.
+*Sirdest %Hp: 700 [-44] Sp: 720 [] Exp: 162592 [].
+*Sirdest %Peelo claps his hands and whispers 'judicandus mangenic'.
+*Sirdest %Peelo is noticeably hurt.
+*Sirdest %Hp:700/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #2#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             512/910   533/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           700/1204  720/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest % look.
+Tuppi [wanted]: blood crown, belan belt
+*Sirdest %          All around is a dense fog. You can see maybe.
+*Sirdest %Obvious exit is: south.
+*Sirdest %Hp:700/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Hp:700/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You interrupt the chant in order to start a new chant.
+*Sirdest %You start chanting.
+*Sirdest %Hp:700/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Your movement prevents you from casting the spell.
+*Sirdest %Arena grounds (n).
+*Sirdest %Spider webs block this way. You need to return.
+*Sirdest %Peelo Puskaryssa the dented member of Tinmen < aa > <team 2>.
+*Sirdest %*****************************************************.
+*Sirdest %Peelo successfully parries your attack.
+*Sirdest %Peelo successfully dodges your futile attack.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You puncture Peelo producing large scratches.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Peelo misses you.
+*Sirdest %Hp:700/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+*Sirdest %Peelo is noticeably hurt.
+look at arena
+       
+  ###  
+  #.#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             481/910   533/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           648/1204  720/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Hp:700/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is noticeably hurt.
+*Sirdest %Hp:700/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You start chanting.
+*Sirdest %Hp:700/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo successfully dodges your futile attack.
+*Sirdest %You smash Peelo in the thigh.
+*Sirdest %Peelo successfully dodges your futile pierce.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %You try to dodge, but Peelo is not fooled.
+*Sirdest %Peelo thrusts you causing bad burns.
+*Sirdest %Hp: 648 [-52] Sp: 720 [] Exp: 162592 [].
+*Sirdest %Tiger claw: ##.
+*Sirdest %Peelo is noticeably hurt.
+*Sirdest %Hp:648/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+*Sirdest %          All around is a dense fog. You can see maybe.
+look at arena
+       
+  ###  
+  #.#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             481/910   533/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           648/1204  720/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Obvious exit is: north.
+*Sirdest %Spider webs block this way. You need to return.
+*Sirdest %Peelo Puskaryssa the dented member of Tinmen < aa > <team 2>.
+*Sirdest %Hp:648/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are casting 'tiger claw' at 'peelo'.
+*Sirdest %Hp:648/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You miss Peelo.
+*Sirdest %You miss Peelo.
+*Sirdest %You miss Peelo.
+*Sirdest %Peelo misses you.
+*Sirdest %Peelo strokes you causing third degree burns.
+*Sirdest %Hp: 605 [-43] Sp: 720 [] Exp: 162592 [].
+*Sirdest %Tiger claw: #.
+*Sirdest %Peelo is noticeably hurt.
+la arena
+*Sirdest %Hp:605/1204 Sp:720/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+look at arena
+       
+  ###  
+  #.#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             481/910   533/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           605/1204  720/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+Walor's Kerbholz proudly echoes:
+      The Zhentorian Captain is planning here                    #1    
+*Sirdest %*****************************************************.
+*Sirdest %You punch Peelo just below the chin.
+*Sirdest %Peelo successfully parries your attack.
+*Sirdest %You puncture Peelo producing large scratches.
+*Sirdest %Peelo misses you.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %You are done with the chant.
+*Sirdest %You shred air with your tiger claws and scream 'Haii!'.
+*Sirdest %As Peelo drops to his knees you leap in for the kill!
+*Sirdest %Hp: 605 [] Sp: 612 [-108] Exp: 162592 [].
+*Sirdest %Peelo is not in a good shape.
+*Sirdest %Hp:605/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is not in a good shape.
+*Sirdest %Hp:605/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Cilwand {report}: Peelo stunned from claw!
+*Sirdest %Hp:605/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+*Sirdest %You start chanting.
+look at arena
+       
+  ###  
+  #.#  
+  #2#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             330/910   533/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           605/1204  612/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Hp:605/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+Icebear [wanted]: olympos staff, dex legs
+la arena
+look at arena
+       
+  ###  
+  #2#  
+  #1#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             330/910   533/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           605/1204  612/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Tiger claw: ##.
+Juo the owl [fall+]: saas n‰hd‰ kumpi voittaa, oblari ja websi ja wrathi ja clawi vai unstun ja csw
+ :P
+*Sirdest %You skillfully cast the spell with haste.
+Marrow whistles 'haste...'
+Turboporo [sales]: 2x Mighty axe of marions, mb775k
+*Sirdest % n.
+*Sirdest %Your movement prevents you from casting the spell.
+*Sirdest %Arena grounds (s).
+*Sirdest %Peelo Puskaryssa the dented member of Tinmen < aa > <team 2>.
+*Sirdest %*****************************************************.
+*Sirdest %You spin-kick Peelo crushing the nose with a fast backfist.
+*Sirdest %You miss Peelo.
+*Sirdest %You pierce Peelo inducing a nasty lesion.
+*Sirdest %Peelo strokes you causing the airway to get slightly smothered.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Hp: 562 [-43] Sp: 612 [] Exp: 162592 [].
+*Sirdest %Hp:562/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is in bad shape.
+*Sirdest %Hp:562/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is in bad shape.
+*Sirdest %Hp:562/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You start chanting.
+*Sirdest %Hp:562/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #2#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             278/910   533/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           562/1204  612/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %You interrupt the chant in order to start a new chant.
+*Sirdest %You start chanting.
+*Sirdest %Hp:562/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are casting 'word of blasting'.
+*Sirdest %Hp:562/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You smash Peelo in the face, swelling an eye purple and shut.
+*Sirdest %You spin-kick Peelo in the eyes.
+*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily!
+*Sirdest %You puncture Peelo sparking a limb to slice open.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Peelo thrusts you causing a nasty laceration.
+*Sirdest %Hp: 511 [-51] Sp: 612 [] Exp: 162592 [].
+*Sirdest %Word of blasting: #.
+*Sirdest %Peelo is in bad shape.
+*Sirdest %Hp:511/1204 Sp:612/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #2#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             191/910   533/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           511/1204  612/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %You stomp-kick Peelo cracking the sternum.
+*Sirdest %Peelo successfully dodges your futile attack.
+*Sirdest %Peelo successfully parries your pierce.
+*Sirdest % ...AND counterattacks with ferocity.
+*Sirdest %Peelo misses you.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Hp: 504 [-7] Sp: 612 [] Exp: 162592 [].
+*Sirdest %You are done with the chant.
+*Sirdest %You speak the ancient Word of Blasting 'hraugh'.
+*Sirdest %A glowing yellow mystical symbol appears in the air before Peelo.
+*Sirdest %You watch with selfpride as your word of blasting hits Peelo.
+*Sirdest %Hp: 504 [] Sp: 497 [-115] Exp: 162592 [].
+*Sirdest %Peelo claps his hands and whispers 'judicandus pzarcumus'.
+*Sirdest %Peelo is in bad shape.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+*Sirdest %Peelo is in bad shape.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+look at arena
+       
+  ###  
+  #2#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             252/910   456/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           504/1204  497/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %You start chanting.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is in bad shape.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest % cast word of blasting.
+*Sirdest %You interrupt the chant in order to start a new chant.
+*Sirdest %You start chanting.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Your movement prevents you from casting the spell.
+*Sirdest %Arena grounds (n).
+*Sirdest %Spider webs block this way. You need to return.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are not in combat right now.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Arena grounds (s).
+la arena
+*Sirdest %Peelo Puskaryssa the dented member of Tinmen < aa > <team 2>.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+look at arena
+       
+  ###  
+  #2#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             252/910   456/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           504/1204  497/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %You start chanting.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You are casting 'word of blasting'.
+*Sirdest %Hp:504/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %You howls in agony as the evil mace crushes bones!
+*Sirdest %Peelo strokes you making skin scorch.
+*Sirdest %You punch Peelo in the gut causing minor nausea.
+*Sirdest %You smash Peelo in the face, swelling an eye purple and shut.
+*Sirdest %Peelo successfully dodges your futile pierce.
+*Sirdest %Hp: 447 [-57] Sp: 497 [] Exp: 162592 [].
+*Sirdest %Peelo is in bad shape.
+*Sirdest %Hp:447/1204 Sp:497/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+la arena
+look at arena
+       
+  ###  
+  #2#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             211/910   456/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           447/1204  497/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+la arena
+Bufta shouts 'Elwyk was just DOGMEAT, who is next?'
+look at arena
+       
+  ###  
+  #2#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             -31/910   456/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           442/1204  382/953  |                                      |
+`-----------------------------------------------------------------------------'
+Hp:1274/1274 Ep:402/402 2654 > 
+*Sirdest %Info: Elwyk dies.
+*Sirdest %*****************************************************.
+*Sirdest %You successfully dodge Peelo's bash.
+*Sirdest %Peelo misses you.
+*Sirdest %You miss Peelo.
+*Sirdest %Peelo successfully parries your attack.
+*Sirdest % ...AND counterattacks with ferocity.
+*Sirdest %You puncture Peelo sparking a limb to slice open.
+*Sirdest %Hp: 442 [-5] Sp: 497 [] Exp: 162592 [].
+*Sirdest %You are done with the chant.
+*Sirdest %You speak the ancient Word of Blasting 'hraugh'.
+*Sirdest %A glowing yellow mystical symbol appears in the air before Peelo.
+*Sirdest %You watch with selfpride as your word of blasting hits Peelo.
+*Sirdest %Peelo lapses into unconsciousness from severe loss of blood.
+*Sirdest %Hp: 442 [] Sp: 382 [-115] Exp: 162592 [].
+*Sirdest %Peelo is near death.
+*Sirdest %Hp:442/1204 Sp:382/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is near death.
+*Sirdest %Hp:442/1204 Sp:382/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You don't know that skill.
+*Sirdest %Hp:442/1204 Sp:382/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Cilwand {report}: Kickstarting Peelo!
+*Sirdest %Hp:442/1204 Sp:382/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You start chanting.
+*Sirdest %Hp:442/1204 Sp:382/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %Peelo is near death.
+*Sirdest %Hp:442/1204 Sp:382/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+Mendar arrives from down.
+*Sirdest % cast word of blasting.
+*Sirdest %You interrupt the chant in order to start a new chant.
+*Sirdest %You start chanting.
+*Sirdest %Hp:442/1204 Sp:382/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+*Sirdest %You stomp-kick Peelo tearing the ribcage open and pulling out a still beating heart.
+*Sirdest %You score a CRITICAL hit!
+*Sirdest %Smiling devilishly you strike Peelo tearing the ribcage open and pulling out a still
+ beating heart.
+*Sirdest %You pierce Peelo causing heart tissue to fly everywhere.
+*Sirdest %Blood pours from Peelo's wounds.
+*Sirdest %Peelo is near death.
+*Sirdest %Hp:442/1204 Sp:382/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+Marrow sniffs sadly.
+fa vittu
+fall+ say leila-anneli-tauno-pentikki
+Dupre (fall+): leila-anneli-tauno-pentikki
+Hp:1274/1274 Ep:402/402 2654 > 
+Koan goes 'aww'.
+Shadizar [fall+]: jaa cilwand voitti
+The arena master shouts 'Peelo of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Cilwand'
+*Sirdest %*****************************************************.
+*Sirdest %You stomp-kick Peelo tearing the ribcage open and pulling out a still beating heart.
+*Sirdest %Peelo gets an acute case of iron-poisoning.
+*Sirdest %Peelo dies and is carried away by two clerics.
+*Sirdest %The arena master shouts 'Peelo of team 2 dies and is removed from the arena!'.
+*Sirdest %Peelo leaves away.
+*Sirdest %You are done with the chant.
+*Sirdest %You need target to this spell.
+*Sirdest %The arena master shouts 'Fight is over! Winner is team 1 which consists of Cilwand'.
+*Sirdest %Entrance to the waitingrooms (u).
+*Sirdest %Sirdar Silverfang the Wizard.
+*Sirdest %Farliss tells you 'whee hyva :D'.
+*Sirdest %You are not in combat right now.
+*Sirdest %Hp:442/1204 Sp:382/953 Ep:482/483 W:off Exp:162592 $:1675/200367.
+

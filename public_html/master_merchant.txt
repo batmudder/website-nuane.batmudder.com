@@ -1,0 +1,46 @@
+
+Ruuben tells you 'Ok, I am ready to begin the process. Type 'jewelbond'
+ again to confirm your decision.'      
+
+"-. hp 667/667 | sp 544/470 | ep 330/330 | exp 1008429 | cash 0/435856 .-"
+
+Ruuben tells you 'Ok, I shall begin the process!'  
+The Armourer holds a dull red ruby up to your forehead. Suddenly, it begins
+sucking the very life force out of you! You realize you are screaming in agony
+when he takes the jewel away and the pain stops. As you catch your breath, you
+realize that the jewel is now glowing bright red.
+Ruuben tells you 'I am sorry I didn't warn you, but you might have resisted
+ if you knew about the pain. You can relax now though, the power has been
+ transferred, and it is just up to me to give it to the belt.'   
+The Armourer takes your toolbelt that you worked so hard on, and places it on
+a large mould. You watch in shock as he places it in a forge, and the various
+plates begin to melt; of course, the dragonscale is unharmed. Even more
+shocking are the brilliant colors that begin flickering over the belt!
+Ruuben tells you 'So far, so good...'    
+The Armourer takes the mould from the forge, and carefully places the ruby
+above the loop of scale and molten metal. He begins to chant, and lets go of
+the stone... and it stays hovering in the air! It begins to spin in place,
+throwing off its own beams of light, many of which shine high into the sky!
+Ruuben tells you 'Almost done...'     
+You hear a deep thunderous boom, which must have come from the ruby! As it
+continues to spin, it grows larger, gradually deforming to match the shape of
+the belt. It descends, until it finally diappears into the molten metal. With
+a final burst of cold air, everything solidifies, and gives no hint of its
+previous liquid form.
+Ruuben tells you 'CONGRATULATIONS! Few have ever possessed a creation such
+ as this, I hope you find it of continual aid in your endeavors. I know you
+ will do the Merchant's Guild proud.'      
+
+The ground begins to tremble beneath your feet!
+As you look up, you see a bright light rising from BatCity, in all colors of
+the rainbow!
+The light slowly begins to fade, with first the blues disappearing, and then
+the oranges and yellows, until finally there is just a single beam of red
+light. And then, finally that fades as well...
+Something rare and unusual has definitely just happened.
+
+Ruuben [merchant]: All hail Nuane!!! She has truly earned the rank of Master
+ Merchant, and built for herself an incredibly powerful toolbelt!
+
+Your available rank is:
+1: [Merchant] Completed your merchant toolbelt, and max level in merches

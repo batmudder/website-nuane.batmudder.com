@@ -1,0 +1,531 @@
+The arena master shouts 'Team 1 consists of Era'
+The arena master shouts 'Team 2 consists of Ggr'
+The arena master shouts 'All teams ready! Let the fight begin!'
+Nu [35m[wanted]:[0m high coins!
+[32mSirdest says '%You close team 2 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Era'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Ggr'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%            All around is a dense [0m[32mfog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               308/316   913/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               988/1038 1099/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:36] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%% s.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%H:308/316 S:913/921 [0m[32mE:225/229 >%%.'.'[0m
+[32mBrokus says 'wel era prolly can whack him over ,).'[0m
+[32mSirdest says '%.'[0m
+la arena
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%% w.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%Era arrives from north.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Your field disperses with a soft *pop* and is gone.'[0m
+[32mSirdest says '%Era hits Ggr 1 time.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               280/310   913/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               984/1036 1099/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:37] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Ggr hits Era 2 times.'[0m
+[32mSirdest says '%H:280/310 [-28] S:913/921 [] E:225/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%H:308/316 S:913/921 [0m[32mE:225/229 >%%.'.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%H:308/316 S:913/921 [0m[32mE:225/229 >%% w.'.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%            All around is a [0m[32mdense fog. You can see maybe.'.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%Obvious exits are: n, ne and [0m[32me.'.'[0m
+[32mSirdest says '%Era is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%H:308/316 S:913/921 [0m[32mE:225/229 >%%Era arrives from north.'.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%Your field disperses with a [0m[32msoft *pop* and is gone.'.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%Era hits Ggr 1 time.'.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%Ggr hits Era 2 times.'.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%% e.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%H:308/316 S:913/921 E:225/229 >%You say '%H:308/316 S:913/921 [0m[32mE:225/229 >%%.'.'[0m
+[32mKawasa quacks 'Hp: 476 (476) Sp: 1117 (1117) Ep: 271 (271).'[0m
+la arena
+Nomiculious [35m[wanted]:[0m merchant fws.
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               280/310   913/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               984/1036 1099/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:38] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%Nomiculious [35m[wanted]:[32m merchant fws.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%% n.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%You say '%.'.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%% w.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%You say '%H:280/310 S:913/921 [0m[32mE:225/229 >%%.'.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%% e.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%You say '%H:280/310 S:913/921 [0m[32mE:225/229 >%%.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               226/299   913/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               981/1034 1099/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:41] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%% s.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Era of the Thrikhren race. < asdf > <team 1>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Ggr hits Era 2 times.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest says '%Era hits Ggr 3 times.'[0m
+[32mSirdest says '%H:226/299 [-54] S:913/921 [] E:225/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%% @scan.'[0m
+[32mSirdest says '%Era is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:280/310 S:913/921 E:225/229 >%You say '%H:280/310 S:913/921 [0m[32mE:225/229 >%%.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               226/299   913/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               981/1034 1099/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:42] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%H:226/299 S:913/921 E:225/229 >%You say '%You start chanting.'.'[0m
+[32mSirdest says '%H:226/299 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:226/299 S:913/921 E:225/229 >%%.'[0m
+[32mSirdest says '%H:226/299 S:913/921 E:225/229 >%% w.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%H:226/299 S:913/921 E:225/229 >%You say '%H:226/299 S:913/921 [0m[32mE:225/229 >%%.'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%H:226/299 S:913/921 E:225/229 >%You say '%You start chanting.'.'[0m
+[32mSirdest says '%H:230/299 [+4] S:921/921 [+8] E:229/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%Channelbolt: ###.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%You say '%H:230/299 [+4] S:921/921 [0m[32m[+8] E:229/229 $:50 [] exp:25 [].'.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%You say '%H:230/299 S:921/921 [0m[32mE:229/229 >%You say '%H:230/299 [+4] S:921/921.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%% n.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+la arena
+[32mSirdest says '%Er  of  he Th ikh en   c . <  sd  > < e m  >.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Era hits Ggr 3 times.'[0m
+[32mSirdest says '%H:218/293 [-12] S:921/921 [] E:229/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%You say '%H:230/299 S:921/921 [0m[32mE:229/229 >%You say '%H:230/299 S:921/921.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%% @scan.'[0m
+[32mSirdest says '%Era is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%You say '%H:230/299 S:921/921 [0m[32mE:229/229 >%%.'.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%You say '%H:230/299 S:921/921 [0m[32mE:229/229 >%%.'.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%You say '%H:230/299 S:921/921 [0m[32mE:229/229 >%%.'.'[0m
+[32mSirdest says '%H:230/299 S:921/921 E:229/229 >%You say '%H:230/299 S:921/921 [0m[32mE:229/229 >%% n.'.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               218/293   921/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               986/1034 1128/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:44] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '% co.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%You say '% co.'.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%% s.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%You say '%H:218/293 S:921/921 [0m[32mE:229/229 >%%.'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%You say '%You start chanting.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               218/293   921/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               986/1034 1128/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:47] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%% e.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Er  of th   hr khren rac . <  sdf > <t  m 1.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Ggr hits Era 1 time.'[0m
+[32mSirdest says '%Era hits Ggr 4 times.'[0m
+[32mSirdest says '%H:206/286 [-12] S:921/921 [] E:229/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%% @scan.'[0m
+[32mSirdest says '%Era is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%You say '%.'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%H:218/293 S:921/921 E:229/229 >%You say '%H:206/286 [-12] S:921/921 [] [0m[32mE:229/229 $:50 [] exp:25 [].'.'[0m
+[32mSirdest exclaims '%Era waves her dark, thin wand at Ggr, who suddenly turns pale!'[0m
+[32mSirdest says '%Era removes a dark, thin wand.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               206/286     0/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               985/1033 1128/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:48] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+Tackle is momentarily engulfed in darkness.
+[32mSirdest says '%H:206/286 [] S:0/921 [-921] E:229/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%Channelbolt: ###.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:206/286 S:0/921 E:229/229 >%You say '%H:206/286 [] S:0/921 [-921] [0m[32mE:229/229 $:50 [] exp:25 [].'.'[0m
+[32mSirdest says '%H:206/286 S:0/921 E:229/229 >%You say '%Channelbolt: ###.'.'[0m
+[32mSirdest says '%H:206/286 S:0/921 E:229/229 >%You say '%.'.'[0m
+[32mSirdest says '%H:206/286 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:206/286 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:206/286 S:0/921 E:229/229 >%% w.'[0m
+la arena
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%H:206/286 S:0/921 E:229/229 >%You say '%H:206/286 S:0/921 E:229/229 [0m[32m>%%.'.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               206/286     0/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               985/1033 1128/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:51] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mShar giggles inanely.[0m
+Sumar arrives from down.
+[32mSirdest says '%Era arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest says '%Era hits Ggr 4 times.'[0m
+[32mSirdest says '%Ggr hits Era 2 times.'[0m
+[32mSirdest says '%H:142/272 [-64] S:0/921 [] E:229/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%You say '%Era arrives from east.'.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%Era is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%You say '%Your armours absorb some of [0m[32mthe damage.'.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%You say '%Era hits Ggr 4 times.'.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%You say '%Ggr hits Era 2 times.'.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%You say '%H:142/272 [-64] S:0/921 [] [0m[32mE:229/229 $:50 [] exp:25 [].'.'[0m
+[32mKawasa quacks 'Hp: 476 (476) Sp: 1117 (1117) Ep: 271 (271).'[0m
+la arena
+[32mSirdest says '%Era leaves north.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               142/272     0/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               981/1031 1128/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:52] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%% e.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%You say '%Era leaves north.'.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%% n.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Era of the Thrikhren race. < asdf > <team 1>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Ggr hits Era 1 time.'[0m
+[32mSirdest says '%Era hits Ggr 4 times.'[0m
+[32mSirdest says '%H:97/261 [-45] S:0/921 [] E:229/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:142/272 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%H:142/272 S:0/921 E:229/229 [0m[32m>%%.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%H:142/272 S:0/921 E:229/229 [0m[32m>%%.'.'[0m
+[32mSirdest says '%Era is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%H:142/272 S:0/921 E:229/229 >%% [0m[32mn.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%            All around is a [0m[32mdense fog. You can see maybe.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%Obvious exits are: w, sw and [0m[32ms.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%Era of the Thrikhren race. < [0m[32masdf > <team 1>.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%H:142/272 S:0/921 E:229/229 [0m[32m>%%.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%H:97/261 S:0/921 E:229/229 [0m[32m>%You say '%H:142/272 S:0/921 E:229/229.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%H:97/261 S:0/921 E:229/229 [0m[32m>%You say '%H:142/272 S:0/921 E:229/229.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%Era is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%Era is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr                97/261     0/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               980/1030 1128/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:53] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+Purse gives 1 copper coin to Desotarion.
+Purse gives 15550 [1;35mgold coin[0ms to Desotarion.
+Purse gives 34 [1;35mplatinum coin[0ms to Desotarion.
+Purse gives 5 [1;35manipium coin[0ms to Desotarion.
+Purse gives 2 [1;35mbatium coin[0ms to Desotarion.
+Purse gives 1 [1;35mmithril coin[0m to Desotarion.
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%Purse gives 1 copper coin to Desotarion.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%% s.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%%Era arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%Era hits Ggr 3 times.'[0m
+[32mSirdest says '%Ggr hits Era 1 time.'[0m
+[32mSirdest says '%H:45/248 [-52] S:0/921 [] E:229/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%H:97/261 S:0/921 E:229/229 >%% [0m[32ms.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%            All around is a [0m[32mdense fog. You can see maybe.'.'[0m
+[32mSirdest says '%Era is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%Obvious exits are: n, ne and [0m[32me.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%H:97/261 S:0/921 E:229/229 [0m[32m>%%Era arrives from east.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%Your armours absorb some of the [0m[32mdamage.'.'[0m
+[32mSirdest says '%Glurtzgarcccxxxchhh???'[0m
+[32mKawasa quacks 'Hp: 476 (476) Sp: 1117 (1117) Ep: 271 (271).'[0m
+la arena
+[32mSirdest says '%H:97/261 S:0/921 E:229/229 >%You say '%H:97/261 S:0/921 E:229/229 [0m[32m>%You say '%Your armours absorb some of.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr                45/248     0/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               979/1029 1128/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:55] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%H:45/248 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:45/248 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:45/248 S:0/921 E:229/229 >%% n.'[0m
+[32mSirdest says '%            All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%H:45/248 S:0/921 E:229/229 >%You say '%H:45/248 S:0/921 E:229/229 [0m[32m>%%.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Era hits Ggr 2 times.'[0m
+[32mSirdest says '%Ggr hits Era 2 times.'[0m
+[32mSirdest says '%H:24/243 [-21] S:0/921 [] E:229/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:24/243 S:0/921 E:229/229 >%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%H:24/243 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:24/243 S:0/921 E:229/229 >%% @scan.'[0m
+[32mSirdest says '%Era is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%H:24/243 S:0/921 E:229/229 >%You exclaim '%You are about to DIE!'.'[0m
+[32mSirdest says '%H:24/243 S:0/921 E:229/229 >%You exclaim '%You are about to DIE!'.'[0m
+[32mSirdest says '%H:24/243 S:0/921 E:229/229 >%You exclaim '%You wish your wounds would [0m[32mstop BLEEDING so much!'.'[0m
+[32mSirdest says '%H:24/243 S:0/921 E:229/229 >%You exclaim '%Your body is almost FROZEN [0m[32msolid!'.'[0m
+la arena
+[32mKawasa quacks 'Hp: 476 (476) Sp: 1117 (1117) Ep: 271 (271).'[0m
+[32mSirdest says '%You do not have enough spell points to cast the spell.'[0m
+[32mSirdest says '%H:24/243 S:0/921 E:229/229 >%You say '%H:24/243 S:0/921 E:229/229 [0m[32m>%You exclaim '%You are about to DIE!'.'.'[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr                24/243     0/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               976/1027 1128/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:57] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Era leaves east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Era hits Ggr 4 times.'[0m
+[32mSirdest says '%H:-33/230 [-57] S:0/921 [] E:229/229 $:50 [] exp:25 [].'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%H:-33/230 S:0/921 E:229/229 >%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%H:-33/230 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:-33/230 S:0/921 E:229/229 >%%Era leaves east.'[0m
+[32mSirdest says '% @scan.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%H:-33/230 S:0/921 E:229/229 >%%.'[0m
+[32mSirdest says '%H:-33/230 S:0/921 E:229/229 >%You exclaim '%Your skin is CHARRED [0m[32mseverly!'.'[0m
+[32mSirdest says '%H:-33/230 S:0/921 E:229/229 >%You exclaim '%You wish your wounds would [0m[32mstop BLEEDING so much!'.'[0m
+[32mSirdest says '%H:-33/230 S:0/921 E:229/229 >%You say '%You are no longer stunned.'.'[0m
+la arena
+[32mKawasa quacks 'Hp: 476 (476) Sp: 1117 (1117) Ep: 271 (271).'[0m
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ggr               -33/230     0/921  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               976/1027 1128/1128 |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:00] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mJenar goes 'aww'.[0m
+aww
+You go 'aww'.
+[21:49:01] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mKrokodiili smirks.[0m
+The arena master shouts 'Ggr of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Era'

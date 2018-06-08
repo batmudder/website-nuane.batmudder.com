@@ -1,0 +1,900 @@
+Qurp moans 'lets go.'
+Nuane (party): should i still curse anyway
+[21:01:43] hp 1073/1073 | sp 802/1107 | ep 297/295 | exp 13626 | $ 0/17297 | wimpy: off
+
+Qurp sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Qurp sings the tune with pride, being a member of the leading guild!
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 15s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1430(1430)  852( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1721(1721)  936(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1547(1547)  913(1100) 308(413) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279) 1205(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  987(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944) 1027(1027) 385(368) | 100 |       107953 |
+| 3.1   Kharadus      fol  800( 705) 1166(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073(1073)  802(1107) 297(295) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727) 1034(1604) 270(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:01:45] hp 1073/1073 | sp 802/1107 | ep 297/295 | exp 13626 | $ 0/17297 | wimpy: off
+
+Info: Munrio left the game.
+Qurp jams south.
+Toum leaves south.
+Alvin tiptoes to the south.
+Kiefer leaves south.
+Juicer leaves south.
+Nepnep leaves south.
+Kenn leaves south.
+Geryon leaves south.
+Capula leaves south.
+Bleezuz (party): yes
+Dogi nods solemnly.
+Info: Porramen goes link dead.
+Kozma (party): HR_S down [16:08]
+p say nod
+Dogi leaves south.
+Daria leaves south.
+Bleezuz leaves south.
+Mysteryman leaves south.
+Gildron leaves south.
+The sacrifice pit (n,e,s,w,d).
+5 copper coins, 6 gold coins, 2 zinc coins, 3
+bronze coins, one silver coin and 2 mowgles coins
+Gildron Turha the Lich aivan turha pappi < old convent bitches >
+Mysteryman LahnaWushu'piu the Human just waits here < old convent bitches >
+Bleezuz the Lich soitellen sotaan < old convent bitches >
+Daria the grey Elf blog http://www.0xdeadbeef.org/blog/ankh/ < old convent bitches >
+Dogi the Lich Emperor < old convent bitches >
+Capula Karmapolice the dark Elf
+Geryon the Thrikhren hoopeevammanen tutkimusmatkailija < DeStRuCtO >
+Kenn Gunn the dark Elf kennikala < DeStRuCtO >
+Nepnep Bigthumb the Dwarf Lord of Underworld < DeStRuCtO >
+Juicer Speedwalker the vile Kobold < DeStRuCtO >
+Kiefer Lampaankaataja the grey Elf Star Rider < DeStRuCtO >
+Alvin Kilari the Ogre < DeStRuCtO >
+Toum Unaskut the Ent < DeStRuCtO >
+Qurp Blitzkrieg the funky Lich is the smooth operator
+A gargantuan slime-lizard sits here with bulbous belly, burping belligentrily
+Burglefloogah glows with black light! (undead)
+Kozma sneaks in from north.
+Kharadus arrives from north.
+Zipob arrives from north.
+Nuane (party): nod
+[21:01:52] hp 1073/1073 | sp 802/1107 | ep 297/295 | exp 13626 | $ 0/17297 | wimpy: off
+
+Mysteryman [party]: (Full Sp.)
+Geryon buzzes 'Burglefloogah grunts channelburn.'
+*Mysteryman ticks 97 Sp in [3s] (100%).
+Gildron starts concentrating on a new offensive spell.
+cot god
+[21:01:53] hp 1073/1073 | sp 802/1107 | ep 297/295 | exp 13626 | $ 0/17297 | wimpy: off
+
+You remove heavy tabard with a chalice ensignia.
+[21:01:53] hp 1073/1073 | sp 802/1107 | ep 297/295 | exp 13626 | $ 0/17297 | wimpy: off
+
+You have an unusual feeling as you cast the spell.
+You start chanting.
+[21:01:53] hp 1073/1073 | sp 802/1107 | ep 297/295 | exp 13626 | $ 0/17297 | wimpy: off
+
+Zipob's disc floats in.
+Geryon starts concentrating on a new offensive spell.
+Kharadus [party]: Unpain Expires. [14m58s]
+Mysteryman starts concentrating on a new offensive spell.
+Curse of tarmalen: 5
+Qurp sings: 'You say you don't believe this unity will last, nobody said it
+ would be perfect, but co-operate, share your pain and strength. Together we
+ are strong.
+ '
+Qurp creates a strong bond between each member of his party.
+Kiefer clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Kiefer flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Kiefer grins as his channelburn hits Burglefloogah.
+scan all
+*****************************************************
+Dogi hits Nepnep 1 time.
+Qurp hits Kozma 1 time.
+Burglefloogah hits Bleezuz 2 times.
+Juicer cast(s) -> 'Lava Blast'
+As Juicer casts the spell, she pulls out a granite sphere which bursts into a million prismatic starbursts.
+Juicer grins as her lava blast hits Burglefloogah.
+Burglefloogah glows with black light!
+Juicer leaves down.
+Burglefloogah bursts into flames!
+Toum starts concentrating on a new spell.
+Dogi starts concentrating on a new offensive spell.
+Kiefer starts concentrating on a new offensive spell.
+Qurp is in a good shape.
+Nepnep is noticeably hurt.
+Alvin is in excellent shape.
+Burglefloogah is in very bad shape.
+[21:01:55] hp 1073/1073 | sp 802/1096 | ep 297/295 | exp 13626 | $ 0/17297 | wimpy: off
+
+Onyxsablet [ghost]: accept if need
+Bleezuz reports: Hp: 1460 (1480) Sp: 913 (1100) Ep: 308 (413).
+Dogi reports: Hp: 1716 (1719) Sp: 936 (1089) Ep: 416 (416).
+Info: Munrio enters the game.
+(party): Dogi scored a CRIT!
+Bleezuz starts concentrating on a new spell.
+Zipob starts concentrating on a new offensive spell.
+Daria starts concentrating on a new spell.
+Mysteryman looks at God.
+Qurp starts concentrating on a new spell.
+Kharadus starts concentrating on a new offensive spell.
+Bleezuz looks at God.
+Kozma starts concentrating on a new spell.
+Gray Slaad shouts 'Juicer was too easy! I want a tougher challenge!'
+Info: Juicer dies.
+Curse of tarmalen: 4
+Geryon clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Geryon flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Geryon grins as his channelburn hits Burglefloogah.
+Burglefloogah glows with black light!
+scan all
+*****************************************************
+Burglefloogah hits Nepnep 3 times.
+Alvin hits Burglefloogah 2 times.
+Nepnep hits Dogi 2 times.
+Qurp hits Dogi 1 time.
+Qurp is in a good shape.
+Nepnep is in bad shape.
+Alvin is in excellent shape.
+Burglefloogah is in very bad shape.
+[21:01:58] hp 1073/1073 | sp 802/1096 | ep 297/295 | exp 13626 | $ 0/17297 | wimpy: off
+
+Bleezuz reports: Hp: 1460 (1480) Sp: 913 (1100) Ep: 308 (413).
+Geryon starts concentrating on a new offensive spell.
+Geryon buzzes 'Burglefloogah grunts channelburn.'
+Dogi reports: Hp: 1697 (1710) Sp: 936 (1089) Ep: 416 (416).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 29s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1290(1430)  852( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1697(1710)  936(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1460(1480)  913(1100) 308(413) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279) 1205(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233) 1084(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944) 1027(1027) 385(368) | 100 |       107953 |
+| 3.1   Kharadus      fol  705( 665) 1166(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073(1073)  802(1096) 297(295) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727) 1034(1604) 270(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:01:59] hp 1073/1073 | sp 802/1096 | ep 297/295 | exp 13626 | $ 0/17297 | wimpy: off
+
+Kharadus starts concentrating on a new offensive spell.
+Info: Cevap left the game.
+Gazgo tells you 'I am moving!'
+Curse of tarmalen: 3
+Curse of tarmalen: 1 (greater haste)
+Kenn cast(s) -> 'Harm Body'
+Kenn casts a harming spell on Burglefloogah.
+Burglefloogah hops around Kenn like a bunny.
+Capula cast(s) -> 'Harm Body'
+Capula casts a harming spell on Burglefloogah.
+Burglefloogah hops around Capula like a bunny.
+Qurp sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Qurp sings the tune with pride, being a member of the leading guild!
+Daria sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Daria sings the tune with pride, being a member of the leading guild!
+scan all
+*****************************************************
+Burglefloogah hits Alvin 4 times.
+Bleezuz hits Qurp 1 time.
+Alvin hits Dogi 1 time.
+Qurp hits Bleezuz 1 time.
+Mysteryman cast(s) -> 'Harm Body'
+Mysteryman casts a harming spell on Burglefloogah.
+Burglefloogah hops around Mysteryman like a bunny.
+party say War Ensemble off. [9m4s]
+The effect of war ensemble wears off.
+Qurp is in excellent shape.
+Nepnep is noticeably hurt.
+Alvin is in a good shape.
+Burglefloogah is in very bad shape.
+[21:02:01] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Flab [sales]: reincs
+Bleezuz reports: Hp: 1474 (1281) Sp: 913 (1100) Ep: 308 (411).
+Dogi reports: Hp: 1696 (1706) Sp: 936 (1089) Ep: 416 (416).
+Nuane (party): War Ensemble off. [9m4s]
+[21:02:01] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Bleezuz (party): war ensemble off
+Qurp starts concentrating on a new spell.
+Kanis [wanted]: summon paying a mithril
+Daria starts concentrating on a new spell.
+p say #
+Nuane (party): #
+[21:02:02] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+ps
+
+Furion [wanted]: wanted a summon to zhamania or near
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 33s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1426(1430)  852( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1696(1706)  936(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1474(1281)  913(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279) 1205(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  863(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  958(1027) 385(368) | 100 |       107953 |
+| 3.1   Kharadus      fol  705( 665) 1166(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  802(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727) 1034(1604) 270(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:03] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Info: Seronja goes link dead.
+Gildron cast(s) -> 'Harm Body'
+Gildron casts a harming spell on Burglefloogah.
+You are done with the chant.
+CASTED.
+Burglefloogah is already cursed!
+Kozma cast(s) -> 'Minor Party Heal'
+Geryon clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Geryon flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Geryon grins as his channelburn hits Burglefloogah.
+Toum cast(s) -> 'Major Party Heal'
+Kiefer clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Kiefer flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Kiefer grins as his channelburn hits Burglefloogah.
+Burglefloogah glows with black light!
+scan all
+*****************************************************
+Burglefloogah hits Alvin 3 times.
+Kozma hits Nepnep 1 time.
+Alvin hits Bleezuz 1 time.
+Bleezuz hits Qurp 1 time.
+Bleezuz sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Bleezuz sings the tune with pride, being a member of the leading guild!
+Burglefloogah closes its eyes and with a dry, dark voice entones 'nyyjoo happa
+ helleipsis'
+Kiefer starts concentrating on a new offensive spell.
+Geryon starts concentrating on a new offensive spell.
+Dogi (party): greater haste
+Geryon buzzes 'Burglefloogah grunts channelburn.'
+Dogi reports: Hp: 1706 (1706) Sp: 936 (1089) Ep: 416 (416).
+Qurp is in excellent shape.
+Nepnep is slightly hurt.
+Alvin is in excellent shape.
+Burglefloogah is in very bad shape.
+[21:02:04] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Zipob starts concentrating on a new offensive spell.
+Kozma starts concentrating on a new spell.
+Bleezuz reports: Hp: 1469 (1277) Sp: 843 (1100) Ep: 308 (411).
+Toum starts concentrating on a new spell.
+Info: Krump left the game.
+mjph
+Info: Shmuzin enters the game.
+You start chanting.
+[21:02:06] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Major party heal: 3
+Kharadus cast(s) -> 'Acid Blast'
+As Kharadus casts the spell, he pulls out a handful of olivine powder from a small pouch.
+Kharadus grins as his acid blast hits Burglefloogah.
+Daria sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Daria sings the tune with pride, being a member of the leading guild!
+scan all
+*****************************************************
+Burglefloogah hits Qurp 3 times.
+Alvin hits Dogi 1 time.
+Bleezuz starts concentrating on a new offensive spell.
+Kharadus [party]: Burglefloogah grunts ACID (60% resist)
+Bleezuz reports: Hp: 1469 (1277) Sp: 843 (1100) Ep: 308 (411).
+Dogi (party): greater haste
+Dogi reports: Hp: 1685 (1697) Sp: 936 (1089) Ep: 416 (416).
+Qurp is in excellent shape.
+Nepnep is in a good shape.
+Alvin is in excellent shape.
+Burglefloogah is in very bad shape.
+[21:02:07] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Daria starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 38s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1430(1430)  814( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1685(1697)  936(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1469(1277)  843(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279)  952(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  863(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  889(1027) 385(368) | 100 |       107953 |
+| 3.1   Kharadus      fol  705( 665) 1022(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  802(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727) 1018(1604) 270(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:08] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Qurp starts concentrating on a new spell.
+Major party heal: 2
+Major party heal: 1 (haste)
+Dogi holds Feather Cross tightly and exclaims ' ¤Lassum¤ '
+Dogi is bathed in bright light as heavenly choir plays celestial fanfare. The
+universe halts as WRATH OF LAS thunders through Dogi's sparkling Feather
+Cross, cleansing Burglefloogah's soul by vaporizing the body!
+Toum cast(s) -> 'Major Heal'
+Toum casts his spell at Nepnep.
+scan all
+*****************************************************
+Dogi hits Nepnep 2 times.
+Burglefloogah hits Alvin 1 time.
+Alvin hits Burglefloogah 2 times.
+Nepnep hits Burglefloogah 1 time.
+Bleezuz hits Burglefloogah 1 time.
+Burglefloogah cast(s) -> 'Curse Of Ogre'
+Nepnep grumbles 'Hp: 1399 (1408) Sp: 42 (42) Ep: 400 (400).'
+Bleezuz reports: Hp: 1469 (1277) Sp: 843 (1100) Ep: 308 (411).
+Dogi reports: Hp: 1685 (1697) Sp: 795 (1089) Ep: 416 (416).
+Qurp is in excellent shape.
+Nepnep is in excellent shape.
+Alvin is in a good shape.
+Burglefloogah is in very bad shape.
+[21:02:10] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Zipob starts concentrating on a new offensive spell.
+The turtle starts squirming.
+p say ah already cursed
+Toum starts concentrating on a new spell.
+Info: Mandrake recovers from link death.
+Nuane (party): ah already cursed
+[21:02:12] hp 1073/878 | sp 802/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Dogi starts concentrating on a new spell.
+Mysteryman cast(s) -> 'Harm Body'
+Mysteryman casts a harming spell on Burglefloogah.
+Burglefloogah hops around Mysteryman like a bunny.
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal some of Dogi's wounds.
+hp 1073/878 () | sp 704/1096 (-98) | ep 297/278 ()
+Kozma cast(s) -> 'Minor Party Heal'
+Kenn cast(s) -> 'Harm Body'
+Kenn casts a harming spell on Burglefloogah.
+Geryon clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Geryon flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Geryon grins as his channelburn hits Burglefloogah.
+Capula cast(s) -> 'Harm Body'
+Capula casts a harming spell on Burglefloogah.
+Burglefloogah hops around Capula like a bunny.
+Qurp sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Qurp sings the tune with pride, being a member of the leading guild!
+scan all
+*****************************************************
+Bleezuz's flex shield wobbles.
+Burglefloogah hits Bleezuz 2 times.
+Qurp hits Bleezuz 1 time.
+Bleezuz plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Bleezuz grins as its con fioco hits Burglefloogah.
+Burglefloogah glows with black light!
+Bleezuz's flex shield wobbles.
+Kozma's flex shield wobbles.
+Burglefloogah bursts into flames!
+party say ( Monster lost skill/spell )
+Burglefloogah seems hurt and confused.
+Geryon starts concentrating on a new offensive spell.
+Bleezuz reports: Hp: 1248 (1129) Sp: 731 (1100) Ep: 308 (411).
+Geryon buzzes 'Burglefloogah grunts channelburn.'
+Dogi reports: Hp: 1697 (1697) Sp: 795 (1089) Ep: 416 (416).
+Kozma (party): Burglefloogah is CONFUSED!
+Kozma starts concentrating on a new spell.
+Alvin is in a good shape.
+Qurp is in excellent shape.
+Nepnep is in excellent shape.
+Burglefloogah is near death.
+[21:02:14] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Daria [party]: Burglefloogah is hurt and confuzzled
+Mysteryman starts concentrating on a new offensive spell.
+Qurp starts concentrating on a new spell.
+Nuane (party): ( Monster lost skill/spell )
+[21:02:14] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+mjph
+
+Bleezuz starts concentrating on a new spell.
+You start chanting.
+[21:02:14] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 45s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1235(1430)  776( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1697(1697)  795(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1248(1129)  731(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279)  952(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  644(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  889(1027) 385(368) | 100 |       107953 |
+| 3.1   Kharadus      fol  705( 665) 1022(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  704(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727) 1018(1604) 270(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:15] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Munrio [newbie]: Anyone around lvl 18, wanna party?
+Lurjus [ghost]: accept ress/rais from Lurjus if needed(scars off and heal)
+Gildron cast(s) -> 'Harm Body'
+Gildron casts a harming spell on Burglefloogah.
+Burglefloogah hops around Gildron like a bunny.
+Major party heal: 3
+Kharadus cast(s) -> 'Acid Blast'
+As Kharadus casts the spell, he pulls out a handful of olivine powder from a small pouch.
+Kharadus grins as his acid blast hits Burglefloogah.
+Burglefloogah glows with black light!
+Toum cast(s) -> 'Major Party Heal'
+Kiefer clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Kiefer flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Kiefer grins as his channelburn hits Burglefloogah.
+Daria sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Daria sings the tune with pride, being a member of the leading guild!
+scan all
+*****************************************************
+Dogi hits Alvin 1 time.
+Burglefloogah hits Alvin 3 times.
+Nepnep hits Burglefloogah 2 times.
+Bleezuz hits Burglefloogah 1 time.
+Dogi's flex shield wobbles.
+Alvin hits Dogi 2 times.
+Kozma's flex shield wobbles, PINGs and vanishes.
+Kharadus [party]: Burglefloogah grunts ACID (60% resist)
+Dogi reports: Hp: 1599 (1639) Sp: 795 (1089) Ep: 416 (416).
+Kozma (party): FLEX down [8:09]
+Alvin is slightly hurt.
+Qurp is in excellent shape.
+Nepnep is in excellent shape.
+Burglefloogah is near death.
+[21:02:16] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+ps
+
+Bleezuz reports: Hp: 1248 (1129) Sp: 731 (1100) Ep: 308 (411).
+Daria starts concentrating on a new spell.
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 47s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1368(1430)  776( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1599(1639)  795(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1248(1129)  731(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279)  705(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  644(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  820(1027) 385(368) | 100 |       107953 |
+| 3.1   Kharadus      fol  412( 665)  878(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  704(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727) 1018(1604) 270(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:17] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Major party heal: 2
+Kozma cast(s) -> 'Minor Party Heal'
+Kozma falters and loses her spell.
+Geryon clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Geryon flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Geryon grins as his channelburn hits Burglefloogah.
+Zipob clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Zipob flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Zipob grins as his channelburn hits Burglefloogah.
+Burglefloogah glows with black light!
+scan all
+*****************************************************
+Burglefloogah hits Nepnep 3 times.
+Bleezuz hits Nepnep 1 time.
+Alvin hits Dogi 1 time.
+Ghost of Juicer [ghost]: ress
+Bleezuz reports: Hp: 1248 (1129) Sp: 731 (1100) Ep: 308 (411).
+Geryon starts concentrating on a new offensive spell.
+Geryon buzzes 'Burglefloogah grunts channelburn.'
+Dogi reports: Hp: 1591 (1635) Sp: 795 (1089) Ep: 416 (416).
+Zipob [party]: Burglefloogah resists 100% fire
+Toum starts concentrating on a new spell.
+Alvin is slightly hurt.
+Qurp is in excellent shape.
+Nepnep is in a good shape.
+Burglefloogah is near death.
+[21:02:19] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Kozma starts concentrating on a new spell.
+ps
+Zipob starts concentrating on a new offensive spell.
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 50s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1368(1430)  775( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1591(1635)  795(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1248(1129)  731(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279)  705(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  644(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  820(1027) 385(368) | 100 |       107953 |
+| 3.1   Kharadus      fol  412( 665)  878(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  704(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  387( 727)  946(1604) 267(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:20] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Bleezuz (party): healing
+Zipob aborts the spell casting.
+Mysteryman cast(s) -> 'Harm Body'
+Mysteryman casts a harming spell on Burglefloogah.
+Major party heal: 1
+Capula cast(s) -> 'Harm Body'
+Capula casts a harming spell on Burglefloogah.
+Burglefloogah hops around Capula like a bunny.
+Qurp sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Qurp sings the tune with pride, being a member of the leading guild!
+Kiefer clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Kiefer flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Kiefer's fingertips are surrounded with swirling ENERGY as he casts the spell.
+Kiefer grins as his channelburn hits Burglefloogah.
+Daria sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!'
+Daria sings the tune with pride, being a member of the leading guild!
+scan all
+*****************************************************
+Bleezuz's flex shield wobbles.
+Bleezuz's flex shield wobbles.
+Burglefloogah hits Bleezuz 4 times.
+Kozma hits Qurp 1 time.
+Bleezuz sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Bleezuz sings the tune with pride, being a member of the leading guild!
+Burglefloogah utters the magic words 'sulta taiat pois, mulle hyva mieli
+ taikadaikaduu'
+Daria's head glows black for a moment.
+Kiefer starts concentrating on a new offensive spell.
+Info: Elgarth left the game.
+Thiamin [ghost]: accept rais/ress/body/reinc from thiamin
+ps
+Kharadus [party]: Daria had forget cast on them.
+Alvin is in excellent shape.
+Qurp is in excellent shape.
+Nepnep is in excellent shape.
+Burglefloogah is near death.
+[21:02:22] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Dogi reports: Hp: 1635 (1635) Sp: 795 (1089) Ep: 416 (416).
+Bleezuz reports: Hp: 1102 (1076) Sp: 661 (1100) Ep: 308 (411).
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 53s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1285(1430)  775( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1635(1635)  795(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1102(1076)  661(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279)  705(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  408(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  751(1027) 385(368) | 100 |       107953 |
+| 3.1   Kharadus      fol  665( 665)  878(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  704(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727)  946(1604) 267(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:23] hp 1073/878 | sp 704/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Bleezuz (party): UNPAIN off
+Dogi (party): Daria had forget cast on them.
+Daria [party]: --> Forgotten! <--
+Bleezuz starts concentrating on a new spell.
+Info: Walo recovers from link death.
+Zipob starts concentrating on a new offensive spell.
+Qurp jams down.
+Toum leaves down.
+Alvin tiptoes to the down.
+Kiefer leaves down.
+Nepnep leaves down.
+Kenn leaves down.
+Geryon leaves down.
+Capula leaves down.
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal some of Kozma's wounds.
+hp 1073/878 () | sp 606/1096 (-98) | ep 297/278 ()
+Kharadus cast(s) -> 'Acid Blast'
+As Kharadus casts the spell, he pulls out a handful of olivine powder from a small pouch.
+Kharadus grins as his acid blast hits Burglefloogah.
+scan all
+*****************************************************
+Burglefloogah hits Kozma 3 times.
+Kozma hits Burglefloogah 1 time.
+Bleezuz hits Burglefloogah 1 time.
+Kharadus [party]: Burglefloogah grunts ACID (60% resist)
+Bleezuz reports: Hp: 1034 (1076) Sp: 661 (1100) Ep: 308 (411).
+Dogi reports: Hp: 1635 (1635) Sp: 795 (1089) Ep: 416 (416).
+Burglefloogah is near death.
+[21:02:25] hp 1073/878 | sp 606/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Bleezuz looks at God.
+mjph
+You start chanting.
+[21:02:26] hp 1073/878 | sp 606/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 56s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1175(1430)  775( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1635(1635)  795(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1034(1076)  661(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279)  705(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  408(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  751(1027) 385(368) | 100 |       107953 |
+| 3.1   Kharadus      fol  665( 665)  734(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  606(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727)  946(1604) 267(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:26] hp 1073/878 | sp 606/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Dogi's flex shield wobbles, PINGs and vanishes.
+Dogi (party): Flex Shield Expires. [7m59s]
+Gildron cast(s) -> 'Harm Body'
+Gildron casts a harming spell on Burglefloogah.
+Major party heal: 3
+Kozma cast(s) -> 'Minor Party Heal'
+Zipob clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Zipob flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Zipob grins as his channelburn hits Burglefloogah.
+scan all
+*****************************************************
+Burglefloogah hits Bleezuz 2 times.
+Kozma hits Burglefloogah 1 time.
+Bleezuz sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Bleezuz sings the tune with pride, being a member of the leading guild!
+Burglefloogah cast(s) -> 'Curse Of Ogre'
+Burglefloogah bursts into flames!
+Zipob [party]: Burglefloogah resists 60% fire
+Dogi reports: Hp: 1633 (1633) Sp: 795 (1089) Ep: 416 (416).
+Kozma starts concentrating on a new spell.
+Burglefloogah is near death.
+[21:02:28] hp 1073/878 | sp 606/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Dogi (party): kill it now
+Bleezuz reports: Hp: 1076 (1076) Sp: 591 (1100) Ep: 308 (411).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 13m 59s) | Exp/min:      8785 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1338(1430)  737( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1633(1633)  795(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol 1076(1076)  591(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279)  635(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  408(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  751(1027) 385(348) | 100 |       107953 |
+| 3.1   Kharadus      fol  665( 665)  734(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  606(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727)  874(1604) 264(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:29] hp 1073/878 | sp 606/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Zipob starts concentrating on a new offensive spell.
+Bleezuz (party): kill!!
+Bleezuz starts concentrating on a new spell.
+Major party heal: 2
+scan all
+*****************************************************
+Dogi hits Burglefloogah 2 times.
+Burglefloogah hits Kozma 4 times.
+Kozma hits Burglefloogah 2 times.
+Burglefloogah is near death.
+[21:02:31] hp 1073/878 | sp 606/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Bleezuz reports: Hp: 942 (1076) Sp: 591 (1100) Ep: 308 (411).
+Dogi reports: Hp: 1633 (1633) Sp: 795 (1089) Ep: 416 (416).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 14m  2s) | Exp/min:      8720 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1000(1430)  737( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1633(1633)  795(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol  942(1076)  591(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279)  635(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  408(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  751(1027) 385(348) | 100 |       107953 |
+| 3.1   Kharadus      fol  665( 665)  734(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  606(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727)  874(1604) 264(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:32] hp 1073/878 | sp 606/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Info: Lasanta left the game.
+Major party heal: 1
+Kharadus cast(s) -> 'Acid Blast'
+As Kharadus casts the spell, he pulls out a handful of olivine powder from a small pouch.
+Kharadus grins as his acid blast hits Burglefloogah.
+Burglefloogah glows with black light!
+scan all
+*****************************************************
+Burglefloogah hits Kozma 3 times.
+Kozma hits Burglefloogah 1 time.
+Burglefloogah cast(s) -> 'Entropy'
+Info: Morkil left the game.
+Kharadus [party]: Burglefloogah grunts ACID (60% resist)
+Bleezuz reports: Hp: 897 (1076) Sp: 591 (1100) Ep: 308 (411).
+Burglefloogah is near death.
+[21:02:34] hp 1073/878 | sp 606/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+Dogi reports: Hp: 1633 (1633) Sp: 795 (1089) Ep: 416 (416).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: old convent bitches          (Members:  9) | Exp Tot:   1177261 |
+| Created: Mon May 05 18:48:30 2003        ( 2h 14m  5s) | Exp/min:      8720 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol  875(1430)  737( 940) 408(408) |  95 |       129045 |
+| 1.2   Dogi          ldr 1633(1633)  795(1089) 416(416) | 100 |       201201 |
+| 1.3   Bleezuz       fol  897(1076)  591(1100) 308(411) | 100 |       131530 |
+| 2.1   Gildron       fol 1279(1279)  635(1205) 526(526) |  91 |       104558 |
+| 2.2   Mysteryman    fol 1438(1233)  408(1084) 463(461) | 100 |       131261 |
+| 2.3   Daria         fol 1038( 944)  751(1027) 385(348) | 100 |       107953 |
+| 3.1   Kharadus      fol    0( 665)  590(1166) 294(277) |  80 |       120134 |
+| 3.2   Nuane         fol 1073( 878)  606(1096) 297(278) |  87 |       121979 |
+| 3.3   Zipob         fol  727( 727)  874(1604) 264(278) |  94 |       129600 |
+`-----------------------------------------------------------------------------'
+[21:02:35] hp 1073/878 | sp 606/1096 | ep 297/278 | exp 13626 | $ 0/17297 | wimpy: off
+
+party say Earth Blood down. [15m10s]
+The runic sigla '!( *)' fade away.. leaving you feeling strange.
+Nuane (party): Earth Blood down. [15m10s]
+[21:02:36] hp 1073/783 | sp 606/1096 | ep 297/261 | exp 13626 | $ 0/17297 | wimpy: off
+
+Dogi starts concentrating on a new spell.
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal much of Bleezuz's wounds.
+You heal some of Kozma's wounds.
+You heal some of Kharadus's wounds.
+hp 1073/783 () | sp 508/1096 (-98) | ep 297/261 ()
+Kozma cast(s) -> 'Minor Party Heal'
+Zipob clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Zipob flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Burglefloogah, bursting into flames!
+Zipob grins as his channelburn hits Burglefloogah.
+Burglefloogah glows with black light!
+The black light surrounding Burglefloogah dissipates.
+Burglefloogah dies in a massive fit of convulsions.
+save
+Burglefloogah is DEAD, R.I.P.
+The magic mist around the dead Burglefloogah's neck leaps to your Kerbholz.
+A new mark appears.
+The magic mist around the dead Burglefloogah's neck leaps to Bleezuz's
+Kerbholz.
+The magic mist around the dead Burglefloogah's neck leaps to Kozma's Kerbholz.
+Bleezuz sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Bleezuz sings the tune with pride, being a member of the leading guild!
+mjph
+Kozma starts concentrating on a new spell.
+SAVED.
+[21:02:37] hp 1073/783 | sp 508/1096 | ep 297/261 | exp 70150 (+56524) | $ 0/17297 | wimpy: off
+You gained 56524 xp.
+
+Ealoren [newbie]: I'm stuck at Perin's. How I get out? :)
+You start chanting.
+[21:02:37] hp 1073/783 | sp 508/1096 | ep 297/261 | exp 70150 | $ 0/17297 | wimpy: off
+
+Zipob starts concentrating on a new offensive spell.
+Daria claps.
+Kozma aborts the spell casting.
+Bleezuz takes 6 granite spheres, a huge pile of gold coins, a black skull
+ belt...it has a black aura around it, black scaly bracers, full of
+ thorns...it has a black aura around it, black scaly shirt...it has a black
+ aura around it, a dull black amulet...it has a black aura around it, a black
+ scaly crown, made of thorns, a small pile of anipium coins, black scaly
+ gloves...it has a black aura around it, a mountain of mowgles coins and a
+ Vorpal Blade <red glow>.
+p kills
+Major party heal: 3
+Kyynel [wanted]: tonto
+,-----------------------------------------------------------------------------.
+|     206: a black shadow blends against the walls                            |
+|     220: a black shadow blends against the walls                            |
+|     177: a black shadow blends against the walls                            |
+|    4437: a large guardian-lizard is here, fighting with YOU                 |
+|    3371: a large guardian-lizard is here, fighting with YOU                 |
+|   10382: a Gray Slaad-Lord is hopping around here                           |
+|   12086: a Gray Slaad-Lord is hopping around here                           |
+|   13351: a Gray Slaad-Lord is hopping around here                           |
+|    3078: a green slaad is hopping here happily                              |
+|    1870: a green slaad is hopping here happily                              |
+|   11056: a Gray Slaad-Lord is hopping around here                           |
+|    2736: a green slaad is hopping here happily                              |
+|    2777: a green slaad is hopping here happily                              |
+|    2404: a green slaad is hopping here happily                              |
+|    9346: a Gray Slaad-Lord is hopping around here                           |
+|    9187: a Gray Slaad-Lord is hopping around here                           |
+|    2358: a green slaad is hopping here happily                              |
+|   10783: a Gray Slaad-Lord is hopping around here                           |
+|   10540: a Gray Slaad-Lord is hopping around here                           |
+| 1125156: a gargantuan slime-lizard sits here with bulbous belly, burping be |
+`-----------------------------------------------------------------------------'
+This party has killed 94 monsters (avg exp/mon: 24493).

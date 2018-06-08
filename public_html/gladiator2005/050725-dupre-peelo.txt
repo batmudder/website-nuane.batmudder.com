@@ -1,0 +1,1014 @@
+The arena master shouts 'Team 1 consists of Peelo'
+The arena master shouts 'Team 2 consists of Dupre'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32m*Sirdest %The arena master shouts 'Team 2 consists of Dupre'.[0m
+[32m*Sirdest %The arena master shouts 'All teams ready! Let the fight begin!'.[0m
+[32m*Sirdest %Obvious exit is: south.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1272/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             910/910   608/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:32] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %kill peelo.[0m
+[32m*Sirdest %Hp:1272/1272 Ep:405/405 162 >.[0m
+[32m*Sirdest %% @@kill peelo.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You incise Peelo causing a small wound.[0m
+[32m*Sirdest %You incise Peelo causing a small wound.[0m
+[32m*Sirdest %Peelo strokes you producing large scratches.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Hp:1227/1272 -45| ep:405/405 |.[0m
+[32m*Sirdest %Hp:1272/1272 Ep:405/405 162 >.[0m
+[32m*Sirdest %% @@use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1272/1272 Ep:405/405 162 >.[0m
+[32m*Sirdest %*Sirdest %use slash.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1227/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             843/910   608/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:33] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You incise Peelo causing a small wound.[0m
+[32m*Sirdest %You try to dodge, but Peelo is not fooled.[0m
+[32m*Sirdest %Peelo thrusts you making a minor throttling.[0m
+[32m*Sirdest %Peelo strokes you producing large scratches.[0m
+[32m*Sirdest %Hp:1135/1272 -92| ep:405/405 |.[0m
+[32m*Sirdest % x.[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:1135/1272 Ep:405/405 162 >.[0m
+[32m*Sirdest %*Sirdest %*****************************************************.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1135/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             813/910   608/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:35] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo strokes you making hair burn.[0m
+[32m*Sirdest %Hp:1099/1272 -36| ep:405/405 |.[0m
+[32m*Sirdest %Peelo leaves south.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1099/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             813/910   608/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:38] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %south.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: north.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You shred Peelo causing a nasty laceration.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Hp:1092/1272 -7| ep:405/405 |.[0m
+[32m*Sirdest %Hp:1092/1272 Ep:405/405 162 >.[0m
+[32m*Sirdest %*Sirdest %south.[0m
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1092/1272 Ep:405/405 162 >.[0m
+[32m*Sirdest %*Sirdest %use slash.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1092/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             771/910   608/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:39] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Tuk [35m[wanted]:[32m tarma.[0m
+[32m*Sirdest %scan all.[0m
+la arena
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:1092/1272 Ep:405/405 162 >.[0m
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1092/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             771/910   608/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:41] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %*Sirdest %scan all.[0m
+[56mTICK IN 5 SECONDS.[0m
+[1;37mSlobber [0;53m[fall+]:[1;37m noni krit krat vaa[0m
+[32m*Sirdest %You are prepared to do the skill.[0m
+[32m*Sirdest %You make a great slashing maneuver, but your enemy blocks your attack.[0m
+[32m*Sirdest %Hp:1092/1272 | ep:373/405 -32|.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You incise Peelo causing a small wound.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You incise Peelo inducing a nasty lesion.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You try to dodge, but Peelo is not fooled.[0m
+[32m*Sirdest %Peelo strokes you producing large scratches.[0m
+[32m*Sirdest %Hp:1056/1272 -36| ep:373/405 |.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1056/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             772/910   592/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:44] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest % bla.[0m
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1056/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest % bla.[0m
+[32m*Sirdest % x.[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Hp:1056/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest % x.[0m
+[32m*Sirdest %north.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: south.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You tear Peelo causing a small wound.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo strokes you causing a small scratch.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Hp:1016/1272 -40| ep:373/405 |.[0m
+[32m*Sirdest %Hp:1016/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %north.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1016/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             739/910   592/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:45] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1016/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %use slash.[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:1016/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1016/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             739/910   592/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:47] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You tear Peelo causing a small wound.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[1;37mAndthi [0;52m[party]:[1;37m peelo ottaa melaa mekkoon![0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1016/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             813/910   564/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:50] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[1;37mSlobber [0;52m[party]:[1;37m voittoon käy sankarimme tie![0m
+[32m*Sirdest % x.[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Hp:1016/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest % x.[0m
+[32m*Sirdest %south.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: north.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Hp:1016/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %south.[0m
+la arena
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:1016/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %use slash.[0m
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1016/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             813/910   564/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:51] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You incise Peelo causing a small wound.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest % x.[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:1016/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %You miss Peelo.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1016/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             779/910   564/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:53] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You incise Peelo causing skin to disintegrate.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo misses you.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1016/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             816/910   548/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:55] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest % n.[0m
+[32m*Sirdest %north.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: south.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Peelo strokes you making hair burn.[0m
+[32m*Sirdest %Hp:982/1272 -34| ep:373/405 |.[0m
+[32m*Sirdest %Hp:982/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %%Peelo starts concentrating on a new spell.[0m
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:982/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %use slash.[0m
+[32m*Sirdest %scan all.[0m
+la arena
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:982/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             982/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             816/910   548/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:57] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo thrusts you causing a small wound.[0m
+[32m*Sirdest %Hp:928/1272 -54| ep:373/405 |.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             928/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             816/910   548/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:23:59] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:928/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+[32m*Sirdest %sniffle.[0m
+[32m*Sirdest %You sniffle.[0m
+[32m*Sirdest %Hp:928/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %sniffle.[0m
+[1;37mAndthi [0;52m[party]:[1;37m tai ei :)[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             894/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             910/910   520/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:01] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo strokes you producing large scratches.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Hp:894/1272 -34| ep:373/405 |.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus ignius' [57m(Cure serious [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus ignius' [57m(Cure serious [0m[57mwounds)[32m.[0m
+[32m*Sirdest % x.[0m
+la arena
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Hp:894/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest % x.[0m
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             894/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             910/910   520/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:02] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %south.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: north.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You tear Peelo causing a small wound.[0m
+[32m*Sirdest %Peelo strokes you causing a small wound.[0m
+[32m*Sirdest %Peelo strokes you causing a small wound.[0m
+[32m*Sirdest %Hp:805/1272 -89| ep:373/405 |.[0m
+[32m*Sirdest %Hp:894/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %south.[0m
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:805/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %use slash.[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+la arena
+[32m*Sirdest %Hp:805/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             805/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             866/910   520/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:03] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %You incise Peelo causing skin to quiver.[0m
+[32m*Sirdest %You incise Peelo inducing a nasty lesion.[0m
+[32m*Sirdest %Peelo strokes you causing a small wound.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Hp:760/1272 -45| ep:373/405 |.[0m
+[1;37mMardus [0;52m<party>:[1;37m näytti vaa :D[0m
+[32m*Sirdest %scan all.[0m
+la arena
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:760/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             760/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             790/910   520/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:05] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You incise Peelo inducing a nasty lesion.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             760/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             806/910   504/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:07] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest % x.[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Hp:760/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest % x.[0m
+[32m*Sirdest %north.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: south.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo strokes you producing large scratches.[0m
+[32m*Sirdest %Your armours absorb some of the damage.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Hp:741/1272 -19| ep:373/405 |.[0m
+[32m*Sirdest %Hp:760/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %north.[0m
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:741/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %use slash.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             741/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             806/910   504/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:09] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:741/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+[32m*Sirdest %You incise Peelo causing skin to disintegrate.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Peelo thrusts you causing bad burns.[0m
+[32m*Sirdest %Hp:686/1272 -55| ep:373/405 |.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             686/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             760/910   504/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:11] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32m*Sirdest %say joopa.[0m
+[32m*Sirdest %You say 'joopa.'.[0m
+[32m*Sirdest %Hp:686/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %say joopa.[0m
+[32m*Sirdest %scan all.[0m
+la arena
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:686/1272 Ep:373/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             686/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             760/910   504/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:12] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %You make a great slashing maneuver, but your enemy blocks your attack.[0m
+[32m*Sirdest %Hp:686/1272 | ep:341/405 -32|.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You tear Peelo causing a minor magical burn.[0m
+[32m*Sirdest %You incise Peelo causing a small wound.[0m
+[32m*Sirdest %Peelo thrusts you causing the airway to get slightly smothered.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Hp:636/1272 -50| ep:341/405 |.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             636/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             775/910   488/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:14] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest % bla.[0m
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:636/1272 Ep:341/405 162 >.[0m
+[32m*Sirdest %*Sirdest % bla.[0m
+[32m*Sirdest %south.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: north.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You tear Peelo causing a small wound.[0m
+[32m*Sirdest %You incise Peelo causing a small wound.[0m
+[32m*Sirdest %You try to dodge, but Peelo is not fooled.[0m
+[32m*Sirdest %Peelo strokes you causing a small wound.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Hp:595/1272 -41| ep:341/405 |.[0m
+[32m*Sirdest %Hp:636/1272 Ep:341/405 162 >.[0m
+[32m*Sirdest %*Sirdest %south.[0m
+[32m*Sirdest % bla.[0m
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:636/1272 Ep:341/405 162 >.[0m
+[32m*Sirdest %*Sirdest % bla.[0m
+[32m*Sirdest % x.[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:595/1272 Ep:341/405 162 >.[0m
+[32m*Sirdest %*Sirdest % x.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You tear Peelo causing a small wound.[0m
+[32m*Sirdest %You incise Peelo inducing a nasty lesion.[0m
+[32m*Sirdest %Peelo strokes you causing a small wound.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Hp:561/1272 -34| ep:341/405 |.[0m
+fall missä starcritit
+[1;37mNaanunaane [0;53m(fall+):[1;37m missä starcritit[0m
+[21:24:16] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest % x.[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:561/1272 Ep:341/405 162 >.[0m
+[32m*Sirdest %*Sirdest % x.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             561/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             663/910   488/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:17] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %You make a great slashing maneuver, but your enemy blocks your attack.[0m
+[32m*Sirdest %Hp:561/1272 | ep:309/405 -32|.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus ignius' [57m(Cure serious [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus ignius' [57m(Cure serious [0m[57mwounds)[32m.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You incise Peelo causing a small wound.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo strokes you making skin scorch.[0m
+[32m*Sirdest %Hp:516/1272 -45| ep:309/405 |.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             516/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             724/910   460/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:20] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest % bla.[0m
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:516/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest % bla.[0m
+[32m*Sirdest %north.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: south.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You try to dodge, but Peelo is not fooled.[0m
+[32m*Sirdest %Peelo thrusts you sparking a limb to slice open.[0m
+[32m*Sirdest %Your armours absorb some of the damage.[0m
+[32m*Sirdest %Hp:491/1272 -25| ep:309/405 |.[0m
+[32m*Sirdest %Hp:516/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest %north.[0m
+[32m*Sirdest %use slash.[0m
+la arena
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:516/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest %use slash.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             491/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             724/910   460/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:21] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:491/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+[32m*Sirdest %You tear Peelo causing skin to quiver.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Peelo misses you.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             491/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             691/910   460/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:23] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[1;37mDupre [0;53m(fall+):[1;37m ei tässä renkis ainakaa[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Grinning diabolically Peelo flails you causing heart tissue to fly [0m[32meverywhere.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Hp:243/1272 -248| ep:309/405 |.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus ignius' [57m(Cure serious [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus ignius' [57m(Cure serious [0m[57mwounds)[32m.[0m
+[32m*Sirdest % fa ei tässä renkis ainakaa.[0m
+[32m*Sirdest %fall+ say ei tässä renkis ainakaa.[0m
+[32m*Sirdest %Dupre [53m(fall+):[32m ei tässä renkis ainakaa.[0m
+[32m*Sirdest %Hp:243/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest %Peelo successfully dodges your futile slash.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             243/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             803/910   432/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:26] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:243/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+[32m*Sirdest % s.[0m
+[32m*Sirdest %south.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: north.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You howls in agony as the evil mace crushes bones![0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %Peelo strokes you causing first degree burns.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %Hp:183/1272 -60| ep:309/405 |.[0m
+[32m*Sirdest %Hp:183/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %%Peelo starts concentrating on a new spell.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             183/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             777/910   432/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:28] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You tear Peelo causing a small wound.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest % bla.[0m
+[32m*Sirdest %use slash.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:183/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest %You miss Peelo.[0m
+[1;37mMardus [0;52m<party>:[1;37m dupre pääsee nyt SEXY ISLANDille parantelee haavojaa[0m
+[32m*Sirdest %scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:183/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest %scan all.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             183/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             777/910   432/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:30] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %You incise Peelo inducing a nasty lesion.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Hp:178/1272 -5| ep:309/405 |.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             178/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             810/910   404/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:32] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32m*Sirdest % n.[0m
+[32m*Sirdest %north.[0m
+[32m*Sirdest %Your movement prevents you from doing the skill.[0m
+[32m*Sirdest %              All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: south.[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You incise Peelo causing a small wound.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %Grinning diabolically Peelo whacks you causing the soul to get sucked out.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %You are no longer stunned.[0m
+[32m*Sirdest %You fall [51munconscious[32m from the pain.[0m
+[32m*Sirdest %Peelo strokes you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32m*Sirdest %Hp:-127/1272 -305| ep:309/405 |.[0m
+[32m*Sirdest %Hp:-127/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest % n.[0m
+[1;37mAndthi [0;52m[party]:[1;37m Came out of Stun![0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-127/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %% bla.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-127/1272 Ep:309/405 162 >.[0m
+[32m*Sirdest %*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            -127/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             774/910   404/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:33] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[32mSirdest says 'assrape.'[0m
+fall *sniff*
+[53m(fall+):[1;37m Naanunaane sniffs sadly.[0m
+[21:24:36] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+[52m[party]:[1;37m Andthi boos in disappointment.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo strokes you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %Peelo strokes you forcing the heart to incinerate.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32m*Sirdest %Hp:-211/1272 -84| ep:309/405 |.[0m
+[1;37m:Dus [0;53m<fall+>:[1;37m mitä mä sanoin siitä nolosta :D[0m
+[32m*Sirdest %:Dus [53m<fall+>:[32m mitä mä sanoin siitä nolosta :D.[0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo strokes you causing the soul to get sucked out.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %You become somewhat confused, losing your edge.[0m
+[32m*Sirdest %...BUT you break it off with intense concentration.[0m
+[32m*Sirdest %Peelo strokes you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32m*Sirdest %Hp:-309/1272 -98| ep:309/405 |.[0m
+[1;37mAndthi [0;52m[party]:[1;37m Got Stunned! (2/6)[0m
+[1;37mAndthi [0;52m[party]:[1;37m ...BUT I broke it off![0m
+[56mTICK IN 5 SECONDS.[0m
+[32m*Sirdest %Peelo strokes you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %You howls in agony as the evil mace crushes bones![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32m*Sirdest %Peelo strokes you forcing the heart to incinerate.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32m*Sirdest %Hp:-406/1272 -97| ep:309/405 |.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            -406/1272   17/17   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             853/910   388/700  |                                      |
+`-----------------------------------------------------------------------------'
+[21:24:44] hp 1015/1015  sp 713/713  ep 400/400  xp 17064  $ 3000/10083  wimpy off
+
+The arena master shouts 'Dupre of team 2 dies and is removed from the arena!'
+A deep, throbbing hum, emanates from Tackle reverberating throughout the room.
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Peelo'

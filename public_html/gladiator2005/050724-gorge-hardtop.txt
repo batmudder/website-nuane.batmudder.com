@@ -1,0 +1,1406 @@
+The arena master shouts 'Team 1 consists of Hardtop'
+The arena master shouts 'Team 2 consists of Gorge'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32m*Sirdest % close door.[0m
+[32m*Sirdest %You close team 2 door.[0m
+[32m*Sirdest %The arena master shouts 'Team 1 consists of Hardtop'.[0m
+[32m*Sirdest %The arena master shouts 'Team 2 consists of Gorge'.[0m
+[32m*Sirdest %The arena master shouts 'All teams ready! Let the fight begin!'.[0m
+la arena
+[32m*Sirdest %1242/1258 529/814 432/448 Kg>15 $>4580 Xp>14742>%%You are prepared to do [0m[32mthe skill.[0m
+[32m*Sirdest %You bow your head and concentrate on the destructive energies you have [0m[32mcollected.[0m
+[32m*Sirdest %1242/1258 524/814-5 427/448-5 Xp14742.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1242/1258  524/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:24:45] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %Obvious exits are: w, sw and s.[0m
+[1;37mDarol [0;52m(party):[1;37m sit se käytti jotain commandii tai jotain, mietin jo[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+Savok blows small rings of pot smoke into the room.
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1242/1258 524/814 427/448 Kg>15 $>4580 Xp>14742>%*Sirdest % party report.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: e, s and se.[0m
+[32m*Sirdest %1242/1258 524/814 427/448 Kg>15 $>4580 Xp>14742>%*Sirdest %          All [0m[32maround is a dense fog. You can see maybe.[0m
+la arena
+[31mGuardian shouts 'Noturgo, I rather enjoyed killing you!'[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1242/1258  524/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:24:48] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %Hardtop arrives from southeast.[0m
+[32m*Sirdest %Hardtop arrives from east.[0m
+[32m*Sirdest %You have an unusual feeling as you cast the spell.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %1242/1258 524/814 427/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You have an [0m[32munusual feeling as you cast the spell.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1242/1258  524/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:24:50] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %Word of blasting: #.[0m
+Matriam leaves down.
+[32m*Dheos is casting *Sirdest %Word of blasting in 2 rounds.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1242/1258  524/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:24:53] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[31mGuardian shouts 'Alakhai, I bet that HURT! *RAH RAH*'[0m
+Matriam arrives from down.
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You need target to this spell.[0m
+[32m*Sirdest %Guardian shouts 'Alakhai, I bet that HURT! *RAH RAH*'.[0m
+[32m*Sirdest %Hardtop arrives from south.[0m
+[32m*Sirdest %Hardtop tears you causing a small scratch.[0m
+[32m*Sirdest %You try to dodge, but Hardtop is not fooled.[0m
+[32m*Sirdest %Hardtop tears you making a hand corrode.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %You tear Hardtop producing large scratches.[0m
+[32m*Sirdest %1168/1258-74 524/814 427/448 Xp14742.[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1168/1258  524/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1048/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:24:55] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1168/1258 524/814 427/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %1168/1258 524/814 427/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1048/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:24:57] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You need target to this spell.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1048/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:00] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+[32m*Sirdest %You have a strong confidence in your skill.[0m
+[32m*Sirdest %You interrupt the spell.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You have a [0m[32mstrong confidence in your skill.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1048/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:02] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+la arena
+
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1048/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:05] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+la arena
+
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:07] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Kawasa ticks 445 sps[26m59s].[0m
+[32m*Sirdest %You are prepared to do the skill.[0m
+[32m*Sirdest %At who?[0m
+[32m*Sirdest % l.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: e, s and se.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are prepared [0m[32mto do the skill.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:10] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+la arena
+
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:12] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: nw, n and w.[0m
+[32m*Sirdest %Hardtop Hardener the Ogre Hardens Your Soul <team 1>.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %          All [0m[32maround is a dense fog. You can see maybe.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+Chorale arrives from down.
+[1;37mAndthi [0;52m[party]:[1;37m hardtop, hardtop![0m
+la arena
+[32m*Sirdest %Word of blasting: #.[0m
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:15] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Dheos is casting *Sirdest %Word of blasting in 2 rounds.[0m
+[32m*Sirdest %Hardtop leaves northwest.[0m
+Savok releases smoke into the room.  Her eyes begin to water.
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:17] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You need target to this spell.[0m
+[32m*Sirdest % w.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: n, ne and e.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are done [0m[32mwith the chant.[0m
+[32m*Sirdest %No hardtop here ![0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %No hardtop here ![0m
+[32m*Sirdest %You cannot go that way.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You cannot go [0m[32mthat way.[0m
+[32mSavok stares into space.[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:20] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %Ghost of Alakhai [31m[ghost]:[32m ress 200k on.[0m
+[32m*Sirdest % n.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: e, s and se.[0m
+[32m*Sirdest %Hardtop Hardener the Ogre Hardens Your Soul <team 1>.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Ghost of Alakhai [0m[31m[ghost]:[32m ress 200k on.[0m
+[32mCalmis asks 'mikä onko tää midbie tank vai mikä?'[0m
+[32m*Sirdest % 0.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop successfully dodges your futile pierce.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest % 0.[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:22] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest % party report.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+[32m*Kawasa ticks 135 sps[16s].[0m
+[32m*Sirdest % se.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: nw, n and w.[0m
+[32m*Sirdest %Hardtop Hardener the Ogre Hardens Your Soul <team 1>.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%*Sirdest % se.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1188/1258  546/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:25] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %Hardtop arrives from northwest.[0m
+[1;37mAndthi [0;52m[party]:[1;37m you make me hard![0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully dodge Hardtop's slash.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %1188/1258 546/814 437/448 Kg>15 $>4580 Xp>14742>%%Hardtop starts [0m[32mconcentrating on a new offensive skill.[0m
+la arena
+[32m*Sirdest %Ziba [31m[ghost]:[32m accept.[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1208/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:27] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mMathieu says 'on.'[0m
+[32m*Sirdest %1208/1258+20 569/814+23 447/448+10 Xp14742.[0m
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Ziba [31m[ghost]:[32m [0m[32maccept.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: e, s and se.[0m
+Chorale leaves down.
+[32m*Sirdest %Hardtop Hardener the Ogre Hardens Your Soul <team 1>.[0m
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1208/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:29] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %Hardtop leaves southeast.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1208/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:31] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%.[0m
+[32mSirdest says 'midbie yep.'[0m
+[32m*Sirdest %Usage: party say on/off/last/<message to send>.[0m
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Usage: party say [0m[32mon/off/last/<message to send>.[0m
+[32m*Sirdest %No hardtop here ![0m
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %No hardtop here ![0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1208/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1070/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:33] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest % se.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: nw, n and w.[0m
+[32m*Sirdest %Hardtop Hardener the Ogre Hardens Your Soul <team 1>.[0m
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest % se.[0m
+[32m*Sirdest %Usage: party say on/off/last/<message to send>.[0m
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Usage: party say [0m[32mon/off/last/<message to send>.[0m
+[32m*Sirdest %You start chanting.[0m
+la arena
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1208/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:37] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You interrupt the chant in order to start a new chant.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You interrupt [0m[32mthe chant in order to start a new chant.[0m
+[32m*Sirdest %Gorge [52m[party]:[32m 0.[0m
+[32m*Sirdest %1208/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Gorge [52m[party]:[32m 0.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1208/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:39] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %Hardtop successfully parries your slash.[0m
+[32m*Sirdest %Hardtop tears you making a hand corrode.[0m
+[32m*Sirdest %You successfully dodge Hardtop's slash.[0m
+[32m*Sirdest %1171/1258-37 569/814 447/448 Xp14742.[0m
+[32m*Sirdest %1171/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest [0m[32m%*****************************************************.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %Hardtop successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You try to dodge, but Hardtop is not fooled.[0m
+[32m*Sirdest %Hardtop incises you producing large scratches.[0m
+[32m*Sirdest %You successfully parry Hardtop's slash.[0m
+[32m*Sirdest %1113/1258-58 569/814 447/448 Xp14742.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1113/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest [0m[32m%*****************************************************.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1113/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1113/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:41] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+Savok takes a monster toke from her joint.
+[32m*Sirdest %Hardtop leaves west.[0m
+[32m*Sirdest %You need target to this spell.[0m
+Chorale arrives from down.
+[32m*Sirdest %Hardtop arrives from west.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+la arena
+[32m*Sirdest %Hardtop tears you producing large scratches.[0m
+[32m*Sirdest %You sink Hardtop producing large scratches.[0m
+[32m*Sirdest %You tear Hardtop causing a small scratch.[0m
+[32m*Sirdest %1076/1258-37 569/814 447/448 Xp14742.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1076/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1001/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:44] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: e, s and se.[0m
+[32m*Sirdest %1076/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %          All [0m[32maround is a dense fog. You can see maybe.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1076/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %1076/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1076/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1001/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:46] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: nw, n and w.[0m
+[32m*Sirdest %Hardtop Hardener the Ogre Hardens Your Soul <team 1>.[0m
+[32m*Sirdest %1076/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Your movement [0m[32mprevents you from casting the spell.[0m
+[32m*Sirdest %Hardtop arrives from west.[0m
+[32m*Sirdest %You try to dodge, but Hardtop is not fooled.[0m
+[32m*Sirdest %Hardtop tears you causing a small scratch.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %Hardtop successfully dodges your futile pierce.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %1040/1258-36 569/814 447/448 Xp14742.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1040/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %1040/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1040/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1001/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:48] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %You successfully parry Hardtop's slash.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %You bore Hardtop causing a bad acid wound.[0m
+[32m*Sirdest %You tear Hardtop producing large scratches.[0m
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1040/1258 569/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest % party report.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1040/1258  569/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           884/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:50] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+[32m*Sirdest %You speak the ancient Word of Blasting 'hraugh' [57m(Word of blasting)[32m.[0m
+[32m*Sirdest %A glowing yellow mystical symbol appears in the air before Hardtop.[0m
+[32m*Sirdest %You watch with selfpride as your word of blasting hits Hardtop.[0m
+[32m*Sirdest %1040/1258 463/814-106 447/448 Xp14742.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You sink Hardtop causing a small wound.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %You try to dodge, but Hardtop is not fooled.[0m
+[32m*Sirdest %Hardtop tears you producing large scratches.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %1002/1258-38 463/814 447/448 Xp14742.[0m
+[32m*Sirdest %Hardtop leaves west.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1002/1258  463/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           676/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:53] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1002/1258 463/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[32mNomiculious booms 'this is gonen be a long one.'[0m
+[32m*Sirdest % w.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: n, ne and e.[0m
+[32m*Sirdest %Hardtop Hardener the Ogre Hardens Your Soul <team 1>.[0m
+[32m*Sirdest %1002/1258 463/814 447/448 Kg>15 $>4580 Xp>14742>%%Hardtop leaves north.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %You bore Hardtop inducing a nasty lesion.[0m
+[32m*Sirdest %You tear Hardtop causing skin to quiver.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Kawasa ticks 139 sps[30s].[0m
+[32m*Sirdest %1002/1258 463/814 447/448 Kg>15 $>4580 Xp>14742>%%Hardtop leaves east.[0m
+la arena
+*Hawk cocks its head to the side.
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1002/1258  463/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           569/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:55] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %1002/1258 463/814 447/448 Kg>15 $>4580 Xp>14742>%*Sirdest % party report.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop tears you producing large scratches.[0m
+[32m*Sirdest %Hardtop incises you causing a small wound.[0m
+[32m*Sirdest %You bore Hardtop causing a nasty laceration.[0m
+[32m*Sirdest %Hardtop successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %Struggling valiantly, you manage to absorb the attack with your armour.[0m
+[32m*Sirdest %916/1258-86 463/814 443/448-4 Xp14742.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             916/1258  463/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           511/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:25:57] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %916/1258 463/814 443/448 Kg>15 $>4580 Xp>14742>%*Sirdest % party report.[0m
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You need target to this spell.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mCalmis says 'hmm.'[0m
+[1;37mAndthi [0;52m[party]:[1;37m valitettavasti :([0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             933/1258  483/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           511/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:00] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSlobber exclaims 'taistele hardtop!'[0m
+[32m*Sirdest % e.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: nw, n and w.[0m
+[32m*Sirdest %933/1258 483/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % e.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             933/1258  483/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           511/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:03] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %933/1258 483/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: w, sw and s.[0m
+[32m*Sirdest %Hardtop Hardener the Ogre Hardens Your Soul <team 1>.[0m
+[32m*Sirdest %933/1258 483/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Your movement [0m[32mprevents you from casting the spell.[0m
+[32mSirdest exclaims 'the longer, more exciting!'[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %933/1258 483/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             933/1258  483/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           511/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:05] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop successfully dodges your futile pierce.[0m
+[32m*Sirdest %You cut Hardtop causing skin to quiver.[0m
+[32m*Sirdest %Hardtop tears you making skin bubble and sizzle.[0m
+[32m*Sirdest %Your armours absorb some of the damage.[0m
+[32m*Sirdest %You successfully dodge Hardtop's slash.[0m
+[32m*Sirdest %904/1258-29 483/814 448/448 Xp14742.[0m
+[32m*Sirdest %933/1258 483/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest [0m[32m%*****************************************************.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %904/1258 483/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             840/1258  483/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           487/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:07] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop successfully parries your pierce.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %Hardtop incises you causing a bad acid wound.[0m
+[32m*Sirdest %840/1258-64 483/814 448/448 Xp14742.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %840/1258 483/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %Hardtop[1;53m is not in a good shape. [0m(35-50% hps)
+[32m*Sirdest %840/1258 483/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Hardtop[1;53m is not in [0m[1;53ma good shape. [0m(35-50% hps)
+[32mSavok looks very stupid.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             840/1258  483/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           487/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:09] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+Savok takes another hit from her joint.
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You speak the ancient Word of Blasting 'hraugh' [57m(Word of blasting)[32m.[0m
+[32m*Sirdest %A glowing yellow mystical symbol appears in the air before Hardtop.[0m
+[32m*Sirdest %You watch with selfpride as your word of blasting hits Hardtop.[0m
+[32m*Sirdest %840/1258 377/814-106 448/448 Xp14742.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop successfully parries your pierce.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You tear Hardtop causing a major magical burn.[0m
+[32m*Sirdest %You become somewhat confused, losing your edge.[0m
+[32m*Sirdest %...BUT you break it off with intense concentration.[0m
+[32m*Sirdest %Hardtop tears you causing a bad acid wound.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %792/1258-48 377/814 448/448 Xp14742.[0m
+[1;37mAndthi [0;52m[party]:[1;37m Got Stunned! (2/6)[0m
+[1;37mAndthi [0;52m[party]:[1;37m ...BUT I broke it off![0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %792/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             792/1258  377/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           232/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:11] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mCalmis says 'ei se hardtop nyt pärjänny.'[0m
+[32m*Sirdest % cast Word of blasting.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %792/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % cast Word of [0m[32mblasting.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %Hardtop successfully dodges your futile slash.[0m
+[32m*Sirdest %You successfully dodge Hardtop's slash.[0m
+[32m*Sirdest %You try to dodge, but Hardtop is not fooled.[0m
+[32m*Sirdest %Hardtop tears you causing a small wound.[0m
+[32m*Sirdest %754/1258-38 377/814 448/448 Xp14742.[0m
+[32m*Sirdest %Hardtop exposes herself to you.[0m
+[32m*Sirdest %Your hit barely nudges Hardtop.[0m
+[32m*Sirdest %Hardtop suddenly goes 'GOTCHA!' and strikes her weapon into your skull! You.[0m
+[32m*Sirdest %You[51m lose your concentration [32mand cannot cast the spell.[0m
+[32m*Sirdest % w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %754/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest [0m[32m%*****************************************************.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %754/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             754/1258  377/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           218/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:13] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest % w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %754/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % w.[0m
+[32mSlobber exclaims 'krit krat nyt!'[0m
+[32m*Sirdest % w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %754/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %754/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%% w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %754/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %Hardtop shreds you causing teeth to disintegrate from corrosion.[0m
+[32m*Sirdest %Hardtop shreds you causing teeth to disintegrate from corrosion.[0m
+[32m*Sirdest %Your armours absorb some of the damage.[0m
+[32m*Sirdest %628/1258-126 377/814 448/448 Xp14742.[0m
+[32m*Sirdest % w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Hardtop shreds [0m[32myou causing teeth to disintegrate from corrosion.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+la arena
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Hardtop shreds [0m[32myou causing teeth to disintegrate from corrosion.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %628/1258 377/814 [0m[32m448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Hardtop.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             628/1258  377/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           218/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:16] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%% w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%% w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%% w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 377/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest % w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % w.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+la arena
+[32m*Sirdest %628/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% s.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %628/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             508/1258  370/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           218/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:19] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %628/1258 370/814-7 448/448 Xp14742.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop tears you causing a bad acid wound.[0m
+[32m*Sirdest %Hardtop shreds you slicing open a gaping wound.[0m
+[32m*Sirdest %508/1258-120 370/814 448/448 Xp14742.[0m
+[32m*Sirdest % s.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %628/1258 [0m[32m370/814-7 448/448 Xp14742.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Hardtop shreds [0m[32myou slicing open a gaping wound.[0m
+[32mXunisiih falls down laughing.[0m
+[32m*Sirdest % sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % sw.[0m
+[32mLarppa THYNS 'hehe.'[0m
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % party report.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+la arena
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             508/1258  370/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           218/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:20] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mCalmis says 'haha.'[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%Calmis says 'haha.'.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %508/1258 370/814 [0m[32m448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %508/1258 370/814 [0m[32m448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[1;37mMardus [0;52m<party>:[1;37m lol[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+'gogogo
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+You boom 'gogogo.'
+[22:26:21] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You are stunned and unable to do anything.[0m
+[32m*Sirdest %508/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are stunned [0m[32mand unable to do anything.[0m
+[32m*Sirdest %You are no longer stunned.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %You cut Hardtop causing a major magical burn.[0m
+[32m*Sirdest %Hardtop tears you causing a third degree acid burn.[0m
+[32m*Sirdest %Your armours absorb some of the damage.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %482/1258-26 370/814 448/448 Xp14742.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: n, ne and e.[0m
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are no longer [0m[32mstunned.[0m
+[32m*Sirdest %You cannot go that way.[0m
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest [0m[32m%*****************************************************.[0m
+[32m*Sirdest %You cannot go that way.[0m
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You miss Hardtop.[0m
+[1;37mAndthi [0;52m[party]:[1;37m Came out of Stun![0m
+la arena
+[32m*Sirdest %You cannot go that way.[0m
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You cannot go [0m[32mthat way.[0m
+[32m*Sirdest %You cannot go that way.[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             482/1258  370/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           184/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:22] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %482/1258 370/814 [0m[32m448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You miss.[0m
+[32mKawasa quacks 'muahahahahaha.'[0m
+[32m*Sirdest %You cannot go that way.[0m
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You cannot go [0m[32mthat way.[0m
+[32mCalmis says 'cant stun me :).'[0m
+[32m*Kawasa ticks 139 sps[28s].[0m
+[32m*Sirdest % party say [Out Of Stun].[0m
+[32m*Sirdest %Gorge [52m[party]:[32m [Out Of Stun].[0m
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Kawasa ticks 139 sps[28s].[0m
+[32m*Sirdest %You are not in a party.[0m
+[32mPahvi says 'panic.'[0m
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%% sw.[0m
+[32m*Sirdest %You cannot go that way.[0m
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You cannot go that way.[0m
+[32m*Sirdest %482/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You cannot go [0m[32mthat way.[0m
+[32mChorale shouts enthusiastically and screams 'WHEE!'.[0m
+[32mAlva is struck by complete and utter fear.[0m
+la arena
+[32mSirdest laughs out loud.[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             482/1258  370/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           184/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:25] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Hardtop tears you inducing a nasty lesion.[0m
+[32m*Sirdest %Hardtop misses you.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %Hardtop successfully parries your slash.[0m
+[32m*Sirdest %446/1258-36 370/814 448/448 Xp14742.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+[32mCalmis says 'vitun spam.'[0m
+[32m*Sirdest %Hardtop leaves east.[0m
+[32m*Sirdest %You are not in a party.[0m
+la arena
+[32m*Sirdest %446/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             446/1258  370/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           184/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:26] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: e, s and se.[0m
+[32m*Sirdest %446/1258 370/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %446/1258 370/814 [0m[32m448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32m*Sirdest %Hardtop arrives from south.[0m
+[32mCalmis says 'mut ei se auttanu.'[0m
+[32m*Sirdest %Hardtop cuts you inducing a nasty lesion.[0m
+[32m*Sirdest %You successfully dodge Hardtop's slash.[0m
+[32m*Sirdest %Hardtop successfully parries your pierce.[0m
+[32m*Sirdest %You cut Hardtop creating a magic blast which makes an eyeball implode.[0m
+[32m*Sirdest %433/1258-32 393/814 448/448 Xp14742.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: nw, n and w.[0m
+[32m*Sirdest %433/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Hardtop starts [0m[32mconcentrating on a new offensive skill.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             433/1258  393/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           151/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:29] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %433/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %433/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You start [0m[32mchanting.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32mCalmis says 'vaik stunnas.'[0m
+[32m*Sirdest %You try to dodge, but Hardtop is not fooled.[0m
+[32m*Sirdest %Smiling devilishly Hardtop cruelly tatters you causing heart tissue to fly [0m[32meverywhere.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %Hardtop tears you creating a nasty hydrofluoric blast.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %Hardtop successfully parries your slash.[0m
+[32m*Sirdest %162/1258-271 393/814 448/448 Xp14742.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+[1;37mAndthi [0;52m[party]:[1;37m I'm DYING![0m
+[1;37mAndthi [0;52m[party]:[1;37m I'm DYING![0m
+[1;37mAndthi [0;52m[party]:[1;37m I'm DYING![0m
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %162/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % party report.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             162/1258  393/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           151/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:30] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %162/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%% party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %162/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%% party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %162/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully dodge Hardtop's slash.[0m
+[32m*Sirdest %Hardtop tears you forcing spinal discs to dislodge.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin MELTS exposing your internal organs![0m
+[32m*Sirdest %Hardtop successfully parries your pierce.[0m
+[32m*Sirdest %Hardtop successfully dodges your futile slash.[0m
+[32m*Sirdest %124/1258-38 393/814 448/448 Xp14742.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %124/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             124/1258  393/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           151/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:32] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[1;37mMardus [0;52m<party>:[1;37m apua apua sattuu äiti :([0m
+[32m*Sirdest % w.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exits are: n, ne and e.[0m
+[32m*Sirdest %124/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % w.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully parry Hardtop's slash.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %Hardtop tears you causing both lungs to corrode.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin MELTS exposing your internal organs![0m
+[32m*Sirdest %Hardtop successfully dodges your futile pierce.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %84/1258-40 393/814 448/448 Xp14742.[0m
+[32m*Sirdest %Hardtop starts concentrating on a new offensive skill.[0m
+[32mCalmis says 'jaanio. tiukalle menee.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge              84/1258  393/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           141/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:35] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %84/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % party report.[0m
+[32m*Sirdest % cast Word of blasting.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %84/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % cast Word of [0m[32mblasting.[0m
+[32mXunisiih quacks 'jeesus voittaako se :).'[0m
+[1;37mAndthi [0;52m[party]:[1;37m haha[0m
+[32m*Sirdest %Hardtop arrives from east.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %You miss Hardtop.[0m
+[32m*Sirdest %Hardtop tears you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin MELTS exposing your internal organs![0m
+[32m*Sirdest %You successfully dodge Hardtop's slash.[0m
+[32m*Sirdest %46/1258-38 393/814 448/448 Xp14742.[0m
+[32m*Sirdest %Hardtop leaves east.[0m
+[32m*Sirdest %46/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You wish your [0m[32mwounds would stop BLEEDING so much![0m
+la arena
+[32mDupre has a hard time containing herself.[0m
+[32m*Sirdest %You are not in a party.[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge              46/1258  393/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           141/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:37] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %46/1258 393/814 448/448 Kg>15 $>4580 Xp>14742>%Dupre has a hard time [0m[32mcontaining herself.[0m
+Savok sucks on her joint.
+[1;37mDarol [0;52m(party):[1;37m :D[0m
+[32m*Sirdest %Hardtop arrives from northeast.[0m
+[32m*Sirdest %Hardtop leaves east.[0m
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You speak the ancient Word of Blasting 'hraugh' [57m(Word of blasting)[32m.[0m
+[32m*Sirdest %A glowing yellow mystical symbol appears in the air before Hardtop.[0m
+[32m*Sirdest %You watch with selfpride as your word of blasting hits Hardtop.[0m
+[32m*Sirdest %Hardtop lapses into [51munconscious[32mness from severe loss of blood.[0m
+[32m*Sirdest %46/1258 287/814-106 448/448 Xp14742.[0m
+la arena
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You sink Hardtop making the head explode from a MASSIVE acid blast.[0m
+[32m*Sirdest %You tear Hardtop causing heart tissue to fly everywhere.[0m
+[32m*Sirdest % cast Word of blasting.[0m
+[32m*Sirdest %You start chanting.[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge              46/1258  287/814  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          -200/1093   32/32   |                                      |
+`-----------------------------------------------------------------------------'
+[22:26:40] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %46/1258 287/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are done with [0m[32mthe chant.[0m
+[32m*Sirdest %Gorge [52m[party]:[32m [Hardtop is going down DD now].[0m
+[32m*Sirdest %46/1258 287/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %Gorge [52m[party]:[32m [0m[32m[Hardtop is going down DD now].[0m
+[32mCalmis says 'kah. vittu.'[0m
+[32m*Sirdest % party report.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %46/1258 287/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest % party report.[0m
+[32mGilsereg falls down laughing.[0m
+[32mPahvi says 'lollotiloo.'[0m
+'eiiiiiiiiiih
+You boom 'eiiiiiiiiiih.'
+[22:26:42] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Sirdest %Word of blasting: #.[0m
+[32mDupre goes 'Gnnnn!'.[0m
+[32m*Dheos is casting *Sirdest %Word of blasting in 2 rounds.[0m
+[32m*Sirdest %Blood pours from Hardtop's wounds.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You sink Hardtop causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You cut Hardtop forcing the heart to explode and then magically implode.[0m
+[1;37mDarol [0;52m(party):[1;37m pahus[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %46/1258 287/814 448/448 Kg>15 $>4580 Xp>14742>%*Sirdest %You are not in a [0m[32mparty.[0m
+[32mSlobber whistles 'aiiii.'[0m
+[32mKyynel whistles 'ei vittuuu.'[0m
+[32mBrokus says 'he.'[0m
+[32mValdec giggles inanely.[0m
+[32mSsmud exclaims 'OMG!'[0m
+[32mDheos grunts 'vittutuuuuu.'[0m
+The arena master shouts 'Hardtop of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Gorge'

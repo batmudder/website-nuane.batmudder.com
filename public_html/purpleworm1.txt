@@ -1,0 +1,1568 @@
+Kawasa [party]: menis
+Nuane [party]: Full sp.
+"-. hp 548/548 | sp 980/980 | ep 218/218 | exp 17855 | cash 2720/234747 .-"Balthas [sales]: despairs and avoid for trade to spr
+Kawasa leaves west.
+Balthas is now in the 2nd row.
+Balthas is now in the 1st row.
+Snort leaves west.
+Burrowed cave (e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+A HUGE 50-foot Purple Worm... RUN!
+Kawasa starts concentrating on a new offensive skill.
+Kawasa [party]: Unstun OFF.
+Snort [party]: Consealed
+crush worm
+You start chanting.
+"-. hp 548/548 | sp 980/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 548/548 | sp 980/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is in a good shape.
+"-. hp 548/548 | sp 980/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Psychic crush: ####
+p say Psychic crush : 4
+Purple worm misses Kawasa.
+Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm cuts Kawasa making rib bones snap and crack.
+Kawasa misses Purple worm.
+Kawasa bashes Purple worm with shield.
+Nuane [party]: Psychic crush : 4
+"-. hp 548/548 | sp 980/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Psychic crush: ###
+p say Psychic crush : 3
+You skillfully cast the spell with greater haste.
+p say ghaste.
+Purple worm misses Kawasa.
+Purple worm misses Kawasa.
+Kawasa misses Purple worm.
+Purple worm successfully dodges Kawasa's shield.
+Kalarobotti [suomi]: josse vaikka opiskelis
+Nuane [party]: Psychic crush : 3
+"-. hp 548/548 | sp 980/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: ghaste.
+"-. hp 548/548 | sp 980/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm kicks Kawasa producing large scratches.
+Purple worm misses Kawasa.
+Kawasa strokes Purple worm making small marks.
+Purple worm successfully dodges Kawasa's shield.
+Snort [party]: Death effects gone
+crush worm
+Nuane [party]: Psychic crush HIT!
+"-. hp 510/540 | sp 823/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort [party]: Ray 1
+Nuane [party]: 0% resist.
+"-. hp 510/540 | sp 823/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"You start chanting.
+"-. hp 510/540 | sp 823/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 510/540 | sp 823/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is in a good shape.
+"-. hp 510/540 | sp 823/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa slaps Purple worm's weapon aside, and pounds at the opening!
+Psychic crush: ####
+p say Psychic crush : 4
+You skillfully cast the spell with greater haste.
+p say ghaste.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Purple worm kicks Kawasa producing large scratches.
+Purple worm misses Kawasa.
+Kawasa thumps Purple worm inducing a small shock.
+Kawasa misses Purple worm.
+Snort [party]: Purple worm writhes
+Nuane [party]: Psychic crush : 4
+"-. hp 510/540 | sp 823/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort starts concentrating on a new offensive spell.
+Nuane [party]: ghaste.
+"-. hp 510/540 | sp 823/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas [party]: shoot as many as you can
+Kawasa starts concentrating on a new offensive skill.
+Psychic crush: #
+p say Psychic crush : 1
+Purple worm misses Kawasa.
+Purple worm misses Kawasa.
+Kawasa misses Purple worm.
+Kawasa misses Purple worm.
+Nuane [party]: Psychic crush : 1
+"-. hp 510/540 | sp 823/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"The purple worm spits at you, and you fail to dodge it.
+It doesn't hurt at all!
+The purple worm hits Nuane with its spit.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Kawasa successfully dodges Purple worm's kick.
+Purple worm misses Kawasa.
+Kawasa misses Purple worm.
+Kawasa bashes Purple worm with shield.
+crush worm
+Murdoch [wanted]: druid
+Nuane [party]: Psychic crush HIT!
+"-. hp 223/481 | sp 666/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: 0% resist.
+"-. hp 223/481 | sp 666/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"You start chanting.
+"-. hp 223/481 | sp 666/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 223/481 | sp 666/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is slightly hurt.
+"-. hp 223/481 | sp 666/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa tries to pound Purple worm, but his attack is easily blocked.
+Psychic crush: ####
+p say Psychic crush : 4
+You skillfully cast the spell with haste.
+p say haste.
+Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm kicks Kawasa causing a small wound.
+Purple worm cuts Kawasa causing entrails to fly everywhere.
+Kawasa strokes Purple worm making small marks.
+Purple worm successfully dodges Kawasa's shield.
+Jumbo [suomi]: Suomi ohjelmoinnissa on enemman kuin pahasta
+Snort [party]: Ray 2
+Nuane [party]: Psychic crush : 4
+"-. hp 223/481 | sp 666/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: haste.
+"-. hp 223/481 | sp 666/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Psychic crush: ##
+p say Psychic crush : 2
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+The air before Snort becomes electrified and crackles with pure POWER.
+Snort grins as her cold ray hits Purple worm.
+Snort [party]: Purple worm writhes
+Nuane [party]: Psychic crush : 2
+"-. hp 223/481 | sp 666/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort [party]: Consealed
+Purple worm misses Kawasa.
+Purple worm misses Kawasa.
+Kawasa misses Purple worm.
+Kawasa bashes Purple worm with shield.
+Psychic crush: #
+p say Psychic crush : 1
+Balthas [party]: pois!
+Nuane [party]: Psychic crush : 1
+"-. hp 223/481 | sp 666/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm socks Kawasa causing a nasty laceration.
+Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm cuts Kawasa causing large bones to crack loudly.
+Purple worm successfully parries Kawasa's bash.
+Kawasa misses Purple worm.
+The purple worm spits at you, and you fail to dodge it.
+It doesn't hurt at all!
+That really HURT!
+Your skin MELTS exposing your internal organs!
+You are no longer stunned.
+You fall unconscious from the pain.
+The purple worm hits Nuane and Snort with its spit.
+Blood pours from your wounds!
+Your skin MELTS exposing your internal organs!
+Snort [party]: Unstun weakened
+crush worm
+You are unconscious, unable to do anything.
+Kawasa leaves east.
+Snort leaves east.
+Kawasa rescues your lame ass from danger.
+Passage bend (s,w,e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+Balthas Beaver the Zombie ss‰‰t‰n‰ < matomatala matalax >
+Dart [suomi]: Vai onks joku l‰tk‰ssy sille b‰nnit? :)
+Kawasa starts concentrating on a new skill.
+Balthas starts concentrating on a new spell.
+heh
+Blood pours from your wounds!
+Your skin MELTS exposing your internal organs!
+You are unconscious, unable to do anything.
+Kawasa pokes you in the ribs.
+You feel like someone is helping you.
+Balthas utters the magic words 'mumbo jumbo'
+Balthas [party]: ihan viisasta hei!
+heh
+You go 'Heh'.
+"-. hp -89/411 | sp 696/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 13m 46s) | Exp/min:      1036 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr  676(1385)  -18(  55) 203(410) |  50 |         4579 |
+| 2.2   Snort         fol  251( 332)  400(1006) 209(208) |  50 |         4579 |
+| 3.2   Nuane         fol  -89( 411)  696( 980) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  530( 611)  526( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp -89/411 | sp 696/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas [party]: j‰rkee!!!
+Balthas starts concentrating on a new spell.
+Snort removes a green glove.
+Snort removes a green glove.
+Snort removes a pair of black boots.
+Snort removes Silver Shimmering Cloak labeled as intss.
+Snort wears a purple glove <yellow glow>.
+Snort wears a purple glove <yellow glow>.
+Snort wears a pair of blue radium boots <red glow>.
+Snort wears Slime cloak <green glow>.
+spr
+You remove Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp -89/411 | sp 696/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' added to keep list.
+Modified keep status of 1 item.
+"-. hp -89/411 | sp 696/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' removed from keep list.
+Modified keep status of 1 item.
+"-. hp -89/411 | sp 696/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear rusty ring
+You wear an ugly rusty ring.
+"-. hp -89/411 | sp 696/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: unssi mulle
+Balthas claps her hands and whispers 'judicandus puorgo mangenic'
+Balthas's spell heals you. You feel much better.
+Balthas starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 14m  0s) | Exp/min:       967 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr  880(1385)  -15(  55) 211(410) |  50 |         4579 |
+| 2.2   Snort         fol  285( 332)  400( 957) 209(218) |  50 |         4579 |
+| 3.2   Nuane         fol  176( 411)  724( 966) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  567( 611)  521( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp 176/411 | sp 724/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas mutters to herself.
+Balthas claps her hands and whispers 'judicandus ignius'
+Balthas casts her spell at Nuane.
+Balthas's spell makes you feel much better!
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 14m  3s) | Exp/min:       967 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr  880(1385)  -15(  55) 211(410) |  50 |         4579 |
+| 2.2   Snort         fol  285( 332)  400( 957) 209(218) |  50 |         4579 |
+| 3.2   Nuane         fol  300( 411)  724( 966) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  567( 611)  492( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp 300/411 | sp 724/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Balthas [party]: unstun --> kawasa
+
+"-. hp 300/411 | sp 724/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 14m  9s) | Exp/min:       967 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr  880(1385)  -15(  55) 211(410) |  50 |         4579 |
+| 2.2   Snort         fol  281( 332)  500( 957) 212(218) |  50 |         4579 |
+| 3.2   Nuane         fol  300( 411)  724( 966) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  567( 611)  492( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp 300/411 | sp 724/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas utters the magic words 'Paxus'
+Kawasa [party]: Unstun ON.
+Balthas starts concentrating on a new spell.
+Tzager [wanted]: reloc shovel,paying :D
+Balthas claps her hands and whispers 'judicandus pafzarmus'
+Balthas casts her spell at Kawasa.
+Balthas starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 14m 24s) | Exp/min:       967 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr 1324(1385)   -6(  55) 221(410) |  50 |         4579 |
+| 2.2   Snort         fol  281( 332)  500( 957) 212(218) |  50 |         4579 |
+| 3.2   Nuane         fol  304( 411)  794( 966) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  572( 611)  337( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp 304/411 | sp 794/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas claps her hands and whispers 'judicandus puorgo mangenic'
+Balthas's spell heals you. You feel very much better.
+Procyon [wanted]: party for tank
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 14m 35s) | Exp/min:       967 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr 1385(1385)   -6(  55) 221(410) |  50 |         4579 |
+| 2.2   Snort         fol  332( 332)  638( 957) 217(218) |  50 |         4579 |
+| 3.2   Nuane         fol  390( 411)  794( 966) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  611( 611)  223( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp 390/411 | sp 794/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: menis
+Snort removes a purple glove.
+Snort removes a purple glove.
+Snort removes a pair of blue radium boots.
+Snort removes Slime cloak.
+Snort wears a green glove.
+Snort wears a green glove <yellow glow>.
+Snort wears a pair of black boots <white glow>.
+Snort wears Silver Shimmering Cloak labeled as intss <orange glow>.
+blast
+You remove an ugly rusty ring.
+"-. hp 390/411 | sp 794/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' added to keep list.
+Modified keep status of 1 item.
+"-. hp 390/411 | sp 794/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 390/411 | sp 794/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear 5int
+You wear Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 390/411 | sp 794/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Kawasa leaves west.
+Snort leaves west.
+Burrowed cave (e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+A HUGE 50-foot Purple Worm... RUN!
+Kawasa starts concentrating on a new offensive skill.
+Snort [party]: Consealed
+crush worm
+You start chanting.
+You surreptitiously conceal your spell casting.
+"-. hp 390/411 | sp 794/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 390/411 | sp 794/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is slightly hurt.
+"-. hp 390/411 | sp 794/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Psychic crush: ####
+p say Psychic crush : 4
+You skillfully cast the spell with haste.
+p say haste.
+Nuane [party]: Psychic crush : 4
+"-. hp 390/411 | sp 794/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: haste.
+"-. hp 390/411 | sp 794/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm misses Kawasa.
+Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Smiling demonically Purple worm meanly munches Kawasa making skull crack,
+ forcing serious brain hemorrhage.
+Purple worm successfully dodges Kawasa's bash.
+Kawasa misses Purple worm.
+Kawasa tries to pound Purple worm, but his attack is easily blocked.
+Psychic crush: ##
+p say Psychic crush : 2
+You skillfully cast the spell with haste.
+p say haste.
+[party]: Kawasa took a crit.
+Nuane [party]: Psychic crush : 2
+"-. hp 390/411 | sp 794/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: haste.
+"-. hp 390/411 | sp 794/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm misses Kawasa.
+Kawasa successfully dodges Purple worm's bite.
+Purple worm successfully dodges Kawasa's bash.
+Purple worm successfully dodges Kawasa's shield.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+You devastate Purple worm's mind with your powers!
+Snort [party]: Ray 1
+crush worm
+Nuane [party]: Psychic crush HIT!
+"-. hp 367/406 | sp 637/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: 0% resist.
+"-. hp 367/406 | sp 637/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"You start chanting.
+You surreptitiously conceal your spell casting.
+"-. hp 367/406 | sp 637/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 367/406 | sp 637/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is slightly hurt.
+"-. hp 367/406 | sp 637/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa jabs Purple worm making small marks.
+Kawasa bashes Purple worm with shield.
+Psychic crush: ####
+p say Psychic crush : 4
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Snort [party]: Purple worm writhes
+Nuane [party]: Psychic crush : 4
+"-. hp 367/406 | sp 637/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort starts concentrating on a new offensive spell.
+Kawasa strokes Purple worm making small marks.
+Kawasa bashes Purple worm with shield.
+Psychic crush: ###
+p say Psychic crush : 3
+Psychic crush: ##
+p say Psychic crush : 2
+You skillfully cast the spell with haste.
+p say haste.
+Nuane [party]: Psychic crush : 3
+"-. hp 367/406 | sp 637/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: Psychic crush : 2
+"-. hp 367/406 | sp 637/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: haste.
+"-. hp 367/406 | sp 637/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa thumps Purple worm making small marks.
+Kawasa bashes Purple worm with shield.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Snort [party]: Ray 1
+Nuane [party]: Psychic crush HIT!
+"-. hp 354/403 | sp 480/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: 0% resist.
+"-. hp 354/403 | sp 480/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"crush worm
+You start chanting.
+"-. hp 354/403 | sp 480/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 354/403 | sp 480/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is noticeably hurt.
+"-. hp 354/403 | sp 480/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa strokes Purple worm inducing a small shock.
+Kawasa bashes Purple worm with shield.
+Psychic crush: ####
+p say Psychic crush : 4
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Snort [party]: Purple worm writhes
+Nuane [party]: Psychic crush : 4
+"-. hp 354/403 | sp 480/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort starts concentrating on a new offensive spell.
+Kawasa successfully parries Purple worm's kick.
+Purple worm misses Kawasa.
+Purple worm successfully parries Kawasa's bash.
+ ...AND counterattacks with ferocity.
+Kawasa bashes Purple worm with shield.
+Psychic crush: ###
+p say Psychic crush : 3
+You skillfully cast the spell with haste.
+p say haste.
+Nuane [party]: Psychic crush : 3
+"-. hp 354/403 | sp 480/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: haste.
+"-. hp 354/403 | sp 480/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa successfully parries Purple worm's kick.
+Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm chews Kawasa causing large bones to crack loudly.
+Kawasa misses Purple worm.
+Kawasa misses Purple worm.
+Psychic crush: #
+p say Psychic crush : 1
+Snort [party]: Ray 2
+Nuane [party]: Psychic crush : 1
+"-. hp 354/403 | sp 480/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa successfully dodges Purple worm's kick.
+Kawasa successfully dodges Purple worm's bite.
+Purple worm successfully dodges Kawasa's bash.
+Purple worm successfully dodges Kawasa's shield.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Snort [party]: Purple worm writhes
+crush worm
+Nuane [party]: Psychic crush HIT!
+"-. hp 328/397 | sp 323/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: 0% resist.
+"-. hp 328/397 | sp 323/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort starts concentrating on a new offensive spell.
+You start chanting.
+"-. hp 328/397 | sp 323/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 328/397 | sp 323/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is noticeably hurt.
+"-. hp 328/397 | sp 323/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm socks Kawasa causing a nasty laceration.
+Purple worm misses Kawasa.
+Purple worm successfully parries Kawasa's bash.
+ ...AND counterattacks with ferocity.
+Purple worm successfully parries Kawasa's shield.
+ ...AND counterattacks with ferocity.
+Psychic crush: ####
+p say Psychic crush : 4
+You skillfully cast the spell with greater haste.
+p say ghaste.
+Nuane [party]: Psychic crush : 4
+"-. hp 328/397 | sp 323/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: ghaste.
+"-. hp 328/397 | sp 323/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm misses Kawasa.
+Kawasa successfully parries Purple worm's bite.
+Kawasa misses Purple worm.
+Kawasa misses Purple worm.
+Psychic crush: #
+p say Psychic crush : 1
+Nuane [party]: Psychic crush : 1
+"-. hp 328/397 | sp 323/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas [party]: pois
+Purple worm socks Kawasa causing a nasty laceration.
+Purple worm cuts Kawasa snapping a neck bone.
+Kawasa strokes Purple worm inducing a small shock.
+Purple worm successfully parries Kawasa's shield.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+As Snort casts the spell, she pulls out a steel arrowhead which bursts into a million prismatic starbursts.
+Snort grins as her cold ray hits Purple worm.
+Snort [party]: Purple worm writhes
+Nuane [party]: Psychic crush HIT!
+"-. hp 301/391 | sp 166/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"crush worm
+Kawasa leaves east.
+Snort leaves east.
+Passage bend (s,w,e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+Balthas Beaver the Zombie ss‰‰t‰n‰ < matomatala matalax >
+Nuane [party]: 0% resist.
+"-. hp 301/391 | sp 166/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"You start chanting.
+"-. hp 301/391 | sp 166/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 301/391 | sp 166/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+You are not in combat right now.
+"-. hp 301/391 | sp 166/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"zz
+You interrupt the spell.
+"-. hp 301/391 | sp 166/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort smiles happily.
+spr
+Balthas starts concentrating on a new spell.
+Kawasa [party]: nigs
+You remove Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 301/391 | sp 166/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' added to keep list.
+Modified keep status of 1 item.
+"-. hp 301/391 | sp 166/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 301/391 | sp 166/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear rusty ring
+You wear an ugly rusty ring.
+"-. hp 301/391 | sp 166/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Shadizar [wanted]: tarma
+p say vois medi?
+Nuane [party]: vois medi?
+"-. hp 301/391 | sp 166/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort extracts something from a pouch.
+Snort extracts something from a pouch.
+Snort extracts something from a pouch.
+Snort extracts something from a pouch.
+Snort extracts something from a pouch.
+Balthas claps her hands and whispers 'judicandus puorgo mangenic'
+Balthas's spell heals you. You feel much better.
+Snort removes a green glove.
+Snort removes a green glove.
+Snort removes a pair of black boots.
+Snort removes Silver Shimmering Cloak labeled as intss.
+Snort wears a purple glove <yellow glow>.
+Snort wears a purple glove <yellow glow>.
+Snort wears a pair of blue radium boots <red glow>.
+Snort wears Slime cloak <green glow>.
+Fizzl <suomi>: #define epatosi false, #define tosi true, #define tyhjyys NULL
+Balthas starts concentrating on a new spell.
+medi
+Balthas claps her hands and whispers 'judicandus puorgo mangenic'
+Balthas's spell heals you. You feel very much better.
+You start concentrating on the skill.
+"-. hp 375/391 | sp 166/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say *is meditating.*
+[party]: Nuane is meditating.
+"-. hp 375/391 | sp 166/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+LAG: 6 seconds.
+Balthas [party]: regeni on heikoille=)
+Tzager [wanted]: party for tigerspider
+You are prepared to do the skill.
+You fail to reach the state of inner harmony.
+Balthas claps her hands and whispers 'judicandus pafzarmus'
+Balthas casts her spell at Kawasa.
+medi
+You start concentrating on the skill.
+"-. hp 378/391 | sp 192/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say *is meditating.*
+[party]: Nuane is meditating.
+"-. hp 378/391 | sp 192/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+You are prepared to do the skill.
+You sit down and start meditating.
+
+"-. hp 379/391 | sp 193/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas claps her hands and whispers 'judicandus ignius'
+Balthas casts her spell at Kawasa.
+
+"-. hp 380/391 | sp 194/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Laardi [wanted]: chest
+
+"-. hp 386/391 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas [sales]: w:ring of deaths!
+
+"-. hp 391/391 | sp 268/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Triton [sales]: blood axe mb 60k
+
+"-. hp 391/391 | sp 364/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+You concentrate on your inner self.
+"-. hp 391/391 | sp 367/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Bela tells you 'hyi sun partiis :>' 
+Guard shouts 'Was it as good for you, as it was for me, Superelak?'
+
+"-. hp 391/391 | sp 370/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Ghost of Superelak [ghost]: hmpf
+Ooga [bat]: hmm, wedding rings seem broken, it shows up in 'eq' but cant 'la
+ ring' nor 'twist ring'
+You contemplate the concept of nothingness.
+Something disturbs you and you cannot concentrate any longer.
+You feel extra relaxed.
+Tree shouts 'Rigel died like a DOG!'
+giggle bela;tell bela no p‰‰si tekee purple wormin :) h‰vett‰‰ kyl :)
+You emote to Bela 'giggles inanely at you.'
+"-. hp 391/391 | sp 396/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"tell bela no p‰‰si tekee purple wormin :) h‰vett‰‰ kyl :)
+You tell Bela 'no p‰‰si tekee purple wormin :) h‰vett‰‰ kyl :)'
+"-. hp 391/391 | sp 396/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Soth [bat]: changed to wedding rings
+
+"-. hp 391/391 | sp 396/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Ooga [bat]: and cant reclaim it, cause it says i already have
+Miger [bat]: try wedding ring
+Soth [bat]: os name
+Chaste [sales]: blood axe, AWE protted. mb61k
+Ooga [bat]: oh
+Soth [bat]: as even
+Bela tells you 'mennaa sen jalkee ekspolle sit speci o jonos nakojaa
+ :)' 
+Gemiina [sales]: belan belt 690k
+tell bela joo :)
+You tell Bela 'joo :)'
+"-. hp 391/391 | sp 486/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 391/391 | sp 486/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort [party]: Unpain gone
+
+"-. hp 391/391 | sp 486/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Scytale [bat]: wasnt it changed to wedding ring a few weeks ago
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 17m 35s) | Exp/min:       805 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+|*1.2   Kawasa        ldr 1385(1385)   31(  55) 234(410) |  50 |         4579 |
+| 2.2   Snort         fol  262( 262)  605( 957) 218(218) |  50 |         4579 |
+| 3.2   Nuane         fol  391( 391)  486( 966) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  611( 611)  508( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp 391/391 | sp 486/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 391/391 | sp 486/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 391/391 | sp 486/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Triton [sales]: scroll of enchant armor mb 5k
+Tree shouts 'Rigel, I bet that HURT! *RAH RAH*'
+Mangy [sales]: 690k
+tell bela mato on nigs
+You tell Bela 'mato on nigs'
+"-. hp 391/391 | sp 573/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 391/391 | sp 573/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Gemiina [sales]: 690k x1 x2
+Mangy [sales]: um condition?
+Vendar {wanted}: summon
+Bela tells you 'jees' 
+
+"-. hp 391/391 | sp 573/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 391/391 | sp 573/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: unp snort
+
+Tree shouts 'Rigel was just DOGMEAT, who is next?'
+"-. hp 391/391 | sp 658/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Balthas [party]: unpain --> snort
+Gemiina [sales]: don't know, never repaired, brand new
+Feeniks [wanted]: heal all
+Bela tells you 'pakko teh‰ toi josus itekki' 
+Snort removes a purple glove.
+Snort removes a purple glove.
+Snort removes a pair of blue radium boots.
+Snort removes Slime cloak.
+Snort wears a green glove.
+Snort wears a green glove <yellow glow>.
+Snort wears a pair of black boots <white glow>.
+Snort wears Silver Shimmering Cloak labeled as intss <orange glow>.
+
+"-. hp 391/391 | sp 658/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas looks at herself.
+Balthas goes 'mmmmm...'.
+
+Balthas utters the magic words 'harnaxan temnahecne'
+"-. hp 391/391 | sp 658/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort [party]: Unpain active
+Ghost of Rigel [ghost]: rais
+[party]: Balthas swings her fist in the air with rage and yell 'CHARGE!'.
+Kawasa [party]: ment‰s
+blast
+You remove an ugly rusty ring.
+"-. hp 391/391 | sp 658/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' added to keep list.
+Modified keep status of 1 item.
+"-. hp 391/391 | sp 658/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 391/391 | sp 658/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear 5int
+You wear Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 391/391 | sp 658/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"You feel like Hoppalon healed you a bit.
+Fairfax [wanted]: summon plz
+Kawasa leaves west.
+Snort leaves west.
+Burrowed cave (e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+A HUGE 50-foot Purple Worm... RUN!
+Kawasa starts concentrating on a new offensive skill.
+crush worm
+Snort starts concentrating on a new offensive spell.
+You start chanting.
+"-. hp 391/391 | sp 735/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 391/391 | sp 735/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is noticeably hurt.
+"-. hp 391/391 | sp 735/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Psychic crush: ####
+p say Psychic crush : 4
+You skillfully cast the spell with greater haste.
+p say ghaste.
+Gemiina [sales]: 690x 3 and sold then
+Nuane [party]: Psychic crush : 4
+"-. hp 391/391 | sp 735/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: ghaste.
+"-. hp 391/391 | sp 735/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Mangy [sales]: bid stands then :)
+Purple worm boots Kawasa producing large scratches.
+Kawasa successfully dodges Purple worm's bite.
+Purple worm successfully dodges Kawasa's bash.
+Purple worm successfully parries Kawasa's shield.
+Psychic crush: #
+p say Psychic crush : 1
+Snort [party]: Ray 2
+Nuane [party]: Psychic crush : 1
+"-. hp 391/391 | sp 735/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm kicks Kawasa producing large scratches.
+Kawasa successfully dodges Purple worm's bite.
+Kawasa thumps Purple worm inducing a small shock.
+Kawasa bashes Purple worm with shield.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Snort [party]: Ray 1
+crush worm
+Nuane [party]: Psychic crush HIT!
+"-. hp 363/385 | sp 578/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: 0% resist.
+"-. hp 363/385 | sp 578/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"You start chanting.
+You surreptitiously conceal your spell casting.
+"-. hp 363/385 | sp 578/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 363/385 | sp 578/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is not in a good shape.
+"-. hp 363/385 | sp 578/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm misses Kawasa.
+Purple worm misses Kawasa.
+Purple worm successfully dodges Kawasa's bash.
+Kawasa bashes Purple worm with shield.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Kawasa quickly steps forward and pounds Purple worm in the temple!
+Uncanny mace of Thunder in Kawasa's hand is suddenly surrounded with bright
+blue glow and a fuming blast of lightning strikes Purple worm down.
+Psychic crush: ####
+p say Psychic crush : 4
+Snort [party]: Purple worm writhes
+Nuane [party]: Psychic crush : 4
+"-. hp 363/385 | sp 578/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort starts concentrating on a new offensive spell.
+Kawasa successfully dodges Purple worm's kick.
+Purple worm cuts Kawasa causing a NASTY head wound.
+Kawasa misses Purple worm.
+Purple worm successfully dodges Kawasa's shield.
+Psychic crush: ###
+p say Psychic crush : 3
+You feel godly power hasten your casting.
+Kawasa starts concentrating on a new offensive skill.
+Nuane [party]: Psychic crush : 3
+"-. hp 363/385 | sp 578/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm misses Kawasa.
+Kawasa successfully parries Purple worm's bite.
+Kawasa misses Purple worm.
+Kawasa misses Purple worm.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Snort [party]: Ray 2
+Nuane [party]: Psychic crush HIT!
+"-. hp 344/381 | sp 421/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: 0% resist.
+"-. hp 344/381 | sp 421/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"crush worm
+You start chanting.
+You surreptitiously conceal your spell casting.
+"-. hp 344/381 | sp 421/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 344/381 | sp 421/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is not in a good shape.
+"-. hp 344/381 | sp 421/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort [party]: Consealed
+Kawasa successfully dodges Purple worm's kick.
+Purple worm chews Kawasa forcing spinal discs to dislodge.
+Kawasa thumps Purple worm making small marks.
+Kawasa misses Purple worm.
+Kawasa tries to pound Purple worm, but his attack is easily blocked.
+Kawasa starts concentrating on a new offensive skill.
+Psychic crush: ####
+p say Psychic crush : 4
+Purple worm misses Kawasa.
+Purple worm misses Kawasa.
+Purple worm successfully dodges Kawasa's bash.
+Kawasa misses Purple worm.
+Psychic crush: ###
+p say Psychic crush : 3
+You skillfully cast the spell with greater haste.
+p say ghaste.
+Nuane [party]: Psychic crush : 4
+"-. hp 344/381 | sp 421/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: Psychic crush : 3
+"-. hp 344/381 | sp 421/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: ghaste.
+"-. hp 344/381 | sp 421/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Kawasa is STUNNED from the force of Purple worm's kick.
+Purple worm socks Kawasa inducing a nasty lesion.
+Kawasa successfully dodges Purple worm's bite.
+Kawasa misses Purple worm.
+Kawasa bashes Purple worm with shield.
+The purple worm spits at you, and you fail to dodge it.
+It doesn't hurt as much as it normally does!
+You are about to DIE!
+p say I'm dying!
+The purple worm hits Nuane and Kawasa with its spit.
+You are stunned and unable to do anything.
+crush worm
+Snort [party]: Ray 2
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.
+Purple worm jabs Kawasa slicing open a gaping wound.
+Purple worm brutally bites Kawasa causing heart tissue to fly everywhere.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Snort [party]: Purple worm writhes
+Snort [party]: Consealed
+Balthas [party]: pois
+Purple worm socks Kawasa forcing spinal discs to dislodge.
+Purple worm brutally bites Kawasa causing heart tissue to fly everywhere.
+Kawasa lapses into unconsciousness from severe loss of blood.
+Purple worm utters the magic words 'saugaiii'
+crush worm
+You are stunned and unable to do anything.
+Purple worm kicks Kawasa causing heart tissue to fly everywhere.
+Purple worm cuts Kawasa causing heart tissue to fly everywhere.
+Blood pours from Kawasa's wounds.
+Snort [party]: Ray 1
+crush worm
+You are stunned and unable to do anything.
+Balthas [party]: east
+Snort leaves east.
+Snort left somewhere.
+You are no longer stunned.
+Nuane is now in the 2nd row.
+Purple worm kicks Kawasa causing heart tissue to fly everywhere.
+Purple worm cuts Kawasa causing heart tissue to fly everywhere.
+Kawasa stops existing in this reality.
+Kawasa is DEAD, R.I.P.
+Purple worm shouts 'Kawasa, I rather enjoyed killing you!'
+Kawasa regenerates astonishingly fast avoiding death!
+e
+Passage bend (s,w,e).
+Snort the Duck < matomatala matalax >
+Balthas Beaver the Zombie ss‰‰t‰n‰ < matomatala matalax >
+You stop following the leader.
+"-. hp 72/325 | sp 264/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa arrives from west.
+Balthas starts following the leader.
+Snort starts following the leader.
+You start following the leader in a new place.
+Bat shouts 'Fransmanni was just DOGMEAT, who is next?'
+Kawasa [party]: sniff
+Balthas starts concentrating on a new spell.
+Balthas [party]: raising ---> kawasa
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 19m 29s) | Exp/min:       725 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Nuane         fol   72( 325)  264( 980) 218(218) |  50 |            0 |
+| 1.2   Kawasa        ldr 1385(1385)   55(  55) 410(410) |  50 |         4579 |
+| 1.3   Balthas       fol  611( 611)  750( 823) 232(232) |  50 |         5349 |
+| 2.2   Snort         fol  454( 454)  432(1006) 208(208) |  50 |         4579 |
+`-----------------------------------------------------------------------------'
+"-. hp 72/325 | sp 264/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: uns mulle
+
+"-. hp 72/325 | sp 264/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"spr
+You remove Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 72/325 | sp 264/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Kawasa [party]: vittuku stunnas
+keep 5int
+Item '5int' added to keep list.
+Modified keep status of 1 item.
+"-. hp 72/325 | sp 264/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas [party]: unstun --> kawasa
+keep rusty ring
+Item 'rusty ring' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 72/325 | sp 264/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear rusty ring
+You wear an ugly rusty ring.
+"-. hp 72/325 | sp 264/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"p say niin teki
+Balthas utters the magic words 'Paxus'
+Nuane [party]: niin teki
+"-. hp 72/325 | sp 264/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Ghost of Fransmanni [ghost]: ress please
+Kawasa [party]: Unstun ON.
+
+"-. hp 72/325 | sp 264/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: brutally bites you
+
+"-. hp 75/325 | sp 291/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Saldas [ghost]: Accept Ress or Rais from Saldas.
+Snort extracts something from a pouch.
+Snort extracts something from a pouch.
+Snort extracts something from a pouch.
+Kawasa [party]: 2x
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 19m 50s) | Exp/min:       725 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Nuane         fol   75( 325)  291( 966) 218(218) |  50 |            0 |
+| 1.2   Kawasa        ldr 1385(1385)   55(  55) 410(410) |  50 |         4579 |
+| 1.3   Balthas       fol  611( 611)  636( 823) 232(232) |  50 |         5349 |
+| 2.2   Snort         fol  454( 454)  432(1006) 208(208) |  50 |         4579 |
+`-----------------------------------------------------------------------------'
+"-. hp 75/325 | sp 291/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas claps her hands and whispers 'judicandus pafzarmus'
+Balthas casts her spell at Nuane.
+Balthas's spell makes you feel all better!
+Balthas guides you to the middle of 3rd row.
+Balthas quits following the leader.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 19m 54s) | Exp/min:       725 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr 1385(1385)   55(  55) 410(410) |  50 |         4579 |
+| 1.3   Balthas      form  611( 611)  488( 823) 232(232) |  50 |         5349 |
+| 2.2   Snort         fol  454( 454)  484(1006) 208(208) |  50 |         4579 |
+| 3.2   Nuane         fol  325( 325)  291( 966) 218(218) |  50 |            0 |
+`-----------------------------------------------------------------------------'
+"-. hp 325/325 | sp 291/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts following the leader.
+Balthas quits following the leader.
+
+"-. hp 325/325 | sp 291/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: stunnas eka normisti ja sitte spessulla
+
+"-. hp 325/325 | sp 291/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 325/325 | sp 291/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 325/325 | sp 291/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+Balthas [party]: pari tikkii nuanelle
+"-. hp 325/325 | sp 291/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Tzager [wanted]: mage or offtank
+
+"-. hp 325/325 | sp 291/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 325/325 | sp 363/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Balthas [party]: unpain --> kawasa
+
+"-. hp 325/325 | sp 363/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 325/325 | sp 363/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas utters the magic words 'harnaxan temnahecne'
+Balthas mumbles something inconcievable.
+p say tikkaiski t‰‰ paska ,)
+Nuane [party]: tikkaiski t‰‰ paska ,)
+"-. hp 325/325 | sp 363/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Balthas [party]: unpain --> kawasa
+l
+There are no light sources here, but you can still see.
+Here the passageway turns south and begins to widen towards some huge cavern.
+An unnatural tunnel with a diameter of 10 feet leads to the west.
+To the east is the chasm bottom.
+Obvious exits are: s, w and e.
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+Snort the Duck < matomatala matalax >
+Balthas Beaver the Zombie ss‰‰t‰n‰ < matomatala matalax >
+"-. hp 325/325 | sp 363/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas utters the magic words 'harnaxan temnahecne'
+Kawasa [party]: Unpain ON.
+
+"-. hp 325/325 | sp 363/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: ment‰sp‰
+blast
+You remove an ugly rusty ring.
+"-. hp 325/325 | sp 452/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' added to keep list.
+Modified keep status of 1 item.
+"-. hp 325/325 | sp 452/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 325/325 | sp 452/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear 5int
+You wear Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 325/325 | sp 452/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Kawasa leaves west.
+Snort leaves west.
+Burrowed cave (e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+A HUGE 50-foot Purple Worm... RUN!
+Kawasa starts concentrating on a new offensive skill.
+crush worm
+You start chanting.
+You surreptitiously conceal your spell casting.
+"-. hp 325/325 | sp 452/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort starts concentrating on a new offensive spell.
+Kawasa successfully dodges Purple worm's kick.
+Purple worm misses Kawasa.
+Purple worm successfully parries Kawasa's bash.
+Kawasa misses Purple worm.
+Psychic crush: ####
+p say Psychic crush : 4
+Kawasa quickly steps forward and pounds Purple worm in the temple!
+party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 325/325 | sp 452/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is in bad shape.
+"-. hp 325/325 | sp 452/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: Psychic crush : 4
+"-. hp 325/325 | sp 452/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa starts concentrating on a new offensive skill.
+Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm kicks Kawasa producing large scratches.
+Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm tears Kawasa making an artery explode.
+Purple worm successfully parries Kawasa's bash.
+Kawasa misses Purple worm.
+Psychic crush: ###
+p say Psychic crush : 3
+Nuane [party]: Psychic crush : 3
+"-. hp 325/325 | sp 452/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm kicks Kawasa producing large scratches.
+Purple worm misses Kawasa.
+Kawasa misses Purple worm.
+Kawasa bashes Purple worm with shield.
+Psychic crush: ##
+p say Psychic crush : 2
+You skillfully cast the spell with haste.
+p say haste.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+The purple worm spits at you, and you fail to dodge it.
+That really HURT!
+You are about to DIE!
+p say I'm dying!
+The purple worm hits Nuane with its spit.
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.
+Snort [party]: Consealed
+crush worm
+Purple worm misses Kawasa.
+Purple worm tears Kawasa slicing open a gaping wound.
+Kawasa misses Purple worm.
+Purple worm successfully dodges Kawasa's shield.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+Your fingertips are surrounded with swirling ENERGY as you cast the spell.
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+You feel excruciating PAIN in your head!
+Purple worm utters the magic words 'saugaiii'
+You are stunned and unable to do anything.
+Snort [party]: Ray 1
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.
+Kawasa leaves east.
+Snort leaves east.
+Kawasa rescues your lame ass from danger.
+Passage bend (s,w,e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+Balthas Beaver the Zombie ss‰‰t‰n‰ < matomatala matalax >
+Kawasa starts concentrating on a new skill.
+Balthas starts concentrating on a new spell.
+
+You are stunned and unable to do anything.
+Kawasa breaks the skill attempt.
+Balthas claps her hands and whispers 'judicandus pafzarmus'
+Balthas casts her spell at Nuane.
+Balthas's spell makes you feel all better!
+Kawasa [party]: jaa et ollu uncis viel
+
+You are stunned and unable to do anything.
+
+You are no longer stunned.
+"-. hp 263/263 | sp 320/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: mut stunnis olit :P
+p say hih
+Fransmanni [wanted]: reinc
+Nuane [party]: hih
+"-. hp 263/263 | sp 320/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 263/263 | sp 320/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Dachante [sales]: w:spider top
+Balthas starts concentrating on a new spell.
+Balthas claps her hands and whispers 'judicandus pafzarmus'
+Balthas casts her spell at Kawasa.
+Kawasa [party]: menis
+Kawasa leaves west.
+Snort leaves west.
+Burrowed cave (e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+A HUGE 50-foot Purple Worm... RUN!
+Your knowledge about Purple worm's tactics allows you to evade the ambush.
+Kawasa starts concentrating on a new offensive skill.
+crush worm
+You start chanting.
+You surreptitiously conceal your spell casting.
+"-. hp 263/263 | sp 320/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 263/263 | sp 320/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is in bad shape.
+"-. hp 263/263 | sp 320/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort [party]: Consealed
+Psychic crush: ####
+p say Psychic crush : 4
+Purple worm socks Kawasa producing large scratches.
+Purple worm chews Kawasa snapping a collarbone.
+Purple worm successfully dodges Kawasa's bash.
+Purple worm successfully parries Kawasa's shield.
+Nuane [party]: Psychic crush : 4
+"-. hp 263/263 | sp 320/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Psychic crush: ###
+p say Psychic crush : 3
+The purple worm spits at you, and you fail to dodge it.
+You are about to DIE!
+p say I'm dying!
+You feel your will returning normal.
+p say Unpain down.
+The purple worm hits Nuane and Snort with its spit.
+Purple worm misses Kawasa.
+Purple worm misses Kawasa.
+Purple worm successfully parries Kawasa's bash.
+ ...AND counterattacks with ferocity.
+Kawasa bashes Purple worm with shield.
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.
+Psychic crush: ##
+p say Psychic crush : 2
+You skillfully cast the spell with haste.
+p say haste.
+Snort [party]: Ray 2
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.
+Purple worm socks Kawasa causing a small wound.
+Purple worm cuts Kawasa snapping a collarbone.
+Kawasa misses Purple worm.
+Purple worm successfully dodges Kawasa's shield.
+You are no longer stunned.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+You feel excruciating PAIN in your head!
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Snort [party]: Purple worm writhes
+Nuane [party]: Psychic crush HIT!
+"-. hp 22/259 | sp 163/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: 0% resist.
+"-. hp 22/259 | sp 163/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort [party]: Consealed
+Kawasa leaves east.
+Snort leaves east.
+Passage bend (s,w,e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+Balthas Beaver the Zombie ss‰‰t‰n‰ < matomatala matalax >
+p say haha
+Nuane [party]: haha
+"-. hp 22/259 | sp 163/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Dachante [wanted]: spider top
+Kawasa [party]: unp nuane
+ps
+Kawasa [party]: tms
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 22m  1s) | Exp/min:       630 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr 1125(1418)   55(  55) 393(410) |  50 |         4579 |
+| 2.2   Snort         fol  336( 406)  528(1006) 208(208) |  50 |         4579 |
+| 3.2   Nuane         fol   22( 259)  163( 980) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  497( 611)  398( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp 22/259 | sp 163/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"spr
+You remove Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 22/259 | sp 163/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' added to keep list.
+Modified keep status of 1 item.
+"-. hp 22/259 | sp 163/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 22/259 | sp 163/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear rusty ring
+You wear an ugly rusty ring.
+"-. hp 22/259 | sp 163/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Balthas claps her hands and whispers 'judicandus mangenic'
+Balthas casts her spell at Nuane.
+Balthas's spell makes you feel very much better!
+
+"-. hp 177/259 | sp 163/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Balthas [party]: unpain --> nuane
+
+"-. hp 177/259 | sp 163/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 180/259 | sp 188/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas utters the magic words 'harnaxan temnahecne'
+You feel your will getting stronger.
+p say Unpain up.
+ps
+Nuane [party]: Unpain up.
+"-. hp 446/525 | sp 188/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-",-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 22m 25s) | Exp/min:       630 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr 1125(1418)   55(  55) 393(410) |  50 |         4579 |
+| 2.2   Snort         fol  331( 406)  583(1006) 208(208) |  50 |         4579 |
+| 3.2   Nuane         fol  446( 525)  188( 966) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  497( 611)  190( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp 446/525 | sp 188/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+Balthas looks at Kawasa.
+
+"-. hp 446/525 | sp 188/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas claps her hands and whispers 'judicandus puorgo mangenic'
+Balthas's spell heals you. You feel really much better.
+
+"-. hp 511/525 | sp 188/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas mumbles 'jotai kr‰ppi‰.'
+Info: Anavrin enters the game.
+l
+There are no light sources here, but you can still see.
+Here the passageway turns south and begins to widen towards some huge cavern.
+An unnatural tunnel with a diameter of 10 feet leads to the west.
+To the east is the chasm bottom.
+Obvious exits are: s, w and e.
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+Balthas Beaver the Zombie ss‰‰t‰n‰ < matomatala matalax >
+"-. hp 515/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"ps
+,-----------------------------------------------------------------------------.
+| Party Name: matomatala matalax           (Members:  4) | Exp Tot:     14507 |
+| Created: Tue Sep 11 12:22:38 2001        ( 0h 22m 44s) | Exp/min:       630 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.2   Kawasa        ldr 1303(1418)   55(  55) 403(410) |  50 |         4579 |
+| 2.2   Snort         fol  392( 406)  679(1006) 208(208) |  50 |         4579 |
+| 3.2   Nuane         fol  515( 525)  260( 966) 218(218) |  50 |            0 |
+| ?.?   Balthas       mbr  592( 611)  183( 823) 232(232) |  50 |         5349 |
+`-----------------------------------------------------------------------------'
+"-. hp 515/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 515/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+
+"-. hp 515/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 515/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas [party]: hinusta vipell‰
+
+Balthas claps her hands and whispers 'judicandus puorgo mangenic'
+Balthas's spell heals you. You feel all better.
+"-. hp 525/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"blast
+You remove an ugly rusty ring.
+"-. hp 525/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' added to keep list.
+Modified keep status of 1 item.
+"-. hp 525/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 525/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear 5int
+You wear Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 525/525 | sp 260/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Saldas [wanted]: summon inside bc
+Kawasa [party]: ajeltaspa
+Balthas [party]: mik‰ sheippi?
+Kawasa leaves west.
+Snort leaves west.
+Burrowed cave (e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+A HUGE 50-foot Purple Worm... RUN!
+Your marvelous intellect avoids a nasty ambush.
+Kawasa starts concentrating on a new offensive skill.
+crush worm
+Snort starts concentrating on a new offensive spell.
+You start chanting.
+"-. hp 525/525 | sp 352/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 525/525 | sp 352/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is in very bad shape.
+"-. hp 525/525 | sp 352/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa breathes a blaze of magical fire that hits Purple worm!
+Purple worm WAILS as the magical fire SCORCHES!
+Psychic crush: ####
+p say Psychic crush : 4
+You skillfully cast the spell with greater haste.
+p say ghaste.
+Nuane [party]: Psychic crush : 4
+"-. hp 525/525 | sp 352/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: ghaste.
+"-. hp 525/525 | sp 352/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: vbs
+Purple worm misses Kawasa.
+Purple worm misses Kawasa.
+Purple worm successfully dodges Kawasa's bash.
+Kawasa bashes Purple worm with shield.
+Psychic crush: #
+p say Psychic crush : 1
+The purple worm spits at you, and you fail to dodge it.
+The purple worm hits Nuane with its spit.
+Info: Specialk enters the game.
+Snort [party]: Ray 1
+Balthas [party]: aih
+Purple worm misses Kawasa.
+Purple worm cuts Kawasa making rib bones snap and crack.
+Kawasa strokes Purple worm making small marks.
+Purple worm successfully dodges Kawasa's shield.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+You are stunned and unable to do anything.
+Snort [party]: Purple worm writhes
+crush worm
+You are stunned and unable to do anything.
+Snort starts concentrating on a new offensive spell.
+Kawasa [party]: Unpain OFF.
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.
+Purple worm misses Kawasa.
+Kawasa successfully dodges Purple worm's bite.
+Kawasa misses Purple worm.
+Kawasa bashes Purple worm with shield.
+The purple worm spits at you, and you fail to dodge it.
+The purple worm hits Nuane with its spit.
+crush worm
+You are stunned and unable to do anything.
+Purple worm misses Kawasa.
+Purple worm misses Kawasa.
+Kawasa misses Purple worm.
+Kawasa bashes Purple worm with shield.
+Kawasa tries to pound Purple worm, but his attack is easily blocked.
+The purple worm spits at you, and you fail to dodge it.
+Your skin MELTS exposing your internal organs!
+You are no longer stunned.
+You fall unconscious from the pain.
+The purple worm hits Nuane with its spit.
+Snort [party]: Ray 1
+crush worm
+You are unconscious, unable to do anything.
+Kawasa leaves east.
+Snort leaves east.
+Kawasa rescues your lame ass from danger.
+Passage bend (s,w,e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+Balthas Beaver the Zombie ss‰‰t‰n‰ < matomatala matalax >
+Blood pours from your wounds!
+Your skin MELTS exposing your internal organs!
+p say hohhoi
+Kawasa starts concentrating on a new skill.
+You are unconscious, unable to do anything.
+You feel like someone is helping you.
+Balthas starts concentrating on a new spell.
+p say hohhoi
+Nuane [party]: hohhoi
+"-. hp -37/404 | sp 225/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+spr
+You remove Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 0/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' added to keep list.
+Modified keep status of 1 item.
+"-. hp 0/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 0/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear rusty ring
+You wear an ugly rusty ring.
+"-. hp 0/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: jannut koittaa rippaa joka runil
+Balthas claps her hands and whispers 'judicandus pafzarmus'
+Balthas casts her spell at Nuane.
+Balthas's spell makes you feel really much better!
+
+"-. hp 389/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort extracts something from a pouch.
+Snort extracts something from a pouch.
+p say jehna
+Snort extracts something from a pouch.
+Nuane [party]: jehna
+"-. hp 389/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: ajeltaspa
+
+"-. hp 389/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"blast
+You remove an ugly rusty ring.
+"-. hp 389/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' added to keep list.
+Modified keep status of 1 item.
+"-. hp 389/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 389/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear 5int
+You wear Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 389/404 | sp 249/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa leaves west.
+Snort leaves west.
+Burrowed cave (e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+A HUGE 50-foot Purple Worm... RUN!
+Your knowledge about Purple worm's tactics allows you to evade the ambush.
+Kawasa starts concentrating on a new offensive skill.
+crush worm
+Snort [party]: Consealed
+You start chanting.
+"-. hp 389/404 | sp 249/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 389/404 | sp 249/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is in very bad shape.
+"-. hp 389/404 | sp 249/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Psychic crush: ####
+p say Psychic crush : 4
+You skillfully cast the spell with haste.
+p say haste.
+Nuane [party]: Psychic crush : 4
+"-. hp 389/404 | sp 249/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: haste.
+"-. hp 389/404 | sp 249/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm socks Kawasa causing a small wound.
+Purple worm cuts Kawasa snapping a collarbone.
+Kawasa strokes Purple worm causing a small scratch.
+Purple worm successfully dodges Kawasa's shield.
+Psychic crush: ##
+p say Psychic crush : 2
+You skillfully cast the spell with haste.
+p say haste.
+Snort [party]: Ray 1
+Nuane [party]: Psychic crush : 2
+"-. hp 389/404 | sp 249/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: haste.
+"-. hp 389/404 | sp 249/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa tries to dodge, but Purple worm is not fooled that easily!
+Purple worm kicks Kawasa causing a small wound.
+Purple worm chews Kawasa snapping back a limb.
+Purple worm successfully dodges Kawasa's bash.
+Purple worm successfully dodges Kawasa's shield.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm screams in pain.
+p say 0% resist.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Kawasa tries to pound Purple worm, but his attack is easily blocked.
+Snort [party]: Purple worm writhes
+crush worm
+Nuane [party]: Psychic crush HIT!
+"-. hp 358/397 | sp 92/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: 0% resist.
+"-. hp 358/397 | sp 92/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort starts concentrating on a new offensive spell.
+You do not have enough spell points to cast the spell.
+p say Out of sp.
+"-. hp 358/397 | sp 92/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 358/397 | sp 92/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is near death.
+"-. hp 358/397 | sp 92/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Nuane [party]: Out of sp.
+"-. hp 358/397 | sp 92/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa starts concentrating on a new offensive skill.
+Purple worm misses Kawasa.
+Purple worm cuts Kawasa forcing spinal discs to dislodge.
+Kawasa misses Purple worm.
+Purple worm successfully dodges Kawasa's shield.
+Kawasa starts concentrating on a new offensive skill.
+Purple worm socks Kawasa causing a nasty laceration.
+Purple worm misses Kawasa.
+Kawasa misses Purple worm.
+Kawasa bashes Purple worm with shield.
+Kawasa successfully dodges Purple worm's kick.
+Kawasa successfully parries Purple worm's bite.
+ ...AND counterattacks with ferocity.
+Kawasa misses Purple worm.
+Purple worm successfully parries Kawasa's shield.
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+The purple worm tries to hit you with its spit, but you avoid it easily.
+Snort starts concentrating on a new offensive spell.
+
+"-. hp 358/397 | sp 92/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa leaves east.
+Snort leaves east.
+Passage bend (s,w,e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+Balthas Beaver the Zombie ss‰‰t‰n‰ < matomatala matalax >
+p say nd
+Nuane [party]: nd
+"-. hp 358/397 | sp 92/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+spr
+You remove Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 358/397 | sp 92/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas [party]: yep
+keep 5int
+Item '5int' added to keep list.
+Modified keep status of 1 item.
+"-. hp 358/397 | sp 92/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 358/397 | sp 92/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear rusty ring
+You wear an ugly rusty ring.
+"-. hp 358/397 | sp 92/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Descad [wanted]: lere staff, 2x blue glove, tiburcio amulet, wis wand
+Kawasa [party]: tapetaa btw
+
+Balthas claps her hands and whispers 'judicandus puorgo mangenic'
+Balthas's spell heals you. You feel really much better.
+"-. hp 393/397 | sp 117/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa [party]: noi gulguhtrat kans :p
+Kawasa [party]: et saan prossan tms
+Kawasa [party]: ei oo rescue tapis viel
+
+Balthas starts concentrating on a new spell.
+Kawasa [party]: pit‰s saada 100 se
+"-. hp 393/397 | sp 117/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 393/397 | sp 117/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas claps her hands and whispers 'judicandus puorgo mangenic'
+Balthas's spell heals you. You feel all better.
+
+"-. hp 397/397 | sp 117/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+"-. hp 397/397 | sp 117/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas starts concentrating on a new spell.
+
+"-. hp 397/397 | sp 117/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"
+Pate [wanted]: party for tarmanav.
+"-. hp 397/397 | sp 117/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Balthas [party]: mees
+
+Balthas claps her hands and whispers 'judicandus ignius'
+Balthas casts her spell at Kawasa.
+"-. hp 397/397 | sp 187/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"blast
+You remove an ugly rusty ring.
+"-. hp 397/397 | sp 187/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep rusty ring
+Item 'rusty ring' added to keep list.
+Modified keep status of 1 item.
+"-. hp 397/397 | sp 187/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"keep 5int
+Item '5int' removed from keep list.
+Modified keep status of 1 item.
+"-. hp 397/397 | sp 187/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"wear 5int
+You wear Band of IQ [Made by: Krzysiek] labeled as 5int.
+"-. hp 397/397 | sp 187/966 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa leaves west.
+Snort leaves west.
+Burrowed cave (e).
+Snort the Duck < matomatala matalax >
+Kawasa Sekawa the Noble Draconian < matomatala matalax >
+A HUGE 50-foot Purple Worm... RUN!
+Your marvelous intellect avoids a nasty ambush.
+Dachante [wanted]: relo/heal fast
+Kawasa starts concentrating on a new offensive skill.
+crush worm
+Snort [party]: Consealed
+You start chanting.
+"-. hp 397/397 | sp 187/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"party say Psychic Crush -> worm 
+Nuane [party]: Psychic Crush -> worm
+"-. hp 397/397 | sp 187/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"scan all
+Purple worm is near death.
+"-. hp 397/397 | sp 187/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Psychic crush: ####
+p say Psychic crush : 4
+Nuane [party]: Psychic crush : 4
+"-. hp 397/397 | sp 187/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm misses Kawasa.
+Purple worm misses Kawasa.
+Kawasa thumps Purple worm inducing a spark which numbs a limb.
+Kawasa misses Purple worm.
+Psychic crush: ###
+p say Psychic crush : 3
+Snort [party]: Ray 1
+Nuane [party]: Psychic crush : 3
+"-. hp 397/397 | sp 187/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Purple worm misses Kawasa.
+Kawasa successfully parries Purple worm's bite.
+Kawasa misses Purple worm.
+Kawasa misses Purple worm.
+Psychic crush: ##
+p say Psychic crush : 2
+Snort fills up her cheeks with air and exhales 'cah mar nak grttzt'
+Snort holds aloft a steel arrowhead which glows softly and fades from view.
+Snort grins as her cold ray hits Purple worm.
+Nuane [party]: Psychic crush : 2
+"-. hp 397/397 | sp 187/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Snort [party]: Consealed
+Purple worm socks Kawasa causing a small wound.
+Kawasa successfully dodges Purple worm's bite.
+Purple worm successfully dodges Kawasa's bash.
+Kawasa bashes Purple worm with shield.
+Psychic crush: #
+p say Psychic crush : 1
+Nuane [party]: Psychic crush : 1
+"-. hp 397/397 | sp 187/980 | ep 218/218 | exp 17935 | cash 2720/234747 .-"Kawasa tries to pound Purple worm, but his attack is easily blocked.
+Purple worm socks Kawasa inducing a nasty lesion.
+Purple worm chews Kawasa mutilating intestinal tissue.
+Purple worm successfully dodges Kawasa's bash.
+Purple worm successfully parries Kawasa's shield.
+The purple worm tries to hit you with its spit, but you avoid it easily.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Purple worm's mind with your psychic attack!
+p say Psychic crush HIT!
+Purple worm is dogfood.
+Purple worm is DEAD, R.I.P.
+Snort [party]: Ray 1
+Nuane [party]: Psychic crush HIT!
+"-. hp 358/388 | sp 30/980 | ep 218/218 | exp 60320 | cash 2720/234747 .-"p kills
+,-----------------------------------------------------------------------------.
+|    6666: A dwarf guard standing guard                                       |
+|    7841: A dwarf gate guard                                                 |
+|  181883: A HUGE 50-foot Purple Worm... RUN!                                 |
+`-----------------------------------------------------------------------------'
+"-. hp 358/388 | sp 30/980 | ep 218/218 | exp 60320 | cash 2720/234747 .-"p say jehna
+Nuane [party]: jehna

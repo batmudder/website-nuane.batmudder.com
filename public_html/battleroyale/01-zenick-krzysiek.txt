@@ -1,0 +1,51 @@
+The Battle Royale Continues:
+Zenick and Krzysiek will fight to the death!
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Zenick: shake ball
+Krzysiek: touch tisau
+Krzysiek: remove all tisau
+Krzysiek: juggle tisau 3
+Krzysiek: wear tisau
+Krzysiek: wave wand at zenick
+Krzysiek: zap zenick with forget
+Krzysiek: cast 'blast vacuum'
+Zenick: look
+Zenick: cast 'electrocution'
+Zenick: invoke acid blast at krzysiek
+Zenick: invoke acid blast at krzysiek
+Zenick: cast 'electrocution' krzysiek
+Zenick: extract wand 3 from case
+Zenick: zap krzysiek with wand
+Zenick: store wand in case
+Zenick: cast 'electrocution'
+Zenick: zap krzysiek with dark wand
+Zenick: Hp 96%
+Zenick: zap krz
+Zenick: Hp 95%
+You feel that Krzysiek goes unconscious.
+Zenick: kkk
+Krzysiek: Hp -15%
+Zenick: Hp 95%
+Krzysiek: Hp -19%
+Zenick: Hp 95%
+Krzysiek: Hp -21%
+Zenick: Hp 95%
+Zenick: look
+Krzysiek: Hp -28%
+Zenick: Hp 95%
+Krzysiek died and thus loses this round!
+Zenick has won this round of the Battle Royale!
+Info: Krzysiek dies.

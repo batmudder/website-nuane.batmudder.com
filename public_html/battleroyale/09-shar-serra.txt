@@ -1,0 +1,154 @@
+The Battle Royale Continues:
+Shar and Serra will fight to the death!
+Serra: remove axe
+Serra: remove axe 2
+Serra: cast tiger claw
+Serra: kill shar
+Serra: read iw
+Serra: read flex
+Serra: read fsh
+Serra: read psiprot
+Serra: read aoh
+Shar: scan all
+Serra: read mirrors
+Shar: look
+Shar: Hp 96%
+Shar: look
+Shar: wave wand at serra
+Shar: remove wand
+Shar: wield axe
+Shar: grin
+Serra: scan all
+Shar: Hp 94%
+Shar: scan all
+Serra: scan all
+Shar: cast 'word of blasting'
+Shar: blook
+Shar: Hp 92%
+Shar: scan all
+Serra: remove axe
+Serra: remove axe 2
+Serra: cast tiger claw
+Serra: east
+Shar: Hp 92%
+Serra: get 1000 points from m3
+Shar: remove from right
+Shar: sigh
+Shar: wear replacing prismatic rod
+Shar: summon field
+Shar: remove prismatic rod
+Shar: wield battleaxe of the barbarian lords
+Shar: grin
+Shar: juggle prismatic rod 2
+Serra: get 1000 points from m4
+Shar: east
+Shar: scan all
+Shar: cast 'word of blasting'
+Serra: get 1000 points from m7
+Shar: Hp 90%
+Serra: Hp 99%
+Serra: west
+Serra: remove axe
+Serra: remove axe 2
+Serra: cast tiger claw
+Serra: scan all
+Shar: Hp 90%
+Serra: Hp 99%
+Shar: scan all
+Shar: cast 'word of blasting'
+Shar: Hp 90%
+Serra: Hp 83%
+Shar: scan all
+Shar: Hp 88%
+Serra: Hp 83%
+Shar: scan all
+Shar: cast 'word of blasting'
+Serra: cast word of blasting
+Serra: scan all
+Shar: Hp 88%
+Serra: Hp 64%
+Shar: scan all
+Serra: scan all
+Shar: Hp 88%
+Serra: Hp 64%
+Shar: scan all
+Shar: cast 'word of blasting'
+Serra: cast word of blasting
+Serra: scan all
+Shar: Hp 79%
+Serra: Hp 49%
+Shar: scan all
+Shar: cast 'word of blasting'
+Serra: read heal
+Serra: read heal
+Serra: read heal
+Serra: read heal
+Serra: read heal
+Shar: Hp 75%
+Serra: Hp 57%
+Shar: scan all
+Serra: cast word of blasting
+Serra: scan all
+Shar: Hp 65%
+Serra: Hp 57%
+Shar: scan all
+Serra: cast word of spite
+Serra: scan all
+Serra: inventory
+Shar: Hp 64%
+Serra: Hp 41%
+Shar: invoke black hole at amount 100
+Shar: scan all
+Shar: cast shattered feast at amount 100
+Serra: get 1000 points from m7
+Serra: get 1000 points from m4
+Serra: get 1000 points from m3
+Shar: Hp 64%
+Serra: Hp 41%
+Shar: scan all
+Serra: cast word of spite
+Serra: scan all
+Shar: Hp 59%
+Serra: Hp 41%
+Shar: scan all
+Serra: scan all
+Shar: use 'blood harvest'
+Shar: Hp 80%
+Serra: Hp 40%
+Shar: scan all
+Serra: scan all
+Serra: cast word of spite
+Serra: scan all
+Shar: Hp 78%
+Serra: Hp 40%
+Shar: scan all
+Shar: use 'blood harvest'
+Serra: scan all
+Shar: cast 'word of blasting'
+Shar: Hp 77%
+Serra: Hp 9%
+Shar: scan all
+Serra: scan all
+Serra: use iron palm
+Serra: inventory
+Shar: Hp 75%
+Serra: Hp 9%
+Shar: scan all
+Shar: use 'blood harvest'
+Shar: Hp 75%
+Serra: Hp -8%
+Shar: scan all
+Shar: Hp 75%
+Serra: Hp -9%
+Shar: scan all
+Shar: Hp 75%
+Serra: Hp -22%
+Shar: scan all
+Shar: Hp 75%
+Serra: Hp -30%
+Shar: scan all
+Shar: Hp 75%
+Serra: Hp -32%
+Serra died and thus loses this round!
+Shar has won this round of the Battle Royale!
+Info: Serra dies.

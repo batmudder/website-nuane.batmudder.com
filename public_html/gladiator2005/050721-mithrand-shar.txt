@@ -1,0 +1,4483 @@
+You close team 2 door.
+The arena master shouts 'Team 1 consists of Shar'
+The arena master shouts 'Team 2 consists of Mithrand'
+The arena master shouts 'All teams ready! Let the fight begin!'
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Mithrand's demon  feels easier to control than usual.
+Mithrand's spider demon draws power from you.
+H+479 E S-105 $ X
+A strong force stops you from going west.
+
+>>>>1749/1749 452/452 866/968 E132860 $7374 U99 102 AOH T
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+You read the scroll and feel the magic flowing through you.
+You create a small sphere of neutralization.
+The scroll crumbles to dust, its powers spent.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1749/1749 452/452 866/968 E132860 $7374 U97 95 AOH T
+
+You start chanting.
+You surreptitiously conceal your spell casting.
+Spider demon control: #
+Your heavy burden slows down your casting.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You sizzle with magical energy.
+H E S+102 $ X
+Spider demon control: #
+
+>>>>1749/1749 452/452 968/968 E132860 $7374 U97 84 AOH T
+
+You stand firmly and chant 'spider demoncont/sac'
+You feed Mithrand's spider demon's hunger with your ritual.
+H E S-33 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1749/1765 452/456 935/977 E132860 $7374 U97 62 AOH T
+
+Spider demon control: #
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You stand firmly and chant 'spider demoncont/sac'
+You feed Mithrand's spider demon's hunger with your ritual.
+H E S-33 $ X
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1749/1777 452/460 902/986 E132860 $7374 U97 63 AOH T
+
+A sphere floats here.
+You remove a steel ring labeled as <M> <red glow>.
+You twist the ring and suddenly you become invisible.
+You remove an iron ring called 'Twister'.
+
+>>>>1749/1777 452/460 902/986 E132860 $7374 U97 57 AOH T invis
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+
+>>>>1749/1777 452/460 902/986 E132860 $7374 U97 51 AOH T invis
+
+Some sort of magical force field prevents you from peering northwest.
+You feel fully healed.
+You sizzle with magical energy.
+H+28 E+8 S+84 $ X
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U97 48 AOH T invis
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+The sphere floats west.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U97 42 AOH T invis
+
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+Small sphere is floating here
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U97 34 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+O-yoroi arrives from northwest.
+O-yoroi leaves northwest.
+This armour is but a thin band, intended to be worn about the finger. The
+physical protection offered is obviously quite small. However, many sorcerers
+and alchemists have been known to endow rings with magical properties.
+This armour is in AWESOME condition.
+It looks very light weight.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U97 26 AOH T invis
+
+You cannot go that way.
+Arska shouts 'Grotlik died on her knees!'
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U97 19 AOH T invis
+
+Ignoring players below level 99.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+A sphere floats here.
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U97 10 AOH T invis
+
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U97 4 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U97 -2 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Spider Queen smiles upon you and helps you control the demon.
+H E S-14 $ X
+A strong force stops you from going west.
+
+>>>>1777/1777 460/460 972/986 E132860 $7374 U97 101 AOH T invis
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 972/986 E132860 $7374 U97 95 AOH T invis
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+You feel no longer protected from being stunned.
+Mithrand {report}: ### IronWill IS OFF ###
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1777/1777 460/460 972/986 E132860 $7374 U97 89 AOH T invis
+
+One more typo and yer dead.
+You sizzle with magical energy.
+H E S+14 $ X
+You read the scroll and feel the magic flowing through you.
+Your prayer is answered.
+Mithrand's chanting appears to do absolutely nothing.
+The scroll crumbles to dust, its powers spent.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 80 AOH T invis
+
+Mithrand {report}: ### unstun UP last: (n/u) ###
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You cannot go that way.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 74 AOH T invis
+
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 67 AOH T invis
+
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 61 AOH T invis
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 54 AOH T invis
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 48 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+'foe' is now aliased to 'o-yoroi'.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 39 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+Your flex shield wobbles, PINGs and vanishes.
+Mithrand {report}: ### flex shield DOWN: 3:56 ###
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+A strong force stops you from going northwest.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 33 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 27 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 21 AOH T invis
+
+You cannot go that way.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1777/1777 460/460 986/986 E132860 $7374 U96 15 AOH T invis
+
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Someone's demon  feels easier to control than usual.
+Someone's spider demon draws power from you.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1777/1777 460/460 878/986 E132860 $7374 U96 102 AOH T invis
+
+H E S-108 $ X
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 878/986 E132860 $7374 U96 96 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 878/986 E132860 $7374 U96 90 AOH T invis
+
+H E S+95 $ X
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1777/1777 460/460 973/986 E132860 $7374 U96 89 AOH T invis
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1777/1777 460/460 973/986 E132860 $7374 U96 83 AOH T invis
+
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1777/1777 460/460 973/986 E132860 $7374 U96 77 AOH T invis
+
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 973/986 E132860 $7374 U96 71 AOH T invis
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+SAVED.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 973/986 E132860 $7374 U96 65 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+You sizzle with magical energy.
+H E S+13 $ X
+O-yoroi arrives from north.
+You bore O-yoroi.
+You sink O-yoroi.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1687/1777 460/460 986/986 E132860 $7374 U96 59 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ #1.#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+H-90 E S $ X
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1687/1777 460/460 986/986 E132860 $7374 U96 53 AOH T invis
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1687/1777 460/460 986/986 E132860 $7374 U96 47 AOH T invis
+
+You start chanting.
+You surreptitiously conceal your spell casting.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Blood seeker: ##########
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1687/1777 460/460 986/986 E132860 $7374 U96 41 AOH T invis
+
+Blood seeker: #########
+Your heavy burden slows down your casting.
+H+20 E S $ X
+Blood seeker: #########
+You skillfully cast the spell with greater haste.
+You concentrate on your surroundings:
+  +---+ +---+      
+  | P + +   |      
+  +-+-\ /-+-+      
+       \  |        
+  +-+-/ \-+-+      
+  |   +-+   |      
+  +---+ +---+      
+
+>>>>1707/1777 460/460 986/986 E132860 $7374 U96 35 AOH T invis
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Blood seeker: ######
+You skillfully cast the spell with greater haste.
+Blood seeker: ###
+Blood seeker: ##
+You skillfully cast the spell with haste.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1707/1777 460/460 986/986 E132860 $7374 U96 29 AOH T invis
+
+You turn visible.
+You stroke your weapon and say ''blood seeker'
+Your prayer to the powers of destruction are answered.
+The kraftigar seems to grow sleeker and gleam.
+H E S-233 $ X
+'vc' is a command-alias to 'remove weapons^wield trident 2^wield trident'.
+
+>>>>1707/1777 460/460 753/986 E132860 $7374 U96 24 AOH T
+
+You remove kraftigar, trident of darkness labeled as <R+> <red glow> and kraftigar, trident of darkness labeled as <R+> <red glow>.
+You wield kraftigar, trident of darkness labeled as <R+> <red glow> in your right hand.
+You wield kraftigar, trident of darkness labeled as <R+> <red glow> in your left hand.
+Patrick amberley shouts 'Reima bites the dust!'
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1707/1777 460/460 753/986 E132860 $7374 U96 18 AOH T
+
+Blood seeker: ##########
+You skillfully cast the spell with greater haste.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+H+27 E S+84 $ X
+Blood seeker: #######
+Blood seeker: ######
+You skillfully cast the spell with greater haste.
+You interrupt the chant in order to start a new chant.
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1734/1777 460/460 837/986 E132860 $7374 U96 12 AOH T
+>>>>1734/1777 460/460 837/986 E132860 $7374 U96 12 AOH T
+
+Spider demon control: #
+You stand firmly and chant 'spider demoncont/sac'
+You feed Mithrand's spider demon's hunger with your ritual.
+H E S-33 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1734/1777 460/460 804/986 E132860 $7374 U96 64 AOH T
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Damn armament: ###
+Damn armament: ##
+You feel some power hasten your casting.
+You feel infernal energies flowing to your body from your heart.
+You point toward the object and shout 'damn armament'
+You call a curse upon kraftigar.
+H E S-80 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1734/1777 460/460 724/986 E132860 $7374 U96 57 AOH T D-998
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Blood seeker: ##########
+You skillfully cast the spell with greater haste.
+Blood seeker: #######
+You skillfully cast the spell with greater haste.
+You feel unearthly power hasten your casting.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1734/1777 460/460 724/986 E132860 $7374 U96 55 AOH T D-996
+
+Blood seeker: ##
+
+>>>>1734/1777 460/460 724/986 E132860 $7374 U96 53 AOH T D-994
+
+H+31 E S+106 $ X
+Blood seeker: #
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1765/1777 460/460 830/986 E132860 $7374 U96 50 AOH T D-991
+
+You stroke your weapon and say ''blood seeker'
+This spell cannot be stacked.
+H E S-233 $ X
+
+>>>>1765/1777 460/460 597/986 E132860 $7374 U96 43 AOH T D-984
+
+You cannot go that way.
+You remove kraftigar, trident of darkness labeled as <R+> <red glow> and kraftigar, trident of darkness labeled as <R+> <red glow>.
+You wield kraftigar, trident of darkness labeled as <R+> <red glow> in your right hand.
+
+>>>>1765/1777 460/457 597/986 E132860 $7374 U96 37 AOH T D-978
+
+You wield kraftigar, trident of darkness labeled as <R+> <red glow> in your left hand.
+You start chanting.
+You surreptitiously conceal your spell casting.
+This weapon is not just made to kill. It is made to mutilate, dismember,
+torture and kill. Its substance seems to absorb light hungrily.
+It is labeled as '<R+>'.
+
+The weapon is dripping with violet poison.
+It is surrounded by a red glow.
+It has a curse of channeling upon it.
+This weapon is in AWESOME condition.
+It looks a bit heavy.
+
+>>>>1765/1777 460/460 597/986 E132860 $7374 U96 31 AOH T D-972
+>>>>1765/1777 460/460 597/986 E132860 $7374 U96 30 AOH T D-971
+
+Blood seeker: ##########
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You interrupt the spell.
+You start concentrating on the skill.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You break your skill attempt.
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1765/1777 460/460 597/986 E132860 $7374 U96 25 AOH T D-966
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Damn armament: ###
+
+>>>>1765/1777 460/460 597/986 E132860 $7374 U96 22 AOH T D-963
+
+You feel fully healed.
+H+12 E S+108 $ X
+Damn armament: ##
+Your heavy burden slows down your casting.
+
+>>>>1777/1777 460/460 705/986 E132860 $7374 U96 19 AOH T D-960
+
+Damn armament: ##
+You skillfully cast the spell with haste.
+Your heavy burden slows down your casting.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Damn armament: #
+You point toward the object and shout 'damn armament'
+This object is already damned, but you decide to damn it again! You can never
+damn too much after all
+You call a curse upon kraftigar.
+H E S-80 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1777/1777 460/460 625/986 E132860 $7374 U96 11 AOH T D-1000
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 625/986 E132860 $7374 U96 9 AOH T D-998
+
+Spider demon control: #
+You stand firmly and chant 'spider demoncont/sac'
+You feed Mithrand's spider demon's hunger with your ritual.
+H E S-33 $ X
+
+>>>>1777/1777 460/460 592/986 E132860 $7374 U96 64 AOH T D-993
+
+You start concentrating on the skill.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+H E S+98 $ X
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 690/986 E132860 $7374 U96 58 AOH T D-987
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You concentrate on your surroundings:
+  +---+ +---+      
+  | P + +   |      
+  +-+-\ /-+-+      
+       \  |        
+  +-+-/ \-+-+      
+  |   +-+ P |      
+  +---+ +---+      
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+You concentrate on your surroundings:
+  +---+ +---+      
+  | P +-+ P |      
+  +-+-\ /-+-+      
+       /  |        
+  +-+-/ \-+-+      
+  |   + +   |      
+  +---+ +---+      
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 690/986 E132860 $7374 U96 53 AOH T D-981
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1777/1777 460/460 690/986 E132860 $7374 U96 48 AOH T D-977
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Prot:  Unst(4:1) AoH(7:46) fabs(6:11) Unp(7:32)
+You cannot go that way.
+The psionic shield vanishes.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1777/1631 460/460 690/1205 E132860 $7374 U96 42 AOH T D-971
+
+H-146 E S $ X
+
+>>>>1631/1631 460/460 690/1205 E132860 $7374 U96 40 AOH T D-969
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+H E S+100 $ X
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1631/1631 460/460 790/1205 E132860 $7374 U96 35 AOH T D-964
+>>>>1631/1631 460/460 790/1205 E132860 $7374 U96 33 AOH T D-962
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1631/1631 460/460 790/1205 E132860 $7374 U96 27 AOH T D-956
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1631/1631 460/460 790/1205 E132860 $7374 U96 21 AOH T D-950
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1631/1631 460/460 790/1205 E132860 $7374 U96 16 AOH T D-944
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You start chanting.
+You surreptitiously conceal your spell casting.
+You are not in a party.
+
+>>>>1631/1631 460/460 790/1205 E132860 $7374 U96 13 AOH T D-942
+
+Prot:  Unst(4:34) AoH(8:19) fabs(6:44) Unp(8:5)
+Spider demon control: #
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You stand firmly and chant 'spider demoncont/sac'
+You feed Mithrand's spider demon's hunger with your ritual.
+H E S-33 $ X
+You start concentrating on the skill.
+
+>>>>1631/1631 460/460 757/1205 E132860 $7374 U96 64 AOH T D-936
+
+You cannot go that way.
+H E S+99 $ X
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1631/1631 460/460 856/1205 E132860 $7374 U96 62 AOH T D-934
+
+A strong force stops you from going west.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1631/1631 460/460 856/1205 E132860 $7374 U96 57 AOH T D-928
+
+A strong force stops you from going north.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1631/1631 460/460 856/1205 E132860 $7374 U96 39 AOH T D-911
+
+H E S+103 $ X
+You cannot go that way.
+
+>>>>1631/1631 460/460 959/1205 E132860 $7374 U96 37 AOH T D-909
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Ignoring players below level 50.
+
+>>>>1631/1631 460/460 959/1205 E132860 $7374 U96 29 AOH T D-901
+
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+
+>>>>1631/1631 460/460 959/1205 E132860 $7374 U96 23 AOH T D-895
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1631/1631 460/460 959/1205 E132860 $7374 U96 21 AOH T D-893
+
+You start chanting.
+You surreptitiously conceal your spell casting.
+You are not in a party.
+
+>>>>1631/1631 460/460 959/1205 E132860 $7374 U96 18 AOH T D-890
+
+Spider demon control: #
+You stand firmly and chant 'spider demoncont/sac'
+You feed Mithrand's spider demon's hunger with your ritual.
+H E S-33 $ X
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1631/1631 460/460 926/1205 E132860 $7374 U96 65 AOH T D-885
+
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+'foe' is aliased to 'o-yoroi'.
+H E S+103 $ X
+No such target.
+
+>>>>1631/1631 460/460 1029/1205 E132860 $7374 U96 55 AOH T D-875
+
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1631/1631 460/460 1029/1205 E132860 $7374 U96 49 AOH T D-869
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You drink the contents of a flask containing fiery bright yellow liquid labeled as dexbost.
+Wow! You feel magically empowered... your mind momentarily expands!
+You save the rest of the potion.
+You are so full of liquid you feel like you might burst.
+
+>>>>1631/1631 460/460 1029/1205 E132860 $7374 U96 41 AOH T D-861
+
+Your stomach makes a horrible noise.
+Your nose twitches.
+You cannot go that way.
+
+>>>>1631/1631 460/460 1029/1205 E132860 $7374 U96 35 AOH T D-855
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+H E S+110 $ X
+Your hands feel itchy.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1631/1631 460/460 1139/1205 E132860 $7374 U96 32 AOH T D-852
+
+You are not doing anything at the moment.
+You cannot go that way.
+You feel like you could faint any minute.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Flash of light blinds you for a moment.
+A strong force stops you from going west.
+
+>>>>1631/1631 460/460 1139/1205 E132860 $7374 U96 26 AOH T D-846
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+Your stomach makes a horrible noise.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You cast the spell.
+You feel like normal yourself again.
+
+>>>>1631/1631 460/486 1139/1205 E132860 $7374 U96 20 AOH T D-840
+>>>>1631/1631 460/486 1139/1205 E132860 $7374 U96 17 AOH T D-837
+
+You drink the contents of a flask containing oily bright yellow liquid labeled as intbost.
+Wow! You feel magically empowered... your mind momentarily expands!
+You save the rest of the potion.
+You are so full of liquid you feel like you might burst.
+You cannot go that way.
+You cannot go that way.
+You cannot go that way.
+You feel like your cheeks are burning.
+You cannot go that way.
+You cannot go that way.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1631/1631 460/486 1139/1205 E132860 $7374 U96 11 AOH T D-831
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You breathe a puff of magic.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You feel unease.
+You sizzle with magical energy.
+H E+19 S+66 $ X
+You put 0 points of your attack skill to parry.
+Your total defense factor is: 31.
+
+>>>>1631/1631 479/486 1205/1205 E132860 $7374 U96 4 AOH T D-824
+
+You feel like you could faint any minute.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+Your hand shakes.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+
+>>>>1631/1631 479/486 1205/1205 E132860 $7374 U96 -1 AOH T D-818
+
+Your nose twitches.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+You see everything in pink for a moment.
+Mithrand's demon  feels easier to control than usual.
+Mithrand's spider demon draws power from you.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1631/1631 479/486 1089/1205 E132860 $7374 U96 103 AOH T D-815
+
+H E S-116 $ X
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+SAVED.
+
+>>>>1631/1631 479/486 1089/1205 E132860 $7374 U96 97 AOH T D-809
+
+O-yoroi arrives from north.
+O-yoroi scratches you.
+You sink O-yoroi.
+You crater O-yoroi.
+H-4 E S $ X
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+O-yoroi arrives from east.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1016/1630 479/486 1089/1205 E132860 $7374 U96 97 AOH T D-808
+
+O-yoroi arrives from north.
+O-yoroi bashes you with shield.
+You sink O-yoroi.
+You bore O-yoroi.
+H-612 E S $ X
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves west.
+O-yoroi arrives from north.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves west.
+O-yoroi arrives from north.
+O-yoroi sucks some of your blood!  OUCH!
+O-yoroi leaves west.
+O-yoroi arrives from north.
+O-yoroi sucks some of your blood!  OUCH!
+You cast the spell.
+You feel like normal yourself again.
+O-yoroi leaves west.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>766/1629 479/486 1089/1232 E132860 $7374 U96 96 AOH T D-808
+
+H-249 E S $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>766/1629 479/486 1089/1232 E132860 $7374 U96 90 AOH T D-802
+
+H+20 E+7 S+30 $ X
+Shattered feast: ########
+You skillfully cast the spell with haste.
+You read the scroll and feel the magic flowing through you.
+You heal really much of your wounds.
+The scroll crumbles to dust, its powers spent.
+
+>>>>1134/1629 486/486 1119/1232 E132860 $7374 U94 88 AOH T D-800
+
+H+348 E S $ X
+Shattered feast: ######
+A strong force stops you from going west.
+Shattered feast: #####
+You skillfully cast the spell with greater haste.
+Your heavy burden slows down your casting.
+Shattered feast: ###
+You skillfully cast the spell with greater haste.
+Your heavy burden slows down your casting.
+Shattered feast: #
+
+>>>>1134/1629 486/486 1119/1232 E132860 $7374 U94 79 AOH T D-791
+
+You kneel and whisper 'shattered feast'
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+H+302 E S-54 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1436/1629 486/486 1065/1232 E132860 $7374 U94 76 AOH T D-788
+
+Shattered feast: ########
+You skillfully cast the spell with greater haste.
+Shattered feast: #####
+You skillfully cast the spell with greater haste.
+Shattered feast: ##
+You skillfully cast the spell with haste.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+
+>>>>1436/1629 486/486 1065/1232 E132860 $7374 U94 68 AOH T D-780
+
+You kneel and whisper 'shattered feast'
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+H+193 E S-54 $ X
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1629/1629 486/486 1011/1232 E132860 $7374 U94 64 AOH T D-776
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+H E S+82 $ X
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1629/1629 486/486 1093/1232 E132860 $7374 U94 62 AOH T D-774
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+A strong force stops you from going north.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1629/1629 486/486 1093/1232 E132860 $7374 U94 57 AOH T D-768
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1629/1629 486/486 1093/1232 E132860 $7374 U94 50 AOH T D-762
+>>>>1629/1629 486/486 1093/1232 E132860 $7374 U94 50 AOH T D-762
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You start chanting.
+You surreptitiously conceal your spell casting.
+Shattered feast: ########
+You skillfully cast the spell with greater haste.
+
+>>>>1629/1629 486/486 1093/1232 E132860 $7374 U94 45 AOH T D-757
+
+Shattered feast: #####
+Your heavy burden slows down your casting.
+You lose your concentration and cannot cast the spell.
+You drink the contents of a flask containing luminous bright yellow liquid labeled as strbost.
+Wow! You feel magically empowered... your mind momentarily expands!
+You save the rest of the potion.
+You are so full of liquid you feel like you might burst.
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Your hand shakes.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1629/1629 486/486 1093/1232 E132860 $7374 U94 39 AOH T D-751
+
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Your stomach feels funny.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Shar arrives from west.
+Shar bashes you with shield.
+You bore Shar.
+H-1 E S $ X
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+A strong force stops you from going west.
+
+>>>>1466/1628 486/486 1093/1232 E132860 $7374 U94 36 AOH T D-748
+
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+Shar arrives from west.
+Shar sucks some of your blood!  OUCH!
+Shar leaves south.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+ h r  polly   the Winter Li h  te   1>
+You sink Shar.
+You bore Shar.
+H-895 E S $ X
+Shar leaves west.
+H+19 E S+26 $ X
+Your tongue swells.
+You cannot go that way.
+
+>>>>752/1628 486/486 1119/1232 E132860 $7374 U94 35 AOH T D-747
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+A strong force stops you from going west.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Your hand shakes.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+You cannot go that way.
+A strong force stops you from going west.
+You cannot go that way.
+
+>>>>752/1628 486/486 1119/1232 E132860 $7374 U94 29 AOH T D-741
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Your hands feel itchy.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You read the scroll and feel the magic flowing through you.
+You create 8 mirror images.
+Suddenly 8 images of yourself appear.
+The scroll crumbles to dust, its powers spent.
+You are unable to cast spells.
+Your hands feel itchy.
+You read the scroll and feel the magic flowing through you.
+You heal really much of your wounds.
+The scroll crumbles to dust, its powers spent.
+
+>>>>1100/1628 486/486 1119/1232 E132860 $7374 U90 22 AOH T D-734
+>>>>1100/1628 486/486 1119/1232 E132860 $7374 U90 21 AOH T D-733
+
+H+348 E S $ X
+You cast the spell.
+You feel like normal yourself again.
+You start chanting.
+You surreptitiously conceal your spell casting.
+Shattered feast: ########
+You skillfully cast the spell with haste.
+
+>>>>1100/1628 486/498 1119/1232 E132860 $7374 U90 17 AOH T D-729
+
+Shattered feast: ######
+You skillfully cast the spell with greater haste.
+Shattered feast: ###
+You skillfully cast the spell with greater haste.
+H+24 E+12 S+86 $ X
+You kneel and whisper 'shattered feast'
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+H+272 E S-54 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1396/1628 498/498 1151/1232 E132860 $7374 U90 7 AOH T D-719
+
+Shattered feast: ########
+You skillfully cast the spell with greater haste.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1396/1628 498/498 1151/1232 E132860 $7374 U90 2 AOH T D-714
+
+Shattered feast: #####
+You skillfully cast the spell with haste.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Shattered feast: ###
+You skillfully cast the spell with greater haste.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Spider Queen smiles upon you and helps you control the demon.
+H E S-38 $ X
+You kneel and whisper 'shattered feast'
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+H+232 E S-54 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1628/1628 498/498 1059/1232 E132860 $7374 U90 101 AOH T D-707
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Reaping of bile: ##########
+
+>>>>1628/1628 498/498 1059/1232 E132860 $7374 U90 98 AOH T D-704
+
+Reaping of bile: #########
+You skillfully cast the spell with greater haste.
+Reaping of bile: ######
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+
+>>>>1628/1628 498/498 1059/1232 E132860 $7374 U90 91 AOH T D-697
+
+Shar arrives from northwest.
+You bore Shar.
+You bore Shar.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar sucks some of your blood!  OUCH!
+Shar leaves northwest.
+All of your images vanish!
+Your movement prevents you from casting the spell.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>413/1628 498/498 1059/1232 E132860 $7374 U90 90 AOH T D-696
+
+H-1215 E S $ X
+You read the scroll and feel the magic flowing through you.
+This location is now surrounded in a shimmering blue forcefield.
+The scroll crumbles to dust, its powers spent.
+Mithrand {report}: ### shelter ACTIVE ###
+You start chanting.
+You surreptitiously conceal your spell casting.
+H+21 E S+29 $ X
+Shattered feast: ########
+You skillfully cast the spell with greater haste.
+Shattered feast: #####
+You skillfully cast the spell with greater haste.
+Shattered feast: ##
+You skillfully cast the spell with haste.
+You kneel and whisper 'shattered feast'
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+H+260 E S-54 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>694/1628 498/498 1034/1232 E132860 $7374 U89 77 AOH T D-683
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. A shimmering blue force
+          field surrounds this area. 
+          
+Obvious exits are: n, ne and e.
+Shattered feast: ########
+You skillfully cast the spell with greater haste.
+You feel unearthly power hasten your casting.
+A crackling blue flash momentarily surrounds you and then vanishes.
+Mithrand {report}: ### energy channeling DOWN: 1:47:16 ###
+You have three shls.
+You interrupt the chant in order to start a new chant.
+You start chanting.
+You surreptitiously conceal your spell casting.
+Shattered feast: ########
+You skillfully cast the spell with haste.
+
+>>>>694/1628 498/498 1034/1232 E132860 $7374 U89 71 AOH T D-677
+
+Shattered feast: ######
+You skillfully cast the spell with greater haste.
+You have no force_absorptions.
+Shattered feast: ###
+
+>>>>694/1628 498/498 1034/1232 E132860 $7374 U89 65 AOH T D-671
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. A shimmering blue force
+          field surrounds this area. 
+          
+Obvious exits are: n, ne and e.
+Shattered feast: ##
+You skillfully cast the spell with haste.
+You kneel and whisper 'shattered feast'
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+H+361 E S-54 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1055/1628 498/498 980/1232 E132860 $7374 U89 59 AOH T D-665
+
+A transparent flash momentarily surrounds you and then vanishes.
+Mithrand {report}: ### psychic sanctuary DOWN 1:47:31 ###
+
+>>>>1055/1628 498/498 980/1232 E132860 $7374 U89 57 AOH T D-663
+
+H+27 E S+73 $ X
+Shattered feast: ########
+H+10 E S+10 $ X
+Shattered feast: #######
+
+>>>>1092/1628 498/498 1063/1232 E132860 $7374 U89 53 AOH T D-659
+
+Shattered feast: ######
+Shattered feast: #####
+A dull black flash momentarily surrounds you and then vanishes.
+Mithrand {report}: ### ether boundary DOWN: 1:47:43 ###
+
+>>>>1092/1628 498/498 1063/1232 E132860 $7374 U89 47 AOH T D-653
+
+A golden flash momentarily surrounds you and then vanishes.
+Mithrand {report}: ### magic dispersion DOWN: 1:47:44 ###
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. A shimmering blue force
+          field surrounds this area. 
+          
+Obvious exits are: n, ne and e.
+Shattered feast: ####
+You skillfully cast the spell with greater haste.
+Shattered feast: #
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. A shimmering blue force
+          field surrounds this area. 
+          
+Obvious exits are: n, ne and e.
+You kneel and whisper 'shattered feast'
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+H+346 E S-54 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1438/1628 498/498 1009/1232 E132860 $7374 U89 41 AOH T D-647
+
+Shattered feast: ########
+Shattered feast: #######
+You skillfully cast the spell with greater haste.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. A shimmering blue force
+          field surrounds this area. 
+          
+Obvious exits are: n, ne and e.
+
+>>>>1438/1628 498/498 1009/1232 E132860 $7374 U89 34 AOH T D-640
+
+Shattered feast: ####
+You skillfully cast the spell with greater haste.
+H+32 E S+105 $ X
+Shattered feast: #
+You kneel and whisper 'shattered feast'
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+H+158 E S-54 $ X
+
+>>>>1628/1628 498/498 1065/1232 E132860 $7374 U89 26 AOH T D-632
+
+H E S+5 $ X
+Prot:  Unst(9:46) AoH(13:31) fabs(11:56) Unp(13:17)
+You start chanting.
+You surreptitiously conceal your spell casting.
+Spider demon control: #
+
+>>>>1628/1628 498/498 1065/1232 E132860 $7374 U89 20 AOH T D-626
+
+You stand firmly and chant 'spider demoncont/sac'
+You feed Mithrand's spider demon's hunger with your ritual.
+H E S-33 $ X
+You drink the contents of a flask containing watery bright green liquid labeled as psionic_shield.
+Wow! You feel magically empowered... your mind momentarily expands!
+That was the last dose.
+You are so full of liquid you feel like you might burst.
+
+>>>>1628/1628 498/498 1032/1232 E132860 $7374 U89 63 AOH T D-620
+
+Your tongue swells.
+A green flash momentarily surrounds you and then vanishes.
+Mithrand {report}: ### toxic dilution DOWN: 1:48:20 ###
+Your stomach makes a horrible noise.
+You feel like something abnormal is about to happen.
+H E S+115 $ X
+Psionic waves surge through your body and mind!
+You feel like normal yourself again.
+A skin brown flash momentarily surrounds you and then vanishes.
+Mithrand {report}: ### force absorption DOWN: 12:17 ###
+
+>>>>1628/1787 498/498 1147/993 E132860 $7374 U102 51 AOH T D-608
+
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. A shimmering blue force
+          field surrounds this area. 
+          
+Obvious exits are: n, ne and e.
+
+>>>>1628/1787 498/498 1147/993 E132860 $7374 U102 49 AOH T D-606
+
+H E S-154 $ X
+
+>>>>1628/1787 498/498 993/993 E132860 $7374 U102 47 AOH T D-604
+
+You start chanting.
+
+>>>>1646/1787 498/498 993/993 E132860 $7374 U102 43 AOH T D-600
+
+H+18 E S $ X
+You peer north:
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #1.#    interesting feature of this dull land is the
+  #@.#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+You clap your hands and whisper 'cure serious wounds'
+You heal very much of your own wounds.
+H+90 E S-29 $ X
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1736/1787 498/498 964/993 E132860 $7374 U102 39 AOH T D-596
+
+You interrupt the chant in order to start a new chant.
+You start chanting.
+You surreptitiously conceal your spell casting.
+Spider demon control: #
+You peer north:
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #1.#    interesting feature of this dull land is the
+  #@.#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+You stand firmly and chant 'spider demoncont/sac'
+You feed Mithrand's spider demon's hunger with your ritual.
+H E S-33 $ X
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Small sphere is floating here
+S ar  p ll on the W nt r Lic  <te m 1>
+You bore Shar.
+Shar bashes you with shield.
+H-1 E S $ X
+
+>>>>1735/1786 498/498 931/993 E132860 $7374 U102 64 AOH T D-588
+
+Shar utters the magic words 'neutralize field'
+Shar creates a small sphere which floats in the air.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+You read the scroll and feel the magic flowing through you.
+This location is now surrounded in a shimmering blue forcefield.
+The scroll crumbles to dust, its powers spent.
+Mithrand {report}: ### shelter ACTIVE ###
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+A sphere floats here.
+You read the scroll and feel the magic flowing through you.
+The sphere neutralizes field effects.
+The scroll crumbles to dust, its powers spent.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Small sphere is floating here
+Sha  Apolly n  h  W   er Li   <t a   >
+You bore Shar.
+Shar jostles you.
+Shar bashes you with shield.
+H-5 E S $ X
+
+>>>>1730/1784 498/498 931/993 E132860 $7374 U98 60 AOH T D-584
+
+A strong force stops you from going east.
+Nomiculious tells you 'hpmax 525 now.'
+Shar is in a good shape.
+'foe' is now aliased to 'Shar'.
+You sink Shar.
+You sink Shar.
+Shar waves her index finger while uttering 'cold ray'
+A cold ray hits you.
+A cold ray hits you.
+That really HURT!
+Shar starts concentrating on a new offensive spell.
+A strong force stops you from going south.
+
+>>>>1269/1701 498/498 931/993 E132860 $7374 U98 56 AOH T D-580
+
+A strong force stops you from going east.
+The sphere floats south.
+You read the scroll and feel the magic flowing through you.
+You heal really much of your wounds.
+The scroll crumbles to dust, its powers spent.
+
+>>>>1701/1701 498/498 931/993 E132860 $7374 U96 55 AOH T D-579
+
+H-29 E S $ X
+You bore Shar.
+Shar seems hurt and confused.
+You bore Shar.
+Shar jostles you.
+Your armours absorb some of the damage.
+H-1 E S $ X
+You throw the contents of a flask containing cloudy bright green liquid labeled as fukju at Shar
+Wow! You feel magically empowered... your mind momentarily expands!
+You save the rest of the potion.
+
+>>>>1700/1700 498/498 931/993 E132860 $7374 U96 53 AOH T D-577
+
+Shar is momentarily engulfed in energy
+Shar starts concentrating on a new offensive spell.
+You bore Shar.
+You bore Shar.
+Shar jostles you.
+H-3 E S $ X
+Flash of light blinds you for a moment.
+A sphere floats here.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Small sphere is floating here
+Sh r Apol y    h   int   Lich <team 1>
+
+>>>>1697/1699 498/498 931/993 E132860 $7374 U96 49 AOH T D-573
+
+Shar leaves south.
+Patrick amberley shouts 'My HAMSTER fights better than you do, Awed!'
+Your stomach makes a horrible noise.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@1#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+Small sphere is floating here
+Something crawls under your skin.
+You can not take small sphere is floating here.
+The sphere floats northeast.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ #.1#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Two small spheres are floating here
+
+>>>>1697/1699 498/498 931/993 E132860 $7374 U96 43 AOH T D-566
+
+At what?
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+  ar Apoll  n th    n er Lich <te m 1>
+..WHO avoids being stunned.
+You bore Shar.
+You bore Shar.
+Shar jostles you.
+H-4 E S $ X
+
+>>>>1693/1698 498/498 931/993 E132860 $7374 U99 41 AOH T D-565
+
+Shar starts concentrating on a new offensive spell.
+Shar leaves west.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+You feel fully healed.
+H+5 E S+29 $ X
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Small sphere is floating here
+Sh r   ollyo   he Wint r Li h  team  >
+You bore Shar.
+Shar jostles you.
+H-3 E S $ X
+
+>>>>1695/1697 498/498 960/993 E132860 $7374 U99 38 AOH T D-562
+
+The sphere floats southeast.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Two small spheres are floating here
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+Shar arrives from northwest.
+Shar jostles you.
+You bore Shar.
+You sink Shar.
+H-4 E S $ X
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+Shar arrives from northwest.
+Shar leaves northwest.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Two small spheres are floating here
+
+>>>>1691/1696 498/498 960/993 E132860 $7374 U99 37 AOH T D-561
+
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+S a  Apolly n the W nter  ich <  am 1>
+You crater Shar.
+Shar bashes you with shield.
+H-1 E S $ X
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1690/1695 498/498 960/993 E132860 $7374 U99 35 AOH T D-559
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+You cannot go that way.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Shar Apoll o  t e W n e   i h <t am  >
+You shiver and feel strange.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Two small spheres are floating here
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+S a   poll on t   Winter L ch <t am  >
+H E S-17 $ X
+You bore Shar.
+Shar seems hurt and confused.
+You bore Shar.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+
+>>>>1690/1695 498/498 943/943 E132860 $7374 U99 32 AOH T D-556
+
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Two small spheres are floating here
+Shar   oll on  he Wi  er Li h <t am 1 
+You sink Shar.
+You bore Shar.
+Shar bashes you with shield.
+H-1 E S $ X
+
+>>>>1689/1694 498/498 943/943 E132860 $7374 U99 31 AOH T D-555
+
+Shar leaves south.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #.1#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@1#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+Sha  Apo lyon th  Win er Lich <team 1>
+You bore Shar.
+Shar lapses into unconsciousness from severe loss of blood.
+You sink Shar.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@1#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Small sphere is floating here
+S ar is un onsc  us and ne    im ediate   di al ca e     m 1>
+A sphere floats here.
+You give everyone the finger.
+You bore Shar.
+You bore Shar.
+
+>>>>1689/1694 498/498 943/943 E132860 $7374 U99 26 AOH T D-550
+
+@Nomiculious cheers enthusiastically at you.
+You bore Shar.
+Shar is DEAD, R.I.P.
+Shar dies and is carried away by two clerics.
+The arena master shouts 'Shar of team 1 dies and is removed from the arena!'
+Shar leaves away.
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Mithrand'

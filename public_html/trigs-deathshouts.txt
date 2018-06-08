@@ -1,0 +1,37 @@
+#ECHO All, except for few special shouts, deathshouts collected. Lited red by
+#ECHO default here, search/replace for your favorite color or #gag if you like.
+#ECHO 
+#TRIGGER {^* roars victoriously as * dies shamefully!$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* barely scratched me before dying!'$} { #cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* bites the dust!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* died like a DOG!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* died on {his|her|its} knees!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* dies from a single blow, well almost at least!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* drowned in his own blood!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* drowned in {its|her|his} own blood!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* is a LOSER!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* is in a much warmer place now!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* isn't much of a party animal!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* just made my day!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* no longer causes lag!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* should learn to use consider!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* should stick to PIGEONS! I want a tougher challenge!'$} { #cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* was just DOGMEAT, who is next~?'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '* was too easy! I want a tougher challenge!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '*'s BLOOD tasted good!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '*, I rather enjoyed killing you!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts '*, no hard feelings, ok? ~*cackle~*'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'Burn in hell, *!'$} { #cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'Gee, sorry about that * ~*snicker~*!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'I butchered * for breakfast, who's up for dinner~?'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'I fart in your general direction, *!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'I hope you have a life insurance, *!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'Let's do that again sometime, *!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'My HAMSTER fights better than you do, *!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'Next time, *, bring me your friends too!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'Nyee! NYEEE! ~*rhuk rhuk rhuk~*'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'Thanks *, I still need 5k for next level!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'That'll teach * to mess with ME!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'Time to meet your maker, *!'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'Was it as good for you, as it was for me, *~?'$} {#cw red} {lites - deathshouts}
+#TRIGGER {^* shouts 'Hey *, did you get your wish? Har har!'$} {#cw red} {lites - deathshouts}

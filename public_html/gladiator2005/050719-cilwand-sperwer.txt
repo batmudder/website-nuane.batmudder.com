@@ -1,0 +1,600 @@
+The arena master shouts 'Team 1 consists of Cilwand'
+The arena master shouts 'Team 2 consists of Sperwer'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%You close team 2 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Cilwand'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Sperwer'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%Hp: 1234/1234 Sp: 29/29 Ep: 355/413 Cash: 0/273542 Weight: [0m[32m18%%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1234/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1211/1211  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:06:41] hp 467/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;30mInfo: Zock left the game.[0m
+hp [36m481[0m/543 ([32m+14[0m) | sp [32m1134[0m/1134 () | ep [32m265[0m/265 ()
+You feel magically refreshed.
+[56mWrath available [16m48s][0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Cilwand the Gnoll (horny) <team 1>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%Cilwand tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest exclaims '%Cilwand howls in agony as the evil mace crushes bones!'[0m
+[32mSirdest says '%You thrust Cilwand producing large scratches.'[0m
+[32mSirdest says '%You miss Cilwand.'[0m
+[32mSirdest says '%Cilwand successfully parries your pierce.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%You try to dodge, but Cilwand is not fooled.'[0m
+[32mSirdest says '%Cilwand punches you making small marks.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's attack.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%hp: 1196 (1234) [-38] sp: 29 (29) [] ep: 350 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '%Hp: 1196/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'% w.'.'[0m
+[32mSirdest says '%Sperwer reports: Hp: 1196 (1234) Sp: 29 (29) Ep: 350 (413).'[0m
+[32mSirdest says '%Hp: 1196/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You thrust Cilwand producing large scratches.'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp: 1196/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You try to dodge, but Cilwand is not fooled.'.'[0m
+[32mSirdest says '%You are not doing anything at the moment.'[0m
+[32mSirdest says '%Hp: 1196/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand punches you making small marks.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1196/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1155/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:06:43] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest says '%You feel fearful for your life.'[0m
+[32mSirdest says '%Cilwand starts concentrating on a new offensive spell.'[0m
+[32mSirdest says '%Cilwand successfully parries your bash.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%You miss Cilwand.'[0m
+[32mSirdest says '%Cilwand successfully parries your pierce.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%Cilwand stomp-kicks you in the thigh.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%hp: 1139 (1234) [-57] sp: 29 (29) [] ep: 350 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '%Sperwer reports: Hp: 1139 (1234) Sp: 29 (29) Ep: 350 (413).'[0m
+[32mSirdest says '%Hp: 1139/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'% ...AND counterattacks with ferocity.'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp: 1139/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand stomp-kicks you in the thigh.'.'[0m
+[32mSirdest says '%You are not doing anything at the moment.'[0m
+[32mSirdest says '%Hp: 1139/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand misses you.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1139/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1155/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:06:46] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest exclaims '%Cilwand howls in agony as the evil mace crushes bones!'[0m
+[32mSirdest says '%You stroke Cilwand causing skin to sizzle.'[0m
+[32mSirdest says '%You miss Cilwand.'[0m
+[32mSirdest says '%Cilwand successfully parries your pierce.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's attack.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's pierce.'[0m
+[32mSirdest says '%hp: 1133 (1234) [-6] sp: 29 (29) [] ep: 350 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '% party report.'[0m
+[32mSirdest says '%Sperwer reports: Hp: 1133 (1234) Sp: 29 (29) Ep: 350 (413).'[0m
+[32mSirdest says '%Hp: 1133/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You [0m[32mexclaim '%Cilwand howls in agony as the evil mace crushes bones!'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp: 1133/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You miss Cilwand.'.'[0m
+[32mSirdest says '%You are not doing anything at the moment.'[0m
+[32mSirdest says '%Hp: 1133/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand successfully parries your pierce.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+la arena
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1133/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1108/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:06:49] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Hp: 1133/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%          All around is a dense fog. You can see maybe.'.'[0m
+[1;30mInfo: Tarken goes link dead.[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp: 1133/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%          All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp: 1133/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You start concentrating on the skill.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1133/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1108/1200  932/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:06:53] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Cilwand the Gnoll (horny) <team 1>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You stroke Cilwand producing large scratches.'[0m
+[32mSirdest says '%You stroke Cilwand making a minor throttling.'[0m
+[32mSirdest says '%Cilwand successfully parries your pierce.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%Cilwand spin-kicks you in the thigh.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's attack.'[0m
+[32mSirdest says '%Cilwand punctures you causing a small scratch.'[0m
+[32mSirdest says '%hp: 1040 (1234) [-93] sp: 29 (29) [] ep: 350 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '%Hp: 1040/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%Sperwer reports: Hp: 1040 (1234) Sp: 29 (29) Ep: 350 (413).'[0m
+[32mSirdest says '%Hp: 1040/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand successfully parries your pierce.'.'[0m
+[32mSirdest says '%Cilwand is in a good shape.'[0m
+[32mSirdest says '%Hp: 1040/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%% cast [0m[32minfo.'[0m
+[32mSirdest says '%You are not doing anything at the moment.'[0m
+[32mSirdest says '%Hp: 1040/1234 Sp: 29/29 Ep: 350/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Sperwer reports: Hp: 1040 (1234) Sp: 29 (29) Ep: 350 (413).'.'[0m
+la arena
+Melkor [32m[sales]:[0m emerald disc mb 1k
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer          1040/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1040/1200  932/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:06:55] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You exhaust yourself in your raging frenzy.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp: 1040/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You start concentrating on the skill.'.'[0m
+[1;30mInfo: Sam left the game.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%Cilwand howls in agony as the evil mace crushes bones!'[0m
+[32mSirdest says '%You stroke Cilwand producing large scratches.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile bash.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile pierce.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%Cilwand spin-kicks you in the thigh.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%hp: 984 (1234) [-56] sp: 29 (29) [] ep: 347 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '% party report.'[0m
+[32mSirdest says '%Sperwer reports: Hp: 984 (1234) Sp: 29 (29) Ep: 347 (413).'[0m
+[32mSirdest says '%Hp: 984/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%Cilwand is in a good shape.'[0m
+[32mSirdest says '%Hp: 984/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You [0m[32mexclaim '%Cilwand howls in agony as the evil mace crushes bones!'.'[0m
+[32mSirdest says '%You are using 'pound'.'[0m
+[32mSirdest says '%Hp: 984/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You stroke Cilwand producing large scratches.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           984/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           978/1200  932/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:06:58] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '%hp: 862 (1234) [-122] sp: 29 (29) [] ep: 347 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Cilwand punches you painfully just above the knee.'[0m
+[32mSirdest says '%Cilwand punches you in the ribcage area.'[0m
+[32mSirdest says '%Cilwand sinks you inducing a nasty lesion.'[0m
+[32mSirdest says '%hp: 619 (1234) [-243] sp: 29 (29) [] ep: 347 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You feel your head clearing up.'.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand sinks you inducing a nasty lesion.'.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%hp: 619 (1234) [-243] sp: 29 (29) [] ep: 347 (413) cash: 0 [] exp:.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           619/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           978/1200  824/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:00] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Ghost of Sumar [31m[ghost]:[0m raiseee, paying
+[32mSirdest says '%Ghost of Sumar [31m[ghost]:[32m raiseee, paying.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You are stunned and unable to do anything.'.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You are stunned and unable to do anything.'.'[0m
+[1;30mInfo: Sam enters the game.[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You are stunned and unable to do anything.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Cilwand.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile bash.'[0m
+[32mSirdest says '%You miss Cilwand.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's attack.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's pierce.'[0m
+[32mSirdest says '%Sperwer [1;30m{report}:[0;32m < No Longer Stunned >.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You miss Cilwand.'.'[0m
+[32mSirdest says '%Sperwer reports: Hp: 619 (1234) Sp: 29 (29) Ep: 347 (413).'[0m
+la arena
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Sperwer [1;30m{report}:[0;32m < No Longer Stunned >.'.'[0m
+[32mSirdest says '%Cilwand is in a good shape.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say.'[0m
+[32mSirdest says '%You are not doing anything at the moment.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Sperwer reports: Hp: 619 (1234) Sp: 29 (29) Ep: 347 (413).'.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           619/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           978/1200  824/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:03] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Hp: 619/1234 Sp: 29/29 Ep: 347/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%          All around is a dense fog. You can see maybe.'.'[0m
+[1;37mJuo [0;52m[party]:[1;37m tippu[0m
+[32mSirdest says '%Your crazed frenzy tests your endurance.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           649/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           978/1200  824/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:07] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp: 649/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%          All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp: 649/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You start concentrating on the skill.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           649/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           978/1200  824/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:08] hp 481/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+hp [36m496[0m/543 ([32m+15[0m) | sp [32m1134[0m/1134 () | ep [32m265[0m/265 ()
+[1;30mInfo: Simpanen goes link dead.[0m
+[1;30mInfo: Misao goes link dead.[0m
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Cilwand the Gnoll (horny) <team 1>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile bash.'[0m
+[32mSirdest says '%You miss Cilwand.'[0m
+[32mSirdest says '%You miss Cilwand.'[0m
+[32mSirdest says '%Cilwand stomp-kicks you just below the chin.'[0m
+[32mSirdest says '%You try to dodge, but Cilwand is not fooled.'[0m
+[32mSirdest says '%Smiling devilishly Cilwand applies a painful jointlock, making you [0m[32mtearing the ribcage open and pulling out a still beating heart.'[0m
+[32mSirdest exclaims '%That really HURT!'[0m
+[32mSirdest says '%Cilwand pierces you inducing a nasty lesion.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%hp: 231 (1234) [-418] sp: 29 (29) [] ep: 349 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'% s.'.'[0m
+[32mSirdest says '%Sperwer reports: Hp: 231 (1234) Sp: 29 (29) Ep: 349 (413).'[0m
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You miss Cilwand.'.'[0m
+[32mSirdest says '%Cilwand is in a good shape.'[0m
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand pierces you inducing a nasty lesion.'.'[0m
+[32mSirdest says '%You are not doing anything at the moment.'[0m
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You [0m[32mexclaim '%You are about to DIE!'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%% - < [0m[32mHURT! >.'[0m
+[32mSirdest says '%Sperwer [52m{party}:[32m < HURT! >.'[0m
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%% party [0m[32msay < I am dying out here!! >.'[0m
+[32mSirdest says '%Sperwer [52m{party}:[32m < I am dying out here!! >.'[0m
+[1;30mInfo: Martow goes link dead.[0m
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Sperwer reports: Hp: 231 (1234) Sp: 29 (29) Ep: 349 (413).'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           231/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           978/1200  824/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:11] hp 496/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%The area is covered in magical spider webs.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile bash.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile bash.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile pierce.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's attack.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's pierce.'[0m
+[32mSirdest says '%Sperwer reports: Hp: 231 (1234) Sp: 29 (29) Ep: 349 (413).'[0m
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%*****************************************************.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%Cilwand is in a good shape.'[0m
+la arena
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%% cast [0m[32minfo.'[0m
+[32mSirdest says '%You are using 'pound'.'[0m
+[32mSirdest says '%Hp: 231/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand is in a good shape.'.'[0m
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           231/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           978/1200  769/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:13] hp 496/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mCalmis says 'jaah. krittas.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You thrust Cilwand causing a small wound.'[0m
+[32mSirdest says '%You thrust Cilwand causing a small wound.'[0m
+[32mSirdest says '%Cilwand successfully parries your pierce.'[0m
+[32mSirdest says '%Cilwand smashes you in the face, swelling an eye purple and shut.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%Cilwand stomp-kicks you cracking the sternum.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%Cilwand pierces you making an artery explode.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%hp: 142 (1234) [-89] sp: 29 (29) [] ep: 349 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '%Sperwer reports: Hp: 142 (1234) Sp: 29 (29) Ep: 349 (413).'[0m
+[32mSirdest says '%Hp: 142/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You thrust Cilwand causing a small wound.'.'[0m
+[32mSirdest says '%Cilwand is slightly hurt.'[0m
+[32mSirdest says '%Hp: 142/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand stomp-kicks you cracking the sternum.'.'[0m
+[32mSirdest says '%You are using 'pound'.'[0m
+[32mSirdest says '%Hp: 142/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You [0m[32mexclaim '%You are about to DIE!'.'[0m
+[32mSirdest says '%Sperwer [52m{party}:[32m < I am dying out here!! >.'[0m
+[32mSirdest says '%Hp: 142/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand pierces you making an artery explode.'.'[0m
+[32mSirdest says '%Sperwer [52m{party}:[32m < I am dying out here!! >.'[0m
+[32mSirdest says '%Hp: 142/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You [0m[32mexclaim '%You wish your wounds would stop BLEEDING so much!'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           142/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           871/1200  769/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:15] hp 496/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp: 142/1234 Sp: 29/29 Ep: 349/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Your movement prevents you from doing the skill.'.'[0m
+'hihi
+You echo 'hihi.'
+[21:07:17] hp 496/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+la arena
+
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer            41/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           814/1200  769/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:18] hp 496/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Your frenzy only exhausts you slightly.'[0m
+[32mSirdest says '%Cilwand arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Cilwand stomp-kicks you with the side of your hand cracking some ribs.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Cilwand stomp-kicks you tearing the ribcage open and pulling out a [0m[32mstill beating heart.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile bash.'[0m
+[32mSirdest says '%You thrust Cilwand making a throttling.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile pierce.'[0m
+[32mSirdest says '%hp: 41 (1234) [-101] sp: 29 (29) [] ep: 348 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '% lure.'[0m
+[32mSirdest says '%Hp: 41/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%% @@use [0m[32m'lure'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp: 41/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Your frenzy only exhausts you slightly.'.'[0m
+[32mSirdest says '%Sperwer [52m{party}:[32m luring.'[0m
+[32mSirdest says '%Hp: 41/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand arrives from east.'.'[0m
+[1;30mInfo: Bluesilmaril dies.[0m
+[32mSirdest says '%Sperwer reports: Hp: 41 (1234) Sp: 29 (29) Ep: 348 (413).'[0m
+[32mSirdest says '%Hp: 41/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%% scan [0m[32mall.'[0m
+[32mSirdest says '%Cilwand is slightly hurt.'[0m
+[32mSirdest says '%Hp: 41/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%% cast [0m[32minfo.'[0m
+[32mSirdest says '%You are using 'lure'.'[0m
+[32mSirdest says '%Hp: 41/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Sperwer reports: Hp: 41 (1234) Sp: 29 (29) Ep: 348 (413).'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer            41/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           814/1200  769/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:19] hp 496/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's attack.'[0m
+[32mSirdest says '%You try to dodge, but Cilwand is not fooled.'[0m
+[32mSirdest says '%Cilwand smashes you crushing the windpipe.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You successfully dodge Cilwand's pierce.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile bash.'[0m
+[32mSirdest says '%You stroke Cilwand causing a small wound.'[0m
+[32mSirdest says '%You miss Cilwand.'[0m
+[32mSirdest says '%hp: 24 (1234) [-17] sp: 29 (29) [] ep: 348 (413) cash: 0 [] exp: 13307 [0m[32m[].'[0m
+[32mSirdest says '% party report.'[0m
+[32mSirdest says '%Sperwer reports: Hp: 24 (1234) Sp: 29 (29) Ep: 348 (413).'[0m
+[32mSirdest says '%Hp: 24/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%*****************************************************.'.'[0m
+la arena
+[32mSirdest says '%Cilwand is noticeably hurt.'[0m
+[32mSirdest says '%Hp: 24/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand smashes you crushing the windpipe.'.'[0m
+[32mSirdest says '%You are using 'lure'.'[0m
+[32mSirdest says '%Hp: 24/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You [0m[32mexclaim '%You wish your wounds would stop BLEEDING so much!'.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer            24/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           765/1200  769/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:21] hp 496/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You try to dodge, but Cilwand is not fooled.'[0m
+[32mSirdest says '%Cilwand punches you tearing the ribcage open and pulling out a still [0m[32mbeating heart.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest says '%Cilwand punches you tearing the ribcage open and pulling out a still [0m[32mbeating heart.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Cilwand punctures you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%hp: -59 (1234) [-83] sp: 29 (29) [] ep: 348 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '% party report.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp: -59/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You try to dodge, but Cilwand is not fooled.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp: -59/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand punches you tearing the ribcage open and pulling out a still.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp: -59/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You [0m[32mexclaim '%You wish your wounds would stop BLEEDING so much!'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp: -59/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You are no longer stunned.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp: -59/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%You fall [51munconscious[32m from the pain.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Sperwer           -59/1234   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           765/1200  769/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:07:25] hp 496/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+'yliajo
+
+You echo 'yliajo.'
+[21:07:27] hp 496/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest exclaims '%Blood pours from your wounds!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%Cilwand stomp-kicks you tearing the ribcage open and pulling out a [0m[32mstill beating heart.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Cilwand pierces you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%hp: -158 (1234) [-99] sp: 29 (29) [] ep: 348 (413) cash: 0 [] exp: [0m[32m13307 [].'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp: -158/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp: -158/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You [0m[32mexclaim '%You wish your wounds would stop BLEEDING so much!'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp: -158/1234 Sp: 29/29 Ep: 348/413 Cash: 0/273542 Weight: 18%You say [0m[32m'%Cilwand pierces you causing heart tissue to fly everywhere.'.'[0m
+The arena master shouts 'Sperwer of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Cilwand'

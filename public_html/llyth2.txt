@@ -1,0 +1,1952 @@
+Harm body: 6
+Harm body: 4 (greater haste)
+You are casting 'harm body'.
+[00:24:28] hp 1193/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in bad shape. (20-35% hps)
+[00:24:28] hp 1193/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1193(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1153(1445)   46(  46) 373(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1135(1449)  381( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855) 1033(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  859(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  985(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  924(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  963(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  763(1486) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:28] hp 1193/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1193 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:28] hp 1193/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Kyo 2 times.
+Nuane hits Llyth 1 time.
+Kyo hits Llyth 1 time.
+Orthanc hits Llyth 1 time.
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Llyth.
+Orthanc [party]: bs
+You are casting 'harm body'.
+[00:24:31] hp 1193/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in bad shape. (20-35% hps)
+[00:24:31] hp 1193/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1193(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1077(1445)   46(  46) 373(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1135(1449)  381( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855) 1033(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  609(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  985(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  924(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  963(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  763(1486) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:31] hp 1193/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1193 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:31] hp 1193/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc [party]: uli
+Andthi removes heavy tabard with a chalice ensignia.
+Mandrake cast(s): 'judicandus eurto mangenic' (True party heal)
+Mandrake's spell heals you. You feel all better.
+Onyxsablet cast(s): 'hooooooooooowwwwwwwwwwwlllllllllllllll' (Drying wind)
+This location is now surrounded in a desert yellow forcefield.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 4 times.
+Kyo hits Llyth 1 time.
+hp 1391/1391 (+198) | sp 810/1019 () | ep 561/559 ()
+Andthi cast(s): '%' (Earthquake)
+Andthi's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+The fiery red runes split the earth with a COLOSSAL CRACK!
+Andthi hits Llyth with his earthquake.
+Orthanc plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+Orthanc grins as her con fioco hits Llyth.
+Harm body: 3
+Harm body: 2 (haste)
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Llyth.
+You are casting 'harm body'.
+[00:24:34] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in bad shape. (20-35% hps)
+[00:24:34] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1370(1445)   46(  46) 373(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1234(1410)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  802(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  609(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  985(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  872(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  737(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  579(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:34] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1391 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:34] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Andthi starts concentrating on a new offensive spell.
+Onyxsablet starts concentrating on a new spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Kyo 7 times.
+Nuane hits Llyth 2 times.
+Weilian cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Weilian casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Weilian grins as his acid blast hits Llyth.
+Harm body: 1
+Llyth makes shooing gestures with her hands and whispers 'voi hellapoliisin
+ kevatnuija'
+You are hit by a mental storm suppressing your magic.
+Llyth hits Susette, Mandrake, Andthi, Kyo, Weilian, Glycoli, Onyxsablet, Nuane and Orthanc with her suppress magic.
+Your feel excruciating pain in your head.
+Orthanc starts concentrating on a new offensive spell.
+*Onyxsablet Ghastes...
+Orthanc [report]: suppressed magic
+Weilian starts concentrating on a new offensive spell.
+You are casting 'harm body'.
+[00:24:39] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in bad shape. (20-35% hps)
+[00:24:39] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1078(1445)   46(  46) 373(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1234(1410)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  802(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  609(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  889(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  872(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  737(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  579(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:39] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1391 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:39] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Fiend (sales): 80k
+'1
+You boom '1.'
+[00:24:39] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Kyo starts concentrating on a new offensive skill.
+Onyxsablet cast(s): 'judicandus puorgo mangenic' (Major party heal)
+cast info
+scan all
+pss
+pr
+*****************************************************
+Nuane hits Llyth 1 time.
+Kyo hits Llyth 1 time.
+You are casting 'harm body'.
+[00:24:41] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in bad shape. (20-35% hps)
+[00:24:41] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1259(1445)   46(  46) 373(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1410(1410)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  802(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  609(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  889(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  786(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  737(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  579(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:41] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1391 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:41] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Onyxsablet starts concentrating on a new spell.
+Orthanc [party]: no HOmmmooo
+'1
+You boom '1.'
+[00:24:43] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 7 times.
+Nuane hits Llyth 1 time.
+Kyo hits Llyth 2 times.
+Orthanc hits Llyth 2 times.
+You are done with the chant.
+Alas, your magic is suppressed.
+You are not doing anything at the moment.
+[00:24:44] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in bad shape. (20-35% hps)
+[00:24:44] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Luca [sales]: 85k
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1259(1445)   46(  46) 373(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1123(1353)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  802(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  609(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  889(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  786(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  737(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  579(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:44] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1391 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:44] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+habo
+
+You start chanting.
+[00:24:45] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+p say suppress
+
+cast info
+scan all
+pss
+pr
+*****************************************************
+It hurts so badly you get confused and stop your spell.
+You lose your concentration and cannot cast the spell.
+CASTING BROKED.
+Llyth hits Nuane 6 times.
+Nuane hits Llyth 1 time.
+Kyo hits Llyth 1 time.
+Orthanc hits Llyth 1 time.
+hp 1157/1391 (-234) | sp 810/1019 () | ep 561/559 ()
+Andthi cast(s): '%' (Earthquake)
+Andthi's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+The fiery red runes split the earth with a COLOSSAL CRACK!
+Andthi hits Llyth with his earthquake.
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Llyth.
+Weilian cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Weilian casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Weilian grins as his acid blast hits Llyth.
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Llyth.
+Nuane (party): suppress
+[00:24:47] hp 1157/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+*Onyxsablet Ghastes...
+You are not doing anything at the moment.
+[00:24:47] hp 1157/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Susette starts concentrating on a new offensive spell.
+Llyth is in bad shape. (20-35% hps)
+[00:24:47] hp 1157/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1157(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1255(1445)   46(  46) 373(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1123(1353)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  564(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  415(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  793(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  786(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  737(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  395(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:47] hp 1157/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1157 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:47] hp 1157/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Weilian starts concentrating on a new offensive spell.
+Andthi starts concentrating on a new offensive spell.
+Orthanc [party]: haa stunis
+Onyxsablet cast(s): 'judicandus eurto mangenic' (True party heal)
+Onyxsablet's spell heals you. You feel really much better.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 3 times.
+Nuane hits Llyth 1 time.
+hp 1375/1391 (+218) | sp 810/1019 () | ep 561/559 ()
+Orthanc starts concentrating on a new offensive spell.
+You are not doing anything at the moment.
+[00:24:50] hp 1375/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in bad shape. (20-35% hps)
+[00:24:50] hp 1375/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1375(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1438(1445)   46(  46) 373(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1231(1328)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  564(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  415(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  793(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  562(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  737(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  395(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:50] hp 1375/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1375 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:50] hp 1375/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Davian [sales]: gotta agree on that steelie
+Kalakth [sales]: 80k
+Mandrake starts concentrating on a new spell.
+Kyo shakes he Aegis before llyth.
+But Llyth isn't scared!
+Onyxsablet starts concentrating on a new spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Nuane 5 times.
+Nuane hits Llyth 1 time.
+Kyo hits Llyth 1 time.
+Orthanc hits Llyth 1 time.
+hp 1181/1391 (-194) | sp 810/1019 () | ep 561/559 ()
+Kyo lashes out, pounding a ragged wound in Llyth's forehead!
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette fails to touch Llyth.
+You are not doing anything at the moment.
+[00:24:53] hp 1181/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Kyo says 'Kurkota Susette kurkota...'
+Llyth is in bad shape. (20-35% hps)
+[00:24:53] hp 1181/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1181(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1438(1445)   46(  46) 341(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1231(1328)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  470(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  415(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  793(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  562(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  737(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  395(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:53] hp 1181/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1181 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:53] hp 1181/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Mcgurmee [wanted]: lonkku
+Kyo says 'buu.'
+Info: Starrlight left the game.
+Onyxsablet [report]: Toxic Dilution Expires. []
+Kyo starts concentrating on a new offensive skill.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 3 times.
+hp 1177/1391 (-4) | sp 810/1019 () | ep 561/559 ()
+Andthi cast(s): '%' (Earthquake)
+Andthi's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+The fiery red runes split the earth with a COLOSSAL CRACK!
+Llyth falls down with a massive CRACK.
+Andthi hits Llyth with his earthquake.
+Orthanc [report]: unpain off
+Fiend (sales): 90k!
+You are not doing anything at the moment.
+[00:24:56] hp 1177/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in bad shape. (20-35% hps)
+[00:24:56] hp 1177/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1177(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1434(1445)   46(  46) 341(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1116(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  470(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  415(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  793(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  562(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  737(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  211(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:56] hp 1177/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1177 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:56] hp 1177/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Andthi starts concentrating on a new offensive spell.
+Mandrake cast(s): 'judicandus eurto mangenic' (True party heal)
+Mandrake's spell heals you. You feel very much better.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 6 times.
+Nuane hits Llyth 1 time.
+Kyo hits Llyth 1 time.
+Orthanc hits Llyth 1 time.
+hp 1322/1391 (+145) | sp 810/1019 () | ep 561/559 ()
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Llyth.
+You are not doing anything at the moment.
+[00:24:59] hp 1322/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Kyo [party]: < Shield of Detoxification DOWN > [13:27]
+Llyth is in very bad shape. (10-20% hps)
+[00:24:59] hp 1322/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1322(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1442(1445)   46(  46) 341(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1021(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  470(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  211(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  793(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  562(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  511(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  211(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:24:59] hp 1322/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1322 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:24:59] hp 1322/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc [party]: vbs
+Onyxsablet cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Onyxsablet's spell heals you. You feel all better.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 3 times.
+You score a CRITICAL hit!
+Nuane hits Llyth 3 times.
+Orthanc hits Llyth 1 time.
+Kyo hits Llyth 2 times.
+hp 1391/1391 (+69) | sp 810/1019 () | ep 561/559 ()
+Weilian cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Weilian casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Weilian grins as his acid blast hits Llyth.
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Llyth.
+You are not doing anything at the moment.
+[00:25:02] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Info: Starrlight enters the game.
+Llyth is in very bad shape. (10-20% hps)
+[00:25:03] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Onyxsablet starts concentrating on a new spell.
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 341(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1033(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  246(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  211(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  697(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  476(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  511(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)  211(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:03] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1391 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:25:03] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+A dry wind blows here.
+Glycoli cheers enthusiastically.
+Orthanc [party]: nonii
+Kyo starts concentrating on a new offensive skill.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Nuane 4 times.
+Nuane hits Llyth 1 time.
+Orthanc hits Llyth 1 time.
+Kyo hits Llyth 1 time.
+hp 1103/1391 (-288) | sp 810/1019 () | ep 561/559 ()
+Andthi cast(s): '%' (Earthquake)
+Andthi's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+The fiery red runes split the earth with a COLOSSAL CRACK!
+Andthi hits Llyth with his earthquake.
+Llyth tears at your very soul. 
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Llyth.
+Kyo [party]: vbs
+Mandrake (party): toimiks soul shieldi sit tohon
+You are not doing anything at the moment.
+[00:25:05] hp 1103/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in very bad shape. (10-20% hps)
+[00:25:05] hp 1103/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1103(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 341(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1033(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  246(1336) 340(340) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  697(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  476(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  511(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:05] hp 1103/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1103 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:25:05] hp 1103/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+mmm
+
+You go 'mmmmm...'.
+[00:25:08] hp 1103/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc [party]: alka sujuu
+Davian [sales]: 90k x1
+cast info
+scan all
+pss
+pr
+*****************************************************
+Orthanc's flex shield wobbles.
+Llyth hits Orthanc 5 times.
+Orthanc hits Llyth 1 time.
+Kyo hits Llyth 1 time.
+hp 1097/1391 (-6) | sp 810/1019 () | ep 561/559 ()
+Mandrake starts concentrating on a new spell.
+You are not doing anything at the moment.
+[00:25:09] hp 1097/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+*Onyxsablet hastes...
+Llyth is in very bad shape. (10-20% hps)
+[00:25:09] hp 1097/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1097(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 341(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  714(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  446(1333) 340(342) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  697(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  476(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  511(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:09] hp 1097/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1097 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:25:09] hp 1097/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+[party]: Glycoli is out of sps.
+Info: Melemkor left the game.
+Onyxsablet cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Onyxsablet's spell heals you. You feel very much better.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 2 times.
+Nuane hits Llyth 2 times.
+Orthanc hits Llyth 1 time.
+Kyo hits Llyth 1 time.
+hp 1315/1391 (+218) | sp 810/1019 () | ep 561/559 ()
+Weilian cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Weilian casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Weilian grins as his acid blast hits Llyth.
+Magical rifts open above Weilian and hideous rays of POWER combine his spell.
+Llyth cast(s): 'taikoja ma inhoan' (Anti magic field)
+This location is now surrounded in a shining green forcefield.
+The field fizzles.
+The shining green forcefield vanishes.
+Andthi starts concentrating on a new spell.
+You are not doing anything at the moment.
+[00:25:12] hp 1315/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is in very bad shape. (10-20% hps)
+[00:25:12] hp 1315/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1315(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 341(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  864(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  496(1333) 340(342) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  601(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  390(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  511(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:12] hp 1315/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1315 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:25:12] hp 1315/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Weilian starts concentrating on a new offensive spell.
+Onyxsablet starts concentrating on a new spell.
+Orthanc [party]: hmm oiskohan
+Mandrake (party): saiks joku suppressin?
+Info: Starrlight left the game.
+p say amf
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Kyo 3 times.
+Nuane hits Llyth 2 times.
+Kyo hits Llyth 2 times.
+Kyo lashes out, pounding a ragged wound in Llyth's forehead!
+Mandrake cast(s): 'judicandus eurto mangenic' (True party heal)
+Mandrake's spell heals you. You feel all better.
+Nuane (party): amf
+[00:25:15] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+You are not doing anything at the moment.
+[00:25:15] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc [party]: noni
+Llyth is in very bad shape. (10-20% hps)
+[00:25:15] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  810(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 309(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1083(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  496(1333) 340(342) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  601(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  390(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  285(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:15] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1391 (1391) Sp: 810 (1019) Ep: 561 (559).
+[00:25:15] hp 1391/1391 | sp 810/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc leaves east.
+The Astral Plane (u,d,e,w,n,s).
+steel pants, thin, black dagger, a bronze crown,
+an ebony javelin, a small pile of silver coins and a
+pile of zinc coins
+Orthanc Muumi the member of Catfolk Thorax Surgeon < Jammin' with Llyth >
+Onyxsablet arrives from west.
+Glycoli arrives from west.
+Weilian arrives from west.
+Kyo sneaks in from west.
+Andthi arrives from west.
+Mandrake arrives from west.
+Susette arrives from west.
+Llyth arrives from west.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Orthanc's flex shield wobbles.
+Llyth hits Orthanc 4 times.
+Kyo hits Llyth 1 time.
+Nuane hits Llyth 2 times.
+hp 1391/1391 (+76) | sp 810/1019 () | ep 561/559 ()
+Spider Queen smiles upon you and helps you control the demon.
+You are not doing anything at the moment.
+[00:25:18] hp 1391/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:18] hp 1391/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  809(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 309(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  794(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  546(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  601(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  390(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  285(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:18] hp 1391/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1391 (1391) Sp: 809 (1019) Ep: 561 (559).
+[00:25:18] hp 1391/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+use bash
+
+You start concentrating on the skill.
+[00:25:19] hp 1391/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+p say nd
+
+Susette starts concentrating on a new offensive spell.
+Weilian starts concentrating on a new offensive spell.
+*Andthi         +-+-+.
+*Andthi         +MPO+.
+*Andthi         +^+.+.
+*Andthi           |.
+*Andthi   +-+-+ +-+-+ +-+-+.
+*Andthi   +  O+-+MPO+-+  O+.
+*Andthi   +^+.+ +^+.+ +^+.+.
+*Andthi           |.
+*Andthi         +-+-+.
+*Andthi         +  O+.
+*Andthi         +^+.+.
+Nuane (party): nd
+[00:25:20] hp 1391/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Mandrake starts concentrating on a new spell.
+Onyxsablet starts concentrating on a new spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+You feel like your shield of energy blocked some physical damage.
+Llyth hits Nuane 4 times.
+Nuane hits Llyth 1 time.
+hp 1236/1391 (-155) | sp 809/1019 (-1) | ep 561/559 ()
+Glycoli is surrounded by a dark glow and grins.
+You are using 'bash'.
+[00:25:21] hp 1236/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+*Onyxsablet hastes...
+Llyth is near death. (0-10% hps)
+[00:25:21] hp 1236/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1236(1391)  809(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 309(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  794(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  546(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  601(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  390(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  285(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:21] hp 1236/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Kyo starts concentrating on a new offensive skill.
+Nuane reports: Hp: 1236 (1391) Sp: 809 (1019) Ep: 561 (559).
+[00:25:21] hp 1236/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Kyo [party]: nd
+Mandrake cast(s): 'judicandus pafzarmus' (Major heal)
+Mandrake casts her spell at Orthanc.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Kyo 3 times.
+Nuane hits Llyth 1 time.
+Llyth weaves a mystic matrix with glowing indigo lines and cast(s): 'Khizanth
+ Arachnidus Iracundus'
+*Onyxsablet hastes...
+Davian [wanted]: relcate and id
+You are using 'bash'.
+[00:25:24] hp 1236/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:24] hp 1236/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1236(1391)  809(1019) 561(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1324(1445)   46(  46) 309(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1254(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  546(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  601(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  390(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  182(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:24] hp 1236/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1236 (1391) Sp: 809 (1019) Ep: 561 (559).
+[00:25:24] hp 1236/1391 | sp 809/1019 | ep 561/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Info: Drakcap enters the game.
+*Andthi         +-+-+.
+*Andthi         +MPO+.
+*Andthi         +^+.+.
+*Andthi           |.
+*Andthi   +-+-+ +-+-+ +-+-+.
+*Andthi   +  O+-+MPO+-+  O+.
+*Andthi   +^+.+ +^+.+ +^+.+.
+*Andthi           |.
+*Andthi         +-+-+.
+*Andthi         +  O+.
+*Andthi         +^+.+.
+Kyo [party]: tapetaas!
+Orthanc [party]: chain
+Onyxsablet cast(s): 'judicandus eurto mangenic' (True party heal)
+Onyxsablet's spell heals you. You feel very much better.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 3 times.
+Kyo hits Llyth 1 time.
+Orthanc hits Llyth 1 time.
+hp 1352/1391 (+116) | sp 809/1019 () | ep 561/559 ()
+Weilian cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Weilian casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Weilian grins as his acid blast hits Llyth.
+You are prepared to do the skill.
+Your bash sends Llyth sprawling.
+hp 1352/1391 () | sp 809/1019 () | ep 551/559 (-10)
+Info: Gangi goes link dead.
+You are not doing anything at the moment.
+[00:25:27] hp 1352/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:27] hp 1352/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1352(1391)  809(1019) 551(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1440(1445)   46(  46) 309(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1207(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  546(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  505(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  166(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  182(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:27] hp 1352/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1352 (1391) Sp: 809 (1019) Ep: 551 (559).
+[00:25:27] hp 1352/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+*Andthi         +-+-+.
+*Andthi         +MPO+.
+*Andthi         +^+.+.
+*Andthi           |.
+*Andthi   +-+-+ +-+-+ +-+-+.
+*Andthi   +  O+-+MPO+-+  O+.
+*Andthi   +^+.+ +^+.+ +^+.+.
+*Andthi           |.
+*Andthi         +-+-+.
+*Andthi         +  O+.
+*Andthi         +^+.+.
+use bash
+You start concentrating on the skill.
+[00:25:28] hp 1352/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Onyxsablet starts concentrating on a new spell.
+Orthanc [party]: tai tappo joo
+cast info
+scan all
+pss
+pr
+*****************************************************
+Orthanc's flex shield wobbles.
+Llyth hits Orthanc 4 times.
+hp 1348/1391 (-4) | sp 809/1019 () | ep 551/559 ()
+Kyo quickly steps forward and pounds Llyth in the temple!
+Kyo turns suddenly and STRIKES again..
+You are using 'bash'.
+[00:25:30] hp 1348/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:30] hp 1348/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1348(1391)  809(1019) 551(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1440(1445)   46(  46) 277(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  939(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  546(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  505(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  166(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  182(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:30] hp 1348/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1348 (1391) Sp: 809 (1019) Ep: 551 (559).
+[00:25:30] hp 1348/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Info: Gru recovers from link death.
+*Andthi         +-+-+.
+*Andthi         +MPO+.
+*Andthi         +^+.+.
+*Andthi           |.
+*Andthi   +-+-+ +-+-+ +-+-+.
+*Andthi   +  O+-+MPO+-+  O+.
+*Andthi   +^+.+ +^+.+ +^+.+.
+*Andthi           |.
+*Andthi         +-+-+.
+*Andthi         +  O+.
+*Andthi         +^+.+.
+Kyo starts concentrating on a new offensive skill.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 2 times.
+Kyo hits Llyth 1 time.
+Nuane hits Llyth 1 time.
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Llyth.
+Weilian cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Weilian casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Weilian grins as his acid blast hits Llyth.
+You are using 'bash'.
+[00:25:33] hp 1348/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:33] hp 1348/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1348(1391)  809(1019) 551(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1435(1445)   46(  46) 277(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  859(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  359(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  409(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  166(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  182(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:33] hp 1348/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1348 (1391) Sp: 809 (1019) Ep: 551 (559).
+[00:25:33] hp 1348/1391 | sp 809/1019 | ep 551/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Mandrake starts concentrating on a new spell.
+Andthi starts concentrating on a new spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 4 times.
+You are prepared to do the skill.
+Your bash sends Llyth sprawling.
+hp 1348/1391 () | sp 809/1019 () | ep 541/559 (-10)
+You are not doing anything at the moment.
+[00:25:36] hp 1348/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc [party]: kuyoleeeee!
+Llyth is near death. (0-10% hps)
+[00:25:36] hp 1348/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1348(1391)  809(1019) 541(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1435(1445)   46(  46) 277(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  691(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  359(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  409(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)  166(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)  182(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   27(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:36] hp 1348/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1348 (1391) Sp: 809 (1019) Ep: 541 (559).
+[00:25:36] hp 1348/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+use bash
+
+You start concentrating on the skill.
+[00:25:37] hp 1348/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+*Andthi         +-+-+.
+*Andthi         +MPO+.
+*Andthi         +^+.+.
+*Andthi           |.
+*Andthi   +-+-+ +-+-+ +-+-+.
+*Andthi   +  O+-+MPO+-+  O+.
+*Andthi   +^+.+ +^+.+ +^+.+.
+*Andthi           |.
+*Andthi         +-+-+.
+*Andthi         +  O+.
+*Andthi         +^+.+.
+Mandrake cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Mandrake's spell heals you. You feel very much better.
+Onyxsablet cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Onyxsablet's spell heals you. You feel all better.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 5 times.
+Nuane hits Llyth 2 times.
+hp 1391/1391 (+43) | sp 809/1019 () | ep 541/559 ()
+Andthi cast(s): 'judicandus mercuree' (Cure light wounds)
+Andthi casts his spell at Orthanc.
+Llyth makes shooing gestures with her hands and whispers 'voi hellapoliisin
+ kevatnuija'
+You are hit by a mental storm suppressing your magic.
+Llyth hits Susette, Mandrake, Andthi, Kyo, Weilian, Glycoli, Onyxsablet, Nuane and Orthanc with her suppress magic.
+Llyth tears at your very soul. 
+Info: Phoebe goes link dead.
+(party): Mandrake : Toxic Dilution Expires. [13m3s]
+You are using 'bash'.
+[00:25:39] hp 1391/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:39] hp 1391/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  809(1019) 541(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 277(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  927(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  359(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  409(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)   80(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)   96(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   12(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:39] hp 1391/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1391 (1391) Sp: 809 (1019) Ep: 541 (559).
+[00:25:39] hp 1391/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc starts concentrating on a new offensive skill.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 6 times.
+Nuane hits Llyth 1 time.
+Kyo tries to pound Llyth, but his attack is easily blocked.
+Kyo exclaims 'taivu!'
+Davian [sales]: (just making sure that this aint claimable)
+You are using 'bash'.
+[00:25:42] hp 1391/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:42] hp 1391/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  809(1019) 541(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 245(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  683(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  855( 855)  359(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  409(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)   80(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)   96(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   12(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:42] hp 1391/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1391 (1391) Sp: 809 (1019) Ep: 541 (559).
+[00:25:42] hp 1391/1391 | sp 809/1019 | ep 541/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Onyxsablet starts concentrating on a new spell.
+Mandrake starts concentrating on a new spell.
+Kyo starts concentrating on a new offensive skill.
+Orthanc [party]: toi on kylla toi
+cast info
+scan all
+pss
+pr
+*****************************************************
+Your armours absorb some of the damage.
+Llyth hits Nuane 5 times.
+hp 1221/1391 (-170) | sp 809/1019 () | ep 541/559 ()
+You are prepared to do the skill.
+Your bash sends Llyth sprawling.
+hp 1221/1391 () | sp 809/1019 () | ep 531/559 (-10)
+Susette weaves a mystic matrix with glowing indigo lines and cast(s): 'Khizanth
+ Arachnidus Iracundus'
+A shower of black blood flies from Susette's palm at Llyth!
+You are not doing anything at the moment.
+[00:25:45] hp 1221/1391 | sp 809/1019 | ep 531/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:45] hp 1221/1391 | sp 809/1019 | ep 531/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1221(1391)  809(1019) 531(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 245(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  683(1327)  247( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  830( 855)  256(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  409(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)   80(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)   96(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   12(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:45] hp 1221/1391 | sp 809/1019 | ep 531/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1221 (1391) Sp: 809 (1019) Ep: 531 (559).
+[00:25:45] hp 1221/1391 | sp 809/1019 | ep 531/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+*Onyxsablet hastes...
+use bash
+You start concentrating on the skill.
+[00:25:46] hp 1221/1391 | sp 809/1019 | ep 531/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Info: Rowen recovers from link death.
+Orthanc [party]: suppressi
+Onyxsablet cast(s): 'judicandus mangenic' (Cure critical wounds)
+Onyxsablet casts her spell at Orthanc.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Kyo 3 times.
+Nuane hits Llyth 2 times.
+Orthanc hits Llyth 1 time.
+Weilian cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Weilian casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Weilian grins as his acid blast hits Llyth.
+Orthanc performs a fast kick at Llyth's stomach, leaving foe gasping for air.
+You feel infernal energies flowing to your body from your heart.
+Info: Luca goes link dead.
+You are using 'bash'.
+[00:25:48] hp 1221/1391 | sp 809/1019 | ep 531/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:48] hp 1221/1391 | sp 809/1019 | ep 531/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1221(1391)  809(1019) 531(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1322(1445)   46(  46) 245(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  908(1327)  247( 515) 407(422) |  84 |       701895 |
+| 2.1   Susette       fol  830( 855)  256(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol  500( 500)  313(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  828( 828)   44(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  896( 896)   96(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  839( 839)   12(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:48] hp 1221/1391 | sp 809/1019 | ep 531/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1221 (1391) Sp: 809 (1019) Ep: 531 (559).
+[00:25:48] hp 1221/1391 | sp 809/1019 | ep 531/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc starts concentrating on a new offensive skill.
+Onyxsablet starts concentrating on a new spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 3 times.
+Kyo hits Llyth 1 time.
+Nuane hits Llyth 2 times.
+Orthanc hits Llyth 1 time.
+You are prepared to do the skill.
+Your bash sends Llyth sprawling.
+hp 1221/1391 () | sp 809/1019 () | ep 521/559 (-10)
+Llyth cast(s): 'krkx mar nak grttzt
+ gnatlnamauch'
+Llyth hits Susette, Mandrake, Andthi, Kyo, Weilian, Glycoli, Onyxsablet, Nuane and Orthanc with her killing cloud.
+Kyo's flex shield wobbles.
+An image of Glycoli vanishes.
+All images of Glycoli vanish!
+Your flex shield wobbles and part of the attack gets absorbed!
+party report It hurts it hurts :(
+That really HURT!
+Orthanc's flex shield wobbles.
+You are not doing anything at the moment.
+[00:25:51] hp 860/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:25:51] hp 860/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  860(1391)  809(1019) 521(559) | 100 |       529334 |
+| 1.2   Kyo           fol  971(1445)   46(  46) 245(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  549(1327)  247( 515) 407(422) |  84 |       701895 |
+| 2.1   Susette       fol  224( 855)  256(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -34(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol   48( 435)  313(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  139( 729)   44(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  430( 829)   96(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  309( 760)   12(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:51] hp 860/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 860 (1391) Sp: 809 (1019) Ep: 521 (559).
+[00:25:51] hp 860/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane (report): It hurts it hurts :(
+[00:25:51] hp 860/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+use bash
+
+You start concentrating on the skill.
+[00:25:52] hp 860/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc [party]: potkin
+Kyo starts concentrating on a new offensive skill.
+Mandrake (party): joo ei toiminu :)
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 6 times.
+Kyo hits Llyth 2 times.
+hp 857/1391 (-364) | sp 809/1019 () | ep 521/559 ()
+Susette weaves a mystic matrix with glowing indigo lines and cast(s): 'Khizanth
+ Arachnidus Iracundus'
+A shower of black blood flies from Susette's palm at Llyth!
+You are using 'bash'.
+[00:25:54] hp 857/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Susette starts concentrating on a new offensive spell.
+Llyth is near death. (0-10% hps)
+[00:25:54] hp 857/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  857(1391)  809(1019) 521(559) | 100 |       529334 |
+| 1.2   Kyo           fol  971(1445)   46(  46) 245(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  307(1327)  247( 515) 407(422) |  84 |       701895 |
+| 2.1   Susette       fol  199( 855)  153(1332) 340(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  889( 889)  -48(1318) 471(442) | 100 |       523228 |
+| 2.3   Weilian       fol   48( 435)  313(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  139( 729)   44(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  430( 829)   96(1160) 253(253) |  93 |       500423 |
+| 3.3   Andthi        fol  309( 760)   12(1483) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:25:54] hp 857/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 857 (1391) Sp: 809 (1019) Ep: 521 (559).
+[00:25:54] hp 857/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+*Andthi         +-+-+.
+*Andthi         +MPO+.
+*Andthi         +^+.+.
+*Andthi           |.
+*Andthi   +-+-+ +-+-+ +-+-+.
+*Andthi   +  O+-+MPO+-+  O+.
+*Andthi   +^+.+ +^+.+ +^+.+.
+*Andthi           |.
+*Andthi         +-+-+.
+*Andthi         +  O+.
+*Andthi         +^+.+.
+Orthanc leaves east.
+Your movement prevents you from doing the skill.
+The Astral Plane (u,d,e,w,n,s).
+thin, black dagger, 6 silver coins, a pile of zinc
+coins, a burlap talisman, an ebony target shield and
+20 copper coins
+Orthanc Muumi the member of Catfolk Thorax Surgeon < Jammin' with Llyth >
+Onyxsablet arrives from west.
+Glycoli arrives from west.
+Weilian arrives from west.
+Kyo sneaks in from west.
+Andthi arrives from west.
+Mandrake arrives from west.
+Susette arrives from west.
+use bash
+You start concentrating on the skill.
+[00:25:57] hp 857/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc [party]: ei vittu
+*Andthi         +-+-+.
+*Andthi         +  O+.
+*Andthi         +^+.+.
+*Andthi           |.
+*Andthi   +-+-+ +-+-+ +-+-+.
+*Andthi   +  O+-+ PO+-+  O+.
+*Andthi   +^+.+ +^+.+ +^+.+.
+*Andthi           |.
+*Andthi         +-+-+.
+*Andthi         +M O+.
+*Andthi         +^+.+.
+Weilian starts concentrating on a new spell.
+Weilian [party]: sheltering..
+Orthanc [party]: wipetaan viela
+Andthi starts concentrating on a new spell.
+Orthanc starts concentrating on a new offensive skill.
+Onyxsablet starts concentrating on a new spell.
+Glycoli removes swirling bands of lava <flaming>, a green glove, a green glove, Scarf of Beauty, a rose clasp, Holy vest of Yak, Cape of Knowledge, golden belt of Fair River-Daughter, the shining helm of azakh-khanan and Tome of Chaos (CHAOTIC).
+Glycoli shivers from the cold.
+Glycoli wears a purple glove <red glow>, a purple glove <red glow>, The Amulet of Truth <red glow>, fine eyeglasses <purple glow>, necklace made out of sharp fangs labeled as <|Glycoli|> <red glow>, a magic cloak <purple glow>, a torn leather muscle shirt <red glow>, an ancient staff of the necromancer <red glow>, Girdle of Ethereal Power labeled as <|Glycoli|Spr|> <purple glow> and Empowered Black Leg Plates <red glow>.
+Andthi removes a green glove, a green glove, Girdle of Ethereal Power labeled as WIS, a rose clasp, The Mask of Higher Consciousness, bracelet made of green crystal, bracelet made of green crystal, glittering leg protectors, Nova Arcanum, Melkior's book of necromancy, Nova Arcanum, Melkior's book of necromancy, The gleaming blue collar of Bengalore, a pair of black boots, Tattered Silver Shimmering Cloak, silver dragon bracers, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) and shroud of darkness.
+Andthi wears a green glove <red glow>, a green glove <red glow>, Girdle of Ethereal Power labeled as WIS <orange glow>, a rose clasp <red glow>, heavy tabard with a chalice ensignia <orange glow>, The Mask of Higher Consciousness <red glow>, bracelet made of green crystal <red glow>, bracelet made of green crystal <red glow>, glittering leg protectors <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, The gleaming blue collar of Bengalore <red glow>, a pair of black boots <red glow>, Tattered Silver Shimmering Cloak <red glow>, silver dragon bracers <red glow>, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow> and shroud of darkness.
+Mandrake wears a wand of magic <red glow>, Spider Amulet, a collar made of black silk <red glow>, a white glove <purple glow> and a white glove <red glow>.
+Andthi cast(s): '$ !^' (Drain pool)
+Andthi's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+The golden sigla form a link between Andthi and the magical druidic pool. You
+ sense power flowing between them.
+Andthi starts concentrating on a new spell.
+You are prepared to do the skill.
+Bash who?
+Susette cast(s): 'judicandus ignius' (Cure serious wounds)
+Susette screams with frustration as her spell fails.
+Orthanc reports: Hp: 329 (1327) Sp: 263 (515) Ep: 414 (422).
+use bash
+You start concentrating on the skill.
+[00:26:09] hp 857/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Andthi [party]: tph 3
+Susette starts concentrating on a new spell.
+Orthanc starts concentrating on a new offensive skill.
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  857(1391)  809(1019) 521(559) | 100 |       529334 |
+| 1.2   Kyo           fol  971(1445)   46(  46) 245(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  329(1327)  263( 515) 414(422) |  84 |       701895 |
+| 2.1   Susette       fol  211( 855)  160(1332) 343(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  881( 881)  -26(1204) 471(453) | 100 |       523228 |
+| 2.3   Weilian       fol   48( 435)  313(1483) 265(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  139( 729)   44(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  437( 829)  145(1162) 253(247) |  93 |       500423 |
+| 3.3   Andthi        fol  309( 760)  500(1486) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:26:11] hp 857/1391 | sp 809/1019 | ep 521/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Onyxsablet cast(s): 'judicandus puorgo ignius' (Minor party heal)
+Onyxsablet's spell heals you. You feel little better.
+Weilian cast(s): 'withing thang walz' (Shelter)
+party report Shelter up.
+This location is now surrounded in a shimmering blue forcefield.
+hp 910/1391 (+53) | sp 836/1019 (+27) | ep 533/559 (+12)
+Nuane (report): Shelter up.
+[00:26:12] hp 910/1391 | sp 836/1019 | ep 533/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Kyo [party]: Shelter active!
+(party): Mandrake : Shelter Active.
+Light takes over Mandrake's body and she starts to fly.
+Mandrake wears a pair of prancy high-heeled shoes and walks around arrogantly
+like a spoiled prima donna she is.
+Mandrake wears Girdle of Ethereal Power labeled as spr <red glow>, a black scaly finger guard, made of thorns (burned), A heavy black metal ring <red glow>, Snowy white feather wings of an Angel <red glow>, a majectical black crown, Black Leggings of the Sorcerer <black aura> <red glow>, Prancy high-heeled glass shoes labeled as intboots <purple glow>, heavy tabard with a chalice ensignia and a pair of pure white flowing sleeves.
+Susette [party]: Shelter ON
+Onyxsablet [report]: --> Shelter Active. <--
+Orthanc goes 'mmmmm...'.
+Andthi [party]: tph 1
+Susette removes Nova Arcanum, Melkior's book of necromancy labeled as <|susette|>, Girdle of Ethereal Power, Cape of Knowledge labeled as <|susette|>, a rose clasp labeled as <|susette|>, glittering leg protectors, a sparkling breastplate labeled as <|susette|>, the shining helm of azakh-khanan labeled as <|susette|>, The gleaming blue collar of Bengalore labeled as <|susette|>, Ring of wisdom [Made by: Matriam] labeled as 6wisalch, A ring of wisdom [Made by: Kyynel] labeled as 6wis 1hpr, a pair of black boots labeled as wis and The staff of Lerethin labeled as <|susette|>.
+Susette wears a purple glove, a black hood labeled as <|susette|>, a collar made of black silk labeled as <|susette|> <red glow>, The Amulet of Truth labeled as <|susette|> <red glow>, Slime cloak, a torn leather muscle shirt labeled as <|susette|> <red glow>, a mithril ring, called 'eckma' labeled as <|susette|> <red glow>, A heavy black metal ring labeled as <|susette|>, a wand of magic labeled as <|susette|> <red glow>, a wand of magic labeled as <|susette|> <red glow>, Glimmering Belt of the Elements labeled as <|susette|> <red glow>, The protectors and Boots of the Goddess <red glow>.
+mmm
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+Andthi's spell heals you. You feel some better.
+hp 1073/1391 (+163) | sp 836/1019 () | ep 533/559 ()
+Susette cast(s): 'judicandus ignius' (Cure serious wounds)
+Orthanc [party]: joop
+You go 'mmmmm...'.
+[00:26:15] hp 1073/1391 | sp 836/1019 | ep 533/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Weilian wears Girdle of Ethereal Power <orange glow>, a torn leather muscle shirt <yellow glow>, a collar made of black silk labeled as {w} <orange glow>, Demonclaw boots <yellow glow>, Leggings of Sorrow <yellow glow>, sparkling red bracers <orange glow>, White ring of magic [Made by: Weilian] labeled as m1 (moderate), a wand of magic <orange glow>, A pair of beautiful silk gloves labeled as {w} <yellow glow>, a magic cloak labeled as {w} <orange glow>, fine eyeglasses labeled as {w} <yellow glow>, the Bracelets of Darkness labeled as {w} <yellow glow>, The Amulet of Truth labeled as {S} <yellow glow> and White ring of magic [Made by: Weilian] labeled as m2 (strong).
+Orthanc [party]: 1 runi
+Info: Poe recovers from link death.
+Andthi starts concentrating on a new spell.
+You are prepared to do the skill.
+Bash who?
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1073(1391)  836(1019) 533(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1169(1445)   46(  46) 251(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr  717(1327)  263( 515) 414(422) |  84 |       701895 |
+| 2.1   Susette       fol  548( 847)  124(1136) 343(351) | 100 |       523906 |
+| 2.2   Glycoli       fol  881( 881)  -26(1204) 471(453) | 100 |       523228 |
+| 2.3   Weilian       fol  196( 443)  300(1490) 265(232) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  376( 729)   33(1148) 271(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  593( 842)  145(1246) 253(246) |  93 |       500423 |
+| 3.3   Andthi        fol  484( 760)  299(1486) 250(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:26:18] hp 1073/1391 | sp 836/1019 | ep 533/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+A horde of tiny spiders crawls in!
+The horde of spiders crawls to west!
+Aleksi [sales]: apollo sword mb 100 k
+p say kiva runi
+Mandrake starts concentrating on a new spell.
+Nuane (party): kiva runi
+[00:26:20] hp 1073/1391 | sp 836/1019 | ep 533/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+Andthi's spell heals you. You feel much better.
+hp 1242/1391 (+169) | sp 836/1019 () | ep 533/559 ()
+Andthi starts concentrating on a new spell.
+Orthanc [party]: helvetin :)
+Biubau [wanted]: still need dim door anyone please
+Onyxsablet wears Sacred Bracelets of Eternity labeled as (Onyx) <red glow>, a wand of magic labeled as (Onyx) <red glow>, Red Glove of the Healer labeled as (ancient) <red glow>, a magic cloak labeled as (Onyx), A heavy black metal ring labeled as (Onyx), a wand of magic labeled as (Onyx) <red glow>, an engraved cross amulet labeled as (ancient) <red glow>, Red Glove of the Healer labeled as (ancient) <red glow>, a collar made of black silk labeled as (ancient) <red glow>, a torn leather muscle shirt labeled as (Onyx) <red glow> and A heavy black metal ring labeled as (Onyx).
+Andthi cast(s): '$ !^' (Drain pool)
+Andthi's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+The golden sigla form a link between Andthi and the magical druidic pool. You
+ sense power flowing between them.
+Andthi removes a green glove, a green glove, Girdle of Ethereal Power labeled as WIS, a rose clasp, heavy tabard with a chalice ensignia, The Mask of Higher Consciousness, bracelet made of green crystal, bracelet made of green crystal, glittering leg protectors, Nova Arcanum, Melkior's book of necromancy, Nova Arcanum, Melkior's book of necromancy, The gleaming blue collar of Bengalore, a pair of black boots, Tattered Silver Shimmering Cloak, silver dragon bracers, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) and shroud of darkness.
+Andthi shivers from the cold.
+Andthi shivers from the cold.
+Andthi wears an ancient staff of the necromancer <orange glow>, an ancient staff of the necromancer <orange glow>, Red Glove of the Healer <red glow>, Red Glove of the Healer <red glow>, A magic cloak <orange glow>, a pair of old dark green boots <red glow>, a collar made of black silk <red glow>, the Bracelets of Darkness <red glow>, Spider Amulet <orange glow>, Mirror breastplate <orange glow>, a majectical black crown <orange glow>, Girdle of Ethereal Power labeled as SPR <orange glow>, Sacred Bracelets of Eternity <red glow>, a battle-scarred shin guard <orange glow>, a battle-scarred shin guard <orange glow>, sparkling ruby ring <red glow> and shroud of darkness.
+Andthi starts concentrating on a new spell.
+Andthi removes Mirror breastplate.
+Andthi wears heavy tabard with a chalice ensignia <orange glow>.
+Onyxsablet removes Sacred Bracelets of Eternity labeled as (Onyx), a wand of magic labeled as (Onyx), Red Glove of the Healer labeled as (ancient), a magic cloak labeled as (Onyx), A heavy black metal ring labeled as (Onyx), a wand of magic labeled as (Onyx), an engraved cross amulet labeled as (ancient), Red Glove of the Healer labeled as (ancient), a collar made of black silk labeled as (ancient), a torn leather muscle shirt labeled as (Onyx) and A heavy black metal ring labeled as (Onyx).
+Onyxsablet wears a green glove labeled as (Onyx), The gleaming blue collar of Bengalore <red glow>, the stone amulet of the earth elementalist labeled as (Onyx), silver dragon bracers labeled as (Onyx) <red glow>, Ring of Many Wonders, Cape of Knowledge labeled as (Onyx) <red glow>, a green glove labeled as (Onyx), a wooden drum labeled as (Onyx) <red glow>, heavy tabard with a chalice ensignia labeled as (Onyx) and Ring of Many Wonders.
+Andthi cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Andthi's spell heals you. You feel much better.
+hp 1358/1391 (+116) | sp 929/1019 (+93) | ep 559/559 (+26)
+Info: Thatguy goes link dead.
+Spider Queen smiles upon you and helps you control the demon.
+Andthi starts concentrating on a new spell.
+hp 1358/1391 () | sp 902/1019 (-27) | ep 559/559 ()
+Onyxsablet starts concentrating on a new spell.
+Andthi cast(s): 'judicandus puorgo ignius' (Minor party heal)
+Andthi's spell heals you. You feel very much better.
+hp 1383/1391 (+25) | sp 902/1019 () | ep 559/559 ()
+Onyxsablet cast(s): '$ !^' (Drain pool)
+Onyxsablet's druidstaff is surrounded by a sudden cloudburst, and you can see
+ her glorying in sheer power.
+The golden sigla form a link between Onyxsablet and the magical druidic pool.
+ You sense power flowing between them.
+Andthi starts concentrating on a new spell.
+Onyxsablet starts concentrating on a new spell.
+Info: Mallarch goes link dead.
+Orthanc wears black silk wrapped around legs.
+Andthi cast(s): 'judicandus puorgo ignius' (Minor party heal)
+Andthi's spell heals you. You feel all better.
+hp 1391/1391 (+8) | sp 902/1019 () | ep 559/559 ()
+Onyxsablet removes a green glove labeled as (Onyx), The gleaming blue collar of Bengalore, the stone amulet of the earth elementalist labeled as (Onyx), silver dragon bracers labeled as (Onyx), Ring of Many Wonders, Cape of Knowledge labeled as (Onyx), a green glove labeled as (Onyx), a wooden drum labeled as (Onyx), heavy tabard with a chalice ensignia labeled as (Onyx) and Ring of Many Wonders.
+Onyxsablet wears Sacred Bracelets of Eternity labeled as (Onyx) <red glow>, a wand of magic labeled as (Onyx) <red glow>, Red Glove of the Healer labeled as (ancient) <red glow>, a magic cloak labeled as (Onyx), A heavy black metal ring labeled as (Onyx), a wand of magic labeled as (Onyx) <red glow>, an engraved cross amulet labeled as (ancient) <red glow>, Red Glove of the Healer labeled as (ancient) <red glow>, a collar made of black silk labeled as (ancient) <red glow>, a torn leather muscle shirt labeled as (Onyx) <red glow> and A heavy black metal ring labeled as (Onyx).
+Onyxsablet cast(s): 'judicandus puorgo ignius' (Minor party heal)
+Virgo [sales]: 100k
+Davian [sales]: non claimable damn
+Andthi [party]: joko tapetaa!
+Andthi removes heavy tabard with a chalice ensignia.
+Andthi wears Mirror breastplate <orange glow>.
+Orthanc [party]: kellas o suppress
+Davian [sales]: 100k x1
+hp 1391/1391 () | sp 904/1019 (+2) | ep 559/559 ()
+Susette starts concentrating on a new spell.
+p say mul
+Nuane (party): mul
+[00:27:14] hp 1391/1391 | sp 904/1019 | ep 559/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Onyxsablet [report]: Unpain Expires. []
+p say bashaan!
+Nuane (party): bashaan!
+[00:27:19] hp 1391/1391 | sp 904/1019 | ep 559/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Susette cast(s): 'morri nam pantoloosa' (Toxic dilution)
+Orthanc [party]: nyt pitaa ottaa varovasti siina mielessa etta ei kiinnosta wipee enaa :)
+Susette [party]: ( Toxic Dilution UP ) {Cast by Me}
+Info: Mako goes link dead.
+Susette starts concentrating on a new spell.
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1391(1391)  904(1019) 559(559) | 100 |       529334 |
+| 1.2   Kyo           fol 1445(1445)   46(  46) 289(405) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1327(1327)  473( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  847( 847)  521(1136) 351(351) | 100 |       523906 |
+| 2.2   Glycoli       fol  881( 881)  161(1204) 453(453) | 100 |       523228 |
+| 2.3   Weilian       fol  443( 443)  645(1490) 232(232) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  572( 572)  684(1156) 260(260) |  90 |       492940 |
+| 3.2   Mandrake      fol  842( 842)  471(1246) 246(246) |  93 |       500423 |
+| 3.3   Andthi        fol  646( 646)  591(1231) 262(262) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:27:28] hp 1391/1391 | sp 904/1019 | ep 559/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Andthi [party]: Unpain Expires. []
+Kyo's flex shield wobbles, PINGs and vanishes.
+Mandrake starts concentrating on a new spell.
+Kyo [party]: < Flex Shield DOWN > [16:36]
+p say venataaks suppressi vaa suosiol
+Nuane (party): venataaks suppressi vaa suosiol
+[00:27:33] hp 1391/1391 | sp 904/1019 | ep 559/559 | exp 4037 | $ 20/515584 | wimpy: off
+
+Weilian [party]: Shield of detoxification >> weilian
+Andthi starts concentrating on a new spell.
+party report Earth blood off. [15m49s]
+The runic sigla '!( *)' (Earth blood) fade away.. leaving you feeling strange.
+Nuane (report): Earth blood off. [15m49s]
+[00:27:36] hp 1391/1320 | sp 904/1019 | ep 559/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+hp 1320/1320 (-71) | sp 904/1019 () | ep 559/556 ()
+hp 1320/1320 () | sp 1000/1019 (+96) | ep 559/556 ()
+Susette cast(s): 'morri nam pantoloosa' (Toxic dilution)
+Onyxsablet removes Sacred Bracelets of Eternity labeled as (Onyx), a wand of magic labeled as (Onyx), Red Glove of the Healer labeled as (ancient), a magic cloak labeled as (Onyx), A heavy black metal ring labeled as (Onyx), a wand of magic labeled as (Onyx), an engraved cross amulet labeled as (ancient), Red Glove of the Healer labeled as (ancient), a collar made of black silk labeled as (ancient), a torn leather muscle shirt labeled as (Onyx) and A heavy black metal ring labeled as (Onyx).
+Onyxsablet wears a green glove labeled as (Onyx), The gleaming blue collar of Bengalore <red glow>, the stone amulet of the earth elementalist labeled as (Onyx), silver dragon bracers labeled as (Onyx) <red glow>, Ring of Many Wonders, Cape of Knowledge labeled as (Onyx) <red glow>, a green glove labeled as (Onyx), a wooden drum labeled as (Onyx) <red glow>, heavy tabard with a chalice ensignia labeled as (Onyx) and Ring of Many Wonders.
+Onyxsablet [report]: Toxic Dilution Active.
+Info: Hattori goes link dead.
+hp 1320/1320 () | sp 1019/1019 (+19) | ep 556/556 (-3)
+Davian [sales]: 100k x2 (dear god goes cheap)
+p say eiku andthil ei ollu
+Nuane (party): eiku andthil ei ollu
+[00:27:44] hp 1320/1320 | sp 1019/1019 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+p say mjoo
+
+Nuane (party): mjoo
+[00:27:46] hp 1320/1320 | sp 1019/1019 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Onyxsablet starts concentrating on a new spell.
+Mandrake (party): kait sen voi, cotti+degeni sillä
+Info: Rowen goes link dead.
+p say no se kuolis kyl
+Weilian cast(s): 'nyiaha llaimay exchekes ployp' (Shield of detoxification)
+As Weilian casts the spell, he pulls out a tiny amethyst crystal which bursts into a million prismatic starbursts.
+party report Flex shield off. [16m35s]
+Your flex shield wobbles, PINGs and vanishes.
+Nuane (party): no se kuolis kyl
+[00:27:49] hp 1320/1320 | sp 1019/1019 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Weilian [report]: Shield of detox. >> On
+Nuane (report): Flex shield off. [16m35s]
+[00:27:49] hp 1320/1320 | sp 1019/1019 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+*Onyxsablet hastes...
+Andthi cast(s): 'harnaxan temnahecne' (Unpain)
+*Onyxsablet Ghastes...
+Kyo [party]: < Earth Blood DOWN > [15:49]
+p say *shrug*
+(party): Nuane shrugs helplessly.
+[00:27:52] hp 1320/1320 | sp 1019/1019 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Onyxsablet cast(s): '^ !)' (Flex shield)
+Onyxsablet's druidstaff is surrounded by a sudden cloudburst, and you can see
+ her glorying in sheer power.
+party report Flex shield on.
+You sense a flex shield covering your body like a second skin.
+Nuane (report): Flex shield on.
+[00:27:55] hp 1320/1320 | sp 1019/1019 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Onyxsablet starts concentrating on a new spell.
+*Onyxsablet hastes...
+Susette [party]: eihän muutenkan regee eikä oo hipoo
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1320(1320) 1019(1019) 556(556) | 100 |       529334 |
+| 1.2   Kyo           fol 1349(1349)   46(  46) 304(403) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1327(1327)  515( 515) 422(422) |  84 |       701895 |
+| 2.1   Susette       fol  847( 847)  579(1136) 351(351) | 100 |       523906 |
+| 2.2   Glycoli       fol  881( 881)  119(1204) 453(453) | 100 |       523228 |
+| 2.3   Weilian       fol  572( 572)  684(1490) 232(232) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  585( 585)  729(1275) 267(267) |  90 |       492940 |
+| 3.2   Mandrake      fol  842( 842)  656(1246) 246(246) |  93 |       500423 |
+| 3.3   Andthi        fol  646( 646)  491(1231) 262(262) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:27:59] hp 1320/1320 | sp 1019/1019 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc [report]: earth blood off (14m 25s)
+*Onyxsablet hastes...
+Onyxsablet cast(s): '^ !)' (Flex shield)
+Orthanc's flex shield wobbles, PINGs and vanishes.
+Onyxsablet's druidstaff is surrounded by a sudden cloudburst, and you can see
+ her glorying in sheer power.
+You sense Orthanc's body being covered by a flex shield.
+Orthanc [report]: flex shield off (16m 36s)
+Orthanc [report]: flex shield on
+Onyxsablet starts concentrating on a new spell.
+Info: Moonshine left the game.
+Nuane's demon  feels easier to control than usual.
+Nuane's spider demon draws power from you.
+hp 1316/1316 (-4) | sp 919/1016 (-100) | ep 556/556 ()
+Davian [sales]: come on offer more man needs reinc money :)
+c nuane
+*Onyxsablet Ghastes...
+You start chanting.
+CASTING CONCEALED.
+[00:28:16] hp 1316/1316 | sp 919/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Susette tweaks Mandrake's nose mischievously.
+(party): Mandrake : I detect Warez(6m5s) Unp(6m30s) and 0 unstun(s).
+Spider demon control: 1
+*Onyxsablet hastes...
+Keffe (wanted): summon please
+Onyxsablet cast(s): '^ !)' (Flex shield)
+Onyxsablet's druidstaff is surrounded by a sudden cloudburst, and you can see
+ her glorying in sheer power.
+You sense Kyo's body being covered by a flex shield.
+You are done with the chant.
+Alas, your magic is suppressed.
+Susette starts concentrating on a new spell.
+Kyo [party]: ( Flex Shield UP ) {Cast by }
+Kerzebel [wanted]: exp party for tarmanavi
+Onyxsablet starts concentrating on a new spell.
+Mandrake looks at herself.
+Weilian cast(s): 'fooohh haaahhh booooloooooh' (Aura detection)
+Orthanc [party]: nii kella ei ole suppressii
+*Onyxsablet Ghastes...
+*Onyxsablet hastes...
+Keffe (wanted): got from davian
+party say Embracing melody down. [16m38s]
+The embracing melody subsides, leaving you longing for more.
+Orthanc [report]: melodical embracement off (16m 38s)
+Glycoli [party]: < Melodical Embracement DOWN > [16:38]
+Nuane (party): Embracing melody down. [16m38s]
+[00:28:32] hp 1316/1316 | sp 919/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Susette [party]: < Melodical Embracement DOWN > [16:38]
+Davian [wanted]: got keffe
+Kyo [party]: < Melodical Embracement DOWN > [16:39]
+Orthanc [party]: jos on useempi ampuja ni
+Onyxsablet cast(s): 'harnaxan temnahecne' (Unpain)
+Onyxsablet [report]: Unpain Active.
+Weilian [party]: ei o
+party report Full sp.
+You sizzle with magical energy.
+hp 1316/1316 () | sp 1016/1016 (+97) | ep 556/556 ()
+Susette cast(s): 'morri nam pantoloosa' (Toxic dilution)
+Nuane (report): Full sp.
+[00:28:37] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+(party): Mandrake : Toxic Dilution Active {casted by Susette}.
+Orthanc [party]: vois tappaa
+Mandrake lets out an 'ah' of comprehension.
+Weilian removes shroud of darkness, Girdle of Ethereal Power, a torn leather muscle shirt, a collar made of black silk labeled as {w}, Demonclaw boots, Leggings of Sorrow, sparkling red bracers, White ring of magic [Made by: Weilian] labeled as m1 (moderate), a wand of magic, A pair of beautiful silk gloves labeled as {w}, a magic cloak labeled as {w}, fine eyeglasses labeled as {w}, the Bracelets of Darkness labeled as {w}, The Amulet of Truth labeled as {S} and White ring of magic [Made by: Weilian] labeled as m2 (strong).
+Weilian wears shroud of darkness.
+Info: Turmio left the game.
+Onyxsablet removes shroud of darkness, a green glove labeled as (Onyx), The gleaming blue collar of Bengalore, the stone amulet of the earth elementalist labeled as (Onyx), silver dragon bracers labeled as (Onyx), Ring of Many Wonders, Cape of Knowledge labeled as (Onyx), a green glove labeled as (Onyx), a wooden drum labeled as (Onyx), heavy tabard with a chalice ensignia labeled as (Onyx) and Ring of Many Wonders.
+Onyxsablet wears shroud of darkness.
+Onyxsablet looks at herself.
+Orthanc [party]: onko tarmaa jolla ei ole
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1316(1316) 1016(1016) 556(556) | 100 |       529334 |
+| 1.2   Kyo           fol 1349(1349)   46(  46) 364(403) |  77 |       473253 |
+| 1.3   Orthanc       ldr 1259(1259)  515( 515) 420(420) |  84 |       701895 |
+| 2.1   Susette       fol  847( 847)  573(1136) 351(351) | 100 |       523906 |
+| 2.2   Glycoli       fol  881( 881)  200(1204) 453(453) | 100 |       523228 |
+| 2.3   Weilian       fol  564( 564) 1058(1483) 235(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  787( 787)  595(1148) 267(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  842( 842) 1020(1246) 246(246) |  93 |       500423 |
+| 3.3   Andthi        fol  646( 646)  580(1231) 262(262) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:28:44] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Info: Aesedai goes link dead.
+Susette whimpers ailingly.
+Light of Mandrake's wings slowly fades away and she gently floats to the
+ground.
+Mandrake removes shroud of darkness, A shappy indium cross (holy), a wand of magic, Spider Amulet, a collar made of black silk, a white glove, a white glove, Girdle of Ethereal Power labeled as spr, a black scaly finger guard, made of thorns (burned), A heavy black metal ring, Snowy white feather wings of an Angel, a majectical black crown, Black Leggings of the Sorcerer <black aura>, Prancy high-heeled glass shoes labeled as intboots, heavy tabard with a chalice ensignia and a pair of pure white flowing sleeves.
+Mandrake wears shroud of darkness.
+Mandrake wears A shappy indium cross (holy).
+Mandrake wears a wand of magic <red glow>, Spider Amulet, a collar made of black silk <red glow>, a white glove <purple glow> and a white glove <red glow>.
+p say o
+Onyxsablet [party]: ei o
+Nuane (party): o
+[00:28:48] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Dwarf guard shouts 'Burn in hell, Sinistar!'
+Info: Sinistar dies.
+Susette [party]: No longer stunned.
+Kyo [party]: joo nöyrtyy se jo
+Andthi [party]: ei oo
+Info: Valkrist goes link dead.
+Mandrake removes shroud of darkness, A shappy indium cross (holy), a wand of magic, Spider Amulet, a collar made of black silk, a white glove and a white glove.
+Mandrake wears shroud of darkness.
+Mandrake wears A shappy indium cross (holy).
+Davian [sales]: 100k x3 ?
+Orthanc [party]: tappo
+Mandrake (party): tappo vaan joo
+party report Shelter down.
+The shimmering blue forcefield vanishes.
+Mandrake removes shroud of darkness and A shappy indium cross (holy).
+Andthi [party]: --> Shelter Expires. <--
+Mandrake wears shroud of darkness.
+Onyxsablet [report]: --> Shelter Expires. <--
+Mandrake wears A shappy indium cross (holy).
+Andthi removes an ancient staff of the necromancer, an ancient staff of the necromancer, Red Glove of the Healer, Red Glove of the Healer, A magic cloak, a pair of old dark green boots, a collar made of black silk, the Bracelets of Darkness, Spider Amulet, a majectical black crown, Girdle of Ethereal Power labeled as SPR, Sacred Bracelets of Eternity, a battle-scarred shin guard, a battle-scarred shin guard, sparkling ruby ring, shroud of darkness and Mirror breastplate.
+Nuane (report): Shelter down.
+[00:28:55] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+(party): Mandrake : Shelter Expires.
+Andthi wears a green glove <red glow>, a green glove <red glow>, Girdle of Ethereal Power labeled as WIS <orange glow>, a rose clasp <red glow>, heavy tabard with a chalice ensignia <orange glow>, The Mask of Higher Consciousness <red glow>, bracelet made of green crystal <red glow>, bracelet made of green crystal <red glow>, glittering leg protectors <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, The gleaming blue collar of Bengalore <red glow>, a pair of black boots <red glow>, Tattered Silver Shimmering Cloak <red glow>, silver dragon bracers <red glow>, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow> and shroud of darkness.
+Susette removes a purple glove, a black hood labeled as <|susette|>, a collar made of black silk labeled as <|susette|>, The Amulet of Truth labeled as <|susette|>, Slime cloak, a torn leather muscle shirt labeled as <|susette|>, a mithril ring, called 'eckma' labeled as <|susette|>, A heavy black metal ring labeled as <|susette|>, a wand of magic labeled as <|susette|>, a wand of magic labeled as <|susette|>, Glimmering Belt of the Elements labeled as <|susette|>, The protectors and Boots of the Goddess.
+Susette wears Nova Arcanum, Melkior's book of necromancy labeled as <|susette|>.
+Susette wields The staff of Lerethin labeled as <|susette|> <red glow> in her left hand.
+Susette wears the shining helm of azakh-khanan labeled as <|susette|> <red glow>, a pair of black boots labeled as wis, glittering leg protectors, Girdle of Ethereal Power <red glow>, Cape of Knowledge labeled as <|susette|> <red glow>, Ring of wisdom [Made by: Matriam] labeled as 6wisalch, A ring of wisdom [Made by: Kyynel] labeled as 6wis 1hpr, a rose clasp labeled as <|susette|> <red glow>, a sparkling breastplate labeled as <|susette|> <red glow> and The gleaming blue collar of Bengalore labeled as <|susette|> <red glow>.
+Orthanc leaves east.
+The Astral Plane (u,d,e,w,n,s).
+Spider webs block this way. You need to return, a big pile of mowgles
+coins, a small pile of copper coins, a flawed red-brown
+carnelian, a shoddy white rhodonite, a cotton bow tie,
+an ebony pilum, a small pile of bronze coins, two
+thin, black daggers and a small pile of silver
+coins
+Orthanc Muumi the member of Catfolk Thorax Surgeon < Jammin' with Llyth >
+Llyth, the demon queen of spiders
+Onyxsablet arrives from west.
+Glycoli arrives from west.
+Weilian arrives from west.
+Kyo sneaks in from west.
+Andthi arrives from west.
+Mandrake arrives from west.
+Susette arrives from west.
+Weilian starts concentrating on a new offensive spell.
+Susette starts concentrating on a new offensive spell.
+Onyxsablet starts concentrating on a new spell.
+Kyo exclaims 'nöyrry PERKELE!'
+habo
+Orthanc starts concentrating on a new offensive spell.
+You start chanting.
+[00:29:00] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Mandrake starts concentrating on a new spell.
+Glycoli starts concentrating on a new offensive spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 5 times.
+Kyo hits Llyth 2 times.
+Harm body: 6
+Harm body: 4 (greater haste)
+You are casting 'harm body'.
+[00:29:01] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:29:01] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+*Onyxsablet hastes...
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1316(1316) 1016(1016) 556(556) | 100 |       529334 |
+| 1.2   Kyo           fol 1349(1349)   46(  46) 364(403) |  77 |       473253 |
+| 1.3   Orthanc       ldr  918(1259)  515( 515) 420(420) |  84 |       701895 |
+| 2.1   Susette       fol  847( 855)  737(1332) 351(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  881( 881)  260(1204) 453(453) | 100 |       523228 |
+| 2.3   Weilian       fol  564( 564) 1058(1483) 235(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  787( 787)  595(1148) 267(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  829( 829) 1020(1160) 246(253) |  93 |       500423 |
+| 3.3   Andthi        fol  646( 646)  641(1486) 262(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:29:01] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1316 (1316) Sp: 1016 (1016) Ep: 556 (556).
+[00:29:01] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Andthi starts concentrating on a new offensive spell.
+Kyo starts concentrating on a new offensive skill.
+Orthanc starts concentrating on a new offensive spell.
+A dry wind blows here.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 4 times.
+Nuane hits Llyth 1 time.
+Weilian cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Weilian casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Weilian grins as his acid blast hits Llyth.
+Harm body: 3
+Harm body: 2 (haste)
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Llyth.
+You are casting 'harm body'.
+[00:29:04] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:29:04] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1316(1316) 1016(1016) 556(556) | 100 |       529334 |
+| 1.2   Kyo           fol 1349(1349)   46(  46) 364(403) |  77 |       473253 |
+| 1.3   Orthanc       ldr  752(1259)  515( 515) 420(420) |  84 |       701895 |
+| 2.1   Susette       fol  847( 855)  683(1332) 351(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  881( 881)  260(1204) 453(453) | 100 |       523228 |
+| 2.3   Weilian       fol  564( 564)  962(1483) 235(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  787( 787)  595(1148) 267(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  829( 829) 1020(1160) 246(253) |  93 |       500423 |
+| 3.3   Andthi        fol  646( 646)  641(1486) 262(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:29:04] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1316 (1316) Sp: 1016 (1016) Ep: 556 (556).
+[00:29:04] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Orthanc reports: Hp: 752 (1259) Sp: 515 (515) Ep: 420 (420).
+Kyo quickly steps forward and pounds Llyth in the temple!
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 5 times.
+hp 1312/1316 (-4) | sp 1016/1016 () | ep 556/556 ()
+Harm body: 1
+You are casting 'harm body'.
+[00:29:07] hp 1312/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:29:07] hp 1312/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1312(1316) 1016(1016) 556(556) | 100 |       529334 |
+| 1.2   Kyo           fol 1345(1349)   46(  46) 332(403) |  77 |       473253 |
+| 1.3   Orthanc       ldr  550(1259)  515( 515) 420(420) |  84 |       701895 |
+| 2.1   Susette       fol  847( 855)  683(1332) 351(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  881( 881)  260(1204) 453(453) | 100 |       523228 |
+| 2.3   Weilian       fol  564( 564)  962(1483) 235(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  787( 787)  595(1148) 267(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  829( 829) 1020(1160) 246(253) |  93 |       500423 |
+| 3.3   Andthi        fol  646( 646)  641(1486) 262(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:29:07] hp 1312/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1312 (1316) Sp: 1016 (1016) Ep: 556 (556).
+[00:29:07] hp 1312/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Mandrake cheers enthusiastically.
+Orthanc starts concentrating on a new offensive skill.
+Orthanc reports: Hp: 550 (1259) Sp: 515 (515) Ep: 420 (420).
+Mandrake cheers enthusiastically.
+Onyxsablet cast(s): 'judicandus eurto mangenic' (True party heal)
+Onyxsablet's spell heals you. You feel all better.
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Llyth.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 2 times.
+Nuane hits Llyth 1 time.
+hp 1316/1316 (+4) | sp 1016/1016 () | ep 556/556 ()
+You are done with the chant.
+Alas, your magic is suppressed.
+Llyth makes shooing gestures with her hands and whispers 'voi hellapoliisin
+ kevatnuija'
+You are hit by a mental storm suppressing your magic.
+Llyth hits Susette, Mandrake, Andthi, Kyo, Weilian, Glycoli, Onyxsablet, Nuane and Orthanc with her suppress magic.
+Susette weaves a mystic matrix with glowing indigo lines and cast(s): 'Khizanth
+ Arachnidus Iracundus'
+A shower of black blood flies from Susette's palm at Llyth!
+Kyo starts concentrating on a new offensive skill.
+You are not doing anything at the moment.
+[00:29:10] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Llyth is near death. (0-10% hps)
+[00:29:10] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1316(1316) 1016(1016) 556(556) | 100 |       529334 |
+| 1.2   Kyo           fol 1349(1349)   46(  46) 332(403) |  77 |       473253 |
+| 1.3   Orthanc       ldr  712(1259)  515( 515) 420(420) |  84 |       701895 |
+| 2.1   Susette       fol  833( 855)  580(1332) 351(343) | 100 |       523906 |
+| 2.2   Glycoli       fol  881( 881)  235(1204) 453(453) | 100 |       523228 |
+| 2.3   Weilian       fol  564( 564)  962(1483) 235(235) |  90 |       493269 |
+| 3.1   Onyxsablet    fol  787( 787)  371(1148) 267(271) |  90 |       492940 |
+| 3.2   Mandrake      fol  829( 829) 1020(1160) 246(253) |  93 |       500423 |
+| 3.3   Andthi        fol  646( 646)  641(1486) 262(244) |  90 |       351838 |
+`-----------------------------------------------------------------------------'
+[00:29:10] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1316 (1316) Sp: 1016 (1016) Ep: 556 (556).
+[00:29:10] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Andthi starts concentrating on a new offensive spell.
+Onyxsablet starts concentrating on a new spell.
+use bash
+You start concentrating on the skill.
+[00:29:11] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 4037 | $ 20/515584 | wimpy: off
+
+Kalakth [sales]: 105k
+Glycoli starts concentrating on a new offensive spell.
+Mandrake buzzes 'voitatte.'
+cast info
+scan all
+pss
+pr
+*****************************************************
+Llyth hits Orthanc 4 times.
+Nuane hits Llyth 2 times.
+Kyo hits Llyth 2 times.
+Weilian cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Weilian casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Weilian grins as his acid blast hits Llyth.
+Llyth dies in a massive pool of blood.
+save
+Llyth is DEAD, R.I.P.
+The magic mist around the dead Llyth's neck leaps to Mandrake's Kerbholz.
+The magic mist around the dead Llyth's neck leaps to your Kerbholz.
+A new mark appears.
+The magic mist around the dead Llyth's neck leaps to Susette's Kerbholz.
+hp 1316/1316 () | sp 1016/1016 () | ep 556/556 ()
+*Onyxsablet hastes...
+You are using 'bash'.
+[00:29:13] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 48305 | $ 20/515584 | wimpy: off
+You gained 44268 xp.
+
+[00:29:13] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 48305 | $ 20/515584 | wimpy: off
+
+Susette holds a Necromatic Staff high above her head and cast(s): 'arkemile'
+The corpse writhes and twists; then suddenly it disintegrates into dust.
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1316(1316) 1016(1016) 556(556) | 100 |       583986 |
+| 1.2   Kyo           fol 1349(1349)   46(  46) 332(403) |  77 |       519972 |
+| 1.3   Orthanc       ldr  556(1259)  515( 515) 420(420) |  84 |       780345 |
+| 2.1   Susette       fol  841( 855)  588(1332) 343(343) | 100 |       578558 |
+| 2.2   Glycoli       fol  881( 881)  235(1204) 453(453) | 100 |       577880 |
+| 2.3   Weilian       fol  564( 564)  866(1483) 235(235) |  90 |       544573 |
+| 3.1   Onyxsablet    fol  787( 787)  371(1148) 267(271) |  90 |       544244 |
+| 3.2   Mandrake      fol  829( 829) 1020(1160) 246(253) |  93 |       552746 |
+| 3.3   Andthi        fol  646( 646)  641(1486) 262(244) |  90 |       403142 |
+`-----------------------------------------------------------------------------'
+[00:29:13] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 48305 | $ 20/515584 | wimpy: off
+
+Nuane reports: Hp: 1316 (1316) Sp: 1016 (1016) Ep: 556 (556).
+[00:29:13] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 48305 | $ 20/515584 | wimpy: off
+
+SAVED.
+[00:29:13] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 48305 | $ 20/515584 | wimpy: off
+
+Orthanc [party]: hehhih!
+Kyo takes the Great Belt of the Demon Queen of Spiders, a big pile of mowgles
+ coins, a cotton bow tie, a small pile of copper coins, a black gem, a small
+ jug (full), a flawed red-brown carnelian, 2 thin, black daggers, Spider
+ Amulet, Stinger <red glow>, a small pile of bronze coins, the Crown of Eyes,
+ an ebony pilum, 19 anipium coins, a shoddy white rhodonite, a small pile of
+ silver coins and a small hill of zinc coins.
+p kills
+,-----------------------------------------------------------------------------.
+|      82: One of the unforgiven, Llyth's Death Knight                        |
+|     198: a giant crystal spider                                             |
+|     317: a huge demon in the service of Llyth                               |
+|     230: a giant crystal spider                                             |
+|     356: a huge demon in the service of Llyth                               |
+|      98: One of the unforgiven, Llyth's Death Knight                        |
+|   11604: (The Crimson Death)                                                |
+|    9018: (The Crimson Death)                                                |
+|     454: a huge demon in the service of Llyth                               |
+|     173: a huge demon in the service of Llyth                               |
+|     545: a huge crystal spider                                              |
+|     136: a huge demon in the service of Llyth                               |
+|       9: a small impish demon                                               |
+|       9: A grey ghostly pigeon                                              |
+|    2820: (The Crimson Death)                                                |
+|   10468: (The Crimson Death)                                                |
+|    2328: (The Crimson Death)                                                |
+|    8509: (The Crimson Death)                                                |
+|    7298: (The Crimson Death)                                                |
+|  495360: Llyth, the demon queen of spiders                                  |
+`-----------------------------------------------------------------------------'
+This party has killed 187 monsters (avg exp/mon: 27194).
+[00:29:18] hp 1316/1316 | sp 1016/1016 | ep 556/556 | exp 48305 | $ 20/515584 | wimpy: off

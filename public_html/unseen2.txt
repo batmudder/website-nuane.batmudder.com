@@ -1,0 +1,229 @@
+Dupre tiptoes to the up.
+Lyriikka leaves up.
+Darol leaves up.
+Susette leaves up.
+Milk leaves up.
+Andthi leaves up.
+Yggrasil leaves up.
+Top floor of central tower (d).
+Yggrasil the Cromagnon < d >
+Andthi the Owl is Evil or Divine... < d >
+Milk the Ent Orc drill instructor < d >
+Susette the Sprite Harbinger of pure Evil < d >
+Darol Dawnlight the Satyr Saturn < d >
+Lyriikka Villipoika the Ogre *UROS* < d >
+Dupre Talakkuna the Cromagnon duunailee < d >
+amazon princess Tigra is trying to rally the council
+amazon warrior Tara is considering about slaughtering the orcs of Misty Forest
+Kyo [wanted]: or ancient templar mace or something
+sz tara
+You start chanting.
+Tigra is disturbed by spellcasting.
+cast info
+scan all
+*****************************************************
+Yggrasil hits Tigra 1 time.
+Lyriikka hits Tigra 1 time.
+** Cost for 'sz tara': Cost: utime:60 stime:0 ticks:268923 **
+[22:12:15] hp 515/515 | sp 1275/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+You are casting 'mindseize' at 'tara'.
+[22:12:15] hp 515/515 | sp 1275/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Yggrasil reports: Hp: 1451 (1461) Sp: 29 (29) Ep: 366 (403).
+Tigra is in excellent shape. (90-100% hps)
+Tara is in excellent shape. (90-100% hps)
+[22:12:15] hp 515/515 | sp 1275/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Tara hits Dupre 1 time.
+Mindseize: 3
+Mindseize: 1 (greater haste)
+Nuane's disc floats in.
+Susette starts concentrating on a new offensive spell.
+p say tjaa
+Nuane (party): tjaa
+[22:12:17] hp 515/515 | sp 1275/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Ghost of Virgo [ghost]: rais
+t tara
+Tigra kicks Dupre in the groin very hard making the foe gasp and double up with pain.
+Tara hits Yggrasil 1 time.
+Lyriikka hits Tara 1 time.
+You are done with the chant.
+You cast(s): 'diir mieelis sxil miarr mieelin' (Mindseize)
+You focus on the mind of Tara.
+Tara is stunned from the intrusion into her mind.
+hp 515/515 () | sp 1257/1556 (-18) | ep 314/326 ()
+cast info
+scan all
+*****************************************************
+Yggrasil hits Tigra 1 time.
+Tigra hits Dupre 2 times.
+Dupre starts concentrating on a new offensive skill.
+[22:12:19] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Yggrasil reports: Hp: 1416 (1461) Sp: 29 (29) Ep: 366 (403).
+Borealis [wanted]: summon
+You are now targetting Tara.
+[22:12:19] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Nuane (party): Target set: 'tara'.
+[22:12:20] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+You are not doing anything at the moment.
+[22:12:20] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Tigra is in excellent shape. (90-100% hps)
+Tara is in excellent shape. (90-100% hps)
+[22:12:20] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Milk starts concentrating on a new offensive spell.
+cball
+You start chanting.
+[22:12:21] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Darol plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+Darol grins as his con fioco hits Tigra.
+Channelball: 3
+Tigra hits Lyriikka 1 time.
+Lyriikka starts concentrating on a new offensive skill.
+p say noh
+Yggrasil reports: Hp: 1416 (1461) Sp: 29 (29) Ep: 366 (403).
+Darol [party]: 20% resist.
+Lyriikka reports: Hp: 1641 (1669) Sp: 47 (47) Ep: 368 (418).
+Nuane (party): noh
+[22:12:24] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Milk [party]: Targetting Tara
+Yggrasil [party]: Targetted: tara
+Darol starts concentrating on a new offensive spell.
+Tigra swings a foot in a long arc landing the kick at Dupre's kneecap. 'CRACK!'
+cast info
+scan all
+*****************************************************
+Yggrasil hits Tara 1 time.
+Channelball: 2
+Channelball: 1 (haste)
+Tara cast(s): 'gtzt mar nak grttzt' (Golden arrow)
+Tara grins as her golden arrow hits Dupre.
+Dupre hits Tigra 1 time.
+The eastern sky glows with early dawn.
+Yggrasil reports: Hp: 1413 (1461) Sp: 29 (29) Ep: 366 (403).
+You are casting 'channelball'.
+[22:12:27] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Tigra is in excellent shape. (90-100% hps)
+Tara is in excellent shape. (90-100% hps)
+[22:12:27] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  8) | Exp Tot:    120765 |
+| Created: Wed Jan 21 17:52:46 2004        ( 4h 19m 41s) | Exp/min:       464 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         ldr  966(1594)   29(  29) 323(406) | 100 |        21675 |
+| 1.2   Lyriikka      fol 1641(1669)   47(  47) 368(418) | 100 |        14782 |
+| 1.3   Yggrasil      fol 1413(1461)   29(  29) 366(403) | 100 |        14782 |
+| 2.1   Nuane         fol  515( 515) 1257(1556) 314(326) | 100 |        15384 |
+| 2.2   Susette       fol  799( 807)  614(1142) 386(386) | 100 |        14782 |
+| 2.3   Milk          fol 1204(1204)  819(1129) 405(405) | 100 |        14782 |
+| 3.1   Darol         fol  880( 880)  391( 582) 401(424) |  78 |        12734 |
+| 3.2   Andthi        fol  738( 738)  585(1204) 233(233) |  85 |        11844 |
+`-----------------------------------------------------------------------------'
+[22:12:27] hp 515/515 | sp 1257/1556 | ep 314/326 | exp 14138 | $ 0/150144 | wimpy: off
+
+Info: Aiwe enters the game.
+Darol [party]: okei ammun taraa
+Yggrasil starts concentrating on a new skill.
+Yggrasil [party]: Luuuriiing!
+Andthi starts concentrating on a new spell.
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Tara.
+Dupre's powerful bash sends Tigra sprawling to the floor.
+cast info
+scan all
+*****************************************************
+Tara hits Dupre 2 times.
+You are done with the chant.
+You cast(s): 'shar ryo den...Haa!' (Channelball)
+The crackling small blue comet slams into your target and explodes in a deafening bang!
+p say lvl 3 damcrit
+Your fingertips are surrounded with swirling ENERGY as you cast the spell.
+The air is filled with pure energy and crackles with power.
+p say UNSEEN!
+Unseen BURSTS of magic are absorbed into the spell!
+You watch with selfpride as your channelball hits Tara.
+Tara staggers for a moment, then drops to the ground, lifeless.
+save
+Tara is DEAD, R.I.P.
+You seize the mind of the monster as it dies.
+You gain useful knowledge of how the mind works.
+hp 509/515 (-6) | sp 1186/1556 (-71) | ep 311/326 (-3)
+cast info
+scan all
+*****************************************************
+Lyriikka hits Tigra 2 times.
+Dupre hits Tigra 2 times.
+cball
+You are not doing anything at the moment.
+[22:12:29] hp 509/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+You gained 6830 xp.
+Yggrasil reports: Hp: 1413 (1461) Sp: 29 (29) Ep: 366 (403).
+Tigra is in a good shape. (80-90% hps)
+[22:12:29] hp 509/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+
+Nuane (party): lvl 3 damcrit
+[22:12:30] hp 509/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+
+Nuane (party): UNSEEN!
+[22:12:30] hp 509/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+
+SAVED.
+[22:12:30] hp 509/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+
+You are not doing anything at the moment.
+[22:12:30] hp 509/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+
+Tigra is in a good shape. (80-90% hps)
+[22:12:30] hp 509/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+
+You start chanting.
+[22:12:30] hp 509/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+
+Lyriikka starts concentrating on a new offensive skill.
+Yggrasil starts concentrating on a new skill.
+Yggrasil [party]: Luuuriiing!
+Tigra cast(s): 'krkx zur fehh' (Thorn spray)
+A thorn spray hits you.
+hp 464/515 (-45) | sp 1186/1556 () | ep 311/326 ()
+Channelball: 3
+Channelball: 2 (haste)
+cast info
+scan all
+*****************************************************
+Lyriikka hits Tigra 1 time.
+Tigra hits Dupre 1 time.
+Dupre [party]: hehe
+You are casting 'channelball'.
+[22:12:32] hp 464/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+
+Tigra is in a good shape. (80-90% hps)
+[22:12:33] hp 464/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+p say muah
+
+Yggrasil reports: Hp: 1413 (1461) Sp: 29 (29) Ep: 366 (403).
+Susette is struck by complete and utter fear.
+Nuane (party): muah
+[22:12:33] hp 464/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+p say muah
+
+Tigra utters magic words: 'Creo Corporemus Dragonus!'
+p say muah
+Nuane (party): muah
+[22:12:34] hp 464/515 | sp 1186/1556 | ep 311/326 | exp 20968 | $ 0/150144 | wimpy: off
+
+Yggrasil [party]: oho
+
+|   65423: amazon warrior Tara is considering about slaughtering the orcs of  |

@@ -1,0 +1,1993 @@
+Sirdar booms 'Gildron vs. Laaban.'
+
+
+Gildron Turha is a level 84 elder of the Lich race.
+He was created before 1997 and he is 1y, 66d, 12h, 48min and 56s old.
+He has been on for 8h, 24min and 39s, idle 11s.
+He has killed: A rotting mound of garbage, 88926 exp
+               Lear Rotth, the undead lord superior.., 1118742 exp (party of 9)
+Web page: Kalarobotti [party]: gildron "juuso" "helin‰keiju" "turha" turha
+Plan:
+>
+>Maddie tells you 'Oo kiltti pikku-Juuso t‰n‰‰n ja tee ekspaa, ‰l‰ l‰hde
+>petollisten naikkosten matkaan jotka vaan tahtoo sulta sit‰ yht‰ asiaa. :P'
+>
+
+
+Laaban Laupea is a level 100 mortal player killer of the Hobbit race.
+He was created before 1997 and he is 2y, 111d, 15h, 47min and 5s old.
+He has been on for 8h, 53min and 55s, not idle.
+He is the leader of the Hobbit race.
+He has killed: Lord Gabriel keeps an eye on you fro.., 203320 exp
+               Noble soldier of Faerwon guarding th.., 2200000 exp (party of 9)
+He is the top player killer of BatMUD.
+Web page: Get your punk ass out the goddamn mirror
+Plan:
+>Katsellessasi ˆist‰ t‰htitaivasta tuntuu sinusta kuin kaikki t‰hdet
+>nauraisivat, koska min‰ asun er‰‰ss‰ niist‰, koska min‰ nauran er‰‰ss‰ niist‰.
+>Sinun t‰htesi ovat niit‰, jotka osaavat NAURAA!
+>Gront tries foolishly to attack laaban.
+>Asolo [slf+]: mitas vittua, en voi reinccii tota 19lvl aijaa
+>To be a faithful disciple of Burglefloogah.
+>
+
+
+The arena master shouts 'Team 1 consists of Laaban'
+The arena master shouts 'Team 2 consists of Gildron'
+The arena master shouts 'All teams ready! Let the fight begin!'
+       
+ ####  
+ #..#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           1016/1282  363/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1241/1205  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:close door
+Shardik [ARENA] gildron:look
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           1016/1282  363/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1241/1205  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Sirdar gives a thumbs up.
+Shardik [ARENA] gildron:west
+You exclaim 'dodii!'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:use 'sabre fence' sirdar
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           1016/1282  363/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1241/1205  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:look
+Shardik [ARENA] gildron:look
+Shardik [ARENA] gildron:use iron palm at laaban
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           1016/1282  363/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1241/1205  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:south
+Shardik [ARENA] laaban:south
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           1016/1282  363/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1241/1205  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:south
+Shardik [ARENA] gildron:south
+       
+ ####  
+ #..#  
+ #21#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           1043/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1241/1205  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:kill laaban
+Shay [suomi]: puuh no t‰‰ ny meni sivuraiteille mut m‰ vaan MIETIN ett‰ JOS joskus, en sit‰ MIKSI
+Shardik [ARENA] gildron:east
+Sirdar booms 'joha on kunno tankkimatsi :).'
+Juggelo says 'laaban:use 'sabre fence' sirdar.'
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           1006/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1196/1192  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:use iron palm at laaban
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            990/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1042/1150  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Juggelo says '"oho".'
+Viko exclaims '‰ menoa!'
+Qazar [wanted]: healer
+Shardik [ARENA] laaban:say jou
+Shardik [ARENA] laaban:say jou
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] laaban:use 'sabre fence'
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            990/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1042/1150  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:use 'sabre fence'
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:sfence set clear
+Shardik [ARENA] laaban:sfence set clear
+Shardik [ARENA] laaban:sfence show
+Shardik [ARENA] laaban:sfence show
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            950/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1017/1143  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] laaban:use 'sabre fence'
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            950/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1017/1143  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:use 'sabre fence'
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            947/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           992/1136  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Info: Starrlight goes link dead.
+Info: Starrlight recovers from link death.
+Shardik [ARENA] laaban:parry
+Shardik [ARENA] laaban:parry
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            947/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           992/1136  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Viitta [suomi]: ala mieti
+Shardik [ARENA] laaban:aggro yes
+Shardik [ARENA] laaban:aggro yes
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            947/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           992/1136  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:cast info
+Shardik [ARENA] gildron:cast info
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            947/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           848/1098  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:cast info
+Shardik [ARENA] laaban:cast info
+Dino <suomi>: No jos ne joskus tulee ni sit vituttaa
+Guard shouts 'Burn in hell, Yggrasil!'
+Info: Yggrasil dies.
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            947/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           661/1047  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            947/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           661/1047  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Hormelo [wanted]: healer
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            947/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           661/1047  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:yell painfully
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            781/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           579/1025  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:yell painfully
+Info: Mardraum goes link dead.
+Shardik [ARENA] gildron:west
+Shardik [ARENA] gildron:west
+       
+ ####  
+ #..#  
+ #21#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            781/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           579/1025  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:look
+Shardik [ARENA] laaban:look
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            759/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           508/1005  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:west
+Facekiller [suomi]: tulee jos tulee
+You go 'Heh'.
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:use 'sabre fence'
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:kill gildron
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            759/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           508/1005  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:north
+Shardik [ARENA] laaban:use 'sabre fence'
+Shardik [ARENA] laaban:scan all
+Info: Mangara left the game.
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            759/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           508/1005  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Info: Kohothegreat recovers from link death.
+Viko exclaims 'cheer!'
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            759/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           508/1005  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Ruttuturpa snickers.
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            759/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           508/1005  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Info: Buddha goes link dead.
+Sirdar cheers enthusiastically.
+Shardik [ARENA] laaban:north
+       
+ ####  
+ #2.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            643/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           508/1005  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Ruttuturpa howls 'tuomo ojentaa.'
+       
+ ####  
+ #2.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            643/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           508/1005  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+You go 'mmmmm...'.
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #2.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            605/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           508/1005  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Morglum smiles happily.
+Shardik [ARENA] laaban:party say
+Shardik [ARENA] laaban:party say
+Shardik [ARENA] laaban:south
+Shardik [ARENA] laaban:south
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            605/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           508/1005  743/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Juggelo says 'juuso hinaa.'
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            605/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           913/1005  649/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Info: Mallarch recovers from link death.
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            605/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           913/1005  649/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik says 'tiukaks vet‰‰.'
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            605/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           913/1005  649/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Crusifer [suomi]: pakko iskee rahoiks heti rupee hamstraa vitusti =)
+Toudi leaves east.
+Shardik [ARENA] laaban:tell bleezuz hahaa stunni, onneks vaan
+Shaermon falls down laughing.
+Shardik [ARENA] laaban:look
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            605/1282  434/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           913/1005  649/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:look
+Juggelo says 'zuiip 900hp.'
+Stargazer says 'perkele tasasempi.'
+Shardik [ARENA] laaban:look
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            734/1282  370/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1005/1005  628/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Ruttuturpa howls 'oho.'
+Shardik [ARENA] laaban:look
+Shardik [ARENA] gildron:south
+Shardik [ARENA] laaban:northwest
+You cackle gleefully.
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            734/1282  370/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1005/1005  628/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] gildron:east
+Enormous grizzly bear shouts 'Daria should stick to PIGEONS! I want a tougher challenge!'
+Info: Daria dies.
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            734/1282  370/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron          1005/1005  647/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Stargazer says 'heh.'
+Shardik [ARENA] gildron:north
+Shardik [ARENA] laaban:look
+You exclaim 'fiocoo!'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            709/1282  370/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           957/992   647/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:use iron palm at laaban
+Shardik [ARENA] gildron:use iron palm at laaban
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            709/1282  370/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           957/992   647/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Viko grunts 'mmmm.'
+Info: Weilian left the game.
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            666/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           668/972   647/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Viko grunts 'mmmm.'
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] gildron:party say Unpain DOWN
+Shardik [ARENA] gildron:party say Unpain DOWN
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            666/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           668/972   647/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:south
+Shardik [ARENA] laaban:south
+Lyriikka exclaims 'matsi tuli!'
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            666/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           668/972   647/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:cast major heal at gildron
+Shardik [ARENA] laaban:look
+You say 'h‰h‰.'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:northwest
+       
+ ####  
+ #2.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            656/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           668/972   647/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Juggelo says 'juuso ei osaa :).'
+Shardik exclaims 'heeei!'
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:east
+Shardik [ARENA] laaban:east
+       
+ ####  
+ #21#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            621/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           605/972   647/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Viko exclaims 'T‰ss‰ on jo henke‰!'
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+       
+ ####  
+ #21#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            621/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           605/972   647/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Facekiller [suomi]: sullahan on 6kk kuivamuonat aina valmiina :)
+Sirdar booms 'hyv‰ matsi :).'
+       
+ ####  
+ #21#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            621/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           972/972   553/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:east
+Shardik [ARENA] laaban:west
+Shardik [ARENA] laaban:east
+Shardik [ARENA] gildron:use iron palm at laaban
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            621/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           956/972   553/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #.2#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            612/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           920/972   553/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:south
+Shardik [ARENA] laaban:south
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            571/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           775/972   553/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:south
+Shardik [ARENA] gildron:south
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            538/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           757/972   553/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:x,
+Shardik [ARENA] gildron:x,
+Xarath [wanted]: rp
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] laaban:look
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            538/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           757/972   553/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:look
+Stargazer says 'eritt‰in hyv‰.'
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            525/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           632/972   553/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] gildron:kill laaban
+Info: Darol left the game.
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            525/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           632/972   553/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:sfence set clear
+Shardik [ARENA] laaban:sfence set clear
+Shardik [ARENA] laaban:sfence show
+Shardik [ARENA] laaban:sfence show
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            515/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           768/972   532/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] laaban:use 'sabre fence'
+Shardik [ARENA] laaban:use 'sabre fence'
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            515/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           768/972   532/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            499/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           705/972   532/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            499/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           705/972   532/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Facekiller [suomi]: hamstraa vitusti viinaa ja rˆˆkii
+Shay [suomi]: mullois armeijasta parit sissipakkaukset viel‰ tallella :)
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            499/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           825/972   511/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            499/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           825/972   511/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:west
+Shardik [ARENA] laaban:west
+Ruttuturpa howls 'huua et laaban o cacca.'
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            499/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           825/972   511/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Info: Kuola recovers from link death.
+Shardik [ARENA] gildron:look
+Shardik [ARENA] laaban:look
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            499/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           825/972   511/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:look
+Info: Gwain recovers from link death.
+Shardik [ARENA] laaban:look
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            499/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           961/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:look
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] gildron:northwest
+Shardik [ARENA] laaban:look
+       
+ ####  
+ #21#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            470/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           944/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:use iron palm at laaban
+Shardik [ARENA] laaban:east
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            470/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           944/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:east
+Shardik [ARENA] laaban:cast 'campfire tune'
+Shardik [ARENA] laaban:look
+       
+ ####  
+ #.2#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            470/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           944/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            345/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           929/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Juggelo says 'noi monktarmat o v‰h‰ uber tuol :).'
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] laaban:tell zoso
+Shardik [ARENA] laaban:tell zoso
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] laaban:northwest
+Shardik [ARENA] laaban:northwest
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            345/1282  262/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           929/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            361/1282  282/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           929/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:northwest
+Shardik [ARENA] laaban:parry
+Shardik [ARENA] laaban:look
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            361/1282  282/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           910/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Pehtoori says 'joo neon kovia.'
+Nyharhlathothebp shouts 'All the wares in my shop are available for only 84% of their real value FOR A LIMITED TIME!'
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            350/1282  282/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           898/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Info: Stefan recovers from link death.
+Shardik [ARENA] laaban:look at gildron
+Info: Sraz recovers from link death.
+Shardik [ARENA] laaban:look at gildron
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            350/1282  282/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           898/972   490/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:sob
+Shardik [ARENA] laaban:sob
+Sammaster arrives from down.
+Shardik [ARENA] laaban:say huijausta
+Shardik [ARENA] laaban:say huijausta
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            350/1282  282/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           954/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] gildron:use iron palm at laaban
+Shardik [ARENA] gildron:use iron palm at laaban
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            350/1282  282/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           954/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Info: Mardraum recovers from link death.
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            323/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           683/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Info: Westchester left the game.
+The shattered remains of Bmoa (ghost): that raise
+Shardik [ARENA] laaban:say caacanisca
+Shardik [ARENA] laaban:say caacanisca
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:cast 'con fioco'
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            323/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           683/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Trae [newbie]: how do i view a list of my boons?
+Shardik [ARENA] gildron:cast major heal at gildron
+Shardik [ARENA] gildron:cast major heal at gildron
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            323/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           488/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Crusifer [suomi]: joutuis kyll‰ melkee leikkii kuollutta sodan aja tai sitte etel‰‰ lomailee siks aikaa
+Shardik [ARENA] gildron:east
+Shardik [ARENA] gildron:east
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Info: Force left the game.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            323/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           488/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:east
+Shardik [ARENA] laaban:east
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            253/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           463/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:south
+Shardik [ARENA] gildron:south
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #.1#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            253/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           463/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Info: Force enters the game.
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:south
+Houtmi [suomi]: hmm.. ma toin intista 12kiloo safkaa, oiskohan ne viel syomakelposia
+Shardik [ARENA] laaban:south
+Ikira the Helper [newbie]: show boba
+       
+ ####  
+ #..#  
+ #21#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            234/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           417/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Morstor shivers from the cold.
+Force [newbie]: show boba
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            234/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           417/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:north
+Shardik [ARENA] laaban:west
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #2.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            218/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           364/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:north
+       
+ ####  
+ #2.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            218/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           364/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:cast 'con fioco'
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            218/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           364/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] gildron:east
+Deadkennedy [newbie]: show boba
+Shardik [ARENA] gildron:east
+Shardik [ARENA] laaban:party status
+Shardik [ARENA] laaban:party status
+Daran arrives from down.
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            218/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           327/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:east
+Shardik [ARENA] laaban:east
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            218/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           305/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Gwain [ghost]: accept
+Trae [newbie]: thanks :)
+Shardik says 'hehee.'
+       
+ ####  
+ #.1#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            218/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           305/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:south
+Shardik [ARENA] gildron:south
+Shardik [ARENA] laaban:south
+Shardik [ARENA] laaban:south
+       
+ ####  
+ #..#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            150/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           289/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Toudi arrives from east.
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #..#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            150/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           289/972   469/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:scan all
+Miigor goes 'Heh'.
+Shardik [ARENA] laaban:parry
+Shardik [ARENA] laaban:parry
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:cast 'con fioco'
+Sammaster quacks 'huoh.'
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+You exclaim 'ululu!'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #..#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            111/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           683/972   375/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Shardik [ARENA] gildron:cast major heal at gildron
+Shardik [ARENA] gildron:cast major heal at gildron
+Shardik [ARENA] laaban:scan all
+Ruttuturpa 'hmmmm's for a moment.
+       
+ ####  
+ #..#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            111/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           608/972   375/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:puuh
+Shardik [ARENA] laaban:puuh
+Juggelo says ':(.'
+Shardik [ARENA] gildron:west
+       
+ ####  
+ #..#  
+ #21#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            111/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           608/972   375/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:west
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:say nigga
+Shardik [ARENA] laaban:say nigga
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban             95/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           565/972   375/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Sirdar booms 'laaban ottaa k‰k‰ttimee.'
+Shardik [ARENA] laaban:west
+Info: Jure enters the game.
+Shardik [ARENA] laaban:west
+Shardik [ARENA] laaban:cast 'con fioco'
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban             95/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           565/972   375/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:cast 'con fioco'
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban             95/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           504/972   375/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Stargazer says 'laaban rippaa.'
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban             95/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           504/972   375/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:look
+Shardik [ARENA] laaban:look
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:kill laaban
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] gildron:scan all
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban             95/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           504/972   375/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban             10/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           780/972   281/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:yell painfully
+Facekiller [suomi]: kaikki karvat pit‰‰ ajaa pois ettei t‰it levi‰
+Shardik [ARENA] gildron:yell painfully
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Pehtoori says 'no seoli odotettavissa.'
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban             10/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           780/972   281/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] laaban:scan all
+Shardik [ARENA] laaban:scan all
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban            -50/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           780/972   281/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Altarism [wanted]: party for tank
+Juggelo says ':(((.'
+Descent [wanted]: can box reapair
+Mandrake leaves down.
+Runko leaves down.
+Cola leaves down.
+Elmindos leaves down.
+You sniff sadly.
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Sirdar goes 'aww'.
+Info: Arti left the game.
+Bleezuz acks.
+Kiraffi cheers enthusiastically.
+Shardik [ARENA] gildron:yell painfully
+Rutaliator booms 'joo nonni.'
+Morglum smirks.
+Pehtoori says 'mut eioo laabanin syy :).'
+Shardik [ARENA] gildron:yell painfully
+Stargazer says 'kuoli.'
+Viko weeps miserably.
+Shardik [ARENA] gildron:lich death
+Shardik [ARENA] gildron:lich death
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+Morstor grumbles 'vittu.'
+Shardik [ARENA] gildron:cast cure serious wounds at gildron
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           -126/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           896/972   260/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Nepnep cheers enthusiastically.
+Viko sniffs sadly.
+Shaermon bursts into tears.
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           -126/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           896/972   260/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Chizra [wanted]: maneater tail, dam belt and torso.
+Arafat [newbie]: what matrials emit light
+Info: Arti enters the game.
+Kiraffi cheers enthusiastically.
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           -175/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           972/972   239/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Great lion shouts 'Llyrath should learn to use consider!'
+Info: Llyrath dies.
+Nail cheers enthusiastically.
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           -232/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           972/972   239/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shardik [ARENA] gildron:lick
+Shardik [ARENA] gildron:lick
+Shardik [ARENA] gildron:use ceremony
+Shardik [ARENA] gildron:use ceremony
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           -232/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           972/972   239/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           -265/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           972/972   239/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Shay [newbie]: cesium, illumium
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           -331/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           972/972   239/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+Descent [newbie]: can box reapair
+Hackop [ghost]: accept
+Chaotic [ghost]: accept ress/rais
+Ikira the Helper [newbie]: cesium, illumium
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           -331/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           972/972   239/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Laaban           -399/1282  174/605  |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gildron           972/972   239/861  |                                      |
+`-----------------------------------------------------------------------------'
+hp 1162/1162 | sp 20/20 | ep 383/383 | exp 44707 | cash 5840/15641
+
+The arena master shouts 'Laaban of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Gildron'

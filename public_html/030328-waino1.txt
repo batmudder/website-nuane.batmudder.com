@@ -1,0 +1,732 @@
+Wainamoinen arrives from north.
+scan all
+*****************************************************
+Wainamoinen hits Mithrand 3 times.
+Mithrand hits Wainamoinen 1 time.
+Marv hits Wainamoinen 1 time.
+Toudi {party}: kill
+Heihachi [sales]: k
+Wainamoinen is in very bad shape.
+[00:03:28] hp 655/655 | sp 668/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Marv [party]: pfg down
+Steelheart (chat): well thats true
+Mithrand reports: Hp: 1356 (1588) Sp: 415 (582) Ep: 503 (503).
+Gildron reports: Hp: 1723 (1727) Sp: -249 (33) Ep: 82 (426).
+Krzysiek {party}: comes
+mjph
+You start chanting.
+[00:03:29] hp 655/655 | sp 668/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Serje starts concentrating on a new spell.
+Mendozino starts concentrating on a new spell.
+Major party heal: 3
+Major party heal: 2 (haste)
+scan all
+*****************************************************
+Wainamoinen hits Marv 3 times.
+Mithrand hits Wainamoinen 2 times.
+Gildron hits Wainamoinen 1 time.
+Marv hits Wainamoinen 2 times.
+hp 619/655 (-36) | sp 668/1138 () | ep 263/263 ()
+Mithrand starts concentrating on a new offensive spell.
+Gildron reports: Hp: 1723 (1727) Sp: -249 (33) Ep: 82 (426).
+Wainamoinen is in very bad shape.
+[00:03:31] hp 619/655 | sp 668/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Mithrand reports: Hp: 1351 (1588) Sp: 415 (582) Ep: 503 (503).
+Marv reports: Hp: 1259 (1532) Sp: 31 (31) Ep: 139 (408).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 25m 36s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1723(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1259(1532)   31(  31) 139(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1351(1588)  415( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  709( 709) 1348(1581) 313(313) | 100 |            0 |
+| 2.2   Mendozino     fol  651( 661)  430( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  529( 552)  501(1342) 235(252) |  85 |            0 |
+| 3.1   Kerad         fol  806( 807)  901( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  619( 655)  668(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  826( 867)  696(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:31] hp 619/655 | sp 668/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Major party heal: 1
+scan all
+*****************************************************
+Wainamoinen hits Mithrand 4 times.
+Gildron hits Wainamoinen 1 time.
+Marv hits Wainamoinen 2 times.
+hp 607/655 (-12) | sp 668/1138 () | ep 263/263 ()
+Mendozino sings: 'You say you don't believe this unity will last, nobody said
+ it would be perfect, but co-operate, share your pain and strength. Together
+ we are strong.
+ '
+You feel great unity with your party members.
+Marv starts concentrating on a new offensive skill.
+Kerad starts concentrating on a new offensive spell.
+Mithrand reports: Hp: 1105 (1588) Sp: 415 (582) Ep: 503 (503).
+Gildron reports: Hp: 1723 (1727) Sp: -249 (33) Ep: 82 (426).
+Wainamoinen is in very bad shape.
+[00:03:34] hp 607/655 | sp 668/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 25m 39s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1723(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1259(1532)   31(  31) 139(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1105(1588)  415( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  701( 709) 1348(1581) 313(313) | 100 |            0 |
+| 2.2   Mendozino     fol  651( 661)  298( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  529( 552)  501(1342) 235(252) |  85 |            0 |
+| 3.1   Kerad         fol  790( 807)  901( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  607( 655)  668(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  826( 867)  696(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:34] hp 607/655 | sp 668/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Mithrand starts concentrating on a new offensive spell.
+Mendozino starts concentrating on a new spell.
+Krzysiek cast(s) -> 'Psychic Crush'
+The air before Krzysiek becomes electrified and crackles with pure POWER.
+Krzysiek crushes Wainamoinen's mind with a powerful psychic attack!
+hp 605/655 (-2) | sp 668/1138 () | ep 263/263 ()
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal much of Gildron's wounds.
+Nuane's spell heals you. You feel very much better.
+You heal very much of Nuane's wounds.
+You heal very much of Serje's wounds.
+You heal much of Kerad's wounds.
+You heal much of Mendozino's wounds.
+You heal very much of Marv's wounds.
+You heal very much of Toudi's wounds.
+You heal very much of Krzysiek's wounds.
+You heal much of Mithrand's wounds.
+hp 655/655 (+50) | sp 574/1138 (-94) | ep 263/263 ()
+scan all
+*****************************************************
+Wainamoinen hits Marv 1 time.
+Mithrand hits Wainamoinen 1 time.
+Gildron reports: Hp: 1722 (1727) Sp: -249 (33) Ep: 82 (426).
+Marv reports: Hp: 1341 (1532) Sp: 31 (31) Ep: 139 (408).
+Mithrand reports: Hp: 1309 (1588) Sp: 415 (582) Ep: 503 (503).
+Krzysiek {party}: |additional power|
+mjph
+Wainamoinen is near death.
+[00:03:38] hp 655/655 | sp 574/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+You start chanting.
+[00:03:38] hp 655/655 | sp 574/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 25m 43s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1722(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1341(1532)   31(  31) 139(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1309(1588)  415( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  692( 709) 1199(1581) 309(313) | 100 |            0 |
+| 2.2   Mendozino     fol  657( 661)  298( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  540( 552)  495(1342) 232(252) |  85 |            0 |
+| 3.1   Kerad         fol  798( 807)  901( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  655( 655)  574(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  850( 867)  696(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:38] hp 655/655 | sp 574/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Krzysiek starts concentrating on a new offensive spell.
+Major party heal: 3
+Major party heal: 1 (greater haste)
+scan all
+*****************************************************
+Wainamoinen hits Mithrand 1 time.
+hp 643/655 (-12) | sp 574/1138 () | ep 263/263 ()
+Serje gets something from his pack and chants 'enfuego delcosa'
+Serje draws green energy from snow-white crystalline.
+Mendozino sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Toudi cast(s) -> 'Harm Body'
+Toudi fails to touch Wainamoinen.
+Heihachi [sales]: mb1k
+Gildron reports: Hp: 1727 (1727) Sp: -249 (33) Ep: 82 (426).
+Wainamoinen is near death.
+[00:03:40] hp 655/655 | sp 574/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Marv reports: Hp: 1428 (1532) Sp: 31 (31) Ep: 139 (408).
+Kerad {party}: ^o^ 3. ^o^
+Mithrand reports: Hp: 1349 (1588) Sp: 415 (582) Ep: 503 (503).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 25m 46s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1727(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1428(1532)   31(  31) 139(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1349(1588)  415( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  709( 709) 1199(1581) 309(313) | 100 |            0 |
+| 2.2   Mendozino     fol  661( 661)  213( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  552( 552)  524(1342) 237(252) |  85 |            0 |
+| 3.1   Kerad         fol  807( 807)  901( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  655( 655)  574(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  867( 867)  595(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:41] hp 655/655 | sp 574/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Serje starts concentrating on a new offensive spell.
+Mendozino starts concentrating on a new spell.
+Mithrand weaves a mystic matrix with glowing indigo lines and chants 'Khizanth
+ Arachnidus Iracundus'
+Mithrand falters and loses his spell.
+hp 655/655 (+12) | sp 574/1138 () | ep 263/263 ()
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal all of Marv's wounds.
+You heal much of Mithrand's wounds.
+hp 655/655 () | sp 480/1138 (-94) | ep 263/263 ()
+scan all
+*****************************************************
+Wainamoinen hits Mithrand 2 times.
+Mithrand hits Wainamoinen 1 time.
+Gildron hits Wainamoinen 1 time.
+Marv hits Wainamoinen 1 time.
+Marv reports: Hp: 1522 (1532) Sp: 31 (31) Ep: 139 (408).
+Mithrand reports: Hp: 1345 (1588) Sp: 390 (582) Ep: 503 (503).
+Gildron reports: Hp: 1723 (1727) Sp: -249 (33) Ep: 82 (426).
+Kerad {party}: ^o^ 2. ^o^
+Wainamoinen is near death.
+[00:03:43] hp 655/655 | sp 480/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+mjph
+
+You start chanting.
+[00:03:43] hp 655/655 | sp 480/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Mithrand starts concentrating on a new offensive spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 25m 49s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1723(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1522(1532)   31(  31) 139(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1345(1588)  390( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  709( 709) 1199(1581) 309(313) | 100 |            0 |
+| 2.2   Mendozino     fol  649( 661)  213( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  552( 552)  524(1342) 237(252) |  85 |            0 |
+| 3.1   Kerad         fol  807( 807)  901( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  655( 655)  480(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  867( 867)  595(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:44] hp 655/655 | sp 480/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Gildron starts concentrating on a new offensive skill.
+Krzysiek cast(s) -> 'Psychic Crush'
+Krzysiek crushes Wainamoinen's mind with a powerful psychic attack!
+Major party heal: 3
+scan all
+*****************************************************
+Wainamoinen hits Gildron 1 time.
+Mithrand hits Wainamoinen 1 time.
+Marv hits Wainamoinen 1 time.
+hp 643/655 (-12) | sp 480/1138 () | ep 263/263 ()
+Kerad cast(s) -> 'Harm Body'
+Kerad casts a harming spell on Wainamoinen.
+Mendozino sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Marv lashes out, slashing a ragged wound in Wainamoinen's forehead!
+Toudi cast(s) -> 'Harm Body'
+Toudi casts a harming spell on Wainamoinen.
+Gildron reports: Hp: 1727 (1727) Sp: -249 (33) Ep: 82 (426).
+Marv reports: Hp: 1532 (1532) Sp: 31 (31) Ep: 107 (408).
+Mithrand reports: Hp: 1426 (1588) Sp: 390 (582) Ep: 503 (503).
+Wainamoinen is near death.
+[00:03:46] hp 655/655 | sp 480/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Marv reports: Hp: 1532 (1532) Sp: 31 (31) Ep: 107 (408).
+Kerad starts concentrating on a new offensive spell.
+Gore <chat>: there's not exactly a whole lot of "shiny happy nice democratic" countries in the middle-east if you haven't noticed?
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 25m 52s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1727(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1532(1532)   31(  31) 107(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1426(1588)  390( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  709( 709) 1058(1581) 309(313) | 100 |            0 |
+| 2.2   Mendozino     fol  661( 661)  128( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  552( 552)  524(1342) 237(252) |  85 |            0 |
+| 3.1   Kerad         fol  807( 807)  698( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  655( 655)  480(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  867( 867)  293(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:47] hp 655/655 | sp 480/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Info: Deathgazer recovers from link death.
+Marv starts concentrating on a new offensive skill.
+Toudi starts concentrating on a new offensive spell.
+Mendozino starts concentrating on a new spell.
+hp 655/655 (+12) | sp 480/1138 () | ep 263/263 ()
+Major party heal: 2
+Major party heal: 1 (haste)
+scan all
+*****************************************************
+Wainamoinen hits Mithrand 5 times.
+Gildron hits Wainamoinen 1 time.
+Mithrand reports: Hp: 1154 (1588) Sp: 390 (582) Ep: 503 (503).
+Wainamoinen is near death.
+[00:03:49] hp 655/655 | sp 480/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Gildron reports: Hp: 1723 (1727) Sp: -249 (33) Ep: 82 (426).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 25m 54s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1723(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1532(1532)   31(  31) 107(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1154(1588)  390( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  696( 709) 1058(1581) 309(313) | 100 |            0 |
+| 2.2   Mendozino     fol  648( 661)  128( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  541( 552)  524(1342) 237(252) |  85 |            0 |
+| 3.1   Kerad         fol  807( 807)  698( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  655( 655)  480(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  867( 867)  293(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:49] hp 655/655 | sp 480/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Gildron breaks the skill attempt.
+Mithrand weaves a mystic matrix with glowing indigo lines and chants 'Khizanth
+ Arachnidus Iracundus'
+A shower of brown blood flies from Mithrand's palm at Wainamoinen!
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal all of Gildron's wounds.
+You heal all of Serje's wounds.
+You heal all of Mendozino's wounds.
+You heal all of Krzysiek's wounds.
+You heal some of Mithrand's wounds.
+hp 655/655 () | sp 386/1138 (-94) | ep 263/263 ()
+scan all
+*****************************************************
+Wainamoinen hits Mithrand 1 time.
+Mithrand hits Wainamoinen 1 time.
+Serje waves his hand and says 'tsaibaa'
+Serje fires a crackling red ball lightning which hits Wainamoinen with full force!
+Serje grins as his channelbolt hits Wainamoinen.
+Mendozino sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Electricity jolts through Wainamoinen!
+Gildron reports: Hp: 1727 (1727) Sp: -249 (33) Ep: 82 (426).
+Mithrand [party]: ## target shudders (40% p/a res) ##
+ps
+Wainamoinen is near death.
+[00:03:52] hp 655/655 | sp 386/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Marv reports: Hp: 1532 (1532) Sp: 31 (31) Ep: 107 (408).
+Mithrand reports: Hp: 1281 (1588) Sp: 274 (582) Ep: 503 (503).
+Marv reports: Hp: 1532 (1532) Sp: 31 (31) Ep: 107 (408).
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 25m 57s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1727(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1532(1532)   31(  31) 107(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1281(1588)  274( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  709( 709) 1058(1581) 309(313) | 100 |            0 |
+| 2.2   Mendozino     fol  661( 661)   43( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  552( 552)  462(1342) 234(252) |  85 |            0 |
+| 3.1   Kerad         fol  807( 807)  698( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  655( 655)  386(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  867( 867)  293(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:52] hp 655/655 | sp 386/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Mithrand starts concentrating on a new offensive spell.
+Serje starts concentrating on a new offensive spell.
+mjph
+You start chanting.
+[00:03:53] hp 655/655 | sp 386/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Malcom [sales]: 1k
+Krzysiek cast(s) -> 'Psychic Crush'
+Krzysiek crushes Wainamoinen's mind with a powerful psychic attack!
+Major party heal: 3
+Major party heal: 2 (haste)
+scan all
+*****************************************************
+Wainamoinen hits Mithrand 2 times.
+Mithrand hits Wainamoinen 2 times.
+Gildron hits Wainamoinen 1 time.
+Mendozino looks at Lord.
+Marv reports: Hp: 1526 (1532) Sp: 31 (31) Ep: 107 (408).
+Mithrand reports: Hp: 1139 (1588) Sp: 274 (582) Ep: 503 (503).
+Gildron reports: Hp: 1727 (1727) Sp: -249 (33) Ep: 82 (426).
+Wainamoinen is near death.
+[00:03:55] hp 655/655 | sp 386/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Kerad {party}: ^o^ 3. ^o^
+Krzysiek starts concentrating on a new offensive spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 26m  1s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1727(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1526(1532)   31(  31) 107(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1139(1588)  274( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  673( 709)  917(1581) 309(313) | 100 |            0 |
+| 2.2   Mendozino     fol  661( 661)   43( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  552( 552)  462(1342) 234(252) |  85 |            0 |
+| 3.1   Kerad         fol  792( 807)  698( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  655( 655)  386(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  867( 867)  293(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:56] hp 655/655 | sp 386/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Major party heal: 1
+scan all
+*****************************************************
+Wainamoinen hits Gildron 3 times.
+Mithrand hits Wainamoinen 2 times.
+Mithrand reports: Hp: 1130 (1588) Sp: 274 (582) Ep: 503 (503).
+Wainamoinen is near death.
+[00:03:58] hp 655/655 | sp 386/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Marv reports: Hp: 1522 (1532) Sp: 31 (31) Ep: 107 (408).
+Gildron reports: Hp: 1591 (1727) Sp: -249 (33) Ep: 82 (426).
+Kerad {party}: ^o^ 2. ^o^
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 26m  4s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1591(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1522(1532)   31(  31) 107(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1130(1588)  274( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  673( 709)  917(1581) 309(313) | 100 |            0 |
+| 2.2   Mendozino     fol  661( 661)   43( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  552( 552)  462(1342) 234(252) |  85 |            0 |
+| 3.1   Kerad         fol  784( 807)  698( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  655( 655)  386(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  867( 867)  293(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:03:59] hp 655/655 | sp 386/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Mithrand weaves a mystic matrix with glowing indigo lines and chants 'Khizanth
+ Arachnidus Iracundus'
+A shower of black blood flies from Mithrand's palm at Wainamoinen!
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal really much of Gildron's wounds.
+You heal really much of Kerad's wounds.
+You heal really much of Krzysiek's wounds.
+You heal much of Mithrand's wounds.
+hp 655/655 () | sp 292/1138 (-94) | ep 263/263 ()
+scan all
+*****************************************************
+Wainamoinen hits Mithrand 3 times.
+Serje waves his hand and says 'tsaibaa'
+Serje falters and loses his spell.
+Kerad cast(s) -> 'Harm Body'
+Kerad casts a harming spell on Wainamoinen.
+Marv lashes out, slashing a ragged wound in Wainamoinen's forehead!
+Marv turns suddenly and STRIKES again..
+Toudi cast(s) -> 'Harm Body'
+Toudi casts a harming spell on Wainamoinen.
+Info: Yagol goes link dead.
+Hookah @hcbat [chat]: the entire us has never had the same king, i doubt that can be said for many nations at all
+Gildron reports: Hp: 1695 (1727) Sp: -249 (33) Ep: 82 (426).
+Marv reports: Hp: 1532 (1532) Sp: 31 (31) Ep: 75 (408).
+Mithrand reports: Hp: 1084 (1588) Sp: 163 (582) Ep: 503 (503).
+Wainamoinen is near death.
+[00:04:01] hp 655/655 | sp 292/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Kerad starts concentrating on a new offensive spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 26m  7s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1695(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1532(1532)   31(  31)  75(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1084(1588)  163( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  702( 709)  917(1581) 309(313) | 100 |            0 |
+| 2.2   Mendozino     fol  645( 661)   43( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  552( 552)  439(1342) 234(252) |  85 |            0 |
+| 3.1   Kerad         fol  795( 807)  494( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  655( 655)  292(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  867( 867)  100(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:04:02] hp 655/655 | sp 292/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+{party}: Toudi Needs more SP!!
+Serje starts concentrating on a new offensive spell.
+Marv starts concentrating on a new offensive skill.
+mph
+You start chanting.
+[00:04:03] hp 655/655 | sp 292/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Aleksi [sales]: scroll of charging mb free
+Mithrand starts concentrating on a new offensive spell.
+Krzysiek cast(s) -> 'Psychic Crush'
+Magical rifts open above Krzysiek and hideous rays of POWER combine her spell.
+Krzysiek crushes Wainamoinen's mind with a powerful psychic attack!
+Minor party heal: 2
+Minor party heal: 1 (haste)
+scan all
+*****************************************************
+Mithrand hits Wainamoinen 1 time.
+Gildron hits Wainamoinen 1 time.
+Marv hits Wainamoinen 1 time.
+Male Duz roars victoriously as Unacorda dies shamefully!
+Info: Unacorda dies.
+Mithrand reports: Hp: 1084 (1588) Sp: 163 (582) Ep: 503 (503).
+Marv reports: Hp: 1526 (1532) Sp: 31 (31) Ep: 75 (408).
+Gildron reports: Hp: 1695 (1727) Sp: -249 (33) Ep: 82 (426).
+Wainamoinen is near death.
+[00:04:04] hp 654/655 | sp 292/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Krzysiek {party}: ||additional POWER||
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 26m 10s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1695(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1526(1532)   31(  31)  75(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1084(1588)  163( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  655( 709)  769(1581) 306(313) | 100 |            0 |
+| 2.2   Mendozino     fol  645( 661)   43( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  552( 552)  439(1342) 234(252) |  85 |            0 |
+| 3.1   Kerad         fol  795( 807)  494( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  654( 655)  292(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  867( 867)  100(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:04:05] hp 654/655 | sp 292/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Chaotic [sales]: 10k
+hp 654/655 (-1) | sp 292/1138 () | ep 263/263 ()
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Minor Party Heal'
+You heal much of Gildron's wounds.
+Nuane's spell heals you. You feel little better.
+You heal little of Nuane's wounds.
+You heal some of Serje's wounds.
+You heal much of Kerad's wounds.
+You heal much of Mendozino's wounds.
+You heal some of Marv's wounds.
+You heal little of Toudi's wounds.
+You heal much of Krzysiek's wounds.
+You heal little of Mithrand's wounds.
+hp 651/655 (-3) | sp 256/1138 (-36) | ep 263/263 ()
+scan all
+*****************************************************
+Wainamoinen hits Marv 2 times.
+Mithrand hits Wainamoinen 3 times.
+Gildron hits Wainamoinen 1 time.
+hp 635/655 (-16) | sp 256/1138 () | ep 263/263 ()
+Marv lashes out, slashing a ragged wound in Wainamoinen's forehead!
+Toudi cast(s) -> 'Aneurysm'
+Toudi casts a harming spell on Wainamoinen.
+Gildron reports: Hp: 1709 (1727) Sp: -249 (33) Ep: 82 (426).
+Mithrand reports: Hp: 1172 (1588) Sp: 163 (582) Ep: 503 (503).
+Marv reports: Hp: 1368 (1532) Sp: 31 (31) Ep: 43 (408).
+Wainamoinen is near death.
+[00:04:07] hp 635/655 | sp 256/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+mjph
+
+Kerad {party}: ^o^ 3. ^o^
+You start chanting.
+[00:04:07] hp 635/655 | sp 256/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 26m 13s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1709(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1368(1532)   31(  31)  43(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1172(1588)  163( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  670( 709)  769(1581) 306(313) | 100 |            0 |
+| 2.2   Mendozino     fol  661( 661)   43( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  548( 552)  433(1342) 231(252) |  85 |            0 |
+| 3.1   Kerad         fol  800( 807)  494( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  635( 655)  256(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  865( 867)  -81(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:04:08] hp 635/655 | sp 256/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Marv starts concentrating on a new offensive skill.
+Mithrand weaves a mystic matrix with glowing indigo lines and chants 'Khizanth
+ Arachnidus Iracundus'
+Mithrand screams with frustration as his spell fails.
+Major party heal: 3
+Major party heal: 2 (haste)
+scan all
+*****************************************************
+Wainamoinen hits Gildron 1 time.
+Marv hits Wainamoinen 1 time.
+Maphesto [sales]: 15k on chest
+Gildron reports: Hp: 1650 (1727) Sp: -249 (33) Ep: 82 (426).
+Wainamoinen is near death.
+[00:04:10] hp 635/655 | sp 256/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Marv reports: Hp: 1362 (1532) Sp: 31 (31) Ep: 43 (408).
+Mithrand reports: Hp: 1172 (1588) Sp: 52 (582) Ep: 503 (503).
+Kerad {party}: ^o^ 1. ^o^
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 26m 15s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1650(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1362(1532)   31(  31)  43(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1172(1588)   52( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  670( 709)  769(1581) 306(313) | 100 |            0 |
+| 2.2   Mendozino     fol  661( 661)   43( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  548( 552)  433(1342) 231(252) |  85 |            0 |
+| 3.1   Kerad         fol  800( 807)  494( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  635( 655)  256(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  865( 867)  -81(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:04:10] hp 635/655 | sp 256/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Major party heal: 1
+scan all
+*****************************************************
+Wainamoinen hits Marv 1 time.
+Mithrand hits Wainamoinen 2 times.
+Gildron hits Wainamoinen 1 time.
+Serje waves his hand and says 'tsaibaa'
+Serje fires a crackling red ball lightning which hits Wainamoinen with full force!
+Serje grins as his channelbolt hits Wainamoinen.
+Kerad cast(s) -> 'Harm Body'
+Kerad casts a harming spell on Wainamoinen.
+ ..The power of Burglefloogah takes over Kerad!
+    An awful crackling is heard as the life is drained out of Wainamoinen!!
+Mithrand starts concentrating on a new offensive skill.
+Gildron reports: Hp: 1650 (1727) Sp: -249 (33) Ep: 82 (426).
+Wainamoinen is near death.
+[00:04:13] hp 634/655 | sp 256/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Marv reports: Hp: 1263 (1532) Sp: 31 (31) Ep: 43 (408).
+Mithrand reports: Hp: 1172 (1588) Sp: 52 (582) Ep: 503 (503).
+Kerad starts concentrating on a new offensive spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:         0 |
+| Created: Fri Mar 28 20:37:55 2003        ( 3h 26m 19s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Gildron       fol 1650(1727) -249(  33)  82(426) |  85 |            0 |
+| 1.2   Marv          fol 1263(1532)   31(  31)  43(408) |  85 |            0 |
+| 1.3   Mithrand      fol 1172(1588)   52( 582) 503(503) |  98 |            0 |
+| 2.1   Krzysiek      ldr  660( 709)  769(1581) 306(313) | 100 |            0 |
+| 2.2   Mendozino     fol  661( 661)   43( 830) 369(373) |  83 |            0 |
+| 2.3   Serje         fol  542( 552)  371(1342) 228(252) |  85 |            0 |
+| 3.1   Kerad         fol  800( 807)  434( 901) 395(405) | 100 |            0 |
+| 3.2   Nuane         fol  634( 655)  256(1138) 263(263) |  78 |            0 |
+| 3.3   Toudi         fol  865( 867)  -81(1141) 318(352) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[00:04:14] hp 634/655 | sp 256/1138 | ep 263/263 | exp 89 | $ 5800/92485 | wimpy: off
+
+Serje [party]: Wainamoinen shudders electric [40% resist].
+Felder [chat]: they are in same phase as europe was during 17th and 18th century
+Serje starts concentrating on a new offensive spell.
+Info: Descad recovers from link death.
+Krzysiek cast(s) -> 'Psychic Crush'
+Krzysiek crushes Wainamoinen's mind with a powerful psychic attack!
+Wainamoinen suddenly stops breathing and jerks a couple of times violently, then falls to the ground, lifeless.
+save
+Wainamoinen is DEAD, R.I.P.
+hp 634/655 (-1) | sp 256/1138 () | ep 263/263 ()
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal very much of Gildron's wounds.
+Nuane's spell heals you. You feel very much better.
+You heal very much of Nuane's wounds.
+You heal very much of Serje's wounds.
+You heal much of Kerad's wounds.
+You heal very much of Mendozino's wounds.
+You heal very much of Marv's wounds.
+You heal much of Toudi's wounds.
+You heal very much of Krzysiek's wounds.
+You heal much of Mithrand's wounds.
+hp 646/655 (+12) | sp 162/1138 (-94) | ep 263/263 ()
+Gildron asks 'dai?'
+Mithrand holds Ssssuuucker over the still form of his fallen foe.
+Marv reports: Hp: 1436 (1532) Sp: 31 (31) Ep: 43 (408).
+Mithrand digs a grave for the corpse.
+SAVED.
+[00:04:16] hp 646/655 | sp 162/1138 | ep 263/263 | exp 60129 | $ 5800/92485 | wimpy: off
+You gained 60040 xp.
+
+Krzysiek starts concentrating on a new offensive spell.
+Toudi {party}: Max Hp
+Info: Rognus goes link dead.
+Gildron starts concentrating on a new offensive skill.
+mjph
+You start chanting.
+[00:04:17] hp 646/655 | sp 162/1138 | ep 263/263 | exp 60129 | $ 5800/92485 | wimpy: off
+
+Serje aborts the spell casting.
+Gildron lights a torch.
+Gildron starts concentrating on a new skill.
+Gildron exclaims 'Buuuurn baby buuuurn!'
+p kills
+Toudi takes a small hill of gold coins, a pair of lambskin leggings <red
+ glow>, a big pile of copper coins, a small silver key, 11 anipium coins, the
+ pikebone kanteel <red glow> and a cold iron ring <red glow>.
+,-----------------------------------------------------------------------------.
+|  959695: Lord Wainamoinen, the chief bard of Kalevala and protector of the  |
+`-----------------------------------------------------------------------------'
+This party has killed 1 monster (avg exp/mon: 959695).
+[00:04:18] hp 646/655 | sp 162/1138 | ep 263/263 | exp 60129 | $ 5800/92485 | wimpy: off

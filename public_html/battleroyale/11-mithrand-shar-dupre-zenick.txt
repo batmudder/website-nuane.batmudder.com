@@ -1,0 +1,1695 @@
+The Battle Royale Continues:
+Mithrand, Shar, Dupre and Zenick will fight to the death!
+Shar: scan all
+Mithrand: save
+Zenick: east
+Zenick: east
+Dupre: wave wand at mithrand
+Mithrand: scan
+Zenick: wear replacing prismatic rod
+Zenick: summon field
+Dupre: use pound
+Shar: east
+Mithrand: use 'blood harvest'
+Dupre: look
+Mithrand: look
+Shar: look
+Zenick: look
+Dupre: Hp 98%
+Shar: Hp 97%
+Shar: scan all
+Zenick: clairvoyance
+Dupre: map
+Shar: use 'blood harvest'
+Zenick: south
+Zenick: clairvoyance
+Mithrand: scan all
+Dupre: wave wand at mithrand
+Zenick: west
+Dupre: o
+Zenick: wear replacing prismatic rod
+Zenick: summon field
+Shar: parry 0
+Dupre: Hp 97%
+Shar: Hp 97%
+Shar: scan all
+Mithrand: look
+Mithrand: look
+Zenick: juggle prismatic rod 2
+Zenick: wear replacing prismatic rod
+Mithrand: scan all
+Dupre: west
+Mithrand: cast info
+Dupre: Hp 94%
+Shar: Hp 97%
+Shar: scan all
+Dupre: scan all
+Mithrand: scan all
+Dupre: Hp 90%
+Shar: Hp 97%
+Mithrand: Hp 74%
+Shar: scan all
+Dupre: look
+Mithrand: scan all
+Zenick: north
+Zenick: keep star
+Zenick: keep cube
+Zenick: drop star,cube
+Shar: scan all
+Shar: use 'blood harvest'
+Zenick: south
+Dupre: target mithrand
+Zenick: Hp 95%
+Dupre: Hp 84%
+Shar: Hp 95%
+Mithrand: Hp 74%
+Mithrand: drink hps
+Mithrand: west
+Dupre: wave wand at mithrand
+Mithrand: look
+Dupre: scan all
+Zenick: Hp 95%
+Dupre: Hp 84%
+Shar: Hp 95%
+Mithrand: Hp 62%
+Mithrand: north
+Mithrand: east
+Shar: look
+Dupre: wave wand at mithrand
+Mithrand: south
+Zenick: Hp 95%
+Dupre: Hp 84%
+Shar: Hp 95%
+Mithrand: Hp 60%
+Shar: scan all
+Dupre: ave
+Mithrand: southeast
+Dupre: wave wand at mithrand
+Dupre: use pound
+Dupre: scan all
+Shar: cast black hole at amount 100
+Zenick: Hp 95%
+Dupre: Hp 84%
+Shar: Hp 94%
+Mithrand: Hp 85%
+Mithrand: drink hps
+Shar: scan all
+Mithrand: look
+Dupre: scan all
+Dupre: look
+Mithrand: scan all
+Dupre: scan all
+Zenick: Hp 95%
+Dupre: Hp 75%
+Shar: Hp 85%
+Mithrand: Hp 70%
+Shar: scan all
+Zenick: n,press button
+Zenick: south
+Mithrand: target dupre
+Dupre: scan all
+Zenick: Hp 95%
+Dupre: Hp 75%
+Shar: Hp 82%
+Mithrand: Hp 69%
+Mithrand: scan all
+Shar: scan all
+Zenick: peer n
+Dupre: scan all
+Dupre: cast info
+Zenick: clairvoyance
+Zenick: Hp 95%
+Dupre: Hp 71%
+Shar: Hp 82%
+Mithrand: Hp 68%
+Shar: scan all
+Shar: use 'blood harvest'
+Dupre: scan all
+Zenick: Hp 95%
+Dupre: Hp 47%
+Shar: Hp 79%
+Mithrand: Hp 68%
+Mithrand: cast black hole
+Shar: scan all
+Mithrand: look
+Dupre: scan all
+Mithrand: scan all
+Shar: target elemental
+Dupre: use pound
+Zenick: north
+Zenick: press button
+Zenick: south
+Dupre: read halfheal
+Zenick: Hp 95%
+Dupre: Hp 62%
+Shar: Hp 79%
+Mithrand: Hp 88%
+Shar: scan all
+Mithrand: scan all
+Dupre: scan all
+Mithrand: look
+Dupre: cast info
+Zenick: Hp 95%
+Dupre: Hp 62%
+Shar: Hp 76%
+Mithrand: Hp 88%
+Shar: scan all
+Mithrand: chant arkemile
+Mithrand: dig grave
+Mithrand: get mithril,batium,anipium,platinum,gold,silver,bronze,all scroll,all box,all chest,all safe,all pouch,all gem
+Mithrand: scan all
+Shar: use 'blood harvest'
+Dupre: scan all
+Zenick: Hp 95%
+Dupre: Hp 60%
+Shar: Hp 76%
+Mithrand: Hp 86%
+Shar: scan all
+Mithrand: use 'blood harvest'
+Dupre: cast info
+Mithrand: scan all
+Dupre: read halfheal
+Zenick: Hp 95%
+Dupre: Hp 48%
+Shar: Hp 76%
+Mithrand: Hp 84%
+Shar: scan all
+Mithrand: target dupre
+Mithrand: look
+Zenick: command k
+Dupre: cast info
+Mithrand: scan all
+Zenick: Hp 95%
+Dupre: Hp 41%
+Shar: Hp 76%
+Mithrand: Hp 83%
+Shar: scan all
+Dupre: read halfheal
+Dupre: scan all
+Zenick: command kk
+Dupre: read heal
+Mithrand: scan all
+Zenick: Hp 96%
+Dupre: Hp 48%
+Shar: Hp 76%
+Mithrand: Hp 77%
+Shar: scan all
+Dupre: cast info
+Dupre: use pound
+Dupre: scan all
+Zenick: north
+Zenick: get wand from disc
+Zenick: zap with wand
+Zenick: zap $ with wand
+Zenick: put wand in disc
+Shar: scan all
+Zenick: south
+Zenick: Hp 96%
+Dupre: Hp 41%
+Shar: Hp 76%
+Mithrand: Hp 77%
+Mithrand: use 'blood harvest'
+Mithrand: look
+Dupre: cast info
+Mithrand: scan all
+Shar: cast 'aneurysm'
+Zenick: Hp 96%
+Dupre: Hp 38%
+Shar: Hp 75%
+Mithrand: Hp 77%
+Mithrand: clairvoyance
+Zenick: inventory
+Dupre: cast info
+Zenick: Hp 96%
+Dupre: Hp 38%
+Shar: Hp 75%
+Mithrand: Hp 76%
+Shar: scan all
+Mithrand: read nf
+Zenick: Hp 96%
+Dupre: Hp 34%
+Shar: Hp 75%
+Mithrand: Hp 76%
+Shar: scan all
+Dupre: read heal
+Mithrand: scan all
+Dupre: cast info
+Dupre: read halfheal
+Zenick: Hp 96%
+Dupre: Hp 29%
+Shar: Hp 75%
+Mithrand: Hp 76%
+Shar: scan all
+Shar: use 'blood harvest'
+Mithrand: scan all
+Zenick: look
+Mithrand: cast shattered feast at amount 100
+Zenick: Hp 96%
+Dupre: Hp -2%
+Shar: Hp 75%
+Mithrand: Hp 67%
+Shar: scan all
+Zenick: get wand from disc
+Zenick: Hp 96%
+Dupre: Hp -8%
+Shar: Hp 75%
+Mithrand: Hp 67%
+Shar: scan all
+Zenick: north
+Zenick: get wand from disc
+Zenick: zap with wand
+Dupre died and thus loses this round!
+Info: Dupre dies.
+Shar: scan all
+Zenick: zap $ with wand
+Zenick: put wand in disc
+Zenick: south
+Mithrand: chant arkemile
+Mithrand: dig grave
+Mithrand: get mithril,batium,anipium,platinum,gold,silver,bronze,all scroll,all box,all chest,all safe,all pouch,all gem
+Zenick: Hp 77%
+Shar: Hp 78%
+Mithrand: Hp 55%
+Mithrand: look
+Zenick: Hp 77%
+Shar: Hp 78%
+Mithrand: Hp 55%
+Mithrand: cast info
+Mithrand: cast shattered feast at amount 100
+Zenick: Hp 77%
+Shar: Hp 78%
+Mithrand: Hp 55%
+Mithrand: peer e
+Mithrand: peer s
+Shar: cast cure serious wounds at me
+Zenick: Hp 77%
+Shar: Hp 78%
+Mithrand: Hp 55%
+Mithrand: spit
+Zenick: Hp 77%
+Shar: Hp 78%
+Mithrand: Hp 55%
+Mithrand: cast shattered feast at amount 100
+Mithrand: look
+Zenick: Hp 77%
+Shar: Hp 86%
+Mithrand: Hp 77%
+Zenick: twiddle
+Mithrand: clairvoyance
+Zenick: Hp 77%
+Shar: Hp 86%
+Mithrand: Hp 77%
+Mithrand: slots
+Mithrand: parry
+Zenick: clairvoyance
+Zenick: Hp 77%
+Shar: Hp 86%
+Mithrand: Hp 77%
+Zenick: clairvoyance
+Shar: remove axe
+Shar: sigh
+Zenick: remove round-headed amulet
+Zenick: remove spider amulet
+Zenick: wear glowing green amulet
+Zenick: peer n
+Zenick: remove glowing green amulet
+Zenick: wear round-headed amulet
+Shar: wield lash
+Zenick: Hp 77%
+Shar: Hp 87%
+Mithrand: Hp 77%
+Zenick: clairvoyance
+Zenick: Hp 77%
+Shar: Hp 87%
+Mithrand: Hp 77%
+Mithrand: cast 'spider web'
+Zenick: cast shelter
+Mithrand: look
+Zenick: remove spider amulet
+Zenick: remove round-headed amulet
+Zenick: wear ankh
+Zenick: activate ankh
+Zenick: Hp 77%
+Shar: Hp 87%
+Mithrand: Hp 98%
+Mithrand: clairvoyance
+Zenick: clairvoyance
+Mithrand: inventory
+Zenick: look
+Zenick: Hp 77%
+Shar: Hp 87%
+Mithrand: Hp 98%
+Zenick: clairvoyance
+Zenick: Hp 77%
+Shar: Hp 87%
+Shar: lash zenick
+Mithrand: cast 'spider web'
+Zenick: look
+Mithrand: look
+Zenick: clairvoyance
+Zenick: Hp 77%
+Shar: Hp 87%
+Zenick: remove amulet
+Shar: sad
+Zenick: Hp 77%
+Shar: Hp 87%
+Zenick: remove amulet 2
+Zenick: Hp 77%
+Shar: Hp 87%
+Zenick: clairvoyance
+Shar: cast spider walk at me
+Mithrand: look
+Mithrand: clairvoyance
+Zenick: Hp 77%
+Shar: Hp 87%
+Zenick: Hp 78%
+Shar: Hp 89%
+Zenick: Hp 78%
+Shar: Hp 89%
+Zenick: Hp 78%
+Shar: Hp 89%
+Zenick: Hp 78%
+Shar: Hp 89%
+Mithrand: look
+Mithrand: inventory
+Zenick: clairvoyance
+Zenick: Hp 78%
+Shar: Hp 89%
+Shar: cast spider demon control at me
+Shar: look
+Zenick: look
+Zenick: Hp 78%
+Shar: Hp 89%
+Zenick: Hp 78%
+Shar: Hp 89%
+Zenick: Hp 78%
+Shar: Hp 89%
+Zenick: Hp 78%
+Shar: Hp 92%
+Zenick: Hp 79%
+Shar: Hp 92%
+Mithrand: peer e
+Mithrand: peer s
+Zenick: Hp 79%
+Shar: Hp 92%
+Zenick: Hp 79%
+Shar: Hp 92%
+Mithrand: bore
+Zenick: Hp 79%
+Shar: Hp 92%
+Zenick: Hp 79%
+Shar: Hp 92%
+Zenick: cast heal self
+Zenick: clairvoyance
+Zenick: Hp 79%
+Shar: Hp 92%
+Mithrand: use prayer to destruction at spell
+Zenick: Hp 79%
+Shar: Hp 92%
+Mithrand: inventory
+Zenick: Hp 79%
+Shar: Hp 94%
+Zenick: clairvoyance
+Zenick: cast heal self
+Zenick: Hp 85%
+Shar: Hp 94%
+Zenick: Hp 85%
+Shar: Hp 94%
+Zenick: Hp 93%
+Shar: Hp 94%
+Zenick: Hp 93%
+Shar: Hp 94%
+Zenick: Hp 93%
+Shar: Hp 94%
+Zenick: Hp 93%
+Shar: Hp 94%
+Zenick: remove death amulet
+Zenick: Hp 95%
+Shar: Hp 94%
+Zenick: wear green amulet
+Zenick: Hp 93%
+Shar: Hp 96%
+Zenick: peer n
+Zenick: Hp 93%
+Shar: Hp 96%
+Zenick: Hp 93%
+Shar: Hp 96%
+Shar: cast spider demon control at me
+Zenick: Hp 93%
+Shar: Hp 96%
+Mithrand: slots
+Zenick: Hp 94%
+Shar: Hp 96%
+Mithrand: peer
+Mithrand: peer s
+Mithrand: peer e
+Zenick: Hp 94%
+Shar: Hp 96%
+Mithrand: clairvoyance
+Zenick: Hp 94%
+Shar: Hp 96%
+Zenick: Hp 94%
+Shar: Hp 96%
+Zenick: Hp 94%
+Shar: Hp 99%
+Zenick: Hp 94%
+Shar: Hp 99%
+Zenick: Hp 94%
+Shar: Hp 99%
+Zenick: Hp 94%
+Shar: Hp 99%
+Shar: south
+Zenick: look at case
+Shar: east
+Zenick: Hp 95%
+Shar: Hp 99%
+Zenick: Hp 95%
+Shar: Hp 99%
+Zenick: command k
+Zenick: Hp 95%
+Shar: cast glory of destruction at amount 100
+Zenick: Hp 95%
+Zenick: north
+Zenick: extract wand from case
+Zenick: store wand in case
+Zenick: south
+Shar: scan all
+Zenick: Hp 90%
+Mithrand: Hp 81%
+Mithrand: cast shattered feast at amount 100
+Zenick: Hp 90%
+Mithrand: Hp 81%
+Zenick: Hp 90%
+Mithrand: Hp 81%
+Zenick: north
+Zenick: extract wand from case
+Shar: scan all
+Zenick: zap with wand
+Zenick: zap $ with wand
+Zenick: store wand in case
+Zenick: south
+Mithrand: scan
+Zenick: Hp 89%
+Shar: Hp 96%
+Mithrand: Hp 83%
+Zenick: Hp 89%
+Shar: Hp 96%
+Mithrand: Hp 83%
+Shar: parry
+Zenick: inventory
+Mithrand: cast glory of destruction at amount 100
+Zenick: Hp 89%
+Shar: Hp 96%
+Zenick: store wand in case
+Zenick: Hp 89%
+Shar: Hp 96%
+Mithrand: look at bag 3
+Zenick: Hp 89%
+Shar: Hp 96%
+Zenick: Hp 89%
+Shar: Hp 96%
+Mithrand: get force_absorption from bag 3
+Zenick: Hp 89%
+Shar: Hp 96%
+Zenick: north
+Zenick: zap with wand
+Zenick: south
+Shar: scan all
+Mithrand: label force_absorption as mithrand
+Mithrand: cast shattered feast at amount 100
+Zenick: Hp 55%
+Shar: Hp 75%
+Mithrand: Hp 72%
+Mithrand: drop mithrand
+Shar: cast shattered feast at amount 100
+Mithrand: scan
+Zenick: Hp 55%
+Shar: Hp 75%
+Mithrand: Hp 73%
+Zenick: cast heal self
+Zenick: Hp 55%
+Shar: Hp 75%
+Mithrand: Hp 73%
+Mithrand: look
+Shar: finger zenick
+Zenick: Hp 55%
+Shar: Hp 75%
+Mithrand: Hp 73%
+Mithrand: cast shattered feast at amount 100
+Zenick: Hp 55%
+Shar: Hp 75%
+Mithrand: Hp 89%
+Zenick: cast heal self
+Mithrand: command a
+Zenick: Hp 61%
+Shar: Hp 75%
+Mithrand: Hp 89%
+Zenick: Hp 62%
+Shar: Hp 75%
+Mithrand: Hp 89%
+Mithrand: save
+Shar: cast protection from good at me
+Zenick: Hp 62%
+Shar: Hp 96%
+Zenick: cast heal self
+Mithrand: peer e
+Zenick: Hp 67%
+Shar: Hp 96%
+Mithrand: peer s
+Zenick: Hp 67%
+Shar: Hp 98%
+Mithrand: command q
+Zenick: Hp 67%
+Shar: Hp 98%
+Mithrand: clairvoyance
+Zenick: cast heal self
+Mithrand: look
+Zenick: Hp 73%
+Shar: Hp 98%
+Zenick: Hp 73%
+Shar: Hp 98%
+Zenick: Hp 73%
+Shar: Hp 98%
+Mithrand: look at bag 1
+Zenick: cast heal self
+Mithrand: look at bag 2
+Zenick: Hp 95%
+Shar: Hp 98%
+Mithrand: look at bag 3
+Zenick: Hp 95%
+Shar: Hp 98%
+Shar: Hp 98%
+Mithrand: cast glory of destruction at amount 100
+Shar: Hp 98%
+Zenick: get psionic_shield from pack
+Mithrand: peer e
+Mithrand: peer s
+Mithrand: look
+Zenick: cast heal self
+Zenick: Hp 88%
+Zenick: Hp 88%
+Zenick: peer n
+Shar: moan
+Zenick: peer n
+Shar: cast killing cloud
+Mithrand: look
+Shar: cast poison cloud
+Shar: quote 'cast info' party say
+Shar: cast info
+Shar: cast stop
+Shar: cast spider demon control at me
+Zenick: friends
+Zenick: inventory
+Zenick: equipment
+Mithrand: peer e
+Mithrand: peer s
+Zenick: remove rod
+Shar: south
+Zenick: inventory
+Mithrand: get shl from all
+Mithrand: get shelter from all
+Mithrand: eww
+Mithrand: look
+Shar: east
+Mithrand: cast spider demon control at me
+Mithrand: inventory
+Zenick: wield vfh
+Mithrand: peer e
+Mithrand: peer s
+Mithrand: Hp 99%
+Mithrand: Hp 99%
+Mithrand: look
+Shar: south
+Zenick: get aoh from disc
+Zenick: cast heal self
+Mithrand: peer e
+Mithrand: peer s
+Shar: cast spider demon control at me
+Shar: twiddle
+Zenick: peer n
+Zenick: look at disc
+Mithrand: peer e
+Mithrand: peer s
+Mithrand: clairvoyance
+Mithrand: look
+Zenick: inventory
+Zenick: cast 'armour of aether' zenick
+Shar: cast spider demon control at me
+Mithrand: peer e
+Mithrand: peer s
+Mithrand: Hp 99%
+Mithrand: report
+Mithrand: Hp 99%
+Mithrand: cast spider demon control at me
+Mithrand: Hp 99%
+Shar: east
+Mithrand: use prayer to destruction at spell
+Mithrand: inventory
+Shar: south
+Mithrand: Hp 99%
+Mithrand: peer e
+Mithrand: peer s
+Zenick: north
+Zenick: zap with wand
+Zenick: invoke lightning storm
+Zenick: invoke lightning storm
+Zenick: cast 'lightning storm'
+Zenick: vcast 'flip' mithrand
+Shar: scan all
+Shar: cast 'word of blasting'
+Zenick: Hp 92%
+Zenick: scan all
+Shar: cast 'word of blasting'
+Mithrand: cast 'aneurysm'
+Mithrand: scan
+Zenick: rebirth heal
+Zenick: scan all
+Zenick: Hp 67%
+Shar: scan all
+Mithrand: scan
+Zenick: scan all
+Mithrand: use 'blood harvest'
+Zenick: south
+Mithrand: cast damn armament at trident
+Mithrand: kurwa
+Shar: look
+Zenick: Hp 67%
+Zenick: Hp 67%
+Zenick: Hp 67%
+Zenick: Hp 67%
+Zenick: Hp 67%
+Mithrand: look at flip
+Zenick: Hp 67%
+Zenick: cast heal self
+Shar: east
+Zenick: Hp 67%
+Zenick: Hp 68%
+Zenick: Hp 68%
+Zenick: cast heal self
+Zenick: Hp 77%
+Mithrand: caress flip
+Shar: blook
+Mithrand: save
+Zenick: get aoh from disc
+Zenick: Hp 77%
+Zenick: Hp 77%
+Mithrand: peer e
+Zenick: Hp 77%
+Mithrand: peer s
+Zenick: inventory
+Zenick: Hp 91%
+Zenick: Hp 91%
+Zenick: Hp 91%
+Zenick: Hp 91%
+Mithrand: look
+Zenick: Hp 92%
+Zenick: Hp 92%
+Zenick: Hp 92%
+Mithrand: get potion
+Mithrand: label potion as force_absorption
+Zenick: Hp 92%
+Zenick: Hp 92%
+Mithrand: keep force_absorption
+Zenick: cast 'electrocution' mithrand
+Zenick: Hp 92%
+Zenick: Hp 92%
+Zenick: cast 'electrocution' mithrand
+Zenick: Hp 92%
+Mithrand: peer e
+Zenick: cast shelter
+Mithrand: peer s
+Zenick: Hp 92%
+Mithrand: clairvoyance
+Zenick: look
+Zenick: Hp 92%
+Mithrand: grep 'eyes burn' look at me
+Mithrand: look at me
+Mithrand: cast aura of hate at me
+Zenick: Hp 92%
+Zenick: Hp 92%
+Mithrand: calm gore
+Zenick: clairvoyance
+Zenick: Hp 92%
+Zenick: Hp 92%
+Zenick: clairvoyance
+Mithrand: cast shattered feast at amount 100
+Zenick: Hp 92%
+Mithrand: Hp 87%
+Mithrand: peer e
+Mithrand: clairvoyance
+Zenick: Hp 92%
+Mithrand: Hp 87%
+Zenick: Hp 92%
+Mithrand: Hp 87%
+Zenick: Hp 92%
+Mithrand: Hp 87%
+Zenick: Hp 92%
+Zenick: Hp 92%
+Zenick: Hp 92%
+Shar: south
+Shar: south
+Zenick: extract wand from case
+Zenick: store wand in case
+Zenick: get wand from disc
+Zenick: zap with wand
+Zenick: zap $ with wand
+Zenick: put wand in disc
+Zenick: cast 'lightning storm'
+Zenick: Hp 92%
+Shar: cast damn armament at battleaxe of the barbarian lords
+Mithrand: peer e
+Zenick: north
+Shar: scan all
+Zenick: cast 'lightning storm'
+Zenick: cast 'electrocution'
+Zenick: scan all
+Zenick: Hp 66%
+Zenick: look
+Mithrand: read tome
+Mithrand: read tome
+Mithrand: read tome
+Mithrand: read tome
+Mithrand: read tome
+Mithrand: read tome
+Mithrand: look
+Shar: use 'blood harvest'
+Zenick: Hp 46%
+Shar: Hp 99%
+Mithrand: cast 'aneurysm'
+Shar: scan all
+Mithrand: scan
+Zenick: read h
+Zenick: rub scale
+Zenick: target mithrand
+Zenick: Hp 52%
+Shar: Hp 99%
+Zenick: scan all
+Shar: scan all
+Zenick: cast 'electrocution'
+Zenick: scan all
+Zenick: south
+Mithrand: get hll from bag 2
+Shar: Hp 99%
+Mithrand: south
+Zenick: cast 'electrocution' mithrand
+Shar: south
+Shar: use 'blood harvest'
+Mithrand: use 'blood harvest'
+Zenick: read h
+Zenick: rub scale
+Mithrand: scan
+Shar: Hp 99%
+Mithrand: Hp 99%
+Zenick: Hp 32%
+Zenick: drink potion
+Zenick: drink potion
+You feel that Zenick is in great pain.
+Shar: Hp 99%
+Mithrand: Hp 99%
+Zenick: Hp 9%
+You feel that Zenick goes unconscious.
+Shar: scan all
+Shar: east
+Zenick died and thus loses this round!
+Info: Zenick dies.
+Mithrand: Hp 99%
+Mithrand: chant arkemile
+Mithrand: dig grave
+Mithrand: get mithril,batium,anipium,platinum,gold,silver,bronze,all scroll,all box,all chest,all safe,all pouch,all gem
+Shar: remove from right
+Shar: wear replacing prismatic rod
+Shar: summon field
+Shar: remove prismatic rod
+Shar: wield battleaxe of the barbarian lords
+Shar: grin
+Shar: juggle prismatic rod 2
+Mithrand: look
+Shar: north
+Mithrand: Hp 99%
+Shar: west
+Mithrand: clairvoyance
+Shar: remove from right
+Shar: sigh
+Shar: wear replacing prismatic rod
+Shar: summon field
+Shar: remove prismatic rod
+Shar: wield battleaxe of the barbarian lords
+Shar: grin
+Shar: juggle prismatic rod 2
+Mithrand: Hp 99%
+Shar: Hp 99%
+Mithrand: Hp 99%
+Shar: Hp 99%
+Mithrand: remove all kraftigar
+Mithrand: wield dracostarmikan 1,dracostarmikan 2
+Mithrand: inferno
+Mithrand: remove dracostarmikan
+Mithrand: keep dracostarmikan
+Mithrand: put dracostarmikan in bag 3
+Mithrand: inferno
+Mithrand: remove dracostarmikan
+Mithrand: wield kraftigar 1,kraftigar 2
+Mithrand: Hp 99%
+Mithrand: slots
+Shar: south
+Shar: get forget from pack
+Shar: put all in pack
+Shar: scan all
+Shar: Hp 93%
+Mithrand: Hp 99%
+Mithrand: remove all staff
+Shar: Hp 80%
+Mithrand: Hp 98%
+Shar: invoke anti_magic_field
+Mithrand: scan
+Shar: scan all
+Shar: Hp 74%
+Mithrand: Hp 95%
+Shar: scan all
+Mithrand: use 'blood harvest'
+Shar: Hp 74%
+Mithrand: Hp 95%
+Shar: scan all
+Mithrand: scan
+Mithrand: north
+Shar: Hp 63%
+Mithrand: Hp 95%
+Shar: scan all
+Mithrand: we
+Mithrand: east
+Shar: Hp 57%
+Mithrand: Hp 95%
+Mithrand: get hll from bag 2
+Shar: scan all
+Mithrand: slots
+Shar: Hp 44%
+Shar: scan all
+Shar: north
+Mithrand: wield all trident
+Shar: cast shattered feast at amount 100
+Shar: Hp 39%
+Mithrand: remove treident
+Shar: Hp 39%
+Mithrand: get nf from bag 1
+Mithrand: get nf from bag 2
+Mithrand: get nf from bag 3
+Shar: Hp 39%
+Shar: cast shattered feast at amount 100
+Mithrand: read nf
+Shar: peer s
+Shar: Hp 66%
+Mithrand: look at nf
+Mithrand: remove trident
+Shar: Hp 66%
+Mithrand: wield athame
+Shar: Hp 66%
+Mithrand: sever field
+Shar: parry 0
+Mithrand: read nf
+Shar: Hp 66%
+Shar: south
+Shar: scan all
+Shar: use 'blood harvest'
+Mithrand: use 'blood harvest'
+Mithrand: scan
+Shar: Hp 90%
+Shar: Hp 89%
+Mithrand: remove athame
+Shar: scan all
+Mithrand: scan
+Shar: duh
+Shar: Hp 82%
+Mithrand: Hp 97%
+Shar: scan all
+Mithrand: use 'blood harvest'
+Mithrand: scan
+Shar: north
+Shar: cast shattered feast at amount 100
+Mithrand: Hp 90%
+Mithrand: wield trident
+Mithrand: look at trident
+Shar: Hp 60%
+Mithrand: Hp 90%
+Mithrand: cast venom blade at trident
+Shar: get forget from pack
+Mithrand: look
+Shar: Hp 60%
+Mithrand: Hp 90%
+Mithrand: clairvoyance
+Mithrand: peer e
+Mithrand: peer n
+Shar: Hp 60%
+Mithrand: Hp 90%
+Shar: inventory
+Shar: Hp 60%
+Mithrand: Hp 92%
+Shar: Hp 60%
+Mithrand: Hp 92%
+Shar: Hp 60%
+Mithrand: Hp 92%
+Shar: get forget from pack 2
+Shar: Hp 89%
+Mithrand: Hp 87%
+Shar: get forget from pack 3
+Shar: look
+Shar: Hp 91%
+Mithrand: Hp 87%
+Mithrand: cast shattered feast at amount 100
+Shar: Hp 91%
+Mithrand: Hp 87%
+Shar: remove axe
+Shar: sigh
+Shar: wear wand
+Shar: Hp 91%
+Mithrand: Hp 87%
+Shar: Hp 91%
+Mithrand: Hp 89%
+Shar: remove wand
+Mithrand: clairvoyance
+Shar: Hp 91%
+Mithrand: Hp 89%
+Shar: wear wand 3
+Shar: Hp 91%
+Mithrand: Hp 89%
+Mithrand: cast shattered feast at amount 100
+Shar: Hp 91%
+Shar: remove shield
+Shar: Hp 91%
+Shar: wield dracostarmikan
+Mithrand: cast glory of destruction at amount 100
+Mithrand: clairvoyance
+Mithrand: peer n
+Shar: smirk mithrand
+Shar: Hp 91%
+Mithrand: peer e
+Shar: Hp 93%
+Shar: Hp 93%
+Shar: Hp 93%
+Mithrand: inventory
+Shar: Hp 93%
+Shar: Hp 93%
+Mithrand: put staff in bag 3
+Shar: Hp 93%
+Mithrand: put staff in bag 2
+Mithrand: inventory
+Shar: Hp 93%
+Mithrand: look at bag 3
+Shar: south
+Shar: wave wand 3 at mithrand
+Shar: wave wand at mithrand
+Shar: inferno
+Shar: invoke black hole at amount 100
+Shar: cast 'aneurysm'
+Shar: scan all
+Mithrand: look at bag 2
+Shar: Hp 99%
+Mithrand: Hp 99%
+Mithrand: look at bag 1
+Mithrand: inventory
+Shar: Hp 90%
+Mithrand: Hp 98%
+Shar: scan all
+Shar: remove dracostarmikan
+Mithrand: keep staff
+Shar: wield shield
+Mithrand: use 'blood harvest'
+Shar: Hp 82%
+Mithrand: Hp 98%
+Shar: wield shield
+Shar: scan all
+Shar: wield shield
+Mithrand: scan
+Shar: wield shield
+Shar: wield shield
+Shar: wield shield
+Shar: Hp 72%
+Mithrand: Hp 77%
+Shar: scan all
+Shar: wield shield
+Shar: wield shield
+Mithrand: scan
+Shar: wield shield
+Shar: wield shield
+Shar: wield shield
+Shar: wield shield
+Mithrand: get hll from bag 2
+Shar: cast 'word of blasting'
+Mithrand: get hll from bag 2
+Shar: Hp 52%
+Mithrand: Hp 91%
+Mithrand: get hll from bag 2
+Shar: scan all
+Shar: cast 'word of blasting'
+Shar: north
+Mithrand: scan
+Shar: cast shattered feast at amount 100
+Shar: Hp 33%
+Mithrand: vl 1
+Shar: Hp 69%
+Shar: cast shattered feast at amount 100
+Mithrand: command vial
+Shar: Hp 71%
+Mithrand: drink vial 1
+Mithrand: slots
+Shar: Hp 71%
+Mithrand: remove trident
+Mithrand: wear wand
+Shar: Hp 71%
+Mithrand: command z
+Shar: Hp 97%
+Shar: south
+Shar: cast 'harm body'
+Shar: scan all
+Shar: Hp 94%
+Mithrand: Hp 99%
+Shar: Hp 94%
+Mithrand: Hp 99%
+Shar: scan all
+Mithrand: remove wand
+Mithrand: use 'blood harvest'
+Shar: north
+Mithrand: scan
+Shar: remove all weapon
+Shar: eqset wis
+Shar: wield battleaxe of the barbarian lords in 1
+Shar: wear twinkling cape
+Mithrand: Hp 99%
+Shar: rub plate
+Shar: rub plate
+Mithrand: wield trident
+Shar: Hp 94%
+Mithrand: Hp 99%
+Shar: eqset def
+Shar: wield battleaxe of the barbarian lords in 1
+Shar: grin
+Shar: wield shield of igor twinbeard in 2
+Shar: wield reflector shield in 2
+Shar: parry 51
+Shar: Hp 94%
+Mithrand: Hp 99%
+Mithrand: cast 'harm body'
+Shar: wear replacing sparkling plate
+Shar: rub plate
+Shar: rub plate
+Shar: rub plate
+Shar: Hp 96%
+Mithrand: Hp 99%
+Shar: rub plate
+Shar: rub plate
+Shar: rub plate
+Shar: rub plate
+Shar: rub plate
+Mithrand: save
+Shar: Hp 96%
+Mithrand: Hp 99%
+Shar: Hp 96%
+Mithrand: Hp 99%
+Shar: Hp 96%
+Mithrand: Hp 99%
+Shar: south
+Shar: wave wand at mithrand
+Shar: juggle thin wand 2
+Shar: cast 'harm body'
+Shar: scan all
+Shar: Hp 88%
+Mithrand: use 'blood harvest'
+Mithrand: scan
+Shar: Hp 87%
+Mithrand: Hp 99%
+Shar: scan all
+Shar: Hp 77%
+Mithrand: Hp 99%
+Shar: scan all
+Mithrand: scan
+Shar: cast 'word of blasting'
+Shar: Hp 67%
+Mithrand: Hp 99%
+Shar: scan all
+Mithrand: scan
+Shar: twiddle
+Shar: Hp 46%
+Mithrand: Hp 99%
+Shar: scan all
+Shar: north
+Mithrand: scan
+Shar: cast shattered feast at amount 100
+Mithrand: cast shattered feast at amount 100
+Mithrand: Hp 84%
+Shar: Hp 38%
+Mithrand: Hp 84%
+Shar: Hp 38%
+Mithrand: drink vial 2
+Mithrand: Hp 97%
+Shar: Hp 38%
+Mithrand: remove treide
+Mithrand: remove trident
+Mithrand: Hp 98%
+Shar: Hp 38%
+Mithrand: wear wand
+Mithrand: Hp 98%
+Shar: Hp 38%
+Mithrand: Hp 98%
+Shar: Hp 67%
+Shar: cast shattered feast at amount 100
+Mithrand: command tt wave shar
+Mithrand: command wnd
+Mithrand: Hp 98%
+Shar: Hp 69%
+Mithrand: command tt wave at shar
+Mithrand: Hp 98%
+Shar: Hp 69%
+Mithrand: peer e
+Mithrand: peer n
+Mithrand: Hp 98%
+Shar: Hp 69%
+Mithrand: Hp 98%
+Shar: Hp 69%
+Mithrand: Hp 98%
+Shar: Hp 69%
+Shar: Hp 69%
+Shar: Hp 92%
+Shar: south
+Shar: use 'blood harvest'
+Shar: scan all
+Mithrand: wave at shar
+Shar: Hp 89%
+Mithrand: use 'blood harvest'
+Shar: wield axe
+Mithrand: wave at shar
+Shar: Hp 87%
+Mithrand: Hp 99%
+Shar: scan all
+Mithrand: slots
+Mithrand: curse
+Shar: Hp 78%
+Mithrand: Hp 99%
+Shar: scan all
+Mithrand: inventory -nokeep
+Shar: Hp 78%
+Mithrand: Hp 87%
+Shar: scan all
+Mithrand: remove wand
+Mithrand: get hll from bag 2
+Mithrand: get hll from bag 2
+Shar: use 'blood harvest'
+Shar: read heal
+Shar: Hp 71%
+Shar: scan all
+Shar: read heal
+Mithrand: scan
+Mithrand: use 'blood harvest'
+Shar: Hp 88%
+Shar: scan all
+Mithrand: scan
+Shar: Hp 86%
+Shar: scan all
+Mithrand: scan
+Mithrand: cast 'harm body'
+Shar: Hp 75%
+Mithrand: Hp 83%
+Shar: scan all
+Mithrand: scan
+Shar: use 'blood harvest'
+Shar: Hp 72%
+Mithrand: Hp 77%
+Shar: scan all
+Mithrand: scan
+Shar: Hp 70%
+Mithrand: Hp 77%
+Shar: scan all
+Mithrand: scan
+Shar: Hp 63%
+Mithrand: Hp 77%
+Shar: scan all
+Mithrand: cast 'aneurysm'
+Shar: read heal
+Mithrand: scan
+Shar: use 'blood harvest'
+Shar: Hp 44%
+Mithrand: Hp 60%
+Shar: scan all
+Shar: read heal
+Mithrand: scan
+Shar: Hp 85%
+Mithrand: Hp 60%
+Shar: scan all
+Mithrand: slots
+Shar: Hp 72%
+Mithrand: Hp 60%
+Shar: scan all
+Mithrand: wield trident
+Mithrand: get hll from bag 2
+Shar: north
+Mithrand: Hp 44%
+Shar: cast shattered feast at amount 100
+Mithrand: wield trident
+Mithrand: get hll from bag 2
+Shar: Hp 40%
+Mithrand: Hp 79%
+Mithrand: scan
+Mithrand: slots
+Mithrand: cast shattered feast at amount 100
+Shar: Hp 40%
+Mithrand: Hp 79%
+Shar: equipment
+Mithrand: look at trident
+Shar: Hp 40%
+Mithrand: Hp 79%
+Mithrand: clairvoyance
+Shar: Hp 70%
+Mithrand: Hp 79%
+Shar: cast shattered feast at amount 100
+Mithrand: score
+Shar: remove all wand
+Shar: eqset def
+Shar: wield battleaxe of the barbarian lords in 1
+Mithrand: parry
+Shar: wield shield of igor twinbeard in 2
+Shar: wield reflector shield in 2
+Shar: parry 51
+Shar: Hp 70%
+Mithrand: Hp 79%
+Mithrand: clairvoyance
+Mithrand: peer e
+Mithrand: peer n
+Shar: Hp 70%
+Mithrand: Hp 79%
+Shar: Hp 70%
+Mithrand: Hp 79%
+Mithrand: use ceremony
+Mithrand: inventory
+Shar: Hp 70%
+Mithrand: count vial
+Shar: Hp 70%
+Mithrand: purr
+Shar: south
+Shar: use 'blood harvest'
+Shar: scan all
+Mithrand: cast 'aneurysm'
+Shar: Hp 97%
+Mithrand: use 'blood harvest'
+Mithrand: scan
+Shar: Hp 95%
+Mithrand: Hp 99%
+Shar: scan all
+Mithrand: scan
+Shar: Hp 86%
+Mithrand: Hp 98%
+Shar: scan all
+Mithrand: scan
+Shar: Hp 61%
+Mithrand: Hp 79%
+Shar: scan all
+Mithrand: scan
+Shar: Hp 52%
+Mithrand: Hp 73%
+Shar: scan all
+Mithrand: use 'blood harvest'
+Shar: Hp 40%
+Mithrand: Hp 69%
+Shar: scan all
+Mithrand: cast info
+Mithrand: scan
+Shar: north
+Mithrand: scan
+Mithrand: Hp 64%
+Mithrand: cast shattered feast at amount 100
+Shar: read heal
+Shar: read heal
+Mithrand: Hp 64%
+Shar: remove axe
+Shar: sigh
+Mithrand: drink vial 3
+Shar: wield kraftigar
+Mithrand: cast shattered feast at amount 100
+Mithrand: Hp 77%
+Shar: south
+Shar: use 'blood harvest'
+Shar: scan all
+Shar: Hp 92%
+Mithrand: Hp 78%
+Mithrand: cast 'aneurysm'
+Mithrand: scan
+Shar: Hp 91%
+Mithrand: Hp 95%
+Shar: scan all
+Shar: wave wand at mithrand
+Shar: juggle thin wand 2
+Mithrand: scan
+Shar: Hp 83%
+Mithrand: Hp 93%
+Shar: scan all
+Mithrand: use 'blood harvest'
+Mithrand: scan
+Shar: Hp 59%
+Mithrand: Hp 82%
+Shar: scan all
+Shar: Hp 48%
+Mithrand: Hp 78%
+Shar: scan all
+Shar: use 'blood harvest'
+Mithrand: scan
+Shar: Hp 41%
+Mithrand: Hp 78%
+Shar: scan all
+Mithrand: use 'blood harvest'
+Shar: read heal
+Mithrand: scan
+Shar: rebirth heal
+Mithrand: peer n
+Shar: Hp 97%
+Mithrand: Hp 78%
+Shar: scan all
+Mithrand: peer e
+Mithrand: scan
+Shar: Hp 87%
+Mithrand: Hp 78%
+Shar: scan all
+Mithrand: look at hll
+Shar: Hp 80%
+Mithrand: Hp 66%
+Shar: scan all
+Mithrand: scan
+Shar: cast 'harm body'
+Shar: Hp 61%
+Mithrand: Hp 58%
+Shar: scan all
+Mithrand: get hll from bag 2
+Shar: Hp 51%
+Mithrand: Hp 91%
+Shar: scan all
+Mithrand: throw fuk at shar
+Mithrand: use 'blood harvest'
+Shar: Hp 44%
+Mithrand: Hp 91%
+Shar: scan all
+Shar: use 'blood harvest'
+Shar: grr
+Shar: Hp 32%
+Mithrand: Hp 90%
+Shar: scan all
+Mithrand: lol
+Shar: north
+Shar: cast shattered feast at amount 100
+Mithrand: Hp 90%
+Shar: Hp 32%
+Shar: remove all weapon
+Shar: eqset dspr
+Mithrand: Hp 90%
+Shar: Hp 32%
+Mithrand: remove trident
+Mithrand: Hp 90%
+Shar: Hp 32%
+Mithrand: wear wand 2
+Mithrand: Hp 90%
+Shar: Hp 34%
+Mithrand: command wnd
+Mithrand: Hp 90%
+Shar: Hp 69%
+Mithrand: keep wand
+Shar: cast shattered feast at amount 100
+Mithrand: put wand in bag 1
+Mithrand: Hp 92%
+Shar: Hp 69%
+Mithrand: slots
+Mithrand: Hp 92%
+Shar: Hp 69%
+Mithrand: cast shattered feast at amount 100
+Mithrand: Hp 92%
+Shar: Hp 69%
+Mithrand: drink vial 4
+Shar: Hp 69%
+Mithrand: look
+Mithrand: inventory
+Mithrand: cast 'harm body'
+Mithrand: slots
+Nazrix says 'fukju potion ended shar's match last time.'
+Mithrand: cast 'harm body'
+Mithrand: look
+Mithrand: slots
+Shar: powers
+Mithrand: peer n
+Mithrand: peer e
+Mithrand: cast 'harm body'
+Mithrand: cast 'harm body'
+Mithrand: command wnd
+Shar: look at axe
+Mithrand: command tt
+Mithrand: cast 'harm body'
+Mithrand: command tt wave wand at shar
+Mithrand: cast 'harm body'
+Shar: eqset def
+Shar: wield battleaxe of the barbarian lords in 1
+Shar: grin
+Shar: wield shield of igor twinbeard in 2
+Shar: wield reflector shield in 2
+Shar: parry 51
+Shar: Hp 98%
+Shar: remove axe
+Shar: sigh
+Shar: Hp 98%
+Shar: wield dracostarmikan
+Shar: inferno
+Shar: Hp 98%
+Mithrand: cast 'harm body'
+Mithrand: peer n
+Shar: Hp 98%
+Shar: remove dracostarmikan
+Mithrand: peer e
+Shar: wield axe
+Shar: grin
+Shar: Hp 98%
+Shar: remove axe
+Shar: sigh
+Shar: Hp 98%
+Shar: wield axe
+Shar: grin
+Shar: Hp 98%
+Mithrand: cast stop
+Mithrand: command f
+Shar: south
+Shar: invoke black hole at amount 100
+Shar: cast 'harm body'
+Shar: scan all
+Shar: Hp 98%
+Mithrand: Hp 99%
+Shar: Hp 98%
+Mithrand: Hp 99%
+Shar: scan all
+Mithrand: cast 'aneurysm'
+Shar: Hp 97%
+Mithrand: Hp 99%
+Shar: scan all
+Mithrand: throw fuk at shar
+Mithrand: save
+Shar: Hp 96%
+Mithrand: Hp 99%
+Shar: scan all
+Shar: necki
+Shar: necki
+Shar: necki
+Shar: necki
+Shar: necki
+Shar: necki
+Shar: Hp 94%
+Mithrand: Hp 62%
+Shar: scan all
+Mithrand: remove all wand
+Shar: use 'blood harvest'
+Shar: Hp 89%
+Mithrand: Hp 61%
+Shar: scan all
+Shar: north
+Mithrand: wield trident
+Mithrand: Hp 61%
+Shar: read cure_player
+Mithrand: wield trident
+Mithrand: cast shattered feast at amount 100
+Shar: Hp 86%
+Mithrand: Hp 61%
+Shar: east
+Shar: south
+Mithrand: peer n
+Mithrand: peer e
+Mithrand: Hp 61%
+Shar: Hp 86%
+Shar: get cure_player from pack
+Shar: read cure_player
+Mithrand: Hp 63%
+Shar: Hp 86%
+Shar: look at pack
+Mithrand: Hp 63%
+Shar: Hp 86%
+Mithrand: cast shattered feast at amount 100
+Shar: look at pack 2
+Mithrand: Hp 76%
+Shar: Hp 86%
+Mithrand: Hp 76%
+Shar: Hp 86%
+Shar: get flip from pack
+Mithrand: Hp 76%
+Shar: Hp 86%
+Shar: remove all weapon
+Shar: sigh
+Shar: eqset prot
+Mithrand: Hp 76%
+Shar: Hp 88%
+Mithrand: Hp 76%
+Shar: Hp 88%
+Mithrand: look
+Mithrand: Hp 76%
+Shar: Hp 88%
+Mithrand: cast shattered feast at amount 100
+Mithrand: Hp 94%
+Shar: Hp 88%
+Mithrand: use ceremony
+Mithrand: slots
+Mithrand: Hp 94%
+Shar: Hp 88%
+Mithrand: inventory
+Mithrand: Hp 94%
+Shar: Hp 88%
+Mithrand: Hp 94%
+Shar: Hp 88%
+Mithrand: put staff in bag
+Mithrand: Hp 94%
+Shar: Hp 88%
+Mithrand: Hp 94%
+Shar: Hp 91%
+Shar: get cure_player from pack
+Shar: drinki cure_player
+Mithrand: look
+Mithrand: Hp 94%
+Shar: Hp 91%
+Mithrand: look at trident
+Mithrand: Hp 94%
+Shar: Hp 91%
+Mithrand: Hp 94%
+Shar: Hp 91%
+Mithrand: Hp 94%
+Shar: Hp 91%
+Mithrand: Hp 96%
+Shar: Hp 91%
+Mithrand: cast blood seeker at amount 100
+Mithrand: Hp 96%
+Shar: Hp 91%
+Mithrand: peer n
+Mithrand: peer e
+Mithrand: Hp 96%
+Shar: Hp 91%
+Mithrand: Hp 96%
+Shar: Hp 94%
+Mithrand: command cr
+Mithrand: Hp 97%
+Shar: Hp 94%
+Mithrand: Hp 96%
+Shar: Hp 94%
+Mithrand: command cr throw cr at shar
+Mithrand: Hp 96%
+Shar: Hp 94%
+Shar: eqset def
+Shar: wield battleaxe of the barbarian lords in 1
+Shar: grin
+Shar: wield shield of igor twinbeard in 2
+Shar: wield reflector shield in 2
+Shar: parry 51
+Mithrand: command fuk throw fuk at shar
+Mithrand: Hp 96%
+Shar: Hp 93%
+Shar: west
+Shar: throw flip at mithrand
+Shar: scan all
+Mithrand: look at cr
+Mithrand: throw cr at shar
+Shar: Hp 92%
+Mithrand: Hp 93%
+Shar: Hp 91%
+Mithrand: Hp 93%
+Shar: scan all
+Mithrand: look
+Shar: Hp 83%
+Mithrand: Hp 92%
+Shar: scan all
+Shar: Hp 77%
+Mithrand: Hp 92%
+Shar: scan all
+Mithrand: sigh
+Shar: Hp 66%
+Mithrand: Hp 92%
+Shar: scan all
+Mithrand: use 'blood harvest'
+Shar: Hp 63%
+Mithrand: Hp 92%
+Shar: scan all
+Mithrand: scan
+Shar: Hp 32%
+Mithrand: Hp 91%
+Shar: scan all
+Mithrand: score
+Shar: east
+Mithrand: Hp 91%
+Shar: inventory
+Mithrand: peer n
+Mithrand: east
+Shar: north
+Shar: scan all
+Shar: west
+Shar: south
+Mithrand: north
+Mithrand: west
+Shar: east
+Shar: Hp 12%
+Mithrand: Hp 91%
+Shar: north
+Shar: scan all
+Shar: get restore from pack
+Shar: Hp 82%
+Mithrand: Hp 91%
+Shar: west
+Shar: south
+Shar: get restore from pack 2
+Mithrand: Hp 91%
+Shar: get restore from pack 3
+Mithrand: clairvoyance
+Mithrand: west
+Shar: Hp 87%
+Mithrand: Hp 93%
+Mithrand: south
+Mithrand: west
+Shar: scan all
+Shar: east
+Mithrand: scan
+Shar: north
+Mithrand: Hp 93%
+Shar: Hp 82%
+Shar: west
+Mithrand: east
+Mithrand: north
+Shar: south
+Mithrand: west
+Shar: east
+Mithrand: clairvoyance
+Mithrand: Hp 93%
+Shar: Hp 82%
+Mithrand: south
+Shar: scan all
+Shar: north
+Shar: west
+Mithrand: north
+Shar: south
+Mithrand: Hp 93%
+Mithrand: south
+Mithrand: west
+Shar: scan all
+Mithrand: scan
+Mithrand: use 'blood harvest'
+Mithrand: Hp 93%
+Shar: Hp 27%
+Mithrand: Hp 93%
+Shar: Hp 22%
+Shar: scan all
+Mithrand: Hp 93%
+Shar: Hp -14%
+Shar died and thus loses this round!
+Mithrand has won this round of the Battle Royale!
+Info: Shar dies.

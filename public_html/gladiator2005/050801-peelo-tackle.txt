@@ -1,0 +1,2182 @@
+The arena master shouts 'Team 1 consists of Tackle'
+The arena master shouts 'Team 2 consists of Peelo'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32m*Sirdest %The arena master shouts 'Team 1 consists of Tackle'.[0m
+[32m*Sirdest %The arena master shouts 'Team 2 consists of Peelo'.[0m
+la arena
+[32m*Sirdest %The arena master shouts 'All teams ready! Let the fight begin!'.[0m
+[32m*Sirdest % n.[0m
+[32m*Sirdest %You cannot go that way.[0m
+[32m*Sirdest %Hp:1115/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %The [0m[32marena master shouts 'Team 1 consists of Tackle'.[0m
+       
+  ###  
+  #.#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             914/914   482/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1115/1115  565/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:40] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Arena grounds (s).[0m
+[32m*Sirdest %Peelo arrives.[0m
+[32m*Sirdest % kill peelo.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You howls in agony as the evil mace crushes bones![0m
+[32m*Sirdest %Peelo thrusts you making hair burn.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You tear Peelo creating a nasty infection.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You lightly cut Peelo inducing a strangling.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %hp: 1062 (1115) [-53] sp: 565 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %** Cost for 'kill peelo': Cost: utime:12 stime:1 ticks:105991 **.[0m
+[32m*Sirdest %Hp:1062/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Arena [0m[32mgrounds (s).[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+la arena
+[32m*Sirdest %| 1.2   Tackle        ldr 1062(1115)  565( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:1062/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             857/914   482/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1062/1115  565/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:41] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:1062/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:1062/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo [0m[32mis in excellent shape. [0m(90-100% hps)
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             857/914   482/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1062/1115  565/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:43] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo thrusts you causing a small wound.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You lightly cut Peelo causing a small scratch.[0m
+[32m*Sirdest %hp: 1011 (1115) [-51] sp: 565 (581) [] ep: 444 (444) [].[0m
+Chickity arrives from down.
+[32mChickity bows respectfully before Moonlord.[0m
+[32m*Sirdest % pss.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle        ldr 1011(1115)  565( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+la arena
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % pss.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             823/914   482/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1011/1115  565/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:45] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%% to.[0m
+[32m*Sirdest %You have an unusual feeling as you cast the spell.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo [0m[32mis in excellent shape. [0m(90-100% hps)
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             823/914   482/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1011/1115  565/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:47] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %You cut Peelo creating a nasty infection.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Spider touch: ###.[0m
+[32m*Sirdest %You skillfully cast the spell with greater haste.[0m
+[32m*Mankind ghaste..[0m
+la arena
+[32m*Sirdest % pss.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle        ldr 1011(1115)  565( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%%Peelo leaves [0m[32msouth.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             882/914   466/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1011/1115  565/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:49] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%% @emote spider [0m[32mtouch -> 3.[0m
+[32m*Sirdest %*Tackle spider touch -> 3.[0m
+[32m*Sirdest %Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%% @party report [0m[32mspider touch -> 1.[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m spider touch -> 1.[0m
+[32m*Sirdest %Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%Hp:1011/1115 Sp:565/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             882/914   466/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1011/1115  565/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:50] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[1;37mKyo [0;53m(fall+):[1;37m shar/kawasa käsis ois toi pearl kyl aika älytö[0m
+[32m*Sirdest %Cast spider touch at what?[0m
+[32m*Sirdest %hp: 1011 (1115) [] sp: 558 (581) [-7] ep: 444 (444) [].[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             882/914   466/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1011/1115  558/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:53] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Arena grounds (n).[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 2>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You cut Peelo causing an infection.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You cut Peelo inducing a strangling.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %Peelo thrusts you causing third degree burns.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %hp: 971 (1115) [-40] sp: 558 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %** Cost for 's': Cost: utime:10 stime:0 ticks:108387 **.[0m
+[32m*Sirdest %Hp:971/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Arena [0m[32mgrounds (n).[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You cut Peelo causing a small scratch.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You cut Peelo causing a small scratch.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Peelo strokes you making hair burn.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %hp: 929 (1115) [-42] sp: 558 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle        ldr  929(1115)  558( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:929/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%%Peelo leaves [0m[32mnorth.[0m
+[32m*Sirdest %Hp:929/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo [0m[32mstrokes you making hair burn.[0m
+[32m*Sirdest %Hp:929/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mdrained as he attacks you through your barrier of darkness.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             864/914   450/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            929/1115  558/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:55] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[1;35mThe devil monkey of Kawasa whispers: It is useless attacking the insensible. [0m
+[32mKawasa quacks 'eiiii jotai touchia.'[0m
+[32m*Sirdest % pss.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle        ldr  929(1115)  558( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:929/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Hp:929/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Hp:929/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%% to.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:929/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % pss.[0m
+la arena
+Savok takes a monster toke from her doobie.
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             799/914   450/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            891/1115  558/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:57] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Spider touch: ###.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You cut Peelo causing a small scratch.[0m
+[32m*Sirdest %You lightly cut Peelo inducing a strangling.[0m
+[32m*Sirdest %You cut Peelo causing a small scratch.[0m
+[32m*Sirdest %Peelo strokes you causing a small wound.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %hp: 891 (1115) [-38] sp: 558 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %*Tackle spider touch -> 3.[0m
+[32m*Sirdest %Hp:891/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %*Tackle [0m[32mspider touch -> 3.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle        ldr  891(1115)  558( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:891/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:891/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:891/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             799/914   450/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            891/1115  558/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:06:58] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Spider touch: ##.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo strokes you producing large scratches.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %hp: 847 (1115) [-44] sp: 558 (581) [] ep: 444 (444) [].[0m
+[32mBrokus says 'hoh.'[0m
+[32m*Sirdest % pss.[0m
+la arena
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle        ldr  847(1115)  558( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:847/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % pss.[0m
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             799/914   450/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            847/1115  558/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:00] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:847/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:847/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32min a good shape. [0m(80-90% hps)
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             866/914   422/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            815/1115  558/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:03] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Spider touch: #.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You cut Peelo causing an infection.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You cut Peelo inducing a strangling.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You howls in agony as the evil mace crushes bones![0m
+[32m*Sirdest %Peelo strokes you causing third degree burns.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %hp: 815 (1115) [-32] sp: 558 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %Peelo leaves north.[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m spider touch -> 1.[0m
+[32m*Sirdest %Hp:815/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Tackle [0m[1;30m[report]:[0;32m spider touch -> 1.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+la arena
+[32m*Sirdest %| 1.2   Tackle        ldr  815(1115)  558( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:815/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Hp:815/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             866/914   422/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            815/1115  558/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:04] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Hp:815/1115 Sp:558/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest %Cast spider touch at what?[0m
+[32m*Sirdest %hp: 815 (1115) [] sp: 543 (581) [-15] ep: 444 (444) [].[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             866/914   422/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            815/1115  543/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:06] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:815/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+[1;37mKyo [0;53m(fall+):[1;37m aika harmiton ainaki vielä toi ollu tacklel ku eipä se taida pahemmi [0m[1;37mequu tehä[0m
+[56mTICK IN 5 SECONDS.[0m
+[32m*Sirdest %*****************************************************.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             819/914   422/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            728/1115  543/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:09] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo strokes you making a throttling.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %hp: 774 (1115) [-41] sp: 543 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %You skillfully cast the spell with greater haste.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo thrusts you inducing a nasty lesion.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Mankind ghaste..[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You lightly cut Peelo causing a small scratch.[0m
+[32m*Sirdest %hp: 728 (1115) [-46] sp: 543 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  728(1115)[32m  543( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:728/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             819/914   422/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            728/1115  543/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:10] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest % x all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:728/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:728/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%% @emote spider [0m[32mtouch -> 3.[0m
+[32m*Sirdest %*Tackle spider touch -> 3.[0m
+[32m*Sirdest %Hp:728/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%% @party report [0m[32mspider touch -> 1.[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m spider touch -> 1.[0m
+[32m*Sirdest %Hp:728/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%% pss.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  728(1115)[32m  543( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:728/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:728/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:728/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % x all.[0m
+,-----------------------------------------------------------------------.
+| Time    Channel           Program                                     |
+|-----------------------------------------------------------------------|
+| 00:10   MTV3              Ostoskanava                                 |
+|         YLE24                                                         |
+`-----------------------------------------------------------------------'
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             760/914   422/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            681/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:12] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You weave the Touch with your hands and chant 'Khizanth Arachnidus [0m[32mDiametricus' [57m(Spider touch)[32m.[0m
+[32m*Sirdest %Peelo turns very pale and shivers as if he had just been poisoned.[0m
+[32m*Sirdest %hp: 728 (1115) [] sp: 466 (581) [-77] ep: 444 (444) [].[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo strokes you making a throttling.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You tear Peelo producing large scratches.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You lightly cut Peelo causing a small scratch.[0m
+[32m*Sirdest %hp: 681 (1115) [-47] sp: 466 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  681(1115)[32m  466( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:681/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:681/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:681/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%%Peelo leaves [0m[32mnorth.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             760/914   422/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            681/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:14] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Arglebargle Glop-Glyf?!?[0m
+[32m*Sirdest %Hp:681/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%Arglebargle Glop-Glyf?!?[0m
+[32m*Sirdest %You cannot go that way.[0m
+[32m*Sirdest %Hp:681/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mcannot go that way.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             760/914   422/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            681/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:16] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32mSirdest goes 'Heh'.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You become somewhat confused, losing your edge.[0m
+[32m*Sirdest %Peelo thrusts you causing the airway to get smothered.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Peelo thrusts you inducing a nasty lesion.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %hp: 590 (1115) [-91] sp: 466 (581) [] ep: 444 (444) [].[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             812/914   406/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            590/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:19] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You try to concentrate but your head spins like a whirligig![0m
+[32m*Sirdest %Hp:590/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You try [0m[32mto concentrate but your head spins like a whirligig![0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle      [53m stun  590(1115)[32m  466( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:590/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:590/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:590/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             812/914   406/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            590/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:20] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You score a CRITICAL hit![0m
+[32m*Sirdest %Grinning diabolically you incisively cut Peelo making rib bones snap and [0m[32mcrack.[0m
+[32m*Sirdest %hp: 583 (1115) [-7] sp: 466 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %Peelo starts concentrating on a new spell.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  583(1115)[32m  466( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:583/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             725/914   406/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            583/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:22] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:583/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:583/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%% @party say [0m[32mCRITTED the fucker![0m
+[32m*Sirdest %Channel party is now on.[0m
+[32m*Sirdest %Tackle [52m[party]:[32m CRITTED the fucker![0m
+[32m*Sirdest %Hp:583/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%% n.[0m
+[32m*Sirdest %Arena grounds (s).[0m
+[32m*Sirdest %Hp:583/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mslightly hurt. [0m(65-80% hps)
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             725/914   406/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            583/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:23] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You don't know that spell.[0m
+[32m*Sirdest %Hp:583/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mdon't know that spell.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You cut Peelo producing large scratches.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %hp: 577 (1115) [-6] sp: 466 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest % pss.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  577(1115)[32m  466( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:577/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % pss.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             702/914   406/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            577/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:25] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:577/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:577/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mslightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Arena grounds (n).[0m
+[32m*Sirdest %Hp:577/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Arena [0m[32mgrounds (n).[0m
+[32mKyynel whistles 'Arglebargle Glop-Glyf?!? se.'[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             702/914   406/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            577/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:27] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32mSirdest says 'hes not the last year champion for nothing!!'[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:577/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+[32mBrokus says 'miksei se vetäny wrathil suoraa :)=.'[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             702/914   406/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            577/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:29] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+Savok sucks down a massive lung-full of smoke.  You are so jealous.
+[32m*Sirdest %You skillfully cast the spell with greater haste.[0m
+[32m*Mankind ghaste..[0m
+[32m*Sirdest %.[0m
+[32m*Sirdest %Hp:577/1115 Sp:466/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             702/914   405/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            577/1115  466/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:32] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You weave the web with your hands and chant 'infernalicus thanatos [0m[32marachnidos' [57m(Spider demon banishment)[32m.[0m
+[32m*Sirdest %The area is covered in magical spider webs.[0m
+[32m*Sirdest %hp: 577 (1115) [] sp: 408 (581) [-58] ep: 444 (444) [].[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             702/914   405/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            577/1115  408/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:34] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %You tear Peelo causing a small wound.[0m
+[32m*Sirdest %You cut Peelo inducing a strangling.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You lightly cut Peelo causing a small scratch.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:577/1115 Sp:408/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mlightly cut Peelo causing a small scratch.[0m
+[32mSavok stares into space.[0m
+[32m*Sirdest %Peelo tries to rip the webs![0m
+[32m*Sirdest %He fails to rip the web.[0m
+[32m*Sirdest % pss.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  577(1115)[32m  408( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:577/1115 Sp:408/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:577/1115 Sp:408/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:577/1115 Sp:408/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo [0m[32mtries to rip the webs![0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest %Hp:577/1115 Sp:408/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%Hp:577/1115 Sp:408/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             627/914   405/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            577/1115  408/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:37] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32m*Sirdest %You clap your hands and whisper 'judicandus mercuree' [57m(Cure light wounds)[32m.[0m
+la arena
+[32m*Sirdest %You heal little of your own wounds.[0m
+[32m*Sirdest %hp: 617 (1115) [+40] sp: 389 (581) [-19] ep: 444 (444) [].[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You miss Peelo.[0m
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             627/914   405/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            617/1115  389/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:39] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  617(1115)  389( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:617/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:617/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:617/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mslightly hurt. [0m(65-80% hps)
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:617/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart concentrating on the skill.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             627/914   405/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            617/1115  389/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:41] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32mKawasa quacks 'webbaaa ois pitäny heti.'[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You cut Peelo producing large scratches.[0m
+[32m*Sirdest %Peelo starts concentrating on a new spell.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  617(1115)  389( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:617/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo [0m[32mstarts concentrating on a new spell.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             613/914   405/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            617/1115  389/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:43] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:617/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:617/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mslightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo strokes you inducing a nasty lesion.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You cut Peelo producing large scratches.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You lightly cut Peelo causing a small scratch.[0m
+[32m*Sirdest %hp: 584 (1115) [-33] sp: 389 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %*Peelo hastes.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  584(1115)  389( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:584/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+la arena
+[32m*Sirdest %Hp:584/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:584/1115 Sp:389/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mnoticeably hurt. [0m(50-65% hps)
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             571/914   405/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            584/1115  389/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:46] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mangenic' [57m(Cure critical [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mangenic' [57m(Cure critical [0m[57mwounds)[32m.[0m
+[32m*Sirdest %hp: 584 (1115) [] sp: 375 (581) [-14] ep: 444 (444) [].[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You cut Peelo creating a nasty infection.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You lightly cut Peelo causing a small scratch.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+la arena
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  584(1115)  375( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:584/1115 Sp:375/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             692/914   359/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            584/1115  375/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:48] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:584/1115 Sp:375/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:584/1115 Sp:375/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mslightly hurt. [0m(65-80% hps)
+[32m*Sirdest %He fails to rip the web.[0m
+[32m*Sirdest %You break your skill attempt.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:584/1115 Sp:375/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mbreak your skill attempt.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             692/914   359/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            584/1115  375/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:50] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Cure light wounds: #.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo thrusts you causing the airway to get smothered.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %You score a CRITICAL hit![0m
+[32m*Sirdest %Grinning diabolically you slit Peelo causing poison to flow to the brain.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You lightly cut Peelo producing large scratches.[0m
+[32m*Sirdest %hp: 542 (1115) [-42] sp: 375 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest %Hp:542/1115 Sp:375/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Tackle [0m[1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  542(1115)  375( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:542/1115 Sp:375/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:542/1115 Sp:375/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:542/1115 Sp:375/581 Ep:444/444 Weight:38 Rms:10001 >>%% @party say [0m[32mCRITTED the fucker![0m
+[32m*Sirdest %Tackle [52m[party]:[32m CRITTED the fucker![0m
+[32m*Sirdest %Hp:542/1115 Sp:375/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             514/914   359/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            542/1115  375/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:52] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You clap your hands and whisper 'judicandus mercuree' [57m(Cure light wounds)[32m.[0m
+[32m*Sirdest %You heal little of your own wounds.[0m
+[32m*Sirdest %hp: 580 (1115) [+38] sp: 356 (581) [-19] ep: 444 (444) [].[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You cut Peelo producing large scratches.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %hp: 566 (1115) [-14] sp: 356 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest % pss.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  566(1115)  356( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:566/1115 Sp:356/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % pss.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             579/914   343/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            566/1115  356/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:55] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:566/1115 Sp:356/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:566/1115 Sp:356/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mnoticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Arena grounds (s).[0m
+[32m*Sirdest %Hp:566/1115 Sp:356/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Arena [0m[32mgrounds (s).[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:566/1115 Sp:356/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+[1;37mDupre [0;53m(fall+):[1;37m hittoku sais peeloki krittail![0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest %Hp:566/1115 Sp:356/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Tackle [0m[1;30m[report]:[0;32m cure light wounds -> 1.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             579/914   343/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            566/1115  356/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:07:58] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+Savok exhales, filling the room with smoke.
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You clap your hands and whisper 'judicandus mercuree' [57m(Cure light wounds)[32m.[0m
+[32m*Sirdest %You stumble and lose your concentration.[0m
+[32m*Sirdest %hp: 566 (1115) [] sp: 337 (581) [-19] ep: 444 (444) [].[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             754/914   297/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            566/1115  337/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:01] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:566/1115 Sp:337/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+[32m*Sirdest % @party report cure light wounds -> 1.[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest %Hp:566/1115 Sp:337/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @party [0m[32mreport cure light wounds -> 1.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             754/914   297/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            566/1115  337/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:05] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You clap your hands and whisper 'judicandus mercuree' [57m(Cure light wounds)[32m.[0m
+[32m*Sirdest %You stutter the magic words and fail the spell.[0m
+[32m*Sirdest %You feel like you just saved some spell points![0m
+[32m*Sirdest %hp: 566 (1115) [] sp: 334 (581) [-3] ep: 444 (444) [].[0m
+la arena
+[32mGolieth says 'Oh', with a blank look on his face.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             754/914   297/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            566/1115  334/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:07] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest % cere.[0m
+[32m*Sirdest %You start concentrating on the skill.[0m
+[32m*Sirdest %Hp:566/1115 Sp:334/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % cere.[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             754/914   297/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            566/1115  334/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:10] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You see nothing special.[0m
+la arena
+[32m*Sirdest %Hp:566/1115 Sp:334/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You see [0m[32mnothing special.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             754/914   297/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            566/1115  334/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:12] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %A warm feeling comes over you as the black pearl channels its energy to you.[0m
+[32m*Sirdest % @emote Pearl Tick Timed: 8:54.[0m
+[32m*Sirdest %*Tackle Pearl Tick Timed: 8:54.[0m
+[32m*Sirdest %Hp:830/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @emote [0m[32mPearl Tick Timed: 8:54.[0m
+[32mSirdest exclaims 'very exciting!'[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             816/914   281/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            830/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:14] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+la arena
+
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             816/914   281/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            830/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:17] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest % @cast cure light wounds at tackle.[0m
+[32m*Sirdest %You break your skill attempt.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:830/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @cast [0m[32mcure light wounds at tackle.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+la arena
+[32m*Sirdest %Arena grounds (n).[0m
+[32m*Sirdest %Peelo Puskaryssa the dented member of Tinmen <team 2>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You cut Peelo inducing a strangling.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %Hp:830/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Your [0m[32mmovement prevents you from casting the spell.[0m
+       
+  ###  
+  #.#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             880/914   265/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            830/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:21] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle        ldr  830(1115)[54m  581( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:830/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32mRamjett agrees fully.[0m
+[32m*Sirdest % x all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:830/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:830/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % x all.[0m
+[1;37mDupre [0;53m(fall+):[1;37m jaa se otti jo pearli tiki vai spt[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             818/914   265/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            790/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:25] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You cut Peelo causing an infection.[0m
+[32m*Sirdest %You lightly cut Peelo inducing a strangling.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[1;35mThe devil monkey of Kawasa whispers: Genius is ninety percent perspiration and ten [0m[1;35mpercent inspiration. [0m
+[32mKawasa quacks 'gnnn ku sai pearli tikin.'[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You lightly cut Peelo causing a small scratch.[0m
+[32m*Sirdest %You try to dodge, but Peelo is not fooled.[0m
+[32m*Sirdest %Peelo thrusts you making a throttling.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %hp: 790 (1115) [-40] sp: 581 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle        ldr  790(1115)[54m  581( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:790/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:790/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in a good shape. [0m(80-90% hps)
+[32m*Sirdest %Hp:790/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32min a good shape. [0m(80-90% hps)
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:790/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             818/914   265/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            790/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:27] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+Savok takes a monster toke from her doobie.
+[32mSavok grins stonedly.[0m
+[32m*Sirdest %You skillfully cast the spell with haste.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You lightly cut Peelo inducing a strangling.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Mankind haste..[0m
+[32m*Sirdest %Peelo thrusts you causing bad burns.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %hp: 748 (1115) [-42] sp: 581 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest % wrath peelo.[0m
+[32m*Sirdest %You interrupt the chant in order to start a new chant.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:748/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mskillfully cast the spell with haste.[0m
+[32m*Mankind haste..[0m
+[32m*Sirdest %Hp:748/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Mankind haste..[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  748(1115)[54m  581( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+la arena
+[32m*Sirdest %Hp:748/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:748/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:748/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+       
+  ###  
+  #.#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             878/914   249/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            748/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:29] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32mChizra booms 'toio iha nauru.'[0m
+[32m*Sirdest %Spider wrath: ###.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %Your armours absorb some of the damage.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo strokes you making a throttling.[0m
+[32m*Sirdest %Peelo strokes you causing third degree burns.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %hp: 660 (1115) [-88] sp: 581 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %*Tackle spider wrath -> 3.[0m
+[32m*Sirdest %Hp:660/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %*Tackle [0m[32mspider wrath -> 3.[0m
+la arena
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  660(1115)[54m  581( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+       
+  ###  
+  #.#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             864/914   249/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            660/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:32] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:660/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:660/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:660/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest %Spider wrath: ##.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You cut Peelo inducing a strangling.[0m
+[32m*Sirdest %You cut Peelo making a minor throttling.[0m
+[32m*Sirdest %You cut Peelo causing a small scratch.[0m
+[32m*Sirdest %Peelo strokes you causing a small wound.[0m
+[32m*Sirdest %Peelo strokes you causing a small wound.[0m
+[32m*Sirdest %hp: 577 (1115) [-83] sp: 581 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [53m ldr  577(1115)[54m  581( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:577/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest % x all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:577/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is in excellent shape. [0m(90-100% hps)
+[32m*Sirdest %Hp:577/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % x all.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             855/914   233/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            577/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:35] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32mEra buzzes 'that web thingie is boring.'[0m
+[32m*Sirdest % use stop.[0m
+[32m*Sirdest %You interrupt the spell.[0m
+[32m*Sirdest %Hp:577/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % use [0m[32mstop.[0m
+[32m*Sirdest %You start chanting.[0m
+la arena
+[32m*Sirdest %Hp:577/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             855/914   233/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            577/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:38] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You interrupt the spell.[0m
+[32m*Sirdest %Hp:577/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32minterrupt the spell.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %Grinning diabolically Peelo beats you causing heart tissue to fly [0m[32meverywhere.[0m
+[32mKyynel whistles 'tööttäis peelo sen criti.'[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You tear Peelo producing large scratches.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You cut Peelo producing large scratches.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %hp: 372 (1115) [-205] sp: 581 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [31m ldr  372(1115)[54m  581( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:372/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             665/914   233/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            372/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:39] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:372/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:372/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% ouch.[0m
+[32m*Sirdest %You go 'Ouch, that REALLY hurt!'.[0m
+[32m*Sirdest %Hp:372/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% @party say The [0m[32mfucker critted me![0m
+[32m*Sirdest %Tackle [52m[party]:[32m The fucker critted me![0m
+[32m*Sirdest %Hp:372/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mslightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You become somewhat confused, losing your edge.[0m
+[32m*Sirdest %...BUT you break it off with intense concentration.[0m
+[32m*Sirdest %Peelo strokes you making an artery explode.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %hp: 335 (1115) [-37] sp: 581 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [31m ldr  335(1115)[54m  581( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:335/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             651/914   233/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            335/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:41] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:335/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:335/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%% n.[0m
+[32m*Sirdest %Arena grounds (s).[0m
+[32m*Sirdest %Hp:335/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mslightly hurt. [0m(65-80% hps)
+[32m*Sirdest % @cast cure light wounds at tackle.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:335/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @cast [0m[32mcure light wounds at tackle.[0m
+[32m*Sirdest %Cure light wounds: #.[0m
+[32mKawasa quacks 'mullo paljo pelis.'[0m
+[32m*Sirdest % @party report cure light wounds -> 1.[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest %Hp:357/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @party [0m[32mreport cure light wounds -> 1.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             737/914   217/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            357/1115  581/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:44] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully dodge Peelo's bash.[0m
+[32m*Sirdest %Peelo strokes you causing facial tissue to sizzle.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Your armours absorb some of the damage.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You cut Peelo making a minor throttling.[0m
+[32m*Sirdest %You cause Peelo's world to become blurred and unfocused.[0m
+[32m*Sirdest %...WHO breaks the stun quickly off with intense concentration.[0m
+[32m*Sirdest %You lightly cut Peelo causing a small scratch.[0m
+[32m*Sirdest %hp: 330 (1115) [-27] sp: 581 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest % pss.[0m
+la arena
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [31m ldr  330(1115)[54m  581( 581)[32m 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:330/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%%You are done with [0m[32mthe chant.[0m
+[32m*Sirdest %You clap your hands and whisper 'judicandus mercuree' [57m(Cure light wounds)[32m.[0m
+[32m*Sirdest %You heal little of your own wounds.[0m
+[32m*Sirdest %hp: 377 (1115) [+47] sp: 562 (581) [-19] ep: 444 (444) [].[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             689/914   217/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            377/1115  562/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:46] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:377/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%Hp:330/1115 Sp:581/581 Ep:444/444 Weight:38 Rms:10001 >>%%You are.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:377/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You clap [0m[32myour hands and whisper 'judicandus mercuree' [57m(Cure light wounds)[32m.[0m
+[32mKawasa quacks 'toivottavasti peelo voittas.'[0m
+[32m*Sirdest %Arena grounds (n).[0m
+[32m*Sirdest %Hp:377/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%Kawasa quacks [0m[32m'toivottavasti peelo voittas.'.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:377/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+Cyberlahko Lahkottaa from down.
+Shar arrives from down.
+la arena
+[32m*Sirdest %Cure light wounds: #.[0m
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             641/914   217/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            367/1115  562/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:49] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest % ...AND counterattacks with ferocity.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %You cut Peelo making a minor throttling.[0m
+[32m*Sirdest %You cut Peelo producing large scratches.[0m
+[32m*Sirdest %hp: 367 (1115) [-10] sp: 562 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest %Hp:367/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Tackle [0m[1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [31m ldr  367(1115)[32m  562( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:367/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:367/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest % @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:367/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @scan [0m[32mall.[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             641/914   217/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            367/1115  562/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:50] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (s).[0m
+[32m*Sirdest %Hp:367/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Your [0m[32mmovement prevents you from casting the spell.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:367/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+[32m*Sirdest %Peelo arrives from south.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo thrusts you slicing open a gaping wound.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You cut Peelo producing large scratches.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %You cut Peelo making a minor throttling.[0m
+[32m*Sirdest %You cut Peelo causing a small wound.[0m
+[32m*Sirdest %hp: 327 (1115) [-40] sp: 562 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest %Hp:327/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo [0m[32mmisses you.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [31m ldr  327(1115)[32m  562( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:327/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+la arena
+[32m*Sirdest %Peelo starts concentrating on a new spell.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             567/914   217/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            327/1115  562/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:53] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:327/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:327/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mnoticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (n).[0m
+[32m*Sirdest %Hp:327/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Your [0m[32mmovement prevents you from casting the spell.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:327/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+[32m*Sirdest %Peelo arrives from north.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo thrusts you forcing major gagging.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You lightly cut Peelo making a minor throttling.[0m
+[32m*Sirdest %You lightly cut Peelo producing large scratches.[0m
+[32m*Sirdest %hp: 288 (1115) [-39] sp: 562 (581) [] ep: 444 (444) [].[0m
+la arena
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             525/914   217/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            288/1115  562/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:55] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Hp:288/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%% pss.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [31m ldr  288(1115)[32m  562( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:288/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%% x all.[0m
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:288/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:288/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%Hp:288/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%% pss.[0m
+[32m*Sirdest % n.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (s).[0m
+[32m*Sirdest %Hp:288/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % n.[0m
+[32m*Sirdest %You start chanting.[0m
+la arena
+[32m*Sirdest %Hp:288/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             525/914   217/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            288/1115  562/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:57] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo thrusts you making rib bones snap and crack.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %Peelo strokes you causing nasty sizzling wounds.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %You cut Peelo causing a small wound.[0m
+[32m*Sirdest %You lightly cut Peelo making a minor throttling.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You lightly cut Peelo producing large scratches.[0m
+[32m*Sirdest %hp: 215 (1115) [-73] sp: 562 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [57m ldr  215(1115)[32m  562( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:215/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest %Peelo[1;53m is not in a good shape. [0m(35-50% hps)
+[32m*Sirdest %Hp:215/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo[1;53m is not in a good shape. [0m(35-50% hps)
+[32m*Sirdest %Hp:215/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo[1;53m is [0m[1;53mnot in a good shape. [0m(35-50% hps)
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             452/914   217/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            215/1115  562/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:08:59] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You don't know that spell.[0m
+[32m*Sirdest %Hp:215/1115 Sp:562/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mdon't know that spell.[0m
+[32mIgnore grunts '"man, we're in a tight spot!".'[0m
+Savok takes another hit from her doobie.
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You clap your hands and whisper 'judicandus mercuree' [57m(Cure light wounds)[32m.[0m
+[32m*Sirdest %You heal little of your own wounds.[0m
+[32m*Sirdest %hp: 262 (1115) [+47] sp: 543 (581) [-19] ep: 444 (444) [].[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You try to dodge, but Peelo is not fooled.[0m
+[32m*Sirdest %Peelo strokes you slicing open a gaping wound.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %Peelo thrusts you mutilating intestinal tissue.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %You cut Peelo inducing a minor poison burn.[0m
+[32m*Sirdest %You tear Peelo causing the airway to get slightly smothered.[0m
+[32m*Sirdest %You cut Peelo inducing a nasty lesion.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %hp: 174 (1115) [-88] sp: 543 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest % s.[0m
+[32m*Sirdest %Arena grounds (n).[0m
+[32m*Sirdest %Hp:174/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You are [0m[32mdone with the chant.[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [57m ldr  174(1115)[32m  543( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:174/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+la arena
+[32m*Sirdest %You are not in combat right now.[0m
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             366/914   217/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            174/1115  543/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:02] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Hp:174/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %You are not in combat right now.[0m
+[32m*Sirdest %Hp:174/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You are [0m[32mnot in combat right now.[0m
+[32mIgnore grunts '"man, we're in a tight spot!".'[0m
+[32m*Sirdest % cast spider web.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:174/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % cast [0m[32mspider web.[0m
+[32m*Sirdest % @emote spider web -> 3.[0m
+[32m*Sirdest %*Tackle spider web -> 3.[0m
+[32m*Sirdest %Hp:174/1115 Sp:543/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @emote [0m[32mspider web -> 3.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             492/914   189/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            174/1115  543/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:05] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+la arena
+
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             492/914   189/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            174/1115  543/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:08] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+Era is caught by sudden enlightment.
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             492/914   189/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            174/1115  543/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:11] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %hp: 197 (1115) [+23] sp: 564 (581) [+21] ep: 444 (444) [].[0m
+[32m*Sirdest %You are done with the chant.[0m
+[32m*Sirdest %You weave the web with your hands and chant 'infernalicus thanatos [0m[32marachnidos' [57m(Spider demon banishment)[32m.[0m
+[32m*Sirdest %The area is covered in magical spider webs.[0m
+[32m*Sirdest %hp: 197 (1115) [] sp: 506 (581) [-58] ep: 444 (444) [].[0m
+[32m*Sirdest %          All around is a dense fog. You can see maybe.[0m
+[32m*Sirdest %Obvious exit is: north.[0m
+[32m*Sirdest %Spider webs block this way. You need to return.[0m
+[32m*Sirdest %Hp:197/1115 Sp:506/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%          All around is a dense fog. You can see maybe.[0m
+fall elä ny peelo jää twiddlaa gnh
+[1;37mNaanunaane [0;53m(fall+):[1;37m elä ny peelo jää twiddlaa gnh[0m
+[00:09:15] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32mSavok grins stonedly.[0m
+[32m*Sirdest % @cast cure light wounds at tackle.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:197/1115 Sp:506/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @cast [0m[32mcure light wounds at tackle.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo strokes you causing a NASTY head wound.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %Peelo misses you.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You cut Peelo inducing a strangling.[0m
+[32m*Sirdest %You lightly cut Peelo inducing a strangling.[0m
+[32m*Sirdest %Peelo successfully dodges your futile slash.[0m
+[32m*Sirdest %hp: 153 (1115) [-44] sp: 506 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [57m ldr  153(1115)[32m  506( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:153/1115 Sp:506/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+pss
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [54m ldr 1015(1015)  721( 721)[0m 400(400) |  85 |       911358 |
+`-----------------------------------------------------------------------------'
+[00:09:17] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:153/1115 Sp:506/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:153/1115 Sp:506/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mslightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+la arena
+[32m*Sirdest %Arena grounds (s).[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #[1;36m2[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             709/914   110/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            153/1115  506/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:18] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %Hp:153/1115 Sp:506/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Your [0m[32mmovement prevents you from casting the spell.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:153/1115 Sp:506/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You [0m[32mstart chanting.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo strokes you forcing spinal discs to dislodge.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %Peelo successfully parries your slash.[0m
+[32m*Sirdest %Peelo tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You lightly cut Peelo inducing a strangling.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %hp: 113 (1115) [-40] sp: 506 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [57m ldr  113(1115)[32m  506( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:113/1115 Sp:506/581 Ep:444/444 Weight:38 Rms:10001 >>%%Peelo starts [0m[32mconcentrating on a new spell.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             686/914   110/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            113/1115  506/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:20] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest % x all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:113/1115 Sp:487/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:113/1115 Sp:487/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % x all.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (n).[0m
+[32m*Sirdest %Spider webs block this way. You need to return.[0m
+[32m*Sirdest %Hp:113/1115 Sp:487/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Your [0m[32mmovement prevents you from casting the spell.[0m
+[32m*Sirdest % @cast cure light wounds at tackle.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:113/1115 Sp:487/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @cast [0m[32mcure light wounds at tackle.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             686/914   110/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            113/1115  487/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:23] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32mSirdest exclaims 'peelo is a tuff muthafuka!'[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest %Hp:113/1115 Sp:487/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Tackle [0m[1;30m[report]:[0;32m cure light wounds -> 1.[0m
+la arena
+       
+  ###  
+  #[1;36m2[0m#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             686/914   110/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            113/1115  487/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:27] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You clap your hands and whisper 'judicandus mercuree' [57m(Cure light wounds)[32m.[0m
+[32m*Sirdest %You stumble and lose your concentration.[0m
+[32m*Sirdest %hp: 113 (1115) [] sp: 468 (581) [-19] ep: 444 (444) [].[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo strokes you causing a sick amount of disgusting wounds.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %You successfully parry Peelo's bash.[0m
+[32m*Sirdest %MageKiller glows with power as it sinks into Peelo.[0m
+[32m*Sirdest %You cut Peelo creating a nasty infection.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %You miss Peelo.[0m
+[32m*Sirdest %hp: 68 (1115) [-45] sp: 468 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest [0m[32m%,-----------------------------------------------------------------------------.[0m
+[32m*Sirdest %| 1.2   Tackle       [57m ldr   68(1115)[32m  468( 581) 444(444) |  77 |            [0m[32m0 |.[0m
+[32m*Sirdest [0m[32m%`-----------------------------------------------------------------------------'.[0m
+[32m*Sirdest %Hp:68/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest [0m[32m%,---------------------------------------------------------------------.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+la arena
+[32m*Sirdest %Hp:68/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %Peelo is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:68/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%% @cast cure light [0m[32mwounds at tackle.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:68/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %Peelo is [0m[32mslightly hurt. [0m(65-80% hps)
+       
+  ###  
+  #.#  
+  #[1;36m1[0m#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             656/914   103/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle             68/1115  468/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:29] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32mSsmud agrees fully.[0m
+[32m*Sirdest %Your movement prevents you from casting the spell.[0m
+[32m*Sirdest %Arena grounds (s).[0m
+[32m*Sirdest %Hp:68/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%Ssmud agrees fully.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:68/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You start [0m[32mchanting.[0m
+[32mChizra booms 'good.'[0m
+[32m*Sirdest % @party report cure light wounds -> 1.[0m
+[32m*Sirdest %Tackle [1;30m[report]:[0;32m cure light wounds -> 1.[0m
+[32m*Sirdest %Hp:68/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % @party [0m[32mreport cure light wounds -> 1.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo thrusts you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %Peelo thrusts you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32m*Sirdest %You are no longer stunned.[0m
+[32m*Sirdest %You fall [51munconscious[32m from the pain.[0m
+la arena
+[32m*Sirdest %hp: -14 (1115) [-82] sp: 468 (581) [] ep: 444 (444) [].[0m
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             626/914   103/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            -14/1115  468/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:32] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-14/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You are [0m[51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-14/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-14/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You are [0m[51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-14/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You are [0m[51munconscious[32m, unable to do anything.[0m
+Rankku arrives from down.
+[32m*Sirdest %Peelo strokes you causing the soul to get sucked out.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %Peelo strokes you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32m*Sirdest %hp: -88 (1115) [-74] sp: 468 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %Peelo starts concentrating on a new spell.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-88/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You are [0m[51munconscious[32m, unable to do anything.[0m
+[32mGolieth goes 'aww'.[0m
+
+[32m*Sirdest % x all.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-88/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-88/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest % x all.[0m
+[32mMurrough goes 'Yay!'.[0m
+la arena
+       
+  ###  
+  #[1;36m1[0m#  
+  #.#  
+  ###  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Peelo             610/914   103/700  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            -88/1115  468/581  |                                      |
+`-----------------------------------------------------------------------------'
+[00:09:35] hp 1015/1015  sp 721/721  ep 400/400  xp 10456  $ 3022/71543  wimpy off
+
+[32mFarliss mews 'YES!!!!!!!!'[0m
+[32mZarx cheers enthusiastically.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo strokes you causing the soul to get sucked out.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %Peelo thumps you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32m*Sirdest %hp: -167 (1115) [-79] sp: 468 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %Blood pours from your wounds![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32mIgnore nods twice rapidly in agreement.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-200/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%Ignore nods twice [0m[32mrapidly in agreement.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-200/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-200/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You are [0m[51munconscious[32m, unable to do anything.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mShar goes 'DOH'.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Peelo strokes you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %You GASP for air and wish you could breathe![0m
+[32m*Sirdest %Peelo thrusts you causing heart tissue to fly everywhere.[0m
+[32m*Sirdest %Peelo is drained as he attacks you through your barrier of darkness.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your skin is CHARRED severly![0m
+[32m*Sirdest %hp: -278 (1115) [-111] sp: 468 (581) [] ep: 444 (444) [].[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %Peelo claps his hands and whispers 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-278/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You are [0m[51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-278/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%% @scan all.[0m
+[32m*Sirdest %You are [51munconscious[32m, unable to do anything.[0m
+[32m*Sirdest %Hp:-278/1115 Sp:468/581 Ep:444/444 Weight:38 Rms:10001 >>%*Sirdest %You are [0m[51munconscious[32m, unable to do anything.[0m
+[32mDupre says 'yaayy.'[0m
+The arena master shouts 'Tackle of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Peelo'

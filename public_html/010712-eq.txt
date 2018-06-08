@@ -1,0 +1,21 @@
+Your equipment:
+Hand: A green glove
+Hand: A green glove
+Head: Circlet of Flame <blue glow>
+Neck: A silver necklace
+Amulet: Pendant of Apathy..  emitting a dead black aura <blue glow>
+Cloak: A magic cloak <blue glow>
+Torso: Holy vest of Yak
+Both arms: A red glowing pair of bracers
+Bracelets: The bracelets of axidia <blue glow>
+Finger: Ring of infravision
+Finger: Ring of the apprentice [Made by: Nargar] labeled as spr_3 <blue glow>
+Belt: A small jeweled belt
+Both legs: A pair of dirty leggings
+Around the neck: The crystal pendant of the Navigators
+Error: Insufficient memory
+Forehead: A glowing star symbolizing faith in Tarmalen
+You have almost non-existent protection against general damage.
+You have almost non-existent protection against bashing.
+You have almost non-existent protection against cutting.
+You have almost non-existent protection against stabbing.

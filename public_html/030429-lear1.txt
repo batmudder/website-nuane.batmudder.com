@@ -1,0 +1,2231 @@
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 31m 51s) | Exp/min:      9940 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1629(1639) -214(  32) 398(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1863(1708)   27(  27) 313(400) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1432(1432)  349( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  491( 491)  489(1468) 255(255) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 717)  615( 904) 268(268) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)  135( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 919)  372( 750) 347(347) |  84 |       296139 |
+| 3.2   Pretorian     fol  327( 427)  716(1116) 207(207) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 852)  532( 532) 381(381) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:01:43] hp 725/717 | sp 615/904 | ep 268/268 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Serje [party]: goes
+wis
+Shadowguard performs a solemn ceremony to please Aveallis.
+Serje leaves north.
+Dandy flies to the north.
+Along the citadel wall (n,s).
+Dandy Jumping the grey Elf < Revenge! (part II) >
+Serje Stormbringer the Elf < Revenge! (part II) >
+Rjak arrives from south.
+Dupre arrives from south.
+Kozma arrives from south.
+Pretorian arrives from south.
+Grediah arrives from south.
+Shadowguard arrives from south.
+[20:01:45] hp 725/717 | sp 615/904 | ep 268/268 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Your body returns to normal temperature.  You become confused and shiver
+as your body remembers the safety and comfort of how the frost felt.
+
+You remove the collar, and the tightness around your neck is gone..
+You remove a magic cloak, a battle-scarred shin guard, a battle-scarred shin guard, Bracelets of San-Jyan, The Amulet of Truth labeled as |A|, The Bracers of Gods labeled as (Naane), the frozen ice belt of the demon lord, A heavy black metal ring, sparkling ruby ring labeled as (Naane), Sandals of the Earth, Red Glove of the Healer labeled as (Naane), Red Glove of the Healer, tarnished Golden Helm labeled as ghelm, a collar made of black silk and a torn leather muscle shirt labeled as (Naane).
+[20:01:45] hp 725/717 | sp 615/904 | ep 268/268 | exp 13025 | $ 3500/17096 | wimpy: off
+
+You wear the stone amulet of the earth elementalist, Glass armbands, golden belt of Fair River-Daughter, Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr, Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr, a pair of black boots, Blue glove of master Conjurer <red glow>, a green glove, golden helmet crown of the catfolk king <red glow>, The gleaming blue collar of Bengalore labeled as +wis <red glow>, heavy tabard with a chalice ensignia <white glow>, silverstar bracelets <purple glow>, glittering leg protectors and Cape of Knowledge <red glow>.
+[20:01:45] hp 725/717 | sp 615/904 | ep 268/268 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Pretorian starts concentrating on a new offensive spell.
+Kozma (party): WAREZ down [8:21]
+tph
+You start chanting.
+[20:01:47] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+*Pretorian swapping.
+Pretorian removes swirling bands of lava <flaming> labeled as lb qc, the crown of mental power, ebony rod labeled as int favorit, Tattered Silver Shimmering Cloak, ebony rod labeled as int favorit, alchemist moulded ring labeled as 5int, a little leather bag, Girdle of Ethereal Power, Glass armbands, strong sapphire boots labeled as int favorit, Faded blue glove labeled as intwis, Faded blue glove labeled as intwis ancient and alchemist moulded ring labeled as 5int.
+Pretorian wears swirling bands of lava <flaming> labeled as lb qc (glowing), the crown of mental power (glowing) <white glow>, ebony rod labeled as int favorit (glowing), Tattered Silver Shimmering Cloak (glowing) <orange glow>, ebony rod labeled as int favorit (glowing), alchemist moulded ring labeled as 5int (glowing) <red glow>, a little leather bag (glowing) <purple glow>, Girdle of Ethereal Power (glowing) <orange glow>, Glass armbands (glowing) <yellow glow>, strong sapphire boots labeled as int favorit (glowing) <yellow glow>, Faded blue glove labeled as intwis (glowing) <red glow>, Faded blue glove labeled as intwis ancient (glowing) <red glow> and alchemist moulded ring labeled as 5int (glowing) <red glow>.
+*Pretorian end of swap, BATTLE mode.
+tph
+Eronk [sales]: +3 dex ring of many wonders mb20k
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[20:01:47] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+True party heal: 4
+tph
+Serje [party]: goes
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[20:01:48] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+Info: Oktimatus goes link dead.
+Dargaard [bat]: this lidl 'german' beer that is.
+tph
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[20:01:50] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+tph
+True party heal: 4
+True party heal: 3 (haste)
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[20:01:51] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+Pretorian starts concentrating on a new offensive spell.
+Serje leaves north.
+Dandy flies to the north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Along the citadel wall (n,s).
+Dandy Jumping the grey Elf < Revenge! (part II) >
+Serje Stormbringer the Elf < Revenge! (part II) >
+a deadly wight with a stinging glare (undead)
+Lear Rotth, the undead lord superior, infuriated beyond comprehension (undead)
+** Cost for '@north': Cost: utime:20 stime:0 ticks:108176 **
+Rjak arrives from south.
+scan all
+*****************************************************
+Rjak hits Deadly wight 2 times.
+Deadly wight hits Rjak 1 time.
+Dupre arrives from south.
+Kozma arrives from south.
+Pretorian arrives from south.
+Grediah arrives from south.
+Shadowguard arrives from south.
+Serje starts concentrating on a new offensive spell.
+Rjak reports: Hp: 1837 (1708) Sp: 27 (27) Ep: 322 (400).
+tph
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:01:52] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+You start chanting.
+[20:01:52] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Grediah starts concentrating on a new offensive spell.
+Dupre starts concentrating on a new offensive skill.
+Info: Guffy goes link dead.
+scan all
+*****************************************************
+Dupre hits Deadly wight 2 times.
+Rjak hits Deadly wight 2 times.
+Dupre's flex shield wobbles.
+Lear rotth hits Dupre 1 time.
+True party heal: 4
+Info: Presence enters the game.
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:01:54] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1319 (1639) Sp: -210 (32) Ep: 401 (401).
+Shadowguard reports: Hp: 1123 (1432) Sp: 349 (659) Ep: 399 (400).
+Serje [party]: war ensemble down
+Dandy starts concentrating on a new spell.
+Rjak reports: Hp: 1837 (1708) Sp: 27 (27) Ep: 322 (400).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m  3s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1319(1639) -210(  32) 401(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1837(1708)   27(  27) 322(400) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1123(1432)  349( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  491( 331)  569(1468) 255(241) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  615(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)  135( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)  372( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  327( 427)  808(1116) 207(207) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 852)  532( 532) 381(381) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:01:55] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Pretorian [party]: [ casting concealed ]
+Dupre starts concentrating on a new offensive skill.
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Lear rotth, bursting into flames!
+Serje grins as his channelburn hits Lear rotth.
+scan all
+*****************************************************
+Dupre hits Deadly wight 1 time.
+Rjak hits Deadly wight 2 times.
+Deadly wight hits Dupre 1 time.
+Shadowguard hits Deadly wight 1 time.
+True party heal: 3
+True party heal: 2 (haste)
+Pretorian starts concentrating on a new offensive spell.
+Dupre reports: Hp: 1305 (1639) Sp: -210 (32) Ep: 401 (401).
+Serje starts concentrating on a new offensive spell.
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:01:57] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Shadowguard reports: Hp: 1112 (1432) Sp: 349 (659) Ep: 399 (400).
+Serje [party]: Lear rotth writhes fire [20% resist].
+Rjak reports: Hp: 1837 (1708) Sp: 27 (27) Ep: 322 (400).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m  6s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1305(1639) -210(  32) 401(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1837(1708)   27(  27) 322(400) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1112(1432)  349( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  497(1468) 252(241) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  615(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)  135( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)  372( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  327( 427)  808(1116) 207(207) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 852)  532( 532) 381(381) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:01:58] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+scan all
+*****************************************************
+Dupre hits Deadly wight 1 time.
+Rjak's flex shield wobbles.
+Lear rotth hits Rjak 1 time.
+Shadowguard hits Lear rotth 1 time.
+True party heal: 1
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:02:00] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1303 (1639) Sp: -210 (32) Ep: 401 (401).
+Shadowguard reports: Hp: 1111 (1432) Sp: 349 (659) Ep: 399 (400).
+Rjak reports: Hp: 1568 (1708) Sp: 27 (27) Ep: 322 (400).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m  8s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1303(1639) -210(  32) 401(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1568(1708)   27(  27) 322(400) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1111(1432)  349( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  497(1468) 252(241) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  615(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)  135( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)  372( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  327( 427)  808(1116) 207(207) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 852)  532( 532) 381(381) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:00] hp 725/725 | sp 615/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Shadowguard starts concentrating on a new spell.
+Grediah plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Grediah grins as his con fioco hits Lear rotth.
+scan all
+*****************************************************
+Dupre hits Deadly wight 1 time.
+Rjak hits Lear rotth 1 time.
+Deadly wight hits Dupre 1 time.
+Lear rotth hits Dupre 1 time.
+Shadowguard hits Deadly wight 2 times.
+Dandy cast(s) -> 'Major Party Heal'
+Deadly wight cast(s) -> 'Curse Of Ogre'
+You are done with the chant.
+CASTED.
+You cast(s) -> 'judicandus eurto mangenic'
+You heal all of Rjak's wounds.
+You heal very much of Dupre's wounds.
+You heal all of Pretorian's wounds.
+You heal really much of Shadowguard's wounds.
+hp 725/725 () | sp 384/1062 (-231) | ep 268/264 ()
+Dupre's powerful bash sends Lear rotth sprawling to the floor.
+Kozma cast(s) -> 'Harm Body'
+Kozma casts a harming spell on Lear rotth.
+Dupre reports: Hp: 1410 (1639) Sp: -210 (32) Ep: 391 (401).
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:02:03] hp 725/725 | sp 384/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Grediah starts concentrating on a new offensive spell.
+Shadowguard reports: Hp: 1407 (1432) Sp: 349 (659) Ep: 399 (400).
+Rjak reports: Hp: 1708 (1708) Sp: 27 (27) Ep: 322 (400).
+Kozma (party): flee in time serje
+mjph
+You start chanting.
+[20:02:04] hp 725/725 | sp 384/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 12s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1410(1639) -210(  32) 391(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1708(1708)   27(  27) 322(400) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1407(1432)  349( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  497(1468) 252(241) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  384(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   37( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)  194( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 427)  808(1116) 207(207) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 852)  400( 532) 381(381) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:04] hp 725/725 | sp 384/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Lear rotth, bursting into flames!
+Serje grins as his channelburn hits Lear rotth.
+Shadowguard cast(s) -> 'Major Party Heal'
+scan all
+*****************************************************
+Dupre hits Deadly wight 1 time.
+Major party heal: 3
+Lear rotth cast(s) -> 'Harm Body'
+Lear rotth casts a harming spell on Rjak.
+Shadowguard reports: Hp: 1429 (1432) Sp: 247 (659) Ep: 399 (400).
+Serje starts concentrating on a new offensive spell.
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:02:06] hp 725/725 | sp 384/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1494 (1639) Sp: -210 (32) Ep: 391 (401).
+Serje [party]: Lear rotth writhes fire [20% resist].
+Rjak reports: Hp: 854 (1708) Sp: 27 (27) Ep: 322 (400).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 15s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1494(1639) -210(  32) 391(401) |  74 |       282842 |
+| 1.2   Rjak          fol  854(1708)   27(  27) 322(400) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1429(1432)  247( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  425(1468) 249(241) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  384(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   37( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)  194( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 427)  808(1116) 207(207) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 852)  400( 532) 381(381) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:07] hp 725/725 | sp 384/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Info: Nemi recovers from link death.
+Chizra [wanted]: 2x artemis rod
+Mahon [bat]: umm.. I didn't find a single finnish word in my can of beer from lidl
+Dandy starts concentrating on a new spell.
+Shadowguard starts concentrating on a new spell.
+scan all
+*****************************************************
+Dupre hits Deadly wight 2 times.
+Rjak hits Deadly wight 1 time.
+Deadly wight hits Dupre 2 times.
+Dupre's flex shield wobbles.
+Lear rotth hits Dupre 2 times.
+Shadowguard hits Deadly wight 2 times.
+Major party heal: 2
+Major party heal: 1 (haste)
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:02:09] hp 725/725 | sp 384/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 926 (1639) Sp: -210 (32) Ep: 391 (401).
+Rjak reports: Hp: 854 (1708) Sp: 27 (27) Ep: 322 (400).
+Shadowguard reports: Hp: 935 (1432) Sp: 247 (659) Ep: 399 (400).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 17s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  926(1639) -210(  32) 391(401) |  74 |       282842 |
+| 1.2   Rjak          fol  854(1708)   27(  27) 322(400) |  70 |       266491 |
+| 1.3   Shadowguard   fol  935(1432)  247( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  425(1468) 249(241) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  384(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   37( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)  194( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 427)  808(1116) 207(207) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 852)  400( 532) 381(381) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:09] hp 725/725 | sp 384/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Info: Sunnynen goes link dead.
+Dagel (wanted): summonsummon
+scan all
+*****************************************************
+Dupre hits Lear rotth 1 time.
+Lear rotth hits Dupre 1 time.
+Shadowguard hits Deadly wight 1 time.
+Dandy cast(s) -> 'Cure Light Wounds'
+Dandy casts her spell at Rjak.
+Deadly wight cast(s) -> 'Con Curse'
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal some of Rjak's wounds.
+You heal some of Dupre's wounds.
+You heal some of Shadowguard's wounds.
+hp 725/725 () | sp 300/1062 (-84) | ep 268/264 ()
+Dupre's powerful bash sends Lear rotth sprawling to the floor.
+Pretorian cast(s) -> 'Lava Blast'
+As Pretorian casts the spell, she pulls out a granite sphere from a small pouch.
+Pretorian grins as her lava blast hits Lear rotth.
+Dupre reports: Hp: 935 (1639) Sp: -210 (32) Ep: 381 (401).
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:02:12] hp 725/725 | sp 300/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dandy starts concentrating on a new spell.
+Rjak reports: Hp: 1150 (1708) Sp: 27 (27) Ep: 322 (400).
+Shadowguard reports: Hp: 983 (1432) Sp: 247 (659) Ep: 399 (400).
+Pretorian starts concentrating on a new offensive spell.
+Pretorian [party]: [ Fire hit! ]
+Pretorian [party]: [20% resist].
+Pretorian [party]: war_ensemble Off (08:48)
+Dupre starts concentrating on a new offensive skill.
+tph
+You start chanting.
+[20:02:13] hp 725/725 | sp 300/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+unload 250
+
+You draw points from the crystal.
+[20:02:14] hp 725/725 | sp 550/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+ps
+
+Grediah plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Grediah grins as his con fioco hits Lear rotth.
+Shadowguard cast(s) -> 'Major Party Heal'
+Shadowguard falters and loses her spell.
+scan all
+*****************************************************
+Deadly wight hits Shadowguard 2 times.
+Shadowguard hits Lear rotth 1 time.
+hp 725/725 () | sp 550/1062 (+250) | ep 268/264 ()
+True party heal: 4
+Lear rotth cast(s) -> 'Aneurysm'
+Info: Bomfunk left the game.
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 23s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  923(1639) -210(  32) 381(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1150(1708)   27(  27) 322(400) |  70 |       266491 |
+| 1.3   Shadowguard   fol  953(1432)  145( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  425(1468) 249(241) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  550(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   19( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)  194( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  638(1116) 207(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 730)  268( 532) 381(361) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:15] hp 725/725 | sp 550/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 923 (1639) Sp: -210 (32) Ep: 381 (401).
+Shadowguard reports: Hp: 953 (1432) Sp: 145 (659) Ep: 399 (400).
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:02:15] hp 725/725 | sp 550/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1150 (1708) Sp: 27 (27) Ep: 322 (400).
+Grediah starts concentrating on a new offensive spell.
+Grediah [party]: < War Ensemble DOWN > [8:51]
+Shadowguard starts concentrating on a new spell.
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Lear rotth, bursting into flames!
+Serje grins as his channelburn hits Lear rotth.
+scan all
+*****************************************************
+Deadly wight hits Dupre 1 time.
+Lear rotth hits Dupre 1 time.
+Shadowguard hits Deadly wight 1 time.
+Dandy cast(s) -> 'Cure Light Wounds'
+Dandy casts her spell at Rjak.
+True party heal: 3
+Kozma cast(s) -> 'Harm Body'
+Kozma casts a harming spell on Lear rotth.
+Lear rotth bursts into flames!
+Info: Bomfunk enters the game.
+Dupre reports: Hp: 593 (1639) Sp: -210 (32) Ep: 381 (401).
+Serje starts concentrating on a new offensive spell.
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:02:18] hp 725/725 | sp 550/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1221 (1765) Sp: 27 (29) Ep: 322 (403).
+Shadowguard reports: Hp: 751 (1432) Sp: 145 (659) Ep: 399 (400).
+Serje [party]: Lear rotth writhes fire [20% resist].
+Rjak [party]: Death effects gone.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 27s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  593(1639) -210(  32) 381(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1221(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol  751(1432)  145( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  325( 331)  353(1468) 246(241) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  550(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)    1( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  638(1116) 207(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  268( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:19] hp 725/725 | sp 550/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Mahon [bat]: and it was bottled in some funny looking bottles :)
+Shadowguard cast(s) -> 'Major Party Heal'
+scan all
+*****************************************************
+Rjak hits Deadly wight 2 times.
+Shadowguard's flex shield wobbles.
+Deadly wight hits Shadowguard 1 time.
+Dupre's flex shield wobbles.
+Lear rotth hits Dupre 1 time.
+Shadowguard hits Deadly wight 2 times.
+Deadly wight cast(s) -> 'Curse Of Ogre'
+Deadly wight mumbles something inconcievable.
+True party heal: 2
+Dupre's powerful bash sends Lear rotth sprawling to the floor.
+Pretorian cast(s) -> 'Lava Blast'
+Pretorian fails miserably in her spell.
+Dupre reports: Hp: 287 (1639) Sp: -210 (32) Ep: 371 (401).
+Shadowguard reports: Hp: 649 (1432) Sp: 43 (659) Ep: 399 (400).
+Lear rotth is near death.
+Deadly wight is in excellent shape.
+[20:02:21] hp 725/725 | sp 550/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1334 (1765) Sp: 27 (29) Ep: 322 (403).
+Pretorian [party]: [ casting concealed ]
+Dupre starts concentrating on a new offensive skill.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 30s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  287(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1334(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol  649(1432)   43( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  326( 331)  353(1468) 246(241) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  550(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)    1( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  532(1116) 207(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  268( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:22] hp 725/725 | sp 550/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dagel (wanted): got from zinko
+Pretorian growls and mutters 'Grrrr..'.
+Serje leaves south.
+Dandy flies to the south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Along the citadel wall (n,s).
+Dandy Jumping the grey Elf < Revenge! (part II) >
+Serje Stormbringer the Elf < Revenge! (part II) >
+Rjak arrives from north.
+Dupre arrives from north.
+Kozma arrives from north.
+Pretorian arrives from north.
+Grediah arrives from north.
+Shadowguard arrives from north.
+Dupre reports: Hp: 287 (1639) Sp: -210 (32) Ep: 371 (401).
+th dupre
+You start chanting.
+[20:02:24] hp 725/725 | sp 550/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Hybrid [wanted]: party for off
+Serje removes dark grey and white plaid kilt, Tattered Silver Shimmering Cloak, a pair of black boots, Girdle of Ethereal Power labeled as intgirdle, a little leather bag, the crown of mental power, Glass armbands and crystal wand.
+Serje wears the frozen ice belt of the demon lord, a pair of blue radium boots <white glow>, Slime cloak <orange glow>, a battle-scarred shin guard <orange glow>, a battle-scarred shin guard <orange glow>, a purple glove, a purple glove, necklace made out of sharp fangs <red glow>, Circlet of Flame <red glow>, golden wristbands <yellow glow>, a wand of magic <orange glow> and a wand of magic <orange glow>.
+Pretorian starts concentrating on a new offensive spell.
+Grediah starts concentrating on a new spell.
+True heal: 3
+True heal: 2 (haste)
+Dandy says 'swapping to SPR mode.'
+Dandy says 'end of swap, SPR mode.'
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 35s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  287(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1334(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol  649(1432)   43( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  326( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  550(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   84( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  532(1116) 207(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  268( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:27] hp 725/725 | sp 550/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Pretorian starts concentrating on a new offensive spell.
+Info: Krump goes link dead.
+Serje [party]: Aura starting to weaken!
+Kozma (party): we make it
+Mahon [bat]: looked like something from the pharmacy
+Shadowguard starts concentrating on a new spell.
+Grediah sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+True heal: 1
+Bomfunk [sales]: apollo sword mb350k
+Serje starts concentrating on a new spell.
+Serje [party]: reloading aura.
+unload 250
+You draw points from the crystal.
+[20:02:31] hp 725/725 | sp 570/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 39s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  396(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1431(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol  755(1432)   43( 659) 399(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  570(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   84( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  613(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  189( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:31] hp 725/725 | sp 570/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+You hear the sound of metal against metal.
+Shadowguard cast(s) -> 'Cure Light Wounds'
+Shadowguard screams with frustration as her spell fails.
+hp 725/725 () | sp 589/1062 (+39) | ep 268/264 ()
+You are done with the chant.
+CASTED.
+You cast(s) -> 'True Heal'
+You heal much of Dupre's wounds.
+hp 725/725 () | sp 413/1062 (-176) | ep 268/264 ()
+Serje [party]: i hope
+Info: Demicore recovers from link death.
+Shadowguard starts concentrating on a new spell.
+Grediah starts concentrating on a new spell.
+th sg
+You start chanting.
+[20:02:33] hp 725/725 | sp 413/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 42s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1026(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1431(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol  776(1432)   43( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  413(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   84( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  613(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  252( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:34] hp 725/725 | sp 413/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+True heal: 3
+True heal: 2 (haste)
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 44s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1026(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1431(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol  776(1432)   43( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  413(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   84( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  585(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  252( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:36] hp 725/725 | sp 413/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Shadowguard cast(s) -> 'Cure Light Wounds'
+Deadly wight arrives from north.
+scan all
+*****************************************************
+Deadly wight hits Dupre 1 time.
+Shadowguard hits Deadly wight 2 times.
+Dupre hits Deadly wight 1 time.
+Rjak hits Deadly wight 2 times.
+True heal: 1
+Info: Osku left the game.
+Shadowguard starts concentrating on a new spell.
+Dupre reports: Hp: 1008 (1639) Sp: -210 (32) Ep: 371 (401).
+Deadly wight is in excellent shape.
+[20:02:39] hp 725/725 | sp 413/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1431 (1765) Sp: 27 (29) Ep: 322 (403).
+Shadowguard reports: Hp: 838 (1432) Sp: 26 (659) Ep: 400 (400).
+[party]: Shadowguard scores a CRITICAL hit!
+ps
+Pretorian [party]: [ casting concealed ]
+Kozma (party): mako keeps shelter up
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 48s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1008(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1431(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol  838(1432)   26( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  413(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   84( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  585(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  252( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:40] hp 725/725 | sp 413/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Info: Osku enters the game.
+Grediah sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+scan all
+*****************************************************
+Deadly wight hits Shadowguard 1 time.
+Dupre hits Deadly wight 2 times.
+Rjak hits Deadly wight 1 time.
+You are done with the chant.
+CASTED.
+You cast(s) -> 'True Heal'
+You heal all of Shadowguard's wounds.
+hp 725/725 () | sp 231/1062 (-182) | ep 268/264 ()
+Dupre reports: Hp: 1105 (1639) Sp: -210 (32) Ep: 371 (401).
+Deadly wight is in excellent shape.
+[20:02:42] hp 725/725 | sp 231/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1523 (1765) Sp: 27 (29) Ep: 322 (403).
+Shadowguard reports: Hp: 1432 (1432) Sp: 26 (659) Ep: 400 (400).
+Shadowguard reports: Hp: 1432 (1432) Sp: 26 (659) Ep: 400 (400).
+mjph
+You start chanting.
+[20:02:42] hp 725/725 | sp 231/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Pretorian pokes Deadly wight in the ribs.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 51s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1105(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1523(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1432(1432)   26( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  231(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   84( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  585(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  173( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:43] hp 725/725 | sp 231/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Serje [party]: oh
+Info: Dragamoor enters the game.
+Dandy starts concentrating on a new offensive spell.
+scan all
+*****************************************************
+Deadly wight hits Rjak 1 time.
+Shadowguard hits Deadly wight 1 time.
+Dupre hits Deadly wight 1 time.
+Rjak hits Deadly wight 1 time.
+Major party heal: 3
+Major party heal: 1 (greater haste)
+Deadly wight is in excellent shape.
+[20:02:45] hp 725/725 | sp 231/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1105 (1639) Sp: -210 (32) Ep: 371 (401).
+Shadowguard reports: Hp: 1432 (1432) Sp: 26 (659) Ep: 400 (400).
+Rjak reports: Hp: 1499 (1765) Sp: 27 (29) Ep: 322 (403).
+p say dont panic
+Nuane (party): dont panic
+[20:02:46] hp 725/725 | sp 231/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Pretorian buzzes 'come bitch.'
+scan all
+*****************************************************
+Dupre hits Deadly wight 1 time.
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal very much of Rjak's wounds.
+You heal some of Dupre's wounds.
+hp 725/725 () | sp 143/1062 (-88) | ep 268/264 ()
+Deadly wight is in excellent shape.
+[20:02:48] hp 725/725 | sp 143/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1315 (1639) Sp: -210 (32) Ep: 371 (401).
+Rjak reports: Hp: 1708 (1765) Sp: 27 (29) Ep: 322 (403).
+Shadowguard reports: Hp: 1432 (1432) Sp: 26 (659) Ep: 400 (400).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 32m 56s) | Exp/min:      9903 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1315(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1708(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1432(1432)   26( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  143(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   84( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  585(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  173( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:48] hp 725/725 | sp 143/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+ccw dupre
+
+You start chanting.
+[20:02:50] hp 725/725 | sp 143/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+scan all
+*****************************************************
+Deadly wight hits Dupre 1 time.
+Dupre hits Deadly wight 2 times.
+Cure critical wounds: 2
+Cure critical wounds: 1 (haste)
+Pretorian cast(s) -> 'Golden Arrow'
+As Pretorian casts the spell, she pulls out a copper rod which bursts into a million prismatic starbursts.
+Pretorian grins as her golden arrow hits Deadly wight.
+Dupre reports: Hp: 1303 (1639) Sp: -210 (32) Ep: 371 (401).
+Deadly wight is slightly hurt.
+[20:02:51] hp 725/725 | sp 143/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Bela [twilight+]: hei hissi on varmaan jumissa
+Rjak reports: Hp: 1708 (1765) Sp: 27 (29) Ep: 322 (403).
+Shadowguard reports: Hp: 1418 (1432) Sp: 26 (659) Ep: 400 (400).
+Pretorian [party]: [ Mana hit! ]
+Serje [party]: i do i do!
+Pretorian [party]: [ casting concealed ]
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m  0s) | Exp/min:      9867 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1303(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1708(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1418(1432)   26( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  143(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 677)   84( 861) 264(264) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  471(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  173( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:52] hp 725/725 | sp 143/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+scan all
+*****************************************************
+Shadowguard hits Deadly wight 2 times.
+Dupre hits Deadly wight 1 time.
+Rjak hits Deadly wight 1 time.
+Dandy gazes to the heights while holding Cross of Winds close and uttering
+ 'Sanctus inxze'
+Dandy's flashing Cross of Winds emits fuming white aura around screaming
+Deadly wight, striking it.
+Deadly wight cast(s) -> 'Entropy'
+Deadly wight mumbles something inconcievable.
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Cure Critical Wounds'
+You heal very much of Dupre's wounds.
+hp 725/725 () | sp 103/1062 (-40) | ep 268/264 ()
+Info: Aelynn goes link dead.
+Dupre reports: Hp: 1513 (1639) Sp: -210 (32) Ep: 371 (401).
+Deadly wight is noticeably hurt.
+[20:02:54] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1708 (1765) Sp: 27 (29) Ep: 322 (403).
+Dandy [party]: war_ensemble off (09:30)
+Shadowguard reports: Hp: 1418 (1432) Sp: 26 (659) Ep: 400 (400).
+rebirth heal
+You must wait 7h, 49min and 19s.
+[20:02:54] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+Grediah starts concentrating on a new offensive spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m  3s) | Exp/min:      9867 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1513(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1708(1765)   27(  29) 322(403) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1418(1432)   26( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  103(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 457)   30( 861) 264(246) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  471(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  173( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:55] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Info: Vendar goes link dead.
+scan all
+*****************************************************
+Deadly wight hits Dupre 1 time.
+Shadowguard hits Deadly wight 2 times.
+Dupre hits Deadly wight 1 time.
+Rjak hits Deadly wight 1 time.
+Deadly wight is noticeably hurt.
+[20:02:57] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1502 (1639) Sp: -210 (32) Ep: 371 (401).
+Rjak [party]: < War Ensemble DOWN > [9:31] {Grediah's average 10:52}
+Shadowguard reports: Hp: 1406 (1432) Sp: 26 (659) Ep: 400 (400).
+Rjak reports: Hp: 1708 (1543) Sp: 27 (29) Ep: 322 (401).
+Serje [party]: i just wonder how many ppl watching us
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m  6s) | Exp/min:      9867 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1502(1639) -210(  32) 371(401) |  74 |       282842 |
+| 1.2   Rjak          fol 1708(1543)   27(  29) 322(401) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1406(1432)   26( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  331( 331)  353(1383) 246(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  103(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 457)   30( 861) 264(246) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  471(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)  173( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:02:58] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre [party]: war_ensemble down (9 min)
+Serje cast(s) -> 'Energy Aura'
+Serje strains with the effort but you see no noticable change.
+Grediah plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Grediah grins as his con fioco hits Deadly wight.
+scan all
+*****************************************************
+Shadowguard hits Deadly wight 1 time.
+Pretorian cast(s) -> 'Golden Arrow'
+As Pretorian casts the spell, she pulls out a copper rod which bursts into a million prismatic starbursts.
+Pretorian grins as her golden arrow hits Deadly wight.
+Dupre reports: Hp: 1502 (1414) Sp: -210 (32) Ep: 371 (399).
+Shadowguard reports: Hp: 1406 (1432) Sp: 26 (659) Ep: 400 (400).
+Deadly wight is in very bad shape.
+[20:03:00] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1708 (1543) Sp: 27 (29) Ep: 322 (401).
+Pretorian [party]: [ Mana hit! ]
+Pretorian [party]: [0% resist].
+Pretorian [party]: [ casting concealed ]
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m  9s) | Exp/min:      9867 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1502(1414) -210(  32) 371(399) |  74 |       282842 |
+| 1.2   Rjak          fol 1708(1543)   27(  29) 322(401) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1406(1432)   26( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  326( 331)  268(1383) 244(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  103(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 457)   30( 861) 264(246) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  357(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)   41( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:03:01] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+scan all
+*****************************************************
+Shadowguard hits Deadly wight 1 time.
+Rjak hits Deadly wight 1 time.
+Dupre hits Deadly wight 2 times.
+Deadly wight cast(s) -> 'Entropy'
+Deadly wight mumbles something inconcievable.
+Dupre's powerful bash sends Deadly wight sprawling to the floor.
+Deadly wight is near death.
+[20:03:03] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1502 (1414) Sp: -210 (32) Ep: 361 (399).
+Shadowguard reports: Hp: 1406 (1432) Sp: 26 (659) Ep: 400 (400).
+Rjak reports: Hp: 1708 (1543) Sp: 27 (29) Ep: 322 (401).
+ps
+Dupre starts concentrating on a new offensive skill.
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2703774 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 12s) | Exp/min:      9867 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1502(1414) -210(  32) 361(399) |  74 |       282842 |
+| 1.2   Rjak          fol 1708(1543)   27(  29) 322(401) |  70 |       266491 |
+| 1.3   Shadowguard   fol 1406(1432)   26( 659) 400(400) |  80 |       287594 |
+| 2.1   Serje         ldr  326( 331)  268(1383) 244(242) |  85 |       449013 |
+| 2.2   Nuane         fol  725( 725)  103(1062) 268(264) |  87 |       301572 |
+| 2.3   Dandy         fol  677( 457)   30( 861) 264(246) |  84 |       296139 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       296139 |
+| 3.2   Pretorian     fol  427( 249)  357(1116) 191(191) |  63 |       250699 |
+| 3.3   Grediah       fol  852( 547)   41( 532) 381(349) |  73 |       273285 |
+`-----------------------------------------------------------------------------'
+[20:03:04] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Bomfunk [sales]: pb350k
+Bomfunk [sales]: 1x
+scan all
+*****************************************************
+Rjak hits Deadly wight 2 times.
+Dupre hits Deadly wight 1 time.
+Deadly wight is near death.
+[20:03:06] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1502 (1414) Sp: -210 (32) Ep: 361 (399).
+Rjak reports: Hp: 1708 (1543) Sp: 27 (29) Ep: 322 (401).
+Shadowguard reports: Hp: 1406 (1432) Sp: 26 (659) Ep: 400 (400).
+Bomfunk [sales]: 2x
+Info: Kjartan goes link dead.
+Serje looks at jar.
+unload 250
+You draw points from the crystal.
+[20:03:08] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+scan all
+*****************************************************
+Deadly wight hits Shadowguard 2 times.
+Shadowguard hits Deadly wight 2 times.
+Rjak hits Deadly wight 1 time.
+Deadly wight is near death.
+[20:03:09] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1480 (1414) Sp: -210 (32) Ep: 361 (399).
+Shadowguard reports: Hp: 1384 (1432) Sp: 26 (659) Ep: 400 (400).
+Rjak reports: Hp: 1708 (1543) Sp: 27 (29) Ep: 322 (401).
+p say crystal empty
+Nuane (party): crystal empty
+[20:03:10] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13025 | $ 3500/17096 | wimpy: off
+
+scan all
+*****************************************************
+Rjak hits Deadly wight 1 time.
+Dupre hits Deadly wight 1 time.
+Dupre's powerful bash sends Deadly wight sprawling to the floor.
+Pretorian cast(s) -> 'Golden Arrow'
+As Pretorian casts the spell, she pulls out a copper rod from a small pouch.
+Pretorian grins as her golden arrow hits Deadly wight.
+Deadly wight gets an acute case of iron-poisoning.
+save
+Deadly wight is DEAD, R.I.P.
+Info: Wermo left the game.
+You are not in combat right now.
+[20:03:12] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13790 (+765) | $ 3500/17096 | wimpy: off
+You gained 765 xp.
+
+Dupre reports: Hp: 1480 (1414) Sp: -210 (32) Ep: 351 (399).
+Shadowguard reports: Hp: 1384 (1432) Sp: 26 (659) Ep: 400 (400).
+SAVED.
+[20:03:12] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1708 (1543) Sp: 27 (29) Ep: 322 (401).
+Pretorian [party]: [ Mana hit! ]
+Bomfunk [sales]: 3x and sold to man with little dick
+Pretorian [party]: [ casting concealed ]
+Serje gets 'blueberry' from his HUGE shiny jar.
+ps
+Serje starts concentrating on a new spell.
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 21s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -210(  32) 351(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   27(  29) 322(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1384(1432)   26( 659) 400(400) |  80 |       288489 |
+| 2.1   Serje         ldr  326( 331)  268(1383) 244(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 725)  103(1062) 268(264) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)   30( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 766)   12( 750) 347(335) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  187(1116) 191(191) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)   41( 532) 381(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:13] hp 725/725 | sp 103/1062 | ep 268/264 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Info: Terrraflon goes link dead.
+Pretorian gives you multicolored crystal <orange glow>.
+Kotivalo [bat]: maybe its cough mixture
+*Kozma swapping to SPR.
+Kozma removes a purplish Beholder headwear, Felidae's sparkling crystal amulet labeled as off1, an unholy clerical collar, Dermaglean Flesheater, glittering leg protectors and the shining helm of azakh-khanan.
+Kozma shivers from the cold.
+Kozma wears a black belt decored with golden stripes <yellow glow>, an engraved cross amulet, a collar made of black silk <red glow>, an ancient staff of the necromancer <yellow glow>, a battle-scarred shin guard, a battle-scarred shin guard <red glow> and Circlet of Flame.
+*Kozma end of swap, SPR mode.
+unload 250
+You draw points from the crystal.
+[20:03:17] hp 725/725 | sp 353/1062 | ep 268/264 | exp 13790 | $ 3500/17096 | wimpy: off
+
+hp 725/725 () | sp 353/1062 (+250) | ep 268/264 ()
+party say War Ensemble off. [9m53s]
+The effect of war ensemble wears off.
+ps
+Pretorian pokes you in the ribs.
+Nuane (party): War Ensemble off. [9m53s]
+[20:03:18] hp 725/481 | sp 353/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 26s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -208(  32) 358(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   28(  29) 329(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1384(1432)   26( 659) 400(400) |  80 |       288489 |
+| 2.1   Serje         ldr  326( 331)  268(1383) 244(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 481)  353(1062) 268(244) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)   30( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   12( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  222(1116) 191(191) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)   41( 532) 381(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:18] hp 725/481 | sp 353/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Grediah starts concentrating on a new skill.
+Pretorian aborts the spell casting.
+Info: Ssmud goes link dead.
+unload 250
+You draw points from the crystal.
+[20:03:21] hp 725/481 | sp 603/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 30s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -208(  32) 358(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   28(  29) 329(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1384(1432)   26( 659) 400(400) |  80 |       288489 |
+| 2.1   Serje         ldr  322( 331)  346(1383) 244(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 481)  603(1062) 268(244) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)   30( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   12( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  222(1116) 191(191) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)   41( 532) 381(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:22] hp 725/481 | sp 603/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+hp 725/481 () | sp 603/1062 (+250) | ep 268/244 ()
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 33s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -208(  32) 358(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   28(  29) 329(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1384(1432)   26( 659) 400(400) |  80 |       288489 |
+| 2.1   Serje         ldr  322( 331)  346(1383) 244(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 481)  603(1062) 268(244) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  111( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   12( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  222(1116) 191(191) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)   41( 532) 381(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:25] hp 725/481 | sp 603/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Info: Wermo enters the game.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 36s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -208(  32) 358(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   28(  29) 329(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1384(1432)   26( 659) 400(400) |  80 |       288489 |
+| 2.1   Serje         ldr  322( 331)  346(1383) 244(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 481)  603(1062) 268(244) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  111( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   12( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  222(1116) 191(191) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)   41( 532) 381(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:28] hp 725/481 | sp 603/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Kozma (party): three runs and lear is dead
+Serje gets something from his pack and chants 'enfuego delcosa'
+Serje draws green energy from blueberry.
+*Pretorian swapping.
+Pretorian removes swirling bands of lava <flaming> labeled as lb qc, the crown of mental power, ebony rod labeled as int favorit, Tattered Silver Shimmering Cloak, ebony rod labeled as int favorit, alchemist moulded ring labeled as 5int, a little leather bag, Girdle of Ethereal Power, Glass armbands, strong sapphire boots labeled as int favorit, Faded blue glove labeled as intwis, Faded blue glove labeled as intwis ancient and alchemist moulded ring labeled as 5int.
+Pretorian shivers from the cold.
+Pretorian wears a purple glove (glowing) <red glow>, a pair of blue radium boots labeled as favorit spr (glowing) <orange glow>, necklace made out of sharp fangs (glowing) <purple glow>, a wand of magic (glowing) <orange glow>, a battle-scarred shin guard (glowing) <orange glow>, Girdle of Ethereal Power (glowing) <orange glow>, a battle-scarred shin guard (glowing) <orange glow>, Slime cloak (glowing) <yellow glow>, an ancient staff of the necromancer (glowing) <orange glow>, a purple glove (glowing) <red glow>, iron crown (glowing) <orange glow>, sparkling ruby ring (glowing) <red glow> and silver dragon bracers (glowing) <red glow>.
+*Pretorian end of swap, REGEN mode.
+Info: Yoz enters the game.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 39s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -208(  32) 358(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   28(  29) 329(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1384(1432)   26( 659) 400(400) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  370(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 481)  603(1062) 268(244) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  111( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   12( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  222(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)   41( 532) 381(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:31] hp 725/481 | sp 603/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Serje gets 'blueberry' from his HUGE shiny jar.
+Serje starts concentrating on a new spell.
+Kozma (party): cot/degen anyway
+Grediah performs a solemn ceremony to please Aveallis.
+hp 725/481 () | sp 623/1062 (+20) | ep 268/244 ()
+Info: Catie enters the game.
+Shadowguard [party]: war_ensemble Off (10:09)
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 43s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -208(  32) 358(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   28(  29) 329(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1172)   42( 659) 400(390) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  370(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 481)  623(1062) 268(244) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  111( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   12( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  222(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)  108( 532) 380(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:35] hp 725/481 | sp 623/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Martyr [wanted]: party for tank
+Info: Smoken goes link dead.
+Info: Sciurine enters the game.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 47s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -208(  32) 358(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   28(  29) 329(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1172)   42( 659) 400(390) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  370(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 481)  623(1062) 268(244) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  111( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   12( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  222(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)  108( 532) 380(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:39] hp 725/481 | sp 623/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+regen
+
+[20:03:41] hp 725/481 | sp 623/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+You remove Cape of Knowledge, glittering leg protectors, silverstar bracelets, the stone amulet of the earth elementalist, Glass armbands, golden belt of Fair River-Daughter, Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr, Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr, a pair of black boots, Blue glove of master Conjurer, a green glove, golden helmet crown of the catfolk king, The gleaming blue collar of Bengalore labeled as +wis and heavy tabard with a chalice ensignia.
+[20:03:41] hp 725/481 | sp 623/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+You shiver from the cold.  Your blood freezes in its path.
+The air freezes in your lungs.  Your breath catches in your
+throat.  Your flesh crawls as the ice travels to your limbs.
+After a moment your body becomes used to the feeling.
+
+As you wear the collar, you feel it slowly tightening around your neck...
+You wear The Amulet of Truth labeled as |A| <red glow>, The Bracers of Gods labeled as (Naane) <orange glow>, the frozen ice belt of the demon lord, A heavy black metal ring, sparkling ruby ring labeled as (Naane), Sandals of the Earth <red glow>, Red Glove of the Healer labeled as (Naane), Red Glove of the Healer, tarnished Golden Helm labeled as ghelm <red glow>, a collar made of black silk <red glow>, a torn leather muscle shirt labeled as (Naane) <blue glow>, Bracelets of San-Jyan <red glow>, a battle-scarred shin guard, a battle-scarred shin guard and a magic cloak <red glow>.
+[20:03:41] hp 725/481 | sp 623/1062 | ep 268/244 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Info: Maddie recovers from link death.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 50s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -208(  32) 358(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   28(  29) 329(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1172)   42( 659) 400(390) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  370(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 473)  623( 904) 268(248) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  111( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   91( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  222(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)  108( 532) 380(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:42] hp 725/473 | sp 623/904 | ep 268/248 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Serje gets something from his pack and chants 'enfuego delcosa'
+Serje draws green energy from blueberry.
+Info: Panthos goes link dead.
+Serje gets 'blueberry' from his HUGE shiny jar.
+Serje starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 52s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -208(  32) 358(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   28(  29) 329(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1172)   42( 659) 400(390) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  394(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 473)  623( 904) 268(248) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  111( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   91( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  349(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)  108( 532) 380(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:44] hp 725/473 | sp 623/904 | ep 268/248 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Serje takes a deep breath.
+Info: Ramjett goes link dead.
+Shadowguard starts concentrating on a new skill.
+Kozma extracts something from a pouch.
+Kozma extracts something from a pouch.
+Kozma extracts something from a pouch.
+Kozma extracts something from a pouch.
+Kozma extracts something from a pouch.
+Kozma extracts something from a pouch.
+Kozma extracts something from a pouch.
+Kozma extracts something from a pouch.
+Kozma extracts something from a pouch.
+Kozma extracts something from a pouch.
+Keat [newbie]: why is the brutal axe of mohan worth 50k? what's so good about it compared to a "normal" axe?
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 56s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -204(  32) 368(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   29(  29) 339(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1172)   42( 659) 400(390) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  394(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 473)  623( 904) 268(248) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  111( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   91( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  349(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)  108( 532) 380(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:48] hp 725/473 | sp 623/904 | ep 268/248 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Kozma drops 10 handfuls of olivine powder.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 33m 59s) | Exp/min:      9898 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -204(  32) 368(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   29(  29) 339(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1172)   42( 659) 400(390) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  394(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 473)  623( 904) 268(248) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  111( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)   91( 732) 347(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  349(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)  108( 532) 380(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:03:51] hp 725/473 | sp 623/904 | ep 268/248 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Kozma starts concentrating on a new skill.
+Pretorian twiddles her thumbs.
+Shadowguard performs a solemn ceremony to please Aveallis.
+Info: Adaon left the game.
+You hear the sound of metal against metal.
+tweak sg
+You tweak Shadowguard's nose mischievously.
+[20:03:57] hp 725/473 | sp 623/904 | ep 268/248 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Shadowguard [party]: prots: flex (03:36) unstun (35:07) aoa (09:49) fs (03:15)
+tweak rjak
+You tweak Rjak's nose mischievously.
+[20:03:59] hp 725/473 | sp 623/904 | ep 268/248 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Rjak [party]: Prots: Uns Esk(31:48) Fsh(18:07) Aoa(3:26) Flex(3:04) Cs(2:49)
+Kotivalo [newbie]: its not 50k
+tweak dupre
+You tweak Dupre's nose mischievously.
+[20:04:00] hp 725/473 | sp 623/904 | ep 268/248 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Dupre [party]: prots: AoA(10 min) flex(2 min) unstun fshield(2 min)
+Serje gets something from his pack and chants 'enfuego delcosa'
+Serje draws green energy from blueberry.
+Kozma sacrifices the powder to the dark gods.
+Kozma starts concentrating on a new skill.
+Serje gets 'blueberry' from his HUGE shiny jar.
+Serje starts concentrating on a new spell.
+Soulkeeper [newbie]: its not really worth 50k would be a good start :)
+Delveling [newbie]: <red glow>
+ps
+hp 725/473 () | sp 735/904 (+112) | ep 268/248 ()
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 34m 12s) | Exp/min:      9862 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -204(  32) 368(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   29(  29) 339(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1172)   90( 659) 399(390) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  536(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 473)  735( 904) 268(248) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  228( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)  106( 732) 323(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  349(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)  221( 532) 380(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:04:04] hp 725/473 | sp 735/904 | ep 268/248 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Info: Maddie goes link dead.
+Serje [party]: war
+p say Death effects gone.
+You feel more vital.
+Nuane (party): Death effects gone.
+[20:04:07] hp 725/495 | sp 735/978 | ep 268/262 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Kotivalo [newbie]: its 25k
+Grediah says 'Hp: 852 (547) Sp: 221 (532) Ep: 380 (349).'
+Eronk [sales]: +3 dex ring of many wonders mb 10k
+Serje nogs noggingly.
+Kozma sacrifices the powder to the dark gods.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 34m 22s) | Exp/min:      9862 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -204(  32) 368(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   29(  29) 339(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1172)   90( 659) 399(390) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  536(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 495)  735( 978) 268(262) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  228( 861) 264(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)  243( 732) 305(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  481(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)  221( 532) 380(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:04:14] hp 725/495 | sp 735/978 | ep 268/262 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Kozma starts concentrating on a new skill.
+Serje gets something from his pack and chants 'enfuego delcosa'
+Serje draws green energy from blueberry.
+Shay [sales]: 10k
+Aleksi [wanted]: party for tank
+Serje [party]: how many sps for war?
+Info: Halleck goes link dead.
+Pradedek [sales]: 10k
+You feel like Shumrena healed you a bit.
+hp 725/495 () | sp 823/978 (+88) | ep 262/262 (-6)
+Serje [party]: needed?
+Tim [sales]: 12k
+Kozma (party): 250
+Serje looks at jar.
+Kozma sacrifices the powder to the dark gods.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 34m 31s) | Exp/min:      9862 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1414) -148(  32) 399(399) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1543)   29(  29) 350(401) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1172)  182( 659) 390(390) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 331)  779(1383) 242(242) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 495)  823( 978) 262(262) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 457)  297( 861) 246(246) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 750)  359( 732) 305(329) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 249)  481(1002) 191(190) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 547)  315( 532) 349(349) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:04:23] hp 725/495 | sp 823/978 | ep 262/262 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Shay [sales]: 15
+Grediah starts concentrating on a new spell.
+Kozma (party): grediah warez now
+Grediah removes Girdle of Ethereal Power labeled as spr-belt.
+Grediah wears Vampiric sash of Yavie labeled as <Grediah> <purple glow>.
+Grediah removes Red Glove of the Healer.
+Grediah removes Red Glove of the Healer.
+Grediah wears leather glove labeled as <Grediah> <yellow glow>.
+Grediah wears leather glove labeled as <Grediah> <yellow glow>.
+Grediah wears Ring of Shadows labeled as <|Grediah|> <orange glow>.
+Grediah removes a pair of blue radium boots.
+Grediah removes a battle-scarred shin guard.
+Grediah removes a battle-scarred shin guard.
+*Grediah is in DEX mode.
+mjph
+You start chanting.
+[20:04:28] hp 725/495 | sp 823/978 | ep 262/262 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Kozma starts concentrating on a new skill.
+Grediah [party]: 300
+Keat [newbie]: oh ok
+Info: Halleck recovers from link death.
+Shadowguard starts concentrating on a new skill.
+Major party heal: 3
+Eronk [sales]: 15k*1*2
+Info: Hampuusi enters the game.
+Info: Kalzone dies.
+hp 725/495 () | sp 965/978 (+142) | ep 262/262 ()
+Major party heal: 2
+Major party heal: 1 (haste)
+mjph
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[20:04:35] hp 725/495 | sp 965/978 | ep 262/262 | exp 13790 | $ 3500/17096 | wimpy: off
+Grediah sings: 'War is TOTAL massacre, sport the war, war SUPPOORT!!!'
+Shadowguard is full of battle rage!
+Grediah is full of battle rage!
+Pretorian is full of battle rage!
+Kozma is full of battle rage!
+Dupre is full of battle rage!
+Rjak is full of battle rage!
+You feel full of battle rage! Victory is CERTAIN!
+Dandy is full of battle rage!
+Serje is full of battle rage!
+Major party heal: 3
+Major party heal: 1 (greater haste)
+Kvlt [twilight+]: pillu vittu
+Grediah [party]: ( War Ensemble UP ) {Cast by Nuane}
+Kozma (party): WAREZ up
+Info: Artaxerxes recovers from link death.
+Shadowguard [party]: war_ensemble On
+Dupre [party]: war_ensemble up
+Rjak [party]: ( War Ensemble ON ) {Caster Grediah}
+ps
+Pretorian [party]: war_ensemble On
+Serje [party]: war ensemble up
+Dandy [party]: war_ensemble on
+Rjak [party]: < Force Shield DOWN > [18:45] {Pretorian's average 19:03}
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 34m 46s) | Exp/min:      9862 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1480(1620) -148(  32) 399(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1708(1786)   29(  29) 350(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1404(1476)  246( 659) 390(402) |  80 |       288489 |
+| 2.1   Serje         ldr  331( 583)  779(1383) 242(264) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 715)  965( 978) 262(281) |  87 |       302494 |
+| 2.3   Dandy         fol  677( 739)  447( 861) 246(269) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 909)  507( 732) 313(344) |  84 |       297061 |
+| 3.2   Pretorian     fol  427( 455)  481(1002) 191(204) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  232( 536) 358(377) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:04:38] hp 725/715 | sp 965/978 | ep 262/281 | exp 13790 | $ 3500/17096 | wimpy: off
+
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal really much of Dandy's wounds.
+You heal really much of Rjak's wounds.
+You heal really much of Dupre's wounds.
+You heal really much of Pretorian's wounds.
+You heal very much of Serje's wounds.
+You heal really much of Shadowguard's wounds.
+hp 725/715 () | sp 871/978 (-94) | ep 262/281 ()
+Kozma sacrifices the powder to the dark gods.
+Grediah removes Vampiric sash of Yavie labeled as <Grediah>.
+ps
+Grediah wears Girdle of Ethereal Power labeled as spr-belt <purple glow>.
+Grediah removes leather glove labeled as <Grediah>.
+Grediah removes leather glove labeled as <Grediah>.
+Grediah wears Red Glove of the Healer <green glow>.
+Grediah wears Red Glove of the Healer <green glow>.
+Grediah removes Ring of Shadows labeled as <|Grediah|>.
+Grediah wears a pair of blue radium boots <purple glow>.
+Grediah wears a battle-scarred shin guard <red glow>.
+Grediah wears a battle-scarred shin guard <white glow>.
+*Grediah is in SPR mode.
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 34m 48s) | Exp/min:      9862 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1611(1620) -148(  32) 399(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1781(1786)   29(  29) 350(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1471(1476)  246( 659) 390(402) |  80 |       288489 |
+| 2.1   Serje         ldr  529( 583)  779(1383) 242(264) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 715)  871( 978) 262(281) |  87 |       302494 |
+| 2.3   Dandy         fol  735( 739)  447( 861) 246(269) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 909)  526( 732) 289(344) |  84 |       297061 |
+| 3.2   Pretorian     fol  451( 455)  616(1002) 197(204) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  232( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:04:40] hp 725/715 | sp 871/978 | ep 262/281 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Info: Susette goes link dead.
+mph
+You start chanting.
+[20:04:41] hp 725/715 | sp 871/978 | ep 262/281 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Info: Zinko goes link dead.
+Kotivalo [newbie]: u bought it for 50k? :)
+Shadowguard performs a solemn ceremony to please Aveallis.
+Minor party heal: 2
+Serje [party]: goes
+Soulkeeper [newbie]: it is a decent starting axe though for 20k-25k or so
+*Kozma swapping to HIT.
+Kozma removes a black belt decored with golden stripes, an engraved cross amulet, a collar made of black silk, an ancient staff of the necromancer, a battle-scarred shin guard, a battle-scarred shin guard and Circlet of Flame.
+Kozma eyes sparkles!
+Kozma wears a purplish Beholder headwear, Felidae's sparkling crystal amulet labeled as off1, an unholy clerical collar, glittering leg protectors <red glow> and the shining helm of azakh-khanan <red glow>.
+Kozma wields Dermaglean Flesheater (glowing) <red glow> in her left hand.
+*Kozma end of swap, HIT mode.
+wis
+[20:04:45] hp 725/715 | sp 871/978 | ep 262/281 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Your body returns to normal temperature.  You become confused and shiver
+as your body remembers the safety and comfort of how the frost felt.
+
+You remove the collar, and the tightness around your neck is gone..
+You remove a magic cloak, a battle-scarred shin guard, a battle-scarred shin guard, Bracelets of San-Jyan, The Amulet of Truth labeled as |A|, The Bracers of Gods labeled as (Naane), the frozen ice belt of the demon lord, A heavy black metal ring, sparkling ruby ring labeled as (Naane), Sandals of the Earth, Red Glove of the Healer labeled as (Naane), Red Glove of the Healer, tarnished Golden Helm labeled as ghelm, a collar made of black silk and a torn leather muscle shirt labeled as (Naane).
+[20:04:45] hp 725/715 | sp 871/978 | ep 262/281 | exp 13790 | $ 3500/17096 | wimpy: off
+
+You wear the stone amulet of the earth elementalist, Glass armbands, golden belt of Fair River-Daughter, Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr, Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr, a pair of black boots, Blue glove of master Conjurer <red glow>, a green glove, golden helmet crown of the catfolk king <red glow>, The gleaming blue collar of Bengalore labeled as +wis <red glow>, heavy tabard with a chalice ensignia <white glow>, silverstar bracelets <purple glow>, glittering leg protectors and Cape of Knowledge <red glow>.
+[20:04:45] hp 725/715 | sp 871/978 | ep 262/281 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Minor party heal: 1
+mjph
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[20:04:48] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+Major party heal: 3
+Major party heal: 2 (haste)
+Serje removes the frozen ice belt of the demon lord, a pair of blue radium boots, Slime cloak, a battle-scarred shin guard, a battle-scarred shin guard, a purple glove, a purple glove, Circlet of Flame, golden wristbands, necklace made out of sharp fangs and a wand of magic.
+Serje wears Girdle of Ethereal Power labeled as intgirdle <orange glow>, a pair of black boots <yellow glow>, Tattered Silver Shimmering Cloak <orange glow>, dark grey and white plaid kilt <red glow>, the crown of mental power <yellow glow>, a little leather bag <red glow>, Glass armbands <yellow glow> and green crystal wand.
+tph
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[20:04:50] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+True party heal: 4
+True party heal: 2 (greater haste)
+Serje leaves north.
+Dandy flies to the north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Along the citadel wall (n,s).
+Dandy Jumping the grey Elf < Revenge! (part II) >
+Serje Stormbringer the Elf < Revenge! (part II) >
+Rjak arrives from south.
+Dupre arrives from south.
+Kozma arrives from south.
+Pretorian arrives from south.
+Grediah arrives from south.
+Shadowguard arrives from south.
+Serje starts concentrating on a new offensive spell.
+tph
+You start chanting.
+[20:04:52] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+*Pretorian swapping.
+Pretorian removes a purple glove, a pair of blue radium boots labeled as favorit spr, necklace made out of sharp fangs, a wand of magic, a battle-scarred shin guard, Girdle of Ethereal Power, a battle-scarred shin guard, Slime cloak, an ancient staff of the necromancer, a purple glove, iron crown, sparkling ruby ring and silver dragon bracers.
+Pretorian wears swirling bands of lava <flaming> labeled as lb qc (glowing), the crown of mental power (glowing) <white glow>, ebony rod labeled as int favorit (glowing), Tattered Silver Shimmering Cloak (glowing) <orange glow>, ebony rod labeled as int favorit (glowing), alchemist moulded ring labeled as 5int (glowing) <red glow>, a little leather bag (glowing) <purple glow>, Girdle of Ethereal Power (glowing) <orange glow>, Glass armbands (glowing) <yellow glow>, strong sapphire boots labeled as int favorit (glowing) <yellow glow>, Faded blue glove labeled as intwis (glowing) <red glow>, Faded blue glove labeled as intwis ancient (glowing) <red glow> and alchemist moulded ring labeled as 5int (glowing) <red glow>.
+*Pretorian end of swap, BATTLE mode.
+True party heal: 4
+Serje leaves north.
+Dandy flies to the north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Along the citadel wall (n,s).
+Dandy Jumping the grey Elf < Revenge! (part II) >
+Serje Stormbringer the Elf < Revenge! (part II) >
+Lear Rotth, the undead lord superior, infuriated beyond comprehension (undead)
+Rjak arrives from south.
+scan all
+*****************************************************
+Lear rotth hits Rjak 2 times.
+Dupre arrives from south.
+Kozma arrives from south.
+Pretorian arrives from south.
+Grediah arrives from south.
+Shadowguard arrives from south.
+Serje starts concentrating on a new offensive spell.
+Rjak reports: Hp: 896 (1786) Sp: 29 (29) Ep: 362 (403).
+Lear rotth is near death.
+[20:04:55] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+tph
+
+You start chanting.
+[20:04:56] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+Pretorian [party]: [ casting concealed ]
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m  4s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1620(1620) -143(  32) 401(401) |  74 |       283714 |
+| 1.2   Rjak          fol  896(1786)   29(  29) 362(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1471(1476)  246( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  532( 583)  886(1470) 247(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  871(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  730( 739)  594( 861) 252(269) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 925)  514( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  451( 455)  616(1116) 197(205) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  232( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:04:56] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Shadowguard starts concentrating on a new spell.
+Pretorian starts concentrating on a new offensive spell.
+True party heal: 4
+scan all
+*****************************************************
+Dupre hits Lear rotth 1 time.
+Rjak hits Lear rotth 2 times.
+Dupre's flex shield wobbles.
+Dupre's flex shield wobbles.
+Dupre's flex shield wobbles.
+Lear rotth hits Dupre 2 times.
+Shadowguard hits Lear rotth 2 times.
+Dandy starts concentrating on a new spell.
+Lear rotth is near death.
+[20:04:58] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Dupre reports: Hp: 1161 (1620) Sp: -143 (32) Ep: 401 (401).
+Dandy [party]: Death effects gone.
+Rjak reports: Hp: 960 (1786) Sp: 29 (29) Ep: 403 (403).
+Shadowguard reports: Hp: 1046 (1476) Sp: 246 (659) Ep: 389 (402).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m  7s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1161(1620) -143(  32) 401(401) |  74 |       283714 |
+| 1.2   Rjak          fol  960(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1046(1476)  246( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  532( 583)  886(1470) 247(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  871(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  730( 761)  594( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 925)  514( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  451( 455)  616(1116) 197(205) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  232( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:04:59] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Dandy starts concentrating on a new spell.
+Grediah starts concentrating on a new offensive spell.
+Pretorian hums a little tune.
+Keat [newbie]: no, someone just donated it to damogran and damogran said it was 50k
+True party heal: 3
+True party heal: 1 (greater haste)
+scan all
+*****************************************************
+Shadowguard hits Lear rotth 1 time.
+Hatefreezer [wanted]: blaster for few kills
+Lear rotth is near death.
+[20:05:01] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Dandy [party]: Curse of tarmalen: ##### (5)
+Dupre reports: Hp: 1161 (1620) Sp: -143 (32) Ep: 401 (401).
+Shadowguard reports: Hp: 1046 (1476) Sp: 246 (659) Ep: 389 (402).
+Rjak reports: Hp: 957 (1786) Sp: 29 (29) Ep: 403 (403).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m  9s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1161(1620) -143(  32) 401(401) |  74 |       283714 |
+| 1.2   Rjak          fol  957(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1046(1476)  246( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  532( 583)  886(1470) 247(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  871(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  730( 761)  594( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  919( 925)  514( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  451( 455)  616(1116) 197(205) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  232( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:05:01] hp 725/723 | sp 871/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Pretorian buzzes 'Let's dance.'
+Pretorian shakes her butt.
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Lear rotth, bursting into flames!
+Serje grins as his channelburn hits Lear rotth.
+Shadowguard cast(s) -> 'Major Party Heal'
+You are done with the chant.
+CASTED.
+You cast(s) -> 'judicandus eurto mangenic'
+You heal all of Dandy's wounds.
+You heal very much of Rjak's wounds.
+You heal all of Dupre's wounds.
+You heal all of Kozma's wounds.
+You heal all of Pretorian's wounds.
+You heal all of Serje's wounds.
+You heal all of Shadowguard's wounds.
+hp 725/723 () | sp 647/1107 (-224) | ep 262/277 ()
+scan all
+*****************************************************
+Lear rotth hits Dupre 2 times.
+Dupre's powerful bash sends Lear rotth sprawling to the floor.
+Kozma cast(s) -> 'Harm Body'
+Kozma casts a harming spell on Lear rotth.
+Pretorian cast(s) -> 'Lava Blast'
+As Pretorian casts the spell, she pulls out a granite sphere from a small pouch.
+Pretorian grins as her lava blast hits Lear rotth.
+Lear rotth bursts into flames!
+Dupre reports: Hp: 1016 (1620) Sp: -143 (32) Ep: 391 (401).
+Serje starts concentrating on a new offensive spell.
+Shadowguard reports: Hp: 1031 (1476) Sp: 144 (659) Ep: 389 (402).
+Serje [party]: Lear rotth writhes fire [20% resist].
+Rjak reports: Hp: 1583 (1786) Sp: 29 (29) Ep: 403 (403).
+Pretorian [party]: [ Fire hit! ]
+[party]: Shadowguard exclaims "HURT!"
+Pretorian [party]: [ casting concealed ]
+Lear rotth is near death.
+[20:05:04] hp 725/723 | sp 647/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+tph
+You start chanting.
+[20:05:05] hp 725/723 | sp 647/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+ps
+
+Shadowguard starts concentrating on a new spell.
+Searc [newbie]: and what is that "normal" axe you compared it to =)
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m 13s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1016(1620) -143(  32) 391(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1583(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1031(1476)  144( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  583( 583)  814(1470) 244(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  647(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  761( 761)  594( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  925( 925)  322( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  455( 455)  446(1116) 197(205) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  232( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:05:05] hp 725/723 | sp 647/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+True party heal: 4
+True party heal: 3 (haste)
+Lear rotth cast(s) -> 'Aneurysm'
+scan all
+*****************************************************
+Rjak hits Lear rotth 1 time.
+Lear rotth hits Dupre 1 time.
+Dupre reports: Hp: 821 (1620) Sp: -143 (32) Ep: 391 (401).
+Rjak reports: Hp: 1583 (1786) Sp: 29 (29) Ep: 403 (403).
+Dandy [party]: Curse of tarmalen: # (1)
+Lear rotth is near death.
+[20:05:07] hp 725/723 | sp 647/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Shadowguard reports: Hp: 898 (1476) Sp: 144 (659) Ep: 389 (402).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m 15s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  821(1620) -143(  32) 391(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1583(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol  898(1476)  144( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  583( 583)  814(1470) 244(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  647(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  761( 761)  594( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  925( 925)  322( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  455( 455)  446(1116) 197(205) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  232( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:05:07] hp 725/723 | sp 647/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Info: Tim left the game.
+Grediah plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Grediah grins as his con fioco hits Lear rotth.
+Dandy cast(s) -> 'nilaehz temnahecne neg'
+Lear rotth turns very pale!
+True party heal: 2
+True party heal: 1 (haste)
+scan all
+*****************************************************
+Lear rotth hits Dupre 1 time.
+Kotivalo [newbie]: buy drow lords axe, its better
+Victor [sales]: merchant services
+Pretorian [party]: Death effects gone.
+Dandy [party]: _**!CURSED!**_
+Dupre reports: Hp: 599 (1620) Sp: -143 (32) Ep: 391 (401).
+Shadowguard reports: Hp: 857 (1476) Sp: 144 (659) Ep: 389 (402).
+Lear rotth is near death.
+[20:05:10] hp 725/723 | sp 647/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1583 (1786) Sp: 29 (29) Ep: 403 (403).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m 19s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  599(1620) -143(  32) 391(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1583(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol  857(1476)  144( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  583( 583)  814(1470) 244(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  647(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  761( 761)  381( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  925( 925)  322( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  455( 463)  446(1177) 197(211) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  100( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:05:11] hp 725/723 | sp 647/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Dandy starts concentrating on a new spell.
+Pretorian [party]: [ casting concealed ]
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Lear rotth, bursting into flames!
+Serje grins as his channelburn hits Lear rotth.
+Shadowguard cast(s) -> 'Major Party Heal'
+You are done with the chant.
+CASTED.
+You cast(s) -> 'judicandus eurto mangenic'
+You heal really much of Rjak's wounds.
+You heal much of Dupre's wounds.
+You heal really much of Pretorian's wounds.
+You heal very much of Serje's wounds.
+You heal really much of Shadowguard's wounds.
+hp 725/723 () | sp 418/1107 (-229) | ep 262/277 ()
+scan all
+*****************************************************
+Dupre hits Lear rotth 1 time.
+Dupre's powerful bash sends Lear rotth sprawling to the floor.
+Lear rotth bursts into flames!
+Dupre reports: Hp: 1244 (1620) Sp: -143 (32) Ep: 381 (401).
+Shadowguard reports: Hp: 1462 (1476) Sp: 42 (659) Ep: 389 (402).
+Serje starts concentrating on a new offensive spell.
+Serje [party]: Lear rotth writhes fire [20% resist].
+Rjak reports: Hp: 1782 (1786) Sp: 29 (29) Ep: 403 (403).
+Dupre starts concentrating on a new offensive skill.
+Lear rotth is near death.
+[20:05:13] hp 725/723 | sp 418/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+tph
+
+You start chanting.
+[20:05:14] hp 725/723 | sp 418/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m 22s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1244(1620) -143(  32) 381(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1782(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1462(1476)   42( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  582( 583)  742(1470) 241(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  418(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  761( 761)  381( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  925( 925)  322( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  462( 463)  446(1177) 197(211) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  100( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:05:14] hp 725/723 | sp 418/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Hampuusi [sales]: mora leggings +dex for sale
+True party heal: 4
+True party heal: 3 (haste)
+Lear rotth cast(s) -> 'Aneurysm'
+scan all
+*****************************************************
+Rjak hits Lear rotth 2 times.
+Dupre's flex shield wobbles.
+Dupre's flex shield wobbles.
+Lear rotth hits Dupre 2 times.
+Dupre reports: Hp: 773 (1620) Sp: -143 (32) Ep: 381 (401).
+Lear rotth is near death.
+[20:05:16] hp 725/723 | sp 418/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Shadowguard reports: Hp: 1031 (1476) Sp: 42 (659) Ep: 389 (402).
+Rjak reports: Hp: 1782 (1786) Sp: 29 (29) Ep: 403 (403).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m 25s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  773(1620) -143(  32) 381(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1782(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1031(1476)   42( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  582( 583)  742(1470) 241(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  418(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  761( 761)  381( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  925( 925)  322( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  462( 463)  446(1177) 197(211) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  100( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:05:17] hp 725/723 | sp 418/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Info: Patze left the game.
+Dandy cast(s) -> 'Major Party Heal'
+True party heal: 2
+scan all
+*****************************************************
+Dupre hits Lear rotth 1 time.
+Rjak's flex shield wobbles.
+Lear rotth hits Rjak 1 time.
+Dupre reports: Hp: 957 (1620) Sp: -143 (32) Ep: 381 (401).
+Shadowguard reports: Hp: 1215 (1476) Sp: 42 (659) Ep: 389 (402).
+Lear rotth is near death.
+[20:05:19] hp 725/723 | sp 418/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Rjak reports: Hp: 1233 (1786) Sp: 29 (29) Ep: 403 (403).
+Dandy starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m 28s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  957(1620) -143(  32) 381(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1233(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1215(1476)   42( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  582( 583)  742(1470) 241(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  418(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  761( 761)  283( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  925( 925)  322( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  462( 463)  446(1177) 197(211) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  100( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:05:20] hp 725/723 | sp 418/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Info: Rawsom recovers from link death.
+Shadowguard starts concentrating on a new spell.
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Lear rotth, bursting into flames!
+Serje grins as his channelburn hits Lear rotth.
+True party heal: 1
+scan all
+*****************************************************
+Shadowguard's flex shield wobbles.
+Shadowguard's flex shield wobbles.
+Shadowguard's flex shield wobbles.
+Lear rotth hits Shadowguard 2 times.
+Dupre's powerful bash sends Lear rotth sprawling to the floor.
+Lear rotth loses his concentration and stops the skill.
+Dupre reports: Hp: 746 (1620) Sp: -143 (32) Ep: 371 (401).
+Serje starts concentrating on a new offensive spell.
+Lear rotth is near death.
+[20:05:22] hp 725/723 | sp 418/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Shadowguard reports: Hp: 720 (1476) Sp: 42 (659) Ep: 389 (402).
+Rjak reports: Hp: 1233 (1786) Sp: 29 (29) Ep: 403 (403).
+Serje [party]: Lear rotth writhes fire [20% resist].
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m 31s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol  746(1620) -143(  32) 371(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1233(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol  720(1476)   42( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  576( 583)  670(1470) 238(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  418(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  761( 761)  283( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  925( 925)  322( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  462( 463)  446(1177) 197(211) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  100( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:05:23] hp 725/723 | sp 418/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+Pretorian buzzes '0.'
+Kozma cast(s) -> 'Harm Body'
+Kozma casts a harming spell on Lear rotth.
+Shadowguard cast(s) -> 'Cure Light Wounds'
+Dandy cast(s) -> 'Major Party Heal'
+You are done with the chant.
+CASTED.
+You cast(s) -> 'judicandus eurto mangenic'
+You heal really much of Rjak's wounds.
+You heal very much of Dupre's wounds.
+You heal little of Pretorian's wounds.
+You heal very much of Serje's wounds.
+You heal really much of Shadowguard's wounds.
+hp 725/723 () | sp 194/1107 (-224) | ep 262/277 ()
+scan all
+*****************************************************
+Lear rotth hits Dupre 1 time.
+Shadowguard hits Lear rotth 1 time.
+Pretorian cast(s) -> 'kewa dan dol rae hout'
+Lear rotth appears weakened!
+Some sand crunches against the stone floor under your feet.
+Grediah starts concentrating on a new spell.
+Shadowguard starts concentrating on a new spell.
+Dupre reports: Hp: 1009 (1620) Sp: -143 (32) Ep: 371 (401).
+Rjak reports: Hp: 1750 (1786) Sp: 29 (29) Ep: 403 (403).
+Pretorian [party]: [ Degen in ]
+Shadowguard reports: Hp: 1056 (1476) Sp: 25 (659) Ep: 389 (402).
+Lear rotth is near death.
+[20:05:25] hp 725/723 | sp 194/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Dandy starts concentrating on a new spell.
+Kotivalo [newbie]: iron hand-axe? lol
+Pretorian [party]: [ casting concealed ]
+mjph
+You start chanting.
+[20:05:27] hp 725/723 | sp 194/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Revenge! (part II)           (Members:  9) | Exp Tot:   2712204 |
+| Created: Tue Apr 29 15:29:52 2003        ( 4h 35m 35s) | Exp/min:      9826 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dupre         fol 1009(1620) -143(  32) 371(401) |  74 |       283714 |
+| 1.2   Rjak          fol 1750(1786)   29(  29) 403(403) |  70 |       267335 |
+| 1.3   Shadowguard   fol 1056(1476)   25( 659) 389(402) |  80 |       288489 |
+| 2.1   Serje         ldr  582( 583)  670(1470) 238(260) |  85 |       450409 |
+| 2.2   Nuane         fol  725( 723)  194(1107) 262(277) |  87 |       302494 |
+| 2.3   Dandy         fol  761( 761)  185( 925) 252(283) |  84 |       297061 |
+| 3.1   Kozma         fol  925( 925)  329( 750) 289(350) |  84 |       297061 |
+| 3.2   Pretorian     fol  462( 463)  256(1177) 197(211) |  63 |       251491 |
+| 3.3   Grediah       fol  852( 706)  100( 532) 358(361) |  73 |       274150 |
+`-----------------------------------------------------------------------------'
+[20:05:27] hp 725/723 | sp 194/1107 | ep 262/277 | exp 13790 | $ 3500/17096 | wimpy: off
+
+Grediah says 'dai.'
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Lear rotth, bursting into flames!
+Serje grins as his channelburn hits Lear rotth.
+
+                           Lear Rotth..      is dead.
+
+The magic mist around the dead Lear rotth's neck leaps to Kozma's Kerbholz.
+The magic mist around the dead Lear rotth's neck leaps to your Kerbholz.
+A new mark appears.
+Major party heal: 3
+Major party heal: 2 (haste)
+Shadowguard starts concentrating on a new spell.
+Serje starts concentrating on a new offensive spell.
+Ghost of Dargoth (ghost): rais
+l
+There are no light sources here, but you can still see.
+The bronze wall gleemlessly stands beside you as you reside between it and the
+rocky wall of the cavern. It continues far south and to the north ending up in
+a corner. The ground is dry and some sand lies on the hard rock.
+Obvious exits are: n and s.
+three silvery bark chips
+leggings of putrid flesh (undead)
+a cracked onyx mask
+a hefty halberd known as 'Deocide' <red glow>
+a pile of bronze coins
+a pile of copper coins
+a small pile of gold coins
+one mowgles coin
+4 platinum coins
+2 silver coins
+a pile of tin coins
+2 zinc coins
+Shadowguard the Human is walking in shadows(dismal) < Revenge! (part II) >
+Grediah RAJAHAUASTA the Human (undead) < Revenge! (part II) >
+Pretorian Styx the Thrikhren jungle girl < Revenge! (part II) >
+Kozma Partanen the Human (hidden) < Revenge! (part II) >
+Dupre Muumi the Ogre from out of nowhere < Revenge! (part II) >
+Rjak the Ogre < Revenge! (part II) >
+Dandy Jumping the grey Elf < Revenge! (part II) >
+Serje Stormbringer the Elf < Revenge! (part II) >
+[20:05:29] hp 725/723 | sp 194/1107 | ep 262/277 | exp 72676 (+58886) | $ 3500/17096 | wimpy: off
+You gained 58886 xp.
+Pretorian aborts the spell casting.
+Kozma aborts the spell casting.
+Major party heal: 1
+Pretorian shouts enthusiastically and screams 'WHEE!'.
+Dandy is absolutely stunned and amazed and can only say 'Wow...'.
+Serje takes 3 silvery bark chips, a pile of copper coins, 2 zinc coins,
+ leggings of putrid flesh (undead), 4 platinum coins, a small pile of gold
+ coins, a cracked onyx mask, one mowgles coin, a hefty halberd known as
+ 'Deocide' <red glow>, a pile of tin coins, 2 silver coins and a pile of
+ bronze coins.

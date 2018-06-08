@@ -1,0 +1,1637 @@
+The arena master shouts 'Team 1 consists of Blazzer'
+The arena master shouts 'Team 2 consists of Orome'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '% close door.'[0m
+[32mSirdest says '%You close team 1 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Blazzer'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Orome'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '% close door.'.'[0m
+[32mSirdest says '% bl.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e,s,se).'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '% bl.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m.[1;36m2[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            1214/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           914/1062  513/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:34] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%<E:0 |15:48>%% @@cast hunger of the spider at orome.'[0m
+[32mSirdest says '%You have an unusual feeling as you cast the spell.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@party say hunger of the spider -> orome.'[0m
+[32mSirdest says '%Blazzer [52m[party]:[32m hunger of the spider -> orome.'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@target orome.'[0m
+[32mSirdest exclaims '%No orome here !'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '%<E:0 |15:48>%% @@cast hunger of the spider at [0m[32morome.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m.[1;36m2[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            1214/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           914/1062  513/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:36] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '%Orome starts concentrating on a new offensive skill.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            1042/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           867/1062  475/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:40] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%You weave the Hunger with your hands and chant 'Khizanth Arachnidus [0m[32mVitalis' [57m(Hunger of the spider)[32m.'[0m
+[32mSirdest exclaims '%You fail to stab Orome with A glass 2h sword named 'BLaZe' <red [0m[32mglow>!'[0m
+[32mSirdest exclaims '%You stab with The Malady blade <red glow> causing blood to fly [0m[32meverywhere!'[0m
+[32mSirdest exclaims '%Orome cringes from pain as your venomed blade bites into his [0m[32mflesh!'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Orome tears you.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%Orome parries.'[0m
+[32mSirdest says '% ...AND counterattacks.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest says '%Hp:867-47 Sp:475-38 Ep:443-2.'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@scan all.'[0m
+[32mSirdest says '%Orome is in a good shape.'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 867 (1062) Sp: 475 (801) Ep: 443 (496).'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '%<E:0 |15:48>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            1041/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           867/1062  475/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:41] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%Arena grounds (e,s,se).'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '% n.'.'[0m
+[32mSirdest says '%You are now aggressive to your enemies.'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '%You are now aggressive to your enemies.'.'[0m
+la arena
+       
+ ##### 
+ #[1;36m1[0m..# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            1041/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           888/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:43] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Tuli [35m[wanted]:[32m spr boots,legs.'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@use 'vampiric blow'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '%<E:0 |15:48>%% @@target.'.'[0m
+la arena
+       
+ ##### 
+ #[1;36m1[0m..# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            1041/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           888/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:46] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+la arena
+
+       
+ ##### 
+ #[1;36m1[0m..# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            1041/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           888/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:48] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (e,s,se).'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '%Arena grounds (e,s,se).'.'[0m
+la arena
+       
+ ##### 
+ #[1;36m1[0m..# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            1041/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           888/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:51] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says 'aggro yes is a smart move.'[0m
+[32mSirdest says '%You peer south:.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne, e, s and se.'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '%You peer south:.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ##### 
+ #[1;36m1[0m..# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            1041/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           888/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:54] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest asks '%Use vampiric blow at whom?'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@south.'[0m
+la arena
+[32mSirdest says '%Arena grounds (n,ne,e,s,se).'[0m
+[32mSirdest says '%Orome Aldaron the Ogre is Always Ultra <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Orome tears you.'[0m
+[32mSirdest says '%Orome tears you.'[0m
+[32mSirdest says '%Hp:801-87 Sp:496 Ep:456.'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@scan.'[0m
+[32mSirdest says '%Orome is in a good shape.'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@north.'[0m
+[32mSirdest says '%Arena grounds (e,s,se).'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '%<E:0 |15:48>%% @@south.'.'[0m
+       
+ ##### 
+ #[1;36m1[0m..# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             978/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           801/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:48:57] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%<E:0 |15:48>%% @@scan all.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%<E:0 |15:48>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 801 (1062) Sp: 496 (801) Ep: 456 (496).'[0m
+[32mSirdest says '%<E:0 |15:48>%You say '%<E:0 |15:48>%% @@scan all.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%Orome incises you.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You tear Orome.'[0m
+[32mSirdest says '%Hp:748-53 Sp:496 Ep:456.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@scan all.'[0m
+[32mSirdest says '%Orome is slightly hurt.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 748 (1062) Sp: 496 (801) Ep: 456 (496).'[0m
+[32mSirdest says '%<E:0 |15:49>%%Orome starts concentrating on a new offensive skill.'[0m
+la arena
+       
+ ##### 
+ #[1;36m1[0m..# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             959/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           748/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:01] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%Arena grounds (w,e,sw,s,se).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '% e.'.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@use 'vampiric blow'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%<E:0 |15:49>%% @@target.'.'[0m
+la arena
+       
+ ##### 
+ #[1;36m21[0m.# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             954/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           748/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:05] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Orome arrives from west.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@scan all.'[0m
+[32mSirdest says '%Orome is slightly hurt.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 748 (1062) Sp: 496 (801) Ep: 459 (496).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%<E:0 |15:49>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #.[1;36m1[0m.# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             954/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           748/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:07] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest exclaims '%Stream of blood from Orome's wound flies to you refreshing you!'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Hp:748 Sp:496 Ep:463+4.'[0m
+[32mSirdest exclaims '%Orome cleaves your vulnerable windpipe, you can hardly breathe!'[0m
+[32mSirdest says '%Orome turns suddenly and STRIKES again..'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@scan all.'[0m
+[32mSirdest says '%Orome is slightly hurt.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 573 (1062) Sp: 496 (801) Ep: 463 (496).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%<E:0 |15:49>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #.[1;36m1[0m.# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             887/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           573/1062  496/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:10] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Orome leaves east.'[0m
+[32mSirdest says '%You are prepared to do the skill.'[0m
+[32mSirdest asks '%Use vampiric blow at whom?'[0m
+la arena
+       
+ ##### 
+ #.[1;36m12[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             881/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           594/1062  517/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:14] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%<E:0 |15:49>%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@use 'vampiric blow'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%<E:0 |15:49>%% @@target.'.'[0m
+la arena
+       
+ ##### 
+ #.[1;36m12[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             881/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           594/1062  517/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:17] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+la arena
+
+       
+ ##### 
+ #.[1;36m12[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             881/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           594/1062  517/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:20] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest asks '%Use vampiric blow at whom?'[0m
+la arena
+       
+ ##### 
+ #.[1;36m12[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             881/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           594/1062  517/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:23] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%.'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e,sw,s,se).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%Arena grounds (nw,n,ne,w,e,sw,s,se).'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #.[1;36m1[0m.# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             881/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           594/1062  517/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:26] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%Arena grounds (nw,n,ne,w,e).'.'[0m
+[32mSirdest says '% #####.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '% #####.'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%Arena grounds (nw,n,w).'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             907/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           594/1062  517/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:30] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%You start chanting.'.'[0m
+[32mSirdest says '%Spider Queen smiles upon you and helps you control the demon.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #.[1;36m2[0m.# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             907/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           594/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:33] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You poke yourself in the eye and your spell misfires.'[0m
+[32mSirdest says '%Hp:594 Sp:472-26 Ep:476.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%You start chanting.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%Orome dodges.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+la arena
+[32mSirdest says '%<E:0 |15:49>%% @@scan all.'[0m
+[32mSirdest says '%Orome is slightly hurt.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 594 (1062) Sp: 472 (801) Ep: 476 (496).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%<E:0 |15:49>%% @@scan all.'.'[0m
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             856/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           594/1062  472/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:36] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w,sw,s).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%Your movement prevents you from casting the [0m[32mspell.'.'[0m
+[32mSirdest says '% bb.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@use 'vampiric blow'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '% bb.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #..[1;36m1[0m# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             856/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           615/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:38] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%You tear Orome.'[0m
+[32mSirdest says '%Orome parries.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@scan all.'[0m
+[32mSirdest says '%Orome is slightly hurt.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 615 (1062) Sp: 490 (801) Ep: 486 (496).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%<E:0 |15:49>%% @@scan all.'.'[0m
+[32mSirdest exclaims '%Stream of blood from Orome's wound flies to you refreshing you!'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #..[1;36m1[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             808/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           615/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:41] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%Orome dodges.'[0m
+[32mSirdest says '%Orome dodges.'[0m
+[32mSirdest says '%Hp:615 Sp:490 Ep:489+3.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@scan all.'[0m
+[32mSirdest says '%Orome is slightly hurt.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 615 (1062) Sp: 490 (801) Ep: 489 (496).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%<E:0 |15:49>%% @@scan all.'.'[0m
+[32mSirdest says '%SAVED.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%SAVED.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #..[1;36m1[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             803/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           615/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:44] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You tear Orome.'[0m
+[32mSirdest says '%Hp:615 Sp:490 Ep:490+1.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@scan all.'[0m
+[32mSirdest says '%Orome is noticeably hurt.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 615 (1062) Sp: 490 (801) Ep: 490 (496).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%<E:0 |15:49>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #..[1;36m1[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             757/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           615/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:47] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%Orome parries.'[0m
+[32mSirdest says '% ...AND counterattacks.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest says '%Hp:611-4 Sp:490 Ep:491+1.'[0m
+[32mSirdest says '%You are prepared to do the skill.'[0m
+[32mSirdest says '%You strike Orome a mighty blow with BLaZe, which cuts furiously [0m[32mthrough bone.'[0m
+[32mSirdest says '%Orome suffers as poison from your blade enters his blood stream.'[0m
+[32mSirdest says '%Hp:643+32 Sp:490 Ep:464-27.'[0m
+[32mSirdest exclaims '%Orome feints in and quickly reverses the motion, pounding you with [0m[32mthe haft of his weapon!'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@scan all.'[0m
+[32mSirdest says '%Orome is not in a good shape.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 490 (1062) Sp: 490 (801) Ep: 464 (496).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%<E:0 |15:49>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #..[1;36m1[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             526/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           490/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:49] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '% n.'.'[0m
+[32mSirdest says '%Arena grounds (w,e,sw,s,se).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%Arena grounds (w,e,sw,s,se).'.'[0m
+[32mSirdest says '% bb.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%<E:0 |15:49>%% @@use 'vampiric blow'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '% bb.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ##### 
+ #.[1;36m1[0m.# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             522/1214   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           490/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:53] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%.'.'[0m
+[32mSirdest says '%.'[0m
+la arena
+[32mSirdest says '%<E:0 |15:49>%You say '%.'.'[0m
+       
+ ##### 
+ #.[1;36m1[0m.# 
+ #...# 
+ #[1;36m2[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             522/1194   30/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           490/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:56] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e,sw,s,se).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%Your movement prevents you from doing the [0m[32mskill.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #.[1;36m1[0m.# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             592/1173   29/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           490/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:49:59] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%<E:0 |15:49>%You say '%Arena grounds (nw,n,ne,w,e).'.'[0m
+[32mSirdest says '% #####.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '% #####.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #.[1;36m12[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             592/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           490/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:02] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% e.'[0m
+Sirdest leaves west.
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #.[1;36m12[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             243/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           391/1062  490/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:06] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+la arena
+
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             243/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           412/1062  492/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:11] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mFarliss AAARRGGHHs 'mihi se sirdest.'[0m
+Farliss BOINGS west.
+la arena
+       
+ ##### 
+ #[1;36m2[0m..# 
+ #...# 
+ #[1;36m1[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             243/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           402/1062  464/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:14] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+w
+
+Arena auditorium ([1;37me[0m,[1;37ms[0m).
+[32mFarliss Windust-Maclay the sapphic Vampire Slayer died for Illyria (BONKERS)[0m
+[32mSirdest the dark Drow[0m
+[15:50:15] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% map.'[0m
+[32mSirdest says '%  ####.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '% map.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #[1;36m1[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             243/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           402/1062  464/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:17] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '%Arena grounds (nw,n,ne,w,e).'.'[0m
+[32mSirdest says '% #####.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '% #####.'.'[0m
+Jeskko arrives from east.
+[32mFarliss AAARRGGHHs 'ala karkaa.'[0m
+[32mSirdest says '% cast cure light wounds at me.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '% cast cure light wounds at me.'.'[0m
+Ragnhild arrives from east.
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             243/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           402/1062  464/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:19] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Cure light wounds: #.'[0m
+Nitra arrives from east.
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             243/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           402/1062  464/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:23] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Kyynel [35m[wanted]:[32m conjumage.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%Your concentration fails and so does your spell.'[0m
+[32mSirdest exclaims '%You feel like you just saved some spell points!'[0m
+[32mSirdest says '%Hp:402 Sp:449-15 Ep:477.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '%You start chanting.'.'[0m
+la arena
+       
+ ##### 
+ #.[1;36m2[0m.# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             243/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           402/1062  449/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:25] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+la arena
+
+       
+ ##### 
+ #[1;36m2[0m..# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             316/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           402/1062  449/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:29] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Hp:430+28 Sp:503+54 Ep:490+13.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You clap your hands and whisper 'judicandus mercuree' [57m(Cure light [0m[57mwounds)[32m.'[0m
+[32mSirdest says '%You heal little of your own wounds.'[0m
+[32mSirdest says '%Hp:472+42 Sp:477-26 Ep:490.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '%You start chanting.'.'[0m
+la arena
+       
+ ##### 
+ #[1;36m2[0m..# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             316/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           472/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:33] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%<E:0 |15:50>%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%<E:0 |15:50>%% @@use 'vampiric blow'.'[0m
+[32mSirdest says '%You interrupt the spell.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '%<E:0 |15:50>%% @@target.'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '%Arena grounds (nw,n,ne,w,e).'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #[1;36m21[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             316/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           472/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:36] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% #####.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '% #####.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #[1;36m21[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             316/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           472/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:39] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest asks '%Use vampiric blow at whom?'[0m
+[32mSirdest says '%Spider Queen smiles upon you and helps you control the demon.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #[1;36m21[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             316/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           472/1062  458/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:42] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% w.'[0m
+Sirdest leaves east.
+Farliss BOINGS east.
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #[1;36m21[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             271/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           430/1062  458/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:45] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+e
+
+Arena auditorium ([1;37mw[0m,[1;37me[0m,[1;37md[0m).
+[32mFarliss Windust-Maclay the sapphic Vampire Slayer died for Illyria (BONKERS)[0m
+[32mSirdest the dark Drow[0m
+Chlorine, Semen, Chestnut Flower
+[32mProteus Xatapechtli the Ent yodlaa suossa[0m
+[32mMithrand the Ent < . >[0m
+[15:50:45] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+Nitra arrives from west.
+[32mSirdest says '% w.'[0m
+Sirdest leaves east.
+Ragnhild arrives from west.
+la arena
+       
+ ##### 
+ #[1;36m2[0m..# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             271/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           430/1062  458/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:48] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+Jeskko arrives from west.
+Farliss BOINGS west.
+Nitra leaves east.
+e
+Arena auditorium ([1;37mw[0m,[1;37ms[0m).
+[32mNitra 'Coup D'Etat' Croog the grey Elf[0m
+[32mSirdest the dark Drow[0m
+[15:50:51] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+Farliss BOINGS from west.
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             271/1194   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           430/1062  458/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:53] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '% e.'.'[0m
+'haha
+You echo 'haha.'
+[15:50:55] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% map.'[0m
+[32mSirdest says '% ####.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '% map.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m2[0m..# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             271/1194   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           430/1062  458/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:56] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Hp:450+20 Sp:477+19 Ep:496+6.'[0m
+[32mSirdest says '%<E:0 |15:50>%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%<E:0 |15:50>%% @@use 'vampiric blow'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%<E:0 |15:50>%You say '%<E:0 |15:50>%% @@target.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             337/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           450/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:50:59] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mFarliss AAARRGGHHs 'hyvat o.'[0m
+[32mSirdest says '%Orome arrives from north.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%...AND riposte.'[0m
+[32mSirdest says '%You tumble Orome's dodge.'[0m
+[32mSirdest says '%You tear Orome.'[0m
+[32mSirdest says '%Orome dodges.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is in bad shape.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 450 (1062) Sp: 477 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+Jeskko arrives from west.
+[32mSirdest exclaims '%Stream of blood from Orome's wound flies to you refreshing you!'[0m
+[32mSirdest says '%Orome starts concentrating on a new offensive skill.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             283/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           450/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:02] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest nods solemnly.[0m
+[32mSirdest says '%Orome incises you.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mFarliss AAARRGGHHs 'commandit menee lapi :D.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Orome dodges.'[0m
+[32mSirdest says '%Hp:394-56 Sp:477 Ep:496.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is in bad shape.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 394 (1062) Sp: 477 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             283/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           394/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:05] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+,-----------------------------------------------------------------------.
+| Time    Channel           Program                                     |
+|-----------------------------------------------------------------------|
+| 15:55   YLE TV2           TV2: Summeri                                |
+`-----------------------------------------------------------------------'
+Ragnhild arrives from west.
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is in very bad shape.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 394 (1062) Sp: 477 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             161/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           394/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:08] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Orome leaves north.'[0m
+[32mSirdest says '%Blazzer is not in a good shape.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Blazzer is not in a good shape.'.'[0m
+[32mSirdest asks '%Use vampiric blow at whom?'[0m
+la arena
+       
+ ##### 
+ #[1;36m2[0m..# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             161/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           394/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:10] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%<E:0 |15:51>%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@use 'vampiric blow'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@target.'.'[0m
+[32mSirdest says '%SAVED.'[0m
+la arena
+[32mSirdest says '%<E:0 |15:51>%You say '%SAVED.'.'[0m
+       
+ ##### 
+ #[1;36m2[0m..# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             161/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           394/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:13] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Your movement prevents you from doing the [0m[32mskill.'.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (n,ne,e).'.'[0m
+[32mSirdest says '%  ####.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%  ####.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m2[0m..# 
+ #[1;36m1[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             161/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           394/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:16] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (n,ne,e,s,se).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (n,ne,e,s,se).'.'[0m
+@Runeaxe hugs you.
+[32mSirdest says '%@Runeaxe hugs you.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             161/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           394/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:18] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says 'very interesting how the bout lasts longer the more experienced the [0m[32mopponents are.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e,sw,s,se).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (nw,n,ne,w,e,sw,s,se).'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w,sw,s).'[0m
+la arena
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (nw,n,w,sw,s).'.'[0m
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #..[1;36m1[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             161/1194   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           394/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:21] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Orome Aldaron the Ogre is Always Ultra <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You shred Orome.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%...AND riposte.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '% n.'.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is near death.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 394 (1062) Sp: 477 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m1[0m# 
+ #...# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              77/1194   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           394/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:24] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w,sw,s).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '% s.'.'[0m
+[32mSirdest says '% map.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '% map.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #..[1;36m1[0m# 
+ #[1;36m2[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              77/1194   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           394/1062  477/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:27] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (nw,n,w).'.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%You cannot go that way.'.'[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%<E:0 |15:51>%% w.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e).'[0m
+[32mSirdest says '%Orome Aldaron the Ogre is Always Ultra <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Orome slaps you.'[0m
+[32mSirdest says '%#$%&&&! Orome tumbles your dodge.'[0m
+[32mSirdest says '%Orome slaps you.'[0m
+[32mSirdest says '%Hp:381-32 Sp:498 Ep:496.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '% w.'.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is near death.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 381 (1062) Sp: 498 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #[1;36m2[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              84/1194   29/29   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           381/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:29] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%*Orome Damage mode.'[0m
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '% e.'.'[0m
+Runeaxe shouts 'Arrrgh.'
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              84/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           381/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:32] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Runeaxe shouts 'Arrrgh.'.'[0m
+[32mSirdest says '% #####.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '% #####.'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (nw,n,w).'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w,sw,s).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (nw,n,w,sw,s).'.'[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Orome Aldaron the Ogre is Always Ultra <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Orome dodges.'[0m
+[32mSirdest says '%Orome parries.'[0m
+[32mSirdest says '% ...AND counterattacks.'[0m
+[32mSirdest says '%You parry.'[0m
+[32mSirdest says '%...AND riposte.'[0m
+[32mSirdest says '%Orome incises you.'[0m
+[32mSirdest says '%Hp:319-62 Sp:498 Ep:496.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (w,sw,s).'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              73/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           319/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:34] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is near death.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 319 (1062) Sp: 498 (801) Ep: 496 (496).'[0m
+[32mSirdest exclaims '%<E:0 |15:51>%%Stream of blood from Orome's wound flies to you [0m[32mrefreshing you!'[0m
+[32mSirdest says '%Arena grounds (nw,n,w,sw,s).'[0m
+la arena
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (nw,n,w,sw,s).'.'[0m
+       
+ ##### 
+ #...# 
+ #..[1;36m1[0m# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              72/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           319/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:37] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%.'.'[0m
+[32mSirdest says 'ooo.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #..[1;36m1[0m# 
+ #[1;36m2[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              72/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           319/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:39] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '% s.'.'[0m
+[32mSirdest says '% ####.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '% ####.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #[1;36m2[0m.[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              72/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           319/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:42] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (nw,n,ne,w,e).'.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e).'[0m
+[32mSirdest says '%Orome Aldaron the Ogre is Always Ultra <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Orome dodges.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%Orome misses.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (n,ne,e).'.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is near death.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 319 (1062) Sp: 498 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m2[0m..# 
+ #[1;36m1[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              72/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           319/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:43] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (n,ne,e,s,se).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (n,ne,e,s,se).'.'[0m
+la arena
+       
+ ##### 
+ #[1;36m2[0m..# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              20/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           265/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:46] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (e,s,se).'[0m
+[32mSirdest says '%Orome Aldaron the Ogre is Always Ultra <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Orome incises you.'[0m
+[32mSirdest says '%Hp:265-54 Sp:498 Ep:496.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (e,s,se).'.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Orome Aldaron the Ogre is Always Ultra <team [0m[32m2>.'.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is near death.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 265 (1062) Sp: 498 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+la arena
+       
+ ##### 
+ #[1;36m1[0m.[1;36m2[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome              20/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           265/1062  498/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:47] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%Arena grounds (w,e,sw,s,se).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Arena grounds (w,e,sw,s,se).'.'[0m
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Orome Aldaron the Ogre is Always Ultra <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You tear Orome.'[0m
+[32mSirdest says '%Orome lapses into [51munconscious[32mness from severe loss of blood.'[0m
+[32mSirdest says '%Hp:265 Sp:471-27 Ep:496.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '% e.'.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+la arena
+[32mSirdest says '%Orome is near death.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 265 (1062) Sp: 471 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%% cast deaths door at orome.'[0m
+[32mSirdest says '%You don't know that spell.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+[32mSirdest says '%Blazzer [52m[party]:[32m Casting Deaths Door at Orome.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%Orome is near death.'.'[0m
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             -28/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           265/1062  471/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:48] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest exclaims '%Stream of blood from Orome's wound flies to you refreshing you!'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome             -46/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           265/1062  471/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:51] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You shred Orome.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest exclaims '%Stream of blood from Orome's wound flies to you refreshing you!'[0m
+[32mSirdest says '% bow.'[0m
+[32mSirdest says '%You bow gracefully.'[0m
+[32mSirdest says '%<E:0 |15:51>%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is near death.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 265 (1062) Sp: 471 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Orome            -172/1214   29/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           265/1062  471/801  |                                      |
+`-----------------------------------------------------------------------------'
+[15:51:54] hp 545/545  sp 1156/1156  ep 271/271  xp 3623  $ 4095/181  wimpy off
+
+[32mSirdest says '%You tear Orome.'[0m
+[32mSirdest says '%You incise Orome.'[0m
+[32mSirdest exclaims '%Stream of blood from Orome's wound flies to you refreshing you!'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is near death.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 265 (1062) Sp: 471 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+[32mFarliss is absolutely stunned and amazed and can only say 'Wow...'.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tear Orome.'[0m
+[32mSirdest says '%You tear Orome.'[0m
+[32mSirdest exclaims '%Stream of blood from Orome's wound flies to you refreshing you!'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@scan all.'[0m
+[32mSirdest says '%Orome is near death.'[0m
+[32mSirdest says '%<E:0 |15:51>%% @@party report.'[0m
+[32mSirdest says '%Blazzer reports: Hp: 265 (1062) Sp: 471 (801) Ep: 496 (496).'[0m
+[32mSirdest says '%<E:0 |15:51>%You say '%<E:0 |15:51>%% @@scan all.'.'[0m
+The arena master shouts 'Orome of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Blazzer'

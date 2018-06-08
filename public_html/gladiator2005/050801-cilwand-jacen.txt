@@ -1,0 +1,637 @@
+The arena master shouts 'Team 1 consists of Cilwand'
+The arena master shouts 'Team 2 consists of Jacen'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[21:13:26] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %You close team 2 door.[0m
+[32m*Sirdest %The arena master shouts 'Team 1 consists of Cilwand'.[0m
+[32m*Sirdest %The arena master shouts 'Team 2 consists of Jacen'.[0m
+[32m*Sirdest %The arena master shouts 'All teams ready! Let the fight begin!'.[0m
+[32m*Sirdest %Hp:1193/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You close team 2 [0m[32mdoor.[0m
+[1;37mKyo [0;53m(fall+):[1;37m ja special arean jossa ois pelkästään koulutyttöjä[0m
+[32m*Kawasa ticks 38 sps[38s].[0m
+[32m*Sirdest %There are no light sources here, but you can still see.[0m
+[32m*Sirdest %Waitingroom for team 2. This room is magically created,.[0m
+[32m*Sirdest %Team 2 door [53m(closed)[32m leads out.[0m
+[32m*Kawasa ticks 875 sps[0s].[0m
+[32m*Sirdest %Hp:1193/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Kawasa ticks 38 sps[38s].[0m
+[32mKerzebel grunts 'ihme on jossei pistä.'[0m
+[32m*Sirdest %Arena grounds (w,sw,s).[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1193/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1204/1204  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:28] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %            All around is a dense fog. You can see maybe.[0m
+[56mTICK IN 5 SECONDS.[0m
+[32m*Sirdest %Obvious exits are: w, sw and s.[0m
+[32m*Sirdest %Hp:1193/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %            All [0m[32maround is a dense fog. You can see maybe.[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1193/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1204/1204  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:30] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[31mMammoth shouts 'Was it as good for you, as it was for me, Dargon?'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1193/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1204/1204  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:33] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest % w.[0m
+[32m*Sirdest %Arena grounds (e,s,se).[0m
+[32m*Sirdest %Cilwand the Gnoll (horny) <team 1>.[0m
+[32m*Sirdest %Hp:1193/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest % w.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %Cilwand successfully dodges your futile slash.[0m
+[32m*Sirdest %You successfully parry Cilwand's attack.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %You successfully dodge Cilwand's attack.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Hp:1193/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Hp:1193/1193 [0m[32mSp:682/792 Ep:529/529 Exp:7465 >%*Sirdest % w.[0m
+[32m*Sirdest %Arena grounds (w,sw,s).[0m
+[32m*Sirdest %Hp:1193/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You successfully [0m[32mparry Cilwand's attack.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:1193/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Hp:1193/1193 [0m[32mSp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Hp:1193/1193.[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1193/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1197/1204  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:35] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %Arena grounds (e,s,se).[0m
+[32m*Sirdest %Cilwand the Gnoll (horny) <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %Cilwand stomp-kicks you making small marks.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %You successfully dodge Cilwand's pierce.[0m
+[32m*Sirdest %hp: 1149-44 (1193) sp: 682 (792) ep: 529 (529).[0m
+[32m*Sirdest %Hp:1149/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Arena grounds [0m[32m(e,s,se).[0m
+[32m*Sirdest %Arena grounds (w,sw,s).[0m
+[32m*Sirdest %Hp:1149/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Cilwand the Gnoll [0m[32m(horny) <team 1>.[0m
+la arena
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:1149/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Hp:1149/1193 [0m[32mSp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Arena grounds.[0m
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1149/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1197/1204  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:38] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %Arena grounds (e,s,se).[0m
+[32m*Sirdest %Cilwand the Gnoll (horny) <team 1>.[0m
+[32m*Sirdest %Hp:1149/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Arena grounds [0m[32m(e,s,se).[0m
+[32m*Sirdest %Arena grounds (n,ne,e).[0m
+[32m*Sirdest %Hp:1149/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Arena grounds [0m[32m(n,ne,e).[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1149/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1197/1204  899/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:40] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[31mApocalypse shouts 'I hope you have a life insurance, Amphion!'[0m
+[32m*Sirdest % n.[0m
+[32m*Sirdest %Arena grounds (e,s,se).[0m
+[32m*Sirdest %Spider webs block this way. You need to return.[0m
+[32m*Sirdest %Cilwand the Gnoll (horny) <team 1>.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Cilwand successfully dodges your futile slash.[0m
+[32m*Sirdest %Cilwand successfully dodges your futile slash.[0m
+[32m*Sirdest %You try to dodge, but Cilwand is not fooled.[0m
+[32m*Sirdest %Cilwand smashes you making small marks.[0m
+[32m*Sirdest %You successfully dodge Cilwand's attack.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %hp: 1131-18 (1193) sp: 682 (792) ep: 529 (529).[0m
+[32m*Sirdest %Hp:1131/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest % n.[0m
+[32m*Sirdest %You are already fighting![0m
+[32m*Sirdest %Hp:1131/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Cilwand smashes you [0m[32mmaking small marks.[0m
+[32m*Sirdest %The web blocks your way, but you try to force yourself through it.[0m
+[32m*Sirdest %You fail to rip the web![0m
+la arena
+[32m*Sirdest %Hp:1131/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You successfully [0m[32mdodge Cilwand's attack.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:1131/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Hp:1131/1193 [0m[32mSp:682/792 Ep:529/529 Exp:7465 >%*Sirdest % n.[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1131/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1197/1204  899/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:42] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %Cilwand howls in pain as it feels the anger of Lightsaber.[0m
+[32m*Sirdest %You tear Cilwand causing skin to slightly freeze.[0m
+[32m*Sirdest %Cilwand tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You tear Cilwand making a minor electrical burn.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand starts concentrating on a new offensive spell.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:1131/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:1131/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You start chanting.[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1131/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1102/1204  899/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:44] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %Cilwand successfully dodges your futile slash.[0m
+[32m*Sirdest %You score a CRITICAL hit![0m
+[32m*Sirdest %Smiling devilishly you rive Cilwand causing large bones to crack loudly.[0m
+[32m*Sirdest %Cilwand punches you making small marks.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand pierces you producing a minor chill.[0m
+[32m*Sirdest %Your armours absorb some of the damage.[0m
+[32m*Sirdest %hp: 1089-42 (1193) sp: 682 (792) ep: 529 (529).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:1089/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You score a [0m[32mCRITICAL hit![0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen            1089/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           798/1204  899/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:47] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %Cilwand is slightly hurt. [0m(65-80% hps)
+[32m*Sirdest %Hp:1089/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Cilwand is slightly [0m[32mhurt. [0m(65-80% hps)
+Blood rushes to Delpers's face and he trembles violently.
+Delpers looks drained and exhausted.
+[32m*Sirdest %Cilwand intones in a strong voice 'hraugh' [57m(Word of blasting)[32m.[0m
+[32m*Sirdest %A glowing yellow mystical symbol appears in the air before you![0m
+[32m*Sirdest %A word of blasting hits you.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You incise Cilwand causing minor frostbite.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %Cilwand punches you making small marks.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand pierces you producing a minor chill.[0m
+[1;37mAndthi [0;52m[party]:[1;37m Got hit by a word of blasting![0m
+[32m*Sirdest %hp: 830-259 (1193) sp: 682 (792) ep: 529 (529).[0m
+[32m*Sirdest %Cilwand leaves east.[0m
+la arena
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:830/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You miss Cilwand.[0m
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             830/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           736/1204  784/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:50] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %The web blocks your way, but you try to force yourself through it.[0m
+[32m*Sirdest %Something stings you. You feel sick.[0m
+[32m*Sirdest %You fail to rip the web![0m
+[32m*Sirdest %Hp:830/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %The web blocks your [0m[32mway, but you try to force yourself through it.[0m
+[32m*Sirdest %Cilwand starts concentrating on a new offensive spell.[0m
+[32m*Sirdest %Cilwand successfully dodges your futile slash.[0m
+[32m*Sirdest %Cilwand tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You tear Cilwand causing a small wound.[0m
+[32m*Sirdest %You successfully parry Cilwand's attack.[0m
+[32m*Sirdest %Cilwand spin-kicks you just below the chin.[0m
+[32m*Sirdest %Cilwand punctures you producing a minor chill.[0m
+la arena
+[32m*Sirdest %hp: 743-87 (1193) sp: 682 (792) ep: 529 (529).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:743/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Cilwand punctures [0m[32myou producing a minor chill.[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             743/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           689/1204  784/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:52] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:743/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest %Cilwand is noticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %Hp:743/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %Cilwand is [0m[32mnoticeably hurt. [0m(50-65% hps)
+[32m*Sirdest %hp: 655-88 (1193) sp: 682 (792) ep: 529 (529).[0m
+la arena
+[32m*Sirdest %Cilwand intones in a strong voice 'hraugh' [57m(Word of blasting)[32m.[0m
+[32m*Sirdest %A glowing yellow mystical symbol appears in the air before you![0m
+[32m*Sirdest %A word of blasting hits you.[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             420/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           689/1204  669/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:55] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[1;37mAndthi [0;52m[party]:[1;37m Got hit by a word of blasting![0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %You successfully dodge Cilwand's pierce.[0m
+[32m*Sirdest %hp: 420-235 (1193) sp: 682 (792) ep: 529 (529).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:420/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %Cilwand leaves south.[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             420/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           689/1204  669/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:57] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %You interrupt the chant in order to start a new chant.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:420/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You interrupt the [0m[32mchant in order to start a new chant.[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             420/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           689/1204  669/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:13:59] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[1;37mKyo [0;53m(fall+):[1;37m oikeastaan ois invite only race ja päästäsin vaan marduksen siihen ja [0m[1;37msit me kahteen pekkaan molestettas kaikki koulutytöt sieltä arealta \o/[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             420/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           689/1204  669/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:14:01] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest % s.[0m
+[32m*Sirdest %You cannot leave! You are stuck in the web![0m
+[32m*Sirdest %The web blocks your way, but you try to force yourself through it.[0m
+[32m*Sirdest %You fail to rip the web![0m
+[32m*Sirdest %Hp:420/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest % s.[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:420/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully parry Cilwand's attack.[0m
+[32m*Sirdest %Cilwand stomp-kicks you painfully just above the knee.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand tries to dodge your hit, but you are not fooled that easily![0m
+[32m*Sirdest %You tear Cilwand causing skin to freeze.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %hp: 374-46 (1193) sp: 682 (792) ep: 529 (529).[0m
+[32m*Sirdest %Cilwand starts concentrating on a new offensive spell.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:420/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You miss Cilwand.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             374/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           648/1204  669/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:14:03] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully dodge Cilwand's attack.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Blood drips from Lightsaber after viciously cutting into Cilwand.[0m
+[32m*Sirdest %You incise Cilwand causing minor frostbite.[0m
+[32m*Sirdest %You incise Cilwand inducing a minor electrocution.[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:374/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You incise Cilwand [0m[32mcausing minor frostbite.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             374/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           529/1204  669/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:14:05] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32mFarliss mews 'rähähä.'[0m
+[32m*Sirdest %Cilwand intones in a strong voice 'hraugh' [57m(Word of blasting)[32m.[0m
+[32m*Sirdest %A glowing yellow mystical symbol appears in the air before you![0m
+[32m*Sirdest %A word of blasting hits you.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %You successfully dodge Cilwand's attack.[0m
+[32m*Sirdest %Cilwand punctures you causing blood to freeze.[0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %You are about to DIE![0m
+[32m*Sirdest %Cilwand successfully dodges your futile slash.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %hp: 152-222 (1193) sp: 682 (792) ep: 529 (529).[0m
+[1;37mAndthi [0;52m[party]:[1;37m Got hit by a word of blasting![0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:152/1193 Sp:682/792 Ep:529/529 Exp:7465 >%*Sirdest %You successfully [0m[32mdodge Cilwand's attack.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             152/1193  682/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           529/1204  554/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:14:08] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %Cilwand leaves south.[0m
+[32m*Sirdest %Cast tiger claw at what?[0m
+[32m*Sirdest %hp: 152 (1193) sp: 669-13 (792) ep: 529 (529).[0m
+[32m*Sirdest %Spider Queen smiles upon you and helps you control the demon.[0m
+[32m*Sirdest % s.[0m
+[32mCealdyn says 'haha kynti.'[0m
+[32m*Sirdest %You cannot leave! You are stuck in the web![0m
+[32m*Sirdest %The web blocks your way, but you try to force yourself through it.[0m
+[32m*Sirdest %You fail to rip the web![0m
+[32m*Sirdest %Hp:152/1193 Sp:649/792 Ep:529/529 Exp:7465 >%%Cilwand arrives from east.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand punches you cracking the sternum.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your body is almost FROZEN solid![0m
+[32m*Sirdest %You successfully dodge Cilwand's pierce.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %You incise Cilwand causing a nasty laceration.[0m
+[32m*Sirdest %hp: 117-35 (1193) sp: 649-20 (792) ep: 529 (529).[0m
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:152/1193 Sp:649/792 Ep:529/529 Exp:7465 >%%Cilwand starts concentrating [0m[32mon a new offensive spell.[0m
+[32m*Sirdest %You are not in a party.[0m
+la arena
+[32m*Sirdest %Hp:152/1193 Sp:649/792 Ep:529/529 Exp:7465 >%*Sirdest %You wish your wounds [0m[32mwould stop BLEEDING so much![0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen             117/1193  649/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           498/1204  576/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:14:11] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully dodge Cilwand's attack.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand punctures you inducing serious frostbite.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your body is almost FROZEN solid![0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %You miss Cilwand.[0m
+[32m*Sirdest %hp: 93-24 (1193) sp: 649 (792) ep: 529 (529).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:93/1193 Sp:649/792 Ep:529/529 Exp:7465 >%*Sirdest %Cilwand punctures you [0m[32minducing serious frostbite.[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen              93/1193  649/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           498/1204  535/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:14:14] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32mZumbalo says 'OH JEAH raha tulee.'[0m
+[32m*Sirdest % sigh.[0m
+[32m*Sirdest %You sigh deeply.[0m
+[32m*Sirdest %Hp:93/1193 Sp:649/792 Ep:529/529 Exp:7465 >%*Sirdest % sigh.[0m
+[32m*Sirdest %Cilwand[1;53m is not in a good shape. [0m(35-50% hps)
+[32m*Sirdest %Hp:93/1193 Sp:649/792 Ep:529/529 Exp:7465 >%*Sirdest %Cilwand[1;53m is not in a [0m[1;53mgood shape. [0m(35-50% hps)
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %You shred air with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.[0m
+[32m*Sirdest %As Cilwand drops to his knees you leap in for the kill![0m
+[32m*Sirdest %hp: 93 (1193) sp: 542-107 (792) ep: 529 (529).[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %You successfully parry Cilwand's attack.[0m
+[32m*Sirdest %...AND counterattack with ferocity.[0m
+[32m*Sirdest %Cilwand punches you crushing the ribcage and making a lung collapse.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your body is almost FROZEN solid![0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %You incise Cilwand forcing a limb to be engulfed with flames.[0m
+[32m*Sirdest %You incise Cilwand causing brain tissue to get shocked.[0m
+[32m*Sirdest %hp: 59-34 (1193) sp: 542 (792) ep: 529 (529).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:59/1193 Sp:542/792 Ep:529/529 Exp:7465 >%*Sirdest %You wish your wounds [0m[32mwould stop BLEEDING so much![0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen              59/1193  542/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           274/1204  535/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:14:16] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %You start chanting.[0m
+[32m*Sirdest %Hp:59/1193 Sp:542/792 Ep:529/529 Exp:7465 >%*Sirdest %You start chanting.[0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Cilwand stomp-kicks you tearing the ribcage open and pulling out a still [0m[32mbeating heart.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your body is almost FROZEN solid![0m
+[32m*Sirdest %You massage your wounds and forget your spell.[0m
+[32m*Sirdest %You[51m lose your concentration [32mand cannot cast the spell.[0m
+la arena
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand misses you.[0m
+[32m*Sirdest %Cilwand successfully dodges your futile slash.[0m
+[32m*Sirdest %Cilwand successfully dodges your futile slash.[0m
+[32m*Sirdest %hp: 18-41 (1193) sp: 542 (792) ep: 529 (529).[0m
+[32m*Sirdest %You are not in a party.[0m
+[32m*Sirdest %Hp:18/1193 Sp:542/792 Ep:529/529 Exp:7465 >%*Sirdest %You[51m lose your [0m[51mconcentration [32mand cannot cast the spell.[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Jacen              18/1193  542/792  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           274/1204  535/953  |                                      |
+`-----------------------------------------------------------------------------'
+[21:14:19] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %Kerzebel tells you 'ffs i lose my moneys cause you!'.[0m
+[32m*Sirdest %You start chanting.[0m
+Rankku arrives from down.
+[32m*Sirdest %Hp:18/1193 Sp:542/792 Ep:529/529 Exp:7465 >%*Sirdest %You start chanting.[0m
+la arena
+The arena master shouts 'Jacen of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Cilwand'
+[32m*Sirdest %You writhe in pain as you feel POISON in your veins![0m
+There is no fight going on.
+[21:14:22] hp 1015/1015  sp 722/722  ep 400/400  xp 125627  $ 8640/10612  wimpy off
+
+[32m*Sirdest %You are no longer stunned.[0m
+[32m*Sirdest %You fall [51munconscious[32m from the pain.[0m
+[32m*Sirdest %hp: -46-64 (1193) sp: 542 (792) ep: 529 (529).[0m
+[32m*Sirdest %Cilwand intones in a strong voice 'hraugh' [57m(Word of blasting)[32m.[0m
+[1;37mAndthi [0;52m[party]:[1;37m Came out of Stun![0m
+[32m*Sirdest %A glowing yellow mystical symbol appears in the air before you![0m
+[32m*Sirdest %A word of blasting hits you.[0m
+[32m*Sirdest %That really HURT![0m
+[32m*Sirdest %You scream in pain under extreme magical pressure, you think you are DYING![0m
+[1;37mAndthi [0;52m[party]:[1;37m Got hit by a word of blasting![0m
+[32m*Sirdest %*****************************************************.[0m
+[32m*Sirdest %Cilwand punches you tearing the ribcage open and pulling out a still [0m[32mbeating heart.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your body is almost FROZEN solid![0m
+[32m*Sirdest %Cilwand spin-kicks you tearing the ribcage open and pulling out a still [0m[32mbeating heart.[0m
+[32m*Sirdest %You wish your wounds would stop BLEEDING so much![0m
+[32m*Sirdest %Your body is almost FROZEN solid![0m
+[32m*Sirdest %You die![0m
+[32m*Sirdest %Jacen dies and is carried away by two clerics.[0m
+[32mZumbalo says 'gnoll powah.'[0m
+[32m*Sirdest %The arena master shouts 'Jacen of team 2 dies and is removed from the [0m[32marena!'.[0m
+[32m*Sirdest %The healing room (e).[0m
+[32m*Sirdest %The arena master shouts 'Fight is over! Winner is team 1 which consists of [0m[32mCilwand'.[0m

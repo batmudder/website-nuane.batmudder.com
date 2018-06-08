@@ -1,0 +1,1361 @@
+Sirdar booms 'Comaaaaaxxx.'
+Sirdar booms 'versus.'
+Sirdar exclaims 'moooooooorrglum!'
+
+
+Comax Elventree is a level 90 mortal of the Ogre race.
+She was created Sat Nov 07 19:55:10 1998 and she is 277d, 8h, 11min and 57s old.
+She has been on for 29min and 5s, idle 2s.
+She has killed: Rechendak, the Elementalist, Lord of.., 1143097 exp (party of 9)
+Web page: http://draco.rotol.ramk.fi/~villeh
+Plan:
+>Crimson, 1.3khps, some physsress
+>Barbarian, decent hitting
+>
+>Ask for eq/exp/explore/cash/nuntasks!
+>Still need kills from zyll,alexandra,eidilon,trilloch,nightmare and monolith.
+
+
+Morglum is a level 87 elder of the Gargoyle race.
+She was created Thu Aug 14 15:43:45 1997 and she is 1y, 143d, 10h, 22min and 27s old.
+She has been on for 6h, 48min and 15s, idle 8s.
+She has killed: Crawen, true cruelty incarnated, 52734 exp
+                Extremely large dark skinned woman, 152790 exp (party of 6)
+Web page: Gladiator of [camelot+]
+Plan:
+>"ollaan vaan kavereita"-viestiä odotellessa.
+>To be a faithful disciple of Burglefloogah.
+>
+
+
+The arena master shouts 'Team 1 consists of Comax'
+The arena master shouts 'Team 2 consists of Morglum'
+The arena master shouts 'All teams ready! Let the fight begin!'
+Info: Isocaro enters the game.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1374/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum          1152/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1306/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum          1082/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Kyynel [bat]: can archwizards use suicide command ? :)
+Spinoza grunts 'no eihan sua oiken muuten nay:).'
+*Sammaster ticks 48 sps[ms].
+Edgargnoon [newbie]: what will the monsters look like on the map??
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1306/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum          1082/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Stargazer [newbie]: no tp's no clones...
+Info: Bluefox goes link dead.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1306/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum          1082/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Khamon leaves down.
+Info: Shaermon goes link dead.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1306/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum          1077/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Aelius arrives from down.
+Info: Rhadamanth goes link dead.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1306/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum          1077/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Gront <bat>: I don't know
+Delpers roars 'sulla pitas olla slaveja hoitaa toi.'
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1204/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum          1055/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Aelius leaves west.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1204/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum          1055/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Gront <bat>: I hope not
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1151/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           993/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1151/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           993/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Nagash [bat]: hui
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            1043/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           966/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             992/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           900/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             992/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           900/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Aldarion [wanted]: party for tank
+Thematic [newbie]: Which map?
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             992/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           898/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Khamon arrives from down.
+Pahvi takes a deep breath and opens his eyes.
+Sirdar booms 'niinku knights talessa pitas keksii juonnot joka jannul :).'
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             992/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           898/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi says 'ketä.'
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             959/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           850/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Juggelo says 'morglum.'
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             959/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           850/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Capula [wanted]: dmp
+Pahvi | party report
+Pahvi |You are not in a party.
+Pahvi |Capula [wanted]: dmp
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             864/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           806/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Info: Merioli dies.
+Sirdar booms 'comax, morglum.'
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             895/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           771/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |hp: 806-44 (1152) sp: 20 (20) ep: 283 (401)
+Pahvi |Comax arrives from west.
+Pahvi |*****************************************************
+Pahvi |Comax strokes you producing large scratches.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax misses you.
+Delpers is looking quite miserable, poor kittie.
+Belanthor reports: Hp: 1313 (1313) Sp: 45 (45) Ep: 412 (412).
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You miss Comax.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Pahvi |You miss Comax.
+Pahvi |You miss Comax.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             895/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           771/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | party report
+Pahvi |You are not in a party.
+Pahvi |Comax leaves west.
+Belanthor looks at you.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             895/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           799/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |hp: 799-7 (1152) sp: 20 (20) ep: 287+4 (401)
+Pahvi | z
+Pahvi |You start concentrating on the skill.
+Ghost of Merioli [ghost]: hihi :)
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             895/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           799/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Ghost of Merioli [ghost]: hihi :)
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             895/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           799/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax arrives from west.
+Pahvi |*****************************************************
+Pahvi |You successfully parry Comax's bash.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax misses you.
+Belanthor reports: Hp: 1313 (1313) Sp: 45 (45) Ep: 412 (412).
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Violetfire [ghost]: accept raise or ress =)
+Pahvi |Comax successfully dodges your futile slash.
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             866/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           758/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax successfully parries your slash.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Pahvi |You miss Comax.
+Pahvi | party report
+Glacius arrives from down.
+Pahvi |You are not in a party.
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             866/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           758/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax starts concentrating on a new offensive skill.
+[ghost]: Ghost of Merioli hugs Gotrek.
+Pahvi |Violetfire [ghost]: accept raise or ress =)
+Theoden [sales]: 5 slot chest mb 130k
+Pahvi |*****************************************************
+Info: Susette goes link dead.
+Pahvi |Comax strokes you inducing a minor poison burn.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You successfully parry Comax's bash.
+Belanthor reports: Hp: 1313 (1313) Sp: 45 (45) Ep: 412 (412).
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax successfully parries your slash.
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             807/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           683/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax successfully dodges your futile slash.
+Pahvi |You puncture Comax causing a small scratch.
+Pahvi |hp: 758-41 (1152) sp: 20 (20) ep: 287 (401)
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             660/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           628/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | x
+Pahvi | @@scan all
+Pahvi |Comax is noticeably hurt.
+Pahvi | @@cast info
+Pahvi |You are using 'slash' at 'comax'.
+Pahvi | party report
+Pahvi |You are not in a party.
+       
+ ####  
+ #21#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             660/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           628/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |[ghost]: Ghost of Merioli hugs Gotrek.
+Pahvi | x
+Pahvi |Theoden [sales]: 5 slot chest mb 130k
+Edgargnoon [newbie]: when you look while not inside
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             660/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           628/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | @@scan all
+Pahvi |Comax is noticeably hurt.
+Pahvi |*****************************************************
+Pahvi |Comax strokes you causing a small wound.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You howls in agony as the evil mace crushes bones!
+Belanthor reports: Hp: 1313 (1313) Sp: 45 (45) Ep: 412 (412).
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax strokes you producing large scratches.
+Info: Bela recovers from link death.
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             660/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           628/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You incise Comax causing a small wound.
+Pahvi |You miss Comax.
+Pahvi |You miss Comax.
+Pahvi |hp: 683-75 (1152) sp: 20 (20) ep: 287 (401)
+Bela [twilight+]: terska
+       
+ ####  
+ #2.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             620/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           602/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | @@cast info
+Pahvi |You are using 'slash' at 'comax'.
+Pahvi | party report
+Pahvi |You are not in a party.
+Pahvi | x
+Pahvi | @@scan all
+Sirdar booms 'tasaista.'
+       
+ ####  
+ #2.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             620/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           602/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax is noticeably hurt.
+Pahvi |*****************************************************
+Pahvi |Comax thrusts you causing a nasty laceration.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You successfully dodge Comax's bash.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax successfully dodges your futile slash.
+       
+ ####  
+ #2.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             544/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           576/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You miss Comax.
+Pahvi |Comax successfully parries your pierce.
+Pahvi |You bash your foe in berserk rage!!
+Pahvi |hp: 628-55 (1152) sp: 20 (20) ep: 287 (401)
+Dakir arrives from down.
+Pahvi |You are prepared to do the skill.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             291/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           530/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You begin your slash, but see a new opportunity and smash your foe with the haft of your weapon!
+Pahvi | @@cast info
+Pahvi |You are not doing anything at the moment.
+Pahvi | party report
+Pahvi |You are not in a party.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             291/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           530/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | w
+Pahvi |Arena grounds (e,s,se).
+Pahvi |Rauskis [camelot+]: ilpo ei alottanu full hpl?
+Pahvi |hp: 628 (1152) sp: 20 (20) ep: 255-32 (401)
+Pahvi |Comax arrives from east.
+Pahvi |*****************************************************
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             323/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           530/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax misses you.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax misses you.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax successfully dodges your futile slash.
+       
+ ####  
+ #.2#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             323/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           530/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You miss Comax.
+Pahvi |You miss Comax.
+Pahvi | e;w
+Pahvi |Comax starts concentrating on a new offensive skill.
+Pahvi | @@east
+Pahvi |Arena grounds (w,sw,s).
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             174/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Zipob arrives from down.
+Pahvi | @@west
+Pahvi |Arena grounds (e,s,se).
+Pahvi |Comax Elventree the Ogre offender! in [HUM] mode. <team 1>
+Pahvi | party report
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             174/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You are not in a party.
+Pahvi |*****************************************************
+Thematic [newbie]: You don't see them like that, except in some cities.
+Pahvi |You successfully parry Comax's bash.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |...AND counterattack with ferocity.
+Silea [newbie]: well, batcity map is different from outerworld map.
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax thumps you producing large scratches.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Pahvi |You miss Comax.
+Pahvi |Comax successfully parries your slash.
+Pahvi |You puncture Comax producing large scratches.
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | x
+Pahvi |Comax leaves east.
+Pahvi | @@scan all
+Pahvi |You are not in combat right now.
+       
+ ####  
+ #21#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax arrives from east.
+Pahvi | @@cast info
+Pahvi |You are not doing anything at the moment.
+Pahvi |Alder {camelot+}: oot tasoissa
+Pahvi | party report
+Pahvi |You are not in a party.
+Pahvi |Comax starts concentrating on a new offensive skill.
+       
+ ####  
+ #21#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | z
+Pahvi |You start concentrating on the skill.
+Pahvi |hp: 602-26 (1152) sp: 20 (20) ep: 255 (401)
+Pahvi |*****************************************************
+Info: Adgii goes link dead.
+Pahvi |Comax successfully parries your slash.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You incise Comax making skin fall off from cold.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You miss Comax.
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax strokes you causing a small wound.
+Pahvi |Your armours absorb some of the damage.
+Pahvi |You successfully dodge Comax's bash.
+Pahvi | x
+Pahvi | @@scan all
+       
+ ####  
+ #.2#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax is not in a good shape.
+Pahvi | @@cast info
+Pahvi |You are using 'slash' at 'comax'.
+Pahvi | party report
+Pahvi |You are not in a party.
+Pahvi |Torso Maker is ready to cut meat!!
+Pahvi |hp: 576-26 (1152) sp: 20 (20) ep: 255 (401)
+Pahvi |You are prepared to do the skill.
+Pahvi |You use all your strength, and POUND a mighty blow to foe's exposed chest!
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |...And you turn suddenly and STRIKE again.
+Pahvi |*****************************************************
+Pahvi |You miss Comax.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You incise Comax causing a kidney to rupture.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax successfully dodges your futile pierce.
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax thrusts you causing a nasty laceration.
+Pahvi |You successfully parry Comax's bash.
+Pahvi |...AND counterattack with ferocity.
+Pahvi | e
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Arena grounds (w,sw,s).
+Pahvi | party report
+Sirdar cheers enthusiastically.
+Pahvi |You are not in a party.
+Pahvi | z
+Pahvi |You start concentrating on the skill.
+Pahvi |hp: 530-46 (1152) sp: 20 (20) ep: 227-28 (401)
+Pahvi |Bleezuz (camelot+): !
+Pahvi | w;e
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | @@west
+Pahvi |Your movement prevents you from doing the skill.
+Pahvi |Arena grounds (e,s,se).
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | @@east
+Ibara kicks Sammaster hard in the knee.
+Pahvi |Arena grounds (w,sw,s).
+Pahvi |Comax arrives from south.
+Pahvi |*****************************************************
+Pahvi |Comax strokes you producing a major poison burn.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You howls in agony as the evil mace crushes bones!
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax thumps you causing third degree burns.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax successfully dodges your futile slash.
+Pahvi |Comax successfully dodges your futile slash.
+       
+ ####  
+ #..#  
+ #21#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             144/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           465/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You puncture Comax inducing a nasty lesion.
+Pahvi | party report
+       
+ ####  
+ #.2#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax              49/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           432/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You are not in a party.
+Pahvi |*****************************************************
+Bela [twilight+]: plz maksaaajaajoku etta ma paasen pois taalta kotiiiiiiiiiiiiin
+Sirdar exclaims 'crittaa nyt comaxi perkele!'
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax              49/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           432/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You successfully parry Comax's bash.
+Silea [newbie]: in outerworld or areas, you can't see monsies unless you'r ein the room (or have that uber-peer thing)
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax misses you.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You miss Comax.
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax              49/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           432/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax tries to dodge your hit, but you are not fooled that easily!
+Pahvi |You shred Comax causing an eye socket to freeze.
+Pahvi |You puncture Comax slicing open a gaping wound.
+Pahvi |Torso Maker is ready to cut meat!!
+Info: Nagap goes link dead.
+Pahvi |hp: 465-65 (1152) sp: 20 (20) ep: 227 (401)
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax             -97/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           398/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax starts concentrating on a new offensive skill.
+Pahvi | party report
+Pahvi |You are not in a party.
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            -248/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           398/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | z
+Pahvi |You start concentrating on the skill.
+Pahvi | x
+Pahvi | @@scan all
+Pahvi |Comax is in very bad shape.
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            -248/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           398/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | @@cast info
+Pahvi |You are using 'slash' at 'comax'.
+Pahvi |*****************************************************
+Pahvi |You successfully dodge Comax's bash.
+Akvavitix yells hysterically 'No! No! Nooooo!'.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You successfully dodge Comax's bash.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You miss Comax.
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Comax            -404/1374   32/32   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morglum           398/1152   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You miss Comax.
+Bleezuz wails 'noin.'
+Pahvi |You puncture Comax slicing open a gaping wound.
+Dagel asks 'vielä jotain?'
+Sirdar cheers enthusiastically.
+Pahvi |You bash your foe in berserk rage!!
+Ziggy quacks 'stigut lailaa.'
+The arena master shouts 'Comax of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Morglum'
+There is no fight going on.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | w
+Capula [sales]: 7x bright green regen potions mb 21k
+Spinoza cheers enthusiastically.
+Pahvi |Your movement prevents you from doing the skill.
+Pahvi |Arena grounds (e,s,se).
+Pahvi | party report
+Ziggy quacks 'laulaa.'
+Sirdar booms 'vielä yks matsi.'
+Pahvi |You are not in a party.
+Pahvi | z
+Pahvi |You start concentrating on the skill.
+Pahvi | e;w
+Pahvi | @@east
+Kyynel [bat]: i think that some wiz had tried but he couldnt do that :) or atleast he had put it in his plan
+Pahvi |Your movement prevents you from doing the skill.
+Pahvi |Arena grounds (w,sw,s).
+Pahvi | @@west
+Pahvi |Arena grounds (e,s,se).
+Pahvi | s;n
+Pahvi | @@south
+Pahvi |Arena grounds (n,ne,e).
+Pahvi | @@north
+Pahvi |Arena grounds (e,s,se).
+Pahvi | l
+Pahvi |              All around is a dense fog. You can see maybe
+Zz [newbie]: Hello Hohn!
+Pahvi |Obvious exits are: e, s and se.
+Pahvi | se;nw
+Pahvi | @@southeast
+Pahvi |Arena grounds (nw,n,w).
+Pahvi | @@northwest
+Pahvi |Arena grounds (e,s,se).
+Pahvi | s;e
+Pahvi | @@south
+Jure [newbie]: wich is the besst race for ranger?
+Pahvi |Arena grounds (n,ne,e).
+Pahvi |Rauskis tells you 'aiti oon telkkarissa'
+Pahvi | @@east
+Pahvi |Arena grounds (nw,n,w).
+Pahvi |Comax Elventree the Ogre offender! in [HUM] mode. <team 1>
+Pahvi |*****************************************************
+Pahvi |You miss Comax.
+Pahvi |You incise Comax causing brain tissue to explode from the cold.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Aelius arrives from west.
+Pahvi |Comax tries to dodge your hit, but you are not fooled that easily!
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Aelius leaves down.
+Pahvi |You puncture Comax smashing rib bones into a lung.
+Sirdar booms '21:25 Morglum vs Kiraffi.'
+Pahvi |Comax strokes you producing a major poison burn.
+Pahvi |Comax misses you.
+Pahvi |Alder {camelot+}: voitit
+Pahvi | n
+Pahvi |Arena grounds (w,sw,s).
+Pahvi |hp: 432-33 (1152) sp: 20 (20) ep: 227 (401)
+Pahvi | w
+Pahvi |Arena grounds (e,s,se).
+Pahvi | party report
+Akvavitix twiddles her thumbs.
+Pahvi |You are not in a party.
+Pahvi | l
+Pahvi |              All around is a dense fog. You can see maybe
+Pahvi |Obvious exits are: e, s and se.
+Info: Coyolxauhqui recovers from link death.
+Pahvi |Comax arrives from south.
+Pahvi |*****************************************************
+Pahvi |You successfully parry Comax's bash.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |...AND counterattack with ferocity.
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax strokes you making skin scorch.
+Pahvi |Comax tries to dodge your hit, but you are not fooled that easily!
+Sirdar booms 'viimenen matsi illalle.'
+Pahvi |You tear Comax inducing a shock to the heart.
+Pahvi |Comax lapses into unconsciousness from severe loss of blood.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Pahvi |You tear Comax causing heart tissue to fly everywhere.
+Pahvi |You puncture Comax causing heart tissue to fly everywhere.
+Ziggy [party]: eep ..dd someone !
+Pahvi | party report
+Pahvi |You are not in a party.
+Pahvi | e
+Pahvi |Arena grounds (w,sw,s).
+Pahvi |hp: 398-34 (1152) sp: 20 (20) ep: 227 (401)
+Pahvi | w
+Pahvi |Arena grounds (e,s,se).
+Pahvi |Comax is unconscious and needs immediate medical care <team 1>
+Pahvi |*****************************************************
+Pahvi |You incise Comax inducing a shock to the heart.
+Pahvi |You incise Comax inducing the heart to totally freeze.
+Pahvi |You puncture Comax causing heart tissue to fly everywhere.
+Pahvi | party report
+Pahvi |You are not in a party.
+Pahvi |Blood pours from Comax's wounds.
+Info: Balendar recovers from link death.
+Pahvi |Torso Maker is ready to cut meat!!
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |*****************************************************
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You tear Comax causing heart tissue to fly everywhere.
+Pahvi |You incise Comax causing heart tissue to fly everywhere.
+Pahvi |You puncture Comax causing heart tissue to fly everywhere.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi | wave comax
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |You wave Comax goodbye.
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Pahvi | party report
+Pahvi |You are not in a party.
+Pahvi |Blood pours from Comax's wounds.
+Pahvi |You bash your foe in berserk rage!!
+Pahvi |*****************************************************
+Pahvi |You incise Comax causing heart tissue to fly everywhere.
+Pahvi |Comax stops existing in this reality.
+Pahvi |Comax dies and is carried away by two clerics.
+You are not in combat right now.
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |The arena master shouts 'Comax of team 1 dies and is removed from the arena!'
+Nuane reports: Hp: 1208 (1159) Sp: 20 (20) Ep: 382 (382).
+hp 1208/1159 | sp 20/20 | ep 382/382 | exp 116402 | cash 13030/100045
+
+Pahvi |Comax leaves away.
+Pahvi |The arena master shouts 'Fight is over! Winner is team 2 which consists of Morglum'
+Pahvi |Entrance to the waitingrooms (u).
+Pahvi |Capula [sales]: 7x bright green regen potions mb 21k
+Pahvi | party report
+Sammaster quacks 'Hp: 299 (299) Sp: 976 (976) Ep: 248 (248).'
+Pahvi |You are not in a party.
+Pahvi |@Bleezuz claps at you.
+Alder says 'vähän toi lagaa.'
+Pahvi |hp: 428+30 (1152) sp: 20 (20) ep: 231+4 (401)
+Pahvi |Kyynel [bat]: i think that some wiz had tried but he couldnt do that :) or
+Pahvi | r comax
+Pahvi |You tell Comax 'Hp: 428 (1152) Sp: 20 (20) Ep: 231 (401)'
+Belanthor [party]: yks matsi kuulemma viel
+Pahvi | l
+Pahvi |This is a small chamber down in the arena-building, where the magical arena of
+Pahvi |Team 1 door (open) leads team1.
+Pahvi |Comax tells you ':)'
+Pahvi | u
+Pahvi |Arena's entrance hall (u,d,w,e).
+Pahvi |Young lad with a cart full of goodies
+Pahvi |Aelius arrives from up.
+Pahvi |Aelius leaves east.
+Pahvi | e
+Pahvi |Branch alley, outside the Arena (n,s,w).
+Pahvi |One silver coin, one copper coin, one zinc coin, 2 mowgles
+Pahvi |Aelius the blond Minotaur DARKANGEL !!! < wormish >
+Pahvi |*****************************************************
+Pahvi |You miss Aelius.
+Pahvi |You incise Aelius causing skin to slightly freeze.
+Pahvi |You miss Aelius.
+Pahvi |You successfully dodge Aelius's slash.
+Pahvi |Aelius cuts you causing skin to quiver.
+Pahvi |You successfully parry Aelius's pierce.

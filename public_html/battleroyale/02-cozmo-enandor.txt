@@ -1,0 +1,114 @@
+The Battle Royale Continues:
+Cozmo and Enandor will fight to the death!
+Enandor: touch circlet
+Enandor: cast 'electrocution' cozmo
+Cozmo: claw enandor
+Cozmo: claw enandor
+Cozmo: dm enandor
+Cozmo: use dim mak at enandor
+Cozmo: target enandor
+Cozmo: eqset matsi
+Cozmo: look
+Cozmo: look
+Enandor: zap cozmo with wand
+Enandor: zap cozmo with wand 2
+Enandor: zap cozmo with zzzap2
+Enandor: cast 'electrocution'
+Enandor: Hp 99%
+Cozmo: Hp 53%
+Enandor: scan all
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Enandor: Hp 99%
+Cozmo: Hp 53%
+Enandor: look
+Cozmo: perkele
+Enandor: look
+Enandor: Hp 99%
+Cozmo: Hp 53%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Enandor: look
+Enandor: Hp 81%
+Cozmo: Hp 53%
+Enandor: Hp 81%
+Cozmo: Hp 53%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Enandor: look
+Enandor: south
+Cozmo: Hp 53%
+Cozmo: south
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Cozmo: Hp 53%
+Enandor: Hp 62%
+Enandor: east
+Enandor: east
+Cozmo: kill enandor
+Enandor: north
+Enandor: east
+Enandor: north
+Cozmo: Hp 53%
+Enandor: transmute
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Enandor: cast 'electrocution'
+Enandor: Hp 58%
+Cozmo: Hp 53%
+Cozmo: north
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Cozmo: kill enandor
+Cozmo: north
+Enandor: Hp 58%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Enandor: cast heal self
+Cozmo: south
+Enandor: Hp 58%
+Enandor: inventory
+Cozmo: east
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Cozmo: kill enandor
+Cozmo: Hp 54%
+Enandor: Hp 55%
+Enandor: cast 'electrocution'
+Cozmo: scan all
+Enandor: scan all
+Cozmo: Hp 54%
+Enandor: Hp 62%
+Enandor: scan all
+Cozmo: Hp 54%
+Enandor: Hp 62%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Cozmo: Hp 54%
+Enandor: Hp 33%
+Cozmo: scan all
+Dupre looks at sign.
+Cozmo: Hp 54%
+Enandor: Hp 27%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Cozmo: scan all
+Cozmo: Hp 54%
+Enandor: Hp 0%
+Cozmo: scan all
+Cozmo: Hp 54%
+Enandor: Hp -10%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Amd booms 'aijai... :).'
+?orc [fall+]: clawiha se
+Murrough licks her lips.
+Cozmo: Hp 54%
+Enandor: Hp -17%
+Solarhawk acks.
+Neth says 'feh.'
+Entor cheers enthusiastically.
+Cozmo: Hp 54%
+Enandor: Hp -22%
+Enandor died and thus loses this round!
+Cozmo has won this round of the Battle Royale!

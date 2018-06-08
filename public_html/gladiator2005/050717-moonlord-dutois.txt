@@ -1,0 +1,1232 @@
+The arena master shouts 'Team 1 consists of Moonlord'
+The arena master shouts 'Team 2 consists of Dutois'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%You close team 1 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Moonlord'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Dutois'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%>%%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne, e, s and se.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m.[1;36m2[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1088/1088  903/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1330/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:07] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+Kbk leaves east.
+[32mKerzebel grunts 'alko.'[0m
+[32mSirdest says '%Even though your muscles tire you rage in frenzy.'[0m
+[1;30mInfo: Sylph recovers from link death.[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%You say '%You start concentrating on the skill.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m.[1;36m2[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1088/1088  903/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1330/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:10] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+Dunlop leaves east.
+[32mSirdest says '% c.'[0m
+[32mSirdest says '%You concentrate on your surroundings:.'[0m
+[32mSirdest says '%%        +---+ +---+.'[0m
+[32mSirdest says '%        |   + +   +.'[0m
+[32mSirdest says '%        +-+-\ /-+-\.'[0m
+[32mSirdest says '%          |  /.'[0m
+[32mSirdest says '%        +-+-/ \-+-/.'[0m
+[32mSirdest says '%        | P +-+   +.'[0m
+[32mSirdest says '%        +-+-\ /-+-\.'[0m
+[32mSirdest says '%          |  \.'[0m
+[32mSirdest says '%        +-+-/ \-+-/.'[0m
+[32mSirdest says '%        |   + +   +.'[0m
+[32mSirdest says '%        +---+ +---+.'[0m
+[32mSirdest says '%%>%You say '% c.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m.[1;36m2[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1088/1088  903/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1330/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:11] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Lure: ##.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Someone dodges.'[0m
+[32mSirdest says '%Someone dodges.'[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1088/1088  903/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1330/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:13] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Someone smashes you.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%You thrust Someone.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%hp: 1316 (1330) [-14] sp: 13 (13) [] ep: 252 (414).'[0m
+[32mSirdest says '%Lure: #.'[0m
+la arena
+Ukkeli [1;30m[suomi]:[0m ottakaas joku parit pelit pokeria
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1034/1088  903/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1316/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:15] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSsmud quacks 'not 1x1 ?!'[0m
+Dunlop arrives from east.
+Argonath [32m[sales]:[0m start the fight already. i wanna know if would have win or lose.
+[32mSirdest says '%Dutois crosses his arms and opens them, throwing dark shurikens in [0m[32mall.'[0m
+[32mSirdest exclaims '%Dutois crosses his arms and opens them with a lightning fast move!'[0m
+[32mSirdest says '%Dutois's shurikens fly in all directions! Fortunately they miss you.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You jab Dutois.'[0m
+[32mSirdest says '%You tumble Dutois's dodge.'[0m
+[32mSirdest says '%You crater Dutois.'[0m
+[32mSirdest says '%Dutois stomp-kicks you.'[0m
+[32mSirdest says '%#$%&&&! Dutois tumbles your dodge.'[0m
+[32mSirdest says '%Dutois spin-kicks you.'[0m
+[32mSirdest says '%hp: 1217 (1330) [-99] sp: 13 (13) [] ep: 252 (414).'[0m
+[32mSirdest says '%You are prepared to do the skill.'[0m
+[32mSirdest says '%You expose yourself to Dutois.'[0m
+[32mSirdest says '%Dutois's hit barely nudges you.'[0m
+party report Lure successful: 1-2 round stun.
+[32mSirdest says '%You valiantly strike back at Dutois while he still is in a sensitive [0m[32mstate.'[0m
+[32mSirdest says '%hp: 1207 (1330) [-10] sp: 13 (13) [] ep: 216 (414).'[0m
+[32mSirdest says '%Channel party is now on.'[0m
+[1;37mNuane [1;30m(report):[1;37m Lure successful: 1-2 round stun.[0m
+[22:47:17] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Moonlord [52m{party}:[32m LURED.'[0m
+[32mSirdest says '%>%You say '%hp: 1217 (1330) [-99] sp: 13 (13) [] ep: 252 (414).'.'[0m
+[32mSirdest says '%>%You say '%hp: 1207 (1330) [-10] sp: 13 (13) [] ep: 216 (414).'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%Dutois is in a good shape.'[0m
+[32mSirdest says '%>%You say '%Channel party is now on.'.'[0m
+la arena
+Savok blows small rings of pot smoke into the room.
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            872/1088  806/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1207/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:18] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+la arena
+
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            872/1088  806/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1207/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:19] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSavok looks very happy.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You thrust Dutois.'[0m
+[32mSirdest says '%You make Dutois stagger helplessly in pain and confusion.'[0m
+[32mSirdest says '%You shaft Dutois.'[0m
+la arena
+[32mSirdest says '%Dutois misses.'[0m
+[32mSirdest says '%Pound: ###.'[0m
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            677/1088  806/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1207/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:20] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+'haha
+
+You echo 'haha.'
+[22:47:22] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mLarppa THYNS ':Dddddd.'[0m
+la arena
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Dutois dodges.'[0m
+[32mSirdest says '%You tumble Dutois's dodge.'[0m
+[32mSirdest says '%You bore Dutois.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%You dodge.'[0m
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            634/1088  806/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1207/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:23] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%hp: 1207 (1330) [] sp: 13 (13) [] ep: 213 (414).'[0m
+[32mSirdest says '%Pound: ##.'[0m
+[32mConquer smirks.[0m
+[32mKrokodiili booms 'snap.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            634/1088  806/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1207/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:25] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Pound: #.'[0m
+[32mSsmud rolls on the floor laughing.[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            634/1088  806/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1207/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:26] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% c.'[0m
+[32mSirdest says '%You concentrate on your surroundings:.'[0m
+[32mSirdest says '%%        +---+ +---+.'[0m
+[32mSirdest says '%        |   + +   +.'[0m
+[32mSirdest says '%        +-+-\ /-+-\.'[0m
+[32mSirdest says '%          |  /.'[0m
+[32mSirdest says '%        +-+-/ \-+-/.'[0m
+[32mSirdest says '%        | P +-+   +.'[0m
+[32mSirdest says '%        +-+-\ /-+-\.'[0m
+la arena
+[32mSirdest says '%          |  \.'[0m
+[32mSirdest says '%        +-+-/ \-+-/.'[0m
+[32mSirdest says '%        |   + +   +.'[0m
+[32mSirdest says '%        +---+ +---+.'[0m
+[32mSirdest says '%%>%You say '% c.'.'[0m
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            634/1088  806/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1207/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:28] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%>%You say '%Your movement prevents you from doing the skill.'.'[0m
+Argonath [1;30m[suomi]:[0m ?
+*Roc spreads its mighty wings.
+Ebliss [32m[sales]:[0m draw :)
+[32mSirdest says '% 0.'[0m
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%>%You say '% 0.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #.[1;36m1[0m.# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            692/1088  791/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1207/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:30] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, e, sw, s and se.'[0m
+[32mSirdest says '%>%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%You dodge.'[0m
+la arena
+[32mSirdest says '%Dutois smashes you.'[0m
+[32mSirdest says '%You tumble Dutois's dodge.'[0m
+[32mSirdest says '%You thrust Dutois.'[0m
+[32mSirdest says '%Dutois dodges.'[0m
+[32mSirdest says '%hp: 1187 (1330) [-20] sp: 13 (13) [] ep: 213 (414).'[0m
+       
+ ##### 
+ #[1;36m21[0m.# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            622/1088  791/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1187/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:31] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You concentrate on your surroundings:.'[0m
+[32mSirdest says '%%  +---+ +---+ +---+.'[0m
+[32mSirdest says '%  |   +-+ P +-+   |.'[0m
+[32mSirdest says '%  +-+-\ /-+-\ /-+-+.'[0m
+[32mSirdest says '%       /  |  \.'[0m
+[32mSirdest says '%  +-+-/ \-+-/ \-+-+.'[0m
+[32mSirdest says '%  | P + +   + +   |.'[0m
+[32mSirdest says '%  +-+-\ /-+-\ /-+-+.'[0m
+[32mSirdest says '%%>%You say '%You concentrate on your surroundings:.'.'[0m
+la arena
+       
+ ##### 
+ #.[1;36m1[0m.# 
+ #...# 
+ #.[1;36m2[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            622/1088  791/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1224/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:32] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% 0.'[0m
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%>%You say '% 0.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%>%You say '%Your movement prevents you from doing the skill.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m1[0m# 
+ #...# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            622/1088  791/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1224/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:33] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '%>%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            558/1088  791/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1187/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:35] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% ####     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Dutois Swift the Human [Death Bringer] <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Dutois dodges.'[0m
+[32mSirdest says '%You bore Dutois.'[0m
+[32mSirdest says '%Dutois stomp-kicks you.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%hp: 1187 (1330) [-37] sp: 13 (13) [] ep: 219 (414).'[0m
+[32mSirdest says '%>%You say '% ####     All around is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            558/1088  791/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1187/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:36] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% w.'[0m
+la arena
+[32mSirdest says '% #####    All around is a dense fog. You can see maybe.'[0m
+*Roc cocks its head to the side.
+[32mSirdest says '%Obvious exits are: nw, n, ne, w and e.'[0m
+[32mSirdest says '%>%You say '% w.'.'[0m
+       
+ ##### 
+ #...# 
+ #...# 
+ #.[1;36m12[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            613/1088  776/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1187/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:38] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%hp: 1187 (1330) [] sp: 13 (13) [] ep: 218 (414).'[0m
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%>%You say '%>%% @@use pound.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #.[1;36m12[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            613/1088  776/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1187/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:39] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You concentrate on your surroundings:.'[0m
+[32mSirdest says '%%  +-+-/ \-+-/ \-+-+.'[0m
+[32mSirdest says '%  |   + +   + +   |.'[0m
+[32mSirdest says '%  +-+-\ /-+-\ /-+-+.'[0m
+[32mSirdest says '%       \  |  /.'[0m
+[32mSirdest says '%  +-+-/ \-+-/ \-+-+.'[0m
+[32mSirdest says '%  |   +-+ P +-+ P |.'[0m
+[32mSirdest says '%  +---+ +---+ +---+.'[0m
+[32mSirdest says '%%>%You say '%You concentrate on your surroundings:.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #.[1;36m12[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            613/1088  776/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1187/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:40] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '% ####     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Dutois Swift the Human [Death Bringer] <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You thrust Dutois.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You become somewhat confused, losing your edge.'[0m
+[32mSirdest says '%...BUT you break it off.'[0m
+[32mSirdest says '%Dutois smashes you.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest says '%Dutois misses.'[0m
+la arena
+[32mSirdest says '%hp: 1176 (1330) [-11] sp: 13 (13) [] ep: 218 (414).'[0m
+[32mSirdest says '%>%%*****************************************************.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%#$%&&&! Dutois tumbles your dodge.'[0m
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            543/1088  776/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1120/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:42] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Dutois spin-kicks you.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%hp: 1120 (1330) [-56] sp: 13 (13) [] ep: 218 (414).'[0m
+[32mSirdest says '%>%You say '%Dutois Swift the Human [Death Bringer] <team 2>.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%You say '%*****************************************************.'.'[0m
+[32mSirdest says '%Dutois is not in a good shape.'[0m
+[32mSirdest says '%>%You say '%You thrust Dutois.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mKawasa quacks 'Hp: 497 (497) Sp: 1564 (1564) Ep: 259 (259).'[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '% #####    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w and e.'[0m
+[32mSirdest says '%>%You say '% w.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            543/1088  776/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1120/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:43] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You concentrate on your surroundings:.'[0m
+[32mSirdest says '%%  +-+-/ \-+-/ \-+-+.'[0m
+[32mSirdest says '%  |   + +   + +   |.'[0m
+[32mSirdest says '%  +-+-\ /-+-\ /-+-+.'[0m
+[32mSirdest says '%       \  |  /.'[0m
+[32mSirdest says '%  +-+-/ \-+-/ \-+-+.'[0m
+[32mSirdest says '%  |   +-+ P +-+   |.'[0m
+[32mSirdest says '%  +---+ +---+ +---+.'[0m
+[32mSirdest says '%%>%You say '%You concentrate on your surroundings:.'.'[0m
+Savok looks very relaxed as he smokes on his blunt.
+[32mSirdest says '% e.'[0m
+[32mSirdest says '% ####     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%>%You say '% e.'.'[0m
+la arena
+       
+ ##### 
+ #.[1;36m2[0m.# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            525/1088  776/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1120/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:44] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You concentrate on your surroundings:.'[0m
+[32mSirdest says '%%  \-+-/ \-+-+.'[0m
+[32mJacen howls 'tigers arent invincible.'[0m
+[32mSirdest says '%  +   + +   |.'[0m
+[32mSirdest says '%  /-+-\ /-+-+.'[0m
+[32mSirdest says '%       \  |.'[0m
+[32mSirdest says '%  \-+-/ \-+-+.'[0m
+[32mSirdest says '%  +   +-+ P |.'[0m
+[32mSirdest says '%  +---+ +---+.'[0m
+[32mSirdest says '%%>%You say '%You concentrate on your surroundings:.'.'[0m
+la arena
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+       
+ ##### 
+ #.[1;36m2[0m.# 
+ #..[1;36m1[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            525/1088  776/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord         1120/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:45] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%>%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%>%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+la arena
+[31mGreat lion shouts 'Morkil died like a DOG!'[0m
+[1;30mInfo: Morkil dies.[0m
+[32mSirdest says '%Great lion shouts 'Morkil died like a DOG!'.'[0m
+[32mSirdest says '% w.'[0m
+       
+ ##### 
+ #.[1;36m2[0m.# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            541/1088  787/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          978/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:47] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, e, sw, s and se.'[0m
+[32mSirdest says '%Dutois Swift the Human [Death Bringer] <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Dutois parries.'[0m
+[32mSirdest says '%You tumble Dutois's dodge.'[0m
+[32mSirdest says '%You bore Dutois.'[0m
+[32mSirdest says '%Dutois misses.'[0m
+[32mSirdest says '%#$%&&&! Dutois tumbles your dodge.'[0m
+[32mSirdest says '%Dutois smashes you.'[0m
+[32mSirdest says '%hp: 978 (1330) [-142] sp: 13 (13) [] ep: 218 (414).'[0m
+[32mSirdest says '%>%You say '%Great lion shouts 'Morkil died like a DOG!'.'.'[0m
+la arena
+       
+ ##### 
+ #.[1;36m2[0m.# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            541/1088  787/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          978/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:48] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%Dutois is not in a good shape.'[0m
+[32mSirdest says '%>%You say '%>%% @@use pound.'.'[0m
+la arena
+       
+ ##### 
+ #.[1;36m1[0m.# 
+ #...# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            541/1088  787/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          978/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:49] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+la arena
+
+[32mSirdest says '%Pound: ####.'[0m
+       
+ ##### 
+ #...# 
+ #.[1;36m1[0m.# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            541/1088  787/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          978/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:50] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%>%You say '%Pound: ####.'.'[0m
+Ukkeli [1;30m[suomi]:[0m se players vs players
+la arena
+       
+ ##### 
+ #...# 
+ #.[1;36m1[0m.# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            541/1088  787/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          978/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:51] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '%>%You say '% e.'.'[0m
+[32mSirdest says '% ####     All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+la arena
+[32mSirdest says '%Dutois Swift the Human [Death Bringer] <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You thrust Dutois.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Dutois stomp-kicks you.'[0m
+[32mSirdest says '%Dutois punches you.'[0m
+[32mSirdest says '%hp: 916 (1330) [-62] sp: 13 (13) [] ep: 218 (414).'[0m
+[32mSirdest says '%>%You say '% ####     All around is a dense fog. You can see maybe.'.'[0m
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m2[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            474/1088  787/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          916/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:52] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+*Lighthouse is sooo cool.
+[32mSirdest says '% w.'[0m
+[32mSirdest says '% #####    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w and e.'[0m
+[32mSirdest says '%>%You say '% w.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #.[1;36m12[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            474/1088  787/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          916/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:55] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% 0.'[0m
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%>%You say '% 0.'.'[0m
+[32mSavok giggles inanely.[0m
+[32mSirdest says '% ¨c.'[0m
+[32mSirdest exclaims '%Your keyboard melts to organic slush!'[0m
+[32mSirdest says '%>%You say '% ¨c.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            523/1088  772/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          916/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:58] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You concentrate on your surroundings:.'[0m
+[32mSirdest says '%%  +-+-/ \-+-/ \-+-+.'[0m
+[32mSirdest says '%  |   + +   + +   |.'[0m
+[32mSirdest says '%  +-+-\ /-+-\ /-+-+.'[0m
+[32mSirdest says '%       \  |  /.'[0m
+[32mSirdest says '%  +-+-/ \-+-/ \-+-+.'[0m
+[32mSirdest says '%  |   +-+ P +-+   |.'[0m
+[32mSirdest says '%  +---+ +---+ +---+.'[0m
+[32mSirdest says '%%>%You say '%You concentrate on your surroundings:.'.'[0m
+[32mSirdest says '%Pound: #####.'[0m
+Ghost of Evilild [31m[ghost]:[0m ress, please
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            523/1088  772/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          916/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:47:59] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%>%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '%>%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #..[1;36m1[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            579/1088  757/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          953/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:02] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Dutois Swift the Human [Death Bringer] <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You jab Dutois.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Dutois smashes you.'[0m
+[32mSirdest says '%Dutois spin-kicks you.'[0m
+[32mSirdest says '%hp: 875 (1330) [-78] sp: 13 (13) [] ep: 220 (414).'[0m
+[32mSirdest says '%>%You say '% n.'.'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            494/1088  757/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          875/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:03] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%Dutois is not in a good shape.'[0m
+[32mSirdest says '%>%You say '%>%% @@use pound.'.'[0m
+la arena
+       
+ ##### 
+ #[1;36m2[0m.[1;36m1[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            494/1088  757/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          875/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:04] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, e, sw, s and se.'[0m
+[32mSirdest says '%>%You say '% w.'.'[0m
+Argonath [1;30m[suomi]:[0m onko semmonenki?
+[32mSirdest says '% s.'[0m
+la arena
+Ukkeli [1;30m[suomi]:[0m perseaukiset
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+       
+ ##### 
+ #...# 
+ #.[1;36m1[0m.# 
+ #[1;36m2[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            494/1088  757/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          875/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:05] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%>%You say '% s.'.'[0m
+[32mSirdest says '% #####    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w and e.'[0m
+[32mSirdest says '%>%You say '% #####    All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%  ####    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Dutois Swift the Human [Death Bringer] <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Dutois parries.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%Dutois misses.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%>%You say '%>%You say '% #####    All around is a dense fog. You can [0m[32msee.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #[1;36m2[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            494/1088  757/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          875/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:07] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% 0.'[0m
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%Dutois is not in a good shape.'[0m
+[32mSirdest says '%>%%hp: 875 (1330) [] sp: 13 (13) [] ep: 215 (414).'[0m
+[32mSirdest says '%Pound: ###.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You thrust Dutois.'[0m
+[32mSirdest says '%Dutois dodges.'[0m
+[32mSirdest says '%Dutois pokes you.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest says '%Dutois misses.'[0m
+la arena
+[32mSirdest says '%hp: 724 (1330) [-151] sp: 13 (13) [] ep: 215 (414).'[0m
+       
+ ##### 
+ #...# 
+ #...# 
+ #[1;36m2[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            423/1088  757/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          724/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:08] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '% #####    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w and e.'[0m
+[32mSirdest says '%>%%*****************************************************.'[0m
+[32mSirdest says '%Dutois stomp-kicks you.'[0m
+[32mSirdest says '%Dutois misses.'[0m
+[32mSirdest says '%You thrust Dutois.'[0m
+[32mSirdest says '%You miss.'[0m
+[32mSirdest says '%hp: 690 (1330) [-34] sp: 13 (13) [] ep: 215 (414).'[0m
+la arena
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            362/1088  757/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          690/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:10] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%>%You say '%>%% @@use pound.'.'[0m
+la arena
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '% ####     All around is a dense fog. You can see maybe.'[0m
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            362/1088  757/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          690/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:11] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%>%You say '%Your movement prevents you from doing the skill.'.'[0m
+Luupy leaves down.
+[32mSirdest says '% 0.'[0m
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%>%You say '% 0.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '%>%You say '%Your movement prevents you from doing the skill.'.'[0m
+la arena
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Dutois Swift the Human [Death Bringer] <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tumble Dutois's dodge.'[0m
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            237/1088  757/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          642/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:12] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You thrust Dutois.'[0m
+[32mSirdest says '%You bore Dutois.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Dutois stomp-kicks you.'[0m
+[32mSirdest says '%hp: 642 (1330) [-48] sp: 13 (13) [] ep: 215 (414).'[0m
+[32mSirdest says '%>%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+la arena
+
+[32mSirdest says '%>%% @@use pound.'[0m
+       
+ ##### 
+ #..[1;36m2[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            138/1088  742/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          642/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:14] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%Dutois is in bad shape.'[0m
+[32mSirdest says '%>%%Dutois claps his hands and whispers 'judicandus mercuree' [57m(Cure [0m[57mlight wounds)[32m.'[0m
+[32mSirdest says '%>%%Dutois claps his hands and whispers 'judicandus mercuree' [57m(Cure [0m[57mlight wounds)[32m.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You jab Dutois.'[0m
+[32mSirdest says '%You bore Dutois.'[0m
+[32mSirdest says '%Dutois misses.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Pound: ####.'[0m
+la arena
+       
+ ##### 
+ #.[1;36m21[0m# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            138/1088  742/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          642/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:15] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, e, sw, s and se.'[0m
+[32mSirdest says '%>%You say '% w.'.'[0m
+[32mSirdest says '%>%% @@use pound.'[0m
+la arena
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%>%You say '%>%% @@use pound.'.'[0m
+       
+ ##### 
+ #.[1;36m1[0m.# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            138/1088  742/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          642/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:16] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%>%You say '% w.'.'[0m
+la arena
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+       
+ ##### 
+ #...# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois             -6/1088  711/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          642/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:18] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Obvious exits are: n, ne, e, s and se.'[0m
+[32mSirdest says '%Dutois Swift the Human [Death Bringer] <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tumble Dutois's dodge.'[0m
+[32mSirdest says '%You jab Dutois.'[0m
+[32mSirdest says '%You tumble Dutois's dodge.'[0m
+[32mSirdest says '%You bore Dutois.'[0m
+[32mSirdest says '%Dutois lapses into [51munconscious[32mness from severe loss of blood.'[0m
+[32mSirdest says '%>%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+[32mJacen howls 'dutois is toast.'[0m
+la arena
+[32mSirdest says '% 0.'[0m
+[32mSirdest says '%>%% @@use pound.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%>%% @@scan all.'[0m
+[32mSirdest says '%Dutois is near death.'[0m
+       
+ ##### 
+ #...# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois             -6/1088  711/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          642/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:19] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%>%You say '% 0.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You jab Dutois.'[0m
+[32mSirdest says '%You crater Dutois.'[0m
+[32mSirdest says '%Pound: ###.'[0m
+[32mSirdest says '%You exhaust yourself in your raging frenzy.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           -193/1088  711/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          642/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:21] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mMallarch howls 'haha.'[0m
+cheer
+[1;30mInfo: Caps enters the game.[0m
+You cheer enthusiastically.
+[22:48:21] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+la arena
+
+       
+ ##### 
+ #...# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           -193/1088  711/920  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Moonlord          642/1330   13/13   |                                      |
+`-----------------------------------------------------------------------------'
+[22:48:22] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%@Brog claps at you.'[0m
+[32mSirdest says '%You jab Dutois.'[0m
+[32mSirdest says '%You bore Dutois.'[0m
+[32mSirdest says '%hp: 642 (1330) [] sp: 13 (13) [] ep: 212 (414).'[0m
+[32mSirdest says '%Pound: ##.'[0m
+[32mDornier snaps his fingers.[0m
+The arena master shouts 'Dutois of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Moonlord'

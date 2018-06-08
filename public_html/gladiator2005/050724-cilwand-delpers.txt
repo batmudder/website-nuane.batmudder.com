@@ -1,0 +1,536 @@
+The arena master shouts 'Team 1 consists of Cilwand'
+The arena master shouts 'Team 2 consists of Delpers'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:480/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Cilwand'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Delpers'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e,s,se).'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne, e, s and se.'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers          1023/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1200/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:02:53] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%Black hole: ######.'[0m
+[32mSirdest says '% oops.'[0m
+[32mSirdest says '%You go 'Oops' and blush.'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile attack.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%You pierce Delpers causing a small scratch.'[0m
+[32mSirdest says '%Delpers is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers          1002/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1200/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:02:54] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e,sw,s,se).'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w,sw,s).'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest exclaims '%Delpers tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You spin-kick Delpers just below the chin.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Delpers successfully parries your pierce.'[0m
+[32mSirdest says '%Delpers is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+[32mSirdest says '%You start chanting.'[0m
+       
+ ##### 
+ #...# 
+ #..[1;36m1[0m# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           946/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1200/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:02:57] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Arena grounds (w,e,sw,s,se).'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Arena grounds (e,s,se).'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+       
+ ##### 
+ #[1;36m12[0m.# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           946/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1200/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:00] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%You stomp-kick Delpers in the thigh.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile attack.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Delpers is in a good shape.'[0m
+[32mSirdest says '%Hp:1200/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mLarppa THYNS 'voihan jyystö.'[0m
+la arena
+       
+ ##### 
+ #[1;36m1[0m..# 
+ #...# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           908/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1200/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:01] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%Spider web: ##.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Blood drips from candyking after viciously cutting into you.'[0m
+[32mSirdest says '%Delpers incises you making skin bubble and sizzle.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile attack.'[0m
+[32mSirdest exclaims '%Delpers tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You punch Delpers in the thigh.'[0m
+[32mSirdest says '%Delpers successfully parries your pierce.'[0m
+[32mSirdest says '%Hp: 1134 [-66] Sp: 953 [] Exp: 35627 [].'[0m
+[32mSirdest says '%Delpers is in a good shape.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+       
+ ##### 
+ #[1;36m2[0m..# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           873/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1134/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:03] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%Arena grounds (n,ne,e,s,se).'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e).'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '% cast word of blasting.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%Delpers successfully parries your attack.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile pierce.'[0m
+[32mSirdest says '%Delpers is in a good shape.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:953/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #[1;36m1[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           873/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1134/1200  953/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:05] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%Delpers starts concentrating on a new offensive spell.'[0m
+[32mSirdest says '%You speak the ancient Word of Blasting 'hraugh' [57m(Word of blasting)[32m.'[0m
+[32mSirdest says '%A glowing yellow mystical symbol appears in the air before Delpers.'[0m
+[32mSirdest says '%You watch with selfpride as your word of blasting hits Delpers.'[0m
+[32mSirdest says '%Hp: 1134 [] Sp: 847 [-106] Exp: 35627 [].'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%You punch Delpers in the thigh.'[0m
+la arena
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest exclaims '%Delpers tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You puncture Delpers producing large scratches.'[0m
+[32mSirdest says '%Delpers is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Delpers is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #[1;36m2[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           646/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1134/1200  847/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:08] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%Arena grounds (n,ne,e,s,se).'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e).'[0m
+[32mSirdest says '%Delpers the Gnoll Replica of me < BlackWinterDay > <team 2>.'[0m
+[32mSirdest says '%You recognize Delpers to be your equal in the pack, and nod your head [0m[32mat him.'[0m
+[32mSirdest says '%Delpers recognizes you to be his equal in the pack and nods at you.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Delpers is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+
+la arena
+       
+ ##### 
+ #[1;36m2[0m..# 
+ #...# 
+ #.[1;36m1[0m.# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           646/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1134/1200  847/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:11] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e,sw,s,se).'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Arena grounds (n,ne,e,s,se).'[0m
+[32mSirdest says '%Delpers the Gnoll Replica of me < BlackWinterDay > <team 2>.'[0m
+[32mSirdest says '%You recognize Delpers to be your equal in the pack, and nod your head [0m[32mat him.'[0m
+[32mSirdest says '%Delpers recognizes you to be his equal in the pack and nods at you.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You smash Delpers making small marks.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile attack.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile pierce.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+nuuh
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Delpers is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+You sniff and utter 'Nuuuuh..'.
+[22:03:12] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '% cast word of blasting.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #[1;36m2[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           631/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1134/1200  847/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:13] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSavok looks very lost and confused.[0m
+[32mSirdest says '%Word of blasting: #.'[0m
+[32m*Dheos is casting Sirdest says '%Word of blasting in 3 rounds.[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You try to dodge, but Delpers is not fooled.'[0m
+[32mSirdest says '%Delpers tears you making skin bubble and sizzle.'[0m
+[32mSirdest says '%It hurts so badly you get confused and stop your spell.'[0m
+[32mSirdest says '%You[51m lose your concentration [32mand cannot cast the spell.'[0m
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Grinning diabolically you smash Delpers in the solar-plexus.'[0m
+[32mSirdest exclaims '%Delpers tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You spin-kick Delpers in the ribcage area.'[0m
+[32mSirdest says '%You pierce Delpers causing a small wound.'[0m
+[32mSirdest says '%Hp: 1085 [-49] Sp: 847 [] Exp: 35627 [].'[0m
+[32mSirdest says '%Delpers is not in a good shape.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Delpers is not in a good shape.'[0m
+[32mSirdest says '%Hp:1134/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           388/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1085/1200  847/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:15] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Malacoda critted the puff![0m
+[32mSirdest says '% cast word of blasting.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1085/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mXunisiih falls down laughing.[0m
+[32mSirdest says '%Grinning diabolically you poke Delpers tearing the ribcage open and [0m[32mpulling out a still beating heart.'[0m
+[32mSirdest says '%Delpers successfully parries your pierce.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%Hp: 1078 [-7] Sp: 847 [] Exp: 35627 [].'[0m
+[32mSirdest says '%Delpers is in very bad shape.'[0m
+[32mSirdest says '%Hp:1078/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           178/1023  607/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1078/1200  847/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:18] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32m*Malacoda critted the puff![0m
+[32mSirdest says '% say heh.'[0m
+[32mSirdest says '%You say 'heh.'.'[0m
+[32mSirdest says '%Hp:1078/1200 Sp:847/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '%Hp: 1000 [-78] Sp: 847 [] Exp: 35627 [].'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%You try to dodge, but Delpers is not fooled.'[0m
+[32mSirdest says '%Delpers tears you causing skin to slightly freeze.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile attack.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Hp: 960 [-40] Sp: 847 [] Exp: 35627 [].'[0m
+[32mSirdest says '%Spider Queen smiles upon you and helps you control the demon.'[0m
+[32mSirdest says '%Cilwand [1;30m{report}:[0;32m Stun off.'[0m
+[1;37mDupre [0;52m(party):[1;37m noni[0m
+[32mSirdest says '%Hp:960/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Delpers is in very bad shape.'[0m
+[32mSirdest says '%Hp:960/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mEntor spams vigorously.[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           178/1023  504/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           960/1200  809/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:20] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%Delpers starts concentrating on a new offensive spell.'[0m
+Entor leaves west.
+[32mSirdest says '% cast word of blasting.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:960/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[1;37mMardus [0;52m<party>:[1;37m lolli[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e,sw,s,se).'[0m
+[32mSirdest says '%Hp:960/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:960/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '% w.'[0m
+la arena
+[32mSirdest says '%Arena grounds (n,ne,e,s,se).'[0m
+[32mSirdest says '%Delpers the Gnoll Replica of me < BlackWinterDay > <team 2>.'[0m
+[32mSirdest says '%You recognize Delpers to be your equal in the pack, and nod your head [0m[32mat him.'[0m
+[32mSirdest says '%Delpers recognizes you to be his equal in the pack and nods at you.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile attack.'[0m
+       
+ ##### 
+ #...# 
+ #[1;36m2[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           178/1023  504/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           898/1200  809/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:23] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%Delpers successfully dodges your futile pierce.'[0m
+[32mSirdest says '%You successfully dodge Delpers's slash.'[0m
+[32mSirdest says '%Delpers incises you causing a small wound.'[0m
+[32mSirdest says '%Hp: 898 [-62] Sp: 809 [] Exp: 35627 [].'[0m
+[32mSirdest says '%Hp:898/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Delpers is in very bad shape.'[0m
+[32mSirdest says '%Hp:898/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:898/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+Minni arrives from down.
+[32mSirdest says '%Delpers starts concentrating on a new offensive spell.'[0m
+Alva arrives from down.
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers           178/1023  504/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           898/1200  809/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:25] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '% cast word of blasting.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:898/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+Alva leaves down.
+[32mSirdest exclaims '%Delpers tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Smiling devilishly you smash Delpers tearing the ribcage open and [0m[32mpulling out a still beating heart.'[0m
+[32mSirdest says '%Delpers successfully parries your attack.'[0m
+[32mSirdest says '%You miss Delpers.'[0m
+[32mSirdest says '%You successfully parry Delpers's slash.'[0m
+[32mSirdest says '%Delpers misses you.'[0m
+[32mSirdest says '%Delpers is near death.'[0m
+[1;37mDupre [0;52m(party):[1;37m misk bettasitte ees delpersii![0m
+[32mSirdest says '%Hp:898/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers             5/1023  504/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           898/1200  809/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:27] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%You say 'smirk.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%Hp:898/1200 Sp:809/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%You speak the ancient Word of Blasting 'hraugh' [57m(Word of blasting)[32m.'[0m
+[32mSirdest says '%A glowing yellow mystical symbol appears in the air before Delpers.'[0m
+[32mSirdest says '%You watch with selfpride as your word of blasting hits Delpers.'[0m
+[32mSirdest says '%Delpers lapses into [51munconscious[32mness from severe loss of blood.'[0m
+[32mSirdest says '%Hp: 898 [] Sp: 703 [-106] Exp: 35627 [].'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You punch Delpers tearing the ribcage open and pulling out a still [0m[32mbeating heart.'[0m
+[32mSirdest says '%You punch Delpers tearing the ribcage open and pulling out a still [0m[32mbeating heart.'[0m
+[32mSirdest says '%You puncture Delpers causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%Delpers is near death.'[0m
+[32mSirdest says '%Hp:898/1200 Sp:703/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%You don't know that skill.'[0m
+[32mSirdest says '%Hp:898/1200 Sp:703/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest exclaims '%Cilwand [1;30m{report}:[0;32m Kickstarting Delpers!'[0m
+[32mSirdest says '%Hp:898/1200 Sp:703/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+[32mSirdest says '%Delpers is near death.'[0m
+[32mSirdest says '%Hp:898/1200 Sp:703/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #[1;36m1[0m..# 
+ #...# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Delpers          -241/1023  504/717  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand           898/1200  703/953  |                                      |
+`-----------------------------------------------------------------------------'
+[22:03:30] hp 1015/1015  sp 713/713  ep 400/400  xp 6115  $ 3000/10964  wimpy off
+
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:898/1200 Sp:703/953 Ep:482/482 W:off Exp:35627 $:1350/63145.'[0m
+The arena master shouts 'Delpers of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Cilwand'

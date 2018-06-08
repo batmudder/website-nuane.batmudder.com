@@ -1,0 +1,140 @@
+Baffi the Storm Giant.
+He has a huge scar on his right leg, left arm, forehead and left cheek.
+He is in excellent shape.
+        Baffi's equipment:
+Head: Crown of Sorrows..  The Blood Crown <red glow>
+Amulet: an amulet, resembling a pentagram <vibrating> labeled as 5vahinkoo <red glow>
+Cloak: short dull black cloak <white glow>
+Torso: gleaming splint armour shimmering blue magick labeled as <nom> <red glow>
+Both hands: a pair of legendary Maze Master's gloves labeled as |Twomi| <red glow>
+Bracelets: the dark bracelets of azakh-khanan <red glow>
+Wielded in right hand: The skull flail <red glow>
+Wielded in left hand: The skull flail <red glow>
+Finger: sparkling emerald ring labeled as +3 damage <red glow>
+Finger: ring of infravision
+Belt: black spiked leather belt
+Both legs: a pair of cold black leggings labeled as <nom>
+Necklace: a shrunken skull necklace
+Sirdar exclaims 'ENTER LOCKERS. YOU HAVE TWO MINUTES!'
+Waitingroom for team 1. This room is magically created, 
+and has no furnishing at all.
+Team 1 door (open) leads out.
+Obvious exit is: out.
+You start chanting.  
+[wanted]: Kragan squeezes Jacen's breasts and shouts 'Honk! Honk!'.
+You are done with the chant.
+You utter the magic words '..... .... ... ..  .    .!' (invisibility)
+You suddenly can't see yourself.
+hp: 642 (642) [] sp: 354 (414) [-60] ep: 344 (344) cash: 500 [] exp: 792737 []
+Chack [party]: - Invisibility up -
+hp: 642 (642) [] sp: 409 (414) [+55] ep: 344 (344) cash: 500 [] exp: 792737 []
+You currently have 51/51 points in parry.
+Your current attack skill is 49 of maximum 100.
+Dodge skill modified by carried weight to 97.
+Your total defense factor is: 116.
+'k' is a command-alias to 'use dim mak at baffi'.
+You sizzle with magical energy.
+hp: 642 (642) [] sp: 414 (414) [+5] ep: 344 (344) cash: 500 [] exp: 792737 []
+[party]: Chack sizzles magically
+Aedos [wanted]: tarma please
+Ix'ixixiblat the skeletal Greatwyrm shouts 'Next time, Xunisiih, bring me your
+ friends too!'
+Ix'ixixiblat the skeletal Greatwyrm shouts 'Turmio, I bet that HURT! *RAH RAH*'
+Ix'ixixiblat the skeletal Greatwyrm shouts 'That'll teach Enochian to mess with
+ ME!'
+Ix'ixixiblat the skeletal Greatwyrm shouts 'Burn in hell, Hannah!'
+Ix'ixixiblat the skeletal Greatwyrm shouts 'Drifter no longer causes lag!'
+Ghost of Xunisiih (ghost): rais...
+Ghost of Enochian (ghost): raiseh
+Sirdar tells Baffi and you 'CLOSE DOORS AND FIGHT!!'
+You close team 1 door.
+The arena master shouts 'Team 1 consists of Chack'
+The arena master shouts 'Team 2 consists of Baffi'
+The arena master shouts 'All teams ready! Let the fight begin!'
+              All around is a dense fog. You can see maybe
+              five meters in front of you before everything
+               turns into murky shadows. The only
+              interesting feature of this dull land is the
+    ###       ground which is a matrix of shifting black
+    #@#       and white squares. 
+    ###       
+              
+              
+              
+              
+              
+There are no obvious exits.
+Baffi arrives.
+You start concentrating on the skill.  
+Baffi starts concentrating on a new offensive skill.
+Aedos [wanted]: tarma
+You are prepared to do the skill.
+You turn visible.
+You poke Baffi in the ribs with two fingers going in.
+Baffi gasps painfully for air.
+You successfully dodge Baffi's bash.
+Baffi misses you.
+You stomp-kick Baffi just below the chin.
+You stomp-kick Baffi just below the chin.
+hp: 642 (642) [] sp: 336 (414) [-78] ep: 334 (344) cash: 500 [] exp: 792737 []
+Chack [party]: - Invisibility DOWN () -
+You start chanting.  
+Chack [party]: Casting Tiger Claw
+Ghost of Turmio [ghost]: rais
+Baffi is noticeably hurt.
+Baffi thumps you producing large scratches.
+You successfully dodge Baffi's bash.
+You stomp-kick Baffi in the face, swelling an eye purple and shut.
+Baffi tries to dodge your hit, but you are not fooled that easily!
+You smash Baffi in the thigh.
+hp: 605 (642) [-37] sp: 336 (414) [] ep: 334 (344) cash: 500 [] exp: 792737 []
+You lunge at Baffi, but he turns your attack against you and pounds you!
+Baffi starts concentrating on a new offensive skill.
+Horns [wanted]: zonni head
+hp: 447 (642) [-158] sp: 336 (414) [] ep: 334 (344) cash: 500 [] exp: 792737 []
+You successfully dodge Baffi's bash.
+Baffi misses you.
+You miss Baffi.
+You miss Baffi.
+You are done with the chant.
+You shred air with your tiger claws and scream 'Haii!'
+As Baffi drops to his knees you leap in for the kill!
+hp: 447 (642) [] sp: 218 (414) [-118] ep: 334 (344) cash: 500 [] exp: 792737 []
+Baffi strokes you causing the airway to get smothered.
+You punch Baffi in the face, swelling an eye purple and shut.
+You score a CRITICAL hit!
+Grinning diabolically you poke Baffi tearing the ribcage open and pulling out a still beating heart.
+hp: 395 (642) [-52] sp: 218 (414) [] ep: 334 (344) cash: 500 [] exp: 792737 []
+You start chanting.  
+Chack [party]: Casting Tiger Claw
+Baffi is in very bad shape.
+Baffi misses you.
+You punch Baffi tumbling down.
+You punch Baffi tearing the ribcage open and pulling out a still beating heart.
+Baffi is near death.
+Tiger claw: #
+Baffi misses you.
+Baffi misses you.
+You stomp-kick Baffi tearing the ribcage open and pulling out a still beating heart.
+You smash Baffi tearing the ribcage open and pulling out a still beating heart.
+Baffi is near death.
+You are done with the chant.
+You shred air with your tiger claws and scream 'Haii!'
+As Baffi drops to his knees you leap in for the kill!
+hp: 395 (642) [] sp: 100 (414) [-118] ep: 334 (344) cash: 500 [] exp: 792737 []
+Baffi misses you.
+You smash Baffi tearing the ribcage open and pulling out a still beating heart.
+Baffi lapses into unconsciousness from severe loss of blood.
+You score a CRITICAL hit!
+Grinning diabolically you smash Baffi tearing the ribcage open and pulling out a still beating heart.
+@Amd claps at you.
+You stomp-kick Baffi tearing the ribcage open and pulling out a still beating heart.
+You stomp-kick Baffi tearing the ribcage open and pulling out a still beating heart.
+You punch Baffi tearing the ribcage open and pulling out a still beating heart.
+You stomp-kick Baffi tearing the ribcage open and pulling out a still beating heart.
+A large hole replaces Baffi's face.
+Baffi is DEAD, R.I.P.
+Baffi dies and is carried away by two clerics.
+The arena master shouts 'Baffi of team 2 dies and is removed from the arena!'
+Baffi leaves away.
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Chack'

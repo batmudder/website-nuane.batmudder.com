@@ -1,0 +1,859 @@
+The arena master shouts 'Team 1 consists of Ulver'
+The arena master shouts 'Team 2 consists of Hardtop'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Ulver'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Hardtop'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1093/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             900/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:17:46] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Waitingroom for team 2. This room is magically created,.'[0m
+[32mSirdest says '%Team 2 door [53m(closed)[32m leads out.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Waitingroom for team 2. This room is magically created,.'.'[0m
+[1;30mInfo: Neth left the game.[0m
+[1;37mBebberi [0;54m{ee+}:[1;37m uhu sin cityn traileri[0m
+[32mSirdest says '% west.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Ulver Vintervarg the Hobbit is here playing acoustic heavy metal <team [0m[32m1>.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '% west.'.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Ulver.'[0m
+[32mSirdest says '%You incise Ulver causing third degree burns.'[0m
+[32mSirdest says '%Ulver lightly cuts you making small marks.'[0m
+[32mSirdest says '%Ulver pierces you making small marks.'[0m
+[32mSirdest says '%hp: 1061 (1093) [-32] sp: 32 (32) [] ep: 366 (388) cash: 0 [] exp: [0m[32m24126 [].'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+la arena
+[32mSirdest says '%You say '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver pierces you making small marks.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1061/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             867/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:17:48] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%| 1.2   Hardtop       ldr 1061(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%hp: 1061 (1093) [-32] sp: 32 (32) [] ep: 366 (388) cash: 0 [0m[32m[] exp:.'[0m
+[32mSirdest says '%Ulver is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 1061 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%% @@use cleave.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1093/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+Garok [32m[sales]:[0m hrm - yeah, let's work on ways to make Strikerbum a pauper :)
+[32mSirdest says '%Ulver Vintervarg the Hobbit is here playing acoustic heavy metal <team [0m[32m1>.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m21[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1061/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             867/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:17:50] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% kill ulver.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+[32mSirdest exclaims '%No ulver here !'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%Hp:519/519 Sp:534/534 >You say '% kill ulver.'.'[0m
+Strikerbum [32m[sales]:[0m BEST CLOSED
+[32m*Kawasa ticks 502 sps[47s].[0m
+[32m*Kawasa ticks 1030 sps[0s].[0m
+Strikerbum arrives from west.
+[32mSirdest says '% east.'[0m
+la arena
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Ulver Vintervarg the Hobbit is here playing acoustic heavy metal <team [0m[32m1>.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1061/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             829/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:17:51] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%% kill ulver.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Ulver.'[0m
+[32mSirdest says '%You tear Ulver producing large scratches.'[0m
+[32mSirdest says '%Ulver misses you.'[0m
+[32mSirdest says '%Ulver misses you.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '% east.'.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop       ldr 1061(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%% @@use cleave.'.'[0m
+[32mSirdest says '%Ulver is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 1061 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You say '% east.'.'.'[0m
+[1;30mInfo: Neth enters the game.[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+la arena
+[32mSirdest exclaims '%No ulver here !'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+       
+ [31m####[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1061/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             829/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:17:52] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% south.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '% south.'.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+[32mSirdest exclaims '%No ulver here !'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+Stargazer leaves west.
+[1;37mTeinix-Larppa [0;54m[ee+]:[1;37m NÄKYIKÖ TIDISSIT?[0m
+[32mSirdest says '% north.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Ulver Vintervarg the Hobbit is here playing acoustic heavy metal <team [0m[32m1>.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% kill ulver.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Ulver.'[0m
+[32mSirdest says '%You miss Ulver.'[0m
+[32mSirdest says '%Ulver lightly cuts you making small marks.'[0m
+[32mSirdest exclaims '%Ulver's battle cadence grants him another attack!'[0m
+[32mSirdest says '%Ulver lightly cuts you causing a small scratch.'[0m
+[32mSirdest says '%Ulver misses you.'[0m
+[32mSirdest says '%hp: 1024 (1093) [-37] sp: 32 (32) [] ep: 366 (388) cash: 0 [] exp: [0m[32m24126 [].'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '% north.'.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You miss Ulver.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop       ldr 1024(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You miss Ulver.'.'[0m
+[32mSirdest says '%Ulver is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver lightly cuts you making small marks.'.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 1024 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+la arena
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You exclaim '%Ulver's battle cadence grants him another attack!'.'[0m
+[32mSirdest says '%Hp:1061/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver lightly cuts you causing a small scratch.'.'[0m
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1024/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             829/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:17:54] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+Dutois leaves west.
+*Raven stares intently at Cealdyn
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Ulver successfully parries your slash.'[0m
+[32mSirdest says '%You incise Ulver causing a small wound.'[0m
+[32mSirdest says '%Ulver lightly cuts you causing a small scratch.'[0m
+[32mSirdest says '%You successfully dodge Ulver's pierce.'[0m
+[32mSirdest says '%hp: 1001 (1093) [-23] sp: 32 (32) [] ep: 366 (388) cash: 0 [] exp: [0m[32m24126 [].'[0m
+[32mSirdest says '%Hp:1001/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@party status short.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop       ldr 1001(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1001/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@scan all.'[0m
+[32mSirdest says '%Ulver is in a good shape.'[0m
+[32mSirdest says '%Hp:1001/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver successfully parries your slash.'.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 1001 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32mSirdest says '%Hp:1001/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You incise Ulver causing a small wound.'.'[0m
+[32mSirdest says '%Hp:1001/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+la arena
+[32mSirdest says '%You say '%Ulver lightly cuts you causing a small scratch.'.'[0m
+[1;37mBebberi [0;54m{ee+}:[1;37m tai no tv-spotti siis[0m
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop          1001/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             765/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:17:57] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1001/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Ulver Vintervarg the Hobbit is here playing acoustic heavy metal <team [0m[32m1>.'[0m
+[32mSirdest says '%Hp:1001/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+la arena
+*Raven spreads its mighty wings.
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           975/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             723/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:17:59] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Ulver cuts you causing a small scratch.'[0m
+[32mSirdest says '%You successfully dodge Ulver's pierce.'[0m
+[32mSirdest says '%You tear Ulver causing a small wound.'[0m
+[32mSirdest says '%Ulver successfully parries your slash.'[0m
+[32mSirdest says '%hp: 975 (1093) [-26] sp: 32 (32) [] ep: 366 (388) cash: 0 [] exp: [0m[32m24126 [].'[0m
+[32mSirdest says '%You feel like you could go for a drink.'[0m
+[32mSirdest says '% kill ulver.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You say '%          All around is a dense fog. You can see [0m[32mmaybe.'.'.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver cuts you causing a small scratch.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You successfully dodge Ulver's pierce.'.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You tear Ulver causing a small wound.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop       ldr  975(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver successfully parries your slash.'.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%hp: 975 (1093) [-26] sp: 32 (32) [] ep: 366 (388) cash: 0 [] [0m[32mexp:.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 975 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You feel like you could go for a drink.'.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%Hp:519/519 Sp:534/534 >You say '% kill ulver.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m21[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           975/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             723/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:00] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32m*Kawasa ticks 502 sps[10s].[0m
+[32m*Kawasa ticks 1030 sps[0s].[0m
+[1;30mInfo: Turmio enters the game.[0m
+[32mSirdest says '% east.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Ulver Vintervarg the Hobbit is here playing acoustic heavy metal <team [0m[32m1>.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '% east.'.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+[32mSirdest exclaims '%You are already fighting!'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           975/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             723/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:01] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Ulver misses you.'[0m
+[32mSirdest says '%You successfully dodge Ulver's pierce.'[0m
+[32mSirdest says '%You tear Ulver causing third degree burns.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Grinning diabolically you rive Ulver forcing the heart to incinerate.'[0m
+[32mSirdest says '% z.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@party status short.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop       ldr  975(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver misses you.'.'[0m
+[32mSirdest says '%Ulver is not in a good shape.'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You successfully dodge Ulver's pierce.'.'[0m
+la arena
+[32mSirdest says '%Hardtop reports: Hp: 975 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[1;37mTeinix-Larppa [0;54m[ee+]:[1;37m mutta siis siinä oli iha oikeesti miettimistä[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You tear Ulver causing third degree burns.'.'[0m
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           975/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             330/900   312/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:02] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You exclaim '%You score a CRITICAL hit!'.'[0m
+[32mSirdest exclaims '%Hardtop [1;30m[report]:[0;32m I JUST CRITTED!'[0m
+[32mSirdest says '%Hp:975/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Grinning diabolically you rive Ulver forcing the heart to.'[0m
+[32m*Malacoda critted the puff![0m
+[32m*Malacoda critted the puff![0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Ulver misses you.'[0m
+[32mSirdest says '%You successfully parry Ulver's pierce.'[0m
+[32mSirdest says '%Ulver successfully dodges your futile slash.'[0m
+[32mSirdest says '%You tear Ulver making an artery explode.'[0m
+[32mSirdest says '%Ulver plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' [0m[57m(Con fioco)[32m.'[0m
+[32mSirdest says '%Ulver plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' [0m[57m(Con fioco)[32m.'[0m
+[32mSirdest says '%A con fioco hits you.'[0m
+[32mSirdest says '% z.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop      [53m ldr  725(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@scan all.'[0m
+[32mSirdest says '%Ulver is in bad shape.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@party report.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 725 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver misses you.'.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You successfully parry Ulver's pierce.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           725/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             292/900   184/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:05] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[1;37mDarol [0;52m(party):[1;37m voi jösses mikä spammi[0m
+[32mSirdest says '% west.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '% west.'.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+[32mSirdest exclaims '%No ulver here !'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           725/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             292/900   184/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:07] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Ulver Vintervarg the Hobbit is here playing acoustic heavy metal <team [0m[32m1>.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% kill ulver.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Ulver.'[0m
+[32mSirdest says '%Ulver successfully parries your slash.'[0m
+[32mSirdest says '%Ulver lightly cuts you causing a small scratch.'[0m
+[32mSirdest exclaims '%Ulver's battle cadence grants him another attack!'[0m
+[32mSirdest says '%Ulver lightly cuts you causing a small scratch.'[0m
+[32mSirdest says '%Ulver misses you.'[0m
+[32mSirdest says '%hp: 692 (1093) [-283] sp: 32 (32) [] ep: 366 (388) cash: 0 [] exp: [0m[32m24126 [].'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+la arena
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mHit goes 'Heh'.[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           677/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             213/900   184/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:08] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You say '%Ulver lightly cuts you causing a small scratch.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop      [53m ldr  692(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver misses you.'.'[0m
+[32mSirdest says '%Ulver is in bad shape.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%hp: 692 (1093) [-283] sp: 32 (32) [] ep: 366 (388) cash: 0 [0m[32m[] exp:.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 692 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%% @@use cleave.'.'[0m
+[32mSirdest says '%You tear Ulver causing second degree burns.'[0m
+[32mSirdest says '%You tear Ulver forcing a limb to be engulfed with flames.'[0m
+[32mSirdest says '%Ulver lightly cuts you causing a small scratch.'[0m
+[32mSirdest says '%Ulver misses you.'[0m
+[32mSirdest says '%hp: 677 (1093) [-15] sp: 32 (32) [] ep: 366 (388) cash: 0 [] exp: [0m[32m24126 [].'[0m
+[32mSirdest says '% east.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+[32mSirdest says '%Ulver arrives from west.'[0m
+[32mSirdest says '% z.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You say '%Your movement prevents you from doing the [0m[32mskill.'.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop      [53m ldr  677(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:725/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+la arena
+[32mSirdest says '%You say '%You say '%Ulver lightly cuts you causing a small [0m[32mscratch.'.'.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 677 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[1;37mCyberlahko [0;52m[party]:[1;37m -=> crittii ratkes <=-[0m
+[32mSirdest says '%You say '%| 1.2   Hardtop      [53m ldr  692(1093)[54m   32(  32)[32m 366(388) |  [0m[32m60 |.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           593/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             179/900   184/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:09] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Ulver Vintervarg the Hobbit is here playing acoustic heavy metal <team [0m[32m1>.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You say '%You say '%Your movement prevents you from doing [0m[32mthe.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tear Ulver causing nasty sizzling wounds.'[0m
+[32mSirdest says '%You miss Ulver.'[0m
+[32mSirdest says '%Ulver cuts you producing large scratches.'[0m
+[32mSirdest exclaims '%Ulver's battle cadence grants him another attack!'[0m
+[32mSirdest says '%Ulver lightly cuts you causing a small scratch.'[0m
+[32mSirdest says '%Ulver pierces you causing a small scratch.'[0m
+[32mSirdest exclaims '%Ulver's battle cadence grants him another attack!'[0m
+[32mSirdest says '%Ulver pierces you causing a small scratch.'[0m
+[32mSirdest says '%hp: 593 (1093) [-84] sp: 32 (32) [] ep: 366 (388) cash: 0 [] exp: [0m[32m24126 [].'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You say [0m[32m'%,-----------------------------------------------------------.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '% west.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Ulver Vintervarg the Hobbit is here playing acoustic heavy metal <team [0m[32m1>.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Obvious exits are: w, sw and s.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop      [53m ldr  593(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver Vintervarg the Hobbit is here playing acoustic heavy [0m[32mmetal.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 593 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+la arena
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You say '%You say '%You say '%Your movement prevents you [0m[32mfrom doing.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           593/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver             179/900   184/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:10] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest exclaims '%No ulver here !'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%| 1.2   Hardtop      [53m ldr  593(1093)[54m   32(  32)[32m 366(388) |  [0m[32m60 |.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:677/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say [0m[32m'%`---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:593/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '% kill ulver.'[0m
+[32mSirdest says '%Hp:593/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% @@kill ulver.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Ulver lightly cuts you causing a small scratch.'[0m
+[32mSirdest exclaims '%Ulver's battle cadence grants him another attack!'[0m
+[32mSirdest says '%Ulver cuts you producing large scratches.'[0m
+[32mSirdest says '%Grinning diabolically Ulver really pokes you puncturing a hole, [0m[32mallowing entrails to spill everywhere.'[0m
+[32mSirdest says '%You incise Ulver causing large bones to crack loudly.'[0m
+[32mSirdest says '%You miss Ulver.'[0m
+[32mSirdest says '%hp: 352 (1093) [-241] sp: 32 (32) [] ep: 366 (388) cash: 0 [] exp: [0m[32m24126 [].'[0m
+[32mSirdest says '%Hp:593/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%%*****************************************************.'[0m
+[32mSirdest says '%Ulver lightly cuts you causing a small wound.'[0m
+[32mSirdest exclaims '%Ulver's battle cadence grants him another attack!'[0m
+[32mSirdest says '%Ulver cuts you inducing a nasty lesion.'[0m
+[32mSirdest says '%You successfully dodge Ulver's pierce.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Grinning diabolically you cruelly tatter Ulver forcing the heart to [0m[32mincinerate.'[0m
+[32mSirdest says '%Ulver lapses into [51munconscious[32mness from severe loss of blood.'[0m
+la arena
+[32mSirdest says '%You tear Ulver forcing the heart to incinerate.'[0m
+[32mSirdest says '%hp: 305 (1093) [-47] sp: 32 (32) [] ep: 366 (388) cash: 0 [] exp: [0m[32m24126 [].'[0m
+[32mSirdest says '% @@use cleave.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%% z.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%Hp:519/519 Sp:534/534 >% @@party status short.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.2   Hardtop      [31m ldr  305(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '% kill ulver.'.'[0m
+[32mSirdest says '%Ulver is near death.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           305/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver            -189/900   184/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:11] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Unknown command.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 305 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:593/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%% @@kill ulver.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32m*Kawasa ticks 502 sps[12s].[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver lightly cuts you causing a small scratch.'.'[0m
+[32m*Kawasa ticks 1532 sps[0s].[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+Mithrand leaves west.
+[32mSirdest says '%| 1.2   Hardtop      [31m ldr  305(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You exclaim '%Ulver's battle cadence grants him another attack!'.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver cuts you producing large scratches.'.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 305 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32m*Kawasa ticks 1532 sps[0s].[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Grinning diabolically Ulver really pokes you puncturing a [0m[32mhole,.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You incise Ulver causing large bones to crack loudly.'.'[0m
+[32mSirdest exclaims '%Hardtop [1;30m[report]:[0;32m I JUST CRITTED!'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You miss Ulver.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%hp: 352 (1093) [-241] sp: 32 (32) [] ep: 366 (388) cash: 0 [0m[32m[] exp:.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:593/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32m*Kawasa ticks 1532 sps[1s].[0m
+[32mSirdest says '%You exclaim '%Ulver's battle cadence grants him another attack!'.'[0m
+[32mSirdest exclaims '%No ulver here !'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Ulver cuts you inducing a nasty lesion.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You successfully dodge Ulver's pierce.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[1;37mTeinix-Larppa [0;54m[ee+]:[1;37m mietin aika ankarasti että onko tää nyt NIIN PALJO SIISTIMPÄÄ [0m[1;37mettä kandee maksaa 10x enemmän[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You exclaim '%Ulver's battle cadence grants him another [0m[32mattack!'.'.'[0m
+[32mSirdest says '% kill ulver.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32m*Kawasa ticks 1532 sps[0s].[0m
+[32mSirdest exclaims '%No ulver here !'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+la arena
+[32mSirdest says '%You say '%You say '%Grinning diabolically Ulver really pokes you [0m[32mpuncturing a.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           305/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver            -189/900   184/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:13] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+Stargazer arrives from west.
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Ulver is [51munconscious[32m and needs immediate medical care <team 1>.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32m*Kawasa ticks 1532 sps[0s].[0m
+[32m*Kawasa ticks 1532 sps[0s].[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tear Ulver forcing the heart to incinerate.'[0m
+[32mSirdest says '%You tear Ulver causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '% z.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+Dornier [1;30m[suomi]:[0m rasti ruutuun kiinnostaako jonkun strikerbumin vedonvälitykset salesilla
+[32mSirdest says '%| 1.2   Hardtop      [31m ldr  305(1093)[54m   32(  32)[32m 366(388) |  60 [0m[32m|            0 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[1;37mBebberi [0;54m{ee+}:[1;37m juu no on siinä kyl pointti :D[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You tear Ulver forcing the heart to incinerate.'.'[0m
+[32mSirdest says '%Ulver is near death.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '%You tear Ulver causing heart tissue to fly everywhere.'.'[0m
+[32mSirdest says '%Hardtop reports: Hp: 305 (1093) Sp: 32 (32) Ep: 366 (388).'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%Hp:519/519 Sp:534/534 >%.'[0m
+[32mSirdest says '%Hp:305/1093 Sp:32/32 Ep:366/388 Exp:24126 W:19 R:9526 >.'[0m
+[32mSirdest says '%You say '% z.'.'[0m
+[32m*Kawasa ticks 502 sps[2s].[0m
+[32m*Kawasa ticks 1532 sps[0s].[0m
+[32mCealdyn quacks 'haha.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#.[35m1[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Hardtop           305/1093   32/32   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Ulver            -271/900   184/444  |                                      |
+`-----------------------------------------------------------------------------'
+[22:18:16] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+The arena master shouts 'Ulver of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Hardtop'

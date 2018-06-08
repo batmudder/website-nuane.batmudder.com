@@ -1,0 +1,201 @@
+You close team 2 door.
+The arena master shouts 'Team 1 consists of Amd'
+The arena master shouts 'Team 2 consists of Mithrand'
+The arena master shouts 'All teams ready! Let the fight begin!'
+Erwain [wanted]: got from T
+ ####     All around is a dense fog. You can see maybe
+....#     five meters in front of you before everything
+....#      turns into murky shadows. The only
+...@#     interesting feature of this dull land is the
+....#     ground which is a matrix of shifting black
+....#     and white squares. 
+ ...#     
+          
+Obvious exits are: nw, n, w, sw and s.
+You feel like normal yourself again.
+drop mithrand
+You drop a faded scroll labeled as mithrand.
+Amd arrives from north.
+Amd bashes you with shield.
+Amd claws you.
+You bore Amd.
+You crater Amd.
+H-9 E S $ X
+Amd leaves south.
+Amd arrives from west.
+Amd hurls a small bead at scroll!
+The bead hits and EXPLODES into a huge ball of FIRE!
+Amd hits Mithrand with his fireball.
+Amd leaves north.
+Amd arrives from north.
+Amd leaves south.
+l
+ ####     All around is a dense fog. You can see maybe
+....#     five meters in front of you before everything
+....#      turns into murky shadows. The only
+...@#     interesting feature of this dull land is the
+....#     ground which is a matrix of shifting black
+....#     and white squares. 
+ ..1#     
+          
+Obvious exits are: nw, n, w, sw and s.
+A faded scroll labeled as mithrand
+
+>>>>1446/1540 526/526 953/1074 E458 $0 U90 95 AOH T-203
+
+H-85 E S $ X
+John shouts 'Yason, I rather enjoyed killing you!'
+l
+ ####     All around is a dense fog. You can see maybe
+....#     five meters in front of you before everything
+....#      turns into murky shadows. The only
+...@#     interesting feature of this dull land is the
+....#     ground which is a matrix of shifting black
+....#     and white squares. 
+ .1.#     
+          
+Obvious exits are: nw, n, w, sw and s.
+A faded scroll labeled as mithrand
+
+>>>>1446/1540 526/526 953/1074 E458 $0 U90 89 AOH T-197
+
+John shouts 'Thanks Randar, I still need 5k for next level!'
+csw me
+You start chanting.
+You surreptitiously conceal your spell casting.
+web
+You interrupt the chant in order to start a new chant.
+You start chanting.
+You surreptitiously conceal your spell casting.
+Spider web: ###
+Calidus [sales]: 3wis maxspr boots mb 2m
+[ticked in 30]
+H+20 E S+30 $ X
+Spider web: ##
+You skillfully cast the spell with haste.
+You weave the web with your hands and chant 'spider web'
+The area is covered in magical spider webs.
+H E S-48 $ X
+drink flex_shield
+You drink the contents of a flask containing effervescent bright green liquid labeled as flex_shield.
+Wow! You feel magically empowered... your mind momentarily expands!
+You save the rest of the potion.
+You are so full of liquid you feel like you might burst.
+
+>>>>1466/1540 526/526 935/1074 E458 $0 U90 78 AOH T-186
+
+You breathe a puff of magic.
+l
+ ####     All around is a dense fog. You can see maybe
+....#     five meters in front of you before everything
+....#      turns into murky shadows. The only
+...@#     interesting feature of this dull land is the
+....#     ground which is a matrix of shifting black
+..1.#     and white squares. 
+ ...#     
+          
+Obvious exits are: nw, n, w, sw and s.
+Spider webs block this way. You need to return
+A faded scroll labeled as mithrand
+
+>>>>1466/1540 526/526 935/1074 E458 $0 U90 70 AOH T-178
+
+Your nose twitches.
+Your hands feel itchy.
+read mir
+You read the scroll and feel the magic flowing through you.
+You create 8 mirror images.
+Suddenly 8 images of yourself appear.
+The scroll crumbles to dust, its powers spent.
+Amd arrives from west.
+Amd bashes you with shield.
+An image of Mithrand vanishes.
+Amd claws you.
+An image of Mithrand vanishes.
+You shaft Amd. (CRIT)
+You bore Amd.
+Amd leaves west.
+Your tongue swells.
+You sense scroll's body being covered by a flex shield.
+You feel like normal yourself again.
+con mw
+You start chanting.
+You surreptitiously conceal your spell casting.
+
+>>>>1466/1540 526/526 935/1074 E458 $0 U88 56 AOH T-164
+
+Spider demon control: #
+Amd arrives from west.
+Amd bashes you with shield.
+An image of Mithrand vanishes.
+Amd claws you.
+An image of Mithrand vanishes.
+Amd claws you.
+An image of Mithrand vanishes.
+You bore Amd.
+### STUN LEVEL 2
+You sink Amd.
+con me
+Amd tries to rip the webs!
+He fails to rip the web.
+You interrupt the chant in order to start a new chant.
+You start chanting.
+You surreptitiously conceal your spell casting.
+Amd bashes you with shield.
+An image of Mithrand vanishes.
+You bore Amd.
+You crater Amd.
+Spider demon control: #
+staff
+You remove kraftigar, trident of darkness labeled as <R+> <orange glow>.
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You wield Dracostarmikan, the staff of fire labeled as <R+> <red glow> in your right hand.
+You are not skilled enough to wield in combat!
+You're already wielding Dracostarmikan, the staff of fire labeled as <R+> <red glow>.
+You are not skilled enough to wield in combat!
+You're already wielding Dracostarmikan, the staff of fire labeled as <R+> <red glow>.
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You're already wielding Dracostarmikan, the staff of fire labeled as <R+> <red glow>.
+You are not skilled enough to wield in combat!
+You release the stored power of Dracostarmikan!
+You swirl violently, engulfing the entire area with a bright flame!
+Amd lapses into unconsciousness from severe loss of blood.
+You remove Dracostarmikan, the staff of fire labeled as <R+> <red glow>.
+Items juggled in inventory.
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You wield Dracostarmikan, the staff of fire labeled as <M> <red glow> in your right hand.
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You're already wielding Dracostarmikan, the staff of fire labeled as <M> <red glow>.
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You're already wielding Dracostarmikan, the staff of fire labeled as <M> <red glow>.
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You are not skilled enough to wield in combat!
+You release the stored power of Dracostarmikan!
+You swirl violently, engulfing the entire area with a bright flame!
+Amd is DEAD, R.I.P.
+Amd dies and is carried away by two clerics.
+The arena master shouts 'Amd of team 1 dies and is removed from the arena!'
+Amd leaves away

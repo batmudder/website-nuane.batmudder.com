@@ -1,0 +1,1354 @@
+[32mSirdest says '%Sirdar exclaims 'ENTER YOUR LOCKERS. YOU HAVE NOW TWO MINUTES!'.'[0m
+You feel that Lightscape has a new level.
+[32mSirdest says '%Waitingroom for team 1. This room is magically created,.'[0m
+[32mSirdest says '%Team 1 door [51m(open)[32m leads out.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% stick amd.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@cast resist dispel at amd.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@party report Resist Dispel ---> amd.'[0m
+[32mSirdest says '%Amd [1;30m[report]:[0;32m Resist Dispel ---> amd.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Waitingroom for team 1. This room is magically created,.'.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You utter the magic words 'zicks laai qluu' [57m(Resist dispel)[32m.'[0m
+[32mSirdest says '%You cast the spell successfully.'[0m
+[32mSirdest says '%You feel extra sticky for protection.'[0m
+[32mSirdest says '%Hp (469)/(469)  SP (1432)/(1483) -51 EP (281)/(281)   ().'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@cast repulsor aura at amd.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@party report G-mana ---> amd.'[0m
+[32mSirdest says '%Amd [1;30m[report]:[0;32m G-mana ---> amd.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EX.'[0m
+[1;37mJuo [0;52m[party]:[1;37m voi hyvä elämä mikä prompti[0m
+[1;30mInfo: Sam left the game.[0m
+[32mSirdest says '%Repulsor aura: ########.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mMandigal quacks 'hastes...'[0m
+[32m*Maphesto Hastes![0m
+[32mSirdest says '%Repulsor aura: ######.'[0m
+[32mKrokodiili booms 'gmana, wonder.'[0m
+p say joo iha kauhee :D
+[1;37mNuane [0;52m(party):[1;37m joo iha kauhee :D[0m
+[21:16:41] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;30mInfo: Kirini left the game.[0m
+[32mSirdest says '%Repulsor aura: #####.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%You skillfully cast the spell with greater haste.'[0m
+[32mMandigal quacks 'greater haste...'[0m
+[32m*Maphesto Greater Hastes![0m
+[1;37mJuo [0;52m[party]:[1;37m voi hyvä elämä mikä prompti toi näyttää tosi pahalt[0m
+[32mFarliss AAARRGGHHs 'hyvat o trigut.'[0m
+[32mSirdest says '%Repulsor aura: ##.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mMandigal quacks 'hastes...'[0m
+[32m*Maphesto Hastes![0m
+Mallarch arrives from down.
+[32mFoxbat exclaims 'Go baby go go! We're right behind you. Go baby go go! Yeah, we're [0m[32mlooking at you. Go baby go go!'[0m
+Cilwand looks at you.
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You utter the magic words 'shamarubu incixtes delfo' [57m(Repulsor aura)[32m.'[0m
+[32mSirdest exclaims '%You pull out a quartz prism which bursts into a zillion [0m[32mtechnicolour sparkles!'[0m
+[32mSirdest says '%You create the resistance successfully.'[0m
+[32mSirdest says '%You see an extra flickering golden shield fade into existance around [0m[32myou.'[0m
+[32mSirdest says '%Your fine choice of components lowers the effort of the spell.'[0m
+[32mSirdest says '%Hp (469)/(469)  SP (1243)/(1483) -189 EP (281)/(281)   ().'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1243)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@cast resist dispel at amd.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1243)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@party report Resist Dispel ---> amd.'[0m
+[32mSirdest says '%Amd [1;30m[report]:[0;32m Resist Dispel ---> amd.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1243)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1243)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EX.'[0m
+Governor [1;30m[bat]:[0m well maybe a wiz should massummon everyone that hasnt already sacced there (excluding aprty members) and force everyone to sac
+[32mSirdest says '%Governor [1;30m[bat]:[0;32m well maybe a wiz should massummon everyone that hasnt [0m[32malready sacced there.'[0m
+[32mSirdest says '%Hp (469)/(469)  SP (1379)/(1483) +136 EP (281)/(281)   ().'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You utter the magic words 'zicks laai qluu' [57m(Resist dispel)[32m.'[0m
+[32mSirdest says '%You cast the spell successfully.'[0m
+[32mSirdest says '%You feel extra sticky for protection.'[0m
+[32mSirdest says '%Hp (469)/(469)  SP (1328)/(1483) -51 EP (281)/(281)   ().'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1328)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@cast armour of aether at amd.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1328)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@party report AoA ---> amd.'[0m
+[32mSirdest says '%Amd [1;30m[report]:[0;32m AoA ---> amd.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1328)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1328)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EX.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mMandigal quacks 'hastes...'[0m
+[32m*Maphesto Hastes![0m
+[32mSirdest says '%Armour of aether: #######.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mMandigal quacks 'hastes...'[0m
+[32m*Maphesto Hastes![0m
+[32mSirdest says '%Armour of aether: #####.'[0m
+[1;30mInfo: Valkrist recovers from link death.[0m
+[32mSirdest says '%You skillfully cast the spell with greater haste.'[0m
+[32mMandigal quacks 'greater haste...'[0m
+[32m*Maphesto Greater Hastes![0m
+[32mSirdest says '%Armour of aether: ##.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mMandigal quacks 'hastes...'[0m
+[32m*Maphesto Hastes![0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You utter the magic words 'fooharribah inaminos cantor' [57m(Armour of [0m[57maether)[32m.'[0m
+[32mSirdest says '%You utter the magic words 'fooharribah inaminos cantor' [57m(Armour of [0m[57maether)[32m.'[0m
+[32mSirdest exclaims '%You pull out a small highsteel disc which bursts into a zillion [0m[32mtechnicolour sparkles!'[0m
+[32mSirdest says '%You create the resistance successfully.'[0m
+[32mSirdest says '%You see an extra crystal clear shield fade into existance around you.'[0m
+[32mSirdest says '%Your fine choice of components lowers the effort of the spell.'[0m
+[32mSirdest says '%Hp (469)/(469)  SP (1119)/(1483) -209 EP (281)/(281)   ().'[0m
+[32mSirdest says '%Amd [52m[party]:[32m ( Sticky Armour of Aether UP ) {Cast by Farliss}.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1119)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Amd [52m[party]:[32m ( Sticky Armour of Aether UP ) {Cast by [0m[32mFarliss}.'.'[0m
+[1;30mInfo: Eronk enters the game.[0m
+[32mSirdest says '%You drink the contents of a flask containing fuming bright green [0m[32mliquid labeled as unpain%.'[0m
+[32mSirdest exclaims '%Wow! You feel magically empowered... your mind momentarily [0m[32mexpands!'[0m
+[32mSirdest says '%You save the rest of the potion.'[0m
+[32mSirdest says '%You are so full of liquid you feel like you might burst.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1119)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You drink the contents of a flask containing fuming bright [0m[32mgreen.'[0m
+[1;37mJuo [0;52m[party]:[1;37m hehe[0m
+[32mSirdest says '%Waitingroom for team 1. This room is magically created,.'[0m
+[32mSirdest says '%Team 1 door [51m(open)[32m leads out.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(469)/(469)]<=|=>SP:[(1119)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Waitingroom for team 1. This room is magically created,.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[1;37mJuo [0;52m[party]:[1;37m Sirdest says '%Amd [0;52m[party]:[1;37m ( Sticky Armour of Aether UP ) {Cast by [0m[1;37mFarliss}.'[0m
+[32mFarliss AAARRGGHHs 'oho meitsi castas.'[0m
+[1;37mJuo [0;52m[party]:[1;37m :D[0m
+[32mSirdest says '%Hp (469)/(469)  SP (1252)/(1483) +133 EP (281)/(281)   ().'[0m
+[32mSirdest says '%Something crawls under your skin.'[0m
+p say :D
+[1;37mNuane [0;52m(party):[1;37m :D[0m
+[21:17:19] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mJuo claps.[0m
+[32mFarliss AAARRGGHHs 'ruletanko kovaa.'[0m
+Air arrives from down.
+[32mArnac snickers at Farliss.[0m
+[32mMallarch asks 'amd vs ?'[0m
+[32mSirdest says '%You feel your will getting stronger.'[0m
+[32mSirdest says '%You feel like normal yourself again.'[0m
+[32mSirdest says '%Amd [52m[party]:[32m ( Unpain UP ) {Cast by Farliss}.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(588)]<=|=>SP:[(1252)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Amd [52m[party]:[32m ( Unpain UP ) {Cast by Farliss}.'.'[0m
+[32mMaphesto squeals 'era.'[0m
+[32mKerzebel asks 'era?'[0m
+[32mJuo buzzes 'etkai sä sais auttaa.'[0m
+[32mMallarch nods his head, yeah, ok.[0m
+Searc [1;30m[bat]:[0m what the fuck... would guess wizard have nothing to do with that anyways so not really their problem
+[32mFarliss AAARRGGHHs 'no kato tsiittaan.'[0m
+[31mBlack panther shouts 'Stargazer, I rather enjoyed killing you!'[0m
+[1;30mInfo: Stargazer dies.[0m
+[32mSirdest says '%Black panther shouts 'Stargazer, I rather enjoyed killing you!'.'[0m
+[31m[ghost]:[0m Ghost of Stargazer giggles inanely.
+[32mJuo buzzes 'omg.'[0m
+Uurkarka [1;30m[bat]:[0m they have a spell lik that
+[32mSirdest says '%Uurkarka [1;30m[bat]:[0;32m they have a spell lik that.'[0m
+Ghost of Stargazer [31m[ghost]:[0m raise please
+[56mTICK IN 5 SECONDS.[0m
+[32mJuo buzzes 'xiit noob.'[0m
+[32mSirdest says '% drink aura_of_hate.'[0m
+[32mSirdest says '%You drink the contents of a flask containing watery red liquid labeled [0m[32mas aura_of_hate%.'[0m
+[32mSirdest exclaims '%Wow! You feel magically empowered... your mind momentarily [0m[32mexpands!'[0m
+[32mSirdest says '%That was the last dose.'[0m
+[32mSirdest says '%You are so full of liquid you feel like you might burst.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(588)]<=|=>SP:[(1252)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% drink aura_of_hate.'.'[0m
+[32mSirdest says '%You feel like your cheeks are burning.'[0m
+[32mSirdest says '%Waitingroom for team 1. This room is magically created,.'[0m
+[32mSirdest says '%Team 1 door [51m(open)[32m leads out.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(588)]<=|=>SP:[(1376)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Waitingroom for team 1. This room is magically created,.'.'[0m
+[32mSirdest says '%You are carrying 31.8 kg of equipment:.'[0m
+[32mSirdest says '%10 coins (10 mithril) [Cash: 5000.00  Bank: 35110.04  Total: [0m[32m40110.04].'[0m
+[32mSirdest says '%Keep:.'[0m
+[32mSirdest says '%An empty alchemist's flask.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(588)]<=|=>SP:[(1376)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You are carrying 31.8 kg of equipment:.'.'[0m
+*Roc is slightly annoying.
+[32mSirdest says '%Your tongue swells.'[0m
+[32mSirdest says '%Arnac tells you 'paa channels off =)'.'[0m
+Biff Swift shouts, 'Thank you BatMUD(tm).  The game is over.
+  Thank you for your time and cooperation.  Later punks!
+[32mSirdest says '%Biff Swift shouts, 'Thank you BatMUD(tm).  The game is over.'[0m
+[1;37mKerzebel tells you 'aye löyty =D'[0m
+[1;37mJuo [0;52m[party]:[1;37m tollaha o kevyt setti[0m
+Governor [1;30m[bat]:[0m would be fun tho :D
+[32mSirdest says '%You breathe a puff of magic.'[0m
+[32mSirdest says '%Turned off 15 channels.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(588)]<=|=>SP:[(1376)/(1483)]<=|=>EP:[(281)/(281)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Turned off 15 channels.'.'[0m
+[32mSirdest says '%Hp (588)/(588)  SP (1483)/(1483) +107 EP (281)/(281)   ().'[0m
+[32mSirdest says '%You cast the spell successfully.'[0m
+[32mSirdest says '%You feel like normal yourself again.'[0m
+[32mNina nods at Cilwand.[0m
+[1;30mInfo: Kbk goes link dead.[0m
+[1;30mInfo: Kirya goes link dead.[0m
+[56mTICK IN 5 SECONDS.[0m
+Bhamgral arrives from east.
+[32mSirdest says '%.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(645)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[1;30mInfo: Hanwell goes link dead.[0m
+[32mSirdest says '%You drink the contents of a flask containing fizzing magenta liquid [0m[32mlabeled as mana_shield%.'[0m
+*Roc squawks at Cilwand
+[32mSirdest exclaims '%Wow! You feel magically empowered... your mind momentarily [0m[32mexpands!'[0m
+Viol [34m[newbie]:[0m is battleaxe a two hand weapon? i wield one in my right hand, but when i try to wield hand-axe in hand 2, it says that i cant hold it
+[32mSirdest says '%You save the rest of the potion.'[0m
+[32mSirdest says '%You are so full of liquid you feel like you might burst.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(645)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You drink the contents of a flask containing fizzing magenta [0m[32mliquid.'[0m
+[32mSirdest says '%You get a magical feeling.'[0m
+[32mSirdest says '%Flash of light blinds you for a moment.'[0m
+[32mSirdest says '%You close team 1 door.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(645)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You close team 1 door.'.'[0m
+The arena master shouts 'Team 1 consists of Amd'
+The arena master shouts 'Team 2 consists of Era'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Amd'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Era'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%You feel like normal yourself again.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(645)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You start chanting.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              1040/1101 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               588/645  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:35] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mMandigal quacks 'hastes...'[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(645)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% l.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              1040/1101 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               588/645  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:37] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(588)/(645)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(281)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from casting the spell.'.'[0m
+[32mSirdest says '% av.'[0m
+[32mSirdest exclaims '%Kukkia, kukkia. Nyt tiedan miksi on kukkia!'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(598)/(645)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% av.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 4 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 4 times.'[0m
+[32mSirdest says '%Hp (560)/(633) -38 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+la arena
+[32mSirdest says '%Lava gem is in excellent shape. [0m(90-100% hps)[32m'[0m
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              1009/1094 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               560/633  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:38] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%|=>HP:[(598)/(645)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Gem of burning lava <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Amd hits Lava gem 2 times.'[0m
+[32mSirdest says '%Lava gem hits Amd 3 times.'[0m
+[32mSirdest says '%Hp (503)/(619) -57 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(598)/(645)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%Lava gem is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(503)/(619)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Obvious exits are: n, ne and e.'.'[0m
+la arena
+Eronk [34m[newbie]:[0m youre probably wearing something in held slot
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               995/1090 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               503/619  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:39] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% ab.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(503)/(619)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% ab.'.'[0m
+[32mSirdest says '%You skillfully cast the spell with greater haste.'[0m
+[32mSirdest says '% l.'[0m
+[32mMandigal quacks 'greater haste...'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(503)/(619)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You skillfully cast the spell with greater haste.'.'[0m
+[32mMandigal quacks 'greater haste...'[0m
+la arena
+[32mSirdest says '%Lava gem arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 3 times.'[0m
+[32mSirdest says '%Hp (483)/(612) -20 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               995/1090 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               483/612  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:41] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% sa.'[0m
+[32mSirdest says '%Lava gem is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(503)/(619)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem arrives from east.'.'[0m
+Melkor [34m[newbie]:[0m wield hand-axe in left
+[32mSirdest says '% ga from disc.'[0m
+[32mSirdest says '%There is no disc here.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(483)/(612)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% zap era with wand.'[0m
+[32mSirdest says '%No era is present.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(483)/(612)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% zap era with wand 2.'[0m
+[32mSirdest says '%No era is present.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(483)/(612)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% dn in mystic.'[0m
+[32mSirdest says '%There is no 'mystic' here.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says [0m[32m'%|=>HP:[(483)/(612)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% ga from disc.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               995/1090 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               483/612  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:43] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Lava gem leaves north.'[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(483)/(612)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% l.'.'[0m
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(483)/(612)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from casting the spell.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 3 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 2 times.'[0m
+[32mSirdest says '%Hp (463)/(604) -20 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem is in a good shape.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(463)/(604)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%%Lava gem leaves west.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               973/1085 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               463/604  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:45] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(463)/(604)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest says '%Lava gem hits Amd 1 time.'[0m
+[32mSirdest says '%Amd hits Lava gem 2 times.'[0m
+[32mSirdest says '%Hp (459)/(601) -4 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+la arena
+[32mSirdest says '%Lava gem is in a good shape.'[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               961/1080 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               459/601  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:47] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%|=>HP:[(459)/(601)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem is in a good shape.'.'[0m
+Tonto [36m(tarmalen):[0m anyone wanna summon nubu tarma to ramona? :>
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(459)/(601)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+Eronk [34m[newbie]:[0m which is why you cant wield 2 weapons
+[32mSirdest says '%You say '%You start chanting.'.'[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Gem of burning lava <team 2>.'[0m
+Qmar [34m[newbie]:[0m Sure you don't have anything in that slot?
+[32mSirdest says [0m[32m'%|=>HP:[(459)/(601)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% l.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               961/1080 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               459/601  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:49] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;30mInfo: Luggage goes link dead.[0m
+[32mSirdest says '%Acid blast: ####.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 2 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 3 times.'[0m
+[32mSirdest says '%Hp (453)/(597) -6 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem is in a good shape.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(453)/(597)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem is in a good shape.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               941/1074 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               453/597  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:51] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Searc arrives from down.
+[32mSirdest says '%Lava gem arrives from east.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mMandigal quacks 'hastes...'[0m
+[32mSirdest says '%Amd hits Lava gem 3 times.'[0m
+[32mSirdest says '%Lava gem hits Amd 2 times.'[0m
+[32mSirdest says '%Hp (436)/(591) -17 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem leaves north.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(436)/(591)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               921/1068 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               436/591  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:53] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%No gem is present.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(436)/(591)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%No gem is present.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               921/1068 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               436/591  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:56] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Sitan [34m[newbie]:[0m what axe is it...could be an alihnment issue also
+[32mSirdest says '% zap gem with wand.'[0m
+[32mSirdest says '%No gem is present.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(436)/(591)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% zap gem with wand.'.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(436)/(591)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You interrupt the chant in order to start a new chant.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               921/1068 1240/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               436/591  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:18:58] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Lava gem arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 3 times.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Amd hits Lava gem 1 time.'[0m
+[32mSirdest says '%Hp (387)/(578) -49 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(387)/(578)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You exclaim '%You score a CRITICAL hit!'.'[0m
+[32mSirdest says '%No gem is present.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(387)/(578)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Hp (387)/(578) -49 SP (1483)/(1483)  EP (284)/(284)   ().'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              1035/1063 1204/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               387/578  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:00] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+'hahahaha
+
+You echo 'hahahaha.'
+[21:19:02] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+la arena
+
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              1035/1063 1204/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               387/578  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:02] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Lava gem arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 3 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 3 times.'[0m
+[32mSirdest says '%Hp (371)/(571) -16 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem leaves north.'[0m
+Nullnullatte arrives from down.
+[32mSirdest says [0m[32m'%|=>HP:[(371)/(571)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem hits Amd 3 times.'.'[0m
+[32mSirdest says '%You interrupt the chant in order to start a new chant.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(371)/(571)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem leaves north.'.'[0m
+[32mSirdest says 'mmm.. tactical.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              1012/1057 1204/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               371/571  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:03] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(371)/(571)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from casting the spell.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(371)/(571)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 3 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 2 times.'[0m
+[32mSirdest says '%Hp (345)/(562) -26 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(371)/(571)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem hits Amd 3 times.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               993/1052 1204/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               345/562  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:06] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%|=>HP:[(345)/(562)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@cast shelter.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(345)/(562)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% @@party report Shelter Incoming.'[0m
+[32mSirdest says '%Amd [1;30m[report]:[0;32m Shelter Incoming.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(345)/(562)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say [0m[32m'%|=>HP:[(345)/(562)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EX.'[0m
+Qmar [34m[newbie]:[0m like an armour such as tome or sceptre?
+[32mSirdest says '%Shelter: #####.'[0m
+[32mSirdest says '%You skillfully cast the spell with greater haste.'[0m
+[32mMandigal quacks 'greater haste...'[0m
+[32mSirdest says '%Lava gem arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 4 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 2 times.'[0m
+[32mSirdest says '%Hp (292)/(545) -60 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem leaves north.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(292)/(545)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+la arena
+[32mSirdest says '%You say '%Hp (292)/(545) -60 SP (1483)/(1483)  EP (284)/(284)   ().'.'[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               978/1048 1204/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               292/545  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:09] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mMaphesto laughs out loud.[0m
+[32mSirdest says '%Lava gem arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 2 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 1 time.'[0m
+[32mSirdest says '%Hp (289)/(541) -3 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem leaves north.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               961/1044 1204/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               289/541  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:12] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%|=>HP:[(289)/(541)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say [0m[32m'%|=>HP:[(289)/(541)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EX.'[0m
+Eronk [34m[newbie]:[0m yes
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%Lava gem leaves north.'[0m
+[32mSirdest says '%Lava gem arrives from east.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 4 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 3 times.'[0m
+[32mSirdest says '%Hp (256)/(529) -33 SP (1483)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem leaves north.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(256)/(529)]<=|=>SP:[(1483)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Amd hits Lava gem 3 times.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               944/1039 1204/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               256/529  1483/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:16] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Pera arrives from down.
+[32mSirdest says '%You utter the magic words 'withing thang walz' [57m(Shelter)[32m.'[0m
+[32mSirdest says '%This location is now surrounded in a shimmering blue forcefield.'[0m
+Nullnullatte leaves west.
+[32mSirdest says '%Hp (256)/(529)  SP (1381)/(1483) -102 EP (284)/(284)   ().'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(256)/(529)]<=|=>SP:[(1381)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+[1;30mInfo: Drakh enters the game.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               944/1039 1204/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               256/529  1381/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:19] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+la arena
+
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               949/1039 1244/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               256/529  1381/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:23] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;37mJuo [0;52m[party]:[1;37m jaha[0m
+[32mCilwand says 'mika on targetti, APUA.'[0m
+Nullnullatte arrives from east.
+[32mSirdest says '% take major_heal from pack.'[0m
+[32mSirdest says '%You get 'flask' from your HUGE sturdy pack.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(256)/(529)]<=|=>SP:[(1381)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% take major_heal from pack.'.'[0m
+p say otti miettimis aikaa :D
+[1;37mNuane [0;52m(party):[1;37m otti miettimis aikaa :D[0m
+[21:19:29] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You drink the contents of a flask containing layered bright blue [0m[32mliquid%.'[0m
+[32mSirdest exclaims '%Wow! You feel magically empowered... your mind momentarily [0m[32mexpands!'[0m
+[32mSirdest says '%You save the rest of the potion.'[0m
+[32mSirdest says '%You are so full of liquid you feel like you might burst.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(256)/(529)]<=|=>SP:[(1381)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You drink the contents of a flask containing layered bright [0m[32mblue.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(256)/(529)]<=|=>SP:[(1381)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               949/1039 1244/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               256/529  1381/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:33] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Ragnhild arrives from down.
+[32mSirdest says '%Hp (265)/(529) +9 SP (1424)/(1483) +43 EP (284)/(284)   ().'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               949/1039 1244/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               265/529  1424/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:39] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You feel like normal yourself again.'[0m
+[32mSirdest says '%Channel party is now on.'[0m
+[32mSirdest says '%Amd [52m[party]:[32m Fully healed.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(529)/(529)]<=|=>SP:[(1424)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Channel party is now on.'.'[0m
+Nullnullatte looks at orb.
+Tonto [36m(tarmalen):[0m sniff
+[32mSirdest says '%Kerzebel tells Zumbalo, Searc, Anjew and you 'uujes toi o finito iha [0m[32mjust'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+[1;30mInfo: Jeez recovers from link death.[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              1039/1039 1208/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               529/529  1424/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:44] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Sudden enlightment takes over you.
+[1;30mInfo: Kooper left the game.[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(529)/(529)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '% l.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              1039/1039 1208/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               529/529  1432/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:49] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;30mInfo: Dargon goes link dead.[0m
+[1;30mInfo: Kooper enters the game.[0m
+la arena
+       
+ ####  
+ #.[1;36m2[0m#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              1039/1039 1325/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               529/529  1432/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:53] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Zumbalo tells Searc, Anjew, Kerzebel and you 'moon tääl calys'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Gem of burning lava <team 2>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Amd hits Lava gem 4 times.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest says '%Lava gem hits Amd 1 time.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(529)/(527)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+la arena
+[32mSirdest says '%% zap gem with wand.'[0m
+[32mSirdest says '%You zap Lava gem with Custom wand named acid blast (1/100).'[0m
+[42mSirdest says '%You watch with selfpride as your acid blast hits Lava gem.'[0m
+[32mSirdest says '%Lava gem screams in pain.'[0m
+[32mSirdest says '%Lava gem's flex shield wobbles.'[0m
+       
+ ####  
+ #.[1;36m2[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               497/955  1325/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               529/527  1432/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:19:58] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%|=>HP:[(529)/(527)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%Lava gem is noticeably hurt.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(529)/(527)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Amd hits Lava gem 4 times.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Amd hits Lava gem 2 times.'[0m
+[32mSirdest says '%You feel your will returning normal.'[0m
+[32mSirdest says '%Lava gem hits Amd 1 time.'[0m
+[32mSirdest says '%Hp (502)/(526) -25 SP (1432)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem leaves west.'[0m
+[32mSirdest says '% sa.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(502)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says '%Amd [52m[party]:[32m < Unpain DOWN > [2:35].'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(502)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Amd hits Lava gem 2 times.'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(502)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You feel your will returning normal.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m21[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               492/953  1325/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               502/526  1432/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:02] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;30mInfo: Keffe recovers from link death.[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(502)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%          All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '% s.'[0m
+la arena
+[32mSirdest says '%Your movement prevents you from casting the spell.'[0m
+[32mPera asks 'ketkä tappelee?'[0m
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               468/946  1325/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               438/526  1432/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:04] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(502)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%%Lava gem arrives from northwest.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 4 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 4 times.'[0m
+[32mSirdest says '%Hp (438)/(526) -64 SP (1432)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem is not in a good shape.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(502)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from casting the spell.'.'[0m
+[1;30mInfo: Zarx left the game.[0m
+[32mSirdest says '%You feel like your shield of energy blocked some physical damage.'[0m
+[32mSirdest says '%Lava gem hits Amd 1 time.'[0m
+[32mJuo buzzes 'era amd.'[0m
+[32mSirdest says '%Amd hits Lava gem 3 times.'[0m
+[32mSirdest says '%Hp (406)/(526) -32 SP (1432)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '% ab.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(406)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% sa.'[0m
+[32mSirdest says '%Lava gem is not in a good shape.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(406)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You feel like your shield of energy blocked some physical [0m[32mdamage.'.'[0m
+la arena
+Viol [34m[newbie]:[0m i had aklys in my left hand, that was the problem. problem solved now, it is. thanks
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               453/941  1325/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               406/526  1432/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:07] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You skillfully cast the spell with greater haste.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mMandigal quacks 'greater haste...'[0m
+[32mSirdest says '%Lava gem hits Amd 4 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 1 time.'[0m
+[32mSirdest says '%Hp (351)/(526) -55 SP (1432)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem claps her hands and whispers 'judicandus mangenic' [57m(Cure [0m[57mcritical wounds)[32m.'[0m
+[32mSirdest says '%Lava gem claps her hands and whispers 'judicandus mangenic' [57m(Cure [0m[57mcritical wounds)[32m.'[0m
+[32mSirdest says '% sa.'[0m
+[32mSirdest says '%Lava gem is slightly hurt.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(351)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Hp (351)/(526) -55 SP (1432)/(1483)  EP (284)/(284)   ().'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               656/940  1289/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               351/526  1432/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:10] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%But there's no-one with that name here.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(351)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%But there's no-one with that name here.'.'[0m
+[1;30mInfo: Zarx enters the game.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 4 times.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Amd hits Lava gem 3 times.'[0m
+[32mSirdest says '%Hp (293)/(526) -58 SP (1432)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem claps her hands and whispers 'judicandus zapracus' [57m(True [0m[57mheal)[32m.'[0m
+[32mSirdest says '%Lava gem claps her hands and whispers 'judicandus zapracus' [57m(True [0m[57mheal)[32m.'[0m
+[32mSirdest says '%Lava gem is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(293)/(526)]<=|=>SP:[(1432)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem hits Amd 4 times.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               931/931  1124/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               293/526  1432/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:13] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You clap your hands together and say 'fzz mar nak grttzt' [57m(Acid [0m[57mblast)[32m.'[0m
+[32mSirdest says '%You clap your hands together and say 'fzz mar nak grttzt' [57m(Acid [0m[57mblast)[32m.'[0m
+[32mSirdest exclaims '%You pull out a handful of olivine powder which bursts into a [0m[32mzillion technicolour sparkles!'[0m
+[42mSirdest says '%You watch with selfpride as your acid blast hits Lava gem.'[0m
+[32mSirdest says '%Lava gem's flex shield wobbles.'[0m
+[32mSirdest says '%Hp (293)/(526)  SP (1319)/(1483) -113 EP (284)/(284)   ().'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest says '%Lava gem hits Amd 2 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 2 times.'[0m
+[32mSirdest says '%Hp (282)/(526) -11 SP (1319)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem is noticeably hurt.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(282)/(526)]<=|=>SP:[(1319)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You exclaim '%You pull out a handful of olivine powder which bursts [0m[32minto a.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               441/872  1124/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               282/526  1319/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:16] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 2 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 2 times.'[0m
+[32mSirdest says '%Hp (266)/(526) -16 SP (1319)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '% shake aegis at gem.'[0m
+[32mSirdest says '%You shake Aegis before gem.'[0m
+[32mSirdest exclaims '%Gem is stunned by fear from Aegis!'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(266)/(526)]<=|=>SP:[(1319)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%*****************************************************.'.'[0m
+[32mSirdest says '%Lava gem is noticeably hurt.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(266)/(526)]<=|=>SP:[(1319)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem hits Amd 2 times.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               437/872  1124/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               266/526  1319/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:19] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(266)/(526)]<=|=>SP:[(1319)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You start chanting.'.'[0m
+[32mSirdest says 'exciting.'[0m
+[1;30mInfo: Druff dies.[0m
+[1;30mInfo: Cola dies.[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mMandigal quacks 'hastes...'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest says '%Lava gem hits Amd 4 times.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Lava gem seems [51mhurt and confused[32m.'[0m
+[32mSirdest says '%Amd hits Lava gem 3 times.'[0m
+[32mSirdest says '%Hp (235)/(526) -31 SP (1319)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '%Lava gem is not in a good shape.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(235)/(526)]<=|=>SP:[(1319)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%% party report Lava gem lost concentration.'[0m
+[32mSirdest says '%Amd [1;30m[report]:[0;32m Lava gem lost concentration.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(235)/(526)]<=|=>SP:[(1319)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%Mandigal quacks 'hastes...'.'[0m
+[32mSirdest exclaims 'toe to toe!'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               388/872  1124/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               235/526  1319/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:22] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Acid blast: ##.'[0m
+[32mSirdest says '%You skillfully cast the spell with haste.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Lava gem hits Amd 3 times.'[0m
+[32mSirdest says '%Amd hits Lava gem 3 times.'[0m
+[32mSirdest says '%Hp (200)/(526) -35 SP (1319)/(1483)  EP (284)/(284)   ().'[0m
+[32mSirdest says '% sa.'[0m
+[32mSirdest says '%Lava gem is not in a good shape.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(200)/(526)]<=|=>SP:[(1319)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Acid blast: ##.'.'[0m
+[32mMandigal quacks 'hastes...'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era               364/872  1124/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               200/526  1319/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:25] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;30mInfo: Chizra dies.[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You clap your hands together and say 'fzz mar nak grttzt' [57m(Acid [0m[57mblast)[32m.'[0m
+[32mSirdest says '%You clap your hands together and say 'fzz mar nak grttzt' [57m(Acid [0m[57mblast)[32m.'[0m
+[32mSirdest exclaims '%You pull out a handful of olivine powder which bursts into a [0m[32mzillion technicolour sparkles!'[0m
+[42mSirdest says '%You watch with selfpride as your acid blast hits Lava gem.'[0m
+[32mSirdest says '%Lava gem screams in pain.'[0m
+[32mSirdest says '%Lava gem's flex shield wobbles.'[0m
+[32mSirdest says '%Lava gem lapses into [51munconscious[32mness from severe loss of blood.'[0m
+[32mSirdest says '%Your fine choice of components lowers the effort of the spell.'[0m
+[32mSirdest says '%Hp (200)/(526)  SP (1206)/(1483) -113 EP (284)/(284)   ().'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Amd hits Lava gem 4 times.'[0m
+[32mSirdest says '%Lava gem is near death.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(200)/(526)]<=|=>SP:[(1206)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Lava gem's flex shield wobbles.'.'[0m
+la arena
+Viol [34m[newbie]:[0m what are aklys anyway?
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%You surreptitiously conceal your spell casting.'[0m
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              -167/872  1124/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               200/526  1206/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:28] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%|=>HP:[(200)/(526)]<=|=>SP:[(1206)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%You start chanting.'.'[0m
+[1;30mInfo: Trubadurix dies.[0m
+ooo
+You go 'Ooooo...'.
+[21:20:30] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Amd hits Lava gem 4 times.'[0m
+[32mSirdest says '%@Shardik claps at you.'[0m
+[32mSirdest says '%Lava gem is near death.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(200)/(526)]<=|=>SP:[(1206)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+[32mSirdest says '%You say '%Amd hits Lava gem 4 times.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              -190/872  1124/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               200/526  1206/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:31] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mGeroth says 'Oh', with a blank look on his face.[0m
+[32mMaphesto cheers enthusiastically.[0m
+[32mSirdest says '%You skillfully cast the spell with greater haste.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Amd hits Lava gem 4 times.'[0m
+[32mSirdest says '% sa.'[0m
+[32mMandigal quacks 'greater haste...'[0m
+[32mSirdest says '%Lava gem is near death.'[0m
+[32mSirdest says [0m[32m'%|=>HP:[(200)/(526)]<=|=>SP:[(1206)/(1483)]<=|=>EP:[(284)/(284)]<=|=>EXP:[90244]<=[0m[32m|.'[0m
+la arena
+[32mSirdest says '%You say '%You skillfully cast the spell with greater haste.'.'[0m
+[32mMandigal quacks 'greater haste...'[0m
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Era              -214/872  1124/1345 |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               200/526  1206/1483 |                                      |
+`-----------------------------------------------------------------------------'
+[21:20:34] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;37mMardus [0;52m<party>:[1;37m oho[0m
+The arena master shouts 'Lava gem of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Amd'
+[32mSirdest says '%You are done with the chant.'[0m
+[1;37mEnochian [0;52m(party):[1;37m no hoho[0m
+[32mSirdest says '%You clap your hands together and say 'fzz mar nak grttzt' [57m(Acid [0m[57mblast)[32m.'[0m
+[32mSirdest says '%You clap your hands together and say 'fzz mar nak grttzt' [57m(Acid [0m[57mblast)[32m.'[0m
+[32mSirdest exclaims '%You pull out a handful of olivine powder which bursts into a [0m[32mzillion technicolour sparkles!'[0m
+[32mSirdest says '%You feel connected to the very essence of magic.'[0m
+[42mSirdest says '%You watch with selfpride as your acid blast hits Lava gem.'[0m
+[32mSirdest says '%Lava gem screams in pain.'[0m
+[32mSirdest says '%Lava gem's flex shield wobbles.'[0m
+[32mSirdest says '%Lava gem dies in a massive fit of convulsions.'[0m
+[32mSirdest says '%Era dies and is carried away by two clerics.'[0m
+[32mSirdest says '%The arena master shouts 'Lava gem of team 2 dies and is removed from [0m[32mthe arena!'.'[0m
+[32mSirdest says '%Lava gem leaves away.'[0m
+[32mSirdest says '%Your fine choice of components lowers the effort of the spell.'[0m
+[32mSirdest says '%Hp (200)/(526)  SP (1093)/(1483) -113 EP (284)/(284)   ().'[0m
+[32mSirdest says '%The arena master shouts 'Fight is over! Winner is team 1 which [0m[32mconsists of Amd'.'[0m
+[32mSirdest says '%This is a small ch[53mamber[32m down in the arena-building, where the magical [0m[32marena of.'[0m
+[32mSirdest says '%Team 1 door [53m(closed)[32m leads team1.'[0m
+[32mSirdest says '%Sirdar Silverfang the Wizard.'[0m
+la arena
+There is no fight going on.
+[21:20:37] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mFarliss is absolutely stunned and amazed and can only say 'Wow...'.[0m
+[32mTyro goes 'Ooooo...'.[0m
+[32mSirdest says '%Lava gem arrives from west.'[0m
+[56mTICK IN 5 SECONDS.[0m
+mmm
+You go 'mmmmm...'.
+[21:20:44] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Nullnullatte leaves down.
+Madmalk [34m[newbie]:[0m an axe - look at it for desc
+[32mSirdest says '%Lava gem leaves up.'[0m
+[1;30m[bat]:[0m Amd says 'YES'!
+Weaponsmith shouts 'All the wares in my shop are available for only 69% of  their real value FOR A LIMITED TIME!'
+[32mXunisiih quacks 'nice match.'[0m
+[32mTyro roars 'yeah.'[0m
+[32mMalacoda nods solemnly.[0m
+Cutter leaves down.
+Sirdar shouts 'Amd prevails over Lava Gem!'

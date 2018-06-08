@@ -1,0 +1,57 @@
+The Battle Royale Continues:
+Serra and Fil will fight to the death!
+Serra: remove emerald ring
+Serra: wear demonic ring
+Serra: remove demonic ring
+Serra: wear emerald ring
+Fil: kill serra
+Fil: scan all
+Fil: Hp 95%
+Serra: Hp 97%
+Fil: use 'wave crest strike'
+Serra: remove axe
+Serra: remove axe 2
+Serra: cast tiger claw
+Fil: Hp 95%
+Serra: Hp 97%
+Fil: scan all
+Fil: Hp 88%
+Serra: Hp 97%
+Fil: scan all
+Fil: Hp 66%
+Serra: Hp 97%
+Fil: scan all
+Fil: use 'geyser force kick'
+Serra: remove axe
+Serra: remove axe 2
+Serra: cast tiger claw
+Serra: scan all
+Fil: Hp 49%
+Serra: Hp 96%
+Fil: scan all
+Fil: use 'wave crest strike'
+Serra: scan all
+Fil: Hp 49%
+Serra: Hp 95%
+Fil: scan all
+Serra: scan all
+Fil: Hp 43%
+Serra: Hp 91%
+Fil: scan all
+Serra: remove axe
+Serra: remove axe 2
+Serra: cast tiger claw
+Serra: scan all
+Fil: Hp 15%
+Serra: Hp 90%
+Fil: scan all
+Serra: scan all
+Serra: blah
+Fil: Hp 7%
+Serra: Hp 89%
+Fil: scan all
+Fil: use 'wave crest strike'
+Fil: Hp 7%
+Serra: Hp 87%
+Fil died and thus loses this round!
+Serra has won this round of the Battle Royale!

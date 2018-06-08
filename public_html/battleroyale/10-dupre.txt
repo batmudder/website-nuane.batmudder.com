@@ -1,0 +1,338 @@
+Dupre and Toudi will fight to the death!
+This is a dark, dank pit. The walls and floor are made from large blocks of
+wet stone, more-or-less assembled together well. Bloodstains spot the floor in
+various places.
+Sticking out of both side walls are nearly a hundred metal spikes. They seem
+very sharp, but not very clean -- bits of tattered, rotting flesh hang from
+their tips. They appear to be inching closer every second.
+There are no obvious exits.
+a large magical mapper scroll labeled as cozmo
+Toudi removes Ring of power [Made by: Matriam] labeled as 4dam1a.
+bla
+Toudi suddenly turns invisible.
+Someone wears something.
+use pound at toudi
+You start concentrating on the skill.
+Hp:1746/1746 Ep:412/412 Sp:16/16 27625 0 37 > 
+k
+target toudi
+kill toudi
+Hp:1746/1746 Ep:412/412 Sp:16/16 27625 0 37 > 
+*****************************************************
+Someone hits Dupre once sparking a limb to slice open.
+You miss.
+Someone dodges.
+Hp:1708/1733 -38| ep:412/412 | Sp:16/16 |  
+Hp:1746/1746 Ep:412/412 Sp:16/16 27625 0 37 > 
+You are now targetting Someone.
+Hp:1746/1746 Ep:412/412 Sp:16/16 27625 0 37 > 
+The spikes push closer together.
+cinfo
+cast info
+You are using 'pound' at 'toudi'.
+Hp:1708/1733 Ep:412/412 Sp:16/16 27625 0 37 > 
+*****************************************************
+The spikes push closer together.
+You are prepared to do the skill.
+You turn your enemy's lunge aside and pound in one swift movement!
+Hp:1708/1733 | ep:380/412 -32| Sp:16/16 |  
+bla
+use pound at toudi
+You start concentrating on the skill.
+Hp:1708/1733 Ep:380/412 Sp:16/16 27625 0 37 > 
+x
+scan all
+Someone is in excellent shape.
+Smalldrake is in excellent shape.
+Hp:1708/1733 Ep:380/412 Sp:16/16 27625 0 37 > 
+*****************************************************
+You thump Someone.
+Someone dodges.
+The spikes push closer together.
+Toudi cries out, glowing momentarily.
+8 images of Someone suddenly appear.
+t toudi
+target toudi
+You are now targetting Someone.
+Hp:1708/1733 Ep:380/412 Sp:16/16 27625 0 37 > 
+*****************************************************
+That really hurt! You just have to stop your skill.
+You lose your concentration and cannot do the skill.
+Someone hits Dupre once making an artery explode.
+You miss.
+Hp:1664/1719 -44| ep:380/412 | Sp:16/16 |  
+The spikes push closer together.
+*****************************************************
+Someone hits Dupre twice causing a kidney to rupture.
+You thrust Someone.
+An image of Someone vanishes.
+An image of Someone vanishes.
+Someone dodges.
+Hp:1598/1698 -66| ep:380/412 | Sp:16/16 |  
+The spikes push closer together.
+Humming mace of Thunder in your hand is suddenly surrounded with bright blue
+glow and a fuming blast of lightning strikes Toudi down.
+An image of Toudi vanishes.
+Humming mace of Thunder drains your magical energy to balance the space time
+continuum.
+Someone leads an unmitigated blow directly to your neck.  You can feel your moral beliefs clash with her.  Your mind is crushed by the overwhelming moral superiority of Someone.
+You scream loudly.
+Your flex shield wobbles and part of the attack gets absorbed!
+battle listen all 3
+*Someone ATTACKS!
+battle listen all 3
+Listening to all at level: 3 - Verbose messages.
+Hp:1506/1679 Ep:380/412 Sp:-224/16 27625 0 37 > 
+bla
+use pound at toudi
+You start concentrating on the skill.
+Hp:1506/1679 Ep:380/412 Sp:-224/16 27625 0 37 > 
+x
+Nazrix [bat]: how is it last, they will only have 1 win
+scan all
+Someone is in excellent shape.
+Smalldrake is in excellent shape.
+Hp:1506/1679 Ep:380/412 Sp:-224/16 27625 0 37 > 
+cinfo
+cast info
+You are using 'pound' at 'toudi'.
+Hp:1506/1679 Ep:380/412 Sp:-224/16 27625 0 37 > 
+*****************************************************
+Someone misses you.
+Someone shreds you creating a nasty infection.
+You stroke Someone.
+An image of Someone vanishes.
+An image of Someone vanishes.
+Hp:1473/1670 -125| ep:380/412 | Sp:-224/16 -240|  
+The spikes push closer together.
+Toudi rides up slashing at Dupre, but her attack is easily blocked.
+Toudi starts concentrating on a new offensive skill.
+*****************************************************
+You thrust Smalldrake.
+You strike Smalldrake.
+You try to dodge, but Toudi is not fooled.
+Smiling devilishly Toudi uncontrollably slashes you causing the entire dermis to burn.
+Your flex shield wobbles and part of the attack gets absorbed!
+Hp:1289/1610 -184| ep:380/412 | Sp:-224/16 |  
+The spikes push closer together.
+cinfo
+cast info
+You are using 'pound' at 'toudi'.
+Hp:1289/1610 Ep:380/412 Sp:-224/16 27625 0 37 > 
+0
+rebirth heal
+Dupre is momentarily engulfed in energy
+Your body is unable to handle all of the influx of magical energy.
+You feel better.
+Hp:1610/1610 Ep:412/412 Sp:-124/16 27625 0 37 > 
+*****************************************************
+You thrust Smalldrake.
+Toudi shreds you making hair burn.
+Toudi horribly shreds you causing a small wound.
+Hp:1529/1586 +240| ep:412/412 +32| Sp:-124/16 +100|  
+The spikes push closer together.
+You are prepared to do the skill.
+You begin your pound, but see a new opportunity and smash your foe with the haft of your weapon!
+An image of Toudi vanishes.
+Hp:1529/1586 | ep:382/412 -30| Sp:-124/16 |  
+bla
+use pound at toudi
+You start concentrating on the skill.
+Hp:1529/1586 Ep:382/412 Sp:-124/16 27625 0 37 > 
+x
+scan all
+Toudi is in excellent shape.
+Smalldrake is in excellent shape.
+Hp:1529/1586 Ep:382/412 Sp:-124/16 27625 0 37 > 
+*****************************************************
+You tumble Toudi's dodge.
+You thrust Toudi.
+An image of Toudi vanishes.
+An image of Toudi vanishes.
+You bash Toudi.
+Toudi misses you.
+The spikes push closer together.
+x
+scan all
+Toudi is in a good shape.
+Smalldrake is in excellent shape.
+Hp:1529/1586 Ep:382/412 Sp:-124/16 27625 0 37 > 
+Dralith <bat>: they were given byes..
+*****************************************************
+You miss.
+Toudi incises you making hair burn.
+Hp:1504/1577 -25| ep:382/412 | Sp:-124/16 |  
+The spikes push closer together.
+Sumendar {bat}: winner gets a bye?
+Nazrix [bat]: you need minimum 2 wins to enter final battle right?
+cinfo
+cast info
+You are using 'pound' at 'toudi'.
+Hp:1504/1577 Ep:382/412 Sp:-124/16 27625 0 37 > 
+*****************************************************
+You thrust Smalldrake.
+You miss.
+Toudi misses you.
+Toudi horribly shreds you inducing a minor poison burn.
+You feel like your shield of energy blocked some physical damage.
+Hp:1460/1565 -44| ep:382/412 | Sp:-124/16 |  
+The spikes close in and stab you!
+Hp:1404/1550 -56| ep:382/412 | Sp:-124/16 |  
+Toudi leads an unmitigated blow directly to your neck.  You can feel your moral beliefs clash with her.  Your mind is crushed by the overwhelming moral superiority of Toudi.
+You lose your concentration and cannot do the skill.
+You scream loudly.
+Your flex shield wobbles and part of the attack gets absorbed!
+p' < Iron Will DOWN >
+You feel no longer protected from being stunned.
+party say < Iron Will DOWN >
+Dupre (party): < Iron Will DOWN >
+Hp:1328/1534 Ep:382/412 Sp:-124/16 27625 0 37 > 
+*Toudi ATTACKS!
+*****************************************************
+Toudi misses you.
+You thrust Smalldrake.
+Hp:1328/1534 -76| ep:382/412 | Sp:-124/16 |  
+The spikes close in and stab you!
+Hp:1216/1505 -112| ep:382/412 | Sp:-124/16 |  
+Toudi stabs you in the chest, then her mount tramples you to the ground!
+Toudi unfolds and reads a scroll.
+8 images of Toudi suddenly appear.
+Toudi starts concentrating on a new offensive skill.
+drink major_heal
+drink major_heal
+You drink the contents of a flask containing syrupy bright blue liquid labeled as major_heal.
+Wow! You feel magically empowered... your mind momentarily expands!
+You save the rest of the potion.
+You are so full of liquid you feel like you might burst.
+Hp:1113/1472 Ep:382/412 Sp:-124/16 27625 0 37 > 
+*****************************************************
+You successfully dodge Toudi's slash.
+Toudi misses you.
+Toudi dodges.
+Hp:1113/1472 -103| ep:382/412 | Sp:-124/16 |  
+An image of Toudi vanishes.
+The spikes close in and stab you!
+Hp:947/1429 -166| ep:382/412 | Sp:-124/16 |  
+x
+scan all
+Toudi is slightly hurt.
+Smalldrake is in excellent shape.
+Hp:947/1429 Ep:382/412 Sp:-124/16 27625 0 37 > 
+Flash of light blinds you for a moment.
+*****************************************************
+You successfully dodge Toudi's slash.
+You successfully dodge Toudi's slash.
+You miss.
+An image of Toudi vanishes.
+The spikes close in and stab you!
+Your armours absorb some of the damage.
+p' < Unpain DOWN > [7:34]
+You feel your will returning normal.
+Hp:873/1428 -74| ep:382/412 | Sp:-124/16 |  
+party say < Unpain DOWN > [7:34]
+Dupre (party): < Unpain DOWN > [7:34]
+Hp:873/1428 Ep:382/412 Sp:-124/16 27625 0 37 > 
+Smalldrake sighs quietly.
+You feel like you could faint any minute.
+x
+scan all
+Toudi is slightly hurt.
+Smalldrake is in excellent shape.
+Hp:873/1428 Ep:382/412 Sp:-124/16 27625 0 37 > 
+*****************************************************
+You thrust Smalldrake.
+You miss.
+The spikes close in and stab you!
+That really HURT!
+Hp:595/1428 -278| ep:382/412 | Sp:-124/16 |  
+Toudi thunders up and slashes your chest so hard that your ribs snap!
+Toudi starts concentrating on a new offensive skill.
+x
+scan all
+Toudi is not in a good shape.
+Smalldrake is in excellent shape.
+Hp:503/1428 Ep:382/412 Sp:-124/16 27625 0 37 > 
+You heal much of your own wounds.
+You feel like yourself again.
+Toudi unfolds and reads a scroll.
+Toudi casts a healing spell on Toudi.
+*****************************************************
+Toudi misses you.
+Toudi misses you.
+You thrust Smalldrake.
+Hp:913/1428 +318| ep:382/412 | Sp:-124/16 |  
+An image of Toudi vanishes.
+The spikes close in and stab you!
+That really HURT!
+Hp:581/1428 -332| ep:382/412 | Sp:-124/16 |  
+x
+scan all
+Toudi is slightly hurt.
+Smalldrake is in excellent shape.
+Hp:581/1428 Ep:382/412 Sp:-124/16 27625 0 37 > 
+*****************************************************
+Toudi misses you.
+Toudi horribly shreds you causing the lungs to become poisoned.
+Your marvellous sense of combat prevents your necklace from getting scratched.
+Your armours absorb some of the damage.
+You stroke Toudi.
+An image of Toudi vanishes.
+An image of Toudi vanishes.
+Toudi dodges.
+Hp:546/1428 -35| ep:382/412 | Sp:-124/16 |  
+An image of Toudi vanishes.
+The spikes close in and stab you!
+Your flex shield wobbles and part of the attack gets absorbed!
+You feel like your shield of energy blocked some physical damage.
+That really HURT!
+You are about to DIE!
+Hp:223/1428 -323| ep:382/412 | Sp:-124/16 |  
+cinfo
+cast info
+You are not doing anything at the moment.
+Hp:223/1428 Ep:382/412 Sp:-124/16 27625 0 37 > 
+x
+scan all
+Toudi is slightly hurt.
+Smalldrake is in excellent shape.
+Hp:223/1428 Ep:382/412 Sp:-124/16 27625 0 37 > 
+*****************************************************
+You try to dodge, but Toudi is not fooled.
+Toudi incises you forcing the spleen to detonate from an internal explosion.
+You feel like your shield of energy blocked some magical damage.
+You are about to DIE!
+You are about to DIE!
+You stroke Toudi.
+An image of Toudi vanishes.
+An image of Toudi vanishes.
+Hp:196/1428 -27| ep:382/412 | Sp:-124/16 |  
+Toudi is dismounted!
+The spikes close in and stab you!
+Your flex shield wobbles and part of the attack gets absorbed!
+That really HURT!
+You wish your wounds would stop BLEEDING so much!
+pp *woke up from the stun*
+You are no longer stunned.
+You fall unconscious from the pain.
+bla
+You are unconscious, unable to do anything.
+Hp:-172/1428 Ep:382/412 Sp:-124/16 27625 0 37 > 
+You are unconscious, unable to do anything.
+Hp:-172/1428 Ep:382/412 Sp:-124/16 27625 0 37 > 
+Toudi begins to lead Smalldrake.
+Nuane (party): fak
+*****************************************************
+Toudi misses you.
+Toudi horribly shreds you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+You writhe in pain as you feel POISON in your veins!
+Hp:-214/1428 -410| ep:382/412 | Sp:-124/16 |  
+Toudi lapses into unconsciousness from severe loss of blood.
+You get bad vibrations as Toudi's spine snaps with an audible *SNAP*.
+Toudi is DEAD, R.I.P.
+This room looks a lot like a torture chamber. Various implements of cruel
+punishment line the walls, most of them rusty and old but evidently well-used.
+There is a glass screen on the wall opposite the exit that sometimes spews out
+information.
+There is a sign on the wall.
+Obvious exit is: out.

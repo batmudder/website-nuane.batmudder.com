@@ -1,0 +1,8 @@
+#ECHO Trigs to handle channeller aura, has alias 'ea' to cast it. 
+#ECHO Will shout aloud with caps in status bar when aura is about to drop.
+#ECHO
+#ALIAS ea {cast 'energy aura';party report Loading aura, please don't move.} "chann stuff"
+#TRIGGER {^You do, however, recharge your aura.} {party report Aura loaded.;#ST ""} "chann stuff"
+#TRIGGER {^Your aura is starting to weaken!} {party report Aura weakening.;#ST "RELOAD AURA!!!!!!!!!!!"} "chann stuff"
+#TRIGGER {^Your aura of glowing light fades to nothing.} {party report Energy aura gone.;#ST ""} "chann stuff"
+#TRIGGER {^{Not all is lost, however, you did just recharge your aura.|You also recharge your aura while you're at it.|You also reset your aura's duration.}$} {#ST ""} "chann stuff"

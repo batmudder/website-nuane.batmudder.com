@@ -1,0 +1,469 @@
+Nuane [party]: laulan
+p say haste.
+"-. hp 665/665 | sp 365/470 | ep -4/319 | exp 25399 | cash 50769/422046 .-"You skillfully cast the spell with haste.
+Nuane [party]: haste.
+"-. hp 665/665 | sp 365/470 | ep -4/319 | exp 25399 | cash 50769/422046 .-"(party): Mardus is able to camp.
+hp 665/665 () | sp 428/470 (+63) | ep 5/319 (+9)
+You are done with the chant.
+CASTED.
+You sing: '..a few steps to earthen might, a few steps just go ahead me, but
+ do I walk the right direction, is it here or there? Just a few steps, left or
+ right. Spirits are what show the sight.'
+You restore some of your vitality.
+ven
+You start chanting.
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"m
+!diiiiiiiiiii
+iiiiiiiiiiiii
+!d!d!diiiiiii
+iiiidd*ddiiii
+id!ddddddiiii
+iiddddiiiiid!
+iddddiiiiiidd
+             
+Your place is shown as '*'.  Type 'describe map' to see what the symbols mean.
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"hp 665/665 () | sp 323/470 (-105) | ep 44/319 (+39)
+Venturers way: ####
+Mardus (party): eiku strainaa ittes vaa äkkii ny
+Venturers way: ###
+p say haste.
+say haste
+You skillfully cast the spell with haste.
+Nuane [party]: haste.
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"You say 'haste.'
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"p say ok
+Jumar [wanted]: cheap tank cloak
+Nuane [party]: ok
+e
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"Your movement prevents you from casting the spell.
+CASTING BROKED.
+The Desert (nw,n,ne,w,e,sw,s,se).
+e
+e
+e
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+e
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+e
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+e
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+e
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+e
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep 44/319 | exp 25399 | cash 50769/422046 .-"m
+hp 665/665 () | sp 323/470 () | ep 26/319 (-18)
+iiiiidddddddd
+iiiiidddddddd
+iiiiidddddddd
+iiiiid*dddddd
+iiiiidddddddd
+iid!ddddddddd
+iiddddddddddd
+             
+Your place is shown as '*'.  Type 'describe map' to see what the symbols mean.
+nw
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+w
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+w
+w
+w
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+w
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+w
+w
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+A full-grown sheep, fluffy and white
+w
+w
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+w
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+w
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"You cannot go that way.
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"You cannot go that way.
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"m
+iiiiiiiiiiiii
+d!diiiiiiiiii
+iiiiiiiiiiiii
+d!d!d!*iiiiii
+iiiiidddddiii
+iid!ddddddiii
+iiiddddiiiiid
+             
+Your place is shown as '*'.  Type 'describe map' to see what the symbols mean.
+"-. hp 665/665 | sp 323/470 | ep 26/319 | exp 25399 | cash 50769/422046 .-"hp 665/665 () | sp 323/470 () | ep 7/319 (-19)
+nw
+w
+Highlands (nw,n,ne,w,e,sw,se).
+w
+"-. hp 665/665 | sp 323/470 | ep 5/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,s).
+w
+w
+"-. hp 665/665 | sp 323/470 | ep 5/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,se).
+"-. hp 665/665 | sp 323/470 | ep 5/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (n,ne,w,e,s).
+w
+w
+"-. hp 665/665 | sp 323/470 | ep 5/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (nw,ne,w,e,sw,se).
+"-. hp 665/665 | sp 323/470 | ep 5/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (n,w,e,s).
+"-. hp 665/665 | sp 323/470 | ep 5/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,ne,w,e,sw,se).
+"-. hp 665/665 | sp 323/470 | ep 5/319 | exp 25399 | cash 50769/422046 .-"m
+iiiiiiiiiiiii
+iiiid!diiiiii
+iidddd!d!diii
+iddddi*iiiiii
+dddddd!d!d!d!
+ddddiiiiiiiid
+diiiiiiiid!dd
+             
+Your place is shown as '*'.  Type 'describe map' to see what the symbols mean.
+"-. hp 665/665 | sp 323/470 | ep 5/319 | exp 25399 | cash 50769/422046 .-"hp 665/665 () | sp 323/470 () | ep -7/319 (-14)
+w
+Highlands (nw,n,w,e,sw,s).
+sw
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+w
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+w
+w
+w
+w
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+w
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (nw,n,ne,w,e,sw,s,se).
+w
+w
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 665/665 | sp 323/470 | ep -8/319 | exp 25399 | cash 50769/422046 .-"m
+hp 663/665 (-2) | sp 323/470 () | ep -25/319 (-18)
+Crazed urvile guard shouts 'Scriptor no longer causes lag!'
+Info: Scriptor dies.
+ddd/ddiiiiiii
+dd/dddiiiiiid
+d/dddiiiiiidd
+/ddddi*iiiddd
+ddddiiiiiiddd
+dddddiiiiddii
+ddddiiiiidiii
+             
+Your place is shown as '*'.  Type 'describe map' to see what the symbols mean.
+"-. hp 663/665 | sp 323/470 | ep -25/319 | exp 25399 | cash 50769/422046 .-"Info: Hitch left the game.
+w
+Highlands (nw,n,ne,w,e,sw,s,se).
+n
+"-. hp 663/665 | sp 323/470 | ep -25/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+e
+"-. hp 663/665 | sp 323/470 | ep -25/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+e
+e
+e
+"-. hp 663/665 | sp 323/470 | ep -25/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+e
+e
+e
+"-. hp 663/665 | sp 323/470 | ep -25/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 663/665 | sp 323/470 | ep -25/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+e
+e
+e
+e
+e
+e
+"-. hp 663/665 | sp 323/470 | ep -25/319 | exp 25399 | cash 50769/422046 .-"hp 663/665 () | sp 323/470 () | ep -37/319 (-12)
+Info: Ashrok goes link dead.
+You are so exhausted.
+Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"The Desert (nw,n,ne,w,e,sw,s,se).
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+The Desert (nw,n,ne,w,e,sw,s,se).
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+The Desert (nw,n,ne,w,e,sw,s,se).
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"m
+iiiiiiiiiiiii
+iiiiiid!diiii
+iiiidddd!d!di
+iiiddd*iiiiii
+iidddddd!d!d!
+iiddddiiiiiii
+iddiiiiiiiid!
+             
+Your place is shown as '*'.  Type 'describe map' to see what the symbols mean.
+e
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,w,e,sw,s).
+e
+e
+e
+e
+e
+e
+e
+"-. hp 660/665 | sp 323/470 | ep -39/319 | exp 25399 | cash 50769/422046 .-"hp 647/665 (-16) | sp 323/470 () | ep -56/319 (-19)
+e
+e
+e
+e
+e
+e
+Highlands (nw,ne,w,e,sw,se).
+e
+e
+e
+e
+e
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"Highlands (n,w,e,s).
+e
+e
+e
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (nw,ne,w,e,sw,se).
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (n,ne,w,e,s).
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,se).
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,s).
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (nw,n,ne,w,e,sw,se).
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (nw,n,ne,w,e,s,se).
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"m
+iiiiiiiiiiidd
+iiiiiiiiiiiid
+iiiiiiiiiiiid
+iiiiii*iiiiid
+!d!diiiiiiiid
+iidddddiiiiid
+!ddddddiiiiid
+             
+Your place is shown as '*'.  Type 'describe map' to see what the symbols mean.
+e
+"-. hp 647/665 | sp 323/470 | ep -58/319 | exp 25399 | cash 50769/422046 .-"hp 634/665 (-13) | sp 383/470 (+60) | ep -87/319 (-31)
+e
+e
+e
+e
+e
+Highlands (nw,n,ne,w,e,sw,s,se).
+e
+e
+e
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"m
+iiiiiiddddddd
+iiiiiiidddddd
+iiiiiiidddddd
+iiiiii*dddddd
+iiiiiiidddddd
+ddiiiiidddddd
+ddiiiiidddddd
+             
+Your place is shown as '*'.  Type 'describe map' to see what the symbols mean.
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"Ghost of Demonizer [ghost]: eno sainjo
+n
+Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 634/665 | sp 383/470 | ep -89/319 | exp 25399 | cash 50769/422046 .-"hp 630/665 (-4) | sp 383/470 () | ep -107/319 (-20)
+The air feels cooler.
+w
+You are so exhausted.
+Highlands (nw,n,ne,w,e,sw,s,se).
+w
+w
+w
+w
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+w
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+A nasty rat, ugly as hell
+w
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+w
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+w
+w
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+w
+w
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+w
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"Highlands (nw,n,ne,w,e,sw,s,se).
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted.
+Highlands (nw,n,ne,w,e,sw,s,se).
+Statue of the great Zin
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"You are so exhausted you fail to move.
+"-. hp 608/665 | sp 383/470 | ep -109/319 | exp 25399 | cash 50769/422046 .-"[ghost]: Ghost of Demonizer hugs Enochian.
+hp 591/665 (-39) | sp 383/470 () | ep -132/319 (-25)
+p say löyty
+Nuane [party]: löyty
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"summon mardus
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"You start chanting.
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"You tell Mardus 'summoning you'
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"worship statue
+Your act of worship has been notified by Zin.
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"Info: Brock recovers from link death.
+la statue
+Statue of the great non-newbie wizard Zin is standing here,
+waiting for being worshipped.
+There is total of 31 statues.
+You or your partymembers have found 31 of them.
+Your party can get a total of 1 taskpoints for pleasing the wizard.
+It looks very light weight.
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"p say mitä sit pitää tehä?
+Nuane [party]: mitä sit pitää tehä?
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"p say ???
+Nuane [party]: ???
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"Inferno [twilight+]: oottko mardus löytäny ton revelstonene ?
+p say ???
+p say ???
+p say ???
+p say ???
+Nuane [party]: ???
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"Mardus (party): summi
+Nuane [party]: ???
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"Nuane [party]: ???
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"Nuane [party]: ???
+"-. hp 591/665 | sp 383/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"Info: Deemer enters the game.
+Inferno [twilight+]: se on tässä
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Summon'
+You lose touch with the magic and the spell fizzles.
+summon mardus
+"-. hp 591/665 | sp 229/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"You start chanting.
+"-. hp 591/665 | sp 229/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"You tell Mardus 'summoning you'
+"-. hp 591/665 | sp 229/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"hp 591/665 () | sp 229/470 (-154) | ep -132/319 ()
+p say haste.
+say haste
+You skillfully cast the spell with haste.
+Large hunting dog shouts 'Toudi died like a DOG!'
+Info: Toudi dies.
+Nuane [party]: haste.
+"-. hp 591/665 | sp 229/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"You say 'haste.'
+"-. hp 591/665 | sp 229/470 | ep -132/319 | exp 25399 | cash 50769/422046 .-"Zin shouts 'Nuane has found all the statues, Worship event has ended.'
+hp 622/665 (+31) | sp 290/470 (+61) | ep -122/319 (+10)
+Ghost of Toudi [ghost]: rais plz
+Summon: #
+@Sekiah cheers enthusiastically at you.
+Enochian [twilight+]: cheer
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Summon'
+You poke yourself in the eye and your spell misfires.
+Mardus (party): whee!!!
+@Sekiah congratulates you wholeheartedly.
+Crazed urvile guard shouts 'Juggelo is in a much warmer place now!'
+Info: Juggelo dies.
+p say whoooooo
+Nuane [party]: whoooooo
+"-. hp 622/665 | sp 134/470 | ep -122/319 | exp 25399 | cash 50769/422046 .-"hp 622/665 () | sp 134/470 (-156) | ep -122/319 ()
+[bat]: Name bursts into tears.
+Father [wanted]: need a cure for noccon uurthg which reduced my hps
+@Stalgrad claps at you.
+[bat]: Klinga goes 'aww'.
+@Krokodiili claps at you.
+Mardus (party): me tehtiin se :)
+Zin tells Mardus and you 'oliko teil joku party etsimis sydeemi' 
+p say :)))))
+Nuane [party]: :)))))
+"-. hp 622/665 | sp 134/470 | ep -122/319 | exp 25399 | cash 50769/422046 .-"Mardus tells Zin and you 'joo, kaksin haettii' 
+Info: Presence enters the game.
+reply oli joo
+You tell Zin (yksi katse radalta suistaa) and Mardus 'oli joo'
+"-. hp 622/665 | sp 134/470 | ep -122/319 | exp 25399 | cash 50769/422046 .-"hp 652/665 (+30) | sp 200/470 (+66) | ep -112/319 (+10)
+Info: Akallabeth enters the game.
+Info: Boog goes link dead.
+Blnk tells you 'mitäs saa worshipist?' 
+Demiac [newbie]: anyone knows the part of hobbit village that you cant get out?
+Info: Superlaama recovers from link death.
+Zin tells Mardus and you 'noni mites haluutte jakaa 9Tp' 
+Klinga tells you 'mistä löysit vimpan?' 
+Inferno [twilight+]: ?
+Info: Boog recovers from link death.
+tell zin,mardus hm
+You tell Zin (yksi katse radalta suistaa) and Mardus 'hm'
+"-. hp 652/665 | sp 200/470 | ep -112/319 | exp 25399 | cash 50769/422046 .-"Mardus tells Zin and you 'nuanelle 5' 
+Zin shouts 'Correction, winner was party consisting Nuane & Mardus.'
+Info: Kalkkis recovers from link death.
+tell zin,mardus uh no :)
+You tell Zin (yksi katse radalta suistaa) and Mardus 'uh no :)'
+"-. hp 652/665 | sp 200/470 | ep -112/319 | exp 25399 | cash 50769/422046 .-"Inferno [twilight+]: :DDDDDD
+p say Full hp.
+You feel fully healed.
+hp 665/665 (+13) | sp 266/470 (+66) | ep -103/319 (+9)
+Nuane [party]: Full hp.
+"-. hp 665/665 | sp 266/470 | ep -103/319 | exp 25399 | cash 50769/422046 .-"Chizra [bat]: bullooocks
+@Klinga acks at you.
+Kawasa (wanted): is it so hard to get one or two decent mages?
+Martow (wanted): exp partie for def
+Info: Div left the game.
+You receive 5 task points for completing 'worship.... continues' task.
+
+Zin awards Nuane 5 points for completing 'worship.... continues' task.
+
+Inferno [twilight+]: asiaa :))) onneksi olkoon teille
+Battler [wanted]: eq for priest!
+[twilight+]: Osku starts a wave for Mardus, wheeee!.
+thank zin
+@Blnk goes 'Ooooo...' at you.
+You emote to Zin (busy) 'thanks you heartily.'
+"-. hp 665/665 | sp 266/470 | ep -103/319 | exp 25399 | cash 50769/422046 .-"
+Zin awards Mardus 4 points for completing 'worship.... continues' task.
+
+[twilight+]: Osku starts a wave for Nuane, wheeee!.
+Belzoni <bat>: woot, what about me?
+Bomfunk [wanted]: exp/eq party for tarma(druidnav)
+Mardus (twilight+): :)
+[twilight+]: Demonizer claps at Nuane.
+
+Zin ends the worship.... continues task.
+
+twi :)))))
+Nuane [twilight+]: :)))))
+"-. hp 665/665 | sp 266/470 | ep -103/319 | exp 25399 | cash 50769/422046 .-"[twilight+]: Osku continues the wave for Mardus, wheeee!.
+[twilight+]: Demonizer claps at Mardus.
+hp 665/665 () | sp 330/470 (+64) | ep -94/319 (+9)
+[twilight+]: Enochian continues the wave, wheeee!.

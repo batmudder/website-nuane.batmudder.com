@@ -1,0 +1,1003 @@
+The arena master shouts 'Team 1 consists of Tackle'
+The arena master shouts 'Team 2 consists of Searc'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[1;37mMardus [0;52m<party>:[1;37m onko[0m
+[32mSirdest says '% close door.'[0m
+[32mSirdest says '%You close team 1 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Tackle'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Searc'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%** Cost for 'close door': Cost: utime:402 stime:1 ticks:775129 **.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:515/593 Ep:508/507 Weight:38 Rms:9955 >>%%It is very [0m[32mdark, but your infravision helps you..'[0m
+[32mSirdest says '% eqset tank.'[0m
+[32mSirdest says '%You remove Circlet of Flame, bracelet made of green crystal <red [0m[32mglow>, a green glove labeled as <Tackle>, sparkling ruby ring labeled as <tackle>, [0m[32msparkling ruby ring labeled as <Tackle>, Red Glove of the Healer labeled as [0m[32m<tackle>, a green glove labeled as <Tackle>, Sandals of the Earth labeled as [0m[32m<Tackle> <red glow>, Bracelets of San-Jyan labeled as {Angel} <red glow>, [0m[32msparkling ruby ring labeled as <tackle>, Red Glove of the Healer labeled as [0m[32m<tackle> <blue glow> and bracelet made of green crystal <red glow>.'[0m
+la arena
+[32mSirdest says '%You wear black belt with red stripe, Circlet of Flame, bracelet made [0m[32mof green crystal <red glow>, Bloody hangote <red glow>, leather glove labeled as [0m[32m<tackle> <red glow>, leather glove <red glow>, leather glove <red glow>, A plain [0m[32mand simple dukonium o-yoroi [Made by: Tackle], the amulet of the Wendigo Warrior [0m[32mlabeled as <tackle>, sparkling ruby ring labeled as <Tackle>, the opal ring of [0m[32mOystria <red glow>, Sandals of the Earth labeled as <Tackle> <red glow>, bracelet [0m[32mmade of green crystal <red glow>, bracelet made of green crystal labeled as [0m[32m<tackle>, glowing white ring of avoidance [Made by: Slobber] labeled as avoidia, A [0m[32mHUGE [53mJade[32m Band [Made by: Dreamr] and leather glove labeled as <tackle> <red glow>.'[0m
+[32mSirdest says '%** Cost for 'eqset tank': Cost: utime:46 stime:0 ticks:408340 **.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say '% [0m[32mclose door.'.'[0m
+       
+ [31m####[0m  
+ [31m#[35m12[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc            1087/1087  410/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1287/1287  515/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:49:40] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Searc starts concentrating on a new skill.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say '%.'.'[0m
+[1;37mMardus [0;52m<party>:[1;37m rules[0m
+[32mSirdest says '%Searc arrives from south.'[0m
+[32mSirdest says '% kill searc.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You successfully parry Searc's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%Searc cuts you causing a small scratch.'[0m
+[32mSirdest says '%Searc successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You cut Searc causing a small scratch.'[0m
+[32mSirdest says '%hp: 1264 (1287) [-23] sp: 515 (585) [] ep: 508 (510) [].'[0m
+[32mSirdest says '%** Cost for 'kill searc': Cost: utime:13 stime:0 ticks:113461 **.'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say '% [0m[32mkill searc.'.'[0m
+la arena
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc            1068/1087  450/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1264/1287  515/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:49:44] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%| 1.3   Tackle        ldr 1264(1287)  515( 585) 508(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Searc is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc            1068/1087  450/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1264/1287  515/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:49:46] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Ragnhild arrives from down.
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '% use vampiric blow.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say '% [0m[32muse vampiric blow.'.'[0m
+[32mSirdest says '%Searc starts concentrating on a new offensive spell.'[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say '% [0m[32ml.'.'[0m
+la arena
+[31mAnt lion shouts 'Allmightus died like a DOG!'[0m
+[1;30mInfo: Allmightus dies.[0m
+Malitrius travels west.
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc            1068/1087  450/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1264/1287  515/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:49:50] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Searc arrives from north.'[0m
+[32mSirdest says '%Searc starts concentrating on a new offensive spell.'[0m
+la arena
+Malitrius arrives from west.
+[32mMalitrius PUUHs.[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             955/1087  450/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1244/1287  515/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:49:55] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;37mMardus [0;52m<party>:[1;37m musavieras vissii vai hä[0m
+Malitrius travels west.
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%Searc tears you causing a small scratch.'[0m
+[32mSirdest says '%Searc is drained as she attacks you through your barrier of darkness.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%Searc successfully dodges your futile slash.'[0m
+[32mSirdest says '%You cut Searc inducing a strangling.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Grinning diabolically you incisively cut Searc slicing open a gaping [0m[32mwound.'[0m
+[32mSirdest says '%hp: 1244 (1287) [-20] sp: 515 (585) [] ep: 508 (510) [].'[0m
+[32mSirdest says '% cast spider websn.'[0m
+[32mSirdest says '%You don't know that spell.'[0m
+[32mSirdest says '%Hp:1244/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%Malitrius [0m[32mtravels west.'[0m
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1244/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1244(1287)  515( 585) 508(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1244/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is drained as she attacks you through your barrier of.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:1244/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say [0m[32m'%`---------------------------------------------------------------------.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:1244/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Hp:1244/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say.'[0m
+[32mSirdest exclaims '%Tackle [52m[party]:[32m CRITTED the fucker!'[0m
+[32mSirdest says '%Hp:1244/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say '%You [0m[32mare not in combat right now.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             955/1087  450/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1244/1287  515/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:49:56] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You don't know that spell.'[0m
+[32mSirdest says '%Hp:1244/1287 Sp:515/585 Ep:508/510 Weight:38 Rms:9955 >>%You say '%You [0m[32mdon't know that spell.'.'[0m
+[32mSirdest says '%A warm feeling comes over you as the black pearl channels its energy [0m[32mto you.'[0m
+[32mSirdest says '%You have an unusual feeling as you cast the spell.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:585/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '%You [0m[32mhave an unusual feeling as you cast the spell.'.'[0m
+[32mSirdest says '%*Tackle Pearl Tick Timed: 1:32.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:585/585 Ep:510/510 Weight:38 Rms:9955 >>%% l.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:585/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%*Tackle Pearl Tick Timed: 1:32.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             955/1087  450/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1287/1287  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:01] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%hp: 1287 (1287) [+20] sp: 585 (585) [+48] ep: 510 (510) [].'[0m
+[32mSirdest says '%Spider web: ###.'[0m
+[32mSirdest says '%Searc leaves east.'[0m
+[32mSirdest says '%*Tackle spider web -> 3.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:585/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%*Tackle spider web -> 3.'.'[0m
+Ghost of Allmightus [31m[ghost]:[0m ress please
+la arena
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             955/1087  450/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1287/1287  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:04] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Searc arrives from south.'[0m
+[1;30mInfo: Mahon recovers from link death.[0m
+[1;37mEnochian [0;52m(party):[1;37m en tiije[0m
+[32mSirdest says '%Searc leaves south.'[0m
+Zenor [31m[ghost]:[0m what is so good about malicat? :)
+la arena
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             955/1087  450/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1287/1287  585/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:08] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Spider web: #.'[0m
+[32mSirdest says '%Tackle [1;30m[report]:[0;32m spider web -> 1.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:585/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Tackle [1;30m[report]:[0;32m spider web -> 1.'.'[0m
+Munkki [32m[sales]:[0m merchant services available.
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:585/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '% [0m[32ml.'.'[0m
+[32mSirdest says '%You weave the web with your hands and chant 'infernalicus thanatos [0m[32marachnidos' [57m(Spider demon banishment)[32m.'[0m
+[32mSirdest says '%The area is covered in magical spider webs.'[0m
+[32mSirdest says '%hp: 1287 (1287) [] sp: 534 (585) [-51] ep: 510 (510) [].'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             955/1087  450/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1287/1287  534/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:13] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mGeroth buzzes 'hyvä typeen.'[0m
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '% [0m[32ms.'.'[0m
+[32mSirdest says '%Searc falters and loses her spell.'[0m
+[32mSirdest says '% use vampiric blow.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1287/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc falters and loses her spell.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '% kill searc.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Searc causing an infection.'[0m
+[32mSirdest says '%Searc successfully parries your slash.'[0m
+[32mSirdest says '%You cut Searc inducing a strangling.'[0m
+[32mSirdest says '%Searc successfully parries your slash.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%Searc cuts you causing a small scratch.'[0m
+[32mSirdest says '%hp: 1264 (1287) [-23] sp: 534 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says '%** Cost for 'kill searc': Cost: utime:12 stime:0 ticks:129718 **.'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '% [0m[32mkill searc.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             913/1087  442/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1264/1287  534/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:17] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1264(1287)  534( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+Uurkarka [1;30m[bat]:[0m ow much exp was asmodeus?
+[32mFarliss AAARRGGHHs 'se o jenkki.'[0m
+[32mSirdest asks '%Uurkarka [1;30m[bat]:[0;32m ow much exp was asmodeus?'[0m
+[32mSirdest says '% x all.'[0m
+[32mSirdest says '%Searc is in a good shape.'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is in a good shape.'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You ask [0m[32m'%Uurkarka [1;30m[bat]:[0;32m ow much exp was asmodeus?'.'[0m
+Valdec [35m[wanted]:[0m offtank,tarma for exp
+[32mSirdest says '%Valdec [35m[wanted]:[32m offtank,tarma for exp.'[0m
+[32mSirdest says '%Searc leaves east.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#[35m12[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             913/1087  442/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1264/1287  534/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:19] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You lightly cut Searc inducing a strangling.'[0m
+[32mSirdest says '%You cut Searc causing a small scratch.'[0m
+[32mSirdest says '%Searc cuts you inducing a slight shivering.'[0m
+[32mSirdest says '%You successfully parry Searc's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%hp: 1230 (1287) [-34] sp: 534 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says '%** Cost for 'kill searc': Cost: utime:15 stime:0 ticks:131665 **.'[0m
+[32mSirdest says '%Hp:1264/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 [0m[32m>>%%*****************************************************.'[0m
+[32mSirdest says '%You tear Searc making hair burn.'[0m
+[32mSirdest says '%Searc successfully parries your slash.'[0m
+[32mSirdest says '%Searc successfully parries your slash.'[0m
+[32mSirdest says '%You lightly cut Searc causing a small scratch.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%Searc cuts you causing a small scratch.'[0m
+[32mSirdest says '%Searc is drained as she attacks you through your barrier of darkness.'[0m
+[32mSirdest says '%hp: 1211 (1287) [-19] sp: 534 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+la arena
+[32mSirdest says '%| 1.3   Tackle        ldr 1211(1287)  534( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             824/1087  442/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1211/1287  534/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:21] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '%You [0m[32mlightly cut Searc inducing a strangling.'.'[0m
+[32mSirdest says '%Searc is slightly hurt.'[0m
+[32mSirdest says '%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%`---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Searc is slightly hurt.'[0m
+[32mSirdest says '%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1211(1287)  534( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is slightly hurt.'.'[0m
+[32mSirdest says '%Searc is slightly hurt.'[0m
+[32mSirdest says '%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say.'[0m
+[32mSirdest says '%Searc is slightly hurt.'[0m
+[32mSirdest says '%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is slightly hurt.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#..#[0m  
+ [31m#.[35m2[31m#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             824/1087  442/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1211/1287  534/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:23] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '% [0m[32mn.'.'[0m
+[32mSirdest exclaims '%No searc here !'[0m
+[32mSirdest says '%Hp:1211/1287 Sp:534/585 Ep:510/510 Weight:38 Rms:9955 >>%You exclaim [0m[32m'%No searc here !'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m21[31m#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             824/1087  442/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1235/1287  555/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:27] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;30mInfo: Bauglir left the game.[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1235/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '% [0m[32ml.'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Searc successfully dodges your futile slash.'[0m
+[32mSirdest says '%You cut Searc inducing a strangling.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You lightly cut Searc causing a small scratch.'[0m
+[32mSirdest says '%Searc cuts you inducing a slight shivering.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%hp: 1205 (1287) [-30] sp: 555 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says '%** Cost for 'w': Cost: utime:13 stime:0 ticks:129722 **.'[0m
+[32mSirdest says '%Hp:1205/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1205(1287)  555( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1205/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc misses you.'.'[0m
+[1;30mInfo: Jorgez recovers from link death.[0m
+la arena
+[32mSirdest says '%Searc is slightly hurt.'[0m
+[32mSirdest says '%Hp:1205/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is slightly hurt.'[0m
+[32mSirdest says '%Hp:1205/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is slightly hurt.'.'[0m
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             793/1087  442/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1205/1287  555/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:29] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1205/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '%.'.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You tear Searc producing large scratches.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%Searc tears you causing a small scratch.'[0m
+[32mSirdest says '%Searc is drained as she attacks you through your barrier of darkness.'[0m
+[32mSirdest says '%hp: 1183 (1287) [-22] sp: 555 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1183(1287)  555( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1183/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc misses you.'.'[0m
+[32mSirdest says '%Searc is slightly hurt.'[0m
+[32mSirdest says '%Hp:1183/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is slightly hurt.'[0m
+[32mSirdest says '%Hp:1183/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is slightly hurt.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             752/1087  442/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1183/1287  555/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:31] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Baffi [35m[wanted]:[0m soth maul
+[32mSirdest says '%Baffi [35m[wanted]:[32m soth maul.'[0m
+[32mSirdest says '%You tear Searc making hair burn.'[0m
+[32mSirdest says '%You lightly cut Searc causing a small scratch.'[0m
+[32mSirdest says '%You cut Searc making a minor throttling.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%Searc tears you inducing a slight shivering.'[0m
+[32mSirdest says '%Searc tears you producing large scratches.'[0m
+[32mSirdest says '%Searc is drained as she attacks you through your barrier of darkness.'[0m
+[32mSirdest says '%hp: 1118 (1287) [-65] sp: 555 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle        ldr 1118(1287)  555( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:1118/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc tears you inducing a slight shivering.'.'[0m
+la arena
+[32mSirdest says '%Searc is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1118/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Hp:1118/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say.'[0m
+[32mSirdest says '%Searc is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1118/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is noticeably hurt.'.'[0m
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             654/1087  442/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle           1118/1287  555/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:34] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You cut Searc creating a nasty infection.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You lightly cut Searc causing a small scratch.'[0m
+[32mSirdest says '%Searc cuts you inducing a slight shivering.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%hp: 1089 (1287) [-29] sp: 555 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says '%Searc plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' [0m[57m(Con fioco)[32m.'[0m
+[32mSirdest says '%Searc plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' [0m[57m(Con fioco)[32m.'[0m
+[32mSirdest says '%A con fioco hits you.'[0m
+[32mSirdest says '%Searc is drained as she attacks you through your barrier of darkness.'[0m
+[32mSirdest exclaims '%That really HURT!'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  804(1287)[32m  555( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:804/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is drained as she attacks you through your barrier of.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             427/1087  299/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            804/1287  555/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:37] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Searc is not in a good shape.'[0m
+[32mSirdest says '%Hp:804/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is not in a good shape.'[0m
+[32mSirdest says '%Hp:804/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is not in a good shape.'.'[0m
+[32mSirdest says '%She fails to rip the web.'[0m
+[32mSirdest says '%Searc starts concentrating on a new offensive spell.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:804/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             427/1087  299/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            804/1287  555/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:40] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Tixe tells you 'go go go'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You cut Searc inducing a nasty lesion.'[0m
+[32mSirdest says '%Searc successfully parries your slash.'[0m
+[32mSirdest says '%Searc successfully dodges your futile slash.'[0m
+[32mSirdest says '%You try to dodge, but Searc is not fooled.'[0m
+[32mSirdest says '%Searc cuts you producing large scratches.'[0m
+[32mSirdest says '%Searc tears you producing large scratches.'[0m
+[32mSirdest says '%Searc is drained as she attacks you through your barrier of darkness.'[0m
+[32mSirdest says '%hp: 747 (1287) [-57] sp: 555 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says '%** Cost for 'n': Cost: utime:16 stime:1 ticks:131918 **.'[0m
+[32mSirdest says '%Hp:747/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+la arena
+[1;30mInfo: Stefan left the game.[0m
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             395/1087  299/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            747/1287  555/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:42] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[1;30mInfo: Xentarios enters the game.[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  747(1287)[32m  555( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:747/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Searc is not in a good shape.'[0m
+[32mSirdest says '%Hp:747/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%`---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Searc is not in a good shape.'[0m
+[32mSirdest says '%Hp:747/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Hp:747/1287 Sp:555/585 Ep:510/510 Weight:38 Rms:9955 >>%You say.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             395/1087  299/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            747/1287  555/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:43] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%Searc successfully parries your slash.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%You try to dodge, but Searc is not fooled.'[0m
+[32mSirdest says '%Searc tears you producing large scratches.'[0m
+[32mSirdest says '%Searc is drained as she attacks you through your barrier of darkness.'[0m
+[32mSirdest says '%hp: 714 (1287) [-33] sp: 555 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says '%Spider Queen smiles upon you and helps you control the demon.'[0m
+[32mSirdest says '% use vampiric blow.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:714/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '%You [0m[32mmiss Searc.'.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  714(1287)[32m  530( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+la arena
+[32mSirdest says '%Hp:714/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             378/1087  299/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            714/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:46] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:714/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:714/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is in bad shape.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:714/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '%Your [0m[32mmovement prevents you from doing the skill.'.'[0m
+[32mSirdest says '%hp: 714 (1287) [] sp: 530 (585) [-25] ep: 510 (510) [].'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#[35m1[31m.#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             399/1087  293/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            714/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:48] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%Searc tries to dodge your hit, but you are not fooled that easily!'[0m
+[32mSirdest says '%You tear Searc making skin scorch.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You cut Searc causing the airway to get slightly smothered.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%Searc cuts you producing large scratches.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%hp: 690 (1287) [-24] sp: 530 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says '%** Cost for 'n': Cost: utime:15 stime:0 ticks:136175 **.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+[32mSirdest says '% pss.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  690(1287)[32m  530( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '% [0m[32mpss.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             340/1087  293/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            690/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:49] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%% use vampiric [0m[32mblow.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is in bad shape.'.'[0m
+Ragnhild looks at orb.
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%Searc successfully parries your slash.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You lightly cut Searc producing large scratches.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  690(1287)[32m  530( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is in bad shape.'.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             331/1087  293/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            690/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:52] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%She fails to rip the web.'[0m
+Bombur arrives from down.
+[32mSirdest says '%Searc successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You cut Searc causing the airway to get slightly smothered.'[0m
+[32mSirdest exclaims '%Searc tries to dodge your hit, but you are not fooled that easily!'[0m
+[32mSirdest says '%You cut Searc inducing a nasty lesion.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%You successfully dodge Searc's slash.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  690(1287)[32m  530( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             296/1087  293/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            690/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:55] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Kawasa [35m(wanted):[0m ok,who wants explore reloc here
+[32mSirdest says '%Kawasa [35m(wanted):[32m ok,who wants explore reloc here.'[0m
+[32mSirdest says '% x all.'[0m
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:690/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Kawasa [35m(wanted):[32m ok,who wants explore reloc here.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Searc is knocked senseless by the shear power of MageKiller's attack.'[0m
+[32mSirdest says '%You cut Searc producing a major poison burn.'[0m
+[32mSirdest says '%Searc seems [51mhurt and confused[32m.'[0m
+[32mSirdest says '%Searc successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%Searc tears you causing a small wound.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%hp: 652 (1287) [-38] sp: 530 (585) [] ep: 510 (510) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  652(1287)[32m  530( 585) 510(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:652/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+la arena
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             271/1087  293/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            652/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:50:58] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% x all.'[0m
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:652/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is in bad shape.'[0m
+[32mSirdest says '%Hp:652/1287 Sp:530/585 Ep:510/510 Weight:38 Rms:9955 >>%You say '% x [0m[32mall.'.'[0m
+la arena
+[32mSirdest says '%Your blow impacts with chaotic force...'[0m
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc              48/1087  293/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            651/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:51:00] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You strike Searc a mighty blow with MageKiller, which cuts furiously [0m[32mthrough.'[0m
+[32mSirdest says '%Searc suffers as poison from your blade enters her blood stream.'[0m
+[32mSirdest says '%hp: 677 (1287) [+25] sp: 530 (585) [] ep: 483 (510) [-27].'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Blood drips from MageKiller after viciously cutting into Searc.'[0m
+[32mSirdest says '%You cut Searc making blood cells die and burst.'[0m
+[32mSirdest says '%Searc successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%You lightly cut Searc mutilating intestinal tissue.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%Searc tears you causing a small wound.'[0m
+[32mSirdest says '%Searc is drained as she attacks you through your barrier of darkness.'[0m
+[32mSirdest says '%hp: 651 (1287) [-26] sp: 530 (585) [] ep: 483 (510) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  651(1287)[32m  530( 585) 483(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:651/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+la arena
+,-----------------------------------------------------------------------.
+| Time    Channel           Program                                     |
+|-----------------------------------------------------------------------|
+| 22:55   YLE TV2           Telakka: Hevihysterian harjalla             |
+`-----------------------------------------------------------------------'
+Damogran shouts: 'Visit Newbie Help Warehouse and donate used battle equipment
+for newbies. You will participate to a big lottery. You can win over 100k
+gold. Award ALWAYS when armageddon starts the countdown!!'
+(Btw. Newbies, Come get equipment now! Over 20 items in storeroom!!)
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc              48/1087  293/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            651/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:51:01] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% x all.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:651/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:651/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say '% x [0m[32mall.'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%Hp:651/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say '%It [0m[32mis very dark, but your infravision helps you..'.'[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%Searc tries to dodge your hit, but you are not fooled that easily!'[0m
+[32mSirdest says '%You tear Searc forcing the heart to incinerate.'[0m
+[32mSirdest says '%Searc successfully parries your slash.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mSirdest says '%Searc successfully parries your slash.'[0m
+[32mSirdest says '%You successfully dodge Searc's slash.'[0m
+[32mSirdest says '%Searc misses you.'[0m
+[32mSirdest says '%** Cost for 'w': Cost: utime:10 stime:0 ticks:102574 **.'[0m
+[32mSirdest says '%Hp:651/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say '% [0m[32mw.'.'[0m
+la arena
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc              17/1087  293/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            651/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:51:04] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%| 1.3   Tackle       [53m ldr  651(1287)[32m  530( 585) 483(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:651/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:651/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:651/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is near death.'.'[0m
+[32mSirdest says '%A con fioco hits you.'[0m
+[32mSirdest says '%Searc is drained as she attacks you through your barrier of darkness.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Searc successfully dodges your futile slash.'[0m
+[32mSirdest says '%Searc successfully dodges your futile slash.'[0m
+[32mSirdest says '%You cut Searc causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%Searc lapses into [51munconscious[32mness from severe loss of blood.'[0m
+[32mSirdest says '%You lightly cut Searc causing heart tissue to fly everywhere.'[0m
+la arena
+[32mSirdest says '%hp: 504 (1287) [-147] sp: 530 (585) [] ep: 483 (510) [].'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [31m ldr  504(1287)[32m  530( 585) 483(510) |  77 |       [0m[32m333815 |.'[0m
+       
+ [31m####[0m  
+ [31m#[35m2[31m.#[0m  
+ [31m#..#[0m  
+ [31m####[0m  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Searc             -32/1087  150/450  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Tackle            504/1287  530/585  |                                      |
+`-----------------------------------------------------------------------------'
+[22:51:06] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '% x all.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say '% x [0m[32mall.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Searc forcing the heart to incinerate.'[0m
+[32mSirdest says '%You cut Searc causing the soul to get sucked out.'[0m
+[32mSirdest says '%You lightly cut Searc causing the soul to get sucked out.'[0m
+[32mSirdest says '%You cut Searc causing heart tissue to fly everywhere.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [31m ldr  504(1287)[32m  530( 585) 483(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is near death.'.'[0m
+[1;30mInfo: Governor goes link dead.[0m
+[32mSirdest says '%You cut Searc causing the head to explode from a poison blast.'[0m
+[32mSirdest says '%You miss Searc.'[0m
+[32mGotrek is a bore.[0m
+[32mSirdest says '%You lightly cut Searc causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You cut Searc causing heart tissue to fly everywhere.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [31m ldr  504(1287)[32m  530( 585) 483(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is near death.'.'[0m
+[32mSirdest says '%You tear Searc forcing the heart to incinerate.'[0m
+[32mSirdest says '%You tear Searc causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You lightly cut Searc causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You cut Searc causing heart tissue to fly everywhere.'[0m
+[32mSirdest says [0m[32m'%,-----------------------------------------------------------------------------.'[0m
+[32mSirdest says '%| 1.3   Tackle       [31m ldr  504(1287)[32m  530( 585) 483(510) |  77 |       [0m[32m333815 |.'[0m
+[32mSirdest says [0m[32m'%`-----------------------------------------------------------------------------'.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%,---------------------------------------------------------------------.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%% @scan all.'[0m
+[32mSirdest says '%Searc is near death.'[0m
+[32mSirdest says '%Hp:504/1287 Sp:530/585 Ep:483/510 Weight:38 Rms:9955 >>%You say [0m[32m'%Searc is near death.'.'[0m
+The arena master shouts 'Searc of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Tackle'

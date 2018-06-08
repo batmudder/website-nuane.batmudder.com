@@ -1,0 +1,688 @@
+The arena master shouts 'Team 1 consists of Blazzer'
+The arena master shouts 'Team 2 consists of Atomska'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Blazzer'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Atomska'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%target.'[0m
+[32mSirdest says '%use 'cleave'.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%% @@use 'cleave'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '%target.'.'[0m
+[32mSirdest says '%west.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+la arena
+[32mSirdest says '%Blazzer Anarion the Ent (arachnid inside) < . > <team 1>.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '%west.'.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska          1181/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer          1062/1062  722/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:23] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%kill.'[0m
+[32mSirdest says '%target.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%% @@kill.'[0m
+[32mSirdest asks '%Kill what ?'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '%kill.'.'[0m
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%east.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Blazzer Anarion the Ent (arachnid inside) < . > <team 1>.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '% e.'.'[0m
+[32mSirdest says '%target.'[0m
+[32mSirdest says '%use 'cleave'.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%% @@use 'cleave'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%% @@target.'[0m
+[32mSirdest says '%You are not targetting anything.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '%target.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska          1181/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer          1062/1062  722/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:26] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '% q blazzer.'[0m
+[32mSirdest says '%kill blazzer.'[0m
+[32mSirdest says '%target blazzer.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%% @@target blazzer.'[0m
+[32mSirdest says '%You are now targetting Blazzer.'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%% @@kill blazzer.'[0m
+[32mSirdest exclaims '%Blazzer tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Smiling devilishly you rive Blazzer puncturing a hole, allowing [0m[32mentrails to spill everywhere.'[0m
+[32mSirdest says '%Blazzer seems [51mhurt and confused[32m.'[0m
+[32mSirdest says '%You tear Blazzer inducing a nasty lesion.'[0m
+[32mSirdest says '%You successfully dodge Blazzer's slash.'[0m
+[32mSirdest says '%You try to dodge, but Blazzer is not fooled.'[0m
+[32mSirdest says '%Blazzer tears you producing large scratches.'[0m
+[32mSirdest says '%Hp:1132/1181[-49] Sp:20/20[] Ep:233/393[] Exp:51[] Money:157072[].'[0m
+[32mSirdest says '%Hp:1181/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '% q [0m[32mblazzer.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska          1132/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           635/1062  722/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:29] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1132/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+[32mSirdest says '%You shred Blazzer sparking a limb to slice open.'[0m
+[32mSirdest says '%You successfully dodge Blazzer's slash.'[0m
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1132/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska          1132/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           558/1062  722/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:32] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%You miss Blazzer.'[0m
+[32mSirdest says '%Blazzer incises you producing large scratches.'[0m
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%Hp:1080/1181[-52] Sp:20/20[] Ep:233/393[] Exp:51[] Money:157072[].'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1080/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska          1080/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           558/1062  722/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:36] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%You incise Blazzer sparking a limb to slice open.'[0m
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is not in a good shape.'[0m
+[32mSirdest says '%Hp:1080/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska          1080/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           440/1062  722/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:39] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is not in a good shape.'[0m
+[32mSirdest says '%Hp:1080/1181 Sp:20/20 Ep:233/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+[32mSirdest says '%You are prepared to do the skill.'[0m
+[32mSirdest says '%You make a great cleaving maneuver, but your enemy blocks your attack.'[0m
+[32mSirdest says '%Hp:1080/1181[] Sp:20/20[] Ep:207/393[-26] Exp:51[] Money:157072[].'[0m
+[32mSirdest says '%You miss Blazzer.'[0m
+[32mSirdest says '%You miss Blazzer.'[0m
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%Unable to counter, you reel backwards under Blazzer's powerful blows.  [0m[32mYou.'[0m
+[32mSirdest says '%The strike numbs your nerves.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           881/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           488/1062  722/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:41] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is not in a good shape.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+[32mSirdest says '% k.'[0m
+[32mSirdest says '%target.'[0m
+[32mSirdest says '%use 'cleave'.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@use 'cleave'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@target.'[0m
+[32mSirdest says '%You are targetting Blazzer.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '% k.'.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           881/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           488/1062  722/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:43] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+Willi arrives from west.
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%look.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '% l.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           881/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           488/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:49] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%kill blazzer.'[0m
+[32mSirdest says '%west.'[0m
+[32mSirdest says '%kill blazzer.'[0m
+[32mSirdest says '%east.'[0m
+[32mSirdest says '%kill blazzer.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@kill blazzer.'[0m
+[32mSirdest exclaims '%No blazzer here !'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@east.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@kill blazzer.'[0m
+[32mSirdest exclaims '%No blazzer here !'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@west.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%Blazzer Anarion the Ent (arachnid inside) < . > <team 1>.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@kill blazzer.'[0m
+[32mSirdest exclaims '%Blazzer tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You incise Blazzer making an artery explode.'[0m
+[32mSirdest says '%You miss Blazzer.'[0m
+[32mSirdest says '%You successfully parry Blazzer's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+la arena
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%Hp:881/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%kill [0m[32mblazzer.'.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           826/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           408/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:50] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%You miss Blazzer.'[0m
+[32mSirdest says '%Blazzer incises you causing a small wound.'[0m
+[32mSirdest says '%You successfully dodge Blazzer's slash.'[0m
+[32mSirdest says '%Hp:826/1181[-55] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is not in a good shape.'[0m
+[32mSirdest says '%Hp:826/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+[32mSirdest says '%target.'[0m
+[32mSirdest says '%use 'cleave'.'[0m
+[32mSirdest says '%Hp:826/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@use 'cleave'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:826/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@target.'[0m
+[32mSirdest says '%You are targetting Blazzer.'[0m
+[32mSirdest says '%Hp:826/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%target.'.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is not in a good shape.'[0m
+[32mSirdest says '%Hp:826/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+[32mSirdest says '%Hp:644/1181[-182] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+[32mSirdest says '%Blazzer successfully dodges your futile slash.'[0m
+[32mSirdest says '%You miss Blazzer.'[0m
+[32mSirdest says '%Smiling devilishly Blazzer savagely shaves you causing heart tissue to [0m[32mfly everywhere.'[0m
+[32mSirdest exclaims '%That really HURT!'[0m
+[32mSirdest says '%Blazzer tears you creating nasty blisters.'[0m
+[32mSirdest says '%Hp:290/1181[-354] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+la arena
+[32mSirdest says '%scan all.'[0m
+       
+ ####  
+ #[1;36m1[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           290/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           428/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:54] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%Blazzer is not in a good shape.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+[32mSirdest says '%wear ring 2.'[0m
+[32mSirdest says '%remove ring.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@remove ring.'[0m
+[32mSirdest exclaims '%You have nothing to remove!'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@wear ring 2.'[0m
+[32mSirdest exclaims '%You have nothing to wear!'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%wear ring [0m[32m2.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           290/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           428/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:57] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%wear ring.'[0m
+[32mSirdest says '%remove ring 2.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@remove ring 2.'[0m
+[32mSirdest says '%You remove a simple silver signet ring labeled as {A}[57m (glowing)[32m <red [0m[32mglow>.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@wear ring.'[0m
+[32mSirdest says '%You wear an iron ring called 'Twister'.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%wear [0m[32mring.'.'[0m
+[32mSirdest says '%unlock door with key 8.'[0m
+[32mSirdest says '%unlock door with key 7.'[0m
+[32mSirdest says '%unlock door with key 6.'[0m
+[32mSirdest says '%unlock door with key 5.'[0m
+[32mSirdest says '%unlock door with key 4.'[0m
+[32mSirdest says '%unlock door with key 3.'[0m
+[32mSirdest says '%unlock door with key 2.'[0m
+[32mSirdest says '%unlock door with key 1.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@unlock door with [0m[32mkey 1.'[0m
+[32mSirdest says '%No 'door' here.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@unlock door with [0m[32mkey 2.'[0m
+[32mSirdest says '%No 'door' here.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@unlock door with [0m[32mkey 3.'[0m
+[32mSirdest says '%No 'door' here.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@unlock door with [0m[32mkey 4.'[0m
+[32mSirdest says '%No 'door' here.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@unlock door with [0m[32mkey 5.'[0m
+[32mSirdest says '%No 'door' here.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@unlock door with [0m[32mkey 6.'[0m
+[32mSirdest says '%No 'door' here.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@unlock door with [0m[32mkey 7.'[0m
+[32mSirdest says '%No 'door' here.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@unlock door with [0m[32mkey 8.'[0m
+[32mSirdest says '%No 'door' here.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%unlock [0m[32mdoor with key 8.'.'[0m
+[32mSirdest says '%twist ring.'[0m
+[32mSirdest says '%You twist the ring and suddenly you become invisible.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%twist [0m[32mring.'.'[0m
+la arena
+[1;30mInfo: Sam dies.[0m
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           290/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           428/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:17:59] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%You turn visible.'[0m
+[32mSirdest asks '%At whom ?'[0m
+[32mSirdest says '%inventory.'[0m
+[32mSirdest says '%You are carrying 37.9 kg of equipment:.'[0m
+[32mSirdest says '%7 coins (7 mithril) [Cash: 3500.00  Bank: 157072.40  Total: [0m[32m160572.40].'[0m
+[32mSirdest says '%Keep:.'[0m
+[32mSirdest says '%a simple silver signet ring labeled as {A}[57m (glowing)[32m <red glow>.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say [0m[32m'%inventory.'.'[0m
+[32mSirdest says '%south.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Blazzer Anarion the Ent (arachnid inside) < . > <team 1>.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%south.'.'[0m
+[32mSirdest says '%target.'[0m
+[32mSirdest says '%use 'cleave'.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@use 'cleave'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@target.'[0m
+[32mSirdest says '%You are targetting Blazzer.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%target.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           290/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           428/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:18:01] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+muah
+
+You go 'MUAH'.
+[16:18:03] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+la arena
+
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           290/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           428/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:18:04] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%Blazzer leaves east.'[0m
+[32mSirdest says '%kill blazzer.'[0m
+[32mSirdest says '%target blazzer.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@target blazzer.'[0m
+[32mSirdest exclaims '%No blazzer here !'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@kill blazzer.'[0m
+[32mSirdest exclaims '%No blazzer here !'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%kill [0m[32mblazzer.'.'[0m
+[32mDarol says 'saiks tuolla k‰ytt‰‰ invis ringii.'[0m
+la arena
+[32mSirdest says '% l.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           290/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           428/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:18:08] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%look.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:290/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%%You are prepared to [0m[32mdo the skill.'[0m
+[32mSirdest asks '%At whom ?'[0m
+[32mSirdest says '%east.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Blazzer Anarion the Ent (arachnid inside) < . > <team 1>.'[0m
+[32mSirdest says '%Blazzer successfully parries your slash.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest exclaims '%You score a CRITICAL hit!'[0m
+[32mSirdest says '%Smiling devilishly you cruelly slash Blazzer causing heart tissue to [0m[32mfly everywhere.'[0m
+[32mSirdest says '%You try to dodge, but Blazzer is not fooled.'[0m
+[32mSirdest says '%Blazzer incises you causing entrails to fly everywhere.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%Blazzer tears you causing nasty sizzling wounds.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%Hp:171/1181[-119] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+[32mSirdest says '%Hp:171/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%east.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #.[1;36m1[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           171/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer            40/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:18:09] hp 537/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%target.'[0m
+[32mSirdest says '%use 'cleave'.'[0m
+[32mSirdest says '%Hp:171/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@use 'cleave'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:171/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@target.'[0m
+[32mSirdest says '%You are targetting Blazzer.'[0m
+[32mSirdest says '%Hp:171/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%target.'.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is near death.'[0m
+[32mSirdest says '%Hp:171/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%scan [0m[32mall.'.'[0m
+[32mSirdest says '%target.'[0m
+[32mSirdest says '%use 'cleave'.'[0m
+[32mSirdest says '%Hp:171/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@use 'cleave'.'[0m
+[32mSirdest says '%You decide to change the skill to a new one.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:171/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@target.'[0m
+[32mSirdest says '%You are targetting Blazzer.'[0m
+[32mSirdest says '%Hp:171/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%target.'.'[0m
+[31mYou feel the hand of some Evil Gods penetrate the world and grip your[0m
+[31mvery soul! You sense some of your precious strength flow from your being[0m
+[31mand into Blazzer which seems to sustain them.[0m
+hp [36m533[0m/537 ([31m-4[0m) | sp [32m1134[0m/1134 () | ep [32m266[0m/266 ()
+la arena
+[32mSirdest says '%Hp:154/1181[-17] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+[32mSirdest says '%You incise Blazzer making an artery explode.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska            86/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           384/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:18:11] hp 533/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%You miss Blazzer.'[0m
+[32mSirdest says '%Blazzer incises you making skull crack, forcing serious brain [0m[32mhemorrhage.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You successfully dodge Blazzer's slash.'[0m
+[32mSirdest says '%Hp:86/1181[-68] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+[32mSirdest says '%Blazzer leaves north.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Hp:86/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%scan all.'.'[0m
+[32mSirdest says '%north.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%Blazzer Anarion the Ent (arachnid inside) < . > <team 1>.'[0m
+[32mSirdest says '%Blazzer successfully dodges your futile slash.'[0m
+[32mSirdest says '%Blazzer successfully dodges your futile slash.'[0m
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%You successfully dodge Blazzer's slash.'[0m
+[32mSirdest says '%Hp:86/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%north.'.'[0m
+[32mSirdest says '%kill.'[0m
+la arena
+[32mSirdest says '%target.'[0m
+[32mSirdest says '%Hp:86/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@target.'[0m
+[32mSirdest says '%You are targetting Blazzer.'[0m
+[32mSirdest says '%Hp:86/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%% @@kill.'[0m
+[32mSirdest asks '%Kill what ?'[0m
+[32mSirdest says '%Hp:86/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%kill.'.'[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska            86/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           384/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:18:13] hp 533/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Blazzer is not in a good shape.'[0m
+[32mSirdest says '%Hp:86/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%scan all.'.'[0m
+[32mSirdest says '%You incise Blazzer causing a kidney to rupture.'[0m
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%Blazzer tears you forcing the heart to incinerate.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Hp:54/1181[-32] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%south.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:54/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%south.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska            54/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           316/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:18:16] hp 533/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[32mSirdest says '%west.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:54/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%west.'.'[0m
+[32mSirdest says '%inventory.'[0m
+[32mSirdest says '%You are carrying 37.9 kg of equipment:.'[0m
+[32mSirdest says '%7 coins (7 mithril) [Cash: 3500.00  Bank: 157072.40  Total: [0m[32m160572.40].'[0m
+[32mSirdest says '%Keep:.'[0m
+[32mSirdest says '%a simple silver signet ring labeled as {A}[57m (glowing)[32m <red glow>.'[0m
+[32mSirdest says '%Hp:54/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say [0m[32m'%inventory.'.'[0m
+[32mSirdest says '%BLaZe glows with power as it sinks into you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Blazzer tears you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Blazzer tears you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Hp:-45/1181[-99] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Atomska           -45/1181   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Blazzer           316/1062  721/801  |                                      |
+`-----------------------------------------------------------------------------'
+[16:18:19] hp 533/537  sp 1134/1134  ep 266/266  xp 80781  $ 2501/10456  wimpy off
+
+[31mGuard shouts 'Panthos, I rather enjoyed killing you!'[0m
+[1;30mInfo: Panthos dies.[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Guard shouts 'Panthos, I rather enjoyed killing you!'.'[0m
+[32mSirdest says '%Blazzer incises you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Blazzer misses you.'[0m
+[32mSirdest says '%Hp:-127/1181[-82] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+[1;30mInfo: Runkku recovers from link death.[0m
+You feel fully healed.
+hp [32m537[0m/537 ([32m+4[0m) | sp [32m1134[0m/1134 () | ep [32m266[0m/266 ()
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You is knocked senseless by the shear power of BLaZe's attack.'[0m
+[32mSirdest says '%Blazzer incises you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Blazzer incises you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Hp:-269/1181[-142] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Blazzer tears you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Hp:-357/1181[-88] Sp:20/20[] Ep:207/393[] Exp:51[] Money:157072[].'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-357/1181 Sp:20/20 Ep:207/393 Exp:51 Money:3500%You say '%You are [0m[51munconscious[32m, unable to do anything.'.'[0m
+[32mBauglir wails 'xiit xiit.'[0m
+The arena master shouts 'Atomska of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Blazzer'

@@ -1,0 +1,1155 @@
+The arena master shouts 'Team 1 consists of Calmis'
+The arena master shouts 'Team 2 consists of Morpher'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%You close team 1 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Calmis'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Morpher'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You close team 1 door.'.'[0m
+[1;37mJuo [0;53m[fall+]:[1;37m ootan vielki sitä twilight invitee[0m
+[32mSirdest says '%There are no light sources here, but you can still see.'[0m
+Yasha arrives from down.
+[32mSirdest says '%Waitingroom for team 1. This room is magically created,.'[0m
+[32mSirdest says '%Team 1 door [53m(closed)[32m leads out.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%There are no light sources here, but you can still see.'.'[0m
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% n.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+Eata arrives from down.
+[1;37mJuo [0;53m[fall+]:[1;37m :F[0m
+[32mSirdest says '% s.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% s.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '% ...'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[1;37mKyo [0;53m(fall+):[1;37m mix[0m
+[32mSirdest says '%You say '% ...'.'[0m
+[32mSirdest says '% ..#.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ..#.'.'[0m
+[32mSirdest says '% ...'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ...'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+Cealdyn leaves west.
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% n.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '% #..'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You cannot go that way.'.'[0m
+[32mSirdest says '% ...'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ...'.'[0m
+[32mSirdest says '% ..#.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ..#.'.'[0m
+Link Death arrives on his black stallion and carries Morstor away!
+[32mSirdest says '% n.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% n.'.'[0m
+Ssmud leaves west.
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% n.'.'[0m
+[1;37mKyo [0;53m(fall+):[1;37m twilightilla on vaan ihan retardeja ukkoi[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '% ###.'[0m
+la arena
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m12[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher          1165/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis           1122/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:04] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You cannot go that way.'.'[0m
+[32mSirdest says '% ..#.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ..#.'.'[0m
+*Fifi spreads its mighty wings.
+la arena
+[32mChizra booms 'horror.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher          1165/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis           1122/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:06] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mStargazer eeps fearfully.[0m
+[32mProteus booms 'voi lääf.'[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '% ...'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% w.'.'[0m
+[32mStargazer nods solemnly.[0m
+[32mSirdest says '% n.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% n.'.'[0m
+[32mYrden smacks his head, muttering 'duh!' under his breath.[0m
+Gotrek leaves down.
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%Gotrek leaves down.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher          1165/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis           1122/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:11] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[1;37mDupre [0;53m(fall+):[1;37m asdfasdf leila-anneli-tauno-pentikki tota eihä tosta mitää saa slvää :P[0m
+[32mStargazer gurgles 'karmee.'[0m
+[32mJuo buzzes 'törkee spammi.'[0m
+[1;37mKyo [0;53m(fall+):[1;37m mut pistetää juo kives+ pystyyn[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% w.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '% ###.'[0m
+la arena
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher          1165/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis           1122/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:19] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% ###.'[0m
+[32mJuo buzzes 'paska echotus.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '% ..#.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ..#.'.'[0m
+[32mSirdest says '% ...'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ...'.'[0m
+[32mSirdest says '% #..'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% #..'.'[0m
+[32mSirdest says '% ...'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ...'.'[0m
+[32mSirdest says '% ..#.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ..#.'.'[0m
+[32mSirdest says '% n.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You say '% ..#.'.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1122/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+Mankind sneaks in from down.
+[32mSirdest says '%Morpher arrives from south.'[0m
+[32mSirdest says '%Morpher incises you producing large scratches.'[0m
+[32mSirdest says '%Morpher successfully dodges your futile slash.'[0m
+[32mSirdest says '%Morpher successfully parries your slash.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest says '%Hp: 1058 -64 Sp: 28  Ep: 398.'[0m
+[32mSirdest says '% uf.'[0m
+la arena
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1058/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% uf.'.'[0m
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher          1165/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis           1058/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:25] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Morpher is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1058/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Morpher is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%You are using 'bladed fury'.'[0m
+[32mSirdest says '%Hp:1058/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You are using 'bladed fury'.'.'[0m
+[32mYrden wails 'this isnt nice.'[0m
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%Morpher is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1058/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% x.'.'[0m
+[32mSirdest says '%You are using 'bladed fury'.'[0m
+[32mSirdest says '%Hp:1058/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You are using 'bladed fury'.'.'[0m
+[32mSirdest says '%Morpher tears you making hair burn.'[0m
+[32mSirdest says '%You successfully dodge Morpher's slash.'[0m
+[32mSirdest says '%You miss Morpher.'[0m
+[32mSirdest says '%You miss Morpher.'[0m
+[32mSirdest says '%Hp: 1009 -49 Sp: 28  Ep: 398.'[0m
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%Morpher is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1009/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Morpher tears you making hair burn.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher          1165/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis           1009/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:28] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1009/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%Morpher is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1009/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Morpher is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%Morpher incises you causing a small wound.'[0m
+[32mSirdest says '%You tear Morpher causing a small scratch.'[0m
+[32mSirdest exclaims '%Morpher tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You incise Morpher producing large scratches.'[0m
+[32mSirdest says '%Hp: 948 -61 Sp: 28  Ep: 398.'[0m
+[1;37mKyo [0;53m(fall+):[1;37m siel sit keskusteltas tärkeistä asioista[0m
+[32mSirdest says '%Morpher is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:948/1122 Sp:28/28 Ep:398/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Morpher is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher          1073/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            948/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:32] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You miss enemy with the Black Axe called 'The Bleeder' <black aura>.'[0m
+[32mSirdest says '%You hit Morpher lightly in the foot causing a small cut%.'[0m
+[32mSirdest exclaims '%Using your mastery of Bladed Fury you hit extra HARD!'[0m
+[32mSirdest says '%Morpher's screams of agony deafen you as you cruelly chop him to [0m[32mlittle.'[0m
+[32mSirdest says '%Hp: 948  Sp: 28  Ep: 370 -28.'[0m
+[32mSirdest says '%Morpher tears you making hair burn.'[0m
+[32mSirdest says '%Morpher incises you causing third degree burns.'[0m
+[32mSirdest says '%You miss Morpher.'[0m
+[32mSirdest says '%You tear Morpher making skin bubble and sizzle.'[0m
+[32mSirdest says '%Hp: 850 -98 Sp: 28  Ep: 370.'[0m
+[32mSirdest says '%Morpher is slightly hurt.'[0m
+[32mSirdest says '%Hp:850/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Morpher is slightly hurt.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:850/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '% .2#.'[0m
+[32mSirdest says '%Hp:850/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% .2#.'.'[0m
+Air arrives from east.
+la arena
+       
+ [31m#####[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           887/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            850/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:35] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[1;37mKyo [0;53m(fall+):[1;37m kuten kiveskarvoista[0m
+[32mSirdest says '% n.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:850/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%%Morpher leaves south.'[0m
+[32mCyberlahko mumbles 'better than nothing i suppose.'[0m
+Eata looks at Sirdest.
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:850/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% n.'.'[0m
+[32mSirdest says '% ###.'[0m
+la arena
+[32mSirdest says '%Hp:850/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '%You cut Morpher making skin bubble and sizzle.'[0m
+[32mSirdest says '%You try to dodge, but Morpher is not fooled.'[0m
+[32mSirdest says '%Morpher incises you causing third degree burns.'[0m
+[32mSirdest says '%Morpher incises you causing third degree burns.'[0m
+[32mSirdest says '%Hp: 734 -116 Sp: 28  Ep: 370.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           855/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            734/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:37] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:734/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+[32mSirdest says '%Morpher is slightly hurt.'[0m
+[32mSirdest says '%Hp:734/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mNepnep grunts 'pelottavaa...'[0m
+[32mSirdest says '%You say '%Morpher is slightly hurt.'.'[0m
+[32mSirdest says '%You are using 'bladed fury'.'[0m
+[32mSirdest says '%Hp:734/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%%You miss Morpher.'[0m
+[32mSirdest exclaims '%Morpher tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You incise Morpher causing a small wound.'[0m
+[32mSirdest says '%You successfully dodge Morpher's slash.'[0m
+[32mSirdest says '%Morpher misses you.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           802/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            734/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:39] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Malekith leaves west.
+[32mSirdest says '% doh.'[0m
+[32mSirdest says '%You go 'DOH'.'[0m
+[32mSirdest says '%Hp:734/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% doh.'.'[0m
+[32mSirdest says '%You miss Morpher.'[0m
+[32mSirdest says '%Morpher incises you causing bad burns.'[0m
+[32mSirdest says '%You successfully parry Morpher's slash.'[0m
+[32mSirdest says '%Hp: 674 -60 Sp: 28  Ep: 370.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           802/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            674/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:43] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You exclaim 'avoidaan!'.'[0m
+[32mSirdest says '%Hp:674/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You exclaim 'avoidaan!'.'.'[0m
+Sumendar [1;30m[bat]:[0m can you do something else that 'la arena' to see the fight?
+[32mSirdest says '%Morpher successfully dodges your futile slash.'[0m
+[32mSirdest says '%You successfully dodge Morpher's slash.'[0m
+[32mSirdest says '%Morpher misses you.'[0m
+Graal arrives from down.
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%Morpher is slightly hurt.'[0m
+[32mSirdest says '%Hp:674/1122 Sp:28/28 Ep:370/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% x.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           802/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            674/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:47] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest exclaims '%You hit Morpher viciously in the chest causing horrible gouges% [0m[32mAND quickly hit again!'[0m
+[32mSirdest says '%You miss enemy with the the Axe named 'Bane'.'[0m
+[32mSirdest says '%Morpher reels from your onslaught and collapses upon the ground [0m[32mcoughing up.'[0m
+[32mSirdest says '%Hp: 674  Sp: 28  Ep: 342 -28.'[0m
+[32mSirdest says '%You tear Morpher producing large scratches.'[0m
+[32mSirdest says '%You tear Morpher causing a bad acid wound.'[0m
+[32mSirdest says '%Morpher tears you causing third degree burns.'[0m
+[32mSirdest says '%Morpher misses you.'[0m
+[32mSirdest says '%Hp: 627 -47 Sp: 28  Ep: 342.'[0m
+[32mSirdest says '% emote dodges.'[0m
+[32mSirdest says '%*Calmis dodges.'[0m
+[32mSirdest says '%Hp:627/1122 Sp:28/28 Ep:342/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You exclaim '%You hit Morpher viciously in the chest causing horrible [0m[32mgouges%.'[0m
+[32mSirdest says '%Morpher is noticeably hurt.'[0m
+la arena
+[32mSirdest says '%Hp:627/1122 Sp:28/28 Ep:342/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Morpher is noticeably hurt.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:627/1122 Sp:28/28 Ep:342/398 Cash:0/723 Exp:4061.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m12[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           598/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            627/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:49] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:627/1122 Sp:28/28 Ep:342/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:627/1122 Sp:28/28 Ep:342/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           598/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            627/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:51] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:627/1122 Sp:28/28 Ep:342/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '% uf.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:627/1122 Sp:28/28 Ep:342/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% uf.'.'[0m
+Zograh [35m[wanted]:[0m tank
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '% ..#.'[0m
+[32mSirdest says '%Hp:627/1122 Sp:28/28 Ep:342/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           598/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            627/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:53] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:627/1122 Sp:28/28 Ep:342/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+[32mSirdest says '% ..#.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ..#.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           638/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            655/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:55] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '% ...'[0m
+la arena
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ...'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           638/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            655/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:57] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% #..'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% #..'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+[32mSirdest says '%.'[0m
+la arena
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+       
+ [31m#####[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           638/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            655/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:05:59] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%% w.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%.'.'[0m
+Ssmud arrives from west.
+[1;30mInfo: Innuendo recovers from link death.[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%Ssmud arrives from west.'[0m
+Gotrek arrives from down.
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%Gotrek arrives from down.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:655/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+Cealdyn arrives from west.
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           638/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            655/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:01] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You tear Morpher causing a small wound.'[0m
+[32mSirdest says '%You tear Morpher inducing a nasty lesion.'[0m
+[32mSirdest says '%Morpher tears you causing bad burns.'[0m
+[32mSirdest says '%You successfully dodge Morpher's slash.'[0m
+[32mSirdest says '%Hp: 602 -53 Sp: 28  Ep: 348.'[0m
+[32mSirdest says '% ..#.'[0m
+[32mSirdest says '%Hp:602/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ..#.'.'[0m
+Juo leaves west.
+la arena
+[32mSirdest says '% n.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:602/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           552/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            602/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:03] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You say '% n.'.'[0m
+[32mSirdest says '%You are not in combat right now.'[0m
+[32mSirdest says '%Hp:602/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You are not in combat right now.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           552/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            602/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:06] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Morpher successfully parries your slash.'[0m
+[32mSirdest says '%Morpher successfully dodges your futile slash.'[0m
+[32mSirdest says '%Morpher tears you inducing a nasty lesion.'[0m
+[32mSirdest says '%Your purple moccasin gets damaged.'[0m
+[32mSirdest says '%Smiling devilishly Morpher cruelly slashes you causing heart tissue to [0m[32mfly everywhere.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest says '%Hp: 141 -461 Sp: 28  Ep: 348.'[0m
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:141/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m12[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           552/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            141/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:08] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Sirdar [1;30m<bat>:[0m go to the upstairs, there is a speaker.
+[32mSirdest says '%*Ghost of Kalmis miettii etta mulla joskus oli sita equa.'[0m
+Graal leaves west.
+[32mSirdest says '%Morpher arrives from east.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:141/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%You successfully dodge Morpher's slash.'[0m
+[32mSirdest says '%You cut Morpher causing skin to quiver.'[0m
+[32mSirdest says '%You miss Morpher.'[0m
+[32mJacen goes 'aww'.[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           517/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            141/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:10] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%Morpher is not in a good shape.'[0m
+[32mSirdest says '%Hp:141/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% x.'.'[0m
+Chack arrives from east.
+Erygon arrives from west.
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           479/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            141/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:12] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Morpher misses you.'[0m
+[32mSirdest says '%You successfully parry Morpher's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%Morpher successfully parries your slash.'[0m
+[32mSirdest exclaims '%Morpher tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You cut Morpher causing a bad acid wound.'[0m
+[32mSirdest says '%Morpher starts concentrating on a new offensive skill.'[0m
+[32mSirdest says '% say perkele.'[0m
+[32mSirdest says '%You grunt 'perkele.'.'[0m
+[32mSirdest says '%Hp:141/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Morpher misses you.'.'[0m
+[32mCealdyn goes 'Heh'.[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           479/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis            141/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:13] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Cealdyn leaves west.
+Graal arrives from east.
+[32mSirdest says '%Morpher tears you smashing rib bones into a lung.'[0m
+Stargazer leaves west.
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%You successfully dodge Morpher's slash.'[0m
+[32mSirdest says '%Morpher successfully parries your slash.'[0m
+[32mSirdest says '%You miss Morpher.'[0m
+[32mSirdest says '%Hp: 88 -53 Sp: 28  Ep: 348.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           479/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             88/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:15] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Sumendar arrives from west.
+Sumendar leaves east.
+[32mSirdest says '%You successfully dodge Morpher's slash.'[0m
+la arena
+[32mSirdest says '%You successfully dodge Morpher's slash.'[0m
+[32mSirdest says '%You cut Morpher causing a small wound.'[0m
+[32mSirdest says '%You miss Morpher.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           449/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             88/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:18] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You grunt 'siinähän se sitten meni sandaali rikki.'.'[0m
+[32mSirdest says '%Hp:88/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You grunt 'siinähän se sitten meni sandaali rikki.'.'.'[0m
+[32mSirdest says '%Morpher is not in a good shape.'[0m
+[32mSirdest says '%Hp:88/1122 Sp:28/28 Ep:348/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Morpher is not in a good shape.'.'[0m
+Malekith arrives from west.
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           449/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             88/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:19] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+Muumipeikko arrives from west.
+[32mSirdest says '%Cobain tells you 'hmm, vähä pöhnäs taas'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           449/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             88/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:20] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You miss enemy with the Black Axe called 'The Bleeder' <black aura>.'[0m
+[32mSirdest exclaims '%You hit Morpher viciously in the groin causing horrible gouges% [0m[32mAND quickly hit again!'[0m
+[32mSirdest says '%Your ruthless onslaught of attacks causes Morpher to stumble back and [0m[32mfall to.'[0m
+[32mSirdest says '%Hp: 88  Sp: 28  Ep: 320 -28.'[0m
+[32mSirdest says '%You successfully dodge Morpher's slash.'[0m
+[32mSirdest says '%Morpher misses you.'[0m
+[32mSirdest exclaims '%Morpher tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You cut Morpher causing vital organs to vibrate.'[0m
+[32mSirdest says '%You miss Morpher.'[0m
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%Morpher is in bad shape.'[0m
+[32mSirdest says '%Hp:88/1122 Sp:28/28 Ep:320/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You miss enemy with the Black Axe called 'The Bleeder' [0m[32m<black aura>.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m1[31m.#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           305/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             88/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:21] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '% ###.'[0m
+[32mSirdest says '%Hp:88/1122 Sp:28/28 Ep:320/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% ###.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:88/1122 Sp:28/28 Ep:320/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#.[35m21[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           305/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             88/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:23] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Morpher arrives from west.'[0m
+[32mSirdest says '%You successfully parry Morpher's slash.'[0m
+[32mSirdest says '%...AND counterattack with ferocity.'[0m
+[32mSirdest says '%Morpher incises you forcing the heart to incinerate.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Morpher successfully parries your slash.'[0m
+[32mSirdest says '% ...AND counterattacks with ferocity.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Morpher successfully dodges your futile slash.'[0m
+[32mSirdest says '%Hp: 46 -70 Sp: 28  Ep: 326.'[0m
+la arena
+Sumendar arrives from west.
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           346/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             46/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:25] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Morpher starts concentrating on a new offensive skill.'[0m
+[32mSirdest says '%Morpher is in bad shape.'[0m
+[32mSirdest says '%Hp:46/1122 Sp:28/28 Ep:326/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%Morpher is in bad shape.'.'[0m
+la arena
+[32mSirdest says '%Morpher misses you.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           317/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             46/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:27] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You miss Morpher.'[0m
+[32mSirdest exclaims '%Morpher tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You tear Morpher creating a second degree acid burn.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           317/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             46/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:28] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest exclaims '%*Calmis avoidaa!'[0m
+[32mSirdest says '%Hp:46/1122 Sp:28/28 Ep:326/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You exclaim '%*Calmis avoidaa!'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           317/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             46/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:29] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%This moccassin is made of human skin and have been worn for [0m[32mgenerations in the.'[0m
+[32mSirdest says '%It looks light weight.'[0m
+[32mSirdest says '%Hp:46/1122 Sp:28/28 Ep:326/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%This moccassin is made of human skin and have been worn for.'[0m
+la arena
+[32mSirdest says '%Morpher misses you.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           279/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             46/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:30] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You tear Morpher making an artery explode.'[0m
+[32mSirdest says '%Morpher successfully parries your slash.'[0m
+[32mSirdest says '%This is a purple moccasin. When you examine the surface of it you [0m[32mnotice that.'[0m
+[32mSirdest says '%It looks light weight.'[0m
+[32mSirdest says '%Hp:46/1122 Sp:28/28 Ep:326/398 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%This is a purple moccasin. When you examine the surface of [0m[32mit you.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           279/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             46/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:31] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You remove a purple moccasin.'[0m
+[32mSirdest says '%Hp:46/1122 Sp:28/28 Ep:326/397 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You remove a purple moccasin.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           279/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis             46/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:32] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%Morpher turns suddenly and STRIKES again..'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest says '%Morpher tears you forcing the heart to incinerate.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Morpher incises you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Hp: -251 -297 Sp: 28  Ep: 326.'[0m
+[32mSirdest says '%Cobain tells you 'ei kyl pitäisi'.'[0m
+la arena
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-251/1122 Sp:28/28 Ep:326/397 Cash:0/723 Exp:4061.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           279/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis           -251/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:33] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You say '%You are [51munconscious[32m, unable to do anything.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-251/1122 Sp:28/28 Ep:326/397 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You are [51munconscious[32m, unable to do anything.'.'[0m
+Sumendar [1;30m[bat]:[0m ah, here
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-251/1122 Sp:28/28 Ep:326/397 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% w.'.'[0m
+[32mPurse shouts enthusiastically and screams 'WHEE!'.[0m
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-251/1122 Sp:28/28 Ep:326/397 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '% w.'.'[0m
+la arena
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-251/1122 Sp:28/28 Ep:326/397 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You are [51munconscious[32m, unable to do anything.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#..[35m1[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Morpher           279/1165   30/30   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Calmis           -251/1122   28/28   |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:35] hp 537/537  sp 1134/1134  ep 272/266  xp 25922  $ 3000/10725  wimpy off
+
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-251/1122 Sp:28/28 Ep:326/397 Cash:0/723 Exp:4061.'[0m
+[32mSirdest says '%You say '%You are [51munconscious[32m, unable to do anything.'.'[0m
+The arena master shouts 'Calmis of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Morpher'

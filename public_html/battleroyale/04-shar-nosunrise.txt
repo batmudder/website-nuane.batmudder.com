@@ -1,0 +1,69 @@
+The Battle Royale Continues:
+Shar and Nosunrise will fight to the death!
+Nosunrise: look
+Shar: look
+Shar: inferno
+Shar: invoke black hole at amount 100
+Shar: cast word of genocide at wolfman
+Shar: wave wand at nosunrise
+Shar: remove wand
+Shar: wield shield in 2
+Shar: wield shield in 2
+Shar: wield shield in 2
+Shar: wield shield in 2
+Shar: wield shield in 2
+Shar: wield shield in 2
+Shar: wield shield in 2
+Shar: wield shield in 2
+Shar: wield shield in 2
+Shar: wield shield in 2
+Shar: remove dracostarmikan
+Shar: wield kraftigar in 1
+Shar: wield kraftigar in 1
+Shar: wield kraftigar in 1
+Shar: wield kraftigar in 1
+Shar: wield kraftigar in 1
+Shar: wield kraftigar in 1
+Shar: wield kraftigar in 1
+Shar: wield kraftigar in 1
+Shar: wield kraftigar in 1
+Shar: wield kraftigar in 1
+Nosunrise: read mirr
+Nosunrise: read shi
+Nosunrise: invoke anti magic field
+Nosunrise: get all from box
+Shar: scan all
+Nosunrise: scan all
+Nosunrise: kill shar
+Shar: cast 'word of blasting'
+Nosunrise: Hp 78%
+Shar: scan all
+Nosunrise: look
+Nosunrise: Hp 73%
+Shar: scan all
+Nosunrise: noogie Shar
+Nosunrise: consider Shar
+Nosunrise: blook
+Nosunrise: exits
+Nosunrise: look
+Shar: cast 'word of blasting'
+Nosunrise: Hp 7%
+Nosunrise: use stance of the righteous
+Shar: scan all
+Shar: cast 'word of blasting'
+Nosunrise: use stance of the righteous
+Nosunrise: look
+Nosunrise: Hp 6%
+Shar: scan all
+Nosunrise: Hp -1%
+Shar: scan all
+Nosunrise: Hp -2%
+Shar: scan all
+Nosunrise: Hp -2%
+Shar: scan all
+Nosunrise: Hp -8%
+Shar: scan all
+Nosunrise: Hp -18%
+Shar: Hp 94%
+Nosunrise died and thus loses this round!
+Shar has won this round of the Battle Royale!

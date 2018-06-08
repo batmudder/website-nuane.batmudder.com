@@ -1,0 +1,2923 @@
+Kyo {party}: menee
+Info: Grimpold recovers from link death.
+A spider peeks out through your skin, stares at the world curiously for a moment and dives back in.
+Andthi removes an ancient staff of the necromancer, an ancient staff of the necromancer, Red Glove of the Healer, Red Glove of the Healer, A magic cloak, a pair of old dark green boots, a collar made of black silk, the Bracelets of Darkness, Spider Amulet, Mirror breastplate, a majectical black crown, Girdle of Ethereal Power labeled as SPR, Sacred Bracelets of Eternity, sparkling ruby ring, sparkling ruby ring and a pair of leggings, formed out of earth.
+Andthi wears a green glove <red glow>, a green glove <red glow>, Girdle of Ethereal Power labeled as WIS <orange glow>, a rose clasp <red glow>, heavy tabard with a chalice ensignia <orange glow>, The Mask of Higher Consciousness <red glow>, bracelet made of green crystal <red glow>, bracelet made of green crystal <red glow>, glittering leg protectors <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, The gleaming blue collar of Bengalore <red glow>, a pair of black boots <red glow>, Tattered Silver Shimmering Cloak <red glow>, silver dragon bracers <red glow>, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow> and A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow>.
+Ronald starts concentrating on a new spell.
+Harle [bat]: err i never said mmm mazzon
+hp 1724/1733 (-12) | sp 909/1019 () | ep 568/570 ()
+*Ronald ticks 92 sps[32s].
+Ronald starts concentrating on a new spell.
+Ronald starts concentrating on a new spell.
+Kyo tiptoes to the east.
+Kyynel leaves east.
+Andthi leaves east.
+Glycoli leaves east.
+Convent of 'White Rose' (convent,w).
+Glycoli the dark Drow < Nöyrry Saatana! >
+Andthi the Owl slides It in.. < Nöyrry Saatana! >
+Kyynel the Thrikhren happoroiske < Nöyrry Saatana! >
+Kyo the Dwarf is the Thief of Always < Nöyrry Saatana! >
+Noble soldier of Faerwon guarding the convent gate
+Milk arrives from west.
+Norz arrives from west.
+Ronald arrives from west.
+Orthanc arrives from west.
+Ronald starts concentrating on a new spell.
+habo
+reaver threaten gatekeeper
+hp 1724/1733 () | sp 909/1019 () | ep 567/570 (-1)
+Milk starts concentrating on a new offensive spell.
+You have an unusual feeling as you cast the spell.
+You start chanting.
+CASTING CONCEALED.
+[00:43:26] hp 1724/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+You let dark energy surround you as your gaze meets Gatekeeper's. You gravely
+intone 'Oblivion has come for you.'
+Gatekeeper looks desperate and panicked.
+[00:43:26] hp 1724/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+Orthanc starts concentrating on a new spell.
+Kyynel [party]: trigu kattoo heti jos joku tulee roomiin
+Kyo {party}: valmiina theal
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 2 times.
+Nuane hits Gatekeeper 3 times.
+You sense Gatekeeper's body being covered by a flex shield.
+Gatekeeper is suddenly enveloped in holy glow!
+Gatekeeper's skin turns harder.
+Many images of Gatekeeper suddenly appear.
+Harm body: 6
+Harm body: 5 (haste)
+Sareth [wanted]: summon quick
+Onyxsablet [party / Dont Ask]: windi tippuu
+You are casting 'harm body'.
+[00:43:29] hp 1724/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is in very bad shape. (10-20% hps)
+[00:43:29] hp 1724/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1724(1733)  909(1019) 567(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1358(1845)   44(  44) 412(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1623(1623)  315( 517) 423(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1322(1322) 474(467) | 100 |        42351 |
+| 2.2   Norz          fol  432( 449)  895(1488) 252(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903) 1007(1381) 270(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1381(1545) 276(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 212(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  922(1448) 260(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:43:29] hp 1724/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+TICK IN 5 SECONDS.
+
+Nuane reports: Hp: 1724 (1733) Sp: 909 (1019) Ep: 567 (570).
+[00:43:29] hp 1724/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc [party]: joh
+Milk [party]: < Repulsor Aura DOWN > [12:12] {Milk's average 12:44}
+Ronald cast(s): 'judicandus eurto mangenic' (True party heal)
+Ronald's spell heals you. You feel all better.
+cast info
+scan all
+pss
+pr
+*****************************************************
+An image of Gatekeeper vanishes.
+Kyo hits Gatekeeper 1 time.
+Gatekeeper hits Kyo 1 time.
+An image of Gatekeeper vanishes.
+An image of Gatekeeper vanishes.
+Nuane hits Gatekeeper 2 times.
+hp 1733/1733 (+9) | sp 909/1019 () | ep 567/570 ()
+Harm body: 4
+Harm body: 2 (greater haste)
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Gatekeeper.
+Mordac <bat>: lake water is the best. helsinki tap water comes from lakes..
+You are casting 'harm body'.
+[00:43:32] hp 1733/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is in very bad shape. (10-20% hps)
+[00:43:33] hp 1733/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733)  909(1019) 567(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1260(1781)   44(  44) 412(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1623(1623)  315( 517) 423(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1138(1322) 474(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  895(1488) 252(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  763(1381) 270(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1381(1545) 276(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 212(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  922(1448) 260(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:43:33] hp 1733/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 909 (1019) Ep: 567 (570).
+[00:43:33] hp 1733/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Glycoli starts concentrating on a new offensive spell.
+Ronald starts concentrating on a new spell.
+Orthanc sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!' (Campfire tune)
+cast info
+scan all
+pss
+pr
+*****************************************************
+An image of Gatekeeper vanishes.
+Kyo hits Gatekeeper 1 time.
+Kyo's flex shield wobbles.
+Gatekeeper hits Kyo 2 times.
+An image of Gatekeeper vanishes.
+Nuane hits Gatekeeper 1 time.
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+Milk's fingertips are surrounded with swirling ENERGY as he casts the spell.
+All images of Gatekeeper vanish!
+Gatekeeper cast(s): 'gtzt mar nak grttzt' (Golden arrow)
+Gatekeeper grins as his golden arrow hits Orthanc.
+Harm body: 1
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+The desert yellow forcefield vanishes.
+Milk [party]: Gatekeeper screams fire damage. (0% resist)
+You are casting 'harm body'.
+[00:43:35] hp 1733/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo {party}: < Unpain DOWN > [2:21]
+Gatekeeper is near death. (0-10% hps)
+[00:43:35] hp 1733/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Milk starts concentrating on a new offensive spell.
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733)  909(1019) 567(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1237(1715)   44(  44) 412(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1594(1594)  228( 517) 423(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1138(1322) 474(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  895(1488) 252(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  763(1381) 270(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1269(1545) 276(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 212(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  687(1448) 260(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:43:35] hp 1733/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo {party}: WINDI lähti!!!
+Nuane reports: Hp: 1733 (1733) Sp: 909 (1019) Ep: 567 (570).
+[00:43:35] hp 1733/1733 | sp 909/1019 | ep 567/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc [party]: windi
+Andthi starts concentrating on a new spell.
+Kyo tiptoes to the west.
+Kyynel leaves west.
+Andthi leaves west.
+Glycoli leaves west.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Before the convent of White Rose (w,sw,s,e).
+a leather waterskin (empty), a pile of bronze coins, 8
+silver coins, a pile of copper coins, a big pile of tin
+coins, a big pile of mowgles coins, an empty alchemist's
+flask, a tiny yellow rhodonite, a tiny grey-black
+hematite and a pile of zinc coins
+Glycoli the dark Drow < Nöyrry Saatana! >
+Andthi the Owl slides It in.. < Nöyrry Saatana! >
+Kyynel the Thrikhren happoroiske < Nöyrry Saatana! >
+Kyo the Dwarf is the Thief of Always < Nöyrry Saatana! >
+Milk arrives from east.
+Norz arrives from east.
+Ronald arrives from east.
+Orthanc arrives from east.
+Ghost of Nobbs [ghost]: wingo beat the shit out of me :(
+Kyo tiptoes to the south.
+Kyynel leaves south.
+Andthi leaves south.
+Glycoli leaves south.
+The Valley (nw,n,w).
+7 silver coins, four leather waterskins
+(full), one zinc coin, an open faced roast beef,
+a pile of copper coins, a pile of tin coins, a small
+pile of bronze coins, a big pile of mowgles coins, a
+cappellini and marinara, a patty sausage, a plate of
+beefaroni and a well done prime rib
+Glycoli the dark Drow < Nöyrry Saatana! >
+Andthi the Owl slides It in.. < Nöyrry Saatana! >
+Kyynel the Thrikhren happoroiske < Nöyrry Saatana! >
+Kyo the Dwarf is the Thief of Always < Nöyrry Saatana! >
+Onyxsablet Blackheart the Duck needs some spanking < Dont Ask >
+Milk arrives from north.
+Norz arrives from north.
+Ronald arrives from north.
+habo
+Orthanc arrives from north.
+You start chanting.
+CASTING CONCEALED.
+[00:43:39] hp 1733/1733 | sp 909/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Norz starts concentrating on a new offensive spell.
+Kyo {party}: chain
+Silea [bat]: no, harle. he was fantasizing.
+Info: Ujoujo left the game.
+Spider Queen smiles upon you and helps you control the demon.
+Timer now at 60 secs.
+Ronald starts concentrating on a new spell.
+Mazzon [bat]: Harle, too err is human, but to moo bovine
+Andthi starts concentrating on a new spell.
+Orthanc [party]: puuh
+Milk starts concentrating on a new offensive spell.
+hp 1733/1733 () | sp 898/1019 (-11) | ep 566/570 (-1)
+Harm body: 6
+Harm body: 5 (haste)
+Harle [bat]: oh..
+Kyo {party}: hurrr
+Harm body: 4
+Mordac <bat>: although they're NOT like that campcon lake I saw in the pics
+Furious gatekeeper arrives in a flash of light.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Orthanc's flex shield wobbles.
+Gatekeeper hits Orthanc 1 time.
+Orthanc hits Gatekeeper 1 time.
+Kyo hits Gatekeeper 1 time.
+Your knowledge about Gatekeeper's tactics allows you to evade the ambush.
+You are casting 'harm body'.
+[00:43:49] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:43:49] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733)  898(1019) 566(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1271(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1383(1555)  228( 517) 422(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1138(1322) 473(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  949(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  788(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1311(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1491(1510) 211(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  687(1448) 260(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:43:49] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 898 (1019) Ep: 566 (570).
+[00:43:49] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+*Ronald ticks 25 sps[25s].
+Onyxsablet leaves north.
+Info: Ujoujo enters the game.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 2 times.
+Orthanc hits Gatekeeper 2 times.
+Soldier ant shouts 'Gee, sorry about that Sareth *snicker*!'
+Info: Sareth dies.
+Harm body: 3
+Harm body: 2 (haste)
+You are casting 'harm body'.
+[00:43:50] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:43:50] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733)  898(1019) 566(570) | 100 |        46100 |
+| 1.2   Kyo           ldr  864(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1383(1555)  228( 517) 422(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1138(1322) 473(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  949(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  788(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1311(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1491(1510) 211(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  687(1448) 260(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:43:50] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 898 (1019) Ep: 566 (570).
+[00:43:50] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo {party}: tuli
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Gatekeeper.
+Kyo {party}: nd
+Ronald cast(s): 'judicandus pafzarmus' (Major heal)
+Ronald casts her spell at Kyo.
+Norz cast(s): 'krkx mar nak grttzt' (Summon carnal spores)
+As Norz casts the spell, he pulls out a silvery bark chip which bursts into a million prismatic starbursts.
+Norz grins as his summon carnal spores hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Gatekeeper hits Kyo 2 times.
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+The air before Milk becomes electrified and crackles with pure POWER.
+Gatekeeper's flex shield wobbles.
+Andthi cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Orthanc [party]: windi!
+Milk [party]: Gatekeeper screams fire damage. (0% resist)
+Kyynel [report]:         ....Kyo SCREAMS to ACID!!
+Andthi starts concentrating on a new spell.
+You are casting 'harm body'.
+[00:43:53] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:43:53] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733)  898(1019) 566(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1202(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1505(1555)  228( 517) 422(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  945(1322) 473(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  845(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  676(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1199(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1491(1510) 211(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  601(1448) 260(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:43:53] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 898 (1019) Ep: 566 (570).
+[00:43:53] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald starts concentrating on a new spell.
+Milk starts concentrating on a new offensive spell.
+Lim [fall+]: ärh muistaaks joku syntaksi tääl wretchedil mitä pitä tehä tälle pallolle
+Orthanc starts concentrating on a new spell.
+Tonto (bat): hih
+Silea [bat]: not just any lake. THE lake.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 1 time.
+Nuane hits Gatekeeper 1 time.
+Harm body: 1
+Info: Pharm recovers from link death.
+You are casting 'harm body'.
+[00:43:56] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:43:56] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733)  898(1019) 566(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1066(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1505(1555)  228( 517) 422(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  945(1322) 473(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  845(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  676(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1199(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1491(1510) 211(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  601(1448) 260(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:43:56] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 898 (1019) Ep: 566 (570).
+[00:43:56] hp 1733/1733 | sp 898/1019 | ep 566/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo tiptoes to the north.
+Kyynel leaves north.
+Andthi leaves north.
+Glycoli leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Before the convent of White Rose (w,sw,s,e).
+a leather waterskin (empty), a pile of bronze coins, 8
+silver coins, a pile of copper coins, a big pile of tin
+coins, a big pile of mowgles coins, an empty alchemist's
+flask, a tiny yellow rhodonite, a tiny grey-black
+hematite and a pile of zinc coins
+Glycoli the dark Drow < Nöyrry Saatana! >
+Andthi the Owl slides It in.. < Nöyrry Saatana! >
+Kyynel the Thrikhren happoroiske < Nöyrry Saatana! >
+Kyo the Dwarf is the Thief of Always < Nöyrry Saatana! >
+Milk arrives from south.
+Norz arrives from south.
+Ronald arrives from south.
+Orthanc arrives from south.
+Milk [party]: koulutan sitä
+habo
+You start chanting.
+CASTING CONCEALED.
+[00:43:58] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+hp 1733/1733 () | sp 898/1019 () | ep 564/570 (-2)
+Harm body: 6
+Furious gatekeeper arrives in a flash of light.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 2 times.
+Orthanc hits Gatekeeper 1 time.
+Nuane hits Gatekeeper 1 time.
+Kyo hits Gatekeeper 1 time.
+Your knowledge about Gatekeeper's tactics allows you to evade the ambush.
+Kyo {party}: chain
+Glycoli starts concentrating on a new offensive spell.
+You are casting 'harm body'.
+[00:43:59] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:43:59] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733)  898(1019) 564(570) | 100 |        46100 |
+| 1.2   Kyo           ldr  696(1715)   44(  44) 413(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1524(1555)  245( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  945(1322) 471(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  845(1488) 251(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  676(1381) 269(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1199(1545) 275(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1491(1510) 209(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  601(1448) 258(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:43:59] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 898 (1019) Ep: 564 (570).
+[00:43:59] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Onyxsablet [party / Dont Ask]: siel o windi
+Andthi starts concentrating on a new spell.
+Ronald starts concentrating on a new spell.
+Harm body: 5
+Harm body: 3 (greater haste)
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo's flex shield wobbles.
+Gatekeeper hits Kyo 1 time.
+Orthanc hits Gatekeeper 1 time.
+Nuane hits Gatekeeper 2 times.
+Kyo hits Gatekeeper 1 time.
+Kyo {party}: onyx theal
+You are casting 'harm body'.
+[00:44:02] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:02] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733)  898(1019) 564(570) | 100 |        46100 |
+| 1.2   Kyo           ldr  589(1715)   44(  44) 413(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1524(1555)  245( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  945(1322) 471(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  845(1488) 251(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  676(1381) 269(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1199(1545) 275(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1491(1510) 209(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  601(1448) 258(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:02] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 898 (1019) Ep: 564 (570).
+[00:44:02] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi [party]: oota ne hiilit
+give slice to kyo
+You give a greenish slice of fungus to Kyo.
+[00:44:04] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+give slice to kyo
+
+Kyo {party}: theal
+You give a greenish slice of fungus to Kyo.
+[00:44:04] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ghost of Sareth [ghost]: rais
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Gatekeeper hits Kyo 2 times.
+Kyo hits Gatekeeper 1 time.
+Andthi cast(s): 'judicandus zapracus' (True heal)
+Andthi casts his spell at Kyo.
+You are casting 'harm body'.
+[00:44:05] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:05] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc [party]: jaha :)
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733)  898(1019) 564(570) | 100 |        46100 |
+| 1.2   Kyo           ldr  993(1715)   44(  44) 413(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1521(1554)  245( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  945(1322) 471(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  845(1488) 251(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  676(1381) 269(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1199(1545) 275(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1491(1510) 209(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  432(1448) 258(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:05] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 898 (1019) Ep: 564 (570).
+[00:44:05] hp 1733/1733 | sp 898/1019 | ep 564/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Onyxsablet arrives from east.
+Lim [fall+]: et pääs halibanil
+Kyo tiptoes to the south.
+Kyynel leaves south.
+Andthi leaves south.
+Glycoli leaves south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+The Valley (nw,n,w).
+7 silver coins, four leather waterskins
+(full), one zinc coin, an open faced roast beef,
+a pile of copper coins, a pile of tin coins, a small
+pile of bronze coins, a big pile of mowgles coins, a
+cappellini and marinara, a patty sausage, a plate of
+beefaroni and a well done prime rib
+Glycoli the dark Drow < Nöyrry Saatana! >
+Andthi the Owl slides It in.. < Nöyrry Saatana! >
+Kyynel the Thrikhren happoroiske < Nöyrry Saatana! >
+Kyo the Dwarf is the Thief of Always < Nöyrry Saatana! >
+Milk arrives from north.
+Norz arrives from north.
+Ronald arrives from north.
+Orthanc arrives from north.
+Norz starts concentrating on a new offensive spell.
+Andthi starts concentrating on a new spell.
+Kyo {party}: theal
+Glycoli starts concentrating on a new offensive spell.
+habo
+You start chanting.
+CASTING CONCEALED.
+[00:44:08] hp 1733/1733 | sp 898/1019 | ep 563/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Onyxsablet arrives from north.
+Ronald starts concentrating on a new spell.
+Kyo {party}: chain
+Onyxsablet raises her hands toward the heavens and booms, 'Tarmalen, I the
+leader of Healers humbly call your aid'
+Grace of Tarmalen caresses your body.
+hp 1733/1733 () | sp 1019/1019 (+121) | ep 570/570 (+6)
+Harm body: 6
+Harm body: 5 (haste)
+Furious gatekeeper arrives in a flash of light.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 2 times.
+Orthanc hits Gatekeeper 1 time.
+Nuane hits Gatekeeper 2 times.
+Your knowledge about Gatekeeper's tactics allows you to evade the ambush.
+Onyxsablet leaves north.
+*Ronald ticks 465 sps[23s].
+You are casting 'harm body'.
+[00:44:11] hp 1733/1733 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:11] hp 1733/1733 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733) 1019(1019) 570(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1124(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1554(1554)  517( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1322(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449) 1230(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903) 1141(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1545(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  972(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:11] hp 1733/1733 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 1019 (1019) Ep: 570 (570).
+[00:44:11] hp 1733/1733 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Susette [fall+]: rub ball
+Kyo {party}: vittuu
+Info: Muumipeikko goes link dead.
+Ronald cast(s): 'judicandus zapracus' (True heal)
+Ronald casts her spell at Kyo.
+Norz cast(s): 'krkx mar nak grttzt' (Summon carnal spores)
+As Norz casts the spell, he pulls out a silvery bark chip which bursts into a million prismatic starbursts.
+Norz grins as his summon carnal spores hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo's flex shield wobbles.
+Gatekeeper hits Kyo 1 time.
+Orthanc hits Gatekeeper 1 time.
+Nuane hits Gatekeeper 1 time.
+*Orthanc crits.
+You are casting 'harm body'.
+[00:44:14] hp 1733/1733 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:14] hp 1733/1733 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Norz starts concentrating on a new offensive spell.
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1733(1733) 1019(1019) 570(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1604(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1554(1554)  517( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1322(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449) 1126(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  945(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1545(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  972(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:14] hp 1733/1733 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1733 (1733) Sp: 1019 (1019) Ep: 570 (570).
+[00:44:14] hp 1733/1733 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald starts concentrating on a new spell.
+Andthi [party]: th kyo 1
+Lim [fall+]: no niipä oliki kiitti
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Kyo smiles happily.
+Kyynel smiles happily.
+Kyynel succombs to a fit of uncontrollable hideous laughter!
+Andthi smiles happily.
+Andthi succombs to a fit of uncontrollable hideous laughter!
+Glycoli smiles happily.
+Glycoli succombs to a fit of uncontrollable hideous laughter!
+Gatekeeper looks at you mesmerizingly.  The world around you changes.
+You smile happily.
+There are no light sources here, but you can still see.
+~~~~~~ddd  You are in the sea. The waves are tall and it is difficult to see
+~~~~ddddd  very far. If you run into a monster, you'd better pray. Above you is
+~~~~*~ddz  a cold, slowly moving, clear night sky. A light wind stirs the air.
+~~~~~~~~~  A first quarter moon hangs in the sky. The still water here is very
+~~~~~~~~~  deep.
+           Obvious exits are: nw, n, ne, w, e, sw, s and se.
+Gatekeeper's antics are so amusing that you break into a fit of uncontrollable
+hideous laughter!
+Milk smiles happily.
+Milk succombs to a fit of uncontrollable hideous laughter!
+Norz smiles happily.
+Norz succombs to a fit of uncontrollable hideous laughter!
+Ronald smiles happily.
+Ronald succombs to a fit of uncontrollable hideous laughter!
+Orthanc smiles happily.
+Orthanc succombs to a fit of uncontrollable hideous laughter!
+cast info
+scan all
+pss
+pr
+*****************************************************
+Your flex shield wobbles and part of the attack gets absorbed!
+It hurts so badly you get confused and stop your spell.
+You lose your concentration and cannot cast the spell.
+CASTING BROKED.
+Gatekeeper hits Nuane 3 times.
+Orthanc hits Gatekeeper 1 time.
+Nuane hits Gatekeeper 1 time.
+hp 1183/1612 (-550) | sp 1019/1019 () | ep 570/570 ()
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Gatekeeper.
+Andthi cast(s): 'judicandus zapracus' (True heal)
+Andthi casts his spell at Kyo.
+Orthanc [party]: ela jumalauta riskeeraa nyt
+Milk [party]: Gatekeeper screams fire damage. (0% resist)
+Orthanc [party]: ...NOT
+You are not doing anything at the moment.
+[00:44:17] hp 1183/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:17] hp 1183/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1183(1612) 1019(1019) 570(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1715(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1554(1554)  517( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1077(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449) 1126(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  945(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1433(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  805(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:17] hp 1183/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1183 (1612) Sp: 1019 (1019) Ep: 570 (570).
+[00:44:17] hp 1183/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Info: Alving goes link dead.
+Info: Alving dies.
+Kyo {party}: tuliko theal
+habo
+You start chanting.
+CASTING CONCEALED.
+[00:44:18] hp 1183/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+Furious gatekeeper disappears in a flash of light.
+Glycoli starts concentrating on a new offensive spell.
+Kyo {party}: lähti
+Glaurung [wanted]: exp party
+p say tuli
+Nuane (party): tuli
+[00:44:22] hp 1183/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo {party}: hurrr
+Ronald aborts the spell casting.
+Harm body: 6
+Harm body: 4 (greater haste)
+Milk [party]: tuli
+Andthi aborts the spell casting.
+Milk aborts the spell casting.
+Info: Henri goes link dead.
+Orthanc laughs bewitchingly.
+Ronald laughs virtuously.
+Norz laughs predominantly.
+Milk laughs rhetorically.
+You laugh unfairly.
+Glycoli laughs tearingly.
+Andthi laughs bleedingly.
+Kyynel laughs wonderingly.
+Kyo {party}: huuuuuh
+Harm body: 3
+Milk [party]: varmaan aika dead
+Ronald starts concentrating on a new spell.
+Andthi [party]: vittu pulssi 300
+p say huhhhuh
+Harm body: 2
+Harm body: 1 (haste)
+Nuane (party): huhhhuh
+[00:44:29] hp 1183/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Walciz [wanted]: stuff for barb
+habo
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+CASTING CONCEALED.
+[00:44:31] hp 1183/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald cast(s): 'judicandus mangenic' (Cure critical wounds)
+Ronald's spell makes you feel much better!
+hp 1407/1612 (+224) | sp 1019/1019 () | ep 570/570 ()
+Harm body: 6
+Harm body: 5 (haste)
+Info: Alder enters the game.
+Milk [party]: kaks krittii puskenu siihen
+Andthi laughs painlessly.
+You laugh hotly.
+Glycoli laughs abstractedly.
+Milk laughs appreciatively.
+Ronald laughs merrily.
+A dry wind blows here.
+TICK IN 5 SECONDS.
+Harm body: 4
+Harm body: 3 (haste)
+Kyynel laughs goofily.
+Orthanc laughs girlishly.
+Furious gatekeeper arrives in a flash of light.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 3 times.
+Orthanc hits Gatekeeper 1 time.
+Kyo hits Gatekeeper 2 times.
+Your knowledge about Gatekeeper's tactics allows you to evade the ambush.
+Norz laughs ramblingly.
+You are casting 'harm body'.
+[00:44:37] hp 1407/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Glycoli aborts the spell casting.
+Gatekeeper is near death. (0-10% hps)
+[00:44:37] hp 1407/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1407(1612) 1019(1019) 570(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1189(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1554(1554)  517( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1104(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449) 1104(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  906(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1433(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  830(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:37] hp 1407/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1407 (1612) Sp: 1019 (1019) Ep: 570 (570).
+[00:44:37] hp 1407/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+cast info
+scan all
+pss
+pr
+*****************************************************
+Nuane hits Gatekeeper 1 time.
+Kyo hits Gatekeeper 1 time.
+Harm body: 2
+Andthi [party]: päälle vaa
+Ronald starts concentrating on a new spell.
+You are casting 'harm body'.
+[00:44:38] hp 1407/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:38] hp 1407/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1407(1612) 1019(1019) 570(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1189(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1554(1554)  517( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1104(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449) 1104(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  906(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1433(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  830(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:38] hp 1407/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+Nuane reports: Hp: 1407 (1612) Sp: 1019 (1019) Ep: 570 (570).
+[00:44:38] hp 1407/1612 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Milk starts concentrating on a new offensive spell.
+Kyo {party}: tuli
+Orthanc starts concentrating on a new spell.
+Kyo {party}: chain
+Kyynel starts concentrating on a new offensive spell.
+Onyxsablet [party / Dont Ask]: täs o impri
+Andthi [party]: eek
+cast info
+scan all
+pss
+pr
+*****************************************************
+Your marvellous sense of combat prevents your sleeve from getting scratched.
+Your armours absorb some of the damage.
+Gatekeeper hits Nuane 2 times.
+Nuane hits Gatekeeper 1 time.
+hp 1076/1519 (-331) | sp 1019/1019 () | ep 570/570 ()
+Norz cast(s): 'diiiiuuunz aaanziz' (Displacement)
+Harm body: 1
+Glycoli laughs psychically.
+Norz starts concentrating on a new offensive spell.
+Orthanc [party]: jaha lollers
+Kyo {party}: ( Displacement UP ) {Cast by }
+You are casting 'harm body'.
+[00:44:42] hp 1076/1519 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:42] hp 1076/1519 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1076(1519) 1019(1019) 570(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1185(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1554(1554)  517( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1104(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  924(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  906(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1433(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  830(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:42] hp 1076/1519 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1076 (1519) Sp: 1019 (1019) Ep: 570 (570).
+[00:44:42] hp 1076/1519 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald laughs deliriously.
+Milk laughs snappishly.
+Info: Xeoplick recovers from link death.
+p say sul on slicee
+Nuane (party): sul on slicee
+[00:44:44] hp 1076/1519 | sp 1019/1019 | ep 570/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+cast info
+scan all
+pss
+pr
+*****************************************************
+Orthanc hits Gatekeeper 1 time.
+Nuane hits Gatekeeper 1 time.
+Kyynel cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Kyynel casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Kyynel grins as her acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Orthanc laughs regardfully.
+Kyynel laughs causticly.
+You laugh uneconomically.
+Andthi laughs scornfully.
+Brrrr.. Winter makes your branches and stem feel so numb.
+Kyynel [report]: Gatekeeper SCREAMS to ACID!!
+Orthanc [report]: shield of protection off (1m 43s)
+You are casting 'harm body'.
+[00:44:45] hp 1026/1519 | sp 1019/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:45] hp 1026/1519 | sp 1019/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1026(1519) 1019(1019) 520(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1182(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1554(1554)  517( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1104(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  924(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  906(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1433(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1406(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  830(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:45] hp 1026/1519 | sp 1019/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyynel starts concentrating on a new offensive spell.
+Nuane reports: Hp: 1026 (1519) Sp: 1019 (1019) Ep: 520 (570).
+[00:44:45] hp 1026/1519 | sp 1019/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo eats a slice of fungus.
+Ronald [party]: tph 1
+Andthi [party]: tph 2
+Linzhou [wanted]: exp party for psi
+Orthanc sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!' (Campfire tune)
+Orthanc falters and loses her spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Your flex shield wobbles and part of the attack gets absorbed!
+Gatekeeper hits Nuane 3 times.
+Nuane hits Gatekeeper 1 time.
+Orthanc hits Gatekeeper 2 times.
+hp 536/1413 (-540) | sp 1019/1019 () | ep 520/570 (-50)
+Ronald cast(s): 'judicandus eurto mangenic' (True party heal)
+Ronald's spell heals you. You feel much better.
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Gatekeeper's inhumanly cruel onslaught on Orthanc causes her to collapse upon
+the ground writhing in sheer agony as she begs and pleads for death to save
+her from the pain!
+hp 986/1413 (+450) | sp 1019/1019 () | ep 520/570 ()
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+You use your right hand for channeling harmful powers.
+You harm Gatekeeper really much.
+hp 986/1413 () | sp 797/1019 (-222) | ep 520/570 ()
+Andthi stumbles and gets a far away look.
+Milk [party]: Gatekeeper screams fire damage. (0% resist)
+You are not doing anything at the moment.
+[00:44:48] hp 986/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi [party]: -HaLLu-
+Gatekeeper is near death. (0-10% hps)
+[00:44:48] hp 986/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  986(1413)  797(1019) 520(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1691(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1466(1537)  430( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1104(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  924(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  662(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1321(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1406(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  830(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:48] hp 986/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 986 (1413) Sp: 797 (1019) Ep: 520 (570).
+[00:44:48] hp 986/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald starts concentrating on a new spell.
+Milk starts concentrating on a new offensive spell.
+habo
+You start chanting.
+[00:44:49] hp 986/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Glaurung [wanted]: can i get members for a repuparty or something?
+Norz laughs angelically.
+Orthanc starts concentrating on a new spell.
+Kyynel [party]: varmaan pitäis lollata alas
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 1 time.
+Nuane hits Gatekeeper 1 time.
+Norz cast(s): 'krkx mar nak grttzt' (Summon carnal spores)
+As Norz casts the spell, he pulls out a silvery bark chip which bursts into a million prismatic starbursts.
+Norz grins as his summon carnal spores hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Harm body: 6
+Harm body: 4 (greater haste)
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Gatekeeper.
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+Andthi's spell heals you. You feel much better.
+You are casting 'harm body'.
+[00:44:51] hp 1204/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:51] hp 1204/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1204(1413)  797(1019) 520(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1715(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1537(1537)  430( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  863(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  820(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  662(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1321(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1406(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  605(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:51] hp 1204/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1204 (1413) Sp: 797 (1019) Ep: 520 (570).
+[00:44:51] hp 1204/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Glycoli starts concentrating on a new offensive spell.
+Andthi starts concentrating on a new spell.
+Orthanc [party]: kappas
+Ronald [party]: tph 2
+p say 222 habo
+Nuane (party): 222 habo
+[00:44:53] hp 1204/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Gatekeeper hits Kyo 1 time.
+hp 1204/1413 (+218) | sp 797/1019 () | ep 520/570 ()
+Harm body: 3
+You laugh endemically.
+Milk laughs lightly.
+Orthanc [party]: lollaus
+You are casting 'harm body'.
+[00:44:54] hp 1204/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:44:54] hp 1204/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1204(1413)  797(1019) 520(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1580(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1537(1537)  430( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  863(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  820(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  662(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1321(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1406(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  605(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:54] hp 1204/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1204 (1413) Sp: 797 (1019) Ep: 520 (570).
+[00:44:54] hp 1204/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Glycoli laughs coldly.
+Ronald laughs nonchalantly.
+Kyo {party}: tappakaa
+Orthanc sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!' (Campfire tune)
+Orthanc's song heals some of your wounds.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 2 times.
+Nuane hits Gatekeeper 2 times.
+Orthanc hits Gatekeeper 1 time.
+hp 1304/1413 (+100) | sp 797/1019 () | ep 520/570 ()
+Ronald cast(s): 'judicandus eurto mangenic' (True party heal)
+Ronald's spell heals you. You feel all better.
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Gatekeeper cast(s): 'gtzt mar nak grttzt' (Golden arrow)
+Gatekeeper grins as his golden arrow hits Orthanc.
+Kyynel cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Kyynel casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Kyynel grins as her acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+hp 1413/1413 (+109) | sp 797/1019 () | ep 520/570 ()
+Harm body: 2
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Gatekeeper.
+Andthi laughs cunningly.
+Kyynel laughs triumphantly.
+Orthanc laughs prosperously.
+Milk [party]: Gatekeeper screams fire damage. (0% resist)
+You are casting 'harm body'.
+[00:44:57] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyynel [report]: Gatekeeper SCREAMS to ACID!!
+Kyo {party}: < Unstun DOWN > [43:09]
+Gatekeeper is near death. (0-10% hps)
+[00:44:57] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald starts concentrating on a new spell.
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1413(1413)  797(1019) 520(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1478(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1349(1507)  343( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  638(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  820(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  418(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1209(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1302(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  605(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:44:57] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1413 (1413) Sp: 797 (1019) Ep: 520 (570).
+[00:44:57] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Glycoli starts concentrating on a new offensive spell.
+Norz laughs obnoxiously.
+Orthanc starts concentrating on a new spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo's flex shield wobbles.
+Gatekeeper hits Kyo 1 time.
+Nuane hits Gatekeeper 3 times.
+Kyo hits Gatekeeper 2 times.
+Harm body: 1
+You are casting 'harm body'.
+[00:45:00] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:45:00] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1413(1413)  797(1019) 520(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1392(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1349(1507)  343( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  638(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  820(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  418(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1209(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1302(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  605(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:45:00] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1413 (1413) Sp: 797 (1019) Ep: 520 (570).
+[00:45:00] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo's flex shield wobbles.
+Gatekeeper hits Kyo 1 time.
+Your marvellous sense of combat prevents your a dragonskin clad shield from getting scratched.
+Kyo hits Gatekeeper 1 time.
+Orthanc hits Gatekeeper 1 time.
+Norz cast(s): 'krkx mar nak grttzt' (Summon carnal spores)
+As Norz casts the spell, he pulls out a silvery bark chip which bursts into a million prismatic starbursts.
+Norz grins as his summon carnal spores hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Gatekeeper's inhumanly cruel onslaught on Orthanc causes her to collapse upon
+the ground writhing in sheer agony as she begs and pleads for death to save
+her from the pain!
+Furious gatekeeper disappears in a flash of light.
+You laugh ridiculously.
+You are casting 'harm body'.
+[00:45:03] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+[00:45:03] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1413(1413)  797(1019) 520(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1214(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1238(1485)  343( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  638(1322) 467(467) | 100 |        42351 |
+| 2.2   Norz          fol  449( 449)  716(1488) 253(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903)  418(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1209(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1302(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  605(1448) 244(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:45:03] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Milk [party]: habo sp?
+Nuane reports: Hp: 1413 (1413) Sp: 797 (1019) Ep: 520 (570).
+[00:45:03] hp 1413/1413 | sp 797/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Milk laughs remorselessly.
+A dry wind blows here.
+Andthi [party]: tph 1
+Orthanc laughs lustrously.
+Glycoli laughs suddenly.
+Orthanc sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!' (Campfire tune)
+You are done with the chant.
+Cast harm body at what?
+hp 1413/1413 () | sp 785/1019 (-12) | ep 520/570 ()
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+Andthi laughs calmly.
+Kyo {party}: lähti
+Kyo {party}: < Shield of Protection DOWN > [2:23]
+habo
+Kyynel laughs lazily.
+Ronald laughs auspiciously.
+You start chanting.
+[00:45:07] hp 1413/1413 | sp 785/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald aborts the spell casting.
+p say lähti
+Harm body: 6
+Harm body: 5 (haste)
+Spider Queen smiles upon you and helps you control the demon.
+Timer now at 60 secs.
+Norz laughs mendaciously.
+Andthi starts concentrating on a new spell.
+Nuane (party): lähti
+[00:45:09] hp 1413/1413 | sp 773/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc [party]: no chainii perkele
+Norz starts concentrating on a new offensive spell.
+You laugh augustly.
+Ronald starts concentrating on a new spell.
+hp 1413/1413 () | sp 773/1019 (-12) | ep 520/570 ()
+Harm body: 4
+Harm body: 2 (greater haste)
+Andthi [party]: drain 500
+Orthanc laughs blitzerly.
+Info: Mahtimetsuri recovers from link death.
+Andthi laughs durandly.
+Milk laughs clamantly.
+Harm body: 1
+Andthi cast(s): '$ !^' (Drain pool)
+Andthi's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+The golden sigla form a link between Andthi and the magical druidic pool. You
+ sense power flowing between them.
+Kyynel laughs callously.
+habo
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+CASTING CONCEALED.
+[00:45:16] hp 1413/1413 | sp 773/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Norz laughs geometrically.
+Ronald laughs tragically.
+Glycoli laughs strictly.
+Glaurung [wanted]: have room for 1 more tank for repu
+Ronald cast(s): 'judicandus mangenic' (Cure critical wounds)
+Ronald casts her spell at Kyo.
+Info: Cealdyn goes link dead.
+Andthi starts concentrating on a new spell.
+p say paljo vei habo
+Nuane (party): paljo vei habo
+[00:45:19] hp 1413/1413 | sp 773/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyynel starts concentrating on a new offensive spell.
+Glycoli starts concentrating on a new offensive spell.
+Ronald starts concentrating on a new spell.
+Milk starts concentrating on a new offensive spell.
+Milk laughs aimlessly.
+You laugh vulnerably.
+Kyynel starts concentrating on a new offensive spell.
+Norz cast(s): 'diiiiuuunz aaanziz' (Displacement)
+Harm body: 6
+Orthanc [report]: displacement/blur on
+Norz laughs grandmotherly.
+Orthanc laughs lawlessly.
+Glycoli [party]: 220 tms
+Ronald laughs repeatedly.
+Kyynel laughs suggestively.
+Andthi laughs meticulously.
+Harm body: 5
+Harm body: 3 (greater haste)
+Orthanc [party]: voi huoh
+Kyynel starts concentrating on a new offensive spell.
+p say mjo normaali
+Nuane (party): mjo normaali
+[00:45:28] hp 1413/1413 | sp 773/1019 | ep 520/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+hp 1413/1413 () | sp 798/1019 (+25) | ep 531/570 (+11)
+Harm body: 2
+Glycoli laughs murderously.
+Milk laughs left.
+Glaurung [wanted]: still could use a healer, a conju a psi etc.. random other blasters who want to come along
+You laugh surreptitiously.
+Zarx (wanted): summon to portal
+Norz removes gloves of Nimbleness, The staff of Lerethin, a black cloak (evil glow), a sparkling breastplate, the shining helm of azakh-khanan, Ring of the Medusa labeled as <|MM|>, Lordly Diamond Ring [Made by: Proteus] labeled as 6int (strong) and dark grey and white plaid kilt.
+Norz wears a battle-scarred shin guard <yellow glow>, a battle-scarred shin guard <yellow glow>, the ragged tome of knowledge <yellow glow>, Red Glove of the Healer, Red Glove of the Healer, a collar made of black silk <orange glow>, Slime cloak <yellow glow>, a torn leather muscle shirt <yellow glow>, a black golden crown <orange glow>, sparkling ruby ring and Ring of Death <red glow>.
+A dry wind blows here.
+party report Shield of protection off. 2m42s
+You feel more vulnerable now.
+Nuane (report): Shield of protection off. 2m42s
+[00:45:34] hp 1413/1413 | sp 798/1019 | ep 531/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyynel laughs lustily.
+Orthanc laughs academically.
+Norz cast(s): 'diiiiuuunz aaanziz' (Displacement)
+party report Displacement / Blurred image on.
+You feel a powerful aura.
+Harm body: 1
+Nuane (report): Displacement / Blurred image on.
+[00:45:36] hp 1413/1413 | sp 798/1019 | ep 531/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Info: Rutaliator goes link dead.
+Andthi laughs ecologically.
+Ronald laughs wittily.
+habo
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+CASTING CONCEALED.
+[00:45:37] hp 1413/1413 | sp 798/1019 | ep 531/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Lim [fall+]: oliks halibanis jotai erikoista ku tappaa
+Norz starts concentrating on a new skill.
+Norz laughs conspiratorially.
+Milk starts concentrating on a new offensive spell.
+Us, Unp, Glory, EPower, Fsh, PFG, Flex, Repulsor, Eblood, Ware, EmbMelody
+party report Prots: Eblood(4m25s) EmbMelody(2m52s) EPower(5m10s) Flex(4m49s) Fsh(5m7s) Glory(8m19s) PFG(5m1s) Repulsor(4m31s) Unp(4m10s) Us Ware(4m10s)
+Nuane (report): Prots: Eblood(4m25s) EmbMelody(2m52s) EPower(5m10s) Flex(4m49s) Fsh(5m7s) Glory(8m19s) PFG(5m1s) Repulsor(4m31s) Unp(4m10s) Us Ware(4m10s)
+[00:45:38] hp 1413/1413 | sp 798/1019 | ep 531/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo {party}: tota kuolee kohta
+Harm body: 6
+Harm body: 4 (greater haste)
+Glycoli aborts the spell casting.
+Glaurung [wanted]: ( and a reaver for good measure).. and mebbe a bard!
+Milk laughs cantankerously.
+Glycoli laughs piosly.
+Harm body: 3
+You laugh chivalrously.
+Kyo {party}: ellei fuckata
+Onyxsablet [party / Dont Ask]: no istutaan täs sit
+Orthanc laughs uncritically.
+Kyynel laughs endearingly.
+Milk starts concentrating on a new offensive spell.
+Harm body: 2
+Andthi laughs funnily.
+Kyo {party}: speet nyt taytee
+Ronald laughs forgivingly.
+Kyynel aborts the spell casting.
+Info: Doughnut recovers from link death.
+Kyo {party}: replee ronald
+Ronald removes a pair of black boots, Nova Arcanum, Melkior's book of necromancy, Holy vest of Yak labeled as <vanhus>, dark grey and white plaid kilt, Girdle of Ethereal Power, bracelet made of green crystal, a green glove, tarnished Golden Helm labeled as santa, Glass armbands, Ring of the Medusa labeled as <iso R>, Nova Arcanum, Melkior's book of necromancy labeled as >blux<, a black cloak (evil glow) labeled as <iso R>, a green glove, Ring of the Medusa labeled as <iso R>, the stone amulet of the earth elementalist, The gleaming blue collar of Bengalore labeled as <iso R> and bracelet made of green crystal labeled as +1-2 wisdom.
+Ronald wears a wand of magic <orange glow>, a battle-scarred shin guard labeled as <vanhus> <orange glow>, Tazbal's ring of Sorcery, A heavy black metal ring labeled as <iso R> <red glow>, The vest of Abriel <orange glow>, the blue bracelets of magic labeled as <iso R> <red glow>, Girdle of Ethereal Power labeled as {spr} <red glow>, The Amulet of Truth <red glow>, tarnished Golden Helm labeled as santa <orange glow>, a wand of magic labeled as <vanhus> <orange glow>, Ancient Bracers of Xzui labeled as <iso R> <orange glow>, a battle-scarred shin guard labeled as <vanhus> <orange glow>, Slime cloak <orange glow>, a purple glove labeled as <iso R>, necklace made out of sharp fangs, a pair of blue radium boots <red glow> and a purple glove labeled as <iso R>.
+Harm body: 1
+Lim [fall+]: areas jottai vai mitäköhä
+Andthi removes a green glove, a green glove, Girdle of Ethereal Power labeled as WIS, a rose clasp, heavy tabard with a chalice ensignia, The Mask of Higher Consciousness, bracelet made of green crystal, bracelet made of green crystal, glittering leg protectors, Nova Arcanum, Melkior's book of necromancy, Nova Arcanum, Melkior's book of necromancy, The gleaming blue collar of Bengalore, a pair of black boots, Tattered Silver Shimmering Cloak, silver dragon bracers, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) and A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful).
+Andthi shivers from the cold.
+Andthi shivers from the cold.
+Andthi wears an ancient staff of the necromancer <orange glow>, an ancient staff of the necromancer <orange glow>, Red Glove of the Healer <red glow>, Red Glove of the Healer <red glow>, A magic cloak <orange glow>, a pair of old dark green boots <red glow>, a collar made of black silk <red glow>, the Bracelets of Darkness <red glow>, Spider Amulet <orange glow>, Mirror breastplate <orange glow>, a majectical black crown <orange glow>, Girdle of Ethereal Power labeled as SPR <orange glow>, Sacred Bracelets of Eternity <red glow>, a battle-scarred shin guard <orange glow>, a battle-scarred shin guard <orange glow>, sparkling ruby ring <red glow> and sparkling ruby ring <red glow>.
+Andthi removes a battle-scarred shin guard.
+Andthi removes a battle-scarred shin guard.
+Andthi wears a pair of leggings, formed out of earth <red glow>.
+use ceremony
+You interrupt the spell.
+CASTING CANCELED.
+You start concentrating on the skill.
+[00:45:49] hp 1413/1413 | sp 798/1019 | ep 531/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Norz laughs defiantly.
+Glycoli removes swirling bands of lava <flaming>, a green glove, a green glove, Scarf of Beauty, a rose clasp, Holy vest of Yak, Cape of Knowledge, golden belt of Fair River-Daughter, the shining helm of azakh-khanan, Tome of Chaos (CHAOTIC) and Boots of the Goddess labeled as <|Glycoli|>.
+Glycoli shivers from the cold.
+Glycoli wears a purple glove <red glow>, a purple glove <red glow>, The Amulet of Truth <red glow>, fine eyeglasses <purple glow>, necklace made out of sharp fangs labeled as <|Glycoli|> <red glow>, a magic cloak <purple glow>, a torn leather muscle shirt <red glow>, an ancient staff of the necromancer <red glow>, Boots of the Goddess labeled as <|Glycoli|>, Girdle of Ethereal Power labeled as <|Glycoli|Spr|> <purple glow> and Empowered Black Leg Plates <red glow>.
+Norz performs a solemn ceremony to please Aveallis.
+Sturdy prisoner shouts 'Time to meet your maker, Linkless!'
+Info: Linkless dies.
+Milk laughs undeterredly.
+Mardraum@icesus tells you 'cheer!'
+Glycoli laughs powerlessly.
+*Ronald ticks 128 sps[1m42s].
+Andthi laughs distressingly.
+Ronald laughs talentedly.
+Orthanc laughs motherly.
+You laugh worryingly.
+Milk starts concentrating on a new offensive spell.
+Kyynel laughs oafishly.
+reply deep nd
+You tell Mardraum@icesus 'deep nd'
+[00:45:56] hp 1413/1413 | sp 798/1019 | ep 531/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+You suck some minerals from the ground.
+You are so full of liquid you feel like you might burst.
+You can't possibly eat more. You discard rest of the food.
+Kyynel [party]: pitäiskö onyxsabletin varmuuden vuoks castaa se dimmi tohon gatekeeperille
+Grimpold (fall+): eipa oikeestaan
+reply puuuuuuuuuuuuuuuuuh
+You tell Mardraum@icesus 'puuuuuuuuuuuuuuuuuh'
+[00:45:59] hp 1413/1413 | sp 798/1019 | ep 531/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+You hear the rattling of a snake very near.
+You feel exhausted, being here in the dark.
+You are prepared to do the skill.
+You perform the ceremony.
+You feel the powers align!
+hp 1413/1413 () | sp 798/1019 () | ep 530/570 (-1)
+Grimpold (fall+): ampu jotain pienta
+Norz laughs egocentrically.
+Mardraum@icesus tells you 'kohta voitto!'
+Milk laughs openly.
+reply jännittää
+Lim [fall+]: joop
+You tell Mardraum@icesus 'jännittää'
+[00:46:03] hp 1413/1413 | sp 798/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+TICK IN 5 SECONDS.
+
+Onyxsablet [party / Dont Ask]: ISTUN VITUN IMPRISONIS
+Orthanc laughs pungently.
+Andthi laughs dreadfully.
+A dry wind blows here.
+*Kyynel ticks in a few secs.
+Kyo {party}: ei
+Mardraum@icesus tells you 'jep :>'
+Kyynel laughs daringly.
+You laugh feminically.
+Glycoli laughs prodigally.
+Mardraum@icesus tells you 'tai wipe:D'
+Kyo {party}: ettei joku slovenialainen tuu
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1413(1413)  798(1019) 530(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1715(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1485(1485)  321( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1126(1126)  793(1206) 467(477) | 100 |        42351 |
+| 2.2   Norz          fol  437( 437)  730(1333) 254(254) |  89 |        41592 |
+| 2.3   Ronald        fol  895( 895)  533(1203) 271(270) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1312(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821) 1012(1189) 248(262) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:46:08] hp 1413/1413 | sp 798/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald laughs shrewdly.
+Mardraum@icesus tells you 'sit o taas sh!'
+Andthi [party]: sit cevap exploraa ja delaa siihe :)
+Kyo {party}: ja rippaa toho.:)
+reply jep
+You tell Mardraum@icesus 'jep'
+[00:46:11] hp 1413/1413 | sp 798/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Norz laughs purblindly.
+You laugh expectantly.
+Andthi laughs pestiferously.
+reply nh varmaa
+You tell Mardraum@icesus 'nh varmaa'
+[00:46:15] hp 1413/1413 | sp 798/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Milk laughs charismatically.
+Glycoli laughs noggingly.
+Orthanc laughs theoretically.
+Kyynel laughs wondrously.
+Milk starts concentrating on a new offensive spell.
+Kyynel [party]: :P
+Ronald laughs philosophically.
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1413(1413)  798(1019) 530(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1715(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1485(1485)  321( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1126(1126)  963(1206) 474(477) | 100 |        42351 |
+| 2.2   Norz          fol  437( 437)  730(1333) 254(254) |  89 |        41592 |
+| 2.3   Ronald        fol  895( 895)  680(1203) 271(270) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1448(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821) 1174(1189) 253(262) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:46:20] hp 1413/1413 | sp 798/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Mardraum@icesus tells you 'jep:)'
+Norz laughs chaotically.
+*Ronald ticks 147 sps[31s].
+Kyo {party}: replee ronald
+Milk laughs wittily.
+Andthi laughs leisurely.
+Kyynel starts concentrating on a new skill.
+You laugh ceaselessly.
+Kyynel laughs villainously.
+Orthanc laughs critically.
+Glycoli laughs viciously.
+l
+There are no light sources here, but you can still see.
+SSSFFFFFF  You are walking in a forest. The trees around you are tall and huge
+FFFFFFFFF  in diameter. Some may even be hollow inside. They provide good
+ffff*ffff  hiding places, maybe you should look around for hidden animals and
+fffffffff  treasures. Above you is a cold, slowly moving, clear night sky. A
+fffffffff  light wind stirs the air. A first quarter moon hangs in the sky.
+           Obvious exits are: nw, n, ne, w, e, sw, s and se.
+[00:46:29] hp 1413/1413 | sp 798/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+pss
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1413(1413)  798(1019) 530(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1715(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1485(1485)  321( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1126(1126)  963(1206) 474(477) | 100 |        42351 |
+| 2.2   Norz          fol  437( 437)  730(1333) 254(254) |  89 |        41592 |
+| 2.3   Ronald        fol  895( 895)  680(1203) 271(270) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1393(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821) 1174(1189) 253(262) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:46:30] hp 1413/1413 | sp 798/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+You feel exhausted, being here in the dark.
+*Kyynel ticks in a few secs.
+Ronald laughs diaphanously.
+Norz laughs uselessly.
+A dry wind blows here.
+Kyo {party}: vittu et on stressi.:)
+Summo [newbie]: hints for lvl 35 lq. where is that guy?
+Andthi laughs strangely.
+Milk laughs gargantuanly.
+Spider Queen smiles upon you and helps you control the demon.
+Timer now at 60 secs.
+Grimpold (fall+): voi vittuku voi vituttaa tammonen vitun paska ku ei pysty ratkoo
+p say mul on hallut :/
+Andthi removes an ancient staff of the necromancer, an ancient staff of the necromancer, Red Glove of the Healer, Red Glove of the Healer, A magic cloak, a pair of old dark green boots, a collar made of black silk, the Bracelets of Darkness, Spider Amulet, Mirror breastplate, a majectical black crown, Girdle of Ethereal Power labeled as SPR, Sacred Bracelets of Eternity, sparkling ruby ring, sparkling ruby ring and a pair of leggings, formed out of earth.
+Andthi wears a green glove <red glow>, a green glove <red glow>, Girdle of Ethereal Power labeled as WIS <orange glow>, a rose clasp <red glow>, heavy tabard with a chalice ensignia <orange glow>, The Mask of Higher Consciousness <red glow>, bracelet made of green crystal <red glow>, bracelet made of green crystal <red glow>, glittering leg protectors <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, The gleaming blue collar of Bengalore <red glow>, a pair of black boots <red glow>, Tattered Silver Shimmering Cloak <red glow>, silver dragon bracers <red glow>, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow> and A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow>.
+Nuane (party): mul on hallut :/
+[00:46:36] hp 1413/1413 | sp 774/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+hp 1413/1413 () | sp 774/1019 (-24) | ep 530/570 ()
+Info: Linkless goes link dead.
+You laugh crucially.
+Kyo {party}: nyt on lähel kaato
+Andthi removes glittering leg protectors.
+Andthi wears a pair of leggings, formed out of earth <red glow>.
+Ronald [party]: heti ku dimmi ilmestyy ni "cevap recovers fro mlink dead"
+Glycoli laughs maladroitly.
+Orthanc laughs youthfully.
+Kyynel laughs maladroitly.
+Ronald laughs noggingly.
+Andthi starts concentrating on a new spell.
+Norz laughs timorously.
+Andthi laughs graciously.
+Milk laughs deliberately.
+Ssmud [bat]: umm
+Kyynel performs a solemn ceremony to please Aveallis.
+Ronald sits ticklishly.
+Kyynel laughs breathlessly.
+*Ronald ticks 143 sps[24s].
+Andthi cast(s): 'harnaxan temnahecne' (Unpain)
+Andthi falters and loses his spell.
+Orthanc laughs piosly.
+You laugh privately.
+Ssmud [bat]: Jos jäät auton alle, älä jaa makaamaan vaan nouse ylös, jotta uusi auto voi ajaa päältäsi.
+Kyo {party}: onyx
+Andthi starts concentrating on a new spell.
+Andthi laughs funnily.
+Glycoli laughs comfortably.
+Kyo {party}: replee ronald
+Ronald laughs abstractedly.
+Glycoli starts concentrating on a new spell.
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1413(1413)  774(1019) 530(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1715(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1485(1485)  393( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1126(1126) 1144(1206) 477(477) | 100 |        42351 |
+| 2.2   Norz          fol  437( 437)  914(1333) 254(254) |  89 |        41592 |
+| 2.3   Ronald        fol  895( 895)  823(1203) 271(270) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1538(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 214(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821) 1246(1446) 253(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:46:54] hp 1413/1413 | sp 774/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Milk [party]: se istuu impros
+Onyxsablet [party / Dont Ask]: kyo
+Norz laughs unbridledly.
+Info: Mahtimetsuri goes link dead.
+Kyo {party}: ai.:)
+Glaurung [wanted]: healer, psi,  conju.. stuff like that
+Glycoli stands firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+Glycoli stands firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+Milk laughs absurdly.
+p say täh :D
+Nuane (party): täh :D
+[00:46:59] hp 1413/1413 | sp 774/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi cast(s): 'harnaxan temnahecne' (Unpain)
+party report Unpain on.
+You feel your will getting stronger.
+You laugh incredulously.
+Glycoli laughs puzzledly.
+Kyynel laughs pleasurably.
+Nuane (report): Unpain on.
+[00:47:02] hp 1547/1675 | sp 774/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+Ronald laughs onerously.
+Orthanc laughs fruitfully.
+Andthi laughs saplessly.
+A dry wind blows here.
+p say hahha
+Nuane (party): hahha
+[00:47:04] hp 1547/1675 | sp 774/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+hp 1547/1675 (+134) | sp 774/1019 () | ep 530/570 ()
+Glycoli removes a purple glove, a purple glove, fine eyeglasses, The Amulet of Truth, necklace made out of sharp fangs labeled as <|Glycoli|>, a magic cloak, a torn leather muscle shirt, an ancient staff of the necromancer, Girdle of Ethereal Power labeled as <|Glycoli|Spr|> and Empowered Black Leg Plates.
+Glycoli wears swirling bands of lava <flaming> <red glow>, a green glove <red glow>, a green glove <red glow>, Scarf of Beauty <red glow>, Holy vest of Yak <red glow>, Cape of Knowledge <red glow>, a rose clasp <red glow>, golden belt of Fair River-Daughter <red glow>, the shining helm of azakh-khanan <red glow> and Tome of Chaos (CHAOTIC) <red glow>.
+Milk starts concentrating on a new offensive spell.
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1547(1675)  774(1019) 530(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1715(1715)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1485(1485)  457( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1126(1134) 1111(1322) 477(467) | 100 |        42351 |
+| 2.2   Norz          fol  437( 437)  914(1333) 254(254) |  89 |        41592 |
+| 2.3   Ronald        fol  895( 895)  823(1203) 271(270) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1497(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 214(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821) 1077(1446) 253(244) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:47:06] hp 1547/1675 | sp 774/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Norz laughs sacredly.
+Ssmud [bat]: ok?
+Onyxsablet [party / Dont Ask]: opetelkaa vittu lukemaan :)
+Ronald starts concentrating on a new spell.
+Milk laughs accomodatedly.
+Glycoli laughs pervertedly.
+Kyynel laughs blandly.
+Milk aborts the spell casting.
+Orthanc laughs eccentrically.
+Ronald cast(s): 'judicandus mercuree' (Cure light wounds)
+Ronald's spell makes you feel very much better!
+hp 1643/1675 (+96) | sp 774/1019 () | ep 530/570 ()
+Andthi cast(s): 'harnaxan temnahecne' (Unpain)
+Ronald laughs sedulously.
+You laugh lecherously.
+Patris [wanted]: more vikings
+Orthanc [report]: unpain on
+Andthi starts concentrating on a new spell.
+Andthi removes a green glove, a green glove, Girdle of Ethereal Power labeled as WIS, a rose clasp, heavy tabard with a chalice ensignia, The Mask of Higher Consciousness, bracelet made of green crystal, bracelet made of green crystal, Nova Arcanum, Melkior's book of necromancy, Nova Arcanum, Melkior's book of necromancy, The gleaming blue collar of Bengalore, a pair of black boots, Tattered Silver Shimmering Cloak, silver dragon bracers, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful), A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) and a pair of leggings, formed out of earth.
+Andthi shivers from the cold.
+Andthi shivers from the cold.
+Andthi wears an ancient staff of the necromancer <orange glow>, an ancient staff of the necromancer <orange glow>, Red Glove of the Healer <red glow>, Red Glove of the Healer <red glow>, A magic cloak <orange glow>, a pair of old dark green boots <red glow>, a collar made of black silk <red glow>, the Bracelets of Darkness <red glow>, Spider Amulet <orange glow>, Mirror breastplate <orange glow>, a majectical black crown <orange glow>, Girdle of Ethereal Power labeled as SPR <orange glow>, Sacred Bracelets of Eternity <red glow>, a battle-scarred shin guard <orange glow>, a battle-scarred shin guard <orange glow>, sparkling ruby ring <red glow> and sparkling ruby ring <red glow>.
+Andthi removes a battle-scarred shin guard.
+Andthi removes a battle-scarred shin guard.
+Andthi wears a pair of leggings, formed out of earth <red glow>.
+Andthi laughs licentiously.
+Milk [party]: jätkät hehkuttaa niin ettei ne osaa lukea
+p say vittuoon sekasi
+Nuane (party): vittuoon sekasi
+[00:47:19] hp 1643/1675 | sp 774/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Glycoli laughs comprehensively.
+Milk laughs uncarringly.
+Norz laughs dwarfishly.
+Ronald [party]: ei miehet osaa pelata ja lukee samaan aikaan
+Norz starts concentrating on a new spell.
+*Ronald ticks 139 sps[35s].
+Orthanc laughs girlishly.
+Kyynel laughs rumbustiously.
+Andthi cast(s): 'harnaxan temnahecne' (Unpain)
+You laugh remotely.
+Kyo {party}: ( Unpain UP ) {Cast by }
+Ronald laughs unfamiliarily.
+c nuane
+Norz laughs tediously.
+Milk laughs ultimately.
+Glycoli laughs critically.
+Andthi laughs loudly.
+Info: Blayke recovers from link death.
+You have an unusual feeling as you cast the spell.
+You start chanting.
+CASTING CONCEALED.
+[00:47:28] hp 1643/1675 | sp 774/1019 | ep 530/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+hp 1664/1675 (+21) | sp 846/1019 (+72) | ep 544/570 (+14)
+Spider demon control: 1
+TICK IN 5 SECONDS.
+Kyynel laughs relatively.
+Orthanc laughs pompously.
+Ronald starts concentrating on a new spell.
+A dry wind blows here.
+Norz cast(s): 'nsiiznau' (Shield of protection)
+You are done with the chant.
+You stand firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+You feed Nuane's spider demon's hunger with your ritual.
+Timer now at 60 secs.
+hp 1664/1675 () | sp 819/1019 (-27) | ep 544/570 ()
+Milk laughs villainously.
+Kyo {party}: ( Shield of Protection UP ) {Cast by }
+use ceremony
+Milk laughs sanely.
+Ronald laughs unfruitfully.
+You start concentrating on the skill.
+[00:47:36] hp 1664/1675 | sp 819/1019 | ep 544/570 | exp 46423 | $ 2190/13870 | wimpy: off
+pss
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1664(1675)  819(1019) 544(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 2002(2002)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1523(1597)  517( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1322(1322) 477(467) | 100 |        42351 |
+| 2.2   Norz          fol  437( 437) 1196(1333) 254(254) |  89 |        41592 |
+| 2.3   Ronald        fol  895( 895)  962(1203) 271(270) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1545(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  827(1189) 253(262) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:47:36] hp 1664/1675 | sp 819/1019 | ep 544/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald cast(s): 'judicandus mercuree' (Cure light wounds)
+Ronald casts her spell at Orthanc.
+Glycoli laughs penuriously.
+Norz laughs suggestively.
+You laugh goofily.
+Us, Unp, Glory, EPower, Fsh, PFG, Flex, Repulsor, Eblood, Ware, EmbMelody
+party report Prots: Eblood(6m24s) EmbMelody(4m51s) EPower(7m9s) Flex(6m48s) Fsh(7m6s) Glory(10m18s) PFG(7m0s) Repulsor(6m31s) Unp(37s) Us Ware(6m10s)
+Orthanc tweaks her own nose mischievously.
+Orthanc [report]: |aoa 5m 42s|g-mana 5m 27s|flex 6m 33s|war 6m 9s|us|fs 6m 6s|pfg 6m 30s|eblood 6m 3s|unpain|
+Nuane (report): Prots: Eblood(6m24s) EmbMelody(4m51s) EPower(7m9s) Flex(6m48s) Fsh(7m6s) Glory(10m18s) PFG(7m0s) Repulsor(6m31s) Unp(37s) Us Ware(6m10s)
+[00:47:38] hp 1664/1675 | sp 819/1019 | ep 544/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Info: October enters the game.
+Kyynel laughs enduringly.
+Orthanc laughs eagerly.
+Andthi laughs timorously.
+cast glory of destruction at amount 100
+You break your skill attempt.
+You start chanting.
+CASTING CONCEALED.
+[00:47:41] hp 1664/1675 | sp 819/1019 | ep 544/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Glory of destruction: 8
+Ronald removes a wand of magic, a battle-scarred shin guard labeled as <vanhus>, Tazbal's ring of Sorcery, A heavy black metal ring labeled as <iso R>, The vest of Abriel, the blue bracelets of magic labeled as <iso R>, Girdle of Ethereal Power labeled as {spr}, The Amulet of Truth, tarnished Golden Helm labeled as santa, a wand of magic labeled as <vanhus>, Ancient Bracers of Xzui labeled as <iso R>, a battle-scarred shin guard labeled as <vanhus>, Slime cloak, a purple glove labeled as <iso R>, necklace made out of sharp fangs, a pair of blue radium boots and a purple glove labeled as <iso R>.
+Ronald wears a pair of black boots, Nova Arcanum, Melkior's book of necromancy <yellow glow>, Holy vest of Yak labeled as <vanhus> <orange glow>, dark grey and white plaid kilt <red glow>, Girdle of Ethereal Power <red glow>, bracelet made of green crystal <red glow>, a green glove, tarnished Golden Helm labeled as santa <orange glow>, Glass armbands <yellow glow>, Ring of the Medusa labeled as <iso R> <red glow>, Nova Arcanum, Melkior's book of necromancy labeled as >blux< <orange glow>, a black cloak (evil glow) labeled as <iso R> <yellow glow>, a green glove, Ring of the Medusa labeled as <iso R> <red glow>, the stone amulet of the earth elementalist, The gleaming blue collar of Bengalore labeled as <iso R> <red glow> and bracelet made of green crystal labeled as +1-2 wisdom.
+Norz laughs regurarly.
+*Ronald ticks 155 sps[22s].
+Chamber [sales]: amazon helmet mb40k amazon gloves mb40k
+Milk laughs endlessly.
+Ronald laughs disastrously.
+Ronald tweaks Orthanc's nose mischievously.
+Orthanc [report]: |aoa 5m 52s|g-mana 5m 37s|flex 6m 43s|war 6m 19s|us|fs 6m 16s|pfg 6m 40s|eblood 6m 13s|unpain|
+Andthi [party]: menox vaa
+Glycoli laughs inwardly.
+Onyxsablet [party / Dont Ask]: no nii
+Glory of destruction: 7
+Glory of destruction: 5 (greater haste)
+Kyynel laughs personally.
+Andthi laughs anomalously.
+You laugh interestedly.
+Info: Patris goes link dead.
+Orthanc laughs pruriently.
+Kyo {party}: < Disp/Blur DOWN >
+Glycoli starts concentrating on a new skill.
+p say onks windit
+Norz cast(s): 'nsiiznau' (Shield of protection)
+Glory of destruction: 4
+Nuane (party): onks windit
+[00:47:53] hp 1664/1675 | sp 819/1019 | ep 544/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc [report]: shield of protection on
+party report Displacement / Blurred image off.
+You feel less invisible.
+Nuane (report): Displacement / Blurred image off.
+[00:47:55] hp 1664/1675 | sp 819/1019 | ep 544/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Glycoli coughs up blood and howls soullessly to satisfy Draen-Dalar.
+Milk laughs fancifully.
+Glycoli laughs doubtfully.
+Norz laughs sluggishly.
+Onyxsablet [party / Dont Ask]: no o
+pss
+Kyynel laughs understandingly.
+Andthi [party]: Earth Leggings Special...
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1664(1675)  819(1019) 544(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 2002(2002)   44(  44) 414(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1597(1597)  517( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1322(1322) 476(467) | 100 |        42351 |
+| 2.2   Norz          fol  437( 437) 1077(1333) 254(254) |  89 |        41592 |
+| 2.3   Ronald        fol  895( 903) 1102(1381) 271(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1545(1545) 277(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 215(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  991(1189) 258(262) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:47:59] hp 1664/1675 | sp 819/1019 | ep 544/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Onyxsablet arrives from north.
+Glory of destruction: 3
+Glory of destruction: 2 (haste)
+Ronald laughs intensively.
+You laugh blessedly.
+Andthi laughs autonomically.
+Glycoli starts concentrating on a new spell.
+Chamber [sales]: ok, 30k each
+Andthi removes an ancient staff of the necromancer, an ancient staff of the necromancer, Red Glove of the Healer, Red Glove of the Healer, A magic cloak, a pair of old dark green boots, a collar made of black silk, the Bracelets of Darkness, Spider Amulet, Mirror breastplate, a majectical black crown, Girdle of Ethereal Power labeled as SPR, Sacred Bracelets of Eternity, sparkling ruby ring, sparkling ruby ring and a pair of leggings, formed out of earth.
+Andthi wears a green glove <red glow>, a green glove <red glow>, Girdle of Ethereal Power labeled as WIS <orange glow>, a rose clasp <red glow>, heavy tabard with a chalice ensignia <orange glow>, The Mask of Higher Consciousness <red glow>, bracelet made of green crystal <red glow>, bracelet made of green crystal <red glow>, glittering leg protectors <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, The gleaming blue collar of Bengalore <red glow>, a pair of black boots <red glow>, Tattered Silver Shimmering Cloak <red glow>, silver dragon bracers <red glow>, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow> and A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow>.
+Andthi removes glittering leg protectors.
+Andthi wears a pair of leggings, formed out of earth <red glow>.
+Onyxsablet leaves north.
+Glory of destruction: 1
+You are done with the chant.
+You kneel and cast(s): 'Grant me the power, the fire from within'
+You feel you have used up a tiny amount of destructive energy.
+You recharge your battle powers for a bit longer.
+hp 1664/1675 () | sp 743/1019 (-76) | ep 544/570 ()
+A dry wind blows here.
+Milk laughs harmlessly.
+Orthanc laughs emblematically.
+use ceremony
+You start concentrating on the skill.
+[00:48:07] hp 1664/1675 | sp 743/1019 | ep 544/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo {party}: nonii
+Norz cast(s): 'nsiiznau' (Shield of protection)
+party report Shield of protection up.
+You feel a slight tingle.
+Glycoli stands firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+Glycoli stands firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+Kyynel laughs naturally.
+Norz laughs ruthlessly.
+Nuane (report): Shield of protection up.
+[00:48:08] hp 1664/1675 | sp 743/1019 | ep 544/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi closes his eyes for a second, sighs, and says 'I'm ready to rock!'.
+Glycoli starts concentrating on a new skill.
+Onyxsablet [party / Dont Ask]: vaihan
+Kyo {party}: tapellaas
+Norz removes the ragged tome of knowledge, Red Glove of the Healer, Red Glove of the Healer, a collar made of black silk, Slime cloak, a torn leather muscle shirt, a black golden crown, sparkling ruby ring, Ring of Death, a battle-scarred shin guard and a battle-scarred shin guard.
+Norz wears gloves of Nimbleness <orange glow>, a black cloak (evil glow) <yellow glow>, a sparkling breastplate <orange glow>, the shining helm of azakh-khanan <orange glow>, Ring of the Medusa labeled as <|MM|> <red glow>, Lordly Diamond Ring [Made by: Proteus] labeled as 6int (strong) and dark grey and white plaid kilt <orange glow>.
+Norz wields The staff of Lerethin <orange glow> in his right hand.
+Glycoli laughs philosophically.
+Andthi laughs wretchedly.
+You laugh geographically.
+Orthanc [party]: windi ?
+Milk laughs flatly.
+Ronald laughs ribaldly.
+Andthi removes a green glove, a green glove, Girdle of Ethereal Power labeled as WIS, a rose clasp, heavy tabard with a chalice ensignia, The Mask of Higher Consciousness, bracelet made of green crystal, bracelet made of green crystal, Nova Arcanum, Melkior's book of necromancy, Nova Arcanum, Melkior's book of necromancy, The gleaming blue collar of Bengalore, a pair of black boots, Tattered Silver Shimmering Cloak, silver dragon bracers, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful), A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) and a pair of leggings, formed out of earth.
+Andthi wears Girdle of Ethereal Power labeled as WIS <orange glow>, medallion of honor <orange glow>, Holy vest of Yak <orange glow>, Scarf of Beauty <red glow>, the shining helm of azakh-khanan <orange glow>, purple amazon cloak <red glow>, gloves of Nimbleness labeled as qcgloves <orange glow>, swirling bands of lava <flaming> <red glow>, the Bracelets of Darkness <red glow>, a pair of old dark green boots <red glow>, Sacred Bracelets of Eternity <red glow>, Ring of Speed [Made by: Wex] labeled as 4qc (extra powerful), A green ring with a gem [Made by: Kyynel] labeled as 5qc (extra powerful), Shrunken toad talisman <red glow> and Shrunken toad talisman <red glow>.
+Orthanc laughs heedfully.
+Onyxsablet [party / Dont Ask]: o
+Info: Linkless recovers from link death.
+Glycoli coughs up blood and howls soullessly to satisfy Draen-Dalar.
+Kyynel laughs spectacularly.
+Andthi removes Holy vest of Yak.
+Onyxsablet arrives from north.
+Andthi wears heavy tabard with a chalice ensignia <orange glow>.
+Orthanc [party]: onko windit jokapaikas
+Kyo tiptoes to the north.
+Kyynel leaves north.
+Andthi leaves north.
+Glycoli leaves north.
+Your movement prevents you from doing the skill.
+The Beach.
+Milk arrives from south.
+Norz arrives from south.
+Ronald arrives from south.
+Orthanc arrives from south.
+Ghost of Linkless [ghost]: ress plz
+Norz laughs sentimentally.
+Glycoli regains composure.
+A dry wind blows here.
+Milk starts concentrating on a new offensive spell.
+hp 1664/1675 () | sp 743/1019 () | ep 542/570 (-2)
+Orthanc [party]: ok :)
+Orthanc starts concentrating on a new spell.
+Andthi starts concentrating on a new spell.
+Kyo {party}: menee
+Glycoli starts concentrating on a new offensive spell.
+You laugh blandly.
+Andthi laughs controversially.
+Andthi aborts the spell casting.
+Kyo tiptoes to the east.
+Kyynel leaves east.
+Andthi leaves east.
+Glycoli leaves east.
+The Valley.
+Milk arrives from west.
+Norz arrives from west.
+Ronald arrives from west.
+Orthanc arrives from west.
+Ronald starts concentrating on a new spell.
+Orthanc starts concentrating on a new spell.
+habo
+reaver threaten gatekeeper
+hz
+Kyo exclaims 'taivu!'
+*Ronald ticks 103 sps[39s].
+Andthi removes swirling bands of lava <flaming>.
+You start chanting.
+[00:48:24] hp 1664/1675 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Can only threaten once per 10 minutes.
+[00:48:24] hp 1664/1675 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+You have already reserved this as your confirmed kill!
+[00:48:24] hp 1664/1675 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyynel laughs odorously.
+Ronald laughs decadently.
+Orthanc reports: Hp: 1597 (1597) Sp: 517 (517) Ep: 423 (425).
+Andthi starts concentrating on a new spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Nuane 2 times.
+Nuane hits Gatekeeper 1 time.
+Orthanc hits Gatekeeper 1 time.
+hp 1304/1592 (-360) | sp 743/1019 () | ep 541/570 (-1)
+Harm body: 6
+Harm body: 5 (haste)
+Milk laughs emotionally.
+You are casting 'harm body'.
+[00:48:26] hp 1304/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:48:26] hp 1304/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1304(1592)  743(1019) 541(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1783(1914)   44(  44) 412(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1597(1597)  517( 517) 423(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1295(1322) 472(467) | 100 |        42351 |
+| 2.2   Norz          fol  437( 449) 1155(1488) 251(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903) 1205(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1545(1545) 274(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 212(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821) 1137(1196) 259(258) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:48:26] hp 1304/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1304 (1592) Sp: 743 (1019) Ep: 541 (570).
+[00:48:26] hp 1304/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Milk regains composure.
+Ghost of Linkless [ghost]: go out for a smoke come back dead
+Glycoli starts concentrating on a new offensive spell.
+TICK IN 5 SECONDS.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo hits Gatekeeper 1 time.
+Gatekeeper hits Orthanc 2 times.
+Nuane hits Gatekeeper 1 time.
+Norz laughs horizontally.
+Orthanc laughs nervously.
+Orthanc reports: Hp: 1289 (1537) Sp: 517 (517) Ep: 423 (425).
+Ghost of Linkless [ghost]: cute
+You are casting 'harm body'.
+[00:48:29] hp 1304/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:48:29] hp 1304/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1304(1592)  743(1019) 541(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1783(1914)   44(  44) 412(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1289(1537)  517( 517) 423(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1295(1322) 472(467) | 100 |        42351 |
+| 2.2   Norz          fol  437( 449) 1155(1488) 251(253) |  89 |        41592 |
+| 2.3   Ronald        fol  903( 903) 1205(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1545(1545) 274(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1510(1510) 212(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821) 1137(1196) 259(258) |  90 |        33329 |
+`-----------------------------------------------------------------------------'
+[00:48:29] hp 1304/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1304 (1592) Sp: 743 (1019) Ep: 541 (570).
+[00:48:29] hp 1304/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi [party]: tph 1
+Orthanc sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!' (Campfire tune)
+Orthanc's song heals some of your wounds.
+Ronald cast(s): 'judicandus eurto mangenic' (True party heal)
+Ronald's spell heals you. You feel very much better.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo hits Gatekeeper 1 time.
+Kyo's flex shield wobbles.
+Gatekeeper hits Kyo 2 times.
+hp 1525/1592 (+221) | sp 743/1019 () | ep 541/570 ()
+Norz cast(s): 'krkx mar nak grttzt' (Summon carnal spores)
+As Norz casts the spell, he pulls out a silvery bark chip which bursts into a million prismatic starbursts.
+Norz grins as his summon carnal spores hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Gatekeeper's inhumanly cruel onslaught on Orthanc causes her to collapse upon
+the ground writhing in sheer agony as she begs and pleads for death to save
+her from the pain!
+Gatekeeper raises Sword of Clouds to the heights and mutters some magic words.
+White magic enfolds Norz's body and in a blink of eye he is turned into a
+glass statue.
+party say Norz LENSI GLACEEN!!! POLIISI PALOKUNTA HANNUKARPO! NYT ON TOSI KYSEESSÄ, ARIVATASEN MERKKINEN GLACE 66 RUUTUA KAPPALE, TOLLA WILDERNESS LOCATIONILLAKO MEINAAT SIEL SAHARAS AJELLA EIHÄ SE EDES KULJE KU TRÄKKIWIPE/RUNI, EI ENÄÄ HUVITA MIKÄÄ MÄ LÄHEN KOTIO!
+PUFF! Glaced Norz vanishes into thin air.
+Glaced Norz left somewhere.
+Kyynel cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Kyynel casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Kyynel grins as her acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Harm body: 4
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+Andthi's spell heals you. You feel all better.
+You are casting 'harm body'.
+[00:48:32] hp 1592/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo {party}: < Unstun DOWN > [46:45]
+Gatekeeper is near death. (0-10% hps)
+[00:48:32] hp 1592/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyynel [report]: Gatekeeper SCREAMS to ACID!!
+Ronald starts concentrating on a new spell.
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1592(1592)  743(1019) 541(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1759(1804)   44(  44) 412(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1517(1517)  430( 517) 423(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1295(1322) 472(467) | 100 |        42351 |
+| 2.3   Ronald        fol  903( 903)  961(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1433(1545) 274(277) |  93 |        40691 |
+| 3.2   Kyynel        fol  427( 427) 1405(1510) 212(215) |  87 |        47190 |
+| 3.3   Andthi        fol  821( 821)  907(1196) 259(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  449( 449) 1051(1488) 251(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:48:32] hp 1592/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1592 (1592) Sp: 743 (1019) Ep: 541 (570).
+[00:48:32] hp 1592/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+Nuane (party): Norz LENSI GLACEEN!!! POLIISI PALOKUNTA HANNUKARPO! NYT ON TOSI KYSEESSÄ, ARIVATASEN MERKKINEN GLACE 66 RUUTUA KAPPALE, TOLLA WILDERNESS LOCATIONILLAKO MEINAAT SIEL SAHARAS AJELLA EIHÄ SE EDES KULJE KU TRÄKKIWIPE/RUNI, EI ENÄÄ HUVITA MIKÄÄ MÄ LÄHEN KOTIO!
+[00:48:32] hp 1592/1592 | sp 743/1019 | ep 541/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc starts concentrating on a new spell.
+Ronald regains composure.
+Kyo tiptoes to the west.
+Kyynel leaves west.
+Andthi leaves west.
+Glycoli leaves west.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+The River.
+a small hermit crab
+Milk arrives from east.
+Ronald arrives from east.
+Orthanc arrives from east.
+Kyo tiptoes to the south.
+Kyynel leaves south.
+Andthi leaves south.
+Glycoli leaves south.
+The Valley.
+Milk arrives from north.
+Ronald arrives from north.
+Orthanc arrives from north.
+Kyynel is now in the 2nd row.
+hp 1592/1592 (+67) | sp 743/1019 () | ep 540/570 (-1)
+You laugh imperialistically.
+Kyo {party}: chain
+habo
+You start chanting.
+CASTING CONCEALED.
+[00:48:35] hp 1592/1592 | sp 743/1019 | ep 540/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kalakth [ghost]: sweet
+Glaurung [ghost]: smoking kills
+Andthi laughs succesfully.
+Orthanc laughs dopily.
+Kyynel laughs impolitely.
+Milk starts concentrating on a new offensive spell.
+Kyo {party}: fak fak
+Glycoli starts concentrating on a new offensive spell.
+Andthi starts concentrating on a new spell.
+Kyynel starts concentrating on a new offensive spell.
+Silea [ghost]: smoking kills.
+Ghost of Linkless [ghost]: got from kalakth
+Ronald starts concentrating on a new spell.
+Harm body: 6
+Harm body: 4 (greater haste)
+Spider Queen smiles upon you and helps you control the demon.
+Timer now at 60 secs.
+Kyo {party}: vittuku säikähi
+Info: Pharm goes link dead.
+Silea [ghost]: damn you glaurung.
+*Ronald ticks 30 sps[18s].
+Andthi starts concentrating on a new spell.
+Ronald cast(s): 'judicandus mangenic' (Cure critical wounds)
+Ronald casts her spell at Kyo.
+hp 1592/1592 () | sp 731/1019 (-12) | ep 540/570 ()
+Harm body: 3
+Harm body: 2 (haste)
+You laugh sarcastically.
+Ronald [party]: puuh
+Ronald starts concentrating on a new spell.
+Glycoli starts concentrating on a new offensive spell.
+Harm body: 1
+Orthanc [party]: ei tas ny tmitaan fak viel
+Kyynel [party]: no vielä viimesillä voimillaan pistää vastaan
+habo
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[00:48:48] hp 1592/1592 | sp 731/1019 | ep 540/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc laughs lucklessly.
+Andthi laughs aspiringly.
+Orthanc regains composure.
+Kyo {party}: Prots: Flex: [8:15] Epow: [9:52] Unp: [1:24] Sop: [1:15] Fsh: [8:15] Sinv: [5:36] Pfg: [8:06] War: [7:21] Melody: [6:03] Aoa: [7:45] Ra: [7:24] Eblood: [7:27]
+Harm body: 6
+Harm body: 5 (haste)
+Kyynel laughs approvedly.
+Kyo {party}: tapellaa
+Ronald starts concentrating on a new spell.
+Andthi starts concentrating on a new spell.
+You laugh hilariously.
+Kyo {party}: menee
+A dry wind blows here.
+Kyo tiptoes to the north.
+Kyynel leaves north.
+Andthi leaves north.
+Glycoli leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+The Swamp.
+Milk arrives from south.
+Ronald arrives from south.
+Orthanc arrives from south.
+Ronald starts concentrating on a new spell.
+habo
+Glycoli starts concentrating on a new offensive spell.
+Info: Nobbs is now a duck.
+You start chanting.
+[00:48:56] hp 1592/1592 | sp 731/1019 | ep 538/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyynel starts concentrating on a new offensive spell.
+Andthi starts concentrating on a new spell.
+hp 1592/1592 () | sp 755/1019 (+24) | ep 548/570 (+8)
+Harm body: 6
+Andthi laughs unfaithfully.
+Kyo tiptoes to the east.
+Kyynel leaves east.
+Andthi leaves east.
+Glycoli leaves east.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+The Sea.
+Your knowledge about Gatekeeper's tactics allows you to evade the ambush.
+Milk arrives from west.
+Ronald arrives from west.
+Orthanc arrives from west.
+Orthanc [party]: siina vaihees kun kyo lentaa glaceen
+Orthanc [report]: displacement/blur down (3m 33s)
+Glaurung [ghost]: you are growing slow silea
+Kyo {party}: < Unpain DOWN > [1:32]
+habo
+You start chanting.
+[00:48:58] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyynel starts concentrating on a new offensive spell.
+Orthanc starts concentrating on a new spell.
+Milk starts concentrating on a new offensive spell.
+Ronald starts concentrating on a new spell.
+hp 1592/1592 () | sp 755/1019 () | ep 547/570 (-1)
+Harm body: 6
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 1 time.
+Nuane hits Gatekeeper 2 times.
+Orthanc hits Gatekeeper 2 times.
+Kyynel laughs uselessly.
+Orthanc [party]: ...NOT
+You are casting 'harm body'.
+[00:49:00] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:00] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1592(1592)  755(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1352(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1517(1517)  430( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1322(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1388(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  952(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1410(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  907(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  377( 449) 1108(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:00] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1592 (1592) Sp: 755 (1019) Ep: 547 (570).
+[00:49:00] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc [party]: tulee hata
+Harm body: 5
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo hits Gatekeeper 1 time.
+Gatekeeper hits Kyo 1 time.
+Nuane hits Gatekeeper 2 times.
+Orthanc hits Gatekeeper 1 time.
+You laugh appellantly.
+You are casting 'harm body'.
+[00:49:03] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:03] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Silea [ghost]: i was afk!
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1592(1592)  755(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1216(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1517(1517)  430( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1322(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1388(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  952(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1410(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  907(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  377( 449) 1108(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:03] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1592 (1592) Sp: 755 (1019) Ep: 547 (570).
+[00:49:03] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+Orthanc sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!' (Campfire tune)
+Ronald cast(s): 'judicandus eurto mangenic' (True party heal)
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Harm body: 4
+Harm body: 3 (haste)
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo hits Gatekeeper 2 times.
+Gatekeeper hits Kyo 2 times.
+Nuane hits Gatekeeper 1 time.
+Orthanc hits Gatekeeper 1 time.
+You are casting 'harm body'.
+[00:49:06] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:06] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1592(1592)  755(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1057(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1517(1517)  343( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1322(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1388(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  708(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1298(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  907(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  384( 449) 1221(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:06] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1592 (1592) Sp: 755 (1019) Ep: 547 (570).
+[00:49:06] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald starts concentrating on a new spell.
+Andthi laughs amateurishly.
+Angry fallos [twilight+]: Ö DUCK!
+Andthi [party]: tph 3
+Orthanc starts concentrating on a new spell.
+Gatekeeper cast(s): 'gtzt mar nak grttzt' (Golden arrow)
+Gatekeeper grins as his golden arrow hits Orthanc.
+Orthanc's flex shield wobbles.
+Kyynel cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Kyynel casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Kyynel grins as her acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 1 time.
+Nuane hits Gatekeeper 2 times.
+Kyynel [report]: Gatekeeper SCREAMS to ACID!!
+You are casting 'harm body'.
+[00:49:09] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:09] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1592(1592)  755(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr  857(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1373(1494)  343( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1322(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1284(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  708(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1298(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  907(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  384( 449) 1221(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:09] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1592 (1592) Sp: 755 (1019) Ep: 547 (570).
+[00:49:09] hp 1592/1592 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi [party]: tph 1
+Ronald [party]: th kyo 1
+Ronald cast(s): 'judicandus zapracus' (True heal)
+Ronald casts her spell at Kyo.
+Harm body: 2
+Harm body: 1 (haste)
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli casts a harming spell on Gatekeeper.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo hits Gatekeeper 2 times.
+Gatekeeper hits Orthanc 1 time.
+Nuane hits Gatekeeper 1 time.
+hp 1589/1591 (-3) | sp 755/1019 () | ep 547/570 ()
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+Andthi's spell heals you. You feel all better.
+A dry wind blows here.
+You are casting 'harm body'.
+[00:49:12] hp 1591/1591 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:12] hp 1591/1591 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1591(1591)  755(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1700(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1319(1457)  343( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1020(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1284(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  512(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1298(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  679(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  384( 449) 1221(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:12] hp 1591/1591 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1591 (1591) Sp: 755 (1019) Ep: 547 (570).
+[00:49:12] hp 1591/1591 | sp 755/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald starts concentrating on a new spell.
+Andthi starts concentrating on a new spell.
+You laugh appellantly.
+Kyynel laughs autonomically.
+Harle [ghost]: lies!!
+Orthanc sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!' (Campfire tune)
+Orthanc fails miserably in her spell.
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+hp 1591/1591 (+2) | sp 755/1019 () | ep 547/570 ()
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+You use your right hand for channeling harmful powers.
+You harm Gatekeeper really much.
+hp 1591/1591 () | sp 537/1019 (-218) | ep 547/570 ()
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo hits Gatekeeper 1 time.
+Gatekeeper hits Kyo 2 times.
+Nuane hits Gatekeeper 2 times.
+Orthanc hits Gatekeeper 1 time.
+Orthanc reports: Hp: 1319 (1457) Sp: 256 (517) Ep: 421 (425).
+You are not doing anything at the moment.
+[00:49:15] hp 1591/1591 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Milk [party]: Gatekeeper screams fire damage. (0% resist)
+Gatekeeper is near death. (0-10% hps)
+[00:49:15] hp 1591/1591 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1591(1591)  537(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1225(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1319(1457)  256( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1020(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1284(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  512(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1186(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  679(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  384( 449) 1221(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:15] hp 1591/1591 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1591 (1591) Sp: 537 (1019) Ep: 547 (570).
+[00:49:15] hp 1591/1591 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Milk starts concentrating on a new offensive spell.
+Andthi laughs humbly.
+Andthi [party]: tph 3
+habo
+You start chanting.
+[00:49:16] hp 1591/1591 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc starts concentrating on a new spell.
+Gatekeeper cast(s): 'gtzt mar nak grttzt' (Golden arrow)
+Gatekeeper grins as his golden arrow hits Orthanc.
+Kyynel cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Kyynel casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Kyynel grins as her acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Harm body: 6
+Harm body: 5 (haste)
+cast info
+scan all
+pss
+pr
+*****************************************************
+Your flex shield wobbles and part of the attack gets absorbed!
+Your flex shield wobbles and part of the attack gets absorbed!
+Gatekeeper hits Nuane 2 times.
+Nuane hits Gatekeeper 2 times.
+hp 1251/1518 (-340) | sp 537/1019 () | ep 547/570 ()
+Kyynel [report]: Gatekeeper SCREAMS to ACID!!
+You are casting 'harm body'.
+[00:49:18] hp 1251/1518 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+p say 218
+
+Orthanc starts concentrating on a new offensive spell.
+Gatekeeper is near death. (0-10% hps)
+[00:49:18] hp 1251/1518 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1251(1518)  537(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1225(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1114(1424)  256( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134) 1020(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1180(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  512(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1186(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  679(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  384( 449) 1221(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:18] hp 1251/1518 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1251 (1518) Sp: 537 (1019) Ep: 547 (570).
+[00:49:18] hp 1251/1518 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane (party): 218
+[00:49:18] hp 1251/1518 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi [party]: tph 1
+Ronald [party]: tph 1
+Kai [ghost]: excuses!
+Orthanc reports: Hp: 1114 (1424) Sp: 256 (517) Ep: 421 (425).
+Glaurung [ghost]: probably not!
+Ronald cast(s): 'judicandus eurto mangenic' (True party heal)
+Ronald's spell heals you. You feel all better.
+hp 1518/1518 (+267) | sp 537/1019 () | ep 547/570 ()
+Harm body: 4
+Harm body: 2 (greater haste)
+Glycoli cast(s): 'PAF PAF PAF!' (Harm body)
+Glycoli fails to touch Gatekeeper.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 2 times.
+Nuane hits Gatekeeper 1 time.
+Orthanc hits Gatekeeper 1 time.
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+Kyo grumbles 'Kurkota Glycoli kurkota...'
+You are casting 'harm body'.
+[00:49:21] hp 1518/1518 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:21] hp 1518/1518 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1518(1518)  537(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1373(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1424(1424)  256( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  919(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1180(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  268(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1186(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  449(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  384( 449) 1221(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:21] hp 1518/1518 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 1518 (1518) Sp: 537 (1019) Ep: 547 (570).
+[00:49:21] hp 1518/1518 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald starts concentrating on a new spell.
+Info: Bippo goes link dead.
+Glycoli starts concentrating on a new offensive spell.
+Andthi starts concentrating on a new spell.
+You laugh disappointedly.
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Harm body: 1
+cast info
+scan all
+pss
+pr
+*****************************************************
+party report It hurts it hurts :(
+That really HURT!
+party report Unpain off. [2m22s]
+You feel your will returning normal.
+Gatekeeper hits Nuane 3 times.
+Nuane hits Gatekeeper 1 time.
+hp 777/1408 (-741) | sp 537/1019 () | ep 547/570 ()
+Your mind clears.
+You are casting 'harm body'.
+[00:49:24] hp 777/1408 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:24] hp 777/1408 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  777(1408)  537(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1373(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol 1424(1424)  256( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  913(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1180(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  268(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1074(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  449(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  331( 449) 1221(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:24] hp 777/1408 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 777 (1408) Sp: 537 (1019) Ep: 547 (570).
+[00:49:24] hp 777/1408 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane (report): It hurts it hurts :(
+[00:49:24] hp 777/1408 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane (report): Unpain off. [2m22s]
+[00:49:24] hp 777/1408 | sp 537/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi laughs coolly.
+Kyynel laughs abundantly.
+Orthanc reports: Hp: 1424 (1424) Sp: 256 (517) Ep: 421 (425).
+Kyynel cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Kyynel casts the spell, she pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Kyynel grins as her acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+You use your right hand for channeling harmful powers.
+You harm Gatekeeper really much.
+hp 777/1408 () | sp 443/1019 (-94) | ep 547/570 ()
+cast info
+scan all
+pss
+pr
+*****************************************************
+Orthanc's flex shield wobbles.
+Gatekeeper hits Orthanc 3 times.
+Nuane hits Gatekeeper 2 times.
+Kyynel [report]: Gatekeeper SCREAMS to ACID!!
+You are not doing anything at the moment.
+[00:49:27] hp 777/1408 | sp 443/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:27] hp 777/1408 | sp 443/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  777(1408)  443(1019) 547(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1373(1715)   44(  44) 408(414) |  87 |        50113 |
+| 1.3   Orthanc       fol  853(1315)  256( 517) 421(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  913(1322) 468(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1076(1510) 208(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  268(1381) 268(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1074(1545) 270(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  449(1196) 256(258) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  331( 449) 1221(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:27] hp 777/1408 | sp 443/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 777 (1408) Sp: 443 (1019) Ep: 547 (570).
+[00:49:27] hp 777/1408 | sp 443/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyynel [party]: hahah, fwt tippuu
+Ronald [party]: tph 1
+Kyynel starts concentrating on a new offensive spell.
+Andthi [party]: tph 1
+habo
+You start chanting.
+CASTING CONCEALED.
+[00:49:28] hp 777/1408 | sp 443/1019 | ep 547/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo tiptoes to the west.
+Kyynel leaves west.
+Andthi leaves west.
+Glycoli leaves west.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Before the convent of White Rose (w,sw,s,e).
+a leather waterskin (empty), a pile of bronze coins, 8
+silver coins, a pile of copper coins, a big pile of tin
+coins, a big pile of mowgles coins, an empty alchemist's
+flask, a tiny yellow rhodonite, a tiny grey-black
+hematite and a pile of zinc coins
+Glycoli the dark Drow < Nöyrry Saatana! >
+Andthi the Owl slides It in.. < Nöyrry Saatana! >
+Kyynel the Thrikhren happoroiske < Nöyrry Saatana! >
+Kyo the Dwarf is the Thief of Always < Nöyrry Saatana! >
+Milk arrives from east.
+Ronald arrives from east.
+Orthanc arrives from east.
+Kyo tiptoes to the south.
+Kyynel leaves south.
+Andthi leaves south.
+Glycoli leaves south.
+The Valley (nw,n,w).
+7 silver coins, four leather waterskins
+(full), one zinc coin, an open faced roast beef,
+a pile of copper coins, a pile of tin coins, a small
+pile of bronze coins, a big pile of mowgles coins, a
+cappellini and marinara, a patty sausage, a plate of
+beefaroni and a well done prime rib
+Glycoli the dark Drow < Nöyrry Saatana! >
+Andthi the Owl slides It in.. < Nöyrry Saatana! >
+Kyynel the Thrikhren happoroiske < Nöyrry Saatana! >
+Kyo the Dwarf is the Thief of Always < Nöyrry Saatana! >
+Milk arrives from north.
+Ronald arrives from north.
+Orthanc arrives from north.
+Orthanc reports: Hp: 853 (1315) Sp: 256 (517) Ep: 421 (425).
+p say 94
+hp 777/1408 () | sp 443/1019 () | ep 546/570 (-1)
+Nuane (party): 94
+[00:49:30] hp 777/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Kyo {party}: chain
+habo
+You start chanting.
+[00:49:30] hp 777/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Ronald starts concentrating on a new spell.
+Andthi starts concentrating on a new spell.
+p say kuolee
+Nuane (party): kuolee
+[00:49:32] hp 777/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi removes Girdle of Ethereal Power labeled as WIS, medallion of honor, Scarf of Beauty, the shining helm of azakh-khanan, purple amazon cloak, gloves of Nimbleness labeled as qcgloves, the Bracelets of Darkness, a pair of old dark green boots, Sacred Bracelets of Eternity, Ring of Speed [Made by: Wex] labeled as 4qc (extra powerful), A green ring with a gem [Made by: Kyynel] labeled as 5qc (extra powerful), Shrunken toad talisman, Shrunken toad talisman and heavy tabard with a chalice ensignia.
+Andthi wears a green glove <red glow>, a green glove <red glow>, Girdle of Ethereal Power labeled as WIS <orange glow>, a rose clasp <red glow>, heavy tabard with a chalice ensignia <orange glow>, The Mask of Higher Consciousness <red glow>, bracelet made of green crystal <red glow>, bracelet made of green crystal <red glow>, glittering leg protectors <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, Nova Arcanum, Melkior's book of necromancy <orange glow>, The gleaming blue collar of Bengalore <red glow>, a pair of black boots <red glow>, Tattered Silver Shimmering Cloak <red glow>, silver dragon bracers <red glow>, A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow> and A ring of wisdom [Made by: Kyynel] labeled as 5wis (powerful) <red glow>.
+Furious gatekeeper arrives in a flash of light.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Your flex shield wobbles and part of the attack gets absorbed!
+Gatekeeper hits Nuane 1 time.
+You score a CRITICAL hit!
+Nuane hits Gatekeeper 1 time.
+Gatekeeper hits Orthanc 3 times.
+hp 591/1408 (-186) | sp 443/1019 () | ep 546/570 ()
+Your knowledge about Gatekeeper's tactics allows you to evade the ambush.
+You laugh elastically.
+Orthanc [report]: unpain off
+Ronald [party]: You are casting 'true party heal'.
+You are casting 'harm body'.
+[00:49:33] hp 591/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:33] hp 591/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  591(1408)  443(1019) 546(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1373(1715)   44(  44) 407(414) |  87 |        50113 |
+| 1.3   Orthanc       fol  142(1310)  273( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  913(1322) 467(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1113(1510) 210(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  268(1381) 267(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1116(1545) 274(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  449(1448) 255(244) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  331( 449) 1221(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:33] hp 591/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 591 (1408) Sp: 443 (1019) Ep: 546 (570).
+[00:49:33] hp 591/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Andthi removes glittering leg protectors.
+Andthi laughs disturbingly.
+Kyo {party}: vittu se kuolee
+Kyynel [party]: rupeen burdenaa 5min päästä
+Kyynel starts concentrating on a new offensive spell.
+Orthanc reports: Hp: 142 (1310) Sp: 273 (517) Ep: 425 (425).
+Kyo {party}: tappakaa
+Orthanc reports: Hp: 142 (1310) Sp: 273 (517) Ep: 425 (425).
+Milk [party]: 2
+p say tappoooo
+TICK IN 5 SECONDS.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Gatekeeper hits Kyo 1 time.
+Harm body: 6
+Harm body: 4 (greater haste)
+Kyynel laughs questioningly.
+Orthanc reports: Hp: 142 (1310) Sp: 273 (517) Ep: 425 (425).
+Andthi starts concentrating on a new spell.
+Nuane (party): tappoooo
+[00:49:36] hp 591/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc reports: Hp: 142 (1310) Sp: 273 (517) Ep: 425 (425).
+You are casting 'harm body'.
+[00:49:36] hp 591/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Gatekeeper is near death. (0-10% hps)
+[00:49:36] hp 591/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  591(1408)  443(1019) 546(570) | 100 |        46100 |
+| 1.2   Kyo           ldr 1243(1715)   44(  44) 407(414) |  87 |        50113 |
+| 1.3   Orthanc       fol  142(1310)  273( 517) 425(425) |  85 |        40660 |
+| 2.1   Glycoli       fol 1134(1134)  913(1322) 467(467) | 100 |        42351 |
+| 2.2   Kyynel        fol  427( 427) 1113(1510) 210(215) |  87 |        47190 |
+| 2.3   Ronald        fol  903( 903)  268(1381) 267(271) |  90 |        46307 |
+| 3.1   Milk          fol  566( 566) 1116(1545) 274(277) |  93 |        40691 |
+| 3.3   Andthi        fol  821( 821)  449(1446) 255(244) |  90 |        33329 |
+| ?.?   Glaced Norz   mbr  339( 449) 1361(1488) 253(253) |  89 |        41592 |
+`-----------------------------------------------------------------------------'
+[00:49:36] hp 591/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 591 (1408) Sp: 443 (1019) Ep: 546 (570).
+[00:49:36] hp 591/1408 | sp 443/1019 | ep 546/570 | exp 46423 | $ 2190/13870 | wimpy: off
+
+Orthanc reports: Hp: 142 (1310) Sp: 273 (517) Ep: 425 (425).
+Milk [party]: 1
+Orthanc reports: Hp: 142 (1310) Sp: 273 (517) Ep: 425 (425).
+Ronald [party]: tph 1
+Orthanc reports: Hp: 142 (1310) Sp: 273 (517) Ep: 425 (425).
+Orthanc reports: Hp: 142 (1310) Sp: 273 (517) Ep: 425 (425).
+Ronald cast(s): 'judicandus eurto mangenic' (True party heal)
+Ronald's spell heals you. You feel much better.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Nuane hits Gatekeeper 1 time.
+Your flex shield wobbles and part of the attack gets absorbed!
+Your flex shield wobbles and part of the attack gets absorbed!
+Gatekeeper hits Nuane 2 times.
+hp 733/1408 (+142) | sp 443/1019 () | ep 546/570 ()
+Milk cast(s): 'fzz mar nak grttzt' (Acid blast)
+As Milk casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Milk grins as his acid blast hits Gatekeeper.
+Gatekeeper's flex shield wobbles.
+Gatekeeper gets an acute case of iron-poisoning.
+save
+get all from corpse
+Gatekeeper is DEAD, R.I.P.
+The magic mist around the dead Gatekeeper's neck leaps to your Kerbholz.
+A new mark appears.
+hp 733/1408 () | sp 443/1019 () | ep 546/570 ()
+Harm body: 3
+Milk [party]: Gatekeeper screams fire damage. (0% resist)
+You are casting 'harm body'.
+[00:49:39] hp 733/1408 | sp 443/1019 | ep 546/570 | exp 216703 | $ 2190/13870 | wimpy: off
+You gained 170280 xp.
+
+Milk starts concentrating on a new offensive spell.
+[00:49:40] hp 733/1408 | sp 443/1019 | ep 546/570 | exp 216703 | $ 2190/13870 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  733(1408)  443(1019) 546(570) | 100 |       251257 |
+| 1.2   Kyo           ldr 1504(1715)   44(  44) 407(414) |  87 |       348342 |
+| 1.3   Orthanc       fol  603(1310)  273( 517) 425(425) |  85 |       226756 |
+| 2.1   Glycoli       fol 1134(1134)  897(1322) 467(467) | 100 |       247508 |
+| 2.2   Kyynel        fol  427( 427) 1113(1510) 210(215) |  87 |       235901 |
+| 2.3   Ronald        fol  903( 903)   24(1381) 267(271) |  90 |       238896 |
+| 3.1   Milk          fol  566( 566) 1004(1545) 274(277) |  93 |       237106 |
+| 3.3   Andthi        fol  821( 821)  449(1446) 255(244) |  90 |       225918 |
+| ?.?   Glaced Norz   mbr  339( 449) 1361(1488) 253(253) |  89 |       105359 |
+`-----------------------------------------------------------------------------'
+[00:49:40] hp 733/1408 | sp 443/1019 | ep 546/570 | exp 216703 | $ 2190/13870 | wimpy: off
+
+Nuane reports: Hp: 733 (1408) Sp: 443 (1019) Ep: 546 (570).
+[00:49:40] hp 733/1408 | sp 443/1019 | ep 546/570 | exp 216703 | $ 2190/13870 | wimpy: off
+
+SAVED.
+[00:49:40] hp 733/1408 | sp 443/1019 | ep 546/570 | exp 216703 | $ 2190/13870 | wimpy: off
+
+You take Sword of Clouds fuming celestial light <red glow>, Daydream ring of
+ Clouds named 'Sweet lullaby' <red glow>, Dream mask of Clouds called
+ 'Nightmare preventer' <red glow>, 20 anipium coins, a mithril banded plate,
+ Nightmare gloves of Clouds called 'Shattered dreams' <red glow>, a big pile
+ of silver coins and translucent cloak 'Dawn of awakening' <red glow> from a
+ corroded gore of Gatekeeper.
+[00:49:40] hp 733/1408 | sp 443/1019 | ep 546/570 | exp 216703 | $ 2190/13870 | wimpy: off
+p kills
+,-----------------------------------------------------------------------------.
+|   52118: Templar of Faerwon keeping the peace                               |
+|   65845: Templar of Faerwon keeping the peace                               |
+|    1459: Wandering mummy of Templar of Faerwon                              |
+|   35907: Templar of Faerwon keeping the peace                               |
+|   16793: Templar of Faerwon keeping the peace                               |
+|     487: Wandering spectre of Templar of Faerwon                            |
+|   47311: Templar of Faerwon keeping the peace                               |
+|   26130: Templar of Faerwon keeping the peace                               |
+|   15547: Templar of Faerwon keeping the peace                               |
+|     595: Wandering ghoul of Templar of Faerwon                              |
+|   27404: Templar of Faerwon keeping the peace                               |
+|   22604: Templar of Faerwon keeping the peace                               |
+|     749: Wandering ghoul of Templar of Faerwon                              |
+|   18705: Templar of Faerwon keeping the peace                               |
+|   13282: Templar of Faerwon keeping the peace                               |
+|   17454: Templar of Faerwon keeping the peace                               |
+|   12845: Templar of Faerwon keeping the peace                               |
+|     696: Wandering zombie of Templar of Faerwon                             |
+|   12402: Templar of Faerwon keeping the peace                               |
+| 1728710: Noble soldier of Faerwon guarding the convent gate                 |
+`-----------------------------------------------------------------------------'
+This party has killed 20 monsters (avg exp/mon: 105852).
+[00:49:49] hp 1200/1408 | sp 433/1019 | ep 546/570 | exp 216703 | $ 4159/13870 | wimpy: off
+
+yht 240 mageblastia, 145 haboo

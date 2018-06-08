@@ -1,0 +1,385 @@
+Belanthor is a level 90 mortal of the Minotaur race.
+She was created Mon Mar 23 15:38:54 1998 and she is 226d, 22h, 38min and 32s old.
+She has been on for 3h, 46min and 27s, idle 11s (*kickin'n'kickin*).
+She has killed: Bukh, the son of Oogga, 84307 exp
+                Gwerg, the troll leader, 2046578 exp (party of 9)
+Web page:   Barbarian, BatMUD's Bane | Crimson, ~38physres great avoids ~1,4khp
+Plan:
+>                        B.E.L.A.N.T.H.Ö.R
+>  Biodynaaminen Etelämaalainen, Liioittelematta Anarkistinen Namupala
+>      ja Tanhuaja sekä Huomattavan Örisevä Raakalainen
+>
+>                                                   >>finger enochian<<
+
+
+Nuane Maanviljelija is a level 61 elder of the Gargoyle race.
+It was created Sun Feb 18 16:04:07 2001 and it is 341d, 3min and 57s old.
+It has been on for 8h, 54min and 29s, not idle.
+It has killed: The Arch Demonologist Gendahar <poss.., 89993 exp
+               Alkarmir the banshee is wailing here.., 497729 exp (party of 9)
+Web page:  [#########.....................] rebirth2!              (finger nobbs)
+Plan:
+> ss-barbarian: 24k+ rep, 1.2k+ hp, mostly tear/incise/shred
+>
+> gladiator event logs at http://www.angelfire.com/freak/nuane/
+
+
+Sirdar booms 'menkää.'
+Info: Aldaron goes link dead.
+Info: Erwain left the game.
+Waitingroom for team 2 (out).
+hp 1225/1225 | sp 20/20 | ep 401/401 | exp 10241 | cash 0/9198
+
+You start concentrating on the skill.
+hp 1225/1225 | sp 20/20 | ep 401/401 | exp 10241 | cash 0/9198
+
+You are prepared to do the skill.
+You begin to concentrate on pain threshold.
+Nuane (party): Pain Threshold up.
+hp 1225/1225 | sp 20/20 | ep 273/401 | exp 10241 | cash 0/9198
+
+Info: Erwain enters the game.
+You start concentrating on the skill.
+hp 1225/1225 | sp 20/20 | ep 273/401 | exp 10241 | cash 0/9198
+
+hp 1225/1225 | sp 20/20 | ep 273/401 | exp 10241 | cash 0/9198
+
+You decide to change the skill to new one.
+You start concentrating on the skill.
+hp 1225/1225 | sp 20/20 | ep 273/401 | exp 10241 | cash 0/9198
+
+Nuane (party): Enraging!
+hp 1225/1225 | sp 20/20 | ep 273/401 | exp 10241 | cash 0/9198
+
+Info: Thon recovers from link death.
+hp 1225/1225 () | sp 20/20 () | ep 273/401 (-128)
+Info: Turmio left the game.
+Info: Garthran recovers from link death.
+Info: Darkwarrior goes link dead.
+Native priest shouts 'That'll teach Galaf to mess with ME!'
+Info: Galaf dies.
+Info: Zartan goes link dead.
+hp 1225/1225 () | sp 20/20 () | ep 280/401 (+7)
+Sirdar tells Belanthor and you 'OVET KIINNI.' 
+You close team 2 door.
+The arena master shouts 'Team 1 consists of Belanthor'
+The arena master shouts 'Team 2 consists of Nuane'
+The arena master shouts 'All teams ready! Let the fight begin!'
+** Cost for 'close door': Cost: utime:920 stime:0 ticks:745343 **
+hp 1225/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+hp 1225/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+Your movement prevents you from doing the skill.
+Arena grounds (w,sw,s).
+You start concentrating on the skill.
+hp 1225/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+Nuane (party): Luring ->
+hp 1225/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+              All around is a dense fog. You can see maybe
+              five meters in front of you before everything
+               turns into murky shadows. The only
+              interesting feature of this dull land is the
+   ####       ground which is a matrix of shifting black
+   #1@#       and white squares. 
+   #..#       
+   ####       
+              
+              
+              
+              
+Obvious exits are: w, sw and s.
+hp 1225/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+Belanthor arrives from west.
+You are now aggressive to your enemies.
+hp 1225/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+*****************************************************
+Belanthor incises you producing large scratches.
+Belanthor strokes you producing large scratches.
+That really hurt! You just have to stop your skill.
+You lose your concentration and cannot do the skill.
+Belanthor misses you.
+You miss Belanthor.
+You miss Belanthor.
+hp 1144/1225 (-81) | sp 20/20 () | ep 280/401 ()
+*****************************************************
+Belanthor incises you causing a small wound.
+You successfully dodge Belanthor's bash.
+You try to dodge, but Belanthor is not fooled.
+Belanthor pierces you causing a small scratch.
+You incise Belanthor producing large scratches.
+You tear Belanthor causing skin to sizzle.
+Belanthor is in excellent shape.
+hp 1074/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+Belanthor starts concentrating on a new offensive skill.
+Belanthor is in excellent shape.
+hp 1074/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+hp 1074/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+You start concentrating on the skill.
+hp 1074/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+Nuane (party): Luring ->
+hp 1074/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+hp 1074/1225 (-70) | sp 20/20 () | ep 280/401 ()
+*****************************************************
+Belanthor misses you.
+Belanthor strokes you producing large scratches.
+Belanthor pierces you causing a small scratch.
+Belanthor successfully dodges your futile slash.
+Belanthor successfully dodges your futile slash.
+Belanthor is in excellent shape.
+hp 1017/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+Dakir [wanted]: surgery to 80
+hp 1017/1225 (-57) | sp 20/20 () | ep 280/401 ()
+*****************************************************
+Belanthor misses you.
+Belanthor misses you.
+Belanthor pierces you causing a small scratch.
+Belanthor successfully parries your slash.
+ ...AND counterattacks with ferocity.
+Belanthor successfully parries your slash.
+ ...AND counterattacks with ferocity.
+Belanthor is in excellent shape.
+hp 985/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+Zarx {wanted}: party for healer or conjumage and def
+Belanthor cleaves your vulnerable windpipe, you can hardly breathe!
+Belanthor turns suddenly and STRIKES again..
+hp 829/1225 (-188) | sp 20/20 () | ep 280/401 ()
+*****************************************************
+You successfully dodge Belanthor's slash.
+Belanthor thrusts you inducing a nasty lesion.
+Belanthor pierces you causing a small scratch.
+You miss Belanthor.
+You miss Belanthor.
+Lighthouse (sales): axidia bracelets 1-2?spr, 5 cast magical mb 1 k
+Belanthor is in excellent shape.
+hp 759/1225 | sp 20/20 | ep 280/401 | exp 10241 | cash 0/9198
+
+Belanthor starts concentrating on a new offensive skill.
+City Guard shouts 'Alarm!  Our city is being raided by men with horned
+ helmets!  They come from the sea with a wooden viking boat!  Get the women
+ and the children to a safe place.  Fighters of the city, take arms and defend
+ us!'
+hp 759/1225 (-70) | sp 20/20 () | ep 280/401 ()
+You are prepared to do the skill.
+You expose yourself to Belanthor.
+Belanthor rampages towards you as she sees the opening.
+Belanthor's hit barely nudges you.
+You have trouble but manage to deliver a kick in Belanthor's crotch making her
+moan and immobalize her for a moment.
+*****************************************************
+You incise Belanthor producing large scratches.
+You shred Belanthor causing third degree burns.
+Nuane (party): ( Lure successful: 1 round stun )
+hp 746/1225 | sp 20/20 | ep 243/401 | exp 10241 | cash 0/9198
+
+Belanthor is in a good shape.
+hp 746/1225 | sp 20/20 | ep 243/401 | exp 10241 | cash 0/9198
+
+You start concentrating on the skill.
+hp 746/1225 | sp 20/20 | ep 243/401 | exp 10241 | cash 0/9198
+
+Ghost of Galaf [ghost]: new body please
+hp 746/1225 (-13) | sp 20/20 () | ep 243/401 (-37)
+*****************************************************
+You try to dodge, but Belanthor is not fooled.
+Belanthor incises you inducing a nasty lesion.
+Belanthor thrusts you causing bad burns.
+You successfully dodge Belanthor's pierce.
+Belanthor successfully dodges your futile slash.
+You miss Belanthor.
+Belanthor starts concentrating on a new offensive skill.
+Belanthor is in a good shape.
+hp 637/1225 | sp 20/20 | ep 243/401 | exp 10241 | cash 0/9198
+
+hp 637/1225 (-109) | sp 20/20 () | ep 243/401 ()
+*****************************************************
+Belanthor incises you inducing a nasty lesion.
+Belanthor strokes you inducing a nasty lesion.
+Belanthor pierces you producing large scratches.
+You incise Belanthor producing large scratches.
+Belanthor successfully dodges your futile slash.
+Belanthor is slightly hurt.
+hp 528/1225 | sp 20/20 | ep 243/401 | exp 10241 | cash 0/9198
+
+Mardus <twilight+>: hohoo
+Qazar [sales]: 1k
+hp 528/1225 (-109) | sp 20/20 () | ep 243/401 ()
+*****************************************************
+Belanthor incises you causing a nasty laceration.
+Belanthor misses you.
+Belanthor misses you.
+You miss Belanthor.
+You miss Belanthor.
+Hannibal [sales]: 5k
+Belanthor is slightly hurt.
+hp 483/1225 | sp 20/20 | ep 243/401 | exp 10241 | cash 0/9198
+
+You put 51 points of your attack skill to parry.
+Your total defense factor is: 129.
+hp 483/1225 | sp 20/20 | ep 243/401 | exp 10241 | cash 0/9198
+
+Info: Agnor goes link dead.
+Oktimatus [sales]: 10
+hp 483/1225 (-45) | sp 20/20 () | ep 243/401 ()
+*****************************************************
+Belanthor misses you.
+You successfully parry Belanthor's bash.
+Belanthor pierces you producing large scratches.
+Belanthor tries to dodge your hit, but you are not fooled that easily!
+You incise Belanthor causing a small wound.
+You miss Belanthor.
+Belanthor is slightly hurt.
+hp 463/1225 | sp 20/20 | ep 243/401 | exp 10241 | cash 0/9198
+
+You lunge at Belanthor, but he turns your attack against you and cleaves you!
+hp 326/1225 (-157) | sp 20/20 () | ep 243/401 ()
+*****************************************************
+Belanthor shreds you causing a NASTY head wound.
+Belanthor misses you.
+Belanthor pierces you inducing a nasty lesion.
+Belanthor tries to dodge your hit, but you are not fooled that easily!
+You tear Belanthor producing large scratches.
+You miss Belanthor.
+Kata [sales]: 11k
+Belanthor is slightly hurt.
+hp 249/1225 | sp 20/20 | ep 243/401 | exp 10241 | cash 0/9198
+
+Belanthor starts concentrating on a new offensive skill.
+hp 249/1225 (-77) | sp 20/20 () | ep 243/401 ()
+You are prepared to do the skill.
+You turn your enemy's lunge aside and cleave in one swift movement!
+*****************************************************
+Belanthor misses you.
+You try to dodge, but Belanthor is not fooled.
+Belanthor thrusts you causing entrails to fly everywhere.
+You are about to DIE!
+You are about to DIE!
+Belanthor pierces you causing a nasty laceration.
+You are about to DIE!
+You tear Belanthor causing a small wound.
+You miss Belanthor.
+Belanthor is noticeably hurt.
+hp 176/1225 | sp 20/20 | ep 213/401 | exp 10241 | cash 0/9198
+
+Mardus <twilight+>: kestä nanna !
+Arena grounds (e,s,se).
+hp 176/1225 | sp 20/20 | ep 213/401 | exp 10241 | cash 0/9198
+
+You start concentrating on the skill.
+hp 176/1225 | sp 20/20 | ep 213/401 | exp 10241 | cash 0/9198
+
+Oktimatus [sales]: cond?
+Info: Pharm goes link dead.
+hp 176/1225 (-73) | sp 20/20 () | ep 213/401 (-30)
+Info: Sitruuna enters the game.
+Qazar [sales]: 20k
+Lighthouse (sales): brand new
+Belanthor arrives from east.
+*****************************************************
+You successfully dodge Belanthor's slash.
+You successfully parry Belanthor's bash.
+Belanthor misses you.
+You miss Belanthor.
+You tear Belanthor causing a small wound.
+Mardus <twilight+>: super luret !
+Belanthor is noticeably hurt.
+hp 176/1225 | sp 20/20 | ep 213/401 | exp 10241 | cash 0/9198
+
+Belanthor starts concentrating on a new offensive skill.
+Gray Slaad shouts 'Gurb's BLOOD tasted good!'
+Info: Gurb dies.
+You are prepared to do the skill.
+You make a great cleaving maneuver, but your enemy blocks your attack.
+*****************************************************
+You try to dodge, but Belanthor is not fooled.
+Belanthor tears you forcing spinal discs to dislodge.
+You wish your wounds would stop BLEEDING so much!
+You try to dodge, but Belanthor is not fooled.
+Belanthor strokes you causing the entire dermis to burn.
+You wish your wounds would stop BLEEDING so much!
+Your skin is CHARRED severly!
+Belanthor pierces you causing a NASTY head wound.
+You wish your wounds would stop BLEEDING so much!
+You miss Belanthor.
+Belanthor successfully dodges your futile slash.
+Oktimatus [sales]: 25
+Belanthor is noticeably hurt.
+hp 77/1225 | sp 20/20 | ep 183/401 | exp 10241 | cash 0/9198
+
+Arena grounds (w,sw,s).
+hp 77/1225 | sp 20/20 | ep 183/401 | exp 10241 | cash 0/9198
+
+You start concentrating on the skill.
+hp 77/1225 | sp 20/20 | ep 183/401 | exp 10241 | cash 0/9198
+
+hp 77/1225 (-99) | sp 20/20 () | ep 183/401 (-30)
+Belanthor arrives from west.
+*****************************************************
+You successfully dodge Belanthor's slash.
+Belanthor misses you.
+Grinning diabolically Belanthor gorges you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+You are no longer stunned.
+You fall unconscious from the pain.
+Qazar [sales]: 30k
+Belanthor starts concentrating on a new offensive skill.
+Lighthouse (sales): incred cond
+You are unconscious, unable to do anything.
+hp -76/1225 | sp 20/20 | ep 183/401 | exp 10241 | cash 0/9198
+
+You are unconscious, unable to do anything.
+hp -76/1225 | sp 20/20 | ep 183/401 | exp 10241 | cash 0/9198
+
+*****************************************************
+Belanthor incises you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Your skin is CHARRED severly!
+You howls in agony as the evil mace crushes bones!
+Belanthor strokes you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Your skin is CHARRED severly!
+Belanthor pierces you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Mardus <twilight+>: aww :)
+Info: Spiritwalker left the game.
+Blood pours from your wounds!
+You wish your wounds would stop BLEEDING so much!
+*****************************************************
+Belanthor incises you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Belanthor strokes you forcing the heart to incinerate.
+You wish your wounds would stop BLEEDING so much!
+Your skin is CHARRED severly!
+Belanthor pierces you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Kata [sales]: 52k
+You are unconscious, unable to do anything.
+hp -313/1225 | sp 20/20 | ep 183/401 | exp 10241 | cash 0/9198
+
+You are unconscious, unable to do anything.
+hp -313/1225 | sp 20/20 | ep 183/401 | exp 10241 | cash 0/9198
+
+*****************************************************
+Belanthor incises you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Belanthor strokes you forcing the heart to incinerate.
+You wish your wounds would stop BLEEDING so much!
+You die!
+You are transferred out of the arena by some very capable clerics.
+They manage to resurrect you without causing any serious trauma!
+You are moved to the stadium cellars.
+Nuane dies and is carried away by two clerics.
+The arena master shouts 'Nuane of team 2 dies and is removed from the arena!'
+The healing room (e).
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Belanthor'
