@@ -1,0 +1,250 @@
+The arena master shouts 'Team 1 consists of Amd'
+The arena master shouts 'Team 2 consists of Mystic'
+The arena master shouts 'All teams ready! Let the fight begin!'
+Kyo Aizu is a level 80 elder of the Barsoomian race.
+He was created Tue Aug 06 15:04:27 2002 and he is 310d, 22h, 27min and 30s old.
+He has been on for 9min and 28s, idle 7s.
+He is the winter leader of the Druids guild.
+He is the Commanding General of the Crimson Brigade.
+He has no plan.
+[21:55:44] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[1;37mOrthanc [0;53m[fall+]:[1;37m indeed[0m
+[32mSirdest says '% close door.'[0m
+[32mSirdest says '%You close team 2 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Amd'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Mystic'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%Hp:1192/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%% ###    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '% ###    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '%Hp:1192/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '%The arena master shouts 'Team 2 consists of Mystic'.'.'[0m
+[32mSirdest says '% ###    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w, e, sw, s and se.'[0m
+[32mSirdest says '%Hp:1192/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '% ###    All around is a dense fog. You can see maybe.'.'[0m
+la arena
+[32mSirdest says '% ###    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne, e, s and se.'[0m
+[32mSirdest says '%Hp:1192/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+       
+ ##### 
+ #...# 
+ #[1;36m2[0m..# 
+ #[1;36m1[0m..# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mystic           1192/1295   46/46   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               502/694  1443/1884 |                                      |
+`-----------------------------------------------------------------------------'
+[21:55:45] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%You say '% ###    All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1192/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '% #..    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Hp:1192/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '%Your movement prevents you from doing the skill.'.'[0m
+[1;37mMardus [0;52m<party>:[1;37m oon pantannu talonki ja myyny venee ku lˆin vetoo sun puolesta[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%Hp:1192/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '%You cannot go that way.'.'[0m
+la arena
+[32mSirdest says '% ...    All around is a dense fog. You can see maybe.'[0m
+       
+ ##### 
+ #...# 
+ #...# 
+ #.[1;36m21[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mystic           1192/1295   46/46   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               502/694  1443/1884 |                                      |
+`-----------------------------------------------------------------------------'
+[21:55:47] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Obvious exits are: nw, n, ne, w and e.'[0m
+[32mSirdest says '%Hp:1192/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '% ...    All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '% ..#    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Amd's floating disc.'[0m
+[32mSirdest says '%Amd Ammattihappo the Thrikhren buzzes annoyingly.. <team 1>.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You stroke Amd.'[0m
+[32mSirdest says '%You thrust Amd.'[0m
+[32mSirdest says '%Amd seems [51mhurt and confused[32m.'[0m
+[32mSirdest says '%Amd misses.'[0m
+[32mSirdest says '%Amd spanks you.'[0m
+[32mSirdest says '%Amd claws you.'[0m
+[32mSirdest says '%You dodge.'[0m
+[32mSirdest says '%Hp: 1188 (1295) Sp: 46 (46) Ep: 234 (403) [ -4/ / ].'[0m
+[32mSirdest says '%Hp:1192/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '% ..#    All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1188/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '%You start concentrating on the skill.'.'[0m
+[32mSirdest says '%Amd is noticeably hurt.'[0m
+[32mSirdest says '%Hp:1188/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '%Amd is noticeably hurt.'.'[0m
+la arena
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mystic           1188/1295   46/46   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               424/694  1443/1884 |                                      |
+`-----------------------------------------------------------------------------'
+[21:55:49] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%SAVED.'[0m
+[32mSirdest says '%Hp:1188/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '%SAVED.'.'[0m
+[32mSirdest says '% ..#    All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Amd's floating disc.'[0m
+[32mSirdest says '%Amd Ammattihappo the Thrikhren buzzes annoyingly.. <team 1>.'[0m
+[32mSirdest says '%Hp:1188/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%You say '% ..#    All around is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%Amd zaps you with Custom wand named cold ray (1/100).'[0m
+Desotarion leaves west.
+Antikiller leaves west.
+[1;34;47mSirdest says '%A cold ray hits you.'[0m
+[32mSirdest exclaims '%That really HURT!'[0m
+[32mSirdest says '%Amd zaps you with Custom wand named acid blast (1/100).'[0m
+[42mSirdest says '%An acid blast hits you.'[0m
+[32mSirdest exclaims '%That really HURT!'[0m
+[32mSirdest exclaims '%Your skin MELTS exposing your internal organs!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest says '%Amd drops you a flask containing translucent bright yellow liquid, [0m[32mCustom wand.'[0m
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:1188/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:37 Set:0.'[0m
+[32mSirdest says '%%*****************************************************.'[0m
+[32mSirdest says '%Amd bashes you with shield.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+la arena
+[32mSirdest says '%Amd spanks you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd claws you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd claws you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+       
+ ##### 
+ #...# 
+ #...# 
+ #..[1;36m1[0m# 
+ ##### 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mystic            -46/1295   46/46   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Amd               424/694  1443/1884 |                                      |
+`-----------------------------------------------------------------------------'
+[21:55:50] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Hp: -46 (1295) Sp: 46 (46) Ep: 234 (403) [ -1234/ / ].'[0m
+[32mSirdest says '% party report [a cold ray hit me].'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-46/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:39 Set:0.'[0m
+[1;34;47mSirdest says '%You say '%A cold ray hits you.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-46/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:39 Set:0.'[0m
+[32mSirdest says '%You exclaim '%That really HURT!'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-46/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:39 Set:0.'[0m
+[32mSirdest says '%You say '%Amd zaps you with Custom wand named acid blast (1/100).'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-46/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:39 Set:0.'[0m
+[32mSirdest says '%You say '%Amd claws you.'.'[0m
+[32mPera roars 'Perse repi‰‰.'[0m
+[32mPera roars 'Perse repi‰‰.'[0m
+[1;30mInfo: Cobain recovers from link death.[0m
+[32mPera roars 'Perse repi‰‰.'[0m
+Purse leaves down.
+[32mSirdest says '% w.'[0m
+[32mCilwand goes 'Heh'.[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-46/1295 Sp:46/46 Ep:234/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:39 Set:0.'[0m
+[32mSirdest says '%You say '% w.'.'[0m
+[32mSirdest says '%Amd bashes you with shield.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd spanks you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd claws you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd misses.'[0m
+[32mSirdest says '%Hp: -51 (1295) Sp: 46 (46) Ep: 234 (403) [ -5/ / ].'[0m
+[32mSirdest exclaims '%Blood pours from your wounds!'[0m
+[32mSirdest exclaims '%Your skin MELTS exposing your internal organs!'[0m
+[32mSirdest says '%Even though your muscles tire you rage in frenzy.'[0m
+[32mSirdest says '% rb.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-69/1295 Sp:46/46 Ep:229/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:39 Set:0.'[0m
+[32mSirdest says '%You say '%Amd bashes you with shield.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-69/1295 Sp:46/46 Ep:229/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:39 Set:0.'[0m
+[32mSirdest says '%You say '%You are [51munconscious[32m, unable to do anything.'.'[0m
+[1;37mOrthanc [0;53m[fall+]:[1;37m druidicrimso, bardista, 'k[0m
+[32mChizra smirks.[0m
+Desotarion arrives from west.
+Antikiller arrives from west.
+[32mSirdest says '%Amd starts concentrating on a new offensive spell.'[0m
+'hahaha
+You echo 'hahaha.'
+[21:55:55] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mMaphesto squeals 'haha.'[0m
+[32mKrokodiili goes 'Heh'.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Amd bashes you with shield.'[0m
+[32mDunlop giggles inanely.[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd spanks you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd claws you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd claws you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Hp: -79 (1295) Sp: 46 (46) Ep: 229 (403) [ -28/ / -5].'[0m
+[32mDornier mumbles 'hihi.'[0m
+[1;30mInfo: Sareth recovers from link death.[0m
+[32mBrokus goes 'Heh'.[0m
+[32mGgr falls down laughing.[0m
+[32mStargazer gurgles 'it was fast.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Amd bashes you with shield.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd spanks you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd claws you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Amd claws you.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Hp: -85 (1295) Sp: 46 (46) Ep: 229 (403) [ -6/ / ].'[0m
+[32mSirdest says '% sa.'[0m
+[32mGotrek says 'haha.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-85/1295 Sp:46/46 Ep:229/403 Align:Aveallis's gift to mankind [0m[32mExp:2609 Cash:0 Weight:39 Set:0.'[0m
+[32mSirdest says '%Stargazer gurgles 'it was fast.'.'[0m
+[32mSirdest goes 'Ooooo...'.[0m
+Sumar is surrounded by a bright light!
+The arena master shouts 'Mystic of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Amd'

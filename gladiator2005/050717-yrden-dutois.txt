@@ -1,0 +1,644 @@
+The arena master shouts 'Team 1 consists of Dutois'
+The arena master shouts 'Team 2 consists of Yrden'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSavok staggers and nearly falls.[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Dutois'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Yrden'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%There are no obvious exits.'[0m
+[32mSirdest says '%0 <team 1>.'[0m
+[32mSirdest says '%cast dancing blades at dutois use lance,lance 2,lance 3.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mHit says 'jäänny stetoskooppiu kyytii.'[0m
+[32mSirdest says '%batp1: 1235 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%grep '(Singing time|Casting time)' help spell dancing blades.'[0m
+[32mSirdest says '%Singing time: 4 rounds.'[0m
+[32mSirdest says '%batp1: 1235 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '% @party report < casting dancing blades >.'[0m
+la arena
+[32mSirdest says '%party report < casting dancing blades >.'[0m
+[32mSirdest says '%Yrden [1;30m{report}:[0;32m < casting dancing blades >.'[0m
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden            1235/1235  854/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1088/1088  859/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:48] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%batp1: 1235 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%kill dutois.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%Your battle cadence grants you another attack!'[0m
+[32mSirdest says '%Yrden hits Someone 2 times.'[0m
+[32mSirdest says '%Someone hits Yrden 1 time.'[0m
+[32mSirdest says '%hp: 1211 (1235) [-24] sp: 854 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%batp1: 1211 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden            1211/1235  854/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1006/1088  859/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:49] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Someone starts concentrating on a new offensive spell.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Someone is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%batp1: 1211 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden            1211/1235  854/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1006/1088  859/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:51] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Dutois shreds air with his hands and screams 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest says '%Dutois shreds air with his hands and screams 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest exclaims '%You feel your bones fracturing and breaking!'[0m
+[32mSirdest says '%The chill of the iron ring clears your head a bit.'[0m
+[32mSirdest says '%hp: 1049 (1235) [-162] sp: 854 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Dutois hits Yrden 2 times.'[0m
+[32mSirdest says '%hp: 854 (1235) [-195] sp: 854 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             854/1235  854/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1006/1088  763/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:54] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%batp1: 854 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Dutois hits Yrden 2 times.'[0m
+[32mSirdest says '%hp: 768 (1235) [-86] sp: 854 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%party report < woz stunned >.'[0m
+[32mSirdest says '%Yrden [1;30m{report}:[0;32m < woz stunned >.'[0m
+[32mSirdest says '%batp1: 768 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             768/1235  854/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1006/1088  763/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:57] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%cast dancing blades at dutois use lance,lance 2,lance 3.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%batp1: 768 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%grep '(Singing time|Casting time)' help spell dancing blades.'[0m
+[32mSirdest says '%Singing time: 4 rounds.'[0m
+[32mSirdest says '%batp1: 768 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%party report < casting dancing blades >.'[0m
+[32mSirdest says '%Yrden [1;30m{report}:[0;32m < casting dancing blades >.'[0m
+[32mSirdest says '%batp1: 768 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Dutois is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%batp1: 768 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             768/1235  854/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1006/1088  763/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:06:59] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Dutois is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%batp1: 768 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mCalmis says 'jaa-a.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             768/1235  854/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1006/1088  763/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:01] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mHit says 'ooo.'[0m
+[32mSirdest says '%Dutois shreds air with his hands and screams 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest says '%Dutois shreds air with his hands and screams 'Haii!' [57m(Tiger [0m[57mclaw/Shadow leap)[32m.'[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%You manage to break the pain with intense concentration!'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mNina roars 'ohhoh.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             768/1235  854/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois           1006/1088  667/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:03] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Dutois is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%batp1: 768 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%cast info.'[0m
+[32mSirdest says '%You are casting 'dancing blades' at 'dutois use lance,lance 2,lance [0m[32m3'.'[0m
+[32mSirdest says '%batp1: 768 1235 854 854 420 420 str dex con int wis cha siz.'[0m
+[32mCalmis says 'riipuuu tosta clawista aika kovaa.'[0m
+[32mSirdest says '%You sing 'Dance my little blades, whip my enemies for I am the true [0m[32mfiend. Dance, for I am the source that tweaks the winds! Dance my blades, ravage [0m[32mat my command, for thou shall find sheaths in the abdomens of my foes!'.'[0m
+la arena
+[32mSirdest says '%You gasp in awe as High-quality fire lance <flying> wriggles a little [0m[32mas Yrden.'[0m
+[32mSirdest says '%You gasp in awe as High-quality fire lance <flying> wriggles a little [0m[32mas Yrden.'[0m
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             731/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            931/1088  667/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:06] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You gasp in awe as High-quality fire lance <flying> wriggles a little [0m[32mas Yrden.'[0m
+[32mSirdest says '%hp: 768 (1235) [] sp: 648 (854) [-206] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Dutois hits Yrden 1 time.'[0m
+[32mSirdest says '%hp: 731 (1235) [-37] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%High-quality fire lance <flying> barely misses Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '% @sc.'[0m
+[32mSirdest says '%sc.'[0m
+[32mSirdest says '%hp: 731 (1235) [] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] exp: [0m[32m40246 [].'[0m
+[32mSirdest says '%batp1: 731 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%cast 'con fioco'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%batp1: 731 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%grep '(Singing time|Casting time)' help spell con fioco.'[0m
+[32mSirdest says '%Singing time: 3 rounds.'[0m
+[32mSirdest says '%batp1: 731 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Dutois is in a good shape.'[0m
+[32mSirdest says '%batp1: 731 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             731/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            931/1088  667/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:07] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest exclaims '%You feel your bones fracturing and breaking!'[0m
+[32mSirdest says '%The chill of the iron ring clears your head a bit.'[0m
+[32mSirdest says '%hp: 559 (1235) [-172] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Dutois hits Yrden 2 times.'[0m
+[32mSirdest says '%hp: 448 (1235) [-111] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> barely misses Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             448/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            858/1088  571/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:10] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% scan all.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%batp1: 448 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+Ignore leaves west.
+[32mSirdest says '%The chill of the iron ring clears your head a bit.'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%party report < woz stunned >.'[0m
+[32mSirdest says '%Yrden [1;30m{report}:[0;32m < woz stunned >.'[0m
+[32mSirdest says '%batp1: 448 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             448/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            749/1088  571/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:12] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mLyriikka clatters 'haha.'[0m
+[32mSirdest says '% cast 'campfire tune'.'[0m
+[32mSirdest says '%cast 'campfire tune'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%batp1: 448 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%grep '(Singing time|Casting time)' help spell campfire tune.'[0m
+[32mSirdest says '%Singing time: 2 rounds.'[0m
+[32mSirdest says '%batp1: 448 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             448/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            749/1088  571/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:14] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mCalmis says 'no kyl se tais dutoissi voittaa.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Dutois hits Yrden 1 time.'[0m
+[32mSirdest says '%Yrden hits Dutois 1 time.'[0m
+[32mSirdest says '%hp: 408 (1235) [-40] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Dutois is noticeably hurt.'[0m
+[32mSirdest says '%batp1: 408 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             408/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            590/1088  571/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:16] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%save.'[0m
+[32mSsmud quacks 'oHHHH!!!!!!!!!'[0m
+[32mSirdest says '%SAVED.'[0m
+[32mSirdest says '%batp1: 408 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             134/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            484/1088  475/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:18] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest exclaims '%You feel your bones fracturing and breaking!'[0m
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '%The chill of the iron ring clears your head a bit.'[0m
+[32mSirdest says '%hp: 224 (1235) [-184] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%You are about to DIE!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Dutois hits Yrden 2 times.'[0m
+[32mSirdest says '%hp: 134 (1235) [-90] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+Savok looks very relaxed as he smokes on his blunt.
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             134/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            484/1088  475/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:19] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Dutois hits Yrden 1 time.'[0m
+[32mSirdest says '%hp: 79 (1235) [-55] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] exp: [0m[32m40246 [].'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '% cast 'campfire tune'.'[0m
+[32mSirdest says '%cast 'campfire tune'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%batp1: 79 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+[32mSirdest says '%party report < woz stunned >.'[0m
+[32mSirdest says '%Yrden [1;30m{report}:[0;32m < woz stunned >.'[0m
+[32mSirdest says '%batp1: 79 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%grep '(Singing time|Casting time)' help spell campfire tune.'[0m
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden              79/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            400/1088  475/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:21] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Singing time: 2 rounds.'[0m
+[32mSirdest says '%batp1: 79 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+[32mStargazer goes 'MUAH'.[0m
+Ignore arrives from west.
+[32mFarliss AAARRGGHHs 'ei hyvaa paivaa.'[0m
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%scan all.'[0m
+[32mSirdest says '%Dutois is not in a good shape.'[0m
+[32mSirdest says '%batp1: 79 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+[1;37mTeinix-Larppa [0;54m[ee+]:[1;37m Info: Sunny tuli tuunatuksi.[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden              79/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            400/1088  475/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:23] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Dutois hits Yrden 1 time.'[0m
+[32mSirdest says '%Yrden hits Dutois 1 time.'[0m
+[32mSirdest says '%hp: 43 (1235) [-36] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] exp: [0m[32m40246 [].'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden              43/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            250/1088  475/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:25] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%cast info.'[0m
+[32mSirdest says '%You are casting 'campfire tune'.'[0m
+[32mSirdest says '%batp1: 43 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden              43/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            250/1088  475/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:26] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+*Raven spreads its mighty wings.
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%hp: 1 (1235) [-42] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] exp: [0m[32m40246 [].'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%Your battle cadence grants you another attack!'[0m
+[32mSirdest says '%Yrden hits Dutois 2 times.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%party report < woz stunned >.'[0m
+[32mSirdest says '%Yrden [1;30m{report}:[0;32m < woz stunned >.'[0m
+[32mSirdest says '%batp1: 1 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden               1/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois             49/1088  379/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:27] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[1;30mInfo: Sopuli enters the game.[0m
+[32mSirdest says '%cast info.'[0m
+[32mSirdest says '%You are not doing anything at the moment.'[0m
+[32mSirdest says '%batp1: 1 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+la arena
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden               1/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois             49/1088  379/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:29] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+*Raven spreads its mighty wings.
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Dutois hits Yrden 2 times.'[0m
+[32mSirdest says '%hp: -66 (1235) [-67] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> barely misses Dutois.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '% cast 'campfire tune'.'[0m
+la arena
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%batp1: -66 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%batp1: -66 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%batp1: -66 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+     
+ ### 
+ #[1;36m1[0m# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Yrden             -66/1235  648/854  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dutois            378/1088  379/920  |                                      |
+`-----------------------------------------------------------------------------'
+[22:07:30] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[1;30mInfo: Thompson recovers from link death.[0m
+[32mStrikerbum cheers enthusiastically.[0m
+[32mSirdest exclaims '%Blood pours from your wounds!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mStrikerbum CHEERS enthusiastically.[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Dutois hits Yrden 2 times.'[0m
+[32mSirdest says '%hp: -174 (1235) [-108] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%You catch High-quality fire lance <flying>.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%You catch High-quality fire lance <flying>.'[0m
+[32mSirdest says '%High-quality fire lance <flying> rends Dutois.'[0m
+[32mSirdest says '%You catch High-quality fire lance <flying>.'[0m
+[32mSavok looks very lost and confused.[0m
+[32mRequiem grunts 'omg.'[0m
+[32mMurgan says 'se ol siin.'[0m
+[32mCalmis says 'hmm.'[0m
+[32mFarliss boos in disappointment.[0m
+'aww fuck :)
+You echo 'aww fuck :).'
+[22:07:35] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '% scan all.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%batp1: -174 1235 648 854 420 420 str dex con int wis cha siz.'[0m
+[32mNina cheers enthusiastically.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Dutois hits Yrden 2 times.'[0m
+[1;37mTeinix-Larppa [0;54m[ee+]:[1;37m vaihdettiin öljyt ja sitte joku juttu mitä en enää ees muita [0m[1;37mmikä seoli[0m
+[32mSirdest says '%hp: -243 (1235) [-69] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mCalmis says 'jaah.'[0m
+[1;37mTeinix-Larppa [0;54m[ee+]:[1;37m :Dddddddd[0m
+[1;37mLyriikka [0;53m{fall+}:[1;37m niihän toi lyö ku tankki sika![0m
+[32mSirdest says '%Dunk dunk.'[0m
+'nice match
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+You echo 'nice match.'
+[22:07:39] hp 556/556  sp 1134/1134  ep 270/270  xp 849  $ 3000/10781  wimpy off
+
+[32mSirdest says '%Dutois hits Yrden 2 times.'[0m
+[32mSirdest says '%hp: -336 (1235) [-93] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[56mTICK IN 5 SECONDS.[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your body is almost FROZEN solid!'[0m
+[32mSirdest says '%Dutois hits Yrden 2 times.'[0m
+[32mSirdest says '%hp: -402 (1235) [-66] sp: 648 (854) [] ep: 420 (420) cash: 14160 [] [0m[32mexp: 40246 [].'[0m
+[32mStrikerbum says 'YOU ALL LOSE YOUR MONEY.'[0m
+*Roc squawks at Nina
+*Roc is slightly annoying.
+The arena master shouts 'Yrden of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Dutois'
+Didan [32m[sales]:[0m long pole topped with blazing golden light mb 1.2m
+[32mSirdest says '%Dunk dunk.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest exclaims '%Your skin is CHARRED severly!'[0m
+[32mSirdest exclaims '%You die!'[0m
+[32mSirdest says '%Yrden dies and is carried away by two clerics.'[0m
+[32mSirdest says '%The arena master shouts 'Yrden of team 2 dies and is removed from the [0m[32marena!'.'[0m
+[32mSirdest says '%This room is filled with healing equipment and here the clerics revive [0m[32mthe.'[0m
+[32mSirdest says '%Obvious exit is: east.'[0m
+[32mSirdest says '%The arena master shouts 'Fight is over! Winner is team 1 which [0m[32mconsists of Dutois'.'[0m

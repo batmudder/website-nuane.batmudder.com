@@ -1,0 +1,729 @@
+The arena master shouts 'Team 1 consists of Pera'
+The arena master shouts 'Team 2 consists of Gorge'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '% close door.'[0m
+[32mSirdest says '%You close team 2 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Pera'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Gorge'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%1068/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You say '% close door.'.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+la arena
+       
+ ####  
+ #[1;36m12[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1068/1084  634/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera             1068/1094  600/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:39] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%1068/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You say '%          All [0m[32maround is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%1068/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You say '%          All [0m[32maround is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1068/1084  634/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera             1068/1094  600/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:41] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%1068/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You say '%          All [0m[32maround is a dense fog. You can see maybe.'.'[0m
+Elmoth [35m[wanted]:[0m summon
+[1;37mEnochian [0;52m(party):[1;37m yllättävää et gorge ei noudattanu ohjeit tuol :D[0m
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%1068/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You say '% e.'.'[0m
+la arena
+[56mTICK IN 5 SECONDS.[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge            1068/1084  634/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera             1068/1094  600/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:45] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest exclaims '%No pera here !'[0m
+[32mSirdest says '%1068/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You exclaim '%No pera [0m[32mhere !'.'[0m
+[1;30mInfo: Misterr enters the game.[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             861/1084  634/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera             1068/1094  583/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:47] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mCilwand says 'jaa 2x2.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Pera.'[0m
+[32mSirdest says '%You miss Pera.'[0m
+[32mSirdest says '%Pera stomp-kicks you in the thigh.'[0m
+[32mSirdest says '%You successfully dodge Pera's attack.'[0m
+[32mSirdest says '%861/1084-207 634/809 369/396 Xp1799.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%861/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You miss Pera.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             861/1084  634/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera             1068/1094  583/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:48] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Mandigal arrives from down.
+Trubadurix arrives from down.
+[32mSirdest says '% cast Word of blasting.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%861/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You say '% cast Word of [0m[32mblasting.'.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Pera.'[0m
+[32mSirdest says '%Pera successfully dodges your futile pierce.'[0m
+[32mSirdest says '%Pera punches you in the thigh.'[0m
+[32mSirdest says '%You successfully parry Pera's attack.'[0m
+[32mSirdest says '%829/1084-32 634/809 369/396 Xp1799.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%829/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You miss Pera.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             829/1084  634/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera             1068/1094  583/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:51] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Pera is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%829/1084 634/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Pera is in [0m[32mexcellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%You speak the ancient Word of Blasting 'hraugh' [57m(Word of blasting)[32m.'[0m
+[32mSirdest says '%A glowing yellow mystical symbol appears in the air before Pera.'[0m
+[32mSirdest says '%You watch with selfpride as your word of blasting hits Pera.'[0m
+[32mSirdest says '%829/1084 519/809-115 369/396 Xp1799.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Pera successfully dodges your futile slash.'[0m
+[32mSirdest says '%You bore Pera causing a small wound.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%829/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You watch with [0m[32mselfpride as your word of blasting hits Pera.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             829/1084  519/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              825/1094  583/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:54] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%829/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You start [0m[32mchanting.'.'[0m
+[1;37mMardus [0;52m<party>:[1;37m jaa kohelsiko :D[0m
+[1;30mInfo: Viol goes link dead.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%Pera successfully dodges your futile slash.'[0m
+[32mSirdest says '%You puncture Pera producing large scratches.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%Pera shreds air with his hands and screams 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.'[0m
+[32mSirdest says '%Pera shreds air with his hands and screams 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.'[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%729/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You puncture [0m[32mPera producing large scratches.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             729/1084  519/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              787/1094  472/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:56] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% xx.'[0m
+[32mSirdest says '%Pera is slightly hurt.'[0m
+[32mSirdest says '%729/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '% xx.'.'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%729/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You try to act [0m[32mbut just blank out, losing focus.'.'[0m
+la arena
+[31mGuard shouts 'Elmoth just made my day!'[0m
+[1;30mInfo: Elmoth dies.[0m
+       
+ ####  
+ #.[1;36m1[0m#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             701/1084  519/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              752/1094  472/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:48:59] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%729/1084-100 519/809 369/396 Xp1799.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Pera producing large scratches.'[0m
+[32mSirdest says '%You miss Pera.'[0m
+[32mSirdest says '%Pera punches you in the thigh.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%701/1084-28 519/809 369/396 Xp1799.'[0m
+[32mSirdest says '%Guard shouts 'Elmoth just made my day!'.'[0m
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%701/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%% s.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%701/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '%729/1084-100 [0m[32m519/809 369/396 Xp1799.'.'[0m
+[32mSirdest says '%Gorge [52m[party]:[32m [Out Of Stun].'[0m
+[32mSirdest says '%701/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mCilwand says 'jai venailee sit clawia.'[0m
+[32mSirdest says '%701/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You cut Pera [0m[32mproducing large scratches.'.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%701/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You miss Pera.'.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%701/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Pera punches you [0m[32min the thigh.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%701/1084 519/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You are not in a [0m[32mparty.'.'[0m
+la arena
+[32mAzgaroth says 'Hp: 913 (913) Sp: 516 (516) Ep: 374 (374).'[0m
+       
+ ####  
+ #..#  
+ #[1;36m21[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             701/1084  519/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              752/1094  472/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:01] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mCilwand says 'nerokasta.'[0m
+[32mSirdest says '%Spider Queen smiles upon you and helps you control the demon.'[0m
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%Cilwand says 'nerokasta.'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #..#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             701/1084  502/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              752/1094  472/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:03] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '% e.'.'[0m
+[32mSirdest says '% s.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '% s.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '%          All [0m[32maround is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ####  
+ #.[1;36m1[0m#  
+ #[1;36m2[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             701/1084  502/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              752/1094  472/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:05] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '% w.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '%          All [0m[32maround is a dense fog. You can see maybe.'.'[0m
+Ghost of Elmoth [31m[ghost]:[0m ress please 150k on
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '% e.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+la arena
+       
+ ####  
+ #[1;36m1[0m.#  
+ #.[1;36m2[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             701/1084  502/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              752/1094  472/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:08] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '%          All [0m[32maround is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%%Pera arrives from north.'[0m
+Spiral [31m(ghost):[0m accept
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '% e.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             701/1084  502/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              752/1094  472/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:10] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+Tyro [35m[wanted]:[0m thump/stroke/thrust
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Pera the member of Catfolk < asf > <team 1>.'[0m
+[32mSirdest says '%701/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '% w.'.'[0m
+[32mSirdest says '% kill pera.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Pera.'[0m
+[32mSirdest says '%You bore Pera causing a third degree acid burn.'[0m
+[32mSirdest says '%Pera seems [51mhurt and confused[32m.'[0m
+[32mSirdest says '%Pera punches you in the thigh.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%672/1084-29 502/809 369/396 Xp1799.'[0m
+[32mSirdest says '%672/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '% kill pera.'.'[0m
+la arena
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%672/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You are not in a [0m[32mparty.'.'[0m
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             672/1084  502/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              688/1094  443/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:12] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%672/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You start [0m[32mchanting.'.'[0m
+[56mTICK IN 5 SECONDS.[0m
+[1;37mMardus [0;52m<party>:[1;37m u started this shit and now ur complaing cry me a fucking river what [0m[1;37mare 5?[0m
+[32mSirdest says '%Word of blasting: #.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You tear Pera causing a small wound.'[0m
+[32mSirdest says '%You STUN Pera, who loses connection to reality.'[0m
+[32mSirdest says '%...WHO breaks the stun quickly off with intense concentration.'[0m
+[32mSirdest says '%You bore Pera causing a third degree acid burn.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%672/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '%...WHO breaks [0m[32mthe stun quickly off with intense concentration.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             672/1084  502/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              588/1094  443/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:14] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%Pera is noticeably hurt.'[0m
+[32mSirdest says '%672/1084 502/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Pera is [0m[32mnoticeably hurt.'.'[0m
+[32mSirdest says '%You speak the ancient Word of Blasting 'hraugh' [57m(Word of blasting)[32m.'[0m
+[32mSirdest says '%A glowing yellow mystical symbol appears in the air before Pera.'[0m
+[32mSirdest says '%You watch with selfpride as your word of blasting hits Pera.'[0m
+[32mSirdest says '%672/1084 387/809-115 369/396 Xp1799.'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Pera.'[0m
+[32mSirdest says '%You sink Pera making outer muscle tissue corrode.'[0m
+[32mSirdest says '%You successfully dodge Pera's attack.'[0m
+[32mSirdest says '%Pera stomp-kicks you just below the chin.'[0m
+[32mSirdest says '%628/1084-44 387/809 369/396 Xp1799.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%628/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say [0m[32m'%*****************************************************.'.'[0m
+Sitan [35m[wanted]:[0m thanks
+[32mAzgaroth says 'Hp: 913 (913) Sp: 516 (516) Ep: 374 (374).'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             628/1084  387/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              305/1094  443/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:18] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% cast Word of blasting.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%628/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '% cast Word of [0m[32mblasting.'.'[0m
+[32mSirdest says '%Pera is in bad shape.'[0m
+[32mSirdest says '%628/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Pera is in bad [0m[32mshape.'.'[0m
+[32mSirdest says '%You miss Pera.'[0m
+[32mSirdest says '%Pera successfully dodges your futile pierce.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%You successfully dodge Pera's attack.'[0m
+[32mSirdest says '%Pera shreds air with his hands and screams 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.'[0m
+[32mSirdest says '%Pera shreds air with his hands and screams 'Haii!' [57m(Tiger claw/Shadow [0m[57mleap)[32m.'[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Pera [0m[32msuccessfully dodges your futile pierce.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You exclaim '%Suddenly [0m[32msomeone is trying to claw his way out of your body!'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             536/1084  387/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              305/1094  332/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:21] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest exclaims '%You stagger in confusion!'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You exclaim '%You stagger [0m[32min confusion!'.'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You try to act [0m[32mbut just blank out, losing focus.'.'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You try to act [0m[32mbut just blank out, losing focus.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             536/1084  387/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              305/1094  332/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:23] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '% ne.'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '% ne.'.'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You try to act [0m[32mbut just blank out, losing focus.'.'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You try to act [0m[32mbut just blank out, losing focus.'.'[0m
+[32mCilwand PUUHs.[0m
+[32mSirdest says '% n.'[0m
+[32mSirdest exclaims '%You stagger in confusion!'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: e, s and se.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '% n.'.'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Obvious exits [0m[32mare: e, s and se.'.'[0m
+[32mSirdest says '%You try to act but just blank out, losing focus.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%536/1084 387/809 [0m[32m369/396 Kg>15 $>0 Xp>1799>%You say '%Obvious exits.'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mGeroth buzzes 'imipäs kunnon stunnit.'[0m
+[32mSirdest says '% party say [Out Of Stun].'[0m
+[32mSirdest says '%Gorge [52m[party]:[32m [Out Of Stun].'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '% party say [Out [0m[32mOf Stun].'.'[0m
+la arena
+       
+ ####  
+ #[1;36m2[0m.#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             536/1084  387/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              305/1094  332/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:26] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+Ghost of Elmoth [31m[ghost]:[0m got
+[32mSirdest says '%Obvious exits are: w, sw and s.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%          All [0m[32maround is a dense fog. You can see maybe.'.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You cannot go [0m[32mthat way.'.'[0m
+[32mSirdest says '%You cannot go that way.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You cannot go [0m[32mthat way.'.'[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%          All [0m[32maround is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m12[0m#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             536/1084  387/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              305/1094  332/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:29] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;37mZinko [0;53m(fall+):[1;37m turbo goblini oli sit[0m
+[32mSirdest says '%          All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: n, ne and e.'[0m
+[32mSirdest says '%Pera the member of Catfolk < asf > <team 1>.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%          All [0m[32maround is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             536/1084  387/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              305/1094  332/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:32] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Pera sparking a limb to slice open.'[0m
+[32mSirdest says '%Pera successfully dodges your futile pierce.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%You successfully dodge Pera's attack.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say [0m[32m'%*****************************************************.'.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You successfully [0m[32mdodge Pera's attack.'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You start [0m[32mchanting.'.'[0m
+Shar [35m(wanted):[0m conjumage
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             536/1084  387/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              270/1094  332/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:34] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mSirdest says 'spidsor.'[0m
+[32mSirdest says '%Pera is in bad shape.'[0m
+[32mSirdest says '%536/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Pera is in bad [0m[32mshape.'.'[0m
+[32mSirdest says '%You cut Pera sparking a limb to slice open.'[0m
+[32mSirdest exclaims '%Pera tries to dodge your hit, but you are not fooled that easily!'[0m
+[32mSirdest says '%You bore Pera causing the collarbone to corrode in half.'[0m
+[32mSirdest says '%You successfully dodge Pera's attack.'[0m
+[32mSirdest says '%You try to dodge, but Pera is not fooled.'[0m
+[32mSirdest says '%Pera punches you in the thigh.'[0m
+[32mSirdest says '%512/1084-24 387/809 369/396 Xp1799.'[0m
+[32mSirdest says '%Word of blasting: #.'[0m
+[32mSirdest says '%Pera crosses his arms and opens them, throwing dark shurikens in all [0m[32mdirections.'[0m
+[32mSirdest exclaims '%Pera crosses his arms and opens them with a lightning fast move!'[0m
+[32mSirdest says '%Pera's shurikens fly in all directions! Fortunately they miss you.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%512/1084 387/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Pera punches you [0m[32min the thigh.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             512/1084  387/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              180/1094  221/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:36] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[1;37mDupre [0;53m(fall+):[1;37m bittuku muisti sit yllättäe taas vääri mitä oli toiset mosat tääl ni [0m[1;37mjoutu säätää commandei tääl viel[0m
+[32mMathieu goes 'Heh' at Azgaroth.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You miss Pera.'[0m
+[32mSirdest says '%You miss Pera.'[0m
+[32mSirdest says '%Pera misses you.'[0m
+[32mSirdest says '%You successfully dodge Pera's attack.'[0m
+[32mSirdest says '%You are done with the chant.'[0m
+[32mSirdest says '%You speak the ancient Word of Blasting 'hraugh' [57m(Word of blasting)[32m.'[0m
+[32mSirdest says '%A glowing yellow mystical symbol appears in the air before Pera.'[0m
+[32mSirdest says '%You watch with selfpride as your word of blasting hits Pera.'[0m
+[32mSirdest says '%Pera lapses into [51munconscious[32mness from severe loss of blood.'[0m
+[32mSirdest says '%Pera seems [51mhurt and confused[32m.'[0m
+[32mSirdest says '%512/1084 272/809-115 369/396 Xp1799.'[0m
+[32mSirdest says '%Blood pours from Pera's wounds.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%512/1084 272/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You miss Pera.'.'[0m
+[32mSirdest says '%Gorge [52m[party]:[32m [Pera is going down DD now].'[0m
+[32mSirdest says '%512/1084 272/809 369/396 Kg>15 $>0 Xp>1799>%You say '%512/1084 [0m[32m272/809-115 369/396 Xp1799.'.'[0m
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             512/1084  272/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera              -50/1094  221/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:40] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+
+[32mCilwand smirks.[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Pera causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%Deocide draws strength from you...'[0m
+[32mSirdest says '%You bore Pera causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%512/1084 272/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You cut Pera [0m[32mcausing heart tissue to fly everywhere.'.'[0m
+[32mSirdest says '%Pera is near death.'[0m
+[32mSirdest says '%512/1084 272/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Pera is near [0m[32mdeath.'.'[0m
+[32mJuo claps.[0m
+Juo leaves down.
+la arena
+       
+ ####  
+ #..#  
+ #[1;36m1[0m.#  
+ ####  
+       
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Gorge             512/1084  272/809  |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Pera             -146/1094  221/636  |                                      |
+`-----------------------------------------------------------------------------'
+[21:49:43] hp 543/543  sp 1134/1134  ep 265/265  xp 10463  $ 4940/5987  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Pera causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You sink Pera causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%Blood pours from Pera's wounds.'[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%512/1084 272/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Blood pours from [0m[32mPera's wounds.'.'[0m
+[32mSirdest says '%You start chanting.'[0m
+[32mSirdest says '%512/1084 272/809 369/396 Kg>15 $>0 Xp>1799>%You say '%You start [0m[32mchanting.'.'[0m
+[32mKrokodiili exclaims 'avoid!'[0m
+[32mSirdest says '%*****************************************************.'[0m
+[32mSirdest says '%You cut Pera causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%You take a strong hold of Deocide's shaft...'[0m
+[32mSirdest says '%You puncture Pera causing heart tissue to fly everywhere.'[0m
+[32mSirdest says '%Word of blasting: #.'[0m
+[32mFil cheers enthusiastically.[0m
+[32mSirdest says '%You are not in a party.'[0m
+[32mSirdest says '%512/1084 272/809 369/396 Kg>15 $>0 Xp>1799>%You say '%Word of [0m[32mblasting: #.'.'[0m
+The arena master shouts 'Pera of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Gorge'

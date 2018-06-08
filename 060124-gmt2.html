@@ -1,0 +1,982 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>gmt #2</title>
+<style>
+<!--
+SPAN.bolddefaultfore {color: #FFFFFF}
+SPAN.reversedefaultfore {background-color: #C0C0C0}
+SPAN.reversebolddefaultfore {background-color: #FFFFFF}
+SPAN.reversedefaultback {color: #000000}
+SPAN.fore0 {color: #000000}
+SPAN.reversefore0 {background-color: #000000}
+SPAN.fore1 {color: #000080}
+SPAN.reversefore1 {background-color: #000080}
+SPAN.fore2 {color: #00B300}
+SPAN.reversefore2 {background-color: #00B300}
+SPAN.fore3 {color: #008080}
+SPAN.reversefore3 {background-color: #008080}
+SPAN.fore4 {color: #800000}
+SPAN.reversefore4 {background-color: #800000}
+SPAN.fore5 {color: #800080}
+SPAN.reversefore5 {background-color: #800080}
+SPAN.fore6 {color: #808000}
+SPAN.reversefore6 {background-color: #808000}
+SPAN.fore7 {color: #C0C0C0}
+SPAN.reversefore7 {background-color: #C0C0C0}
+SPAN.fore8 {color: #808080}
+SPAN.reversefore8 {background-color: #808080}
+SPAN.fore9 {color: #0000FF}
+SPAN.reversefore9 {background-color: #0000FF}
+SPAN.fore10 {color: #00FF00}
+SPAN.reversefore10 {background-color: #00FF00}
+SPAN.fore11 {color: #00FFFF}
+SPAN.reversefore11 {background-color: #00FFFF}
+SPAN.fore12 {color: #FF0000}
+SPAN.reversefore12 {background-color: #FF0000}
+SPAN.fore13 {color: #FF00FF}
+SPAN.reversefore13 {background-color: #FF00FF}
+SPAN.fore14 {color: #FFFF00}
+SPAN.reversefore14 {background-color: #FFFF00}
+SPAN.fore15 {color: #FFFFFF}
+SPAN.reversefore15 {background-color: #FFFFFF}
+SPAN.back0 {background-color: #000000}
+SPAN.reverseback0 {color: #000000}
+SPAN.back1 {background-color: #000080}
+SPAN.reverseback1 {color: #000080}
+SPAN.back2 {background-color: #008000}
+SPAN.reverseback2 {color: #008000}
+SPAN.back3 {background-color: #008080}
+SPAN.reverseback3 {color: #008080}
+SPAN.back4 {background-color: #800000}
+SPAN.reverseback4 {color: #800000}
+SPAN.back5 {background-color: #800080}
+SPAN.reverseback5 {color: #800080}
+SPAN.back6 {background-color: #808000}
+SPAN.reverseback6 {color: #808000}
+SPAN.back7 {background-color: #FFFFFF0FFFFFFF01FFFFFF01}
+SPAN.reverseback7 {color: #FFFFFF0FFFFFFF01FFFFFF01}
+BODY {color: #C0C0C0; background-color: #000000}
+PRE {font-family: "Courier", monospace}
+-->
+</style>
+<SCRIPT type="text/javascript">
+<!--
+function doBlink() {
+	var blink = document.all.tags("BLINK")
+	for (var i=0; i<blink.length; i++)
+		blink[i].style.visibility = blink[i].style.visibility == "" ? "hidden" : "" 
+}
+function startBlink() {
+	if (document.all)
+		setInterval("doBlink()",1000)
+}
+window.onload = startBlink;
+// -->
+</SCRIPT>
+</head><body><pre><span class="fore15">Kyo </span><span class="fore10">(party):</span><span class="fore15"> meni
+</span>pss
+Slobber sings: 'What child is this, who laid to rest on Mary's lap is sleeping, angels greet with anthems sweet while shepherds guard are keeping? This, this is Christ the king, whom shepherds guard and angels sing. Haste, haste to bring him laude the babe, the son of Mary!' <span class="fore15">(Campfire tune)
+</span>,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore9"> fol 1265(1265)  687(1219)</span> 427(477) |  95 |            0 |
+| 1.2   Susette      <span class="fore9"> fol  928( 928)</span> -124(  32) 151(151) |  92 |            0 |
+| 1.3   Milk         <span class="fore9"> fol 1108(1108)  545(1043)</span> 229(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore2"> fol  293( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 2.2   Kyo          <span class="fore9"> ldr  371( 371)</span> 1011(1011) 159(147) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  632(1485)</span> 295(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1696(1696) 207(204) |  90 |            0 |
+| 3.2   Nuane        <span class="fore9"> fol  211( 211)</span> 1299(1392) 147(146) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore9"> fol  375( 375)</span> 1294(1539) 154(154) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[19:12:19] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore8">Info: Jekkar enters the game.
+</span>Kyo leaves southeast.
+Susette leaves southeast.
+Milk floods southeast.
+Cyberlahko retreats southeast.
+Zinko leaves southeast.
+Shar leaves southeast.
+The new Torturing ch<span class="fore14">amber</span>, the Hall of utter Torment (<span class="fore15">downnortheast</span>,<span class="fore15">nw</span>).
+Shar Apollyon the Lich
+<span class="fore2">Zinko Voimapaallikko the deadly Vampire menetti titlensa &lt; Kukkonen tykittää! >
+Cyberlahko Sai Laivalla Turpaan the Zombie &lt; Kukkonen tykittää! >
+Milk the demented Ent Angelburner &lt; Kukkonen tykittää! >
+Susette is </span><span class="fore12">unconscious</span><span class="fore10"> and needs immediate medical care
+</span><span class="fore2">Kyo Aizu the dark Drow on Kukkosen kaveri.. &lt; Kukkonen tykittää! >
+</span><span class="fore13">the Grand Master Torturer
+</span>Your marvelous intellect avoids a nasty ambush.
+Kerzebel arrives from northwest.
+Grimpold prances in from northwest.
+<span class="fore15">Grimpold </span><span class="fore10">(party):</span><span class="fore15"> haha
+</span>cast 'electrocution' 
+Shar starts concentrating on a new offensive spell.
+You have an unusual feeling as you cast the spell.
+You start chanting.
+<span class="fore11">CASTING CONCEALED.
+</span>[19:12:20] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+Cyberlahko starts concentrating on a new offensive spell.
+Grimpold starts concentrating on a new spell.
+<span class="fore3">Electrocution</span>: <span class="fore15">4
+</span>cast info
+scan all
+pss
+<span class="fore15">*****************************************************
+</span>Milk's flex shield wobbles.
+Milk's flex shield wobbles.
+Milk's flex shield wobbles.
+Torturer hits Milk 4 times causing heart tissue to fly everywhere.
+Shar hits Torturer once producing large scratches.
+You are casting 'electrocution'.
+[19:12:22] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+Torturer<span class="fore15"> is near death. </span>(0-10% hps)
+[19:12:22] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore9"> fol 1265(1265)  687(1219)</span> 427(477) |  95 |            0 |
+| 1.2   Susette       unc -289( 928) -124(  32) 151(151) |  92 |            0 |
+| 1.3   Milk         <span class="fore2"> fol  701( 965)</span><span class="fore14">  545(1043)</span> 229(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore2"> fol  293( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 2.2   Kyo          <span class="fore2"> ldr  371( 374)</span> 1011(1110) 159(149) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  632(1485)</span> 295(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1696(1696) 207(204) |  90 |            0 |
+| 3.2   Nuane        <span class="fore9"> fol  211( 211)</span> 1299(1392) 147(146) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore9"> fol  375( 375)</span> 1294(1539) 154(154) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[19:12:22] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+The world seems to grow dark as Milk meets Torturer's gaze and gravely intones
+'Oblivion has come for you.'
+Torturer looks desperate and panicked.
+<span class="fore11">TICK IN 5 SECONDS.
+</span>x
+Torturer<span class="fore15"> is near death. </span>(0-10% hps)
+[19:12:23] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+Milk starts concentrating on a new offensive spell.
+<span class="fore3">Electrocution</span>: <span class="fore15">3
+</span>cast info
+scan all
+pss
+<span class="fore15">*****************************************************
+</span>A large cavity replaces Susette's chest.
+save
+Susette is DEAD, R.I.P.
+<span class="fore4">Torturer shouts 'Susette drowned in her own blood!'
+</span>Susette dies.
+Susette's corpse is collected by Death, clad in black.
+<span class="fore14">Susette swears and seems to be somewhat confused.
+</span>Torturer hits Susette 7 times causing heart tissue to fly everywhere.
+You are casting 'electrocution'.
+[19:12:25] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore2">Kyo exclaims 'EN VAISTA!'
+</span>Torturer<span class="fore15"> is near death. </span>(0-10% hps)
+[19:12:25] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore9"> fol 1265(1265)  687(1219)</span> 427(477) |  95 |            0 |
+| 1.3   Milk         <span class="fore2"> fol  701( 965)</span><span class="fore14">  545(1043)</span> 229(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore2"> fol  293( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 2.2   Kyo          <span class="fore2"> ldr  371( 374)</span> 1011(1110) 159(149) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  632(1485)</span> 295(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1696(1696) 207(204) |  90 |            0 |
+| 3.2   Nuane        <span class="fore9"> fol  211( 211)</span> 1299(1392) 147(146) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore9"> fol  375( 375)</span> 1294(1539) 154(154) | 100 |            0 |
+| ?.?   Susette     <span class="fore15"> dead    1( 921)</span> -124(  27) 151(148) |  92 |            0 |
+`-----------------------------------------------------------------------------'
+[19:12:25] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+SAVED.
+[19:12:25] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> 1
+</span><span class="fore8">Info: Zenor recovers from link death.
+</span><span class="fore3">Electrocution</span>: <span class="fore15">2
+</span><span class="fore3">Electrocution</span>: <span class="fore15">1 </span>(quick lips)
+The Grand Master Torturer's hands inflict Shar with a
+sickening blue prism of electricity, a thunderous clap following the
+diabolical strike.
+Shar's lifeforce is sucked inside
+the Revered Master.
+party report Shar has gone UNCONSCIOUS!
+Shar lapses into <span class="fore12">unconscious</span>ness from severe loss of blood.
+Shar stops existing in this reality.
+save
+Shar is DEAD, R.I.P.
+<span class="fore4">Torturer shouts 'I hope you have a life insurance, Shar!'
+</span>Shar dies.
+Shar's corpse is collected by Death, clad in black.
+Kyo claps his hands and whispers 'PAF PAF PAF!' <span class="fore15">(Harm body)
+</span>say Kurkota Kukkonen kurkota...
+Kyo fails to touch Torturer.
+Kerzebel waves his index finger while uttering 'cah mar nak grttzt' <span class="fore15">(Cold ray)
+</span>As Kerzebel casts the spell, he pulls out a steel arrowhead which bursts into a million prismatic starbursts.
+<span class="fore9"><span class="back7">Kerzebel grins as his cold ray hits Torturer.
+</span></span>Cyberlahko waves her index finger while uttering 'cah mar nak grttzt' <span class="fore15">(Cold ray)
+</span>As Cyberlahko casts the spell, she pulls out a steel arrowhead which bursts into a million prismatic starbursts.
+<span class="fore9"><span class="back7">Cyberlahko grins as her cold ray hits Torturer.
+</span></span>Zinko is now in the 1st row.
+Kerzebel is now in the 2nd row.
+Kyo is now in the 1st row.
+Nuane is now in the 2nd row.
+cast info
+scan all
+pss
+<span class="fore15">*****************************************************
+</span>party report Kyo has gone UNCONSCIOUS!
+Kyo lapses into <span class="fore12">unconscious</span>ness from severe loss of blood.
+YUCH, Kyo's entrails spill all over the place.
+save
+Kyo is DEAD, R.I.P.
+<span class="fore4">Torturer shouts 'My HAMSTER fights better than you do, Kyo!'
+</span>Kyo dies.
+Milk is the new leader of the party.
+Kyo's corpse is collected by Death, clad in black.
+Torturer hits Kyo 5 times causing heart tissue to fly everywhere.
+<span class="fore8">Info: Cola goes link dead.
+</span><span class="fore15">Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> Shar went UNCON!!!
+Zinko </span><span class="fore10">(party):</span><span class="fore15"> Shar unconciousness, DD!
+Ghost of Shar </span><span class="fore10">(party):</span><span class="fore15"> Back from stun!
+Kerzebel </span><span class="fore8">[report]:</span><span class="fore15"> Writhes (20% resist)
+</span>Cyberlahko starts following the leader.
+Zinko starts following the leader.
+You start following the leader.
+Kerzebel starts following the leader.
+Grimpold starts following the leader.
+<span class="fore15">Ghost of Shar </span><span class="fore8">(report):</span><span class="fore15"> Unpain expires
+Cyberlahko </span><span class="fore8">{report}:</span><span class="fore15"> Torturer resists 20% (cold)
+</span><span class="fore10">[party]:</span><span class="fore15"> Milk leads now, get in the line and STFU
+Nuane </span><span class="fore8">(report):</span><span class="fore15"> Shar has gone </span><span class="fore12">UNCONSCIOUS</span><span class="fore15">!
+</span>[19:12:28] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> Kyo went UNCON!!!
+Zinko </span><span class="fore10">(party):</span><span class="fore15"> Kyo unconciousness, DD!
+</span>SAVED.
+[19:12:28] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+You echo 'Kurkota Kukkonen kurkota...'
+[19:12:28] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore10">(party):</span><span class="fore15"> Ghost of Kyo is no longer stunned.
+</span>You are casting 'electrocution'.
+[19:12:28] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+Torturer<span class="fore15"> is near death. </span>(0-10% hps)
+[19:12:28] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Zinko        <span class="fore2"> fol  290( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 1.3   Milk         <span class="fore2"> ldr  699( 964)</span><span class="fore14">  545(1043)</span> 229(233) | 100 |            0 |
+| 2.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1579(1696) 207(204) |  90 |            0 |
+| 2.2   Nuane        <span class="fore9"> fol  211( 211)</span> 1299(1392) 147(146) |  90 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  632(1485)</span> 295(152) | 100 |            0 |
+| 3.3   Cyberlahko   <span class="fore9"> fol  375( 375)</span> 1200(1539) 154(154) | 100 |            0 |
+| ?.?   Kyo         <span class="fore15"> dead    1( 371)</span><span class="fore10">  910(1011)</span> 159(147) |  86 |            0 |
+| ?.?   Susette     <span class="fore15"> dead    1( 921)</span> -124(  27) 151(148) |  92 |            0 |
+| ?.?   Shar        <span class="fore15"> dead    1( 761)  687( 922)</span> 427(237) |  95 |            0 |
+`-----------------------------------------------------------------------------'
+[19:12:28] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Nuane </span><span class="fore8">(report):</span><span class="fore15"> Kyo has gone </span><span class="fore12">UNCONSCIOUS</span><span class="fore15">!
+</span>[19:12:28] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+SAVED.
+[19:12:28] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+Grimpold claps her hands and whispers 'judicandus puorgo mangenic' <span class="fore15">(Major party heal)
+</span>flook
+<span class="fore2">Milk booms 'Hp: 805 (964) Sp: 545 (1043) Ep: 229 (233).'
+</span>The new Torturing ch<span class="fore14">amber</span>, the Hall of utter Torment (<span class="fore15">downnortheast</span>,<span class="fore15">nw</span>).
+There are numerous torturing gadgets, tables, pedals and other things of the
+art in here. The air feels cold and it is full of dread. You do not like the
+way things are set up here. Everything is twisted, sick. A grotesque rotting
+smell engulfs you. You can feel the pain this place has made to the poor
+individuals interrogated by the Grand Master Torturer.
+Obvious exits are: <span class="fore15">downnortheast</span> and <span class="fore15">nw</span>.
+<span class="fore2">Grimpold Snow the transparent Shadow of a nun &lt; Kukkonen tykittää! >
+Kerzebel Kirkkoherra the Thrikhren syövyttää butit. &lt; Kukkonen tykittää! >
+Zinko Voimapaallikko the deadly Vampire menetti titlensa &lt; Kukkonen tykittää! >
+Cyberlahko Sai Laivalla Turpaan the Zombie &lt; Kukkonen tykittää! >
+Milk the demented Ent Angelburner &lt; Kukkonen tykittää! >
+</span><span class="fore13">the Grand Master Torturer
+</span>[19:12:30] hp 211/211  sp 1299/1392  ep 147/146  xp 48  $ 3050/95  wimpy off
+
+Cyberlahko retreats northwest.
+Cyberlahko left somewhere.
+<span class="fore8">Info: Cola recovers from link death.
+</span><span class="fore14"><span class="back2">You are done with the chant.
+</span></span>You fill up your cheeks with air and exhale 'zot mar nak grttzt' <span class="fore15">(Electrocution)
+</span>You pull out a small piece of electrum wire which bursts into a zillion technicolour sparkles!
+<span class="fore4"><span class="back1">You watch with selfpride as your electrocution hits Torturer.
+</span></span>party report lvl 1 damcrit
+You feel like your spell gained additional power.
+Your fine choice of components lowers the effort of the spell.
+hp <span class="fore2">211</span>/211 () | sp <span class="fore3">1197</span>/1392 (<span class="fore4">-102</span>) | ep <span class="fore10">147</span>/146 ()
+Grimpold has been CURSED.
+Kerzebel has been CURSED.
+You feel yourself full again, as the curse of The Grand Master Torturer
+lifts off from your wrecked body. Your condition improves at once.
+The Grand Master Torturer takes your hand and locks up into a waltz
+with you! One, two, three,.. One, two, three,.. Your feel your bodily
+health waning away as the dance goes on and on.. You have been CURSED.
+Nuane has been CURSED.
+Zinko has been CURSED.
+Milk has been CURSED.
+Zinko claps her hands and whispers 'PAF PAF PAF!' <span class="fore15">(Harm body)
+</span>nw
+Zinko casts a harming spell on Torturer.
+Nuane is now in the 1st row.
+cast info
+scan all
+pss
+<span class="fore15">*****************************************************
+</span>party report It hurts it hurts :(
+That really <span class="fore4">HURT</span>!
+You wish your wounds would stop <span class="fore4">BLEEDING</span> so much!
+party report No longer stunned.
+You are no longer stunned.
+You fall <span class="fore12">unconscious</span> from the pain.
+party report It hurts it hurts :(
+That really <span class="fore4">HURT</span>!
+You lose your muscle control as electricity <span class="fore4">JOLTS</span> through you!
+
+<span class="fore4">You die.
+</span>You have a strange feeling.
+You can see Death, clad in black, collect your corpse.
+
+ERONIA, the second world of ELYSIUM ().
+<span class="fore15">Ghost of Nuane </span><span class="fore8">(report):</span><span class="fore15"> lvl 1 damcrit
+</span>[19:12:31] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+You are a ghost. You may use ghost channel or 'pray' here.
+[19:12:31] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Andthi [party(HOMOPARAATI HOMOILLE)]: Raise Dead -> milk
+</span>You are a ghost. You may use ghost channel or 'pray' here.
+[19:12:31] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+Kerzebel left somewhere.
+<span class="fore15">Zinko </span><span class="fore10">(party):</span><span class="fore15"> Nuane IS </span><span class="fore12">UNCONSCIOUS
+</span>You are a ghost. You may use ghost channel or 'pray' here.
+[19:12:31] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Zinko        <span class="fore9"> fol  345( 345)</span> 1123(1138) 146(146) |  90 |            0 |
+| 1.3   Milk         <span class="fore2"> ldr  805( 964)</span><span class="fore14">  541(1043)</span> 229(233) | 100 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore12">  546(1485)</span> 295(152) | 100 |            0 |
+| ?.?   Cyberlahko   <span class="fore9"> mbr  375( 375)</span> 1238(1539) 154(154) | 100 |            0 |
+| ?.?   Kyo         <span class="fore15"> dead    1( 371)</span><span class="fore10">  910(1011)</span> 159(147) |  86 |            0 |
+| ?.?   Susette     <span class="fore15"> dead    1( 921)</span> -124(  27) 151(148) |  92 |            0 |
+| ?.?   Shar        <span class="fore15"> dead    1( 761)  687( 922)</span> 427(237) |  95 |            0 |
+| ?.?   Nuane       <span class="fore15"> dead    1( 208)</span> 1197(1272) 147(144) |  90 |            0 |
+| ?.?   Kerzebel     <span class="fore9"> mbr  238( 238)</span> 1579(1696) 207(204) |  90 |            0 |
+`-----------------------------------------------------------------------------'
+[19:12:31] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Ghost of Nuane </span><span class="fore8">(report):</span><span class="fore15"> It hurts it hurts :(
+</span>[19:12:31] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Ghost of Susette </span><span class="fore10">(party):</span><span class="fore15"> accepted raise dead from Enochian.
+Ghost of Nuane </span><span class="fore8">(report):</span><span class="fore15"> No longer stunned.
+</span>[19:12:31] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Ghost of Nuane </span><span class="fore8">(report):</span><span class="fore15"> It hurts it hurts :(
+</span>[19:12:31] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Ghost of Shar </span><span class="fore8">(report):</span><span class="fore15"> - Accepted raise from Lordil -
+Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> Nuane went UNCON!!!
+</span>accept rais from enochian
+party report Took raise dead from Enochian.
+You accept raise dead from Enochian.
+[19:12:33] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Ghost of Nuane </span><span class="fore8">(report):</span><span class="fore15"> Took raise dead from Enochian.
+</span>[19:12:33] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Ghost of Kyo </span><span class="fore8">(report):</span><span class="fore15"> accepted rais from Lordil.
+Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> eheheh
+Milk </span><span class="fore10">[party]:</span><span class="fore15"> sainpa habo
+Heidel </span><span class="fore14">&lt;fall+>:</span><span class="fore15"> eikun ei mitään typerä editor vain pisti jutut sekaisin
+Grimpold </span><span class="fore10">(party):</span><span class="fore15"> toi curse o tehty tyhmasti
+Ghost of Kyo </span><span class="fore10">(party):</span><span class="fore15"> fail to reach ja hellii.:(
+</span>Byzant <span class="fore5">(wanted):</span> offtank
+<span class="fore15">Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> zinko paljo makso
+Zinko </span><span class="fore10">(party):</span><span class="fore15"> Full Sp
+Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> habo
+Zinko </span><span class="fore10">(party):</span><span class="fore15"> 15 sp habo :)
+Heidel </span><span class="fore14">&lt;fall+>:</span><span class="fore15"> ootte jo voiton puolella!
+</span><span class="fore8">Info: Shinarae goes link dead.
+</span><span class="fore15">Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> jaahas
+</span>p say hah
+<span class="fore15">Ghost of Nuane </span><span class="fore10">(party):</span><span class="fore15"> hah
+</span>[19:12:47] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Ghost of Kyo </span><span class="fore10">(party):</span><span class="fore15"> :D
+</span><span class="fore4">Kourish shouts 'Humma bites the dust!'
+</span><span class="fore8">Info: Humma dies.
+</span><span class="fore15">Grimpold </span><span class="fore10">(party):</span><span class="fore15"> voi ottaa
+Milk </span><span class="fore10">[party]:</span><span class="fore15"> .4 hp
+Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> nottako tuotako
+Andthi [party(HOMOPARAATI HOMOILLE)]: tapan sen hoarilla!
+Milk </span><span class="fore10">[party]:</span><span class="fore15"> oli habo
+</span><span class="fore11">TICK IN 5 SECONDS.
+</span><span class="fore15">Milk </span><span class="fore10">[party]:</span><span class="fore15"> -4 sp siis
+Andthi [party(HOMOPARAATI HOMOILLE)]: Raise Dead -> milk
+Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> blastista alas siis
+Milk </span><span class="fore10">[party]:</span><span class="fore15"> eli ihan dööd
+</span>The flow ripples and murmurs, relaxing your mind.
+Byzant <span class="fore5">(wanted):</span> barbrep
+<span class="fore15">Heidel </span><span class="fore14">&lt;fall+>:</span><span class="fore15"> ja torturer tunelistalla, luulen
+Enochian (party(HOMOPARAATI HOMOILLE)): failaan, nuane ota jostai
+</span><span class="fore8">Info: Canio goes link dead.
+</span>Cyberlahko starts following the leader.
+Kyo starts following the leader.
+Shar starts following the leader.
+Kerzebel starts following the leader.
+<span class="fore15">Enochian (party(HOMOPARAATI HOMOILLE)): nostan susette
+</span>pss
+,-----------------------------------------------------------------------------.
+| 1.1   Zinko        <span class="fore9"> fol  345( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 1.2   Kyo          <span class="fore4"> fol  101( 371)</span> 1010(1011) 147(147) |  86 |            0 |
+| 1.3   Milk         <span class="fore9"> ldr  964( 964)</span><span class="fore14">  695(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Shar         <span class="fore2"> fol  639( 761)  755( 922)</span> 237(237) |  95 |            0 |
+| 2.2   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1696(1696) 204(204) |  90 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  776(1485)</span> 152(152) | 100 |            0 |
+| 3.3   Cyberlahko   <span class="fore9"> fol  375( 375)</span> 1392(1539) 154(154) | 100 |            0 |
+| ?.?   Susette     <span class="fore15"> dead    1( 921)</span> -124(  27) 151(148) |  92 |            0 |
+| ?.?   Nuane       <span class="fore15"> dead    1( 208)</span> 1197(1272) 147(144) |  90 |            0 |
+`-----------------------------------------------------------------------------'
+[19:13:14] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Milk </span><span class="fore10">[party]:</span><span class="fore15"> nopeesti ny
+</span>Shar is the new leader of the party.
+Milk starts following the leader.
+Cyberlahko starts following the leader.
+Kyo starts following the leader.
+Zinko starts following the leader.
+Kerzebel starts following the leader.
+Grimpold starts following the leader.
+Shar guides Kerzebel to the left side of 3rd row.
+Shar swaps the places of Shar and Zinko.
+accept rais from andthi
+party report Took raise dead from Andthi.
+You accept raise dead from Andthi.
+[19:13:17] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Ghost of Nuane </span><span class="fore8">(report):</span><span class="fore15"> Took raise dead from Andthi.
+</span>[19:13:17] hp 1/208  sp 1197/1272  ep 147/144  xp 48  $ 3050/95  wimpy off
+
+Shar guides Kyo to the middle of 2nd row.
+<span class="fore15">Milk </span><span class="fore8">[report]:</span><span class="fore15"> Lightning Shield off, 14:09
+Milk </span><span class="fore8">[report]:</span><span class="fore15"> Armour of Aether off, 16:07
+Andthi [party(HOMOPARAATI HOMOILLE)]: Raise Dead -> nuane
+</span><span class="fore4">Black cardinal shouts 'Canio just made my day!'
+</span><span class="fore8">Info: Canio dies.
+</span><span class="fore15">Cyberlahko </span><span class="fore10">{party}:</span><span class="fore15"> aoa -> milk
+?ardus </span><span class="fore14">&lt;fall+>:</span><span class="fore15"> hmm :)))
+Shar </span><span class="fore8">(report):</span><span class="fore15"> - Shield of Protection down -
+Kerzebel </span><span class="fore8">[report]:</span><span class="fore15"> AOA -> milk
+</span><span class="fore11">TICK IN 5 SECONDS.
+</span><span class="fore15">Koan [party(HOMOPARAATI HOMOILLE)]: nopeeta ni saadaan alle tunnin torttu
+</span>Sumar <span class="fore5">[wanted]:</span> reloinvis, paying
+<span class="fore15">Andthi [party(HOMOPARAATI HOMOILLE)]: You are casting 'raise dead' at 'nuane'.
+</span>No need to work unless you want to.
+Cozmo <span class="fore4">(ghost):</span> accept from me
+You feel that Broetchen goes <span class="fore12">unconscious</span>.
+<span class="fore8">Info: Broetchen dies.
+</span>Kyo is the new leader of the party.
+<span class="fore15">Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> ajoo ny!
+</span>Milk starts following the leader.
+Cyberlahko starts following the leader.
+Zinko starts following the leader.
+Shar starts following the leader.
+Kerzebel starts following the leader.
+Grimpold starts following the leader.
+<span class="fore15">Kyo </span><span class="fore14">(fall+):</span><span class="fore15"> noni mardus mees idlaa!
+Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> :D
+Grimpold </span><span class="fore10">(party):</span><span class="fore15"> ie saada
+Shar </span><span class="fore8">(report):</span><span class="fore15"> - Flex Shield up -
+</span>Wispy shades of Broetchen <span class="fore4">{ghost}:</span> rais :/
+<span class="fore15">Andthi [party(HOMOPARAATI HOMOILLE)]: You are casting 'raise dead' at 'nuane'.
+Grimpold </span><span class="fore10">(party):</span><span class="fore15"> 1h 20 min about menny
+Enochian (party(HOMOPARAATI HOMOILLE)): no vVITTU faila fail fail fail fail
+Zinko </span><span class="fore10">(party):</span><span class="fore15"> ottiko poisonia
+?ardus </span><span class="fore14">&lt;fall+>:</span><span class="fore15"> höh.
+Cyberlahko </span><span class="fore10">{party}:</span><span class="fore15"> -=> ei &lt;=-
+</span>Shar is the new leader of the party.
+Milk starts following the leader.
+Cyberlahko starts following the leader.
+Kyo starts following the leader.
+Zinko starts following the leader.
+Kerzebel starts following the leader.
+Grimpold starts following the leader.
+You have been RAISED FROM THE DEAD ! 
+You enter the corpse.
+You feel a bit older.
+The deathwater room (<span class="fore15">se</span>,<span class="fore15">ne</span>).
+<span class="fore5">clay dish of green salve labeled as wis_salve</span>, <span class="fore5">three
+clay dishes of brown salve labeled as wis_salve</span>,
+<span class="fore5">clay dish of magenta salve labeled as wis_salve</span> and <span class="fore5">clay dish of
+cyan salve labeled as wis_salve
+</span><span class="fore2">Kyo Aizu the dark Drow on Kukkosen kaveri.. &lt; Kukkonen tykittää! >
+</span>Shar Apollyon the Lich
+<span class="fore2">Grimpold Snow the transparent Shadow of a nun &lt; Kukkonen tykittää! >
+Zinko Voimapaallikko the deadly Vampire menetti titlensa &lt; Kukkonen tykittää! >
+Milk the demented Ent Angelburner &lt; Kukkonen tykittää! >
+Kerzebel Kirkkoherra the Thrikhren syövyttää butit. &lt; Kukkonen tykittää! >
+Cyberlahko Sai Laivalla Turpaan the Zombie &lt; Kukkonen tykittää! >
+Enochian 'Stone Cold' Cthulhumon the dark Drow &lt; HOMOPARAATI HOMOILLE >
+Slobber Muumi the shining member of Tinmen ferret-like atn span &lt; HOMOPARAATI HOMOILLE >
+Andthi Analix the Thrikhren is The Spermdumpster &lt; HOMOPARAATI HOMOILLE >
+Lordil the Owl seeks adventures &lt; HOMOPARAATI HOMOILLE >
+Koan Fakjoorself the Dwarf sways below you &lt; HOMOPARAATI HOMOILLE >
+</span><span class="fore15">Milk </span><span class="fore8">[report]:</span><span class="fore15"> Armour of Aether on
+</span>You start following the leader in your old place.
+Kerzebel removes something.
+pf
+You are already following the party leader.
+[19:13:42] hp 101/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+pss
+
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore14"> ldr  729(1436)  462(1219)</span> 237(656) |  95 |            0 |
+| 1.2   Nuane        <span class="fore14"> fol  101( 208)</span> 1272(1272) 144(144) |  90 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  798(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore9"> fol  345( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 2.2   Kyo          <span class="fore14"> fol  343( 531)</span> 1011(1011) 147(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  892(1485)</span> 152(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1404(1509) 204(205) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore14"> fol  379( 687)</span> 1526(1539) 161(282) | 100 |            0 |
+|*?.?   Susette     <span class="fore15"> dead    1(1392)</span> -124(  27) 151(386) |  92 |            0 |
+`-----------------------------------------------------------------------------'
+[19:13:42] hp 101/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+Shar guides you to the middle of 3rd row.
+tweak shar
+hp <span class="fore14">101</span>/208 (<span class="fore4">-110</span>) | sp <span class="fore2">1272</span>/1272 (<span class="fore2">+75</span>) | ep <span class="fore2">144</span>/144 (<span class="fore4">-3</span>)
+<span class="fore11">Ticked in 1m46s
+Timer now at 30 secs.
+</span>Andthi starts concentrating on a new spell.
+You tweak Shar's nose mischievously.
+[19:13:44] hp 101/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Shar </span><span class="fore8">(report):</span><span class="fore15"> Prots: Flex(0:10)|Aether(2:00)|GElec|WAR
+</span>Cyberlahko starts concentrating on a new spell.
+<span class="fore15">Cyberlahko </span><span class="fore10">{party}:</span><span class="fore15"> lightning shield -> milk
+</span><span class="fore2">Lordil poks.
+Shar wails '| 1.1   Shar         </span><span class="fore14"> ldr  729(1436)  462(1219)</span><span class="fore10"> 237(656) |  95 </span><span class="fore2">|            0 |.'
+Shar wails '| 1.3   Milk         </span><span class="fore9"> fol  964( 964)</span><span class="fore10">  798(1043) 233(233) | 100 </span><span class="fore2">|            0 |.'
+Shar wails '|*?.?   Susette     </span><span class="fore15"> dead    1(1392)</span><span class="fore10"> -124(  27) 151(386) |  92 </span><span class="fore2">|            0 |.'
+</span>pss
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore14"> ldr  729(1436)  462(1219)</span> 237(656) |  95 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  798(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore9"> fol  345( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 2.2   Kyo          <span class="fore14"> fol  343( 531)</span> 1011(1011) 147(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  892(1485)</span> 152(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1404(1509) 204(205) |  90 |            0 |
+| 3.2   Nuane        <span class="fore14"> fol  101( 208)</span> 1272(1272) 144(144) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore14"> fol  379( 687)</span> 1526(1539) 161(282) | 100 |            0 |
+|*?.?   Susette     <span class="fore15"> dead    1(1392)</span> -124(  27) 151(386) |  92 |            0 |
+`-----------------------------------------------------------------------------'
+[19:13:46] hp 101/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+Kerzebel wears something.
+Kerzebel removes something.
+Kerzebel presses the ruby on the golden crown.
+Kerzebel wears something.
+Shar stands firmly and chants 'infernalicus domus arachnid rex' <span class="fore15">(Spider demon channeling)
+</span>Shar stands firmly and chants 'infernalicus domus arachnid rex' <span class="fore15">(Spider demon channeling)
+Koan [party(HOMOPARAATI HOMOILLE)]: eiks resettanu tän partin ku alotettiin
+Milk </span><span class="fore8">[report]:</span><span class="fore15"> Blurred Image/Displacement off, 7:21 [3]
+Milk </span><span class="fore10">[party]:</span><span class="fore15"> susette idlaa sopivasti
+</span>Lordil starts concentrating on a new spell.
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore14"> ldr  729(1436)  429(1219)</span> 237(656) |  95 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  798(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore9"> fol  345( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 2.2   Kyo          <span class="fore14"> fol  343( 531)</span> 1011(1011) 147(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  892(1485)</span> 152(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1404(1696) 204(200) |  90 |            0 |
+| 3.2   Nuane        <span class="fore14"> fol  101( 208)</span> 1272(1272) 144(144) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore14"> fol  379( 687)</span> 1526(1539) 161(282) | 100 |            0 |
+|*?.?   Susette     <span class="fore15"> dead    1(1392)</span> -124(  27) 151(386) |  92 |            0 |
+`-----------------------------------------------------------------------------'
+[19:13:48] hp 101/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+Slobber starts concentrating on a new spell.
+<span class="fore15">Andthi [party(HOMOPARAATI HOMOILLE)]: &lt; War Ensemble DOWN > [12:24]
+</span>Wispy shades of Broetchen <span class="fore4">{ghost}:</span> Custom wand named golden arrow (1/100) explodes!
+Wispy shades of Broetchen <span class="fore4">{ghost}:</span> You feel in contact with the essence of magic.
+An ethereal blue scalpel appears in Koan's hand.
+Koan uses acupuncture on Kerzebel.
+After that Koan performs a plastic surgery operation.
+After the operation Koan smiles happily.
+Grimpold claps her hands and whispers 'judicandus pafzarmus' <span class="fore15">(Major heal)
+</span>Grimpold casts her spell at Shar.
+Enochian invokes the powers of ancient gods and chants 'vokinsalak elfirtluassa' <span class="fore15">(Raise dead)
+</span>Enochian invokes the powers of ancient gods and chants 'vokinsalak elfirtluassa' <span class="fore15">(Raise dead)
+</span>Susette arrives through a loophole in space-time continuum.
+The corpse starts to move.
+<span class="fore15">Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> suseha se idlaa hienosti
+</span>Shar starts concentrating on a new spell.
+pss
+Grimpold starts concentrating on a new spell.
+Susette starts following the leader.
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore2"> ldr 1191(1436)  429(1219)</span> 237(656) |  95 |            0 |
+|*1.2   Susette      <span class="fore15"> fol  101(1392)</span>  -24(  27) 251(386) |  92 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  911(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore9"> fol  345( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 2.2   Kyo          <span class="fore14"> fol  357( 531)</span> 1011(1011) 151(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  790(1485)</span> 152(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1404(1696) 204(200) |  90 |            0 |
+| 3.2   Nuane        <span class="fore14"> fol  101( 208)</span> 1272(1272) 144(144) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore14"> fol  379( 687)</span> 1526(1539) 161(282) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[19:13:51] hp 101/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+pss
+
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore2"> ldr 1191(1436)  429(1219)</span> 237(656) |  95 |            0 |
+| 1.2   Susette      <span class="fore15"> fol  101(1392)</span>  -24(  27) 251(386) |  92 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  911(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore9"> fol  345( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 2.2   Kyo          <span class="fore14"> fol  357( 531)</span> 1011(1011) 151(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  790(1485)</span> 152(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1404(1696) 204(200) |  90 |            0 |
+| 3.2   Nuane        <span class="fore14"> fol  101( 208)</span> 1272(1272) 144(144) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore14"> fol  379( 687)</span> 1526(1539) 161(282) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[19:13:52] hp 101/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+Slobber sings: 'What child is this, who laid to rest on Mary's lap is sleeping, angels greet with anthems sweet while shepherds guard are keeping? This, this is Christ the king, whom shepherds guard and angels sing. Haste, haste to bring him laude the babe, the son of Mary!' <span class="fore15">(Campfire tune)
+</span>Slobber's song heals some of your wounds.
+hp <span class="fore3">193</span>/208 (<span class="fore2">+92</span>) | sp <span class="fore2">1272</span>/1272 () | ep <span class="fore2">144</span>/144 ()
+Andthi claps her hands and whispers 'judicandus pafzarmus' <span class="fore15">(Major heal)
+</span>Andthi's spell makes you feel all better!
+Koan starts concentrating on a new skill.
+<span class="fore15">Milk </span><span class="fore8">[report]:</span><span class="fore15"> Shield of Protection off, 5:11
+</span>Kyo is the new leader of the party.
+Milk starts following the leader.
+Cyberlahko starts following the leader.
+Susette starts following the leader.
+Zinko starts following the leader.
+Shar starts following the leader.
+You start following the leader.
+Kerzebel starts following the leader.
+Grimpold starts following the leader.
+Shar stands firmly and chants 'infernalicus domus arachnid rex' <span class="fore15">(Spider demon control/sacrifice)
+</span>Shar stands firmly and chants 'infernalicus domus arachnid rex' <span class="fore15">(Spider demon control/sacrifice)
+</span>Lordil claps his hands and whispers 'judicandus pafzarmus' <span class="fore15">(Major heal)
+</span>Lordil casts his spell at Shar.
+hp <span class="fore2">208</span>/208 (<span class="fore2">+15</span>) | sp <span class="fore2">1272</span>/1272 () | ep <span class="fore2">144</span>/144 ()
+Grimpold claps her hands and whispers 'judicandus puorgo mangenic' <span class="fore15">(Major party heal)
+</span>Shar starts concentrating on a new skill.
+<span class="fore15">Kyo </span><span class="fore10">(party):</span><span class="fore15"> healit ja meni
+</span><span class="fore8">Info: Trement recovers from link death.
+</span>Rocker <span class="fore4">(ghost):</span> accept
+Andthi starts concentrating on a new spell.
+<span class="fore15">Andthi [party(HOMOPARAATI HOMOILLE)]: Flex Shield -> susette
+</span>pss
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore9"> fol 1436(1436)  509(1219)</span> 258(656) |  95 |            0 |
+| 1.2   Susette      <span class="fore4"> fol  408(1392)</span>  -24(  27) 251(386) |  92 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  911(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore9"> fol  345( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| 2.2   Kyo          <span class="fore2"> ldr  498( 531)</span> 1011(1011) 151(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  862(1485)</span> 152(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1524(1696) 204(200) |  90 |            0 |
+| 3.2   Nuane        <span class="fore9"> fol  208( 208)</span> 1272(1272) 144(144) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore2"> fol  571( 687)</span> 1526(1539) 161(282) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[19:13:57] hp 208/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore8">Info: Souc recovers from link death.
+</span><span class="fore15">Grimpold </span><span class="fore10">(party):</span><span class="fore15"> kelta sen accepti o?
+</span><span class="fore4">[ghost]:</span> Stargazer cheers enthusiastically.
+Cyberlahko utters the magic words 'ohm' <span class="fore15">(Lightning shield)
+</span>As Cyberlahko casts the spell, she pulls out a small iron rod which bursts into a million prismatic starbursts.
+<span class="fore15">Susette </span><span class="fore10">(party):</span><span class="fore15"> odottelin että eno nostaa =)
+Milk </span><span class="fore8">[report]:</span><span class="fore15"> Lightning Shield on
+</span>party report Curses: Degen(6m52s) ('twirl nuane' to see this)
+<span class="fore15">Nuane </span><span class="fore8">(report):</span><span class="fore15"> Curses: Degen(6m52s) ('twirl nuane' to see this)
+</span>[19:13:59] hp 208/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Enochian (party(HOMOPARAATI HOMOILLE)): se mitää failaa ku odotti raisea
+Koan [party(HOMOPARAATI HOMOILLE)]: tää parti on 59min
+</span>Cyberlahko starts concentrating on a new skill.
+Grimpold starts concentrating on a new spell.
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore9"> fol 1436(1436)  509(1219)</span> 258(656) |  95 |            0 |
+| 1.2   Susette      <span class="fore4"> fol  447(1392)</span>  -22(  27) 257(386) |  92 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  911(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore2"> fol  345( 347)</span> 1138(1253) 146(148) |  90 |            0 |
+| 2.2   Kyo          <span class="fore2"> ldr  498( 531)</span> 1011(1011) 151(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  862(1485)</span> 152(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1524(1696) 204(200) |  90 |            0 |
+| 3.2   Nuane        <span class="fore9"> fol  208( 208)</span> 1272(1272) 144(144) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore2"> fol  575( 687)</span> 1482(1539) 169(282) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[19:14:02] hp 208/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+<span class="fore11">Lance used 46m49s ago
+Titan stomp used 0 ago
+Demonic ring available
+Orb not available (used 1500m15s ago)
+Rod not available (used 0 ago)
+Ankh used 0 ago
+Nzap used 0 ago
+Theal used 0 ago
+Wrath available
+
+</span>An ethereal blue scalpel appears in Koan's hand.
+Grimpold claps her hands and whispers 'judicandus zapracus' <span class="fore15">(True heal)
+</span>Grimpold casts her spell at Susette.
+Andthi traces fiery blue runes in the air '^ !)' <span class="fore15">(Flex shield)
+</span>Andthi's druidstaff is surrounded by a sudden cloudburst, and you can see her
+ glorying in sheer power.
+You sense Susette's body being covered by a flex shield.
+<span class="fore15">Susette </span><span class="fore10">(party):</span><span class="fore15"> ( Flex Shield UP ) {Cast by Andthi}
+Enochian (party(HOMOPARAATI HOMOILLE)): failaa ku siis idlee
+</span>Crx <span class="fore5">[wanted]:</span> blaster
+<span class="fore11">TICK IN 5 SECONDS.
+</span>Cyberlahko performs a solemn ceremony to please Aveallis.
+Andthi starts concentrating on a new spell.
+<span class="fore15">Andthi [party(HOMOPARAATI HOMOILLE)]: Unpain -> susette
+</span><span class="fore2">Lordil poks.
+Shar wails '| 1.1   Shar         </span><span class="fore9"> fol 1436(1436)  509(1219)</span><span class="fore10"> 258(656) |  95 </span><span class="fore2">|            0 |.'
+Shar wails '| 1.2   Susette       fol 1137(1450)  -22(  32) 257(402) |  92 |            0 |.'
+Shar wails '| 1.3   Milk         </span><span class="fore9"> fol  964( 964)</span><span class="fore10">  911(1043) 233(233) | 100 </span><span class="fore2">|            0 |.'
+</span>Grimpold starts concentrating on a new spell.
+<span class="fore15">Enochian (party(HOMOPARAATI HOMOILLE)): minä failin
+</span>Koan starts concentrating on a new spell.
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Shar         <span class="fore9"> fol 1436(1436)  509(1219)</span> 258(656) |  95 |            0 |
+| 1.2   Susette      <span class="fore2"> fol 1137(1450)</span>  -22(  32) 257(402) |  92 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  911(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Zinko        <span class="fore2"> fol  345( 347)</span> 1138(1253) 146(148) |  90 |            0 |
+| 2.2   Kyo          <span class="fore2"> ldr  498( 531)</span> 1011(1011) 151(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  697(1485)</span> 152(152) | 100 |            0 |
+| 3.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1524(1696) 204(200) |  90 |            0 |
+| 3.2   Nuane        <span class="fore9"> fol  208( 208)</span> 1272(1272) 144(144) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore2"> fol  575( 687)</span> 1482(1539) 168(282) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[19:14:12] hp 208/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+Shar coughs up blood and howls soullessly to satisfy Draen-Dalar.
+Lordil starts concentrating on a new spell.
+<span class="fore15">Susette </span><span class="fore10">(party):</span><span class="fore15"> &lt; Shield of Protection DOWN > [5:38]
+Milk reports: Hp: 964 (964) Sp: 911 (1043) Ep: 233 (233).
+</span><span class="fore2">Kyo tweaks Susette's nose mischievously.
+</span><span class="fore15">Susette </span><span class="fore10">(party):</span><span class="fore15"> Prots: Flex: [0:12] Pfe: [12:32] War: [8:06] Melody: [10:52] Aoa: [5:53] Ra: [378:41] Lsh: [2:28]
+Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> ajoooh :D
+</span>p say noni tappo
+<span class="fore15">Nuane </span><span class="fore10">(party):</span><span class="fore15"> noni tappo
+</span>[19:14:18] hp 208/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+Koan sings: 'What child is this, who laid to rest on Mary's lap is sleeping, angels greet with anthems sweet while shepherds guard are keeping? This, this is Christ the king, whom shepherds guard and angels sing. Haste, haste to bring him laude the babe, the son of Mary!' <span class="fore15">(Campfire tune)
+</span>Lordil claps his hands and whispers 'judicandus mangenic' <span class="fore15">(Cure critical wounds)
+</span>Lordil casts his spell at Susette.
+Grimpold claps her hands and whispers 'judicandus pafzarmus' <span class="fore15">(Major heal)
+</span>Grimpold casts her spell at Susette.
+<span class="fore8">Info: Yggrasil enters the game.
+</span>Lordil starts concentrating on a new spell.
+Lordil aborts the spell casting.
+<span class="fore15">Kyo </span><span class="fore10">(party):</span><span class="fore15"> meni
+</span>Shar starts concentrating on a new offensive spell.
+<span class="fore15">Slobber [party(HOMOPARAATI HOMOILLE)]: minsa aikaa!
+</span>Grimpold starts concentrating on a new spell.
+<span class="fore15">Koan [party(HOMOPARAATI HOMOILLE)]: kill!
+</span>Shar starts concentrating on a new offensive spell.
+Grimpold starts concentrating on a new spell.
+Shar starts concentrating on a new offensive spell.
+Andthi utters the magic words 'harnaxan temnahecne' <span class="fore15">(Unpain)
+Susette </span><span class="fore10">(party):</span><span class="fore15"> ( Unpain UP ) {Cast by Andthi}
+</span>Grimpold starts concentrating on a new spell.
+Kyo leaves southeast.
+Susette leaves southeast.
+Milk floods southeast.
+Cyberlahko retreats southeast.
+Zinko leaves southeast.
+Shar leaves southeast.
+The new Torturing ch<span class="fore14">amber</span>, the Hall of utter Torment (<span class="fore15">downnortheast</span>,<span class="fore15">nw</span>).
+Shar Apollyon the Lich
+<span class="fore2">Zinko Voimapaallikko the deadly Vampire menetti titlensa &lt; Kukkonen tykittää! >
+Cyberlahko Sai Laivalla Turpaan the Zombie &lt; Kukkonen tykittää! >
+Milk the demented Ent Angelburner &lt; Kukkonen tykittää! >
+Susette the Titan is Hammer of Gods &lt; Kukkonen tykittää! >
+Kyo Aizu the dark Drow on Kukkosen kaveri.. &lt; Kukkonen tykittää! >
+</span><span class="fore13">the Grand Master Torturer
+</span>Kerzebel arrives from northwest.
+Grimpold prances in from northwest.
+Kyo starts concentrating on a new offensive spell.
+Shar starts concentrating on a new offensive spell.
+cast 'electrocution' 
+You start chanting.
+[19:14:24] hp 208/208  sp 1272/1272  ep 144/144  xp 48  $ 3050/95  wimpy off
+
+Susette starts concentrating on a new offensive skill.
+Grimpold starts concentrating on a new spell.
+<span class="fore2">Kyo says 'DAI.'
+</span>party report Death effects gone.
+You feel more vital.
+<span class="fore3">Electrocution</span>: <span class="fore15">4
+</span><span class="fore3">Electrocution</span>: <span class="fore15">3 </span>(haste)
+Torturer suddenly pushes a hidden button in the iron maiden!
+Torturer says 'Shar, visit my PETS!! Begone! MUAHAHAHA!'
+A trapdoor opens right under Shar!
+Shar falls through the trapdoor!!
+Shar leaves pit.
+Shar left somewhere.
+Zinko is now in the 1st row.
+Kerzebel is now in the 2nd row.
+cast info
+scan all
+pss
+<span class="fore15">*****************************************************
+</span>party report Zinko has gone UNCONSCIOUS!
+Zinko lapses into <span class="fore12">unconscious</span>ness from severe loss of blood.
+Zinko is dogfood.
+save
+Zinko is DEAD, R.I.P.
+<span class="fore4">Torturer shouts 'Zinko was just DOGMEAT, who is next?'
+</span>Zinko dies.
+Zinko's corpse is collected by Death, clad in black.
+Torturer hits Zinko 6 times causing heart tissue to fly everywhere.
+<span class="fore15">Nuane </span><span class="fore8">(report):</span><span class="fore15"> Death effects gone.
+</span>[19:14:26] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> Zinko went UNCON!!!
+</span>You are casting 'electrocution'.
+[19:14:26] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore10">(party):</span><span class="fore15"> Ghost of Zinko is no more stunned
+</span>Torturer<span class="fore15"> is near death. </span>(0-10% hps)
+[19:14:26] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Susette </span><span class="fore10">(party):</span><span class="fore15"> Zinko is UNCON
+</span>,-----------------------------------------------------------------------------.
+| 1.2   Susette      <span class="fore14"> fol  645(1512)</span>  -22(  32) 257(402) |  92 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  911(1043)</span> 233(233) | 100 |            0 |
+| 2.1   Kerzebel     <span class="fore9"> fol  238( 238)</span> 1639(1696) 204(200) |  90 |            0 |
+| 2.2   Kyo          <span class="fore9"> ldr  531( 531)</span> 1011(1011) 156(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  740(1485)</span> 152(152) | 100 |            0 |
+| 3.2   Nuane        <span class="fore2"> fol  208( 211)</span> 1272(1392) 144(146) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore2"> fol  675( 687)</span> 1482(1539) 168(282) | 100 |            0 |
+| ?.?   Zinko       <span class="fore15"> dead    1( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| ?.?   Shar         <span class="fore9"> mbr 1436(1436)  616(1219)</span> 277(656) |  95 |            0 |
+`-----------------------------------------------------------------------------'
+[19:14:26] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Nuane </span><span class="fore8">(report):</span><span class="fore15"> Zinko has gone </span><span class="fore12">UNCONSCIOUS</span><span class="fore15">!
+</span>[19:14:26] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+SAVED.
+[19:14:26] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+Hobbes <span class="fore1">[newbie]:</span> why can't I use ghost to get resurrected if I am newbie?
+<span class="fore2">Kerzebel waves happily.
+</span><span class="fore15">Koan [party(HOMOPARAATI HOMOILLE)]: 50sec!
+</span><span class="fore3">Electrocution</span>: <span class="fore15">2
+</span><span class="fore3">Electrocution</span>: <span class="fore15">1 </span>(haste)
+Kerzebel is now in the 1st row.
+cast info
+scan all
+pss
+<span class="fore15">*****************************************************
+</span>party report Kerzebel has gone UNCONSCIOUS!
+Kerzebel lapses into <span class="fore12">unconscious</span>ness from severe loss of blood.
+Kerzebel stops existing in this reality.
+save
+Kerzebel is DEAD, R.I.P.
+<span class="fore4">Torturer shouts 'Kerzebel, I bet that HURT! *RAH RAH*'
+</span>Kerzebel dies.
+Kerzebel's corpse is collected by Death, clad in black.
+Torturer hits Kerzebel 7 times causing heart tissue to fly everywhere.
+Cyberlahko waves her index finger while uttering 'cah mar nak grttzt' <span class="fore15">(Cold ray)
+</span>As Cyberlahko casts the spell, she pulls out a steel arrowhead which bursts into a million prismatic starbursts.
+<span class="fore9"><span class="back7">Cyberlahko grins as her cold ray hits Torturer.
+</span></span>You are casting 'electrocution'.
+[19:14:30] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Ghost of Kerzebel </span><span class="fore10">[party]:</span><span class="fore15"> No longer stunned!
+Susette </span><span class="fore10">(party):</span><span class="fore15"> Kerzebel is UNCON
+</span>Torturer<span class="fore15"> is near death. </span>(0-10% hps)
+[19:14:30] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Cyberlahko </span><span class="fore8">{report}:</span><span class="fore15"> Torturer resists 20% (cold)
+</span>,-----------------------------------------------------------------------------.
+| 1.2   Susette      <span class="fore14"> fol  645(1512)</span>  -22(  32) 257(402) |  92 |            0 |
+| 1.3   Milk         <span class="fore9"> fol  964( 964)</span><span class="fore10">  911(1043)</span> 233(233) | 100 |            0 |
+| 2.2   Kyo          <span class="fore9"> ldr  531( 531)</span> 1011(1011) 156(248) |  86 |            0 |
+| 2.3   Grimpold     <span class="fore9"> fol  470( 470)</span><span class="fore14">  740(1485)</span> 152(152) | 100 |            0 |
+| 3.2   Nuane        <span class="fore2"> fol  208( 211)</span> 1272(1392) 144(146) |  90 |            0 |
+| 3.3   Cyberlahko   <span class="fore2"> fol  675( 687)</span> 1388(1539) 168(282) | 100 |            0 |
+| ?.?   Zinko       <span class="fore15"> dead    1( 345)</span> 1138(1138) 146(146) |  90 |            0 |
+| ?.?   Shar         <span class="fore9"> mbr 1436(1436)  616(1219)</span> 277(656) |  95 |            0 |
+| ?.?   Kerzebel    <span class="fore15"> dead    1( 235)</span> 1639(1653) 204(198) |  90 |            0 |
+`-----------------------------------------------------------------------------'
+[19:14:30] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+<span class="fore15">Nuane </span><span class="fore8">(report):</span><span class="fore15"> Kerzebel has gone </span><span class="fore12">UNCONSCIOUS</span><span class="fore15">!
+</span>[19:14:30] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+SAVED.
+[19:14:30] hp 208/211  sp 1272/1392  ep 144/146  xp 48  $ 3050/95  wimpy off
+
+Shar arrives from northwest.
+Milk removes something.
+Shar starts following the leader.
+Shar starts concentrating on a new offensive spell.
+Sumar <span class="fore5">[wanted]:</span> reloinvis,paying 10k
+Milk claps his hands and whispers 'yugzhrr paf' <span class="fore15">(Aneurysm)
+</span>Milk casts a harming spell on Torturer.
+<span class="fore14"><span class="back2">You are done with the chant.
+</span></span>You fill up your cheeks with air and exhale 'zot mar nak grttzt' <span class="fore15">(Electrocution)
+</span>You pull out a small piece of electrum wire which bursts into a zillion technicolour sparkles!
+<span class="fore4"><span class="back1">You watch with selfpride as your electrocution hits Torturer.
+</span></span>party report Torturer writhes elec (20% resist)
+Torturer writhes in agony.
+A large hole replaces Torturer's face.
+save
+Torturer is DEAD, R.I.P.
+The magic mist around the dead Torturer's neck leaps to Cyberlahko's Kerbholz.
+The magic mist around the dead Torturer's neck leaps to Susette's Kerbholz.
+The magic mist around the dead Torturer's neck leaps to Shar's Kerbholz.
+The magic mist around the dead Torturer's neck leaps to Grimpold's Kerbholz.
+Your fine choice of components lowers the effort of the spell.
+hp <span class="fore3">208</span>/211 () | sp <span class="fore3">1146</span>/1392 (<span class="fore4">-126</span>) | ep <span class="fore3">144</span>/146 ()
+Susette spins around furiously nearly dropping her weapon.
+gac
+Kyo takes a straw, stainless steel tuxedo, the Torso Maker sword &lt;red glow>
+ and a big pile of <span class="fore13">mithril coin</span>s from a shocked entrails of Torturer.
+<span class="fore15">Nuane </span><span class="fore8">(report):</span><span class="fore15"> Torturer writhes elec (20% resist)
+</span>[19:14:33] hp 208/211  sp 1146/1392  ep 144/146  xp 205558  $ 3050/95  wimpy off
+<span class="fore11">You gained 205510 xp.
+
+</span>SAVED.
+[19:14:33] hp 208/211  sp 1146/1392  ep 144/146  xp 205558  $ 3050/95  wimpy off
+
+There is no all in the a shocked entrails of Torturer!
+[19:14:33] hp 208/211  sp 1146/1392  ep 144/146  xp 205558  $ 3050/95  wimpy off
+
+Kyo tries to take a shocked entrails of Torturer, but fails.
+Cyberlahko aborts the spell casting.
+<span class="fore15">Kyo </span><span class="fore10">(party):</span><span class="fore15"> noi
+Milk </span><span class="fore10">[party]:</span><span class="fore15"> woohoo
+</span>Grimpold claps her hands and whispers 'judicandus zapracus' <span class="fore15">(True heal)
+</span>Grimpold casts her spell at Susette.
+p kills
+<span class="fore15">Shar </span><span class="fore10">(party):</span><span class="fore15"> hihi
+</span>,-----------------------------------------------------------------------------.
+|  984846: the Grand Master Torturer                                          |
+`-----------------------------------------------------------------------------'
+This party has killed 1 monster (avg exp/mon: 984846).
+</pre>
+<!-- The HTML specification states that closing the BODY and HTML elements is optional.
+I have chosen to leave them out in order to more easily support appending to logs.
+See http://www.w3.org/TR/1998/REC-html40-19980424/struct/global.html#h-7.3 -->

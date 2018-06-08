@@ -1,0 +1,531 @@
+Dupre sneaks in from north.
+Energy aura: 3
+Lyriikka starts concentrating on a new offensive skill.
+You start following the leader in your old place.
+Lyriikka starts following the leader.
+Darol starts following the leader.
+Akvavitix starts following the leader.
+Andthi starts following the leader.
+Delpers starts following the leader.
+Grimpold starts following the leader.
+Kyo starts following the leader.
+Akvavitix starts concentrating on a new offensive spell.
+Energy aura: 2
+Energy aura: 1 (haste)
+Dupre [party]: tulee
+Andthi starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Perseneekerit                (Members:  9) | Exp Tot:   3270398 |
+| Created: Tue Jan 13 16:26:13 2004        ( 6h  6m 20s) | Exp/min:      8911 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Lyriikka      fol 1679(1679) -4587(  47) 414(414) | 100 |       300337 |
+| 1.2   Dupre         ldr 1209(1814) -27411(  29) 392(406) | 100 |       488644 |
+| 1.3   Kyo           fol 1600(1600) -5530(  34) 377(377) |  78 |       346538 |
+| 2.1   Akvavitix     fol  911( 999) 1138(1226) 421(408) | 100 |       369477 |
+| 2.2   Delpers       fol  924( 924) 1083(1094) 438(436) | 100 |       366566 |
+| 2.3   Darol         fol  890( 890)  586( 586) 422(438) |  78 |       302066 |
+| 3.1   Nuane         fol  602( 608) 1338(1652) 259(262) | 100 |       360249 |
+| 3.2   Andthi        fol  691( 691)  775(1080) 225(225) |  85 |       333847 |
+| 3.3   Grimpold      fol  704( 707) 1230(1356) 137(307) |  90 |       356116 |
+`-----------------------------------------------------------------------------'
+[22:32:33] hp 602/608 | sp 1338/1652 | ep 259/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Andthi removes an ancient staff of the necromancer, an ancient staff of the necromancer, Ring of Death, Ring of Death, Red Glove of the Healer, Red Glove of the Healer, A magic cloak, a pair of old dark green boots, a collar made of black silk, the Bracelets of Darkness, Spider Amulet, a majectical black crown, Girdle of Ethereal Power labeled as SPR, Sacred Bracelets of Eternity, a battle-scarred shin guard, a battle-scarred shin guard and Mirror breastplate.
+Andthi wears Girdle of Ethereal Power labeled as WIS (glowing) <orange glow>, medallion of honor (glowing) <orange glow>, Holy vest of Yak (glowing) <orange glow>, Scarf of Beauty (glowing) <red glow>, the shining helm of azakh-khanan (glowing) <orange glow>, purple amazon cloak (glowing) <red glow>, gloves of Nimbleness (glowing) <orange glow>, swirling bands of lava <flaming> (glowing) <red glow>, Shrunken toad talisman (glowing) <red glow>, Shrunken toad talisman (glowing) <red glow>, Ring of Death (glowing) <red glow>, Ring of Death (glowing) <red glow>, the Bracelets of Darkness (glowing) <red glow>, a pair of old dark green boots (glowing) <red glow> and Sacred Bracelets of Eternity (glowing) <red glow>.
+Delpers starts concentrating on a new offensive spell.
+You are done with the chant.
+You cast(s): 'RRRRAAAAAHHRRRRGGGGGGHHH!!!!!' (Energy aura)
+You try your hardest but cannot focus enough energy.
+p say (Aura loaded, lets go.)
+You do, however, recharge your aura.
+hp 597/608 (-5) | sp 1234/1652 (-104) | ep 257/262 (-2)
+Warlock of Xzui arrives from north.
+Warlock of Xzui exclaims 'You got guts to come back, Dupre! Too bad I have to kick your ass!'
+cast info
+scan all
+*****************************************************
+Your marvelous intellect avoids a nasty ambush.
+Snow devil shouts 'Time to meet your maker, Heihachi!'
+Info: Heihachi dies.
+Info: Jeanika enters the game.
+Nuane (party): (Aura loaded, lets go.)
+[22:32:36] hp 597/608 | sp 1234/1652 | ep 257/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+You are not doing anything at the moment.
+[22:32:36] hp 597/608 | sp 1234/1652 | ep 257/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Warlock of Xzui is in bad shape. (20-35% hps)
+[22:32:36] hp 597/608 | sp 1234/1652 | ep 257/262 | exp 43155 | $ 319/136310 | wimpy: off
+cball
+
+You start chanting.
+[22:32:36] hp 597/608 | sp 1234/1652 | ep 257/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+Ghost of Heihachi [ghost]: that mother Freaker
+Info: Pall enters the game.
+ps
+Channelball: 3
+Channelball: 1 (greater haste)
+cast info
+scan all
+*****************************************************
+Warlock of Xzui hits Dupre 1 time.
+Kyo hits Warlock of Xzui 1 time.
+Lyriikka's powerful bash sends Warlock of Xzui sprawling to the floor.
+,-----------------------------------------------------------------------------.
+| Party Name: Perseneekerit                (Members:  9) | Exp Tot:   3270398 |
+| Created: Tue Jan 13 16:26:13 2004        ( 6h  6m 25s) | Exp/min:      8911 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Lyriikka      fol 1679(1679) -4587(  47) 404(414) | 100 |       300337 |
+| 1.2   Dupre         ldr 1113(1814) -27411(  29) 392(406) | 100 |       488644 |
+| 1.3   Kyo           fol 1600(1600) -5530(  34) 377(377) |  78 |       346538 |
+| 2.1   Akvavitix     fol  911( 999) 1138(1226) 421(408) | 100 |       369477 |
+| 2.2   Delpers       fol  924( 924) 1083(1094) 438(436) | 100 |       366566 |
+| 2.3   Darol         fol  890( 890)  586( 586) 422(438) |  78 |       302066 |
+| 3.1   Nuane         fol  597( 608) 1234(1652) 257(262) | 100 |       360249 |
+| 3.2   Andthi        fol  691( 691)  775(1098) 225(221) |  85 |       333847 |
+| 3.3   Grimpold      fol  704( 707) 1230(1356) 137(307) |  90 |       356116 |
+`-----------------------------------------------------------------------------'
+[22:32:38] hp 597/608 | sp 1234/1652 | ep 257/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+You are casting 'channelball'.
+[22:32:38] hp 597/608 | sp 1234/1652 | ep 257/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Warlock of Xzui is in bad shape. (20-35% hps)
+[22:32:38] hp 597/608 | sp 1234/1652 | ep 257/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Lyriikka starts concentrating on a new offensive skill.
+You are done with the chant.
+You cast(s): 'shar ryo den...Haa!' (Channelball)
+The crackling small blue comet slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Warlock of Xzui.
+Warlock of Xzui's flex shield wobbles.
+p say Warlock of Xzui shudders mana (40% resist).
+Warlock of Xzui shudders from the force of the attack.
+hp 591/608 (-6) | sp 1155/1652 (-79) | ep 254/262 (-3)
+Andthi cast(s): 'judicandus pafzarmus' (Major heal)
+Andthi casts his spell at Dupre.
+A servant of evil appears.
+Dark follower hits Dupre 1 time.
+A servant of evil appears.
+Dark follower hits Dupre 1 time.
+cast info
+scan all
+*****************************************************
+Dupre hits Warlock of Xzui 1 time.
+Kyo hits Warlock of Xzui 1 time.
+Lyriikka hits Warlock of Xzui 2 times.
+Grimpold cast(s): 'fzz mar nak grttzt' (Acid blast)
+cball
+As Grimpold casts the spell, he pulls out a handful of olivine powder which bursts into a million prismatic starbursts.
+Grimpold grins as his acid blast hits Warlock of Xzui.
+Akvavitix cast(s): 'PAF PAF PAF!' (Harm body)
+Akvavitix casts a harming spell on Warlock of Xzui.
+Darol sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!' (Campfire tune)
+Darol's song heals some of your wounds.
+Nuane (party): Warlock of Xzui shudders mana (40% resist).
+[22:32:41] hp 608/608 | sp 1155/1652 | ep 254/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+You are not doing anything at the moment.
+[22:32:43] hp 608/608 | sp 1155/1652 | ep 254/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Warlock of Xzui is in bad shape. (20-35% hps)
+Dark follower is in excellent shape. (90-100% hps)
+Dark follower is in excellent shape. (90-100% hps)
+[22:32:43] hp 608/608 | sp 1155/1652 | ep 254/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+You start chanting.
+[22:32:43] hp 608/608 | sp 1155/1652 | ep 254/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Akvavitix [party]: Concealed
+hp 608/608 (+17) | sp 1155/1652 () | ep 254/262 ()
+Channelball: 3
+Channelball: 1 (greater haste)
+Dark follower hits Lyriikka 1 time.
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Warlock of Xzui.
+cast info
+scan all
+*****************************************************
+Warlock of Xzui hits Kyo 3 times.
+Dupre hits Warlock of Xzui 2 times.
+Kyo hits Warlock of Xzui 2 times.
+Lyriikka hits Warlock of Xzui 1 time.
+Dupre's powerful bash sends Warlock of Xzui sprawling to the floor.
+You spend energy to maintain your field.
+You are casting 'channelball'.
+[22:32:45] hp 603/608 | sp 1150/1652 | ep 252/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Warlock of Xzui is in very bad shape. (10-20% hps)
+Dark follower is in excellent shape. (90-100% hps)
+Dark follower is in excellent shape. (90-100% hps)
+[22:32:46] hp 603/608 | sp 1150/1652 | ep 252/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Lyriikka reports: Hp: 1651 (1679) Sp: -4587 (47) Ep: 404 (414).
+t xzui
+[22:32:46] hp 603/608 | sp 1150/1652 | ep 252/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+You are now targetting Warlock of Xzui.
+[22:32:46] hp 603/608 | sp 1150/1652 | ep 252/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Nuane (party): Target set: 'xzui'.
+[22:32:46] hp 603/608 | sp 1150/1652 | ep 252/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Andthi starts concentrating on a new offensive spell.
+hp 603/608 (-5) | sp 1150/1652 (-5) | ep 252/262 (-2)
+You are done with the chant.
+You cast(s): 'shar ryo den...Haa!' (Channelball)
+The crackling small blue comet slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Warlock of Xzui.
+Warlock of Xzui's flex shield wobbles.
+p say Warlock of Xzui shudders mana (40% resist).
+Warlock of Xzui shudders from the force of the attack.
+hp 597/608 (-6) | sp 1071/1652 (-79) | ep 249/262 (-3)
+Dark follower hits Dupre 1 time.
+You feel that Jenming goes unconscious.
+Noquar shouts 'Jenming is a LOSER!'
+Info: Jenming dies.
+cast info
+scan all
+*****************************************************
+Lyriikka hits Warlock of Xzui 1 time.
+Lyriikka's powerful bash sends Warlock of Xzui sprawling to the floor.
+Nuane (party): Warlock of Xzui shudders mana (40% resist).
+[22:32:49] hp 597/608 | sp 1071/1652 | ep 249/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+You are not doing anything at the moment.
+[22:32:49] hp 597/608 | sp 1071/1652 | ep 249/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Warlock of Xzui is in very bad shape. (10-20% hps)
+Dark follower is in excellent shape. (90-100% hps)
+Dark follower is in excellent shape. (90-100% hps)
+[22:32:49] hp 597/608 | sp 1071/1652 | ep 249/262 | exp 43155 | $ 319/136310 | wimpy: off
+cball
+
+You start chanting.
+[22:32:49] hp 597/608 | sp 1071/1652 | ep 249/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Toag {sales}: Ancient grey bracelets +2wis 20k
+Lyriikka starts concentrating on a new offensive skill.
+Dupre starts concentrating on a new offensive skill.
+Channelball: 3
+Channelball: 2 (haste)
+Warlock of Xzui leaves south.
+Darol sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!' (Campfire tune)
+Darol's song heals some of your wounds.
+Grimpold (party): mun spellit o sarki
+Grimpold starts concentrating on a new offensive spell.
+Darol starts concentrating on a new spell.
+hp 608/608 (+11) | sp 1071/1652 () | ep 249/262 ()
+Channelball: 1
+cast info
+scan all
+*****************************************************
+Kyo hits Dark follower 1 time.
+Lyriikka hits Dark follower 2 times.
+Dark follower hits Lyriikka 1 time.
+Warlock of Xzui arrives from south.
+Warlock of Xzui grins 'Come right ahead, Dupre, I got plenty more for you!'
+Warlock of Xzui hits Dupre 1 time.
+Kyo hits Warlock of Xzui 1 time.
+Your knowledge about Warlock of Xzui's tactics allows you to evade the ambush.
+Akvavitix cast(s): 'PAF PAF PAF!' (Harm body)
+Akvavitix casts a harming spell on Warlock of Xzui.
+Shuga @zombie [ifin]: http://isotalo.org/paivantp/
+You are casting 'channelball'.
+[22:32:54] hp 608/608 | sp 1071/1652 | ep 249/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Warlock of Xzui is in very bad shape. (10-20% hps)
+Dark follower is in excellent shape. (90-100% hps)
+Dark follower is in excellent shape. (90-100% hps)
+[22:32:54] hp 608/608 | sp 1071/1652 | ep 249/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Lyriikka reports: Hp: 1641 (1679) Sp: -4587 (47) Ep: 394 (414).
+Akvavitix starts concentrating on a new offensive spell.
+You are done with the chant.
+You cast(s): 'shar ryo den...Haa!' (Channelball)
+The crackling small blue comet slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Warlock of Xzui.
+Warlock of Xzui's flex shield wobbles.
+p say Warlock of Xzui shudders mana (40% resist).
+Warlock of Xzui shudders from the force of the attack.
+hp 602/608 (-6) | sp 992/1652 (-79) | ep 246/262 (-3)
+Nuane (party): Warlock of Xzui shudders mana (40% resist).
+[22:32:56] hp 602/608 | sp 992/1652 | ep 246/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Andthi removes Holy vest of Yak.
+Dupre [party]: miks
+cbal
+Sure, sure.. (hey bob, call the shrinks).
+[22:32:56] hp 602/608 | sp 992/1652 | ep 246/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Dark follower hits Lyriikka 2 times.
+Dark follower cast(s): 'krkx zur semen
+ gnatlnamauch'
+Dark follower mumbles something inconcievable.
+Andthi cast(s): '%' (Earthquake)
+Andthi's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+The fiery red runes split the earth with a COLOSSAL CRACK!
+Warlock of Xzui falls down with a massive CRACK.
+Andthi hits Warlock of Xzui, Dark follower and Dark follower with his earthquake.
+Warlock of Xzui's flex shield wobbles.
+Dark follower cast(s): 'nitin uurthg' (Feeblemind)
+Dark follower fails miserably in its spell.
+Lyriikka's powerful bash sends Warlock of Xzui sprawling to the floor.
+Darol sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!' (Campfire tune)
+Darol's song heals some of your wounds.
+cast info
+scan all
+*****************************************************
+Warlock of Xzui hits Kyo 3 times.
+Dupre hits Warlock of Xzui 1 time.
+Kyo hits Warlock of Xzui 1 time.
+Lyriikka hits Warlock of Xzui 2 times.
+hp 608/608 (+6) | sp 992/1652 () | ep 246/262 ()
+Lyriikka reports: Hp: 1666 (1679) Sp: -4587 (47) Ep: 384 (414).
+You are not doing anything at the moment.
+[22:32:57] hp 608/608 | sp 992/1652 | ep 246/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Andthi starts concentrating on a new offensive spell.
+cball
+Warlock of Xzui is in very bad shape. (10-20% hps)
+Dark follower is in excellent shape. (90-100% hps)
+Dark follower is in excellent shape. (90-100% hps)
+[22:32:58] hp 608/608 | sp 992/1652 | ep 246/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+You start chanting.
+[22:32:58] hp 608/608 | sp 992/1652 | ep 246/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Lyriikka starts concentrating on a new offensive skill.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Perseneekerit                (Members:  9) | Exp Tot:   3270398 |
+| Created: Tue Jan 13 16:26:13 2004        ( 6h  6m 45s) | Exp/min:      8911 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Lyriikka      fol 1666(1679) -4587(  47) 384(414) | 100 |       300337 |
+| 1.2   Dupre         ldr 1700(1814) -27411(  29) 383(406) | 100 |       488644 |
+| 1.3   Kyo           fol 1123(1600) -5530(  34) 377(377) |  78 |       346538 |
+| 2.1   Akvavitix     fol  999( 999)  584(1226) 421(408) | 100 |       369477 |
+| 2.2   Delpers       fol  924( 924)  806(1094) 438(436) | 100 |       366566 |
+| 2.3   Darol         fol  890( 890)  298( 586) 422(438) |  78 |       302066 |
+| 3.1   Nuane         fol  608( 608)  992(1652) 246(262) | 100 |       360249 |
+| 3.2   Andthi        fol  691( 691)  425(1084) 225(221) |  85 |       333847 |
+| 3.3   Grimpold      fol  707( 707) 1083(1356) 137(307) |  90 |       356116 |
+`-----------------------------------------------------------------------------'
+[22:32:58] hp 608/608 | sp 992/1652 | ep 246/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Channelball: 3
+Channelball: 1 (greater haste)
+Dark follower hits Lyriikka 1 time.
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Warlock of Xzui.
+Dark follower hits Lyriikka 1 time.
+cast info
+scan all
+*****************************************************
+Warlock of Xzui hits Lyriikka 2 times.
+Dupre hits Warlock of Xzui 2 times.
+Lyriikka hits Warlock of Xzui 2 times.
+Lyriikka reports: Hp: 1441 (1679) Sp: -4587 (47) Ep: 384 (414).
+You are casting 'channelball'.
+[22:33:00] hp 608/608 | sp 992/1652 | ep 246/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Warlock of Xzui is near death. (0-10% hps)
+Dark follower is in excellent shape. (90-100% hps)
+Dark follower is in excellent shape. (90-100% hps)
+[22:33:00] hp 608/608 | sp 992/1652 | ep 246/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Grimpold (party): ela multa kysy
+Lyriikka reports: Hp: 1441 (1679) Sp: -4587 (47) Ep: 384 (414).
+Dupre starts concentrating on a new offensive skill.
+Pietu [suomi]: loistava idea!
+Andthi starts concentrating on a new spell.
+Delpers starts concentrating on a new offensive spell.
+You are done with the chant.
+You cast(s): 'shar ryo den...Haa!' (Channelball)
+The crackling small blue comet slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Warlock of Xzui.
+Warlock of Xzui's flex shield wobbles.
+p say Warlock of Xzui shudders mana (40% resist).
+Warlock of Xzui shudders from the force of the attack.
+hp 602/608 (-6) | sp 913/1652 (-79) | ep 243/262 (-3)
+Dark follower hits Lyriikka 1 time.
+Grimpold cast(s): 'fzz mar nak grttzt gnatlnamauch' (Acid storm)
+As Grimpold casts the spell, he pulls out a pair of interlocked bloodstone rings which bursts into a million prismatic starbursts.
+Grimpold hits Warlock of Xzui, Dark follower and Dark follower with his acid storm.
+Warlock of Xzui's flex shield wobbles.
+Darol sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!' (Campfire tune)
+Darol's song heals some of your wounds.
+Info: Muumipeikko dies.
+cast info
+scan all
+*****************************************************
+Warlock of Xzui hits Dupre 2 times.
+Kyo hits Warlock of Xzui 2 times.
+Lyriikka hits Warlock of Xzui 1 time.
+hp 608/608 (+6) | sp 913/1652 () | ep 243/262 ()
+cball
+Lyriikka reports: Hp: 1500 (1679) Sp: -4587 (47) Ep: 384 (414).
+Nuane (party): Warlock of Xzui shudders mana (40% resist).
+[22:33:03] hp 608/608 | sp 913/1652 | ep 243/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+You are not doing anything at the moment.
+[22:33:03] hp 608/608 | sp 913/1652 | ep 243/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Grimpold (party): kokeilen areaa
+Guest-10 tells Cyberlahko, Deras, Descad, Dupre, Inferno, Kvlt, Kzagr, Ly, Luupy, Mardraum, Merioli, Nobbs, Sarnath, Shadizar, Shay and you 'kattoiskoha john doen vai lis‰‰ animee :/'
+Warlock of Xzui is near death. (0-10% hps)
+Dark follower is slightly hurt. (65-80% hps)
+Dark follower is in a good shape. (80-90% hps)
+[22:33:04] hp 608/608 | sp 913/1652 | ep 243/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+You start chanting.
+[22:33:04] hp 608/608 | sp 913/1652 | ep 243/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Grimpold starts concentrating on a new offensive spell.
+Andthi [party]: tph 2
+Channelball: 3
+Channelball: 1 (greater haste)
+Dark follower cast(s): 'oli isa-sammakko, aiti-sammakko ja
+ PIKKU-SAMMAKKO!!'
+Lyriikka's powerful bash sends Warlock of Xzui sprawling to the floor.
+cast info
+scan all
+*****************************************************
+Warlock of Xzui hits Lyriikka 1 time.
+You are casting 'channelball'.
+[22:33:06] hp 608/608 | sp 913/1652 | ep 243/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Warlock of Xzui is near death. (0-10% hps)
+Dark follower is slightly hurt. (65-80% hps)
+Dark follower is in a good shape. (80-90% hps)
+[22:33:06] hp 608/608 | sp 913/1652 | ep 243/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Lyriikka reports: Hp: 1446 (1679) Sp: -4587 (47) Ep: 374 (414).
+Lyriikka starts concentrating on a new offensive skill.
+Info: Priv left the game.
+You are done with the chant.
+You cast(s): 'shar ryo den...Haa!' (Channelball)
+The crackling small blue comet slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Warlock of Xzui.
+Warlock of Xzui's flex shield wobbles.
+hp 602/608 (-6) | sp 834/1652 (-79) | ep 240/262 (-3)
+Dark follower hits Dupre 1 time.
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+Andthi's spell heals you. You feel all better.
+Akvavitix cast(s): 'PAF PAF PAF!' (Harm body)
+Akvavitix fails to touch Warlock of Xzui.
+Dupre's powerful bash sends Warlock of Xzui sprawling to the floor.
+cast info
+scan all
+*****************************************************
+Warlock of Xzui hits Lyriikka 2 times.
+Dupre hits Warlock of Xzui 1 time.
+Kyo hits Warlock of Xzui 1 time.
+hp 608/608 (+6) | sp 834/1652 () | ep 240/262 ()
+Kyo [party]: < Infravision DOWN > [16:37]
+You are not doing anything at the moment.
+[22:33:09] hp 608/608 | sp 834/1652 | ep 240/262 | exp 43155 | $ 319/136310 | wimpy: off
+cball
+
+Lyriikka starts concentrating on a new offensive skill.
+Warlock of Xzui is near death. (0-10% hps)
+Dark follower is slightly hurt. (65-80% hps)
+Dark follower is in a good shape. (80-90% hps)
+[22:33:09] hp 608/608 | sp 834/1652 | ep 240/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Lyriikka reports: Hp: 1577 (1679) Sp: -4587 (47) Ep: 374 (414).
+You start chanting.
+[22:33:10] hp 608/608 | sp 834/1652 | ep 240/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Info: Priv enters the game.
+Akvavitix [party]: Concealed
+As Dupre points her Kerbholz at Warlock of Xzui, a weak white magic
+mist forms around the targets' neck.
+Kyo [party]: nd
+Channelball: 3
+Channelball: 1 (greater haste)
+Dark follower cast(s): 'vaka vanha vainamoinen' (Entropy)
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Warlock of Xzui.
+Darol sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!' (Campfire tune)
+cast info
+scan all
+*****************************************************
+Warlock of Xzui hits Dupre 2 times.
+Dupre hits Warlock of Xzui 1 time.
+Your disc wavers dangerously.
+Shadizar tells Cyberlahko, Deras, Descad, Dupre, Inferno, Kvlt, Kzagr, Ly, Luupy, Mardraum, Merioli, Nobbs, Sarnath, Shay, Guest-10 and you 'animee.. mit‰ oot kattonu'
+You are casting 'channelball'.
+[22:33:12] hp 608/608 | sp 834/1652 | ep 240/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Warlock of Xzui is near death. (0-10% hps)
+Dark follower is slightly hurt. (65-80% hps)
+Dark follower is in a good shape. (80-90% hps)
+[22:33:12] hp 608/608 | sp 834/1652 | ep 240/262 | exp 43155 | $ 319/136310 | wimpy: off
+
+Darol starts concentrating on a new spell.
+Andthi starts concentrating on a new offensive spell.
+You spend energy to maintain your field.
+Delpers starts concentrating on a new offensive spell.
+Akvavitix [party]: 120sp
+Dupre starts concentrating on a new offensive skill.
+hp 599/608 (-9) | sp 825/1652 (-9) | ep 236/262 (-4)
+You are done with the chant.
+You cast(s): 'shar ryo den...Haa!' (Channelball)
+The crackling small blue comet slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Warlock of Xzui.
+Warlock of Xzui's flex shield wobbles.
+Warlock of Xzui moves on to happier hunting grounds.
+save
+Warlock of Xzui is DEAD, R.I.P.
+The magic mist around the dead Warlock of Xzui's neck leaps to your Kerbholz.
+A new mark appears.
+The magic mist around the dead Warlock of Xzui's neck leaps to Grimpold's
+Kerbholz.
+The magic mist around the dead Warlock of Xzui's neck leaps to Dupre's
+Kerbholz.
+hp 593/608 (-6) | sp 746/1652 (-79) | ep 233/262 (-3)
+Grimpold cast(s): 'fzz mar nak grttzt gnatlnamauch' (Acid storm)
+As Grimpold casts the spell, he pulls out a pair of interlocked bloodstone rings which bursts into a million prismatic starbursts.
+Grimpold hits Dark follower and Dark follower with his acid storm.
+cball
+SAVED.
+[22:33:16] hp 593/608 | sp 746/1652 | ep 233/262 | exp 65297 | $ 319/136310 | wimpy: off
+You gained 22142 xp.
+You start chanting.
+[22:33:16] hp 593/608 | sp 746/1652 | ep 233/262 | exp 65297 | $ 319/136310 | wimpy: off
+
+Info: Teppo left the game.
+Grimpold starts concentrating on a new offensive spell.
+Kyo [party]: ja too dark to see
+Dupre takes 20 silver coins, a big pile of zinc coins, Black opal ring <red
+ glow>, a small pile of bronze coins, Ancient Bracers of Xzui <red glow>, one
+ anipium coin, a pile of tin coins, a wedge, a huge pile of mowgles coins,
+ Zhentorium reinforced legging of Xzui <red glow>, a pile of copper coins, a
+ small barrel of pixie-ale and Breastplate of Xzui <red glow>.

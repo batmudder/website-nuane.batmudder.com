@@ -1,0 +1,72 @@
+The Battle Royale Continues:
+Nazrix and Searc will fight to the death!
+Nazrix: throw flip at searc
+Searc: look
+Searc: cast con fioco
+Nazrix: look
+Nazrix: kill searc
+Searc: Hp 99%
+Nazrix: cast 'aneurysm'
+Nazrix: inventory
+Searc: Hp 99%
+Searc: scan
+Searc: Hp 99%
+Nazrix: cast 'aneurysm'
+Searc: cast con fioco
+Searc: scan
+Nazrix: inventory
+Searc: Hp 99%
+Nazrix: Hp 77%
+Searc: shake aegis at nazrix
+Searc: remove aegis
+Searc: wield nightfall 2
+Nazrix: Hp 77%
+Nazrix: keep apparatus
+Nazrix: drop apparatus
+Nazrix: push button
+Nazrix: get apparatus
+Nazrix: keep apparatus
+Searc: Hp 98%
+Nazrix: Hp 77%
+Nazrix: cast 'aneurysm'
+Searc: Hp 55%
+Nazrix: Hp 75%
+Searc: shake aegis at thematrix
+Searc: remove aegis
+Searc: wield nightfall 2
+Searc: cast con fioco
+Searc: Hp 53%
+Nazrix: Hp 73%
+Searc: scan
+Nazrix: scan all
+Searc: equipment
+Searc: Hp 52%
+Nazrix: Hp 73%
+Nazrix: cast 'aneurysm'
+Nazrix: scan all
+Searc: read heal
+Searc: Hp 46%
+Nazrix: Hp 73%
+Searc: scan
+Nazrix: look
+Searc: read heal
+Searc: read mirror
+Searc: Hp 81%
+Nazrix: Hp 67%
+Searc: inventory
+Searc: read flex
+Searc: cast con fioco
+Searc: Hp 40%
+Nazrix: Hp 53%
+Searc: scan
+Nazrix: cast 'hemorrhage'
+Nazrix: drink healing potion
+Searc: Hp 38%
+Nazrix: Hp 33%
+Searc: equipment
+Searc: scan
+Searc: look
+Searc: Hp 38%
+Nazrix: Hp 4%
+Nazrix died and thus loses this round!
+Searc has won this round of the Battle Royale!

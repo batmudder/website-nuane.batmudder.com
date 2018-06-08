@@ -1,0 +1,705 @@
+Dheos Dhominator is a level 53 mortal of the Catfolk race.
+He was created Thu Dec 14 17:24:45 2000 and he is 359d, 1h, 6min and 33s old.
+He has been on for 1h, 40min and 23s, idle 57s.
+He has killed: A muscular construction worker takin.., 55180 exp
+               Dro-Toth the Orc lord of < Corruptio.., 94823 exp (party of 4)
+He has no plan.
+
+
+Dupre is a level 62 mortal of the Cromagnon race.
+She was created before 1997 and she is 249d, 21h, 15min and 57s old.
+She has been on for 1h, 10min and 59s, idle 9s.
+She has killed: A fierce fire dragon has a three foo.., 39099 exp
+                Golux, the master conjurer of slime, 617149 exp (party of 9)
+Web page: Total of 100000000 experience spent on character.
+She has no plan.
+
+
+Sirdar exclaims 'ONNEA!'                                                                                                                     
+Hp:1127/1127 Ep:368/368 Exp:1522940 >team1
+Waitingroom for team 1. This room is magically created, 
+and has no furnishing at all.
+Team 1 door (open) leads out.
+Obvious exit is: out.
+Hp:1127/1127 Ep:368/368 Exp:1522940 >o
+You start concentrating on the skill.
+You are prepared to do the skill.                                                                                                            
+You slip into a battle frenzy!
+Your ability to find your foe with the blow of your weapon improves GREATLY
+and you feel extremely blood thirsty!
+You stop your parrying immedeatly.
+|| Hp: 1127 (1127) |-27| Ep: 341 (368)                                                                                                       
+Even though your muscles tire you rage in frenzy.                                                                                            
+|| Hp: 1127 (1127) |-6| Ep: 335 (368)                                                                                                        
+Sirdar tells Dheos and you 'OVET KIINNI!'                                                                                                    
+Hp:1127/1127 Ep:368/368 Exp:1522940 >close door
+You close team 1 door.
+Hp:1127/1127 Ep:335/368 Exp:1522940 >con
+The arena master shouts 'Team 1 consists of Dupre'                                                                                           
+The arena master shouts 'Team 2 consists of Dheos'
+The arena master shouts 'All teams ready! Let the fight begin!'
+You remove Rakirsai, The Blue Flame.                                                                                                         
+You remove gleaming steel gauntlet (6/100).
+          All around is a dense fog. You can see maybe                                                                                       
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+You remove The Pelt from the Maneater of Rudraprayag.
+You remove The Shoes that were lost that were found, but could be lost again possibly.
+You remove a full shield clad with golden goatskin from your right hand.
+You wear Blue dragon boots <yellow glow>.                                                                                                    
+Hp:1127/1075 Ep:335/360 Exp:1522940 >invis
+You wield Fire Diamond Battleaxe in your right hand.
+You wear Crown of Sorrows..  The Blood Crown <yellow glow>.                                                                                  
+Hp:1127/1075 Ep:335/360 Exp:1522940 >lur
+You wear Black Reaver's old gauntlets <orange glow>.
+You wear Long protective edged chain [Made by: Robinhood].                                                                                   
+You remove alchemist moulded ring labeled as +3Dmg/+2Hpr.                                                                                    
+You wear ring of see invisibility.                                                                                                           
+You start concentrating on the skill.
+Dupre [party]: luring                                                                                                                        
+Hp:1127/1043 Ep:335/359 Exp:1522940 >k dheos
+No dheos here !
+Hp:1127/1043 Ep:335/359 Exp:1522940 >l
+Someone arrives from east.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+0 <team 2>
+Hp:1127/1043 Ep:335/359 Exp:1522940 >k dheos
+Even though your muscles tire you rage in frenzy.
+*****************************************************
+Someone misses you.
+You successfully dodge Someone's attack.
+You miss Someone.
+Someone howls in agony as the evil mace crushes bones!
+You stroke Someone causing third degree burns.
+Dupre reports: Hp: 1127 (1043) Sp: 29 (29) Ep: 330 (359).                                                                                    
+Hp:1127/1043 Ep:330/359 Exp:1522940 >x
+Someone is in excellent shape.
+Someone leaves south.                                                                                                                        
+Hp:1127/1043 Ep:330/359 Exp:1522940 >s
+Your movement prevents you from doing the skill.                                                                                             
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+0 <team 2>
+Hp:1127/1043 Ep:335/359 Exp:1522940 >bla
+Dagel (saato+): tol on vaan 650hpmax
+You start concentrating on the skill.
+Hp:1127/1043 Ep:335/359 Exp:1522940 >x
+You are not in combat right now.
+Hp:1127/1043 Ep:335/359 Exp:1522940 >agro yes
+You drop your wielded typo!                                                                                                                  
+Hp:1127/1043 Ep:335/359 Exp:1522940 >e
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #2@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Hp:1127/1043 Ep:335/359 Exp:1522940 >lur
+You start concentrating on the skill.                                                                                                        
+Dupre [party]: luring
+Hp:1127/1043 Ep:335/359 Exp:1522940 >aggro yes
+Auctioneer shouts 'New action round just took place!'
+l
+You are now aggressive to your enemies.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #2.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Hp:1127/1043 Ep:335/359 Exp:1522940 >nw;k dheos
+Breathing heavily you stay in your battle frenzy.
+Your movement prevents you from doing the skill.                                                                                             
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@2#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+No dheos here !                                                                                                                              
+|| Hp: 1127 (1043) |-2| Ep: 333 (359)                                                                                                        
+Hp:1127/1043 Ep:333/359 Exp:1522940 >e;k dheos
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+0 <team 2>
+*****************************************************
+Someone successfully dodges your futile slash.
+You miss Someone.
+Someone misses you.
+Someone misses you.
+Someone leaves west.
+Dupre reports: Hp: 1127 (1043) Sp: 29 (29) Ep: 333 (359).
+Hp:1127/1043 Ep:333/359 Exp:1522940 >bla
+w
+You start concentrating on the skill.                                                                                                        
+Hp:1127/1043 Ep:333/359 Exp:1522940 >bla
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #.2#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+You start concentrating on the skill.                                                                                                        
+Hp:1127/1043 Ep:333/359 Exp:1522940 >s
+e
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@2#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #.2#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Hp:1127/1043 Ep:333/359 Exp:1522940 >n
+          All around is a dense fog. You can see maybe                                                                                       
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+0 <team 2>
+You exhaust yourself in your raging frenzy.                                                                                                  
+Someone leaves west.                                                                                                                         
+Hp:1127/1043 Ep:333/359 Exp:1522940 >bla
+You start concentrating on the skill.
+Hp:1127/1043 Ep:330/359 Exp:1522940 >s
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #2.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Hp:1127/1043 Ep:330/359 Exp:1522940 >lur
+Sable Bladetree shouts 'Gee, sorry about that Phyros *snicker*!'
+|| Hp: 1127 (1043) |-3| Ep: 330 (359)
+You start concentrating on the skill.                                                                                                        
+Dupre [party]: luring                                                                                                                        
+Hp:1127/1043 Ep:330/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #2.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+@Dheos grins evilly at you.                                                                                                                  
+Hp:1127/1043 Ep:330/359 Exp:1522940 >spa ei aggro toimi tms
+Dupre [saato+]: ei aggro toimi tms
+Hp:1127/1043 Ep:330/359 Exp:1522940 >l
+|| Hp: 1127 (1043) |+5| Ep: 335 (359)
+          All around is a dense fog. You can see maybe                                                                                       
+ ####     five meters in front of you before everything
+ #.2#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Dheos arrives from north.                                                                                                                    
+*****************************************************
+Dheos punches you making small marks.
+You successfully dodge Dheos's attack.
+Dheos successfully dodges your futile slash.
+You thump Dheos making hair burn.
+nw;k dheos
+Dupre reports: Hp: 1098 (1043) Sp: 29 (29) Ep: 335 (359).
+Dheos starts concentrating on a new offensive spell.
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #.2#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+No dheos here !                                                                                                                              
+Hp:1098/1043 Ep:335/359 Exp:1522940 >lur
+|-29| Hp: 1098 (1043) || Ep: 335 (359)
+You start concentrating on the skill.
+Dupre [party]: luring
+Hp:1098/1043 Ep:335/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #.2#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Breathing heavily you stay in your battle frenzy.
+|| Hp: 1098 (1043) |-2| Ep: 333 (359)                                                                                                        
+Hp:1098/1043 Ep:335/359 Exp:1522940 >k dheos
+No dheos here !
+Hp:1098/1043 Ep:333/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #2.#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Hp:1098/1043 Ep:333/359 Exp:1522940 >k dheos
+No dheos here !                                                                                                                              
+Hp:1098/1043 Ep:333/359 Exp:1522940 >command k kill dheos
+k
+You are prepared to do the skill.
+Lure whom?
+'k' is a command-alias to 'kill dheos'.
+No dheos here !
+Hp:1098/1043 Ep:333/359 Exp:1522940 >lur
+You start concentrating on the skill.
+Dupre [party]: luring
+Hp:1098/1043 Ep:333/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #2.#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Hp:1098/1043 Ep:333/359 Exp:1522940 >k
+No dheos here !
+Hp:1098/1043 Ep:333/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #2.#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Hp:1098/1043 Ep:333/359 Exp:1522940 >s;k
+Hp:1098/1043 Ep:333/359 Exp:1522940 >e                                                                                                       
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+Dheos Dhominator the member of Catfolk < murhaa > <team 2>
+*****************************************************
+Dheos successfully dodges your futile slash.
+Dheos successfully dodges your futile bash.
+Dheos smashes you making small marks.
+You try to dodge, but Dheos is not fooled.
+Dheos stomp-kicks you in the thigh.
+You are already fighting!                                                                                                                    
+          All around is a dense fog. You can see maybe                                                                                       
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #2@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Hp:1036/1043 Ep:333/359 Exp:1522940 >lur
+Dupre reports: Hp: 1036 (1043) Sp: 29 (29) Ep: 333 (359).
+You start concentrating on the skill.
+Dupre [party]: luring
+|-62| Hp: 1036 (1043) || Ep: 333 (359)                                                                                                       
+Even though your muscles tire you rage in frenzy.                                                                                            
+Hp:1036/1043 Ep:333/359 Exp:1522940 >l
+Monk shouts 'I fart in your general direction, Sillma!'
+Info: Sillma dies.
+|| Hp: 1036 (1043) |-4| Ep: 329 (359)
+k
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #2@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+No dheos here !
+Hp:1036/1043 Ep:329/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #2@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Hp:1036/1043 Ep:329/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #2@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Hp:1036/1043 Ep:329/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe                                                                                       
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #2@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Hp:1036/1043 Ep:329/359 Exp:1522940 >w;k
+Your movement prevents you from doing the skill.                                                                                             
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+Dheos Dhominator the member of Catfolk < murhaa > <team 2>
+*****************************************************
+Dheos successfully dodges your futile slash.
+You miss Dheos.
+Dheos misses you.
+You successfully dodge Dheos's attack.
+Hp:1036/1043 Ep:329/359 Exp:1522940 >bla
+You are already fighting!
+Dupre reports: Hp: 1036 (1043) Sp: 29 (29) Ep: 329 (359).
+You start concentrating on the skill.
+Hp:1036/1043 Ep:329/359 Exp:1522940 >x
+*****************************************************
+Dheos successfully dodges your futile slash.
+Dheos successfully dodges your futile bash.
+Dheos smashes you making small marks.
+Dheos stomp-kicks you in the thigh.
+Dheos shreds air with his hands and screams 'Haii!'
+Suddenly someone is trying to claw his way out of your body!
+The pain forces you to your knees!
+You feel your head clearing up.
+You are no longer stunned.
+|-85| Hp: 951 (1043) || Ep: 329 (359)
+Dheos is in excellent shape.
+Dupre reports: Hp: 951 (1043) Sp: 29 (29) Ep: 329 (359).                                                                                     
+Dheos starts concentrating on a new offensive spell.                                                                                         
+Hp:951/1043 Ep:329/359 Exp:1522940 >bla
+You start concentrating on the skill.
+*****************************************************                                                                                        
+You miss Dheos.
+Dheos successfully dodges your futile bash.
+Dheos stomp-kicks you in the thigh.
+You successfully dodge Dheos's attack.
+|-38| Hp: 913 (1043) || Ep: 329 (359)
+x
+Dupre reports: Hp: 913 (1043) Sp: 29 (29) Ep: 329 (359).
+Dheos is in excellent shape.                                                                                                                 
+Your frenzy only exhausts you slightly.                                                                                                      
+Hp:913/1043 Ep:329/359 Exp:1522940 >x
+e
+*****************************************************
+You tear Dheos causing a small wound.
+Dheos successfully dodges your futile bash.
+Dheos smashes you making small marks.
+Dheos punches you making small marks.
+|-43| Hp: 870 (1043) |-1| Ep: 328 (359)
+Dheos is in a good shape.
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #2@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Dupre reports: Hp: 870 (1043) Sp: 29 (29) Ep: 328 (359).
+Dheos arrives from west.                                                                                                                     
+*****************************************************
+You try to dodge, but Dheos is not fooled.
+Dheos punches you making small marks.
+Dheos punches you making small marks.
+You miss Dheos.
+You miss Dheos.
+Dheos starts concentrating on a new offensive spell.                                                                                         
+Dupre reports: Hp: 824 (1043) Sp: 29 (29) Ep: 328 (359).
+*****************************************************                                                                                        
+Dheos misses you.
+Dheos misses you.
+You tear Dheos causing a small wound.
+Dheos successfully dodges your futile bash.
+|-46| Hp: 824 (1043) || Ep: 328 (359)
+bla
+Dupre reports: Hp: 824 (1043) Sp: 29 (29) Ep: 328 (359).                                                                                     
+Hp:824/1043 Ep:328/359 Exp:1522940 >x
+You start concentrating on the skill.
+Dheos is in a good shape.
+Hp:824/1043 Ep:328/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Dheos Dhominator the member of Catfolk < murhaa > <team 2>
+*****************************************************                                                                                        
+Dheos punches you making small marks.
+Dheos punches you making small marks.
+You tear Dheos making skin scorch.
+You miss Dheos.
+|-51| Hp: 773 (1043) || Ep: 328 (359)
+Dupre reports: Hp: 773 (1043) Sp: 29 (29) Ep: 328 (359).
+Hp:773/1043 Ep:328/359 Exp:1522940 >x
+Dheos is slightly hurt.
+Hp:773/1043 Ep:328/359 Exp:1522940 >n
+Rutaliator [saato+]: sähä otat nekkuu
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ #.2#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Hp:773/1043 Ep:328/359 Exp:1522940 >bla
+You start concentrating on the skill.
+Hp:773/1043 Ep:328/359 Exp:1522940 >spa joo
+Dupre [saato+]: joo
+Hp:773/1043 Ep:328/359 Exp:1522940 >s;bla
+Your movement prevents you from doing the skill.                                                                                             
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #2@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+You start concentrating on the skill.
+Hp:773/1043 Ep:328/359 Exp:1522940 >w
+Breathing heavily you stay in your battle frenzy.
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+Dheos Dhominator the member of Catfolk < murhaa > <team 2>
+*****************************************************
+You miss Dheos.
+You miss Dheos.
+Dheos misses you.
+Dheos punches you in the thigh.
+Dupre reports: Hp: 740 (1043) Sp: 29 (29) Ep: 326 (359).                                                                                     
+Hp:740/1043 Ep:326/359 Exp:1522940 >bla
+You start concentrating on the skill.
+Hp:740/1043 Ep:326/359 Exp:1522940 >x
+Dheos is slightly hurt.
+Hp:740/1043 Ep:326/359 Exp:1522940 >e
+Dheos claps his hands and whispers 'judicandus mercuree'
+*****************************************************
+Dheos tries to dodge your hit, but you are not fooled that easily!
+You tear Dheos causing bad burns.
+Dheos successfully dodges your futile bash.
+You successfully dodge Dheos's attack.
+You successfully dodge Dheos's attack.
+|-33| Hp: 740 (1043) |-2| Ep: 326 (359)
+Dheos leaves east.                                                                                                                           
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Dheos Dhominator the member of Catfolk < murhaa > <team 2>
+*****************************************************
+You miss Dheos.
+Dheos successfully dodges your futile bash.
+You successfully dodge Dheos's attack.
+Dheos smashes you making small marks.
+Hp:719/1043 Ep:326/359 Exp:1522940 >lur
+Dheos starts concentrating on a new offensive spell.
+Dupre reports: Hp: 719 (1043) Sp: 29 (29) Ep: 326 (359).
+Dupre reports: Hp: 719 (1043) Sp: 29 (29) Ep: 326 (359).                                                                                     
+You start concentrating on the skill.                                                                                                        
+Dupre [party]: luring                                                                                                                        
+Hp:719/1043 Ep:326/359 Exp:1522940 >x
+*****************************************************
+Dheos successfully dodges your futile slash.
+You miss Dheos.
+Dheos stomp-kicks you in the thigh.
+You successfully dodge Dheos's attack.
+|-58| Hp: 682 (1043) || Ep: 326 (359)
+Juo [saato+]: mites menee
+Dheos is slightly hurt.
+Dupre reports: Hp: 682 (1043) Sp: 29 (29) Ep: 326 (359).                                                                                     
+Delpers [saato+]: hmm                                                                                                                        
+Hp:682/1043 Ep:326/359 Exp:1522940 >x
+Dheos is slightly hurt.
+Hp:682/1043 Ep:326/359 Exp:1522940 >x
+*****************************************************                                                                                        
+Dheos tries to dodge your hit, but you are not fooled that easily!
+You tear Dheos making skin scorch.
+You STUN Dheos.
+You stroke Dheos causing a nasty laceration.
+Dagel (saato+): dheoksella vielä 2claw spt
+w
+Dheos is noticeably hurt.
+Hp:682/1043 Ep:326/359 Exp:1522940 >e
+Dupre reports: Hp: 682 (1043) Sp: 29 (29) Ep: 326 (359).
+Your movement prevents you from doing the skill.                                                                                             
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@2#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+          All around is a dense fog. You can see maybe                                                                                       
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Dheos Dhominator the member of Catfolk < murhaa > <team 2>
+Hp:682/1043 Ep:326/359 Exp:1522940 >bla
+You start concentrating on the skill.
+*****************************************************                                                                                        
+You shred Dheos causing a NASTY head wound.
+You stroke Dheos forcing a limb to be engulfed with flames.
+Dupre reports: Hp: 682 (1043) Sp: 29 (29) Ep: 326 (359).                                                                                     
+Hp:682/1043 Ep:326/359 Exp:1522940 >x
+Dheos is not in a good shape.
+*****************************************************                                                                                        
+You shred Dheos mutilating intestinal tissue.
+You stroke Dheos making flames sear right through to the bone.
+You exhaust yourself in your raging frenzy.
+Dupre reports: Hp: 682 (1043) Sp: 29 (29) Ep: 323 (359).
+Hp:682/1043 Ep:323/359 Exp:1522940 >roar
+You roar like the huge tiger you are!.                                                                                                       
+Hp:682/1043 Ep:323/359 Exp:1522940 >x
+Dheos is in very bad shape.
+Ice golem shouts 'Shalidor was just DOGMEAT, who is next?'                                                                                   
+*****************************************************
+You shred Dheos causing heart tissue to fly everywhere.
+You stroke Dheos forcing the heart to incinerate.
+Dheos lapses into unconsciousness from severe loss of blood.
+|| Hp: 682 (1043) |-3| Ep: 323 (359)
+Juo [saato+]: väisteleks clawit
+Dupre reports: Hp: 682 (1043) Sp: 29 (29) Ep: 323 (359).
+Dagel (saato+): 115                                                                                                                          
+Hp:682/1043 Ep:323/359 Exp:1522940 >spa voitin
+Rutaliator [saato+]: go dupre!
+Dupre [saato+]: voitin
+*****************************************************                                                                                        
+You incise Dheos causing heart tissue to fly everywhere.
+You stroke Dheos causing heart tissue to fly everywhere.
+Blood pours from Dheos's wounds.
+You are prepared to do the skill.
+You make a great cleaving maneuver, but your enemy blocks your attack.
+Delpers [saato+]: dheos saa viel 2 clawia
+Dupre reports: Hp: 682 (1043) Sp: 29 (29) Ep: 301 (359).
+Dagel (saato+): niin teit                                                                                                                    
+*****************************************************                                                                                        
+You tear Dheos forcing the heart to incinerate.
+Dheos howls in agony as the evil mace crushes bones!
+You thrust Dheos causing heart tissue to fly everywhere.
+Dheos loses the privilege to live.
+Dheos is DEAD, R.I.P.
+Dheos dies and is carried away by two clerics.
+The arena master shouts 'Dheos of team 2 dies and is removed from the arena!'
+Dheos leaves away.
+|| Hp: 682 (1043) |-22| Ep: 301 (359)
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Dupre'

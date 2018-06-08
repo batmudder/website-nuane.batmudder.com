@@ -1,0 +1,8 @@
+#ECHO Reports resists known with combat damage analysis on report channel.
+#ECHO  
+#TRIGGER {^([^;]) is defenseless against ([a-zA-Z ]) damage.$} {party report %1 screams %2 (0% resist);#CW bright,green} "cda"
+#TRIGGER {^([^;]) seems to be almost defenseless against ([a-zA-Z ]) damage.$} {party report %1 writhes %2 (20% resist);#cw green} "cda"
+#TRIGGER {^([^;]) has some resistance against ([a-zA-Z ]) damage.$} {party report %1 shudders %2 (40% resist);#cw yellow} "cda"
+#TRIGGER {^([^;]) seems to be moderately resistant against ([a-zA-Z ]) damage.$} {party report %1 grunts %2 (60% resist);#cw bright yellow} "cda"
+#TRIGGER {^([^;]) has good resistance against ([a-zA-Z ]) damage.$} {party report %1 winces %2 (80% resist);#cw red} "cda"
+#TRIGGER {^([^;]) seems almost immune against ([a-zA-Z ]) damage.$} {party report %1 shrugs %2 (100% resist);#cw bright red} "cda"

@@ -1,0 +1,1615 @@
+Henry is in very bad shape.
+[20:07:53] hp 960/960 | sp 323/1145 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Makke starts concentrating on a new spell.
+You are casting 'harm body' at 'henry'.
+[20:07:54] hp 960/960 | sp 323/1145 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1524 (1720) Sp: 36 (36) Ep: 386 (415).
+Ruffneck starts concentrating on a new offensive spell.
+Zipob starts concentrating on a new offensive spell.
+scan all
+cast info
+*****************************************************
+An image of Henry vanishes.
+Broetchen hits Henry 1 time.
+An image of Henry vanishes.
+Kharadus hits Henry 1 time.
+Henry hits Merioli 3 times.
+Henry's eyes open wide with pain as Broetchen pounds him!
+An image of Henry vanishes.
+Geryon cast(s): 'PAF PAF PAF!' (Harm body)
+Geryon casts a harming spell on Henry.
+Kharadus reports: Hp: 999 (2262) Sp: 473 (721) Ep: 529 (529).
+Merioli reports: Hp: 1171 (1803) Sp: 463 (1124) Ep: 500 (500).
+Henry is near death.
+[20:07:56] hp 960/960 | sp 323/1145 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are casting 'harm body' at 'henry'.
+[20:07:57] hp 960/960 | sp 323/1145 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1524 (1720) Sp: 36 (36) Ep: 356 (415).
+Info: Tatza goes link dead.
+Baltzebub (fin): kukas tietaa jotain tasta coloseum lqsta
+Harm body: 2
+Harm body: 1 (haste)
+scan all
+cast info
+*****************************************************
+Henry hits Merioli 2 times.
+Makke cast(s): 'judicandus pafzarmus' (Major heal)
+Makke casts her spell at Kharadus.
+Kharadus plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+Kharadus grins as his con fioco hits Henry.
+An image of Henry vanishes.
+Merioli cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Henry screams in anger 'How dare you show your faces here again? Do you think
+I have forgotten you already!?'
+Henry utters the words of an ancient and powerful spell 'xzca ad cxjiw'
+Kharadus left somewhere.
+Kharadus disappears into thick air.
+Gotrek cast(s): 'tora tora tora' (Psychic crush)
+Gotrek crushes Henry's mind with a powerful psychic attack!
+All images of Henry vanish!
+Geryon cast(s): 'PAF PAF PAF!' (Harm body)
+Geryon casts a harming spell on Henry.
+Geryon starts concentrating on a new offensive spell.
+Kharadus reports: Hp: 1660 (2262) Sp: 325 (721) Ep: 529 (529).
+Merioli reports: Hp: 1112 (1803) Sp: 357 (1124) Ep: 500 (500).
+Samebi [sales]: soldie
+Ruffneck [party]: Kharadus just got BANISHED!
+Merioli starts concentrating on a new spell.
+Henry is near death.
+[20:07:59] hp 960/960 | sp 323/1145 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are casting 'harm body' at 'henry'.
+[20:07:59] hp 960/960 | sp 323/1145 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1584 (1720) Sp: 36 (36) Ep: 356 (415).
+Gotrek (party): Henry shrugs (psi)
+Makke starts concentrating on a new spell.
+Gotrek leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Hallway (s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Geryon is now in the 1st row.
+Ruffneck is now in the 2nd row.
+Zipob arrives from south.
+Geryon [party]: panic, I'm in first row
+Gotrek leaves east.
+Hallway (s,w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Gotrek leaves east.
+Hallway (s,w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+regen
+[20:08:02] hp 960/960 | sp 323/1145 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek leaves east.
+Hallway (n,s,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Makke starts concentrating on a new spell.
+You remove Tattered Silver Shimmering Cloak labeled as *wis*, Holy vest of Yak, spark, the claw of fire, Blue glove of master Conjurer, Blue glove of master Conjurer, The gleaming blue collar of Bengalore labeled as +wis, the stone amulet of the earth elementalist, the staff of olympus, Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (powerful), Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (powerful), golden belt of Fair River-Daughter, Pulsing Leggings and a pair of black boots.
+[20:08:03] hp 960/960 | sp 323/1019 | ep 352/349 | exp 25238 | $ 1100/358815 | wimpy: off
+
+As you wear the collar, you feel it slowly tightening around your neck...
+As you set your fingers upon the strings of the kanteel, a sound of such
+beauty issues from it that tears spring upon your eyes. A surge of warmth
+spreads from your fingers into your body. 
+ 
+You GLOW brightly! 
+ 
+You wear a druid's crescent made of silver (glowing) <blue glow>, Red Glove of the Healer labeled as (Naane) (glowing), Red Glove of the Healer (glowing), a collar made of black silk (glowing) <red glow>, an engraved cross amulet (glowing) <red glow>, the pikebone kanteel (glowing) <red glow>, A heavy black metal ring (glowing), A heavy black metal ring (glowing), Girdle of Ethereal Power (glowing) <red glow>, a battle-scarred shin guard (glowing), a battle-scarred shin guard (glowing), a pair of blue radium boots (glowing) <red glow>, a torn leather muscle shirt labeled as (Naane) (glowing) and a magic cloak (glowing).
+[20:08:03] hp 960/960 | sp 323/1019 | ep 352/349 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek leaves east.
+Hallway (n,s,w,e).
+a small pile of bronze coins, a small pile of silver coins
+and a highsteel longsword
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Gotrek leaves east.
+Hallway (s,n,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Gotrek leaves east.
+Hallway (s,w,n,e).
+two highsteel longswords, a small pile of
+bronze coins, a pile of zinc coins, one batium coin,
+a small pile of copper coins, a big wooden mug, a small
+barrel of pixie-ale, a chunk of ham, a big white bread,
+a slice of hard, brown bread, a hot piece of chicken and
+a small delicate cookie
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Ruffneck removes Blue glove of master Conjurer, Blue glove of master Conjurer, a little leather bag, a large yellow gem, emitting a bright yellowish light, Ring of the Medusa, moonstone leggings, a pair of black boots, a sparkling breastplate and the shining helm of azakh-khanan.
+As Ruffneck hefts The Pikebone Kanteel in his hands, a string, a melody, so
+wonderful as to make you freeze in bewilderment, escapes from the instrument. 
+
+Ruffneck GLOWS brightly! 
+ 
+Ruffneck wears a white glove (glowing) <red glow>, a white glove (glowing) <red glow>, a majectical black crown (glowing) <yellow glow>, Mirror breastplate (glowing) <orange glow>, a collar made of black silk (glowing) <orange glow>, the pikebone kanteel (glowing) <orange glow>, a mithril ring, called 'eckma' (glowing) <purple glow>, Boots of the Goddess (glowing) <orange glow> and Black Leggings of the Sorcerer <black aura> (glowing) <white glow>.
+Makke starts concentrating on a new spell.
+Broetchen (party): nd :)
+Gotrek leaves east.
+Hallway (n,w,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+ps
+Kharadus [party]: Heavy Weight Expires. [112m59s]
+Gotrek leaves north.
+Hallway (w,s).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Geryon removes the shining helm of azakh-khanan, Shield of a Thousand Reflections, spark, the claw of fire, Moonshade, coral great belt labeled as iso D, a rose clasp, gloves of Nimbleness <|geryon|> and a pair of pure white flowing sleeves labeled as <|MM|>.
+,-----------------------------------------------------------------------------.
+| Party Name: Team Sweden                  (Members:  9) | Exp Tot:    907930 |
+| Created: Tue Sep 09 18:07:58 2003        ( 2h  0m  8s) | Exp/min:      7503 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Geryon        fol 1494(1483)  811(1377) 445(449) | 100 |       103450 |
+| 1.2   Broetchen     fol 1584(1720)   36(  36) 356(415) |  92 |        98403 |
+| 1.3   Merioli       fol 1131(1803)  373(1124) 500(500) |  90 |       118673 |
+| 2.1   Ruffneck      fol  774( 801)  806(1828) 253(267) | 100 |        98459 |
+| 2.2   Zipob         fol 1039(1039)  568(1166) 456(456) | 100 |       103111 |
+| 2.3   Nuane         fol  960( 990)  323(1024) 352(352) | 100 |       103447 |
+| 3.2   Gotrek        ldr  889( 932)  244(1751) 296(311) |  69 |        94829 |
+| 3.3   Makke         fol  933( 937)  567( 929) 279(288) |  80 |        90456 |
+| ?.?   Kharadus      mbr 1682(2262)  347( 721) 529(529) |  90 |        97102 |
+`-----------------------------------------------------------------------------'
+[20:08:06] hp 960/990 | sp 323/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Geryon shivers from the cold.
+Geryon wears Vanadium glove ^Geryon^ <|geryon|> (glowing), Vanadium glove 'Rumi' <|geryon|> (glowing), The Sceptre of the Apocalypse (glowing), an ancient staff of the necromancer (glowing), a Golden Helm (glowing) <red glow>, Belt of bones (glowing) and Sacred Bracelets of Eternity <|geryon|> (glowing) <red glow>.
+Merioli starts concentrating on a new spell.
+Makke starts concentrating on a new spell.
+Gotrek leaves west.
+Hallway (n,w,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Gotrek leaves north.
+Hallway (s,w).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+hp 978/990 (+18) | sp 414/1024 (+91) | ep 352/352 ()
+Makke starts concentrating on a new spell.
+Gotrek leaves west.
+Hallway (w,s,n,e).
+three highsteel longswords, a small pile
+of silver coins, a pile of copper coins and a small pile of
+gold coins
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+c nuane
+Saapas [sales]: +2dodge bracelet  mb100k
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[20:08:09] hp 978/990 | sp 414/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Hallway (n,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Nuane (party): Casting concealed.
+[20:08:09] hp 978/990 | sp 414/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek leaves north.
+Hallway (s).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Cyberlahko [fin]: mitäs siitä
+Makke starts concentrating on a new spell.
+Gotrek leaves south.
+Hallway (n,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Gotrek leaves south.
+Hallway (w,s,n,e).
+three highsteel longswords, a small pile
+of silver coins, a pile of copper coins and a small pile of
+gold coins
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Gotrek leaves south.
+Hallway (w,n,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Gotrek (party): xformed
+damn
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[20:08:15] hp 978/990 | sp 414/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek leaves south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Hallway (s,n,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Makke starts concentrating on a new spell.
+Merioli starts concentrating on a new spell.
+Nuane (party): Casting concealed.
+[20:08:16] hp 978/990 | sp 414/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek removes the Trilloch's ring labeled as <|Team Sweden|>, a black scaly crown, made of thorns labeled as <|Team Sweden|>, Blue glove of master Conjurer, Blue glove of master Conjurer, a little leather bag labeled as <|Team Sweden|>, a dull black amulet...it has a black aura around it labeled as <|Team Sweden|>, a black cloak (evil glow), blue silk armband with silver symbol labeled as <|Team Sweden|>, blue silk armband with silver symbol labeled as <|Team Sweden|>, Nova Arcanum, Melkior's book of necromancy labeled as <|Team Sweden|>, Nova Arcanum, Melkior's book of necromancy labeled as <|MM|>, Ring of the Medusa labeled as <|Team Sweden|>, segmented titanium belt labeled as <|Team Sweden|> and glittering leg protectors.
+Gotrek wears a Golden Helm labeled as <|Team Sweden|> (glowing) <purple glow>, a collar made of black silk labeled as <|Team Sweden|> (glowing) <red glow>, Spider Amulet labeled as <|Team Sweden|> (glowing) <red glow>, The Bracers of Gods labeled as <|Team Sweden|> (glowing) <red glow>, Girdle of Ethereal Power labeled as {spr} (glowing) <red glow>, the Trilloch's cloak (glowing) <red glow>, A heavy black metal ring (glowing), A heavy black metal ring (glowing), a wand of magic (glowing) <purple glow>, a wand of magic (glowing) <red glow>, A pair of beautiful silk gloves labeled as <|Team Sweden|> (glowing) and leggings of putrid flesh (undead) labeled as <|Team Sweden|> (glowing) <purple glow>.
+Gotrek leaves east.
+Hallway (s,w,n,e).
+two highsteel longswords, a small pile of
+bronze coins, a pile of zinc coins, one batium coin,
+a small pile of copper coins, a big wooden mug, a small
+barrel of pixie-ale, a chunk of ham, a big white bread,
+a slice of hard, brown bread, a hot piece of chicken and
+a small delicate cookie
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Samebi [wanted]: pillua
+Gotrek leaves east.
+Hallway (n,w,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Makke starts concentrating on a new spell.
+Gotrek leaves south.
+Hallway (w,n,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Merioli starts concentrating on a new spell.
+Gotrek leaves east.
+Hallway (w).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Gotrek leaves west.
+Hallway (w,n,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Gotrek leaves west.
+Hallway (s,w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Gotrek leaves south.
+Hallway (s,n,w).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Baltzebub (fin): lahinna etta miten taa edes alotetaan =)
+Gotrek leaves west.
+Hallway (w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Makke starts concentrating on a new spell.
+Gotrek leaves west.
+Hallway (s,n,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Gotrek leaves south.
+Hallway (s,n).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Manwe [wanted]: tuu hakee
+Gotrek leaves north.
+Hallway (s,n,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Gotrek leaves west.
+Hallway (s,w,n,e).
+a highsteel longsword and a huge pile of mowgles coins
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Gitador [wanted]: i wont share mine with ya
+Gotrek leaves west.
+Hallway (s,n,e).
+a highsteel longsword
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Info: Piiper enters the game.
+Stalgrad {wanted}: party for channeller
+Gotrek leaves south.
+Hallway (n).
+a highsteel longsword and a pile of mowgles coins
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Gotrek leaves north.
+Hallway (s,n,e).
+a highsteel longsword
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Gotrek leaves north.
+Hallway (s,w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Makke starts concentrating on a new spell.
+Gotrek leaves west.
+Hallway (n,e).
+a highsteel longsword, a small pile of silver coins and
+18 bronze coins
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Info: Captnapalm left the game.
+Merioli starts concentrating on a new spell.
+Spider Queen smiles upon you and helps you control the demon.
+Gotrek (party): Aura of Hate Expires.
+damn
+Info: Aleksey left the game.
+You start chanting.
+[20:08:35] hp 978/990 | sp 395/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek (party): henry running
+hp 978/990 () | sp 395/1024 (-19) | ep 352/352 ()
+Damn armament: 3
+Damn armament: 1 (greater haste)
+Gotrek leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Hallway (s,w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+damn
+Gotrek leaves west.
+Hallway (s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+You start chanting.
+[20:08:37] hp 978/990 | sp 395/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Merioli starts concentrating on a new spell.
+Info: Captnapalm enters the game.
+Gotrek leaves south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+At a portal (n).
+An empty alchemist's flask, a highsteel longsword and 10 gold
+coins
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+p say Full hp.
+You feel fully healed.
+hp 990/990 (+12) | sp 546/1024 (+151) | ep 352/352 ()
+Nuane (party): Full hp.
+[20:08:39] hp 990/990 | sp 546/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Makke starts concentrating on a new spell.
+damn
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[20:08:40] hp 990/990 | sp 546/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Nuane (party): Casting concealed.
+[20:08:40] hp 990/990 | sp 546/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek starts concentrating on a new spell.
+Gotrek (party): Summoning kharadus
+Merioli starts concentrating on a new spell.
+Damn armament: 3
+Damn armament: 1 (greater haste)
+Gotrek (party): to white room again
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Team Sweden                  (Members:  9) | Exp Tot:    907930 |
+| Created: Tue Sep 09 18:07:58 2003        ( 2h  0m 45s) | Exp/min:      7503 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Geryon        fol 1483(1483)  901(1394) 445(445) | 100 |       103450 |
+| 1.2   Broetchen     fol 1621(1720)   36(  36) 362(415) |  92 |        98403 |
+| 1.3   Merioli       fol 1156(1803)  422(1124) 500(500) |  90 |       118673 |
+| 2.1   Ruffneck      fol  775( 801)  897(1828) 256(267) | 100 |        98459 |
+| 2.2   Zipob         fol 1039(1039)  710(1166) 456(456) | 100 |       103111 |
+| 2.3   Nuane         fol  990( 990)  546(1024) 352(352) | 100 |       103447 |
+| 3.2   Gotrek        ldr  718( 718)  221(1410) 300(298) |  69 |        94829 |
+| 3.3   Makke         fol  936( 937)  647( 929) 282(288) |  80 |        90456 |
+| ?.?   Kharadus      mbr 1707(2190)  439( 721) 529(525) |  90 |        97102 |
+`-----------------------------------------------------------------------------'
+[20:08:43] hp 990/990 | sp 546/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are done with the chant.
+You point toward the object and shout 'Gawd DAMN IT!' (Damn armament)
+You call a curse upon spark.
+hp 990/990 () | sp 462/1024 (-84) | ep 352/352 ()
+Merioli cast(s): 'judicandus mangenic' (Cure critical wounds)
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Team Sweden                  (Members:  9) | Exp Tot:    907930 |
+| Created: Tue Sep 09 18:07:58 2003        ( 2h  0m 49s) | Exp/min:      7503 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Geryon        fol 1483(1483)  901(1394) 445(445) | 100 |       103450 |
+| 1.2   Broetchen     fol 1621(1720)   36(  36) 362(415) |  92 |        98403 |
+| 1.3   Merioli       fol 1354(1803)  373(1124) 500(500) |  90 |       118673 |
+| 2.1   Ruffneck      fol  775( 801)  897(1828) 256(267) | 100 |        98459 |
+| 2.2   Zipob         fol 1039(1039)  710(1166) 456(456) | 100 |       103111 |
+| 2.3   Nuane         fol  990( 990)  462(1024) 352(352) | 100 |       103447 |
+| 3.2   Gotrek        ldr  718( 718)  221(1410) 300(298) |  69 |        94829 |
+| 3.3   Makke         fol  936( 937)  647( 929) 282(288) |  80 |        90456 |
+| ?.?   Kharadus      mbr 1707(2190)  439( 721) 529(525) |  90 |        97102 |
+`-----------------------------------------------------------------------------'
+[20:08:47] hp 990/990 | sp 462/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Merioli starts concentrating on a new spell.
+c nuane
+You start chanting.
+[20:08:48] hp 990/990 | sp 462/1024 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Spider demon control: 1
+Makke cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Gitador [wanted]: Expa for barbie doll..
+Makke starts concentrating on a new spell.
+You are done with the chant.
+You stand firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+You feed Nuane's spider demon's hunger with your ritual.
+hp 990/990 () | sp 429/1027 (-33) | ep 352/352 ()
+c merioli
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[20:08:52] hp 990/990 | sp 429/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Nuane (party): Casting concealed.
+[20:08:53] hp 990/990 | sp 429/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Team Sweden                  (Members:  9) | Exp Tot:    907930 |
+| Created: Tue Sep 09 18:07:58 2003        ( 2h  0m 55s) | Exp/min:      7503 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Geryon        fol 1483(1483)  901(1394) 445(445) | 100 |       103450 |
+| 1.2   Broetchen     fol 1720(1720)   36(  36) 372(415) |  92 |        98403 |
+| 1.3   Merioli       fol 1545(1803)  373(1124) 500(500) |  90 |       118673 |
+| 2.1   Ruffneck      fol  801( 801)  897(1828) 256(267) | 100 |        98459 |
+| 2.2   Zipob         fol 1039(1039)  710(1166) 456(456) | 100 |       103111 |
+| 2.3   Nuane         fol  990( 990)  429(1027) 352(352) | 100 |       103447 |
+| 3.2   Gotrek        ldr  718( 718)  221(1410) 300(298) |  69 |        94829 |
+| 3.3   Makke         fol  937( 937)  569( 929) 282(288) |  80 |        90456 |
+| ?.?   Kharadus      mbr 1707(2190)  439( 721) 529(525) |  90 |        97102 |
+`-----------------------------------------------------------------------------'
+[20:08:53] hp 990/990 | sp 429/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Spider demon control: 1
+Merioli cast(s): 'judicandus mangenic' (Cure critical wounds)
+Gotrek cast(s): 'gwwaaajj' (Summon)
+Kharadus snaps into existence.
+Kharadus [party]: Gotrek has summoned me.
+Kharadus starts following the leader.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Team Sweden                  (Members:  9) | Exp Tot:    907930 |
+| Created: Tue Sep 09 18:07:58 2003        ( 2h  0m 59s) | Exp/min:      7503 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Geryon        fol 1483(1483)  901(1394) 445(445) | 100 |       103450 |
+| 1.2   Broetchen     fol 1720(1720)   36(  36) 372(415) |  92 |        98403 |
+| 1.3   Merioli       fol 1725(1803)  324(1124) 500(500) |  90 |       118673 |
+| 2.1   Ruffneck      fol  801( 801) 1030(1828) 260(267) | 100 |        98459 |
+| 2.2   Zipob         fol 1039(1039)  710(1166) 456(456) | 100 |       103111 |
+| 2.3   Nuane         fol  990( 990)  429(1027) 352(352) | 100 |       103447 |
+| 3.1   Kharadus      fol 1707(2190)  439( 721) 529(525) |  90 |        97102 |
+| 3.2   Gotrek        ldr  718( 718)    8(1410) 300(298) |  69 |        94829 |
+| 3.3   Makke         fol  937( 937)  569( 929) 282(288) |  80 |        90456 |
+`-----------------------------------------------------------------------------'
+[20:08:57] hp 990/990 | sp 429/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Kharadus [party]: Protection from Good Expires. [16m40s]
+You are done with the chant.
+You stand firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+You feed Merioli's spider demon's hunger with your ritual.
+hp 990/990 () | sp 396/1027 (-33) | ep 352/352 ()
+Makke cast(s): 'judicandus puorgo mangenic' (Major party heal)
+pfg kharadus
+[20:09:00] hp 990/990 | sp 396/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You start chanting.
+[20:09:00] hp 990/990 | sp 396/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Nuane (party): Protection from good -> kharadus
+[20:09:00] hp 990/990 | sp 396/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Protection from good: 10
+*Kharadus ticks 114 sps[16m40s].
+tweak kharadus
+You tweak Kharadus's nose mischievously.
+[20:09:02] hp 990/990 | sp 396/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Kharadus [party]: Prots: [Us 44m36s|Warez 3m24s|Fsh 19m4s]
+Protection from good: 9
+Kharadus removes Ancient Bracers of Xzui, Shield of a Thousand Reflections labeled as Spr, sparkling ruby ring, sparkling ruby ring, Tattered Silver Shimmering Cloak, Glimmering Belt of the Elements, a pair of dirty leggings, an ancient staff of the necromancer labeled as <ancient>, the blue bracelets of magic, mask of a bearded human male, a purple glove, a purple glove, red robe with mystic symbol at back and necklace made out of sharp fangs.
+Merioli [party]: (Full HP)
+Kharadus is so COOL in his liquid metal shirt!
+Kharadus wears Crown of Vipers <yellow glow>, a great emerald hanging from a dragon skin chain, alchemist moulded ring labeled as pr3 <red glow>, alchemist moulded ring labeled as pr3 <red glow>, a fragile blue belt of unholy resistance <yellow glow>, a striking liquid metal shirt (fashion) <orange glow>, A Paw from the Maneater of Rudraprayag <red glow>, A Paw from the Maneater of Rudraprayag <red glow>, black silk bracelet with tiger claw ornament, black silk bracelet with tiger claw ornament, a pair of leggings, made of human flesh <red glow> and scaly cloak of diffusion <yellow glow>.
+Kharadus wields The Legendary Shield known as 'The Fire and the Fury' (glowing) <orange glow> in his right paw.
+Kharadus wields shield of Ages (glowing) <orange glow> in his left paw.
+Protection from good: 8
+Protection from good: 7 (haste)
+Gotrek (party): hey this goes fast :p
+Kharadus is surrounded by a circle of blue flames!
+hp 990/990 () | sp 564/1027 (+168) | ep 352/352 ()
+Protection from good: 5 (greater haste)
+Protection from good: 3
+Info: Qwarzz recovers from link death.
+Gotrek (party): even with kharabuse
+Protection from good: 2
+Protection from good: 1 (haste)
+Geryon stands firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+Kharadus [party]: Aura of Hate Expires.
+Ruffneck tweaks Kharadus's nose mischievously.
+Kharadus [party]: Prots: [Us 44m49s|Warez 3m37s|Fsh 19m16s]
+Jane shouts 'Aranon drowned in its own blood!'
+Info: Aranon dies.
+You are done with the chant.
+This spell is not stackable with other resistances.
+Geryon stands firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+Ruffneck sits down.
+Merioli [party]: without abuse it would've been dead in notime :)
+Ruffneck starts concentrating on a new spell.
+Ruffneck [party]: SP = 300 -> gotrek
+wait kharadus
+You wait for Kharadus.
+[20:09:23] hp 990/990 | sp 564/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek (party): on my sp
+Gotrek removes A heavy black metal ring, a Golden Helm labeled as <|Team Sweden|>, a collar made of black silk labeled as <|Team Sweden|>, Spider Amulet labeled as <|Team Sweden|>, the Trilloch's cloak, The Bracers of Gods labeled as <|Team Sweden|>, A heavy black metal ring, A pair of beautiful silk gloves labeled as <|Team Sweden|>, a wand of magic, a wand of magic, Girdle of Ethereal Power labeled as {spr} and leggings of putrid flesh (undead) labeled as <|Team Sweden|>.
+Gotrek winces painfully.
+Gotrek wears a black scaly crown, made of thorns labeled as <|Team Sweden|> (glowing), a dull black amulet...it has a black aura around it labeled as <|Team Sweden|> (glowing) <red glow>, a little leather bag labeled as <|Team Sweden|> (glowing), a black cloak (evil glow) (glowing), blue silk armband with silver symbol labeled as <|Team Sweden|> (glowing) <red glow>, blue silk armband with silver symbol labeled as <|Team Sweden|> (glowing) <red glow>, Ring of the Medusa labeled as <|Team Sweden|> (glowing) <red glow>, Blue glove of master Conjurer (glowing) <red glow>, Blue glove of master Conjurer (glowing) <red glow>, Nova Arcanum, Melkior's book of necromancy labeled as <|Team Sweden|> (glowing), Nova Arcanum, Melkior's book of necromancy labeled as <|MM|> (glowing) <red glow>, segmented titanium belt labeled as <|Team Sweden|> (glowing), glittering leg protectors (glowing) <red glow> and the Trilloch's ring labeled as <|Team Sweden|>.
+Merioli [party]: how long is abuse btw?
+Gotrek (party): 15 days i think
+Info: Luca left the game.
+Ruffneck spreads his fingers and whispers 'enfuego delyo' (Replenish ally)
+Ruffneck forms an energy link with Gotrek by putting his hands on his head.
+hp 990/990 () | sp 734/1027 (+170) | ep 352/352 ()
+Gotrek (party): eer the generic is 15
+Info: Luca enters the game.
+c nuane
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[20:09:39] hp 990/990 | sp 734/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Nuane (party): Casting concealed.
+[20:09:39] hp 990/990 | sp 734/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek (party): personal mebbe 45
+Spider demon control: 1
+Gotrek leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Hallway (s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Kharadus barks as he runs from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Gotrek starts concentrating on a new offensive spell.
+Gotrek leaves east.
+Hallway (s,w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Gotrek leaves east.
+Hallway (s,w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Gotrek starts concentrating on a new offensive spell.
+dam
+[20:09:41] hp 990/990 | sp 734/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You remove the collar, and the tightness around your neck is gone..
+You remove a magic cloak, a torn leather muscle shirt labeled as (Naane), Red Glove of the Healer labeled as (Naane), Red Glove of the Healer, a collar made of black silk, an engraved cross amulet, the pikebone kanteel, a druid's crescent made of silver, A heavy black metal ring, A heavy black metal ring, Girdle of Ethereal Power, a battle-scarred shin guard, a battle-scarred shin guard and a pair of blue radium boots.
+[20:09:41] hp 990/990 | sp 734/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You wield spark, the claw of fire (glowing) <burning> <red glow> in your right hand.
+[20:09:41] hp 990/990 | sp 734/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You wear Blue glove of master Conjurer (glowing) <red glow>, Blue glove of master Conjurer (glowing) <red glow>, The gleaming blue collar of Bengalore labeled as +wis (glowing) <red glow>, the stone amulet of the earth elementalist (glowing), the staff of olympus (glowing), Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (powerful) (glowing), Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (powerful) (glowing), golden belt of Fair River-Daughter (glowing), Pulsing Leggings (glowing) <red glow>, a pair of black boots (glowing), Holy vest of Yak (glowing) and Tattered Silver Shimmering Cloak labeled as *wis* (glowing) <red glow>.
+** Cost for '@wear blue glove 1,blue glove 2,blue collar,stone amulet,staff,ring of wisdom 1,ring of wisdom 2,golden belt,pulsing leggings,black boots,vest of yak,silver cloak': Cost: utime:20 stime:0 ticks:103390 **
+[20:09:41] hp 990/990 | sp 734/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Merioli [party]: ( Aura of hate DOWN )
+hp 960/960 (-30) | sp 734/1148 () | ep 352/361 ()
+*Kharadus ticks 66 sps[19m16s].
+Gotrek leaves east.
+Hallway (n,s,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Gotrek leaves east.
+Hallway (n,s,w,e).
+a small pile of bronze coins, a small pile of silver coins
+and a highsteel longsword
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Merioli [party]: ahso
+Gotrek leaves east.
+Hallway (s,n,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Gotrek leaves east.
+Hallway (s,w,n,e).
+two highsteel longswords, a small pile of
+bronze coins, a pile of zinc coins, one batium coin,
+a small pile of copper coins, a big wooden mug, a small
+barrel of pixie-ale, a chunk of ham, a big white bread,
+a slice of hard, brown bread, a hot piece of chicken and
+a small delicate cookie
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Geryon [party]: stop
+Kharadus [party]: abuse prot is 28days
+Gotrek (party): goes
+Kharadus [party]: or 30days
+Ruffneck removes a white glove, a white glove, a majectical black crown, a collar made of black silk, a mithril ring, called 'eckma', the pikebone kanteel, Black Leggings of the Sorcerer <black aura>, Boots of the Goddess and Mirror breastplate.
+Ruffneck wears the shining helm of azakh-khanan (glowing) <orange glow>, a sparkling breastplate <orange glow>, a little leather bag (glowing) <yellow glow>, Blue glove of master Conjurer (glowing) <red glow>, Blue glove of master Conjurer (glowing) <red glow>, Ring of the Medusa (glowing) <red glow>, moonstone leggings (glowing) <yellow glow>, a pair of black boots (glowing) <orange glow> and a large yellow gem, emitting a bright yellowish light (glowing) <yellow glow>.
+Geryon [party]: NO
+Gotrek leaves south.
+Hallway (s,w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Henry Amberley, defender of the Amberleys
+Makke arrives from north.
+Ruffneck arrives from north.
+Kharadus barks as he runs from north.
+Broetchen arrives from north.
+scan all
+cast info
+*****************************************************
+Henry hits Broetchen 3 times.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Gotrek starts concentrating on a new offensive spell.
+habo henry
+Kharadus reports: Hp: 1969 (2012) Sp: 619 (721) Ep: 529 (529).
+Makke [party]: avoided ambush
+Henry is near death.
+[20:09:54] hp 960/960 | sp 734/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are not doing anything at the moment.
+[20:09:54] hp 960/960 | sp 734/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You start chanting.
+[20:09:54] hp 960/960 | sp 734/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1418 (1720) Sp: 36 (36) Ep: 396 (415).
+Kharadus starts concentrating on a new offensive spell.
+Ruffneck starts concentrating on a new offensive spell.
+Zipob starts concentrating on a new offensive spell.
+Merioli starts concentrating on a new spell.
+Broetchen starts concentrating on a new offensive skill.
+Makke starts concentrating on a new spell.
+scan all
+cast info
+*****************************************************
+Henry hits Geryon 1 time.
+Merioli hits Henry 1 time.
+Harm body: 6
+Harm body: 4 (greater haste)
+Kharadus reports: Hp: 1969 (2012) Sp: 619 (721) Ep: 529 (529).
+Merioli reports: Hp: 1575 (1575) Sp: 459 (1162) Ep: 512 (511).
+Henry is near death.
+[20:09:56] hp 960/960 | sp 734/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are casting 'harm body' at 'henry'.
+[20:09:57] hp 960/960 | sp 734/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1418 (1720) Sp: 36 (36) Ep: 396 (415).
+Merioli [party]: listen to poor gery!
+scan all
+cast info
+*****************************************************
+Broetchen hits Henry 1 time.
+Henry hits Broetchen 3 times.
+Geryon hits Henry 1 time.
+Harm body: 3
+Harm body: 1 (greater haste)
+Zipob sneers and cackles the word 'torrfra'
+A glowing white mystical symbol appears in the air before Henry.
+Zipob grins as her word of spite hits Henry.
+Kharadus reports: Hp: 1969 (2012) Sp: 619 (721) Ep: 529 (529).
+Merioli reports: Hp: 1575 (1575) Sp: 459 (1162) Ep: 512 (511).
+Henry is near death.
+[20:09:59] hp 960/960 | sp 734/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are casting 'harm body' at 'henry'.
+[20:10:00] hp 960/960 | sp 734/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1128 (1720) Sp: 36 (36) Ep: 396 (415).
+Zipob starts concentrating on a new offensive spell.
+Geryon leaves south.
+Geryon left somewhere.
+Gotrek leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Hallway (s,w,n,e).
+two highsteel longswords, a small pile of
+bronze coins, a pile of zinc coins, one batium coin,
+a small pile of copper coins, a big wooden mug, a small
+barrel of pixie-ale, a chunk of ham, a big white bread,
+a slice of hard, brown bread, a hot piece of chicken and
+a small delicate cookie
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Kharadus barks as he runs from south.
+Broetchen arrives from south.
+Merioli sneaks in from south.
+Ruffneck is now in the 1st row.
+Kharadus is now in the 2nd row.
+Zipob arrives from south.
+Gotrek leaves west.
+Hallway (s,n,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Kharadus barks as he runs from east.
+Broetchen arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Merioli starts concentrating on a new spell.
+Info: Trae goes link dead.
+Spider Queen smiles upon you and helps you control the demon.
+regen
+Gotrek leaves south.
+Hallway (s,n,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Kharadus barks as he runs from north.
+Broetchen arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+[20:10:04] hp 960/960 | sp 714/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You remove Tattered Silver Shimmering Cloak labeled as *wis*, Holy vest of Yak, spark, the claw of fire, Blue glove of master Conjurer, Blue glove of master Conjurer, The gleaming blue collar of Bengalore labeled as +wis, the stone amulet of the earth elementalist, the staff of olympus, Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (powerful), Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (powerful), golden belt of Fair River-Daughter, Pulsing Leggings and a pair of black boots.
+[20:10:04] hp 960/960 | sp 714/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+As you wear the collar, you feel it slowly tightening around your neck...
+As you set your fingers upon the strings of the kanteel, a sound of such
+beauty issues from it that tears spring upon your eyes. A surge of warmth
+spreads from your fingers into your body. 
+ 
+You GLOW brightly! 
+ 
+You wear a druid's crescent made of silver (glowing) <blue glow>, Red Glove of the Healer labeled as (Naane) (glowing), Red Glove of the Healer (glowing), a collar made of black silk (glowing) <red glow>, an engraved cross amulet (glowing) <red glow>, the pikebone kanteel (glowing) <red glow>, A heavy black metal ring (glowing), A heavy black metal ring (glowing), Girdle of Ethereal Power (glowing) <red glow>, a battle-scarred shin guard (glowing), a battle-scarred shin guard (glowing), a pair of blue radium boots (glowing) <red glow>, a torn leather muscle shirt labeled as (Naane) (glowing) and a magic cloak (glowing).
+[20:10:04] hp 960/960 | sp 714/1148 | ep 352/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Makke starts concentrating on a new spell.
+ps
+hp 977/990 (+17) | sp 804/1027 (+70) | ep 352/352 ()
+Info: Boog left the game.
+Ruffneck removes Blue glove of master Conjurer, Blue glove of master Conjurer, a little leather bag, a large yellow gem, emitting a bright yellowish light, Ring of the Medusa, moonstone leggings, a pair of black boots, a sparkling breastplate and the shining helm of azakh-khanan.
+Merioli starts concentrating on a new spell.
+,-----------------------------------------------------------------------------.
+| Party Name: Team Sweden                  (Members:  9) | Exp Tot:    907930 |
+| Created: Tue Sep 09 18:07:58 2003        ( 2h  2m  7s) | Exp/min:      7381 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Ruffneck      fol  783( 783) 1029(1807) 267(273) | 100 |        98459 |
+| 1.2   Broetchen     fol 1128(1720)   36(  36) 396(415) |  92 |        98403 |
+| 1.3   Merioli       fol 1575(1575)  478(1162) 512(511) |  90 |       118673 |
+| 2.1   Kharadus      fol 1969(2012)  619( 721) 529(529) |  90 |        97102 |
+| 2.2   Zipob         fol 1039(1039)  902(1166) 456(456) | 100 |       103111 |
+| 2.3   Nuane         fol  977( 990)  804(1027) 352(352) | 100 |       103447 |
+| 3.2   Gotrek        ldr  714( 714)  529(1751) 306(306) |  69 |        94829 |
+| 3.3   Makke         fol  937( 937)  766( 929) 288(288) |  80 |        90456 |
+| ?.?   Geryon        mbr 1171(1483) 1373(1394) 445(445) | 100 |       103450 |
+`-----------------------------------------------------------------------------'
+[20:10:05] hp 977/990 | sp 804/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek leaves south.
+Hallway (w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Kharadus barks as he runs from north.
+Broetchen arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+As Ruffneck hefts The Pikebone Kanteel in his hands, a string, a melody, so
+wonderful as to make you freeze in bewilderment, escapes from the instrument. 
+
+Ruffneck GLOWS brightly! 
+ 
+Ruffneck wears a white glove (glowing) <red glow>, a white glove (glowing) <red glow>, a majectical black crown (glowing) <yellow glow>, Mirror breastplate (glowing) <orange glow>, a collar made of black silk (glowing) <orange glow>, the pikebone kanteel (glowing) <orange glow>, a mithril ring, called 'eckma' (glowing) <purple glow>, Boots of the Goddess (glowing) <orange glow> and Black Leggings of the Sorcerer <black aura> (glowing) <white glow>.
+Gotrek leaves east.
+Hallway (s,n,w).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Geryon the blue Moomin < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Geryon starts following the leader.
+Info: Mithrand recovers from link death.
+Info: Trae recovers from link death.
+Spider Queen smiles upon you and helps you control the demon.
+Gotrek swaps the places of Ruffneck and Kharadus.
+c nuane
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[20:10:11] hp 977/990 | sp 793/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Nuane (party): Casting concealed.
+[20:10:11] hp 977/990 | sp 793/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Juo [wanted]: 250k anipium
+hp 977/990 () | sp 793/1027 (-11) | ep 352/352 ()
+Spider demon control: 1
+Geryon growls and mutters 'Grrrr..'.
+Merioli starts concentrating on a new spell.
+Makke starts concentrating on a new spell.
+Toag bravely ENTERS the mists of Prison Complex,
+threatening Grrzzaaah the Warden's welfare and existence!!
+Gotrek (party): blah
+You are done with the chant.
+You stand firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+You feed Nuane's spider demon's hunger with your ritual.
+hp 977/990 () | sp 760/1027 (-33) | ep 352/352 ()
+Merioli cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Merioli's spell heals you. You feel very much better.
+c merioli
+Kharadus starts concentrating on a new spell.
+You start chanting.
+[20:10:15] hp 985/990 | sp 760/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Info: Boog enters the game.
+Merioli starts concentrating on a new spell.
+Info: Trae goes link dead.
+hp 985/990 (+8) | sp 760/1027 () | ep 352/352 ()
+Spider demon control: 1
+Vendar bravely ENTERS the mists of Prison Complex,
+threatening Grrzzaaah the Warden's welfare and existence!!
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Team Sweden                  (Members:  9) | Exp Tot:    907930 |
+| Created: Tue Sep 09 18:07:58 2003        ( 2h  2m 21s) | Exp/min:      7381 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kharadus      fol 1996(2012)  619( 721) 529(529) |  90 |        97102 |
+| 1.2   Broetchen     fol 1332(1720)   36(  36) 396(415) |  92 |        98403 |
+| 1.3   Merioli       fol 1575(1575)  372(1162) 512(511) |  90 |       118673 |
+| 2.1   Ruffneck      fol  795( 801) 1121(1828) 267(267) | 100 |        98459 |
+| 2.2   Zipob         fol 1039(1039)  902(1166) 456(456) | 100 |       103111 |
+| 2.3   Nuane         fol  985( 990)  760(1027) 352(352) | 100 |       103447 |
+| 3.1   Geryon        fol 1369(1483) 1394(1394) 445(445) | 100 |       103450 |
+| 3.2   Gotrek        ldr  714( 714)  526(1751) 306(306) |  69 |        94829 |
+| 3.3   Makke         fol  937( 937)  766( 929) 288(288) |  80 |        90456 |
+`-----------------------------------------------------------------------------'
+[20:10:19] hp 985/990 | sp 760/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are done with the chant.
+You stand firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+You feed Merioli's spider demon's hunger with your ritual.
+hp 985/990 () | sp 727/1027 (-33) | ep 352/352 ()
+Makke cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Makke's spell heals you. You feel all better.
+Merioli cast(s): 'judicandus mangenic' (Cure critical wounds)
+Merioli casts his spell at Broetchen.
+Info: Wermo recovers from link death.
+Gitador [wanted]: 2 offtanks and somekinda tarmabiatch for twiddle expa
+Broetchen booms 'Hp: 1720 (1720) Sp: 36 (36) Ep: 403 (415).'
+Merioli starts concentrating on a new spell.
+Broetchen (party): Fully healed.
+Gotrek leaves north.
+Hallway (s,w,n,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Kharadus barks as he runs from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Gotrek leaves east.
+Hallway (w,n,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+dam
+hp 990/990 (+5) | sp 727/1027 () | ep 352/352 ()
+[20:10:24] hp 990/990 | sp 727/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You remove the collar, and the tightness around your neck is gone..
+You remove a magic cloak, a torn leather muscle shirt labeled as (Naane), Red Glove of the Healer labeled as (Naane), Red Glove of the Healer, a collar made of black silk, an engraved cross amulet, the pikebone kanteel, a druid's crescent made of silver, A heavy black metal ring, A heavy black metal ring, Girdle of Ethereal Power, a battle-scarred shin guard, a battle-scarred shin guard and a pair of blue radium boots.
+[20:10:24] hp 990/990 | sp 727/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You wield spark, the claw of fire (glowing) <burning> <red glow> in your right hand.
+[20:10:24] hp 990/990 | sp 727/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You wear Blue glove of master Conjurer (glowing) <red glow>, Blue glove of master Conjurer (glowing) <red glow>, The gleaming blue collar of Bengalore labeled as +wis (glowing) <red glow>, the stone amulet of the earth elementalist (glowing), the staff of olympus (glowing), Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (powerful) (glowing), Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (powerful) (glowing), golden belt of Fair River-Daughter (glowing), Pulsing Leggings (glowing) <red glow>, a pair of black boots (glowing), Holy vest of Yak (glowing) and Tattered Silver Shimmering Cloak labeled as *wis* (glowing) <red glow>.
+** Cost for '@wear blue glove 1,blue glove 2,blue collar,stone amulet,staff,ring of wisdom 1,ring of wisdom 2,golden belt,pulsing leggings,black boots,vest of yak,silver cloak': Cost: utime:20 stime:0 ticks:103694 **
+[20:10:24] hp 990/990 | sp 727/1027 | ep 352/352 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek leaves north.
+Hallway (n,w,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Kharadus barks as he runs from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Gotrek leaves north.
+Hallway (w,s).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Kharadus barks as he runs from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+hp 960/960 (-30) | sp 727/1148 () | ep 352/361 ()
+Gotrek leaves west.
+Hallway (n,w,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Kharadus barks as he runs from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Gotrek leaves north.
+Hallway (s,w).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Kharadus barks as he runs from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Gotrek leaves west.
+Hallway (w,s,n,e).
+three highsteel longswords, a small pile
+of silver coins, a pile of copper coins and a small pile of
+gold coins
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Kharadus barks as he runs from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Slime shouts 'Karamacho barely scratched me before dying!'
+Info: Karamacho dies.
+Info: Bisqwit enters the game.
+Gotrek leaves north.
+Hallway (n,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Kharadus barks as he runs from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Gotrek leaves south.
+Hallway (w,s,n,e).
+three highsteel longswords, a small pile
+of silver coins, a pile of copper coins and a small pile of
+gold coins
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Kharadus barks as he runs from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Gotrek leaves west.
+Hallway (n,s,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Kharadus barks as he runs from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Geryon removes Vanadium glove ^Geryon^ <|geryon|>, Vanadium glove 'Rumi' <|geryon|>, The Sceptre of the Apocalypse, an ancient staff of the necromancer, a Golden Helm, Belt of bones and Sacred Bracelets of Eternity <|geryon|>.
+Geryon wields spark, the claw of fire (glowing) <burning> <red glow> in her right hand.
+Geryon wields Shield of a Thousand Reflections (glowing) <shimmering> <red glow> in her left hand.
+Geryon wears the shining helm of azakh-khanan (glowing) <red glow>, Moonshade, coral great belt labeled as iso D (glowing) <red glow>, a rose clasp (glowing) <red glow>, gloves of Nimbleness <|geryon|> (glowing) <red glow> and a pair of pure white flowing sleeves labeled as <|MM|> (glowing).
+Gotrek leaves north.
+Hallway (s).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Kharadus barks as he runs from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+Gotrek leaves south.
+Hallway (n,s,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Kharadus barks as he runs from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Gotrek leaves west.
+Hallway (n,s,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Kharadus barks as he runs from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Alvin bravely ENTERS the mists of Prison Complex,
+threatening Grrzzaaah the Warden's welfare and existence!!
+Gotrek leaves north.
+Hallway (s).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from south.
+Ruffneck arrives from south.
+Kharadus barks as he runs from south.
+Broetchen arrives from south.
+Geryon arrives from south.
+Merioli sneaks in from south.
+Zipob arrives from south.
+hp 960/960 () | sp 817/1148 (+90) | ep 356/361 (+4)
+Gotrek leaves south.
+Hallway (n,s,w,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Kharadus barks as he runs from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Gotrek leaves west.
+Hallway (s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from east.
+Ruffneck arrives from east.
+Kharadus barks as he runs from east.
+Broetchen arrives from east.
+Geryon arrives from east.
+Merioli sneaks in from east.
+Zipob arrives from east.
+Gotrek leaves south.
+Hallway (n,w,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from north.
+Ruffneck arrives from north.
+Kharadus barks as he runs from north.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Gotrek leaves east.
+Hallway (w,n,s,e).
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Gotrek leaves east.
+Hallway (n,s,w,e).
+a small pile of bronze coins and a highsteel longsword
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Makke arrives from west.
+Ruffneck arrives from west.
+Kharadus barks as he runs from west.
+Broetchen arrives from west.
+Geryon arrives from west.
+Merioli sneaks in from west.
+Zipob arrives from west.
+Info: Trae recovers from link death.
+Gotrek leaves south.
+Hallway (n,s,w,e).
+a small pile of bronze coins, a small pile of silver coins
+and a highsteel longsword
+Gotrek the ferocious Vampire - Psychic Entity, Dr. Mindfuck < Team Sweden >
+Henry Amberley, defender of the Amberleys
+Your knowledge about Henry's tactics allows you to evade the ambush.
+Makke arrives from north.
+Ruffneck arrives from north.
+Kharadus barks as he runs from north.
+scan all
+cast info
+*****************************************************
+Kharadus hits Henry 2 times.
+Henry hits Kharadus 4 times.
+Broetchen arrives from north.
+Geryon arrives from north.
+Merioli sneaks in from north.
+Zipob arrives from north.
+Kharadus reports: Hp: 1141 (2012) Sp: 639 (721) Ep: 529 (529).
+Henry is near death.
+[20:10:40] hp 960/960 | sp 817/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are not doing anything at the moment.
+[20:10:40] hp 960/960 | sp 817/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+*Kharadus ticks 20 sps[41s].
+habo henry
+You start chanting.
+[20:10:41] hp 960/960 | sp 817/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Merioli starts concentrating on a new spell.
+Makke starts concentrating on a new spell.
+Kharadus starts concentrating on a new offensive spell.
+Broetchen starts concentrating on a new offensive skill.
+Harm body: 6
+Harm body: 4 (greater haste)
+Leopard catfolk warrior shouts 'Deathwing was just DOGMEAT, who is next?'
+Info: Deathwing dies.
+scan all
+cast info
+*****************************************************
+Henry hits Kharadus 3 times.
+Ruffneck starts concentrating on a new offensive spell.
+Zipob starts concentrating on a new offensive spell.
+Merioli reports: Hp: 1587 (1587) Sp: 374 (1180) Ep: 519 (519).
+Kharadus reports: Hp: 468 (2012) Sp: 639 (721) Ep: 529 (529).
+Kharadus [party]: Spell interrupted.
+Henry is near death.
+[20:10:44] hp 960/960 | sp 817/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are casting 'harm body' at 'henry'.
+[20:10:44] hp 960/960 | sp 817/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1720 (1720) Sp: 36 (36) Ep: 403 (415).
+Harm body: 3
+Merioli cast(s): 'judicandus puorgo mangenic' (Major party heal)
+scan all
+cast info
+*****************************************************
+Broetchen hits Henry 1 time.
+Henry hits Kharadus 1 time.
+Kharadus reports: Hp: 393 (2012) Sp: 639 (721) Ep: 529 (529).
+Merioli reports: Hp: 1587 (1587) Sp: 268 (1180) Ep: 519 (519).
+Henry is near death.
+[20:10:46] hp 960/960 | sp 817/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Kharadus starts concentrating on a new offensive spell.
+You are casting 'harm body' at 'henry'.
+[20:10:47] hp 960/960 | sp 817/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1720 (1720) Sp: 36 (36) Ep: 403 (415).
+Info: Santana enters the game.
+Merioli starts concentrating on a new spell.
+Info: Malitrius goes link dead.
+Merioli [party]: You are casting 'true heal' at 'kharadus'.
+Harm body: 2
+Harm body: 1 (haste)
+Makke cast(s): 'judicandus puorgo mangenic' (Major party heal)
+scan all
+cast info
+*****************************************************
+Henry hits Merioli 2 times.
+Geryon cast(s): 'PAF PAF PAF!' (Harm body)
+Geryon casts a harming spell on Henry.
+Gotrek cast(s): 'tora tora tora' (Psychic crush)
+Gotrek crushes Henry's mind with a powerful psychic attack!
+Info: Trae goes link dead.
+Kharadus reports: Hp: 586 (2012) Sp: 639 (721) Ep: 529 (529).
+Merioli reports: Hp: 1315 (1587) Sp: 268 (1180) Ep: 519 (519).
+Henry is near death.
+[20:10:49] hp 960/960 | sp 817/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Geryon starts concentrating on a new offensive spell.
+You are casting 'harm body' at 'henry'.
+[20:10:50] hp 960/960 | sp 817/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek starts concentrating on a new offensive spell.
+Broetchen reports: Hp: 1717 (1720) Sp: 36 (36) Ep: 403 (415).
+Gotrek (party): Henry shrugs (psi)
+Makke starts concentrating on a new spell.
+Merioli [party]: SPELL: #
+Kharadus [party]: Aoa Expires. [57m56s]
+Info: Melemkor enters the game.
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+The curse in your dagger allows you to channel harmful power through it!
+You harm Henry really much.
+hp 960/960 () | sp 583/1148 (-234) | ep 356/361 ()
+Ruffneck clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Ruffneck flails wildly and throws DOZENS of exploding bombs, leaving a pillar
+of black smoke!
+The blasts explode all around Henry, bursting into flames!
+Ruffneck grins as his channelburn hits Henry.
+Merioli cast(s): 'judicandus zapracus' (True heal)
+Merioli casts his spell at Kharadus.
+Henry cast(s): 'tora tora tora' (Psychic crush)
+Henry crushes Gotrek's mind with a powerful psychic attack!
+scan all
+cast info
+*****************************************************
+Henry hits Broetchen 1 time.
+Zipob cast(s): 'PAF PAF PAF!' (Harm body)
+Zipob casts a harming spell on Henry.
+Kharadus reports: Hp: 1274 (2012) Sp: 639 (721) Ep: 529 (529).
+Merioli reports: Hp: 1315 (1587) Sp: 46 (1180) Ep: 519 (519).
+Henry is near death.
+[20:10:52] hp 960/960 | sp 583/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Info: Scary recovers from link death.
+Ruffneck starts concentrating on a new offensive spell.
+You are not doing anything at the moment.
+[20:10:53] hp 960/960 | sp 583/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1606 (1720) Sp: 36 (36) Ep: 403 (415).
+Gotrek (party): Psychic fucking crush
+habo henry
+Merioli [party]: (outta sp)
+You start chanting.
+[20:10:53] hp 960/960 | sp 583/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Zipob starts concentrating on a new offensive spell.
+Info: Trae recovers from link death.
+As Ruffneck points his Kerbholz at Henry, a bright red magic mist
+forms around the targets' neck.
+Ghost of Deathwing [ghost]: rais
+Harm body: 6
+Harm body: 4 (greater haste)
+scan all
+cast info
+*****************************************************
+Broetchen hits Henry 2 times.
+Henry hits Broetchen 3 times.
+Merioli hits Henry 1 time.
+Broetchen delivers a crushing blow to Henry's windpipe!
+Broetchen turns suddenly and STRIKES again..
+Harm body: 3
+Harm body: 1 (greater haste)
+Juo [wanted]: in anipium *
+Kharadus reports: Hp: 1274 (2012) Sp: 639 (721) Ep: 529 (529).
+Merioli reports: Hp: 1315 (1587) Sp: 46 (1180) Ep: 519 (519).
+Henry is near death.
+[20:10:56] hp 960/960 | sp 583/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+You are casting 'harm body' at 'henry'.
+[20:10:56] hp 960/960 | sp 583/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Broetchen reports: Hp: 1339 (1720) Sp: 36 (36) Ep: 371 (415).
+hz
+You have already reserved this as your confirmed kill!
+[20:10:56] hp 960/960 | sp 583/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Ruffneck's Kerbholz glows chrome for a moment.
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+The curse in your dagger allows you to channel harmful power through it!
+You harm Henry really much.
+hp 960/960 () | sp 306/1148 (-277) | ep 356/361 ()
+Makke cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Kharadus plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+Kharadus grins as his con fioco hits Henry.
+scan all
+cast info
+*****************************************************
+Gotrek cast(s): 'tora tora tora' (Psychic crush)
+Gotrek crushes Henry's mind with a powerful psychic attack!
+Kharadus reports: Hp: 807 (2012) Sp: 491 (721) Ep: 529 (529).
+Merioli reports: Hp: 1278 (1587) Sp: 46 (1180) Ep: 519 (519).
+Henry is near death.
+[20:10:58] hp 960/960 | sp 306/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+habo henry
+
+Makke starts concentrating on a new spell.
+You are not doing anything at the moment.
+[20:10:59] hp 960/960 | sp 306/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Gotrek starts concentrating on a new offensive spell.
+Broetchen reports: Hp: 1308 (1720) Sp: 36 (36) Ep: 371 (415).
+Gotrek (party): Henry shrugs (psi)
+Kharadus starts concentrating on a new offensive spell.
+You start chanting.
+[20:10:59] hp 960/960 | sp 306/1148 | ep 356/361 | exp 25238 | $ 1100/358815 | wimpy: off
+
+Geryon cast(s): 'PAF PAF PAF!' (Harm body)
+Geryon casts a harming spell on Henry.
+ ..The power of Burglefloogah takes over Geryon!
+    An awful crackling is heard as the life is drained out of Henry!!
+Info: Graal recovers from link death.
+Merioli [party]: (outta sp)
+Harm body: 6
+Ruffneck clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Ruffneck flails wildly and throws DOZENS of exploding bombs, leaving a pillar
+of black smoke!
+The blasts explode all around Henry, bursting into flames!
+Ruffneck grins as his channelburn hits Henry.
+Henry moves on to happier hunting grounds.
+save
+Henry is DEAD, R.I.P.
+The magic mist around the dead Henry's neck leaps to your Kerbholz.
+A new mark appears.
+The magic mist around the dead Henry's neck leaps to Gotrek's Kerbholz.
+The magic mist around the dead Henry's neck leaps to Zipob's Kerbholz.
+The magic mist around the dead Henry's neck leaps to Broetchen's Kerbholz.
+The magic mist around the dead Henry's neck leaps to Ruffneck's Kerbholz.
+Merioli starts concentrating on a new spell.
+SAVED.
+[20:11:01] hp 960/960 | sp 306/1148 | ep 356/361 | exp 82635 | $ 1100/358815 | wimpy: off
+You gained 57397 xp.
+Broetchen takes a burned gore of Henry.
+Geryon aborts the spell casting.
+zz
+Zipob aborts the spell casting.
+You interrupt the spell.
+CASTING CANCELED.
+[20:11:03] hp 960/960 | sp 306/1148 | ep 356/361 | exp 82635 | $ 1100/358815 | wimpy: off
+p kills
+,-----------------------------------------------------------------------------.
+|  191559: Jonathan Amberley                                                  |
+|   72785: Sir John, the city guard                                           |
+|  204020: Myrier, the former High-Priest of Brimshire                        |
+|  343832: Patrick Amberley                                                   |
+|     346: An old defender of the Amberley family                             |
+|     415: An old defender of the Amberley family                             |
+|     256: An old defender of the Amberley family                             |
+|     151: An old defender of the Amberley family                             |
+|     151: An old defender of the Amberley family                             |
+|      93: An old defender of the Amberley family                             |
+|      83: An old defender of the Amberley family                             |
+|      46: An old defender of the Amberley family                             |
+|      30: An old defender of the Amberley family                             |
+|     179: An old defender of the Amberley family                             |
+|      25: An old defender of the Amberley family                             |
+|      10: An old defender of the Amberley family                             |
+|      36: An old defender of the Amberley family                             |
+|      10: An old defender of the Amberley family                             |
+|      10: An old defender of the Amberley family                             |
+|  836677: Henry Amberley, defender of the Amberleys                          |
+`-----------------------------------------------------------------------------'
+This party has killed 22 monsters (avg exp/mon: 79300).

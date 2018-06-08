@@ -1,0 +1,72 @@
+The Battle Royale Continues:
+Zenick and Cozmo will fight to the death!
+Cozmo: drop scroll
+Cozmo: cast tiger claw at zenick
+Cozmo: kill zenick
+Zenick: Hp 93%
+Zenick: touch tisau
+Zenick: invoke forked lightning at cozmo
+Zenick: invoke golden arrow at cozmo
+Zenick: invoke golden arrow at cozmo
+Zenick: cast dispel magical protection at cozmo
+Zenick: scan all
+Zenick: Hp 89%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Zenick: Hp 89%
+Zenick: cast 'electrocution' cozmo
+Zenick: shadow repose medium
+Zenick: Hp 89%
+Zenick: extract wand from case
+Zenick: cast 'acid blast' cozmo
+Zenick: scan all
+Zenick: Hp 89%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Zenick: cast info
+Zenick: shadow repose medium
+Zenick: Hp 89%
+Zenick: scan all
+Zenick: scan all
+Cozmo: scan all
+Zenick: shadow repose medium
+Zenick: look
+Zenick: Hp 89%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Zenick: scan all
+Zenick: cast info
+Zenick: scan all
+Zenick: Hp 89%
+Zenick: cast 'acid blast'
+Zenick: scan all
+Zenick: Hp 85%
+Cozmo: cast 'tiger claw'
+Cozmo: scan all
+Cozmo: use 'iron palm'
+Cozmo: scan all
+Zenick: scan all
+Zenick: Hp 85%
+Zenick: scan all
+Zenick: shadow repose medium
+Cozmo: scan all
+Cozmo: Hp 66%
+Zenick: Hp 85%
+Zenick: cast 'acid blast'
+Zenick: scan all
+Zenick: shadow repose medium
+Cozmo: Hp 59%
+Zenick: Hp 79%
+Zenick: scan all
+Cozmo: scan all
+Zenick: look
+Zenick: scan all
+Cozmo: Hp 46%
+Zenick: Hp 75%
+Zenick: scan all
+Zenick: shadow repose medium
+You feel that Zenick is in great pain.
+Cozmo: Hp -31%
+Zenick: Hp 3%
+Cozmo died and thus loses this round!
+Zenick has won this round of the Battle Royale!

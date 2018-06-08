@@ -1,0 +1,673 @@
+Toudi {party}: goes
+Serje starts concentrating on a new spell.
+Toudi flies to up.
+Gildron leaves up.
+Shadow Maze (d,e).
+two small spheres are floating here
+Gildron Turha the Stone Gargoyle vain yksi teletapeista < . >
+Toudi the Duck <-( Elf )-> < . >
+Serje arrives from down.
+Kerad arrives from down.
+Mendozino arrives from down.
+Marv arrives from down.
+Krzysiek arrives from down.
+Mithrand arrivez from down.
+Krzysiek removes Slime cloak, Leggings of Sorrow, a golden necklace studded with huge diamonds, a white glove, a white glove, Boots of the Goddess labeled as sproldboots, The old cold black Eyes of the Leopard labeled as spreye, The old cold black Eyes of the Leopard labeled as spreye, The old cold black Eyes of the Leopard labeled as spreye and medallion of honor.
+Krzysiek wears a pair of black boots <yellow glow>, Blue glove of master Conjurer <red glow>, Blue glove of master Conjurer <red glow>, The Amberley Ankh labeled as intankh <yellow glow>, Beautiful emerald necklace <orange glow>, a jet-black leg protector <yellow glow>, a jet-black leg protector <yellow glow> and a black cloak (evil glow) <yellow glow>.
+Krzysiek wields The staff of Lerethin labeled as lere in her right hand.
+Krzysiek wields The staff of Lerethin labeled as lere in her left hand.
+hp 736/633 () | sp 986/1138 (+112) | ep 271/262 ()
+Krzysiek removes Mirror breastplate labeled as wisplate.
+Krzysiek wears a sparkling breastplate labeled as sparkling <orange glow>.
+Toudi flies to east.
+Gildron leaves east.
+Shadow Maze (w,s,d).
+small sphere is floating here
+Gildron Turha the Stone Gargoyle vain yksi teletapeista < . >
+Toudi the Duck <-( Elf )-> < . >
+Serje arrives from west.
+Kerad arrives from west.
+Mendozino arrives from west.
+Marv arrives from west.
+Krzysiek arrives from west.
+Mithrand arrivez from west.
+Toudi starts concentrating on a new offensive spell.
+mjph
+You start chanting.
+[03:23:20] hp 736/633 | sp 986/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Toudi flies to south.
+Gildron leaves south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Shadow Maze (n,u).
+four small spheres are floating here
+Gildron Turha the Stone Gargoyle vain yksi teletapeista < . >
+Toudi the Duck <-( Elf )-> < . >
+a gorgeous looking woman clad in shadows
+Serje arrives from north.
+Kerad arrives from north.
+Mendozino arrives from north.
+Marv arrives from north.
+Krzysiek arrives from north.
+Mithrand arrivez from north.
+Mithrand starts concentrating on a new offensive skill.
+Gildron reports: Hp: 1543 (1781) Sp: -72 (33) Ep: 151 (426).
+Kerad starts concentrating on a new offensive spell.
+Krzysiek starts concentrating on a new offensive spell.
+mjph
+You start chanting.
+[03:23:21] hp 736/633 | sp 986/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Gildron starts concentrating on a new offensive skill.
+ps
+scan all
+*****************************************************
+Mithrand's flex shield wobbles.
+Shelaste Shadowwalker hits Mithrand 3 times.
+Mithrand hits Shelaste Shadowwalker 1 time.
+Major party heal: 3
+Major party heal: 1 (greater haste)
+Serje starts concentrating on a new offensive spell.
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 27s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1735(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol 1672(1830)  579( 579) 453(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1543(1781)  -72(  33) 151(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  778( 771)  747( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr 1110(1175)  911(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol 1010(1010) 1227(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  736( 633)  986(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  574( 581)  750(1342) 195(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol 1101(1088)  822(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:22] hp 736/633 | sp 986/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Mendozino starts concentrating on a new spell.
+Gildron reports: Hp: 1543 (1781) Sp: -72 (33) Ep: 151 (426).
+Gaurhoth {chat}: in such an ambush there is only one answer... NO!
+Mithrand reports: Hp: 1672 (1830) Sp: 579 (579) Ep: 453 (502).
+Shelaste Shadowwalker is near death.
+[03:23:22] hp 736/633 | sp 986/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Info: Uphollow enters the game.
+The sphere floats up.
+Shelaste Shadowwalker roars and shreds the air with her fingers leaving red
+stripes to the air itself! Suddenly bleeding wounds open all around your body!
+scan all
+*****************************************************
+Gildron hits Shelaste Shadowwalker 1 time.
+Mithrand hits Shelaste Shadowwalker 4 times.
+Mithrand's flex shield wobbles.
+Shelaste Shadowwalker hits Mithrand 5 times.
+hp 706/633 (-30) | sp 986/1138 () | ep 271/262 ()
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal some of Gildron's wounds.
+You heal some of Serje's wounds.
+You heal some of Kerad's wounds.
+You heal some of Mendozino's wounds.
+You heal some of Marv's wounds.
+You heal some of Toudi's wounds.
+You heal some of Krzysiek's wounds.
+You heal some of Mithrand's wounds.
+hp 706/633 () | sp 892/1138 (-94) | ep 271/262 ()
+The sphere floats up.
+Gildron reports: Hp: 1561 (1781) Sp: -72 (33) Ep: 151 (426).
+Mithrand reports: Hp: 1069 (1830) Sp: 579 (579) Ep: 453 (502).
+Marv reports: Hp: 1727 (1735) Sp: 31 (31) Ep: 410 (409).
+Mithrand [party]: ### Auts, it HURTS! ###
+Shelaste Shadowwalker is near death.
+[03:23:25] hp 706/633 | sp 892/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Marv reports: Hp: 1727 (1735) Sp: 31 (31) Ep: 410 (409).
+mjph
+You start chanting.
+[03:23:25] hp 706/633 | sp 892/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 31s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1727(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol 1069(1830)  579( 579) 453(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1561(1781)  -72(  33) 151(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  764( 771)  747( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr 1102(1175)  911(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol  978(1010) 1227(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  706( 633)  892(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  562( 581)  750(1342) 195(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol 1062(1088)  822(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:26] hp 706/633 | sp 892/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Jenming [chat]: we will be at war untl bush is removed
+tph
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[03:23:27] hp 706/633 | sp 892/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+Dangergirl [chat]: dragged to the studio by MoD when your boyfriend asks you to marry him on national tv
+Krzysiek cast(s) -> 'Mindseize'
+Krzysiek focuses on the mind of Shelaste Shadowwalker.
+Shelaste Shadowwalker is stunned from the intrusion into her mind.
+Gildron lashes out, pounding a ragged wound in Shelaste Shadowwalker's forehead!
+scan all
+*****************************************************
+Marv hits Shelaste Shadowwalker 2 times.
+Mithrand hits Shelaste Shadowwalker 4 times.
+Gildron hits Shelaste Shadowwalker 1 time.
+True party heal: 4
+True party heal: 3 (haste)
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje throws a half-dozen fireballs and finishes with an explosive coup de grace!
+The blasts explode all around Shelaste Shadowwalker, bursting into flames!
+Serje grins as his channelburn hits Shelaste Shadowwalker.
+Shelaste Shadowwalker bursts into flames!
+Gildron reports: Hp: 1561 (1781) Sp: -72 (33) Ep: 119 (426).
+Mithrand reports: Hp: 1069 (1830) Sp: 579 (579) Ep: 453 (502).
+Kerad {party}: ^o^ 3. ^o^
+Shelaste Shadowwalker is near death.
+[03:23:28] hp 706/633 | sp 892/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Krzysiek {party}: Shelaste stuned
+A sphere floats here.
+ps
+Serje starts concentrating on a new offensive spell.
+Serje [party]: Shelaste Shadowwalker shudders fire [40% resist].
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 34s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1727(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol 1069(1830)  579( 579) 453(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1561(1781)  -72(  33) 119(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  764( 771)  747( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr 1102(1175)  911(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol  978(1010) 1227(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  706( 633)  892(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  556( 581)  688(1342) 192(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol 1062(1088)  765(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:29] hp 706/633 | sp 892/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Gildron starts concentrating on a new offensive skill.
+Mithrand focuses his rage and uses it to send Shelaste Shadowwalker reeling
+backwards from powerful blows that splatter blood about the entire room.  The
+air shimmers around Ssssuuucker as it drains the life from Shelaste
+Shadowwalker
+scan all
+*****************************************************
+Marv's flex shield wobbles.
+Marv's flex shield wobbles.
+Marv's flex shield wobbles.
+Shelaste Shadowwalker hits Marv 4 times.
+True party heal: 2
+True party heal: 1 (haste)
+Mendozino sings: 'You say you don't believe this unity will last, nobody said
+ it would be perfect, but co-operate, share your pain and strength. Together
+ we are strong.
+ '
+You feel great unity with your party members.
+The sphere floats north.
+Gildron reports: Hp: 1561 (1781) Sp: -72 (33) Ep: 119 (426).
+Mithrand starts concentrating on a new offensive skill.
+Mithrand reports: Hp: 1116 (1830) Sp: 579 (579) Ep: 426 (502).
+Marv reports: Hp: 1368 (1735) Sp: 31 (31) Ep: 410 (409).
+Shelaste Shadowwalker is near death.
+[03:23:31] hp 706/633 | sp 892/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Kerad {party}: ^o^ 2. ^o^
+Krzysiek {party}: Shelaste woke up from stun
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 37s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1368(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol 1116(1830)  579( 579) 426(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1561(1781)  -72(  33) 119(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  764( 771)  615( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr 1102(1175)  911(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol  978(1010) 1227(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  706( 633)  892(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  556( 581)  688(1342) 192(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol 1062(1088)  765(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:32] hp 706/633 | sp 892/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Mendozino starts concentrating on a new spell.
+Info: Uphollow goes link dead.
+The sphere floats north.
+The woman throws dozens of dark flaming shurikens at you!
+Two shurikens strike you cutting flesh, bone and tendons!
+A single shuriken strikes Serje slattering blood and gore everywhere!
+A single shuriken strikes Mendozino slattering blood and gore everywhere!
+A single shuriken strikes Mithrand slattering blood and gore everywhere!
+A single shuriken strikes Krzysiek slattering blood and gore everywhere!
+Two shurikens strike Toudi slattering blood and gore everywhere!
+scan all
+*****************************************************
+Mithrand hits Shelaste Shadowwalker 4 times.
+Mithrand's flex shield wobbles.
+Mithrand's flex shield wobbles.
+Shelaste Shadowwalker hits Mithrand 2 times.
+Gildron hits Shelaste Shadowwalker 1 time.
+hp 567/633 (-139) | sp 892/1138 () | ep 271/262 ()
+You are done with the chant.
+CASTED.
+You cast(s) -> 'judicandus eurto mangenic'
+You heal much of Gildron's wounds.
+Nuane's spell heals you. You feel much better.
+You heal much of Nuane's wounds.
+You heal much of Serje's wounds.
+You heal much of Kerad's wounds.
+You heal much of Mendozino's wounds.
+You heal much of Marv's wounds.
+You heal much of Toudi's wounds.
+You heal much of Krzysiek's wounds.
+You heal much of Mithrand's wounds.
+hp 607/633 (+40) | sp 648/1138 (-244) | ep 271/262 ()
+Kerad cast(s) -> 'Harm Body'
+Kerad fails to touch Shelaste Shadowwalker.
+A sphere floats here.
+Shelaste Shadowwalker is near death.
+[03:23:34] hp 607/633 | sp 648/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Mithrand reports: Hp: 1335 (1830) Sp: 579 (579) Ep: 426 (502).
+Gildron reports: Hp: 1679 (1781) Sp: -72 (33) Ep: 119 (426).
+Kerad starts concentrating on a new offensive spell.
+Info: Ruffneck left the game.
+Marv reports: Hp: 1619 (1735) Sp: 31 (31) Ep: 410 (409).
+Marv reports: Hp: 1619 (1735) Sp: 31 (31) Ep: 410 (409).
+tph
+You start chanting.
+[03:23:35] hp 607/633 | sp 648/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Bashag [wanted]: someone quote me tenji's loc plz
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 40s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1619(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol 1335(1830)  579( 579) 426(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1679(1781)  -72(  33) 119(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  728( 771)  615( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr 1085(1175)  911(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol  997(1010) 1126(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  607( 633)  648(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  545( 581)  686(1342) 191(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol 1043(1088)  765(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:35] hp 607/633 | sp 648/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+A sphere floats here.
+Krzysiek cast(s) -> 'Psychic Crush'
+Krzysiek crushes Shelaste Shadowwalker's mind with a powerful psychic attack!
+scan all
+*****************************************************
+Marv hits Shelaste Shadowwalker 1 time.
+Mithrand hits Shelaste Shadowwalker 1 time.
+Mithrand's flex shield wobbles.
+Shelaste Shadowwalker hits Mithrand 4 times.
+hp 588/633 (-19) | sp 648/1138 () | ep 271/262 ()
+True party heal: 4
+True party heal: 2 (greater haste)
+Mendozino sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Mendozino's song heals some of your wounds.
+Gildron reports: Hp: 1752 (1781) Sp: -72 (33) Ep: 119 (426).
+Mithrand reports: Hp: 900 (1830) Sp: 579 (579) Ep: 426 (502).
+Marv reports: Hp: 1687 (1735) Sp: 31 (31) Ep: 410 (409).
+Shelaste Shadowwalker is near death.
+[03:23:37] hp 633/633 | sp 648/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Marv reports: Hp: 1687 (1735) Sp: 31 (31) Ep: 410 (409).
+ps
+Serje says 'die bitch.'
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 43s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1687(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol  900(1830)  579( 579) 426(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1752(1781)  -72(  33) 119(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  771( 771)  530( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr 1150(1175)  911(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol 1010(1010) 1126(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  633( 633)  648(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  581( 581)  686(1342) 191(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol 1088(1088)  624(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:38] hp 633/633 | sp 648/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Mendozino starts concentrating on a new spell.
+Shelaste Shadowwalker cast(s) -> 'Cold Ray'
+Shelaste Shadowwalker grins as her cold ray hits Gildron.
+The woman says 'Time to meet your maker.'
+Shelaste Shadowwalker roars and shreds the air with her fingers leaving red
+stripes to the air itself! Suddenly bleeding wounds open all around your body!
+Marv's flex shield wobbles.
+scan all
+*****************************************************
+Mithrand hits Shelaste Shadowwalker 1 time.
+Marv's flex shield wobbles.
+Shelaste Shadowwalker hits Marv 1 time.
+hp 569/633 (-19) | sp 648/1138 () | ep 271/262 ()
+True party heal: 1
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje throws a half-dozen fireballs and finishes with an explosive coup de grace!
+The blasts explode all around Shelaste Shadowwalker, bursting into flames!
+Serje grins as his channelburn hits Shelaste Shadowwalker.
+Toudi cast(s) -> 'Harm Body'
+Toudi casts a harming spell on Shelaste Shadowwalker.
+You are done with the chant.
+CASTED.
+You cast(s) -> 'judicandus eurto mangenic'
+You heal much of Gildron's wounds.
+Nuane's spell heals you. You feel much better.
+You heal much of Nuane's wounds.
+You heal much of Serje's wounds.
+You heal much of Kerad's wounds.
+You heal much of Mendozino's wounds.
+You heal much of Marv's wounds.
+You heal much of Toudi's wounds.
+You heal much of Krzysiek's wounds.
+You heal much of Mithrand's wounds.
+hp 632/633 (+63) | sp 404/1138 (-244) | ep 271/262 ()
+A sphere floats here.
+Mithrand reports: Hp: 1296 (1830) Sp: 579 (579) Ep: 426 (502).
+Marv reports: Hp: 1620 (1735) Sp: 31 (31) Ep: 410 (409).
+Gildron (party): Unstun DOWN
+Shelaste Shadowwalker is near death.
+[03:23:40] hp 632/633 | sp 404/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Gildron reports: Hp: 1523 (1781) Sp: -72 (33) Ep: 119 (426).
+Marv reports: Hp: 1620 (1735) Sp: 31 (31) Ep: 410 (409).
+Serje starts concentrating on a new offensive spell.
+ps
+Serje [party]: Shelaste Shadowwalker shudders fire [40% resist].
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 45s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1620(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol 1296(1830)  579( 579) 426(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1523(1781)  -72(  33) 119(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  767( 771)  530( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr 1090(1175)  763(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol  958(1010) 1126(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  632( 633)  404(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  571( 581)  624(1342) 188(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol 1088(1088)  624(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:40] hp 632/633 | sp 404/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Hookah @hcbat [chat]: they paid her to say yes
+Info: Ruffneck enters the game.
+tph
+You start chanting.
+[03:23:41] hp 632/633 | sp 404/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Krzysiek cast(s) -> 'Psychic Crush'
+Krzysiek crushes Shelaste Shadowwalker's mind with a powerful psychic attack!
+Krzysiek starts concentrating on a new offensive spell.
+Shelaste Shadowwalker roars and shreds the air with her fingers leaving red
+stripes to the air itself! Suddenly bleeding wounds open all around your body!
+Mithrand's flex shield wobbles.
+Gildron's flex shield wobbles.
+scan all
+*****************************************************
+Mithrand hits Shelaste Shadowwalker 2 times.
+Marv's flex shield wobbles.
+Marv's flex shield wobbles.
+Marv's flex shield wobbles.
+Marv's flex shield wobbles.
+Marv's flex shield wobbles.
+Shelaste Shadowwalker hits Marv 6 times.
+Gildron hits Shelaste Shadowwalker 1 time.
+hp 542/633 (-90) | sp 404/1138 () | ep 271/262 ()
+True party heal: 4
+Mendozino sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Mendozino's song heals some of your wounds.
+Mithrand [party]: ### unstun USED: 9:24 ###
+Gildron reports: Hp: 1536 (1781) Sp: -72 (33) Ep: 119 (426).
+Marv reports: Hp: 1107 (1735) Sp: 31 (31) Ep: 410 (409).
+Mithrand reports: Hp: 1236 (1830) Sp: 579 (579) Ep: 426 (502).
+Marv reports: Hp: 1107 (1735) Sp: 31 (31) Ep: 410 (409).
+Shelaste Shadowwalker is near death.
+[03:23:43] hp 633/633 | sp 404/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Kerad {party}: ^o^ I'm no longer stunned ^o^
+A sphere floats here.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 49s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1107(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol 1236(1830)  579( 579) 426(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1536(1781)  -72(  33) 119(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  770( 771)  445( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr  929(1175)  763(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol  961(1010) 1126(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  633( 633)  404(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  581( 581)  617(1342) 185(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol 1040(1088)  483(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:44] hp 633/633 | sp 404/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Mendozino starts concentrating on a new spell.
+The sphere floats north.
+Gildron starts concentrating on a new offensive skill.
+Mithrand starts concentrating on a new offensive skill.
+Shelaste Shadowwalker cast(s) -> 'Tiger Claw'
+Krzysiek's face contorts in pain and she falls to her knees!
+Shelaste Shadowwalker roars victoriously and leaps in for the kill!
+scan all
+*****************************************************
+Marv hits Shelaste Shadowwalker 1 time.
+Mithrand hits Shelaste Shadowwalker 3 times.
+Mithrand's flex shield wobbles.
+Mithrand's flex shield wobbles.
+Mithrand's flex shield wobbles.
+Mithrand's flex shield wobbles.
+Shelaste Shadowwalker hits Mithrand 4 times.
+hp 606/633 (+64) | sp 404/1138 () | ep 271/262 ()
+True party heal: 3
+True party heal: 1 (greater haste)
+Serje clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Serje throws a half-dozen fireballs and finishes with an explosive coup de grace!
+The blasts explode all around Shelaste Shadowwalker, bursting into flames!
+Serje grins as his channelburn hits Shelaste Shadowwalker.
+Shelaste Shadowwalker bursts into flames!
+The sphere floats north.
+Mithrand reports: Hp: 754 (1830) Sp: 579 (579) Ep: 426 (502).
+Gildron reports: Hp: 1533 (1781) Sp: -72 (33) Ep: 119 (426).
+Shelaste Shadowwalker is near death.
+[03:23:46] hp 606/633 | sp 404/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Marv reports: Hp: 1088 (1735) Sp: 31 (31) Ep: 410 (409).
+ps
+Info: Ruffneck goes link dead.
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 52s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1088(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol  754(1830)  579( 579) 426(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1533(1781)  -72(  33) 119(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  751( 771)  445( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr  929(1175)  763(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol  961(1010) 1126(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  606( 633)  404(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  575( 581)  555(1342) 182(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol  912(1088)  483(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:47] hp 606/633 | sp 404/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Serje starts concentrating on a new offensive spell.
+Serje [party]: Shelaste Shadowwalker shudders fire [40% resist].
+Brock [wanted]: Hell()
+Shelaste Shadowwalker roars and shreds the air with her fingers leaving red
+stripes to the air itself! Suddenly bleeding wounds open all around your body!
+Gildron's flex shield wobbles.
+scan all
+*****************************************************
+Shelaste Shadowwalker hits Marv 1 time.
+hp 509/633 (-97) | sp 404/1138 () | ep 271/262 ()
+You are done with the chant.
+CASTED.
+You cast(s) -> 'judicandus eurto mangenic'
+You heal some of Gildron's wounds.
+Nuane's spell heals you. You feel some better.
+You heal some of Nuane's wounds.
+You heal some of Serje's wounds.
+You heal some of Kerad's wounds.
+You heal some of Mendozino's wounds.
+You heal some of Marv's wounds.
+You heal some of Toudi's wounds.
+You heal some of Krzysiek's wounds.
+You heal some of Mithrand's wounds.
+hp 551/633 (+42) | sp 160/1138 (-244) | ep 271/262 ()
+Mendozino sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Mendozino's song heals some of your wounds.
+Toudi cast(s) -> 'Aneurysm'
+Toudi casts a harming spell on Shelaste Shadowwalker.
+Shelaste Shadowwalker is near death.
+[03:23:49] hp 633/633 | sp 160/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Gildron reports: Hp: 1703 (1781) Sp: -72 (33) Ep: 119 (426).
+Mithrand reports: Hp: 1200 (1830) Sp: 579 (579) Ep: 426 (502).
+Mendozino starts concentrating on a new spell.
+Marv reports: Hp: 1304 (1735) Sp: 31 (31) Ep: 410 (409).
+Marv reports: Hp: 1304 (1735) Sp: 31 (31) Ep: 410 (409).
+Krzysiek {party}: NO longer stunned!
+Kerad starts concentrating on a new offensive spell.
+Gildron says 'KUOLE.'
+The sphere floats up.
+mjph
+You start chanting.
+[03:23:50] hp 633/633 | sp 160/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   2610878 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 55s) | Exp/min:      6430 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1304(1735)   31(  31) 410(409) |  85 |       281250 |
+| 1.2   Mithrand      fol 1200(1830)  579( 579) 426(502) |  98 |       320501 |
+| 1.3   Gildron       fol 1703(1781)  -72(  33) 119(426) |  85 |       281250 |
+| 2.1   Mendozino     fol  771( 771)  360( 830) 383(383) |  83 |       262464 |
+| 2.2   Toudi         ldr 1089(1175)  611(1532) 514(514) | 100 |       384090 |
+| 2.3   Kerad         fol 1010(1010) 1126(1227) 529(529) | 100 |       290300 |
+| 3.1   Nuane         fol  633( 633)  160(1138) 271(262) |  78 |       181656 |
+| 3.2   Serje         fol  581( 581)  553(1342) 181(253) |  85 |       262445 |
+| 3.3   Krzysiek      fol  953(1088)  483(1394) 320(316) | 100 |       346922 |
+`-----------------------------------------------------------------------------'
+[03:23:50] hp 633/633 | sp 160/1138 | ep 271/262 | exp 18682 | $ 5300/92485 | wimpy: off
+
+Krzysiek starts concentrating on a new offensive spell.
+Shelaste Shadowwalker roars and shreds the air with her fingers leaving red
+stripes to the air itself! Suddenly bleeding wounds open all around your body!
+Mithrand focuses his rage and uses it to send Shelaste Shadowwalker reeling
+backwards from powerful blows that splatter blood about the entire room.  The
+air shimmers around Ssssuuucker as it drains the life from Shelaste
+Shadowwalker
+A large hole replaces Shelaste Shadowwalker's face.
+save
+Shelaste Shadowwalker is DEAD, R.I.P.
+hp 587/633 (+36) | sp 160/1138 () | ep 271/262 ()
+Major party heal: 3
+Major party heal: 1 (greater haste)
+Mithrand starts concentrating on a new offensive skill.
+Gildron (party): Unstun DOWN
+Mithrand takes shadow vest <red glow>, shadow belt <red glow>, a big pile of
+ tin coins, a pile of gold coins and shadow leggings <red glow> from a
+ scorched corpse of Shelaste Shadowwalker.
+Marv reports: Hp: 1202 (1735) Sp: 31 (31) Ep: 410 (409).
+Mithrand holds Ssssuuucker over the still form of his fallen foe.
+SAVED.
+[03:23:52] hp 587/633 | sp 160/1138 | ep 271/262 | exp 88876 | $ 5300/92485 | wimpy: off
+You gained 70194 xp.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: .                            (Members:  9) | Exp Tot:   3944806 |
+| Created: Fri Mar 28 20:37:55 2003        ( 6h 45m 57s) | Exp/min:      9716 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Marv          fol 1202(1735)   31(  31) 410(409) |  85 |       415758 |
+| 1.2   Mithrand      fol 1153(1830)  579( 579) 404(502) |  98 |       467000 |
+| 1.3   Gildron       fol 1648(1781)  -72(  33) 119(426) |  85 |       415758 |
+| 2.1   Mendozino     fol  659( 771)  360( 830) 383(383) |  83 |       395064 |
+| 2.2   Toudi         ldr 1001(1175)  611(1532) 514(514) | 100 |       611077 |
+| 2.3   Kerad         fol  816(1010) 1126(1227) 529(529) | 100 |       438585 |
+| 3.1   Nuane         fol  587( 633)  160(1138) 271(262) |  78 |       309404 |
+| 3.2   Serje         fol  556( 581)  553(1342) 181(253) |  85 |       396953 |
+| 3.3   Krzysiek      fol  786(1088)  483(1394) 320(316) | 100 |       495207 |
+`-----------------------------------------------------------------------------'
+[03:23:52] hp 587/633 | sp 160/1138 | ep 271/262 | exp 88876 | $ 5300/92485 | wimpy: off
+
+Serje aborts the spell casting.
+Toudi aborts the spell casting.
+p kills
+Gildron lights a torch.
+Gildron starts concentrating on a new skill.
+Gildron exclaims 'Buuuurn baby buuuurn!'
+,-----------------------------------------------------------------------------.
+|    1582: stinking corpse clad in shredded black rags                        |
+|   10647: mummy in black is staggering in the shadows                        |
+|    1947: a young man looking for trouble                                    |
+|    7633: mummy in black is staggering in the shadows                        |
+|   70742: shapeless shadow                                                   |
+|    7005: drooling corpse clad in black shredded rags                        |
+|    1600: a young woman looking for trouble                                  |
+|   10782: a woman with an urge to KILL YOU                                   |
+|    4371: skeleton clad in shredded black rags looking for something to slay |
+|   13224: wraith shrouded in shadows                                         |
+|    4455: a woman looking for people to kill                                 |
+|    9295: a woman with an urge to KILL YOU                                   |
+|   18048: a woman moving with deadly grace                                   |
+|    6949: drooling corpse clad in black shredded rags                        |
+|    1631: stinking corpse clad in shredded black rags                        |
+|    3938: a man looking for people to kill                                   |
+|    8887: mummy in black is staggering in the shadows                        |
+|   29078: valiant templar is here, looking for evil to slay                  |
+|    8486: mummy in black is staggering in the shadows                        |
+| 1333928: a gorgeous looking woman clad in shadows                           |
+`-----------------------------------------------------------------------------'
+This party has killed 48 monsters (avg exp/mon: 82183).

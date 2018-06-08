@@ -1,0 +1,105 @@
+You stand amid the desolate remains of what was once a thriving market
+square.  Gaping holes stare balefully out from the rotting wooden husks
+which surround the overgown clearing, while a cracked and blistered road
+limps north.
+It is lightly spitting from a warm, moving, lightly clouded sky. There is a
+brisk wind.
+Obvious exits are: n, e, s and w.
+A broken cart
+A crumbling wall stands here
+Juo the Duck (kiltti ja söpö) < \o_ >
+Orgg the Minotaur master of treehugging < \o_ >
+The gangrene grocer (undead)
+"-. hp 693/734 | sp 681/729 | ep 414/424 | exp 79300 | cash 237/639232 .-"
+Info: Cealdyn recovers from link death.
+Juo [party]: kiva
+You start chanting.
+"-. hp 693/734 | sp 681/729 | ep 414/424 | exp 79300 | cash 237/639232 .-"
+Mardus (twilight+): best so far, pussy demons :|
+Juo [party]: lot exp !
+You sizzle with magical energy.
+hp 708/734 (+15) | sp 729/729 (+48) | ep 418/424 (+4)
+Con fioco: ###
+Orgg starts concentrating on a new offensive skill.
+Nuane [party]: Full sp.
+"-. hp 708/734 | sp 729/729 | ep 418/424 | exp 79300 | cash 237/639232 .-"
+Juo [party]: fairi!
+Orgg goes 'mmmmm...'.
+Con fioco: ##
+Con fioco: #
+Enochian [twilight+]: mmm.. pussy demon
+You are done with the chant.
+CASTED.
+You play the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+You feel like your spell gained additional power.
+The air is filled with pure energy and crackles with power.
+Unseen BURSTS of magic are absorbed into the spell!
+You watch with selfpride as your con fioco hits Grocer.
+A soft white glow takes over Juo and then fades away.
+You hear the horrendous death-cry of the Grocer as it dies.
+Grocer is DEAD, R.I.P.
+Nuane [party]: level 1 damacrit!
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+You gained 5051 xp.
+SAVED.
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+hp 708/734 () | sp 586/729 (-143) | ep 418/424 ()
+Juo [party]: hehe
+Nuane [party]: MUAH
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+Orgg [party]: hohooooo
+Juo [party]: vittu mitä ekspaa
+Nuane [party]: :DDD
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+Rivih [wanted]: party for a ranger
+Orgg [party]: kiva blast!!!
+Juo [party]: tajuton!
+Nuane [twilight+]: Unseen BURSTS of magic are absorbed into the spell!
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+Nuane [twilight+]: Unseen BURSTS of magic are absorbed into the spell!
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+Nuane [twilight+]: Unseen BURSTS of magic are absorbed into the spell!
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+"-. hp 708/734 | sp 586/729 | ep 418/424 | exp 84351 | cash 237/639232 .-"
+Juo [party]: ja damcrit =)
+Info: Entropy recovers from link death.
+Wolf shouts 'Burn in hell, Yohoack!'
+Info: Yohoack dies.
+Mardus (twilight+): Its rocking that the one demon krzysiek stole I could have used :P
+Demonizer [twilight+]: uu
+Enochian [twilight+]: :O
+Orgg [party]: sec copypasteen ton :)
+Info: Blackhand recovers from link death.
+hp 724/734 (+16) | sp 682/729 (+96) | ep 423/424 (+5)
+Nuane [twilight+]: Grocer is DEAD, R.I.P.
+"-. hp 724/734 | sp 682/729 | ep 423/424 | exp 84351 | cash 237/639232 .-"
+SAVED.
+"-. hp 724/734 | sp 682/729 | ep 423/424 | exp 84351 | cash 237/639232 .-"
+Juo [party]: vittu tällasta pitäis olla ekspaus
+,-----------------------------------------------------------------------------.
+|   25938: A skeleton guard                                                   |
+|   23158: A skeleton guard                                                   |
+|   24425: a zombie spider is spinning here                                   |
+|   17641: a zombie spider is spinning here                                   |
+|   19439: a zombie spider is spinning here                                   |
+|      11: A lazy ghostly pigeon                                              |
+|    5876: an orc priest is standing here, trying to look very important      |
+|    9534: A small orc is hiding in the shadows, trying to steal something    |
+|   14016: an orc priest is wandering around here                             |
+|    2850: Orugh, the orc painter is here painting the walls                  |
+|    8289: an orc priest is standing here, trying to look very important      |
+|    4891: an orc novice is wandering around aimlessly                        |
+|    7129: an orc novice is wandering around aimlessly                        |
+|    8365: an orc priest is reciting a prayer for his god                     |
+|    4107: an orc novice is wandering around, looking for someone             |
+|    4884: an orc novice is wandering around, looking for someone             |
+|    2536: a fierce orc is guarding the entrance to the temple                |
+|   19614: Agernah, the high priest is here performing strange ritual         |
+|    8402: an orc priest is wandering around here                             |
+|   15491: The gangrene grocer                                                |
+`-----------------------------------------------------------------------------'
+This party has killed 214 monsters (avg exp/mon: 5441).

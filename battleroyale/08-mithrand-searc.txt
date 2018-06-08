@@ -1,0 +1,269 @@
+The Battle Royale Continues:
+Mithrand and Searc will fight to the death!
+Searc: southeast
+Searc: east
+Mithrand: south
+Searc: cast con fioco
+Mithrand: east
+Mithrand: east
+Searc: southeast
+Searc: south
+Mithrand: west
+Searc: southwest
+Mithrand: west
+Searc: west
+Searc: cast con fioco
+Mithrand: east
+Mithrand: clairvoyance
+Mithrand: southeast
+Mithrand: clairvoyance
+Searc: Hp 86%
+Mithrand: southeast
+Mithrand: clairvoyance
+Mithrand: southwest
+Mithrand: clairvoyance
+Mithrand: west
+Mithrand: clairvoyance
+Searc: scan
+Searc: Hp 80%
+Mithrand: use 'blood harvest'
+Mithrand: scan
+Searc: northwest
+Mithrand: northwest
+Searc: cast con fioco
+Searc: northeast
+Mithrand: use 'scythe swipe'
+Searc: east
+Searc: cast con fioco
+Mithrand: Hp 91%
+Mithrand: northeast
+Mithrand: east
+Searc: scan
+Mithrand: Hp 86%
+Searc: Hp 71%
+Mithrand: cast shattered feast at amount 100
+Mithrand: scan
+Searc: southeast
+Searc: southwest
+Mithrand: Hp 86%
+Mithrand: southeast
+Mithrand: cast shattered feast at amount 100
+Searc: cast con fioco
+Mithrand: southwest
+Searc: scan
+Mithrand: cast shattered feast at amount 100
+Searc: west
+Searc: cast con fioco
+Mithrand: Hp 81%
+Searc: northwest
+Mithrand: west
+Searc: cast con fioco
+Mithrand: northwest
+Searc: scan
+Searc: northeast
+Searc: east
+Searc: southeast
+Mithrand: Hp 81%
+Mithrand: northeast
+Searc: southeast
+Searc: southwest
+Mithrand: east
+Searc: west
+Searc: northwest
+Mithrand: southeast
+Searc: cast con fioco
+Mithrand: southwest
+Mithrand: northeast
+Mithrand: north
+Mithrand: northwest
+Mithrand: Hp 81%
+Searc: Hp 73%
+Mithrand: west
+Mithrand: southwest
+Searc: scan
+Searc: northeast
+Searc: east
+Searc: Hp 56%
+Mithrand: Hp 76%
+Searc: southeast
+Searc: southeast
+Searc: southwest
+Mithrand: southeast
+Searc: west
+Mithrand: east
+Mithrand: Hp 75%
+Searc: Hp 56%
+Mithrand: northeast
+Searc: northwest
+Mithrand: north
+Searc: northeast
+Mithrand: northeast
+Searc: east
+Mithrand: north
+Mithrand: northwest
+Mithrand: southwest
+Searc: cast con fioco
+Searc: scan
+Mithrand: scan
+Searc: southeast
+Searc: southwest
+Searc: Hp 42%
+Mithrand: Hp 75%
+Mithrand: southeast
+Searc: cast con fioco
+Searc: scan
+Searc: look
+Mithrand: southwest
+Searc: scan
+Mithrand: Hp 75%
+Searc: Hp 36%
+Searc: scan
+Searc: west
+Searc: cast con fioco
+Mithrand: west
+Searc: northwest
+Searc: northeast
+Searc: cast con fioco
+Mithrand: northwest
+Mithrand: northeast
+Searc: east
+Searc: northeast
+Mithrand: southwest
+Mithrand: northeast
+Mithrand: east
+Searc: read shelter'
+Mithrand: southeast
+Mithrand: northwest
+Mithrand: Hp 65%
+Searc: Hp 15%
+Searc: northwest
+Searc: west
+Mithrand: scan
+Searc: southwest
+Searc: read shelter
+Mithrand: west
+Searc: look
+Mithrand: southwest
+Mithrand: Hp 60%
+Searc: cast campfire tune
+Mithrand: east
+Mithrand: southeast
+Searc: eqset wear spr
+Mithrand: southwest
+Mithrand: west
+Searc: Hp 10%
+Mithrand: get nf from all
+Mithrand: northwest
+Mithrand: Hp 60%
+Searc: Hp 13%
+Mithrand: get nf from bag 1
+Mithrand: Hp 60%
+Searc: Hp 8%
+Searc: cast campfire tune
+Mithrand: Hp 60%
+Searc: Hp 13%
+Mithrand: cast shattered feast at amount 100
+Mithrand: northwest
+Searc: southeast
+Searc: east
+Mithrand: scan
+Mithrand: Hp 55%
+Searc: northeast
+Searc: rebirth heal
+Mithrand: southeast
+Mithrand: scan
+Mithrand: east
+Mithrand: east
+Mithrand: northeast
+Searc: read shelter
+Mithrand: Hp 55%
+Searc: Hp 23%
+Searc: scan
+Searc: northwest
+Searc: west
+Searc: southwest
+Mithrand: northwest
+Mithrand: west
+Searc: cast con fioco
+Mithrand: west
+Mithrand: southwest
+Searc: scan
+Mithrand: scan
+Searc: southeast
+Searc: east
+Searc: northeast
+Mithrand: southeast
+Mithrand: east
+Searc: eqset wear offu
+Searc: remove dexi
+Searc: wield nightfall
+Searc: northwest
+Searc: west
+Searc: look
+Mithrand: west
+Searc: northwest
+Searc: northeast
+Mithrand: northwest
+Mithrand: northeast
+Searc: northeast
+Searc: southeast
+Searc: east
+Searc: southeast
+Mithrand: east
+Searc: southwest
+Searc: west
+Searc: southwest
+Mithrand: west
+Searc: southeast
+Searc: east
+Mithrand: Hp 50%
+Mithrand: east
+Searc: cast con fioco
+Mithrand: west
+Mithrand: southwest
+Mithrand: southeast
+Mithrand: east
+Mithrand: Hp 50%
+Searc: Hp -14%
+Mithrand: west
+Mithrand: cast shattered feast at amount 100
+Searc: Hp -14%
+Mithrand: Hp 50%
+Searc: Hp -14%
+Mithrand: Hp 45%
+Searc: Hp -14%
+Mithrand: Hp 47%
+Searc: Hp -14%
+Mithrand: cast shattered feast at amount 100
+Mithrand: Hp 56%
+Searc: Hp -14%
+Mithrand: clairvoyance
+Mithrand: Hp 56%
+Searc: Hp -16%
+Mithrand: Hp 56%
+Searc: Hp -18%
+Mithrand: Hp 51%
+Searc: Hp -18%
+Mithrand: Hp 51%
+Searc: Hp -22%
+Mithrand: cast shattered feast at amount 100
+Mithrand: Hp 75%
+Searc: Hp -22%
+Mithrand: Hp 70%
+Searc: Hp -25%
+Mithrand: Hp 67%
+Searc: Hp -26%
+Mithrand: finger searc
+Mithrand: Hp 62%
+Searc: Hp -26%
+Mithrand: Hp 79%
+Searc: Hp -26%
+Mithrand: Hp 79%
+Searc: Hp -30%
+Mithrand: Hp 79%
+Searc: Hp -30%
+Mithrand: Hp 79%
+Searc: Hp -32%
+Searc died and thus loses this round!
+Mithrand has won this round of the Battle Royale!
+Info: Searc dies.

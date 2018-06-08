@@ -1,0 +1,696 @@
+Sirdar booms 'match of 200,000 gold, Munkki vs. Culain.'
+
+
+Munkki Suklainen is a level 50 mortal of the Ogre race.
+She was created Thu Sep 17 08:53:25 1998 and she is 138d, 1h, 49min and 37s old.
+She has been on for 8h, 4min and 15s, idle 2s.
+She has killed: A large snow devil fills the pass, 9255 exp
+                Axidia, Master of undeads, 210192 exp (party of 8)
+Web page: barb - stroke/thrust ... 1,2k+ hps  ready for Rep/exp
+She has no plan.
+
+
+Culain Arneric is a level 50 mortal of the Giant race.
+He was created Fri Mar 30 12:27:44 2001 and he is 100d, 11h, 20min and 16s old.
+He has been on for 2h, 1min and 20s, idle 7s (*kalassa*).
+He has killed: a nasty thug collecting the entry fe.., 21660 exp
+               Bloodgobbler the sadistic troll elder, 105498 exp (party of 5)
+Web page: Team Jytkyplyt ry Vaasa,Finland (NEwbiemonster) [vsa+] [sex+] [wombat+]
+Plan:
+>[vsa+]: Nepnep licks her own A steel rapier named 'ToagMastDai!' <red glow>.
+>Toag {vsa+}: perustan Runeaxe fan clubin
+
+
+The arena master shouts 'Team 1 consists of Culain'
+The arena master shouts 'Team 2 consists of Munkki'
+The arena master shouts 'All teams ready! Let the fight begin!'
+Rjak [party]: tuleeko 'la arena' mit‰‰ messua ku kattoo
+Jokke looks at orb.
+Info: Graverobber goes link dead.
+Furtoe looks at orb.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain           1023/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1210/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Guardsman shouts 'Atomska, no hard feelings, ok? *cackle*'
+Info: Atomska dies.
+Davian [sales]: damn radagast you are making dam rings way too expensive
+Pahvi .. culain: south
+Belanthor looks at orb.
+       
+ ####  
+ #.2#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain           1023/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1210/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: north
+Juo looks at orb.
+Ikira [wanted]: the next person to rape horn durath to give me a tell beforehand :)
+Pahvi .. culain: party report
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            893/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1146/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Flab looks at orb.
+Pahvi .. munkki: party report
+Pahvi .. culain: scan all
+Info: Rhadamanth recovers from link death.
+Dheos arrives from down.
+Noctur looks at orb.
+Pahvi .. munkki: party report
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            893/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1082/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Kenn looks at orb.
+Pahvi .. munkki: use
+Pahvi .. munkki: target culain
+Jokke is caught by sudden enlightment.
+       
+ ####  
+ #.2#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            751/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1082/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. munkki: party report
+Pahvi .. munkki: scan all
+Croesus leaves west.
+Pahvi .. culain: west
+Pahvi .. munkki: party report
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1082/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Proteus looks at orb.
+Pahvi .. munkki: scan all
+       
+ ####  
+ #2.#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1082/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Croesus arrives from west.
+Pahvi .. munkki: kill culain
+Pahvi .. culain: party report
+Info: Gylli left the game.
+       
+ ####  
+ #..#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            995/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: scan all
+Ghost of Atomska [ghost]: hurry pld
+Pahvi .. munkki: party report
+Pahvi .. culain: use
+Pahvi .. munkki: scan all
+Info: Misterr goes link dead.
+Pahvi .. culain: party say Push
+Pahvi .. munkki: party report
+Mazaharaza looks at orb.
+Pahvi .. culain: party report
+       
+ ####  
+ #..#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            995/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: scan all
+Info: Dreamr left the game.
+Pahvi .. culain: party report
+Juo is caught by sudden enlightment.
+Pahvi .. munkki: party report
+       
+ ####  
+ #..#  
+ #1.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            995/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: scan all
+[wanted]: Malar dresses up like Horn Durath
+Pahvi .. munkki: use
+Mandrake (sales): 2*emerald ring mb 1.1m!
+Pahvi .. munkki: target culain
+Ghost of Atomska [ghost]: pls
+Pahvi .. culain: east
+Pahvi .. munkki: scan all
+Pahvi .. munkki: party report
+       
+ ####  
+ #.1#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            995/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Sirdar booms ''la arena'.'
+Pequod [ghost]: accept rais/ress from pequod
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            995/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: south
+Ednar [sales]: tsiip!
+Sasquach [wanted]: heh
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Info: Alorn recovers from link death.
+Pahvi .. culain: use
+Pahvi .. culain: party say Fury
+Pahvi .. culain: target
+Pahvi .. culain: party say Targetted
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Radagast [sales]: well if there seems to be none around
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Info: Hallunallu goes link dead.
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: use
+Pahvi .. culain: party say Fury
+Pahvi .. culain: target munkki
+Pahvi .. culain: party say Targetted
+       
+ ####  
+ #1.#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Ghost of Atomska [ghost]: ja
+       
+ ####  
+ #1.#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            537/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. munkki: kill culain
+Pahvi .. culain: party report
+Pahvi .. munkki: use 'pound' culain
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            481/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: scan all
+Pahvi .. munkki: target culain
+Pahvi .. munkki: party report
+Davian [sales]: wink go make thy own ?
+Croesus is caught by sudden enlightment.
+Pahvi .. munkki: scan all
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            433/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: party report
+Pahvi .. culain: scan all
+Pahvi .. munkki: party report
+Pahvi .. munkki: scan all
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            433/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Malar [ghost]: accept from sasquach
+Pahvi .. culain: party report
+Pahvi .. culain: scan all
+Pahvi .. munkki: party report
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            433/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki           1020/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: party report
+Pahvi .. culain: scan all
+Pahvi .. munkki: party report
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            334/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            906/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: east
+Pahvi .. munkki: scan all
+       
+ ####  
+ #.2#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            334/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            906/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Ghost of Atomska [ghost]: near deth je bil
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            334/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            933/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: use 'bladed fury' munkki
+Pahvi .. culain: party say Fury
+Pahvi .. culain: target munkki
+Pahvi .. culain: party say Targetted
+Pahvi .. munkki: kill culain
+Pahvi .. culain: party report
+Pahvi .. culain: scan all
+Pahvi .. munkki: party report
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            237/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            882/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. munkki: tell
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            132/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            860/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: party report
+Pahvi .. munkki: scan all
+Pahvi .. culain: scan all
+Pahvi .. munkki: party report
+Pahvi .. culain: west
+       
+ ####  
+ #1.#  
+ #.2#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            132/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            860/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: use 'bladed fury' munkki
+Pahvi .. culain: party say Fury
+Pahvi .. culain: target munkki
+Pahvi .. culain: party say Targetted
+       
+ ####  
+ #1.#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            132/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            860/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Ghost of Atomska [ghost]: :PP
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain             27/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            804/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. munkki: kill culain
+Pahvi .. culain: party report
+Pahvi .. culain: scan all
+Pahvi .. culain: party report
+Pahvi .. munkki: party report
+Pahvi .. culain: scan all
+Pahvi .. munkki: party report
+Pahvi .. culain: east
+Pahvi .. munkki: scan all
+       
+ ####  
+ #2.#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain             27/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            804/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. munkki: east
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain             27/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            804/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. culain: use 'bladed fury' munkki
+Pahvi .. culain: party say Fury
+Pahvi .. culain: target munkki
+Pahvi .. culain: party say Targetted
+Pahvi .. munkki: kill culain
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain            -40/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            804/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. munkki: party report
+Pahvi .. munkki: party say Culain has gone UNCONSCIOUS
+Kohothegreat [wanted]: perhaps he should ask donations then
+Sirdar booms 'ack.'
+Ananator [wanted]: reinc
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain           -150/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            804/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. munkki: party report
+Tsuran tells you 'miss‰s meet?' 
+       
+ ####  
+ #..#  
+ #.1#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Culain           -273/1023   18/14   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Munkki            804/1210   47/38   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi .. munkki: party report
+Juo quacks ':P.'
+Khirsah goes 'MUAH'.
+You say 'sinne m‰n.'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+The arena master shouts 'Culain of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Munkki'
+Khirsah grunts 'se oli siina.'
+Akvavitix snaps her fingers.
+Info: Lyriikka enters the game.
+There is no fight going on.
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Proteus yells hysterically 'No! No! Nooooo!'.
+Pahvi .. culain: party report
+Pahvi .. culain: scan all
+Juo quacks 'boonit pesee kyl.'
+Sirdar booms 'Munkki vs. Culain, 1.0.'
+Toag leaves down.
+Vendar hiiops down.
+Kenn leaves down.
+Pahvi smiles happily.
+Info: Belzebub recovers from link death.
+Pahvi .. culain: bow munkki
+Sirdar booms 'Munkki vs. Culain, 1-0 jopa.'

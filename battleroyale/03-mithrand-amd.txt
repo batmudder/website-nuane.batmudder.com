@@ -1,0 +1,230 @@
+The Battle Royale Continues:
+Mithrand and Amd will fight to the death!
+Amd: Hp 98%
+Mithrand: Hp 99%
+Amd: Hp 98%
+Mithrand: Hp 99%
+Amd: south
+Mithrand: Hp 99%
+Mithrand: cast aura of hate at me
+Amd: Hp 98%
+Mithrand: Hp 99%
+Amd: Hp 98%
+Mithrand: Hp 99%
+Mithrand: clairvoyance
+Amd: rub mask
+Amd: Hp 98%
+Mithrand: Hp 99%
+Amd: look
+Amd: Hp 98%
+Mithrand: Hp 99%
+Amd: Hp 98%
+Mithrand: Hp 83%
+Mithrand: cast shattered feast at amount 100
+Amd: north
+Amd: Hp 95%
+Mithrand: Hp 86%
+Amd: Hp 95%
+Mithrand: Hp 83%
+Mithrand: battle listen all 2
+Amd: Hp 95%
+Mithrand: Hp 76%
+Mithrand: east
+Amd: Hp 95%
+Mithrand: Hp 76%
+Amd: Hp 95%
+Mithrand: cast shattered feast at amount 100
+Amd: use 'slash'
+Mithrand: Hp 76%
+Amd: Hp 95%
+Amd: look
+Dupre looks at sign.
+Mithrand: Hp 76%
+Amd: Hp 95%
+Mithrand: clairvoyance
+Mithrand: Hp 76%
+Amd: Hp 95%
+Amd: east
+Amd: Hp 91%
+Mithrand: Hp 68%
+Amd: titan stomp
+Amd: Hp 91%
+Mithrand: Hp 82%
+Mithrand: east
+Amd: west
+Norz looks at screen.
+Amd: Hp 78%
+Mithrand: Hp 82%
+Mithrand: cast shattered feast at amount 100
+Amd: Hp 66%
+Mithrand: Hp 82%
+Amd: south
+Mithrand: Hp 82%
+Amd: Hp 66%
+Mithrand: Hp 82%
+Amd: use 'slash'
+Amd: Hp 66%
+Mithrand: Hp 82%
+Mithrand: clairvoyance
+Amd: Hp 66%
+Mithrand: cast glory of destruction at amount 100
+Amd: north
+Amd: Hp 63%
+Mithrand: scan
+Amd: Hp 60%
+Amd: Hp 57%
+Amd: east
+Amd: Hp 57%
+Mithrand: use 'blood harvest'
+Amd: Hp 60%
+Mithrand: clairvoyance
+Amd: Hp 60%
+Mithrand: east
+Mithrand: Hp 94%
+Amd: Hp 58%
+Mithrand: use 'blood harvest'
+Mithrand: Hp 94%
+Amd: Hp 55%
+Amd: read heal
+Mithrand: Hp 94%
+Amd: Hp 66%
+Amd: west
+Mithrand: Hp 94%
+Amd: Hp 66%
+Mithrand: Hp 96%
+Amd: use 'slash'
+Mithrand: cast 'aneurysm'
+Amd: Hp 66%
+Mithrand: Hp 96%
+Amd: use 'lure'
+Mithrand: cast 'harm body'
+Amd: Hp 66%
+Mithrand: Hp 96%
+Mithrand: clairvoyance
+Amd: look
+Amd: Hp 66%
+Mithrand: Hp 96%
+Amd: Hp 66%
+Mithrand: Hp 96%
+Amd: east
+Amd: Hp 36%
+Mithrand: Hp 96%
+Mithrand: scan
+Amd: south
+Mithrand: Hp 96%
+Mithrand: south
+Mithrand: Hp 93%
+Amd: Hp 28%
+Amd: read hheal
+Mithrand: use 'blood harvest'
+Mithrand: Hp 86%
+Amd: Hp 42%
+Mithrand: use 'blood harvest'
+Amd: west
+Mithrand: Hp 86%
+Mithrand: cast shattered feast at amount 100
+Amd: Hp 42%
+Mithrand: Hp 86%
+Amd: use 'slash'
+Amd: Hp 42%
+Mithrand: Hp 86%
+Mithrand: cast 'harm body'
+Amd: Hp 42%
+Mithrand: west
+Amd: Hp 41%
+Amd: life
+Mithrand: Hp 94%
+Amd: Hp 82%
+Mithrand: scan
+Mithrand: Hp 94%
+Amd: Hp 76%
+Amd: east
+Mithrand: cast shattered feast at amount 100
+Mithrand: Hp 83%
+Amd: Hp 72%
+Mithrand: Hp 85%
+Amd: west
+Amd: Hp 72%
+Mithrand: Hp 85%
+Amd: scan
+Amd: Hp 72%
+Mithrand: Hp 85%
+Mithrand: east
+Amd: east
+Amd: Hp 72%
+Mithrand: cast 'harm body'
+Amd: torso mithrand
+Amd: Hp 71%
+Mithrand: Hp 99%
+Amd: north
+Mithrand: Hp 92%
+Mithrand: cast 'harm body'
+Amd: Hp 71%
+Mithrand: Hp 92%
+Amd: Hp 74%
+Mithrand: Hp 92%
+Mithrand: cast 'harm body'
+Amd: south
+Amd: Hp 70%
+Mithrand: Hp 92%
+Amd: inventory
+Amd: Hp 70%
+Mithrand: Hp 92%
+Amd: read mirs
+Mithrand: cast 'aneurysm'
+Amd: Hp 36%
+Mithrand: Hp 92%
+Amd: Hp 35%
+Mithrand: Hp 88%
+Amd: west
+Mithrand: west
+Mithrand: Hp 82%
+Amd: Hp 2%
+Amd: north
+Mithrand: nbb
+Mithrand: Hp 82%
+Amd: Hp 2%
+Mithrand: north
+Amd: rebirth heal
+Mithrand: Hp 82%
+Amd: Hp 63%
+Mithrand: cast 'harm body'
+Mithrand: Hp 70%
+Amd: Hp 63%
+Amd: scan
+Mithrand: Hp 65%
+Amd: Hp 59%
+Amd: south
+Mithrand: cast shattered feast at amount 100
+Mithrand: Hp 65%
+Amd: Hp 59%
+Mithrand: drink vial
+Mithrand: Hp 78%
+Amd: Hp 59%
+Amd: north
+Mithrand: cast shattered feast at amount 100
+Amd: Hp 59%
+Mithrand: Hp 72%
+Amd: east
+Mithrand: Hp 72%
+Amd: Hp 59%
+Mithrand: Hp 72%
+Amd: west
+Amd: Hp 56%
+Mithrand: Hp 72%
+Amd: south
+Mithrand: Hp 72%
+Amd: Hp 56%
+Amd: north
+Amd: Hp 31%
+Mithrand: Hp 84%
+Mithrand: use 'blood harvest'
+Amd: scan
+Amd: Hp -2%
+Mithrand: Hp 84%
+Amd: Hp -6%
+Mithrand: Hp 84%
+Amd: Hp -30%
+Mithrand: Hp 84%
+Amd died and thus loses this round!
+Mithrand has won this round of the Battle Royale!

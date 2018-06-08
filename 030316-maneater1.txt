@@ -1,0 +1,2600 @@
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+The man-eating leopard from Rudraprayag
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Amarth <fin>: mietin just samaa mihin lentais
+Mithrand starts concentrating on a new offensive skill.
+ps
+scan all
+*****************************************************
+Mithrand hits Maneater 1 time.
+Maneater hits Mithrand 1 time.
+hp 727/452 () | sp 998/1136 (+493) | ep 247/247 ()
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 33s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1706(1447)   28(  28) 418(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1523(1515)  -32(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1682(1858)  445( 582) 508(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  329( 329) 1470(2113) 261(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  782( 782)  924(1898) 301(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703) 1023(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  990(1143) 290(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  998(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  579(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:01] hp 727/452 | sp 998/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Mithrand reports: Hp: 1682 (1858) Sp: 445 (582) Ep: 508 (508).
+Maneater is in very bad shape.
+[23:36:01] hp 727/452 | sp 998/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 1706 (1447) Sp: 28 (28) Ep: 418 (418).
+Robinhood [party]: Casting Concealed
+mjph
+Ruffneck starts concentrating on a new offensive spell.
+You start chanting.
+[23:36:01] hp 727/452 | sp 998/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam starts concentrating on a new offensive skill.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 34s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1706(1447)   28(  28) 418(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1523(1515)  -32(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1682(1858)  445( 582) 508(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  329( 329) 1470(2113) 261(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  782( 782)  924(1898) 301(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703) 1023(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  990(1143) 290(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  998(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  579(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:02] hp 727/452 | sp 998/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Captnapalm starts concentrating on a new offensive spell.
+Major party heal: 3
+Major party heal: 2 (haste)
+scan all
+*****************************************************
+Merioli hits Maneater 2 times.
+Mithrand hits Maneater 4 times.
+Matriam's flex shield wobbles.
+Maneater hits Matriam 1 time.
+Info: Pequod goes link dead.
+Merioli reports: Hp: 1523 (1515) Sp: -32 (45) Ep: 406 (406).
+Mithrand reports: Hp: 1682 (1858) Sp: 445 (582) Ep: 508 (508).
+Maneater is in very bad shape.
+[23:36:04] hp 727/452 | sp 998/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 1607 (1447) Sp: 28 (28) Ep: 418 (418).
+Overlord [wanted]: party for magic cloak lq
+ps
+Calath [fin]: joo kiinas oli sentaa asennevaalit
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 36s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1607(1447)   28(  28) 418(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1523(1515)  -32(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1682(1858)  445( 582) 508(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  329( 329) 1470(2113) 261(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  782( 782)  924(1898) 301(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703) 1023(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  990(1143) 290(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  998(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  579(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:04] hp 727/452 | sp 998/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Ghost of Aquam [ghost]: took from lok
+Major party heal: 1
+Robinhood cast(s) -> 'Lava Blast'
+As Robinhood casts the spell, he pulls out a granite sphere which bursts into a million prismatic starbursts.
+Robinhood grins as his lava blast hits Maneater.
+scan all
+*****************************************************
+Matriam hits Maneater 1 time.
+Mithrand hits Maneater 2 times.
+Maneater hits Merioli 2 times.
+Mithrand reports: Hp: 1682 (1858) Sp: 445 (582) Ep: 508 (508).
+Merioli reports: Hp: 1085 (1515) Sp: -32 (45) Ep: 406 (406).
+[party]: Merioli hurt himself :(
+Maneater is in very bad shape.
+[23:36:07] hp 727/452 | sp 998/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 1607 (1447) Sp: 28 (28) Ep: 418 (418).
+Robinhood [party]: Maneater screams to -FIRE-.
+ps
+Robinhood [party]: Casting Concealed
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 40s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1607(1447)   28(  28) 418(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1085(1515)  -32(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1682(1858)  445( 582) 508(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  329( 329) 1470(2113) 261(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  782( 782)  924(1898) 301(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703) 1023(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  868(1143) 290(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  998(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  579(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:08] hp 727/452 | sp 998/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Gotrek clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Gotrek flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Gotrek grins as his channelburn hits Maneater.
+Bending reality around its sharp edge, Ssssuuucker warps Mithrand right behind
+Maneater.  Catching him unawares, he delivers a strong blow to Maneater's
+unprotected back!
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal all of Gotrek's wounds.
+You heal all of Mithrand's wounds.
+You heal much of Merioli's wounds.
+Captnapalm plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Captnapalm grins as his con fioco hits Maneater.
+Ruffneck clenches her fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Ruffneck flails wildly and throws DOZENS of exploding bombs, leaving a pillar
+of black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Ruffneck grins as her channelburn hits Maneater.
+scan all
+*****************************************************
+Mithrand hits Maneater 1 time.
+Maneater hits Matriam 2 times.
+Kiraffi cast(s) -> 'Lava Blast'
+As Kiraffi casts the spell, he pulls out a granite sphere from a small pouch.
+Kiraffi grins as his lava blast hits Maneater.
+Maneater bursts into flames!
+Maneater bursts into flames!
+Gotrek [party]: Maneater screams (fire)
+Matriam reports: Hp: 1240 (1447) Sp: 28 (28) Ep: 418 (418).
+Mithrand starts concentrating on a new offensive skill.
+Merioli reports: Hp: 1284 (1515) Sp: -32 (45) Ep: 406 (406).
+Mithrand reports: Hp: 1853 (1858) Sp: 445 (582) Ep: 481 (508).
+Maneater is near death.
+[23:36:10] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Ruffneck starts concentrating on a new offensive spell.
+Captnapalm starts concentrating on a new offensive spell.
+mjh merioli
+You start chanting.
+[23:36:11] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 43s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1240(1447)   28(  28) 418(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1284(1515)  -32(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1853(1858)  445( 582) 481(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  329( 329) 1392(2113) 258(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  776( 782)  846(1898) 298(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703)  841(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  868(1143) 290(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  900(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  461(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:11] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Gotrek shouts enthusiastically and screams 'WHEE!'.
+hp 727/452 () | sp 900/1136 (-98) | ep 247/247 ()
+Major heal: 3
+scan all
+*****************************************************
+Mithrand hits Maneater 2 times.
+Merioli's flex shield wobbles.
+Maneater hits Merioli 2 times.
+Mithrand reports: Hp: 1853 (1858) Sp: 445 (582) Ep: 481 (508).
+Maneater is near death.
+[23:36:13] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 1240 (1447) Sp: 28 (28) Ep: 418 (418).
+Merioli reports: Hp: 1027 (1515) Sp: -32 (45) Ep: 406 (406).
+ps
+Kyynel [wanted]: relo/summon rp
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 45s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1240(1447)   28(  28) 418(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1027(1515)  -32(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1853(1858)  445( 582) 481(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  329( 329) 1392(2113) 258(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  776( 782)  846(1898) 298(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703)  841(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  868(1143) 290(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  900(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  461(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:13] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Info: Blux goes link dead.
+Calath [fin]: kommunismi rokkas taas
+Oktimatus [wanted]: spr eq
+Matriam delivers a crushing blow to Maneater's windpipe!
+Major heal: 2
+Major heal: 1 (haste)
+Zod [fin]: irakis kans :)
+Merioli [party]: nära döden
+[party]: Kiraffi -=> Lava blast in 1
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 48s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1240(1447)   28(  28) 386(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1052(1515)  -31(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1853(1858)  445( 582) 481(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  329( 329) 1392(2113) 258(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  776( 782)  839(1898) 298(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703)  841(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  910(1143) 290(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  900(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  527(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:16] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Ruffneck starts concentrating on a new offensive spell.
+Robinhood aborts the spell casting.
+Matriam starts concentrating on a new offensive skill.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+The man-eating leopard from Rudraprayag
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand starts concentrating on a new offensive skill.
+Gotrek starts concentrating on a new offensive spell.
+Robinhood [party]: Casting Concealed
+Ruffneck starts concentrating on a new offensive spell.
+Matriam starts concentrating on a new offensive skill.
+mjh merioli
+You start chanting.
+[23:36:18] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+ps
+
+scan all
+*****************************************************
+Matriam's flex shield wobbles.
+Maneater hits Matriam 1 time.
+Major heal: 3
+Major heal: 2 (haste)
+Robinhood aborts the spell casting.
+Kiraffi starts concentrating on a new offensive spell.
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 51s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1146(1447)   28(  28) 386(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1049(1515)  -31(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1848(1858)  445( 582) 480(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  329( 329) 1392(2113) 257(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  776( 782)  839(1898) 298(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703)  841(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  910(1143) 289(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  900(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  527(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:19] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 1146 (1447) Sp: 28 (28) Ep: 386 (418).
+Mithrand reports: Hp: 1848 (1858) Sp: 445 (582) Ep: 480 (508).
+Captnapalm starts concentrating on a new offensive spell.
+Maneater is near death.
+[23:36:19] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Overlord [wanted]: or for princess daisy lq
+Merioli reports: Hp: 1049 (1515) Sp: -31 (45) Ep: 406 (406).
+Info: Blux recovers from link death.
+Gotrek quacks 'döden dö.'
+Gotrek clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Gotrek flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Gotrek grins as his channelburn hits Maneater.
+Major heal: 1
+scan all
+*****************************************************
+Mithrand hits Maneater 2 times.
+Maneater hits Matriam 3 times.
+Ruffneck clenches her fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Ruffneck flails wildly and throws DOZENS of exploding bombs, leaving a pillar
+of black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Ruffneck grins as her channelburn hits Maneater.
+Maneater bursts into flames!
+Susette [sales]: arttu rod 150k, hera neck 230k
+Matriam reports: Hp: 765 (1447) Sp: 28 (28) Ep: 386 (418).
+Merioli reports: Hp: 1049 (1515) Sp: -31 (45) Ep: 406 (406).
+Mithrand reports: Hp: 1848 (1858) Sp: 445 (582) Ep: 480 (508).
+Maneater is near death.
+[23:36:22] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+ps
+
+Gotrek starts concentrating on a new offensive spell.
+Xeltar [suomi]: jep halmetta enemmän ei oo saannu ääniä ku lipponen :P
+Ruffneck starts concentrating on a new offensive spell.
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 55s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol  765(1447)   28(  28) 386(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1049(1515)  -31(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1848(1858)  445( 582) 480(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  323( 329) 1314(2113) 254(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  770( 782)  761(1898) 295(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703)  841(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  910(1143) 289(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  900(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  527(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:23] hp 727/452 | sp 900/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Robinhood [party]: Casting Concealed
+Matriam ducks aside and delivers a stout blow to Maneater's head!
+Matriam turns suddenly and STRIKES again..
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Heal'
+You heal really much of Merioli's wounds.
+Milk [wanted]: fws...
+Merioli grunts 'Hp: 1511 (1515) Sp: -31 (45) Ep: 406 (406).'
+th matriam
+You start chanting.
+[23:36:25] hp 727/452 | sp 773/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 57m 58s) | Exp/min:     10924 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol  765(1447)   28(  28) 354(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1511(1515)  -31(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1848(1858)  445( 582) 480(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  323( 329) 1314(2113) 254(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  770( 782)  761(1898) 295(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703)  841(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  910(1143) 289(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  773(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  527(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:26] hp 727/452 | sp 773/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam starts concentrating on a new offensive skill.
+Gaurhoth [suomi]: ois paatetty puolueen linjauksia siin eduskuntatalon ja storyvillen valises puistos
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Kiraffi starts concentrating on a new offensive spell.
+th matriam
+hp 727/452 () | sp 773/1136 (-127) | ep 247/247 ()
+You start chanting.
+[23:36:28] hp 727/452 | sp 773/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Mithrand starts concentrating on a new spell.
+Kiraffi starts concentrating on a new skill.
+True heal: 3
+True heal: 2 (haste)
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 58m  4s) | Exp/min:     10863 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol  765(1447)   28(  28) 354(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1511(1515)  -31(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1848(1858)  445( 582) 480(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  323( 329) 1314(2113) 254(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  770( 782)  761(1898) 294(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703)  841(1203) 276(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  910(1143) 288(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  773(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  527(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:32] hp 727/452 | sp 773/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Captnapalm starts concentrating on a new spell.
+Mithrand cast(s) -> 'infernalicus conjuratis arachnidos'
+A spider crawls out of Mithrand's palm, runs to a corner and begins to weave a
+web.
+hp 727/452 () | sp 809/1136 (+36) | ep 247/247 ()
+True heal: 1
+Kiraffi performs a solemn ceremony to please Aveallis.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 58m  6s) | Exp/min:     10863 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol  765(1447)   28(  28) 354(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1511(1515)  -31(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1848(1858)  410( 582) 480(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  323( 329) 1358(2113) 258(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  770( 782)  761(1898) 294(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703)  894(1203) 275(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  910(1143) 288(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  809(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  527(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:34] hp 727/452 | sp 809/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Info: Erlend enters the game.
+Gotrek [party]: 200 Sp for captnapalm
+You are done with the chant.
+CASTED.
+You cast(s) -> 'True Heal'
+You heal all of Matriam's wounds.
+Captnapalm sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Captnapalm sings the tune with pride, being a member of the leading guild!
+Merioli grunts 'Hp: 1515 (1515) Sp: -31 (45) Ep: 406 (406).'
+ps
+Matriam [party]: full hp!
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 58m  9s) | Exp/min:     10863 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1447(1447)   28(  28) 354(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1515(1515)  -31(  45) 406(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1858(1858)  410( 582) 480(508) |  98 |       220792 |
+| 2.1   Gotrek        fol  329( 329) 1358(2113) 258(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  782( 782)  761(1898) 294(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 703)  894(1203) 275(274) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 766)  910(1143) 288(290) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  605(1136) 247(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 890)  456(1124) 455(455) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:36:37] hp 727/452 | sp 605/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+p say *is ready to camp.*
+You stretch yourself and consider about camping.
+(party): Nuane is ready to camp.
+[23:36:38] hp 727/452 | sp 605/1136 | ep 247/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Info: Gendo recovers from link death.
+hp 727/452 () | sp 605/1136 (-204) | ep 247/247 ()
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+A clearing in the forest (w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+A clearing in the forest (w,s,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+a brown and black goat, doing some sexy moves
+a brown and white goat, doing some sexy moves
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+A clearing in the forest (w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+hp 727/452 () | sp 605/1136 () | ep 245/247 (-2)
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+hp 727/452 () | sp 605/1136 () | ep 244/247 (-1)
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+On the pilgrim road (n,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (ne,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northeast.
+Kiraffi leaves northeast.
+Gotrek leaves northeast.
+Matriam leaves northeast.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southwest.
+Captnapalm arrives from southwest.
+Ruffneck arrives from southwest.
+Robinhood arrives from southwest.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+hp 727/452 () | sp 605/1136 () | ep 241/247 (-3)
+Capula {wanted}: location of: A lost skeleton is here in disguise
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+Outside the sadhu's hut (w,n).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Haii [wanted]: summon paying
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Village of Rudraprayag (n,s,w).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Village of Rudraprayag (nw,e,s).
+7 bronze coins
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+hp 727/452 () | sp 605/1136 () | ep 238/247 (-3)
+Info: Malignant left the game.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+Village of Rudraprayag (se,sw,w).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+Village of Rudraprayag (nw,e,s).
+7 bronze coins
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+Village of Rudraprayag (n,w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+Grain [suomi]: Nyrkkeilijä kertoi aikovansa ajaa eduskunnassa erityisesti sotaveteraanien ja yksinhuoltajien lasten asioita.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Village of Rudraprayag (nw,s,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Village of Rudraprayag (n,w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+hp 727/452 () | sp 605/1136 () | ep 237/247 (-1)
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+Village of Rudraprayag (nw,e,s).
+7 bronze coins
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Village of Rudraprayag (n,s,w).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Info: Shadowos goes link dead.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+Outside the sadhu's hut (w,n).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+hp 727/452 () | sp 605/1136 () | ep 232/247 (-5)
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Mithrand leavez southwest.
+Kiraffi leaves southwest.
+Gotrek leaves southwest.
+Matriam leaves southwest.
+On the pilgrim road (ne,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northeast.
+Captnapalm arrives from northeast.
+Ruffneck arrives from northeast.
+Robinhood arrives from northeast.
+Info: Blayke goes link dead.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Miger [suomi]: siis oikeesti, yli 16 tuhatta suomalaista haluaa halmeen eduskuntaan
+Haii [wanted]: got from namo
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+hp 727/452 () | sp 605/1136 () | ep 229/247 (-3)
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Info: Gendo goes link dead.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+[party]: Captnapalm lost humppa
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Info: Diego enters the game.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+A clearing in the forest (w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+hp 727/452 () | sp 691/1136 (+86) | ep 235/247 (+6)
+Info: Iona left the game.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+A clearing in the forest (w,s,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+a brown and black goat, doing some sexy moves
+a brown and white goat, doing some sexy moves
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+A clearing in the forest (s,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+a black goat, doing some sexy moves
+a brown goat, doing some sexy moves
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+A clearing in the forest (n,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Molumpur, the trusted pedlar
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+A clearing in the forest (w,n).
+one mowgles coin
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+Grain [suomi]: hehe tollasta löyty tuolta uutisista
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+A clearing in the forest (w,s,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+a brown and black goat, doing some sexy moves
+a brown and white goat, doing some sexy moves
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+A clearing in the forest (w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+hp 727/452 () | sp 691/1136 () | ep 234/247 (-1)
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+On the pilgrim road (n,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (ne,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northeast.
+Kiraffi leaves northeast.
+Gotrek leaves northeast.
+Matriam leaves northeast.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southwest.
+Captnapalm arrives from southwest.
+Ruffneck arrives from southwest.
+Robinhood arrives from southwest.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+Outside the sadhu's hut (w,n).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+hp 727/452 () | sp 691/1136 () | ep 232/247 (-2)
+Sumendar [suomi]: korjaus: yli 16k helsinkiläistä
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Village of Rudraprayag (n,s,w).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Village of Rudraprayag (nw,e,s).
+7 bronze coins
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+Village of Rudraprayag (se,sw,w).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Grain [suomi]: se on jo siellä
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+Village of Rudraprayag (nw,e,s).
+7 bronze coins
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Village of Rudraprayag (n,s,w).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+hp 727/452 () | sp 691/1136 () | ep 229/247 (-3)
+Mithrand leavez southwest.
+Kiraffi leaves southwest.
+Gotrek leaves southwest.
+Matriam leaves southwest.
+On the pilgrim road (ne,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northeast.
+Captnapalm arrives from northeast.
+Ruffneck arrives from northeast.
+Robinhood arrives from northeast.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Gaurhoth [suomi]: huom, pelkastaan ton verran HELSINKILAISIA haluu sen sinne
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+hp 727/452 () | sp 691/1136 () | ep 227/247 (-2)
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand yawns tiredly.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+A clearing in the forest (w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+On the pilgrim road (n,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Kiraffi [party]: War Ensemble Expires [12m33s]
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (ne,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northeast.
+Kiraffi leaves northeast.
+Gotrek leaves northeast.
+Matriam leaves northeast.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southwest.
+Captnapalm arrives from southwest.
+Ruffneck arrives from southwest.
+Robinhood arrives from southwest.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+hp 727/452 () | sp 691/1136 () | ep 225/247 (-2)
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+Outside the sadhu's hut (w,n).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Village of Rudraprayag (n,s,w).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Village of Rudraprayag (nw,e,s).
+7 bronze coins
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+Village of Rudraprayag (se,sw,w).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+hp 727/452 () | sp 691/1136 () | ep 224/247 (-1)
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+Village of Rudraprayag (nw,e,s).
+7 bronze coins
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+Village of Rudraprayag (n,w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Village of Rudraprayag (nw,s,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+Village of Rudraprayag (n,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+hp 727/452 () | sp 802/1136 (+111) | ep 231/247 (+7)
+Info: Gendo recovers from link death.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Under the bridgetower (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the bridge (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Xeltar [suomi]: jossain pohjanmaalla ois saannu varmaa 80% äänistä
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+Under the bridgetower (n,s).
+four iron staffs, a rhodium
+staff, a steel staff and a porcelain staff (glowing)
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+East shore of Alaknanda river (ne,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Under the bridgetower (n,s).
+four iron staffs, a rhodium
+staff, a steel staff and a porcelain staff (glowing)
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the bridge (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Under the bridgetower (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+hp 727/452 () | sp 802/1136 () | ep 229/247 (-2)
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Village of Rudraprayag (n,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+Village of Rudraprayag (nw,s,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Info: Daktar recovers from link death.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Village of Rudraprayag (n,w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+Village of Rudraprayag (nw,e,s).
+7 bronze coins
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+hp 727/452 () | sp 802/1136 () | ep 228/247 (-1)
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Village of Rudraprayag (n,s,w).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Gaurhoth [suomi]: sita me ei tiedeta kuin moni muualta maasta sen sinne haluaa
+Overlord [wanted]: str row
+Mithrand leavez east.
+Kiraffi leaves east.
+Gotrek leaves east.
+Matriam leaves east.
+Outside the sadhu's hut (w,n).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from west.
+Captnapalm arrives from west.
+Ruffneck arrives from west.
+Robinhood arrives from west.
+hp 727/452 () | sp 802/1136 () | ep 226/247 (-2)
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+Along a path (nw,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+Village of Rudraprayag (n,sw,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Mithrand leavez southwest.
+Kiraffi leaves southwest.
+Gotrek leaves southwest.
+Matriam leaves southwest.
+On the pilgrim road (ne,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northeast.
+Captnapalm arrives from northeast.
+Ruffneck arrives from northeast.
+Robinhood arrives from northeast.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+hp 727/452 () | sp 802/1136 () | ep 225/247 (-1)
+Overlord [wanted]: 3 of them
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez southeast.
+Kiraffi leaves southeast.
+Gotrek leaves southeast.
+Matriam leaves southeast.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from northwest.
+Captnapalm arrives from northwest.
+Ruffneck arrives from northwest.
+Robinhood arrives from northwest.
+Mithrand leavez south.
+Kiraffi leaves south.
+Gotrek leaves south.
+Matriam leaves south.
+On the pilgrim road (n,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from north.
+Captnapalm arrives from north.
+Ruffneck arrives from north.
+Robinhood arrives from north.
+Mithrand leavez north.
+Kiraffi leaves north.
+Gotrek leaves north.
+Matriam leaves north.
+On the pilgrim road (nw,s).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from south.
+Captnapalm arrives from south.
+Ruffneck arrives from south.
+Robinhood arrives from south.
+hp 727/452 () | sp 802/1136 () | ep 224/247 (-1)
+Mithrand leavez northwest.
+Kiraffi leaves northwest.
+Gotrek leaves northwest.
+Matriam leaves northwest.
+On the pilgrim road (n,w,se).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from southeast.
+Captnapalm arrives from southeast.
+Ruffneck arrives from southeast.
+Robinhood arrives from southeast.
+Robinhood [party]: War Ensemble Down.
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+A clearing in the forest (w,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Demo [wanted]: party for little psi
+Mithrand [party]: ### War Ensemble DOWN: 12:58 ###
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+A clearing in the forest (w,s,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+a brown and black goat, doing some sexy moves
+a brown and white goat, doing some sexy moves
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+hp 727/452 () | sp 802/1136 () | ep 223/247 (-1)
+Mithrand leavez west.
+Kiraffi leaves west.
+Gotrek leaves west.
+Matriam leaves west.
+A clearing in the forest (s,e).
+Matriam the Stone Giant
+Gotrek Goodnights the Duck Mr. Mindfuck < Here Kitty kitty.. >
+Kiraffi Pitkäkaula the Duck Angel of Dreams < Here Kitty kitty.. >
+Mithrand the mean Centaur
+The man-eating leopard from Rudraprayag
+a black goat, doing some sexy moves
+a brown goat, doing some sexy moves
+Merioli arrives from east.
+Captnapalm arrives from east.
+Ruffneck arrives from east.
+Robinhood arrives from east.
+Mithrand starts concentrating on a new offensive skill.
+Robinhood [party]: Casting Concealed
+mjph
+You start chanting.
+[23:37:53] hp 727/452 | sp 802/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Captnapalm starts concentrating on a new offensive spell.
+Matriam starts concentrating on a new offensive skill.
+Merioli attacks Maneater!
+scan all
+*****************************************************
+Merioli hits Maneater 1 time.
+Mithrand hits Maneater 1 time.
+Maneater hits Matriam 3 times.
+Mithrand reports: Hp: 1858 (1429) Sp: 549 (582) Ep: 505 (491).
+Merioli reports: Hp: 1515 (1515) Sp: -22 (45) Ep: 389 (406).
+Maneater is near death.
+[23:37:54] hp 727/452 | sp 802/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 961 (1447) Sp: 28 (28) Ep: 331 (418).
+Miger [suomi]: mut eihan halmetta voi aanestaa ku hki vaalipiiri
+Ruffneck starts concentrating on a new offensive spell.
+scan all
+*****************************************************
+Mithrand hits Maneater 1 time.
+Mithrand's flex shield wobbles.
+Maneater hits Mithrand 1 time.
+Major party heal: 3
+Gotrek clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Gotrek flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Gotrek grins as his channelburn hits Maneater.
+Maneater bursts into flames!
+Merioli reports: Hp: 1515 (1515) Sp: -22 (45) Ep: 389 (406).
+Mithrand reports: Hp: 1712 (1429) Sp: 549 (582) Ep: 505 (491).
+Maneater is near death.
+[23:37:55] hp 727/452 | sp 802/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 961 (1447) Sp: 28 (28) Ep: 331 (418).
+Yorkaturr [suomi]: vitut se mihinkaan perus raksa-aijaan vetoa
+Gotrek starts concentrating on a new offensive spell.
+ps
+Info: Ikira recovers from link death.
+Vulcanus [suomi]: oisin halmetta äänestäny jos ois ollu täällä vaalipiirissä
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 28s) | Exp/min:     10802 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol  961(1447)   28(  28) 331(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1515(1515)  -22(  45) 389(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1712(1429)  549( 582) 505(491) |  98 |       220792 |
+| 2.1   Gotrek        fol  323( 329) 1497(2113) 219(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  782( 782) 1008(1898) 271(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 299) 1203(1203) 241(239) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 339) 1143(1143) 271(251) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  802(1136) 223(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 541)  753(1124) 435(451) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:37:56] hp 727/452 | sp 802/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+scan all
+*****************************************************
+Mithrand hits Maneater 1 time.
+Major party heal: 2
+Captnapalm plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Captnapalm grins as his con fioco hits Maneater.
+Maneater is near death.
+[23:37:58] hp 727/452 | sp 802/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 961 (1447) Sp: 28 (28) Ep: 331 (418).
+Merioli reports: Hp: 1515 (1515) Sp: -22 (45) Ep: 389 (406).
+Mithrand reports: Hp: 1712 (1429) Sp: 549 (582) Ep: 505 (491).
+Captnapalm mewls 'screams.'
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 30s) | Exp/min:     10802 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol  961(1447)   28(  28) 331(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1515(1515)  -22(  45) 389(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1712(1429)  549( 582) 505(491) |  98 |       220792 |
+| 2.1   Gotrek        fol  323( 329) 1497(2113) 219(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  782( 782) 1008(1898) 271(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 299) 1203(1203) 241(239) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 339) 1143(1143) 271(251) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  802(1136) 223(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 541)  635(1124) 435(451) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:37:58] hp 727/452 | sp 802/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Captnapalm starts concentrating on a new offensive spell.
+scan all
+*****************************************************
+Merioli hits Maneater 2 times.
+Mithrand hits Maneater 2 times.
+Maneater hits Mithrand 2 times.
+Maneater's powerful bash sends Mithrand sprawling to the floor.
+Mithrand's flex shield wobbles.
+Major party heal: 1
+Kiraffi cast(s) -> 'Lava Blast'
+As Kiraffi casts the spell, he pulls out a granite sphere from a small pouch.
+Kiraffi grins as his lava blast hits Maneater.
+Maneater is near death.
+[23:38:01] hp 727/452 | sp 802/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 961 (1447) Sp: 28 (28) Ep: 331 (418).
+Mithrand reports: Hp: 1277 (1429) Sp: 549 (582) Ep: 505 (491).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 33s) | Exp/min:     10802 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol  961(1447)   28(  28) 331(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1515(1515)  -22(  45) 389(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1277(1429)  549( 582) 505(491) |  98 |       220792 |
+| 2.1   Gotrek        fol  323( 329) 1497(2113) 219(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  782( 782) 1008(1898) 271(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 299) 1057(1203) 241(239) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 339) 1143(1143) 271(251) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  802(1136) 223(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 541)  635(1124) 435(451) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:38:01] hp 727/452 | sp 802/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Kiraffi starts concentrating on a new offensive spell.
+Pamppu [wanted]: money/exp party for ranger
+scan all
+*****************************************************
+Merioli hits Maneater 1 time.
+Maneater hits Matriam 1 time.
+Mithrand focuses his rage and uses it to send Maneater reeling backwards from
+powerful blows that splatter blood about the entire room.  The air shimmers
+around Ssssuuucker as it drains the life from Maneater
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal really much of Gotrek's wounds.
+You heal some of Matriam's wounds.
+You heal really much of Mithrand's wounds.
+Ruffneck clenches her fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Ruffneck flails wildly and throws DOZENS of exploding bombs, leaving a pillar
+of black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Ruffneck grins as her channelburn hits Maneater.
+Robinhood cast(s) -> 'Lava Blast'
+As Robinhood casts the spell, he pulls out a granite sphere which bursts into a million prismatic starbursts.
+Robinhood grins as his lava blast hits Maneater.
+Maneater is near death.
+[23:38:04] hp 727/452 | sp 704/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 1035 (1447) Sp: 28 (28) Ep: 331 (418).
+Mithrand reports: Hp: 1413 (1429) Sp: 549 (582) Ep: 478 (491).
+mjph
+Merioli reports: Hp: 1515 (1515) Sp: -22 (45) Ep: 389 (406).
+Mithrand starts concentrating on a new offensive skill.
+You start chanting.
+[23:38:04] hp 727/452 | sp 704/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Robinhood [party]: Maneater screams to -FIRE-.
+ps
+Robinhood [party]: Casting Concealed
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 37s) | Exp/min:     10802 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1035(1447)   28(  28) 331(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1515(1515)  -22(  45) 389(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1413(1429)  549( 582) 478(491) |  98 |       220792 |
+| 2.1   Gotrek        fol  328( 329) 1497(2113) 219(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  776( 782)  930(1898) 268(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 299) 1057(1203) 241(239) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 339) 1021(1143) 271(251) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  704(1136) 223(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 541)  635(1124) 435(451) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:38:05] hp 727/452 | sp 704/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Ruffneck starts concentrating on a new offensive spell.
+Gendo [suomi]: Hahahaha.
+Nasu [suomi]: terve
+Merioli [party]: DÖ
+Gotrek clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Gotrek flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Gotrek grins as his channelburn hits Maneater.
+scan all
+*****************************************************
+Mithrand's flex shield wobbles.
+Maneater hits Mithrand 2 times.
+Matriam delivers a crushing blow to Maneater's windpipe!
+Maneater's powerful bash sends Mithrand sprawling to the floor.
+hp 727/452 () | sp 704/1136 (-98) | ep 223/247 ()
+Major party heal: 3
+Major party heal: 1 (greater haste)
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal very much of Gotrek's wounds.
+You heal much of Matriam's wounds.
+You heal much of Mithrand's wounds.
+You heal very much of Ruffneck's wounds.
+Gotrek [party]: Maneater screams (fire)
+Matriam reports: Hp: 1244 (1447) Sp: 28 (28) Ep: 299 (418).
+Mithrand reports: Hp: 1198 (1429) Sp: 549 (582) Ep: 478 (491).
+Merioli reports: Hp: 1515 (1515) Sp: -22 (45) Ep: 389 (406).
+You are not in combat right now.
+[23:38:07] hp 727/452 | sp 606/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+[party]: Kiraffi -=> Lava blast in 1
+Matriam starts concentrating on a new offensive skill.
+Robinhood aborts the spell casting.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 40s) | Exp/min:     10802 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1244(1447)   28(  28) 299(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1515(1515)  -22(  45) 389(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr 1198(1429)  549( 582) 478(491) |  98 |       220792 |
+| 2.1   Gotrek        fol  327( 329) 1419(2113) 216(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  780( 782)  930(1898) 268(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 299) 1057(1203) 241(239) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 339) 1021(1143) 271(251) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  606(1136) 223(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 541)  635(1124) 435(451) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:38:08] hp 727/452 | sp 606/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+mjph
+
+You start chanting.
+[23:38:08] hp 727/452 | sp 606/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+hp 727/452 () | sp 606/1136 (-98) | ep 223/247 ()
+Major party heal: 3
+Captnapalm plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Captnapalm grins as his con fioco hits Maneater.
+scan all
+*****************************************************
+Maneater hits Mithrand 3 times.
+Matriam hits Maneater 2 times.
+Mithrand hits Maneater 1 time.
+Kiraffi cast(s) -> 'Lava Blast'
+Kiraffi falters and loses his spell.
+Major party heal: 2
+Merioli reports: Hp: 1515 (1515) Sp: -22 (45) Ep: 389 (406).
+Mithrand reports: Hp: 654 (1429) Sp: 549 (582) Ep: 478 (491).
+Maneater is near death.
+[23:38:10] hp 727/452 | sp 606/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam reports: Hp: 1244 (1447) Sp: 28 (28) Ep: 299 (418).
+Captnapalm mewls 'screams.'
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 43s) | Exp/min:     10802 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1244(1447)   28(  28) 299(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1515(1515)  -22(  45) 389(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr  654(1429)  549( 582) 478(491) |  98 |       220792 |
+| 2.1   Gotrek        fol  327( 329) 1419(2113) 216(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  780( 782)  930(1898) 268(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 299)  955(1203) 241(239) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 339) 1021(1143) 271(251) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  606(1136) 223(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 541)  517(1124) 435(451) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:38:11] hp 727/452 | sp 606/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Captnapalm starts concentrating on a new offensive spell.
+Major party heal: 1
+Ruffneck clenches her fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Ruffneck flails wildly and throws DOZENS of exploding bombs, leaving a pillar
+of black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Ruffneck grins as her channelburn hits Maneater.
+scan all
+*****************************************************
+Matriam's flex shield wobbles.
+Maneater hits Matriam 2 times.
+Merioli hits Maneater 1 time.
+Matriam hits Maneater 2 times.
+Captnapalm plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Captnapalm grins as his con fioco hits Maneater.
+Matriam reports: Hp: 1031 (1447) Sp: 28 (28) Ep: 299 (418).
+Merioli reports: Hp: 1515 (1515) Sp: -22 (45) Ep: 389 (406).
+Mithrand reports: Hp: 654 (1429) Sp: 549 (582) Ep: 478 (491).
+Maneater is near death.
+[23:38:13] hp 727/452 | sp 606/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 45s) | Exp/min:     10802 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1031(1447)   28(  28) 299(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1515(1515)  -22(  45) 389(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr  654(1429)  549( 582) 478(491) |  98 |       220792 |
+| 2.1   Gotrek        fol  327( 329) 1419(2113) 216(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  774( 782)  852(1898) 265(302) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 299)  955(1203) 241(239) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 339) 1021(1143) 271(251) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  606(1136) 223(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 541)  399(1124) 435(451) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:38:13] hp 727/452 | sp 606/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Ruffneck starts concentrating on a new offensive spell.
+Robinhood [party]: Casting Concealed
+Captnapalm starts concentrating on a new offensive spell.
+Ruffneck [party]: - War Ensemble DOWN -
+Matriam slashes Maneater's chest REALLY hard!
+Matriam turns suddenly and STRIKES again..
+Screaming hellishly, Mithrand HACKS and HACKS deeply into Maneater's bloody
+body.  Glowing with energy, Ssssuuucker exults as it greedily sucks
+the core of Maneater's lifeforce away.
+You are done with the chant.
+CASTED.
+You cast(s) -> 'Major Party Heal'
+You heal much of Gotrek's wounds.
+You heal much of Matriam's wounds.
+You heal some of Mithrand's wounds.
+scan all
+*****************************************************
+Maneater hits Matriam 1 time.
+Matriam hits Maneater 1 time.
+Mithrand hits Maneater 1 time.
+Matriam reports: Hp: 1107 (1447) Sp: 28 (28) Ep: 267 (418).
+Merioli [party]: NU
+Merioli reports: Hp: 1515 (1515) Sp: -22 (45) Ep: 389 (406).
+Mithrand starts concentrating on a new offensive skill.
+Mithrand reports: Hp: 885 (1429) Sp: 549 (582) Ep: 451 (491).
+Maneater is near death.
+[23:38:16] hp 727/452 | sp 508/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+[party]: Kiraffi -=> Lava blast in 1
+th mithrand
+You start chanting.
+[23:38:16] hp 727/452 | sp 508/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Matriam starts concentrating on a new offensive skill.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 49s) | Exp/min:     10802 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol 1107(1447)   28(  28) 267(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1515(1515)  -22(  45) 389(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr  885(1429)  549( 582) 451(491) |  98 |       220792 |
+| 2.1   Gotrek        fol  328( 329) 1419(2113) 216(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  774( 329)  852(1898) 265(268) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 299)  955(1203) 241(239) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 339) 1021(1143) 271(251) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  508(1136) 223(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 541)  399(1124) 435(451) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:38:17] hp 727/452 | sp 508/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Gotrek clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Gotrek flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Gotrek grins as his channelburn hits Maneater.
+Maneater's powerful bash sends Merioli sprawling to the floor.
+Merioli's flex shield wobbles.
+hp 727/452 () | sp 508/1136 (-98) | ep 223/247 ()
+True heal: 3
+True heal: 1 (greater haste)
+Captnapalm plays the instrument with an unbelievable speed: 'AeaH*h***Gdg'
+Captnapalm grins as his con fioco hits Maneater.
+scan all
+*****************************************************
+Maneater hits Matriam 1 time.
+Mithrand hits Maneater 1 time.
+Kiraffi cast(s) -> 'Lava Blast'
+As Kiraffi casts the spell, he pulls out a granite sphere from a small pouch.
+Kiraffi grins as his lava blast hits Maneater.
+Matriam reports: Hp: 981 (1447) Sp: 28 (28) Ep: 267 (418).
+Captnapalm snaps his fingers.
+Merioli [party]: dödödöd
+Merioli reports: Hp: 1478 (1515) Sp: -22 (45) Ep: 389 (406).
+Mithrand reports: Hp: 875 (1429) Sp: 549 (582) Ep: 451 (491).
+Maneater is near death.
+[23:38:19] hp 727/452 | sp 508/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   1944490 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 52s) | Exp/min:     10802 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol  981(1447)   28(  28) 267(418) |  80 |       195298 |
+| 1.2   Merioli       fol 1478(1515)  -22(  45) 389(406) |  70 |       182626 |
+| 1.3   Mithrand      ldr  875(1429)  549( 582) 451(491) |  98 |       220792 |
+| 2.1   Gotrek        fol  322( 329) 1341(2113) 213(261) | 100 |       334541 |
+| 2.2   Ruffneck      fol  774( 329)  852(1898) 265(268) |  88 |       206603 |
+| 2.3   Kiraffi       fol  703( 299)  773(1203) 241(239) |  92 |       211998 |
+| 3.1   Robinhood     fol  772( 339) 1021(1143) 271(251) |  77 |       190967 |
+| 3.2   Nuane         fol  727( 452)  508(1136) 223(247) |  78 |       192447 |
+| 3.3   Captnapalm    fol  890( 541)  281(1124) 435(451) |  90 |       209218 |
+`-----------------------------------------------------------------------------'
+[23:38:20] hp 727/452 | sp 508/1136 | ep 223/247 | exp 540 | $ 0/201240 | wimpy: off
+
+Captnapalm starts concentrating on a new offensive spell.
+Kyynel [wanted]: +rp
+You are done with the chant.
+CASTED.
+You cast(s) -> 'True Heal'
+You heal all of Mithrand's wounds.
+Ruffneck clenches her fists and screams 'grhagrhagrhagrah gra gra Hyaa!'
+Ruffneck flails wildly and throws DOZENS of exploding bombs, leaving a pillar
+of black smoke!
+The blasts explode all around Maneater, bursting into flames!
+Ruffneck grins as her channelburn hits Maneater.
+You get bad vibrations as Maneater's spine snaps with an audible *SNAP*.
+save
+Maneater is DEAD, R.I.P.
+The magic mist around the dead Maneater's neck leaps to Gotrek's Kerbholz.
+SAVED.
+[23:38:22] hp 727/452 | sp 304/1136 | ep 223/247 | exp 64269 | $ 0/201240 | wimpy: off
+You gained 63729 xp.
+th matriam
+*Merioli gains 55310 xp.
+You start chanting.
+[23:38:22] hp 727/452 | sp 304/1136 | ep 223/247 | exp 64269 | $ 0/201240 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: Here Kitty kitty..           (Members:  9) | Exp Tot:   3006160 |
+| Created: Sun Mar 16 20:38:28 2003        ( 2h 59m 56s) | Exp/min:     16700 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Matriam       fol  981(1447)   28(  28) 267(418) |  80 |       301832 |
+| 1.2   Merioli       fol 1478(1515)  -22(  45) 389(406) |  70 |       280958 |
+| 1.3   Mithrand      ldr 1429(1429)  527( 582) 451(491) |  98 |       403760 |
+| 2.1   Gotrek        fol  322( 329) 1341(2113) 213(261) | 100 |       456338 |
+| 2.2   Ruffneck      fol  329( 329)  774(1898) 262(268) |  88 |       319407 |
+| 2.3   Kiraffi       fol  703( 299)  773(1203) 241(239) |  92 |       327851 |
+| 3.1   Robinhood     fol  772( 339) 1021(1143) 271(251) |  77 |       295086 |
+| 3.2   Nuane         fol  727( 452)  304(1136) 223(247) |  78 |       297375 |
+| 3.3   Captnapalm    fol  890( 541)  281(1124) 435(451) |  90 |       323553 |
+`-----------------------------------------------------------------------------'
+[23:38:24] hp 727/452 | sp 304/1136 | ep 223/247 | exp 64269 | $ 0/201240 | wimpy: off
+
+Kiraffi aborts the spell casting.
+p kills
+,-----------------------------------------------------------------------------.
+|     930: a white goat, doing some sexy moves                                |
+|     554: a black and white goat, doing some sexy moves                      |
+|    1298: a black goat, doing some sexy moves                                |
+|    2324: a thin pilgrim on his way to Kedernath                             |
+|   15058: Molumpur, the trusted pedlar                                       |
+|   17144: The Sensei                                                         |
+|    5479: A ninja dressed in black                                           |
+|   39021: A big mangey black dog                                             |
+|    7781: A ninja dressed in black                                           |
+|   78064: An eight foot tall rat with a forked tail                          |
+|  127345: A Growler shimmering in the darkness                               |
+|  173630: A Growler shimmering in the darkness                               |
+|  237108: A Growler shimmering in the darkness                               |
+|   86783: A Growler shimmering in the darkness                               |
+|  117919: A Growler shimmering in the darkness                               |
+|  191766: A Growler shimmering in the darkness                               |
+|  821276: A towering demon, swathed in black                                 |
+|    1871: a black and white goat, doing some sexy moves                      |
+|    2395: a brown and black goat, doing some sexy moves                      |
+| 1061670: The man-eating leopard from Rudraprayag                            |
+`-----------------------------------------------------------------------------'
+This party has killed 24 monsters (avg exp/mon: 125256).
+[23:38:25] hp 727/452 | sp 304/1136 | ep 223/247 | exp 64269 | $ 0/201240 | wimpy: off
+
+Gotrek takes The cold black Eyes of the Leopard, A Paw from the Maneater of
+ Rudraprayag <red glow>, The Pelt from the Maneater of Rudraprayag <red glow>
+ and The Tail from the Maneater of Rudraprayag <red glow>.

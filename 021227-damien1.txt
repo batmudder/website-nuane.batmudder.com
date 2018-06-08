@@ -1,0 +1,396 @@
+dam
+n
+cl
+hp 1101/1135 | sp 20/17 | ep 156/370 | exp 240289 | cash 5184/204201
+
+You remove A mysterious object.
+You remove a rainbow ring.
+You remove a rainbow ring.
+You remove a black sleeve made of mamba skin labeled as (Naane).
+You remove a black sleeve made of mamba skin.
+You remove a magical, silk shirt labeled as (Naane).
+hp 1101/1135 | sp 20/17 | ep 156/370 | exp 240289 | cash 5184/204201
+
+You slip the bracers onto your forearms and feel a surge of electricity shoot
+through your body.  Finger thick beams of crackling lightning shoot up and
+down your forearms.  It is an awe-inspiring sight to behold.
+You feel godly power eminating from the breastplate.
+Pure POWER surges from the ring to your limbs!
+You wear Dull grey lead bracers (glowing), The Divine Amberley Breastplate
+(glowing) <orange glow>, sparkling emerald ring (glowing), a simple silver
+signet ring (glowing) <red glow> and Black Reaver's gauntlets (glowing) <red
+glow>.
+hp 1101/1135 | sp 20/17 | ep 156/370 | exp 240289 | cash 5184/204201
+
+A small chamber (s,n).
+the Aurak Commander of the elite guard is here, guarding the treasure chamber
+Commander yawns sarcastically and says 'Well Nuane guess it's time for your daily beating!'
+scan all
+pr
+*****************************************************
+Commander successfully dodges your futile slash.
+You miss Commander.
+Commander incises you causing a small wound.
+Commander misses you.
+Commander misses you.
+Your knowledge about Commander's tactics allows you to evade the ambush.
+hp 1101/1135 | sp 20/17 | ep 156/370 | exp 240289 | cash 5184/204201
+
+You start concentrating on the skill.
+hp 1101/1135 | sp 20/17 | ep 156/370 | exp 240289 | cash 5184/204201
+
+Commander is near death.
+hp 1101/1135 | sp 20/17 | ep 156/370 | exp 240289 | cash 5184/204201
+
+Nuane reports: Hp: 1047 (1159) Sp: 20 (20) Ep: 156 (375).
+hp 1101/1135 | sp 20/17 | ep 156/370 | exp 240289 | cash 5184/204201
+
+scan all
+pr
+*****************************************************
+You miss Commander.
+You tear Commander causing a third degree acid burn.
+You successfully parry Commander's slash.
+...AND counterattack with ferocity.
+Commander incises you causing a small wound.
+You successfully dodge Commander's bite.
+hp 998/1159 (-103) | sp 20/20 () | ep 156/375 ()
+Commander is near death.
+hp 998/1159 | sp 20/20 | ep 156/375 | exp 240289 | cash 5184/204201
+
+Nuane reports: Hp: 998 (1159) Sp: 20 (20) Ep: 156 (375).
+hp 998/1159 | sp 20/20 | ep 156/375 | exp 240289 | cash 5184/204201
+
+scan all
+pr
+*****************************************************
+You miss Commander.
+You tear Commander ripping off a hand with a hydrochloric blast.
+Commander incises you causing a small wound.
+Commander misses you.
+Commander misses you.
+hp 948/1159 (-50) | sp 20/20 () | ep 156/375 ()
+Commander is near death.
+hp 948/1159 | sp 20/20 | ep 156/375 | exp 240289 | cash 5184/204201
+
+Nuane reports: Hp: 948 (1159) Sp: 20 (20) Ep: 156 (375).
+hp 948/1159 | sp 20/20 | ep 156/375 | exp 240289 | cash 5184/204201
+
+scan all
+pr
+*****************************************************
+You miss Commander.
+You miss Commander.
+You successfully dodge Commander's slash.
+Commander shreds you causing a nasty laceration.
+You try to dodge, but Commander is not fooled.
+Commander bites you producing large scratches.
+hp 836/1159 (-112) | sp 20/20 () | ep 156/375 ()
+Commander is near death.
+hp 836/1159 | sp 20/20 | ep 156/375 | exp 240289 | cash 5184/204201
+
+Nuane reports: Hp: 836 (1159) Sp: 20 (20) Ep: 156 (375).
+hp 836/1159 | sp 20/20 | ep 156/375 | exp 240289 | cash 5184/204201
+
+scan all
+pr
+*****************************************************
+You incise Commander causing second degree burns.
+You tear Commander causing teeth to disintegrate from corrosion.
+You successfully dodge Commander's slash.
+You successfully parry Commander's slash.
+...AND counterattack with ferocity.
+You successfully dodge Commander's bite.
+You are prepared to do the skill.
+You turn your enemy's lunge aside and cleave in one swift movement!
+Commander is near death.
+hp 836/1159 | sp 20/20 | ep 124/375 | exp 240289 | cash 5184/204201
+
+Nuane reports: Hp: 836 (1159) Sp: 20 (20) Ep: 124 (375).
+hp 836/1159 | sp 20/20 | ep 124/375 | exp 240289 | cash 5184/204201
+s
+
+Huge cave (out,n).
+a huge pale blue sapphire (glowing), a small wooden box
+(closed), a small metal chest (closed), a small pile of
+silver coins, a pile of bronze coins, a pile of copper
+coins, a pile of tin coins, a pile of zinc coins and
+a huge pile of mowgles coins
+hp 836/1159 | sp 20/20 | ep 124/375 | exp 240289 | cash 5184/204201
+regen
+
+hp 836/1159 | sp 20/20 | ep 124/375 | exp 240289 | cash 5184/204201
+
+You remove Black Reaver's gauntlets.
+You remove sparkling emerald ring.
+Power drains from your limbs back to the ring!
+You remove a simple silver signet ring.
+You remove Bracers of Lightning (glowing).
+You remove the bracers from your arms and feel the electricity in your body
+slowly die away.  The glowing bracers return to dull grey lead bands.
+You remove The Divine Amberley Breastplate (blessed).
+hp 836/1159 | sp 20/20 | ep 124/375 | exp 240289 | cash 5184/204201
+
+You wear a black sleeve made of mamba skin labeled as (Naane) (glowing), a
+black sleeve made of mamba skin (glowing), a magical, silk shirt labeled as
+(Naane) (glowing), a rainbow ring (glowing) <red glow>, a rainbow ring
+(glowing) <red glow> and A mysterious object (glowing) <red glow>.
+hp 836/1159 | sp 20/20 | ep 124/375 | exp 240289 | cash 5184/204201
+
+hp 836/1135 () | sp 20/17 () | ep 124/370 (-32)
+Entropy <bat>: it happened i think last campcon :P
+Glaurung [wanted]: was tenji and akemi killed today?
+Info: Akvavitix left the game.
+Info: Akvavitix enters the game.
+Ghost of Yig [ghost]: rais
+Info: Graverobber left the game.
+Gorge [bat]: that be half a pound to your face but i dont think you would make it that far
+Info: Graverobber enters the game.
+hp 873/1135 (+37) | sp 20/17 () | ep 128/370 (+4)
+dam
+n
+cl
+hp 873/1135 | sp 20/17 | ep 128/370 | exp 240289 | cash 5184/204201
+
+You remove A mysterious object.
+You remove a rainbow ring.
+You remove a rainbow ring.
+You remove a black sleeve made of mamba skin labeled as (Naane).
+You remove a black sleeve made of mamba skin.
+You remove a magical, silk shirt labeled as (Naane).
+hp 873/1135 | sp 20/17 | ep 128/370 | exp 240289 | cash 5184/204201
+
+You slip the bracers onto your forearms and feel a surge of electricity shoot
+through your body.  Finger thick beams of crackling lightning shoot up and
+down your forearms.  It is an awe-inspiring sight to behold.
+You feel godly power eminating from the breastplate.
+Pure POWER surges from the ring to your limbs!
+You wear Dull grey lead bracers (glowing), The Divine Amberley Breastplate
+(glowing) <orange glow>, sparkling emerald ring (glowing), a simple silver
+signet ring (glowing) <red glow> and Black Reaver's gauntlets (glowing) <red
+glow>.
+hp 873/1135 | sp 20/17 | ep 128/370 | exp 240289 | cash 5184/204201
+
+A small chamber (s,n).
+the Aurak Commander of the elite guard is here, guarding the treasure chamber
+Your knowledge about Commander's tactics allows you to evade the ambush.
+Commander exclaims 'So you dare to come back, Nuane!'
+scan all
+pr
+*****************************************************
+You cut Commander making rib bones snap and crack.
+You score a CRITICAL hit!
+Grinning diabolically you cruelly tatter Commander making the head explode from a MASSIVE acid blast.
+Commander moves on to happier hunting grounds.
+save
+Commander is DEAD, R.I.P.
+** Cost for 'n': Cost: utime:60 stime:0 ticks:264160 **
+hp 873/1135 | sp 20/17 | ep 128/370 | exp 240289 | cash 5184/204201
+
+You start concentrating on the skill.
+hp 873/1135 | sp 20/17 | ep 128/370 | exp 240289 | cash 5184/204201
+
+You are not in combat right now.
+hp 873/1135 | sp 20/17 | ep 128/370 | exp 240289 | cash 5184/204201
+
+Nuane reports: Hp: 873 (1159) Sp: 20 (20) Ep: 128 (375).
+hp 873/1135 | sp 20/17 | ep 128/370 | exp 240289 | cash 5184/204201
+
+SAVED.
+hp 873/1135 | sp 20/17 | ep 128/370 | exp 240289 | cash 5184/204201
+burn
+
+hp 873/1159 | sp 20/20 | ep 128/375 | exp 291605 | cash 5184/204201
+You gained 51316 xp.
+You light the ceremonial torch.
+hp 873/1159 | sp 20/20 | ep 128/375 | exp 291605 | cash 5184/204201
+
+You decide to change the skill to new one.
+You start concentrating on the skill.
+hp 873/1159 | sp 20/20 | ep 128/375 | exp 291605 | cash 5184/204201
+
+Nuane (party): Burning..
+hp 873/1159 | sp 20/20 | ep 128/375 | exp 291605 | cash 5184/204201
+
+You have nothing called 'all corpse'!
+hp 873/1159 | sp 20/20 | ep 128/375 | exp 291605 | cash 5184/204201
+p kills
+
+,-----------------------------------------------------------------------------.
+|     255: a catfolk slave is dragging a corpse somewhere                     |
+|    4514: a dragon pet is wandering around here                              |
+|   11373: A bozak draconian, a lieutenant in the army of the dragon          |
+|    5922: A bozak draconian noble                                            |
+|    4275: A sivak draconian is running around here naked                     |
+|     232: a leprechaun slave is hiding in a corner                           |
+|     259: a satyr slave is hiding in a corner                                |
+|    2229: An aurak draconian is running around here naked                    |
+|    9728: a draconian priestess is chanting something dreadful               |
+|    8882: a draconian priest is chanting something dreadful                  |
+|    9898: a yellow dragon (transformed draconian)                            |
+|    6633: a draconian demonologist is about to summon something dreadful     |
+|    4341: a dragon pet is setting your hair on fire!                         |
+|    6644: a draconian necromancers is here planning his latest plot          |
+|     196: a orc slave is hiding in a corner                                  |
+|    7504: a draconian demonologist is about to summon something dreadful     |
+|    3713: a red demon (hideous)                                              |
+|    1085: a draconian maid is taking care of a plant                         |
+|   11780: a green dragon (transformed draconian)                             |
+|   72440: the Aurak Commander of the elite guard is here, guarding the treas |
+`-----------------------------------------------------------------------------'
+This party has killed 124 monsters (avg exp/mon: 5343).
+hp 873/1159 | sp 20/20 | ep 128/375 | exp 291605 | cash 5184/204201
+
+Aldaron [wanted]: no, they have no eq ... dont touch them! O_o
+You are prepared to do the skill.
+ex
+You use ceremonial torch to do the skill.
+You run around the room, waving your torch about, setting everything that will
+catch on fire. Soon billowing clouds of smoke rise from the charred remains,
+as you dance through the embers chortling with glee.
+Commander's corpse is burned into char.
+You feel wicked.
+A highsteel voulge looks valuable to you and you take it.
+A highsteel voulge looks valuable to you and you take it.
+A leather battlesuit looks valuable to you and you take it.
+Darkness surrounds you as the ceremonial torch goes out.
+hp 873/1159 | sp 20/20 | ep 123/375 | exp 291605 | cash 5202/204201
+l
+
+The walls are covered with carvings depicting the many battles the Ancient
+Warriors battled. You have the feeling that you are getting close to the end.
+End of all those mazes, jungle, citadel and shit. There's no way that you are
+going to give up now. You can feel the presence of Ackbar again, stronger then
+anytime before. 
+Obvious exits are: s and n.
+hp 873/1159 | sp 20/20 | ep 123/375 | exp 291605 | cash 5202/204201
+n
+
+The Shrine Treasure Chamber (portal,s).
+a small pile of mithril coins, a scarabeous (glowing),
+an arm protector called Damien, a chipped green malachite,
+a gleaming grey hematite, a small green malachite, a
+gleaming white opal, a shoddy pale green opal, a shiny
+orange opal, a lovely mottled grey bloodstone, a cracked
+pink topaz, a shiny white rhodonite, a flawed white
+moonstone, a sparkling pale blue zircon and a polished green
+olivine
+A mithril shard crumbles to dust.
+The Tarmellen crumbles to dust.
+A K'prurian crumbles to dust.
+A very old dragonscale cloak crumbles to dust.
+A Storm Battleaxe crumbles to dust.
+A jeweled ring crumbles to dust.
+** Cost for 'n': Cost: utime:50 stime:0 ticks:124196 **
+hp 873/1159 | sp 20/20 | ep 123/375 | exp 291813 | cash 5202/204201
+You gained 208 xp.
+Info: Simo dies.
+hp 873/1159 () | sp 20/20 () | ep 123/375 (-5)
+l
+This is unbelievable. You see lots of treasures and jewels lying around. Just
+part of the great riches the Ancient Warriors stored. So, what are you waiting
+for, get all you can! A portal leads out to the outerworld again. You passed
+the test!
+Obvious exits are: portal and s.
+a small pile of mithril coins
+a scarabeous (glowing)
+an arm protector called Damien (Nuane) (glowing)
+a chipped green malachite
+a gleaming grey hematite
+a small green malachite
+a gleaming white opal
+a shoddy pale green opal
+a shiny orange opal
+a lovely mottled grey bloodstone
+a cracked pink topaz
+a shiny white rhodonite
+a flawed white moonstone
+a sparkling pale blue zircon
+a polished green olivine
+hp 873/1159 | sp 20/20 | ep 123/375 | exp 291813 | cash 5202/204201
+
+Simo [wanted]: summon
+get damien,scarabeous
+You take a scarabeous and an arm protector called Damien (Nuane).
+hp 873/1159 | sp 20/20 | ep 123/375 | exp 291813 | cash 5202/204201
+
+Rolgabu [sales]: surgeries to 80
+get pile
+There is nothing here called pile!
+hp 873/1159 | sp 20/20 | ep 123/375 | exp 291813 | cash 5202/204201
+
+Info: Lok left the game.
+hp 894/1159 (+21) | sp 20/20 () | ep 127/375 (+4)
+get all
+You take a shiny white rhodonite, a gleaming white opal, a lovely mottled grey
+ bloodstone, a shoddy pale green opal, a shiny orange opal, a cracked pink
+ topaz, a sparkling pale blue zircon, a chipped green malachite, a polished
+ green olivine, a flawed white moonstone, a small green malachite, a gleaming
+ grey hematite and a small pile of mithril coins.
+hp 894/1159 | sp 20/20 | ep 127/375 | exp 291813 | cash 17702/204201
+l
+
+This is unbelievable. You see lots of treasures and jewels lying around. Just
+part of the great riches the Ancient Warriors stored. So, what are you waiting
+for, get all you can! A portal leads out to the outerworld again. You passed
+the test!
+Obvious exits are: portal and s.
+hp 894/1159 | sp 20/20 | ep 127/375 | exp 291813 | cash 17702/204201
+i
+
+You are carrying 64.6 kg of equipment:
+762 coins (30 mithril, 13 batium, 18 anipium, 45 platinum, 40 gold, 16 bronze
+ and 600 mowgles) [Cash: 17702.40  Bank: 204201.83  Total: 221904.23]
+a polished green olivine, a sparkling pale blue zircon,
+a flawed white moonstone, a shiny white rhodonite, a
+cracked pink topaz, a lovely mottled grey bloodstone, a
+shiny orange opal, a shoddy pale green opal, a gleaming
+white opal, a small green malachite, a gleaming grey
+hematite, a chipped green malachite, a scarabeous
+(glowing), an arm protector called Damien (Nuane) (glowing),
+a leather battlesuit and two highsteel
+voulges
+Keep:
+A blue crystal, A mysterious object (glowing) <red
+glow>, an ancient staff of the necromancer (glowing), a
+black sleeve made of mamba skin labeled as (Naane) (glowing), a black
+sleeve made of mamba skin (glowing), a magical, silk shirt labeled as
+(Naane) (glowing), two rainbow rings
+(glowing) and a barbarian ceremonial torch
+hp 894/1159 | sp 20/20 | ep 127/375 | exp 291813 | cash 17702/204201
+s
+
+A small chamber (s,n).
+hp 894/1159 | sp 20/20 | ep 127/375 | exp 291813 | cash 17702/204201
+
+Jacen [wanted]: dam cloak, amulet
+s
+Huge cave (out,n).
+a huge pale blue sapphire (glowing), a small wooden box
+(closed), a small metal chest (closed), a small pile of
+silver coins, a pile of bronze coins, a pile of copper
+coins, a pile of tin coins, a pile of zinc coins and
+a huge pile of mowgles coins
+hp 894/1159 | sp 20/20 | ep 127/375 | exp 291813 | cash 17702/204201
+get all
+
+You take a small pile of silver coins, a small metal chest (closed), a huge
+ pale blue sapphire, a small wooden box (closed), a pile of copper coins, a
+ pile of zinc coins, a huge pile of mowgles coins, a pile of bronze coins and
+ a pile of tin coins.
+hp 894/1159 | sp 20/20 | ep 127/375 | exp 291813 | cash 17980/204201
+n
+
+A small chamber (s,n).
+hp 894/1159 | sp 20/20 | ep 127/375 | exp 291813 | cash 17980/204201
+n
+
+The Shrine Treasure Chamber (portal,s).
+hp 894/1159 | sp 20/20 | ep 127/375 | exp 291813 | cash 17980/204201
+portal
+
+A scenic location (nw,ne,w,e,sw,se,enter).
+hp 894/1159 | sp 20/20 | ep 127/375 | exp 291813 | cash 17980/204201
+
+Congratulations! You have just completed Ackbar's warrior shrine!
+Ackbar shouts 'Nuane has completed my warrior quest and proved herself worthy of a Damien'

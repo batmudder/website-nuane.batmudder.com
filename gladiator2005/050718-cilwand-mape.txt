@@ -1,0 +1,635 @@
+The arena master shouts 'Team 1 consists of Cilwand'
+The arena master shouts 'Team 2 consists of Mape'
+The arena master shouts 'All teams ready! Let the fight begin!'
+[32mSirdest says '%You close team 2 door.'[0m
+[32mSirdest says '%The arena master shouts 'Team 1 consists of Cilwand'.'[0m
+[32mSirdest says '%The arena master shouts 'Team 2 consists of Mape'.'[0m
+[32mSirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:364/400 (exp:7642) (kg:30)%You say '%You [0m[32mclose team 2 door.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m.[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  830/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:37] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:364/400 (exp:7642) (kg:30)%You say '% l.'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:364/400 (exp:7642) (kg:30)%You say '%Arena [0m[32mgrounds (nw,n,w).'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  830/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:39] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:364/400 (exp:7642) (kg:30)%You say '%You [0m[32mstart concentrating on the skill.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n and w.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:364/400 (exp:7642) (kg:30)%You say [0m[32m'%              All around is a dense fog. You can see maybe.'.'[0m
+[32mKawasa quacks 'pitäs olla joku tankki ni ois voinu.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  830/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:41] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32m*Kawasa ticks 1097 sps[4m49s].[0m
+[32mSirdest says '% peer n.'[0m
+[32mSirdest says '%You peer north:.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you.'[0m
+[32mSirdest says '%You use your enhanced ability to peer.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:362/400 (exp:7642) (kg:30)%You say '% peer [0m[32mn.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  830/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:43] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[1;37mTerroriditsi [0;54m<ee+>:[1;37m penispumpulla tai rintapumpulla[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  830/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:47] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '% n.'[0m
+[32mSirdest says '%Your movement prevents you from doing the skill.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w,sw,s).'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:362/400 (exp:7642) (kg:30)%You say '% n.'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, w, sw and s.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:362/400 (exp:7642) (kg:30)%You say [0m[32m'%              All around is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m.[35m2[31m#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  772/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:50] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '% w.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e,sw,s,se).'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% w.'.'[0m
+[32mSirdest says '%Arena grounds (w,e,sw,s,se).'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Arena [0m[32mgrounds (w,e,sw,s,se).'.'[0m
+[32mGotrek asks 'aha tigercilwand?'[0m
+la arena
+[32mSirdest says '% e.'[0m
+[32mSirdest says '%Arena grounds (w,sw,s).'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% e.'.'[0m
+       
+ [31m#####[0m 
+ [31m#..[35m2[31m#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  772/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:51] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Arena grounds (nw,n,w,sw,s).'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Arena [0m[32mgrounds (nw,n,w,sw,s).'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,w).'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Arena [0m[32mgrounds (nw,n,w).'.'[0m
+[32mSirdest says '%Arena grounds (nw,n,ne,w,e).'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Arena [0m[32mgrounds (nw,n,ne,w,e).'.'[0m
+[32mSirdest says '%              All around is a dense fog. You can see maybe.'[0m
+[32mSirdest says '%Obvious exits are: nw, n, ne, w and e.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say [0m[32m'%              All around is a dense fog. You can see maybe.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#.[35m2[31m.#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  772/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:52] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+Balthas [35m(wanted):[0m arenamatch :p
+[32mSirdest says '% mmm.'[0m
+[32mSirdest says '%You go 'mmmmm...'.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% mmm.'.'[0m
+[32mSirdest says '%It is very dark, but your infravision helps you..'[0m
+la arena
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%It is [0m[32mvery dark, but your infravision helps you..'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  707/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:54] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%.'.'[0m
+[32mSirdest says '%The web blocks your way, but you try to force yourself through it.'[0m
+[32mSirdest exclaims '%You fail to rip the web!'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%The web [0m[32mblocks your way, but you try to force yourself through it.'.'[0m
+Balthas [35m(wanted):[0m mistel
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1107/1107  707/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:56] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% l.'.'[0m
+[32mSirdest says '%You feel desperate and panicked.'[0m
+[32mSirdest says '%Cilwand starts concentrating on a new offensive spell.'[0m
+[32mSirdest says '%Cilwand successfully dodges your futile slash.'[0m
+[32mSirdest exclaims '%Cilwand tries to dodge your hit, but you are not fooled that [0m[32measily!'[0m
+[32mSirdest says '%You tear Cilwand producing large scratches.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's attack.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's attack.'[0m
+[32mSirdest says '%You successfully parry Cilwand's pierce.'[0m
+[32mSirdest exclaims '%You are too badly stuck to do that!'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mstarts concentrating on a new offensive spell.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1129/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  707/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:57] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[1;37mSöpö-Sakemanni [0;54m<ee+>:[1;37m genau[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:1129/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You [0m[32mstart concentrating on the skill.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1069/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  707/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:09:59] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Cilwand successfully dodges your futile slash.'[0m
+[32mSirdest says '%Cilwand smashes you making small marks.'[0m
+[32mSirdest says '%Cilwand smashes you making small marks.'[0m
+[32mSirdest says '%You try to dodge, but Cilwand is not fooled.'[0m
+[32mSirdest says '%Cilwand pierces you causing a small scratch.'[0m
+[32mSirdest says '%hp: 1069 (1129) [-60] sp: 20 (20) [] ep: 369 (400) cash: 0 [] exp: [0m[32m7642 [].'[0m
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1069/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32msuccessfully dodges your futile slash.'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1069/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32msmashes you making small marks.'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mBrokus says 'yes' to Gotrek.[0m
+[32mSirdest says '%Hp:1069/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say [0m[32m'%Cilwand is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+la arena
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape             1069/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  707/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:00] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Hp:1069/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say [0m[32m'%Cilwand is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:1069/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say [0m[32m'%Cilwand is in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:1069/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%.'.'[0m
+[54m<ee+>:[1;37m Terroriditsi nods at Söpö-Sakemanni.[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%Cilwand spin-kicks you just below the chin.'[0m
+[32mSirdest says '%Cilwand stomp-kicks you in the thigh.'[0m
+[32mSirdest says '%Cilwand punctures you causing a small scratch.'[0m
+[32mSirdest says '%hp: 817 (1129) [-252] sp: 20 (20) [] ep: 369 (400) cash: 0 [] exp: [0m[32m7642 [].'[0m
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '% smile.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:817/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You exclaim [0m[32m'%Suddenly someone is trying to claw his way out of your body!'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              817/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  592/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:02] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:817/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% x.'.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:817/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mstunned and unable to do anything.'.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:817/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mstunned and unable to do anything.'.'[0m
+[1;30mInfo: Pera recovers from link death.[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:817/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mstunned and unable to do anything.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              817/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  592/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:04] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Cilwand sweeps sending you in the gut causing minor nausea.'[0m
+[32mSirdest says '%Cilwand sinks you causing a small wound.'[0m
+[32mSirdest says '%hp: 615 (1129) [-202] sp: 20 (20) [] ep: 369 (400) cash: 0 [] exp: [0m[32m7642 [].'[0m
+[32mSirdest says '% xx.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:615/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32msweeps sending you in the gut causing minor nausea.'.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:615/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mstunned and unable to do anything.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              615/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  592/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:06] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:615/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mstunned and unable to do anything.'.'[0m
+[1;37mMaditsi [0;54m[ee+]:[1;37m oon kuullu et saa hyvin kun laittaa sitä viinaa sinne käytetyillä [0m[1;37mhuumeruiskulla[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:615/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mstunned and unable to do anything.'.'[0m
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+la arena
+[32mSirdest says '%Hp:615/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mstunned and unable to do anything.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              615/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  592/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:07] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%You are stunned and unable to do anything.'[0m
+[32mSirdest says '%Hp:615/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mstunned and unable to do anything.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              492/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  592/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:08] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Cilwand spin-kicks you painfully just above the knee.'[0m
+[32mSirdest says '%Cilwand pierces you producing large scratches.'[0m
+[32mSirdest says '%hp: 492 (1129) [-123] sp: 20 (20) [] ep: 369 (400) cash: 0 [] exp: [0m[32m7642 [].'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest exclaims '%Mape [1;30m(report):[0;32m No longer stunned!'[0m
+[32mSirdest says '%Hp:492/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mpierces you producing large scratches.'.'[0m
+[32mSirdest says '%Channel party is now on.'[0m
+[32mSirdest exclaims '%Mape [52m(party):[32m Came out of Stun!'[0m
+[32mSirdest says '%Hp:492/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%hp: 492 [0m[32m(1129) [-123] sp: 20 (20) [] ep: 369 (400) cash: 0 [] exp:.'[0m
+[32mSirdest says '%The web blocks your way, but you try to force yourself through it.'[0m
+[32mSirdest exclaims '%You fail to rip the web!'[0m
+la arena
+[32mSirdest says '%Hp:492/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mno longer stunned.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              492/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  592/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:09] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mGotrek says 'haha.'[0m
+[32mJenar cheers and shouts 'WOOOOOOOOOO!'.[0m
+[32mSirdest says '% e.'[0m
+[32mSirdest exclaims '%You are too badly stuck to do that!'[0m
+[32mSirdest says '%Hp:492/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% e.'.'[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+la arena
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%Cilwand stomp-kicks you in the ribcage area.'[0m
+[32mSirdest says '%Cilwand stomp-kicks you in the ribcage area.'[0m
+[32mSirdest says '%Cilwand sinks you making an artery explode.'[0m
+[32mSirdest says '%hp: 256 (1129) [-236] sp: 20 (20) [] ep: 369 (400) cash: 0 [] exp: [0m[32m7642 [].'[0m
+[32mSirdest says '%You feel your head clearing up.'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '% smile.'[0m
+[32mSirdest says '%You smile happily.'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You exclaim [0m[32m'%Suddenly someone is trying to claw his way out of your body!'.'[0m
+[32mSirdest says '%You start concentrating on the skill.'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mstomp-kicks you in the ribcage area.'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              256/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  477/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:11] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest exclaims '%Mape [1;30m(report):[0;32m No longer stunned!'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[32mno longer stunned.'.'[0m
+[32mSirdest exclaims '%Mape [52m(party):[32m Came out of Stun!'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% smile.'.'[0m
+[32mSirdest says '% x.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% x.'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mis in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mis in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mis in excellent shape. [0m(90-100% hps)[32m'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              256/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  477/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:12] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mMithrand booms 'lol.'[0m
+[32mSirdest says '% l.'[0m
+[32mSirdest says '%.'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% l.'.'[0m
+[1;30mInfo: Serra enters the game.[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mis in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mis in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+la arena
+[32mSirdest says '%Hp:256/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mis in excellent shape. [0m(90-100% hps)[32m'.'[0m
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              233/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  477/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:14] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[32mSirdest says '%Cilwand successfully dodges your futile slash.'[0m
+[32mSirdest says '%Cilwand misses you.'[0m
+[32mSirdest says '%You successfully dodge Cilwand's attack.'[0m
+[32mSirdest says '%Cilwand pierces you inducing a nasty lesion.'[0m
+[32mSirdest says '%hp: 233 (1129) [-23] sp: 20 (20) [] ep: 369 (400) cash: 0 [] exp: 7642 [0m[32m[].'[0m
+muah
+You go 'MUAH'.
+[21:10:14] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '% xx.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:233/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% xx.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              233/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  477/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:15] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:233/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mis in excellent shape. [0m(90-100% hps)[32m'.'[0m
+[32mAmd buzzes 'joo terve.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              233/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  477/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:16] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '% x.'[0m
+[32mNina roars 'HAII! :P.'[0m
+[32mSirdest says '%Cilwand is in excellent shape. [0m(90-100% hps)[32m'[0m
+[32mSirdest says '%Hp:233/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%%Cilwand shreds air [0m[32mwith his hands and screams 'Haii!' [57m(Tiger claw/Shadow leap)[32m.'[0m
+[32mSirdest exclaims '%Suddenly someone is trying to claw his way out of your body!'[0m
+[32mSirdest exclaims '%The pain forces you to your knees!'[0m
+[32mSirdest says '%Cilwand punches you tearing the ribcage open and pulling out a still [0m[32mbeating heart.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%Cilwand sweeps sending you tearing the ribcage open and pulling out a [0m[32mstill beating heart.'[0m
+[32mSirdest says '%Your armours absorb some of the damage.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are no longer stunned.'[0m
+[32mSirdest says '%You fall [51munconscious[32m from the pain.'[0m
+[32mSirdest says '%Cilwand pierces you causing heart tissue to fly everywhere.'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%hp: -41 (1129) [-274] sp: 20 (20) [] ep: 369 (400) cash: 0 [] exp: [0m[32m7642 [].'[0m
+[32mSirdest exclaims '%Blood pours from your wounds!'[0m
+[32mSirdest exclaims '%You wish your wounds would stop BLEEDING so much!'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-71/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You fall [0m[51munconscious[32m from the pain.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-71/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand [0m[32mpierces you causing heart tissue to fly everywhere.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-71/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say [0m[32m'%Hp:-71/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%Cilwand.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              -71/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  362/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:17] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-71/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[51munconscious[32m, unable to do anything.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-71/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[51munconscious[32m, unable to do anything.'.'[0m
+[32mBrokus snickers.[0m
+[32mSirdest says '% ps.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-71/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '% ps.'.'[0m
+[32mSirdest says '%You are [51munconscious[32m, unable to do anything.'[0m
+[32mSirdest says '%Hp:-71/1129 Sp:20/20 Ep:369/400 (exp:7642) (kg:30)%You say '%You are [0m[51munconscious[32m, unable to do anything.'.'[0m
+la arena
+       
+ [31m#####[0m 
+ [31m#...#[0m 
+ [31m#[35m1[31m..#[0m 
+ [31m#...#[0m 
+ [31m#####[0m 
+       
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mape              -71/1129   20/20   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Cilwand          1069/1107  362/830  |                                      |
+`-----------------------------------------------------------------------------'
+[21:10:19] hp 539/539  sp 1134/1134  ep 266/266  xp 27184  $ 4310/8381  wimpy off
+
+The arena master shouts 'Mape of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Cilwand'

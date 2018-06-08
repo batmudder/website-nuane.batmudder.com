@@ -1,0 +1,137 @@
+
+Grokh shouts 'Nuane WINS THE CRITTER HUNT!'
+Your reputation improves.
+Congratulations! You have just completed Critter hunt!
+Final scores:
+Killers               Kills
+
+Kauhia                   34
+Nuane                   242
+Leeko                   238
+
+Grokh shouts 'The Critter Hunt ends!'
+--------------------------------------------------------------
+Grokh shouts 'Nuane WINS THE CRITTER HUNT!'
+Your reputation improves.
+Final scores:
+Killers               Kills
+
+Caitline                 76
+Nuane                   156
+Zinko                    61
+Guffy                    14
+Lasanta                  69
+Hobo                     94
+Nosunrise                92
+
+Grokh shouts 'The Critter Hunt ends!'
+--------------------------------------------------------------
+Grokh shouts 'Nuane WINS THE CRITTER HUNT!'
+Your reputation improves.
+You have a new reputation title.
+   'Nightmare'
+Final scores:
+Killers               Kills
+
+Pradedek                102
+Patris                   34
+Moonlord                146
+Biga                     26
+Requiem                  46
+Nuane                   162
+Copkiller                28
+Chizra                   81
+
+Grokh shouts 'The Critter Hunt ends!'
+--------------------------------------------------------------
+Grokh shouts 'Nuane WINS THE CRITTER HUNT!'
+Your reputation improves.
+Final scores:
+Killers               Kills
+
+Zock                     70
+Moonlord                 47
+Kerzebel                 29
+Patriot                  36
+Nuane                   128
+Hobo                     50
+Dupre                    90
+Nosunrise               104
+
+Grokh shouts 'The Critter Hunt ends!'
+--------------------------------------------------------------
+Grokh shouts 'Nuane WINS THE CRITTER HUNT!'
+Your reputation improves.
+Congratulations! You have just completed Critter hunt!
+Final scores:
+Killers               Kills
+
+Moonlord                 67
+Nuane                   154
+Gorefist                 46
+Eliam                    78
+Cyberlahko               46
+Dupre                    54
+Nuubi                    22
+Vulcanus                 74
+Nepnep                   40
+
+Grokh shouts 'The Critter Hunt ends!'
+--------------------------------------------------------------
+Grokh shouts 'Broetchen WINS THE CRITTER HUNT!'
+Final scores:
+Killers               Kills
+
+Borealis                 50
+Broetchen               150
+Freld                    84
+Nuane                   144
+Perian                   26
+Steelheart               50
+Walciz                    0
+Warcas                   52
+
+Grokh shouts 'The Critter Hunt ends!'
+--------------------------------------------------------------
+Grokh shouts 'Nuane WINS THE CRITTER HUNT!'
+Your reputation improves.
+Congratulations! You have just completed Critter hunt!
+Final scores:
+Killers               Kills
+
+Broetchen               142
+Duckman                  42
+Grimpold                 38
+Nuane                   147
+Peelo                    52
+Peenari                  36
+Pertulio                 50
+
+Grokh shouts 'The Critter Hunt ends!'
+--------------------------------------------------------------
+Grokh shouts 'Nuane WINS THE CRITTER HUNT!'
+Your reputation improves.
+You have a new reputation title.
+   'Deathbringer'
+Final scores:
+Killers               Kills
+
+Facekiller               88
+Khirsah                  52
+Kyynel                  156
+Nuane                   252
+Peelo                   120
+
+Grokh shouts 'The Critter Hunt ends!'
+--------------------------------------------------------------
+Grokh shouts 'Tonto WINS THE CRITTER HUNT!'
+Final scores:
+Killers               Kills
+
+Charad                   28
+Maia                      6
+Norz                    176
+Nuane                   214
+Tonto                   252
+
+Grokh shouts 'The Critter Hunt ends!'

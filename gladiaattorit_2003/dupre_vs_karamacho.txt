@@ -1,0 +1,606 @@
+Dupre is a level 62 mortal of the Cromagnon race.
+She was created before 1997 and she is 249d, 21h, 15min and 57s old.
+She has been on for 1h, 11min and 16s, idle 26s.
+She has killed: A fierce fire dragon has a three foo.., 39099 exp
+                Golux, the master conjurer of slime, 617149 exp (party of 9)
+Web page: Total of 100000000 experience spent on character.
+She has no plan.
+
+
+Karamacho Magiragan is a level 45 mortal of the Catfolk race.
+She was created Mon Aug 28 20:51:12 2000 and she is 92d, 18h, 57min and 52s old.
+She has been on for 5h, 23min and 24s, idle 21s.
+She has killed: Prince Lir defending Lady Amalthea, 25059 exp
+                A rotting mound of garbage, 45612 exp (party of 3)
+Plan:
+>Silver horses run down moon beams
+
+
+You close team 2 door.
+The arena master shouts 'Team 1 consists of Karamacho'                                                                                       
+The arena master shouts 'Team 2 consists of Dupre'
+The arena master shouts 'All teams ready! Let the fight begin!'
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+You remove Rakirsai, The Blue Flame.
+You remove gleaming steel gauntlet (6/100).                                                                                                  
+You remove The Pelt from the Maneater of Rudraprayag.                                                                                        
+You remove The Shoes that were lost that were found, but could be lost again possibly.                                                       
+Hp:1127/1108 Ep:331/365 Exp:1522940 >e
+k
+You remove a full shield clad with golden goatskin from your right hand.
+Hp:1127/1043 Ep:331/355 Exp:1522940 >w
+k
+You wear Blue dragon boots <yellow glow>.
+You wield Fire Diamond Battleaxe in your right hand.                                                                                         
+You wear Crown of Sorrows..  The Blood Crown <yellow glow>.
+You wear Black Reaver's old gauntlets <orange glow>.
+You wear Long protective edged chain [Made by: Robinhood].
+You cannot go that way.
+No karamacho here !
+          All around is a dense fog. You can see maybe                                                                                       
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+0 <team 1>
+*****************************************************
+You miss Someone.
+You miss Someone.
+Someone stomp-kicks you making small marks.
+Someone punches you making small marks.
+You are already fighting!
+Dupre reports: Hp: 1065 (1043) Sp: 29 (29) Ep: 331 (359).
+*****************************************************                                                                                        
+You tear Someone causing a small wound.
+Someone successfully dodges your futile bash.
+Someone misses you.
+Someone punches you making small marks.
+|-89| Hp: 1038 (1043) || Ep: 331 (359)
+Even though your muscles tire you rage in frenzy.
+Dupre reports: Hp: 1038 (1043) Sp: 29 (29) Ep: 326 (359).                                                                                    
+Hp:1038/1043 Ep:326/359 Exp:1522940 >bla
+x
+You start concentrating on the skill.
+Someone leaves south.
+You are not in combat right now.
+Hp:1038/1043 Ep:326/359 Exp:1522940 >s
+bla
+|| Hp: 1038 (1043) |-5| Ep: 326 (359)
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+0 <team 1>
+*****************************************************
+Someone successfully dodges your futile slash.
+Someone successfully dodges your futile bash.
+You try to dodge, but Someone is not fooled.
+Someone stomp-kicks you in the thigh.
+You successfully dodge Someone's attack.
+You start concentrating on the skill.                                                                                                        
+Dagel (saato+): 651hpmax tuollakin                                                                                                           
+Dupre reports: Hp: 999 (1043) Sp: 29 (29) Ep: 326 (359).
+Hp:999/1043 Ep:326/359 Exp:1522940 >x
+Someone is in excellent shape.
+*****************************************************                                                                                        
+You tear Someone inducing a nasty lesion.
+Someone howls in agony as the evil mace crushes bones!
+You thrust Someone causing a nasty laceration.
+Karamacho seems hurt and confused.
+Someone misses you.
+Someone misses you.
+|-39| Hp: 999 (1043) || Ep: 326 (359)
+Dupre reports: Hp: 999 (1043) Sp: 29 (29) Ep: 326 (359).                                                                                     
+Hp:999/1043 Ep:326/359 Exp:1522940 >x
+Someone is slightly hurt.
+Someone leaves east.
+Hp:999/1043 Ep:326/359 Exp:1522940 >e
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+0 <team 1>
+*****************************************************
+Someone successfully dodges your futile slash.
+You miss Someone.
+Someone misses you.
+Someone misses you.
+Hp:999/1043 Ep:326/359 Exp:1522940 >bla
+*****************************************************
+You incise Someone creating nasty blisters.
+Someone successfully dodges your futile bash.
+Someone misses you.
+Someone stomp-kicks you in the thigh.
+|-37| Hp: 962 (1043) || Ep: 326 (359)
+Someone starts concentrating on a new offensive spell.
+Dupre reports: Hp: 962 (1043) Sp: 29 (29) Ep: 326 (359).
+You start concentrating on the skill.
+Dupre reports: Hp: 962 (1043) Sp: 29 (29) Ep: 326 (359).
+Someone leaves north.                                                                                                                        
+Rutaliator [saato+]: tapa
+Hp:962/1043 Ep:326/359 Exp:1522940 >n
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+0 <team 1>
+*****************************************************
+Someone successfully dodges your futile slash.
+You thrust Someone making an artery explode.
+Someone punches you making small marks.
+You successfully dodge Someone's attack.
+Dupre reports: Hp: 938 (1043) Sp: 29 (29) Ep: 326 (359).                                                                                     
+Hp:938/1043 Ep:326/359 Exp:1522940 >bla
+You start concentrating on the skill.
+Someone leaves south.
+Hp:938/1043 Ep:326/359 Exp:1522940 >s
+|-24| Hp: 938 (1043) || Ep: 326 (359)
+bla
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+0 <team 1>
+*****************************************************
+Someone tries to dodge your hit, but you are not fooled that easily!
+You tear Someone sparking a limb to slice open.
+Someone successfully dodges your futile bash.
+Someone stomp-kicks you in the thigh.
+Someone smashes you making small marks.
+You start concentrating on the skill.                                                                                                        
+Dupre reports: Hp: 889 (1043) Sp: 29 (29) Ep: 326 (359).                                                                                     
+Even though your muscles tire you rage in frenzy.                                                                                            
+Juo [saato+]: tapa pois vaan                                                                                                                 
+*****************************************************                                                                                        
+You miss Someone.
+Someone successfully dodges your futile bash.
+Someone misses you.
+Someone misses you.
+|-49| Hp: 889 (1043) |-6| Ep: 320 (359)
+Dupre reports: Hp: 889 (1043) Sp: 29 (29) Ep: 320 (359).
+Delpers [saato+]: meneee!
+Dagel (saato+): 335
+Hp:889/1043 Ep:320/359 Exp:1522940 >x
+Someone is noticeably hurt.
+*****************************************************                                                                                        
+Someone successfully dodges your futile slash.
+Someone howls in agony as the evil mace crushes bones!
+You stroke Someone causing facial tissue to sizzle.
+You try to dodge, but Someone is not fooled.
+Grinning diabolically Someone applies a painful jointlock, making you snapping a neck bone.
+That really HURT!
+Someone kicks you making small marks.
+|-325| Hp: 564 (1043) || Ep: 320 (359)
+Dupre reports: Hp: 564 (1043) Sp: 29 (29) Ep: 320 (359).
+Hp:564/1043 Ep:320/359 Exp:1522940 >spa eek
+Dupre [saato+]: eek
+Hp:564/1043 Ep:320/359 Exp:1522940 >x
+Karamacho shreds air with her hands and screams 'Haii!'                                                                                      
+Suddenly someone is trying to claw his way out of your body!
+The pain forces you to your knees!
+*****************************************************
+Karamacho punches you just below the chin.
+Karamacho spin-kicks you painfully just above the knee.
+|-113| Hp: 451 (1043) || Ep: 320 (359)
+You are stunned and unable to do anything.                                                                                                   
+You are stunned and unable to do anything.                                                                                                   
+Hp:451/1043 Ep:320/359 Exp:1522940 >x
+Karamacho starts concentrating on a new offensive skill.
+Even though your muscles tire you rage in frenzy.
+You are stunned and unable to do anything.
+Hp:451/1043 Ep:314/359 Exp:1522940 >w
+You are stunned and unable to do anything.
+Hp:451/1043 Ep:314/359 Exp:1522940 >w
+w
+w
+*****************************************************
+Karamacho spin-kicks you in the ribcage area.
+Your armours absorb some of the damage.
+Karamacho stomp-kicks you in the ribcage area.
+You are no longer stunned.
+You feel your head clearing up.
+|-65| Hp: 386 (1043) |-6| Ep: 314 (359)
+w
+Juo [saato+]: sillmasta sulal on vastusta vähän
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #..#     turns into murky shadows. The only
+  #@1#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+You cannot go that way.                                                                                                                      
+Hp:386/1043 Ep:314/359 Exp:1522940 >n
+You cannot go that way.
+Dupre reports: Hp: 386 (1043) Sp: 29 (29) Ep: 314 (359).                                                                                     
+You cannot go that way.
+          All around is a dense fog. You can see maybe                                                                                       
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #.1#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Hp:386/1043 Ep:314/359 Exp:1522940 >se
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Karamacho Magiragan the member of Catfolk focken' arena king <team 1>
+Hp:386/1043 Ep:314/359 Exp:1522940 >bla
+*****************************************************
+Karamacho punches you in the face, swelling an eye purple and shut.
+Karamacho punches you just below the chin.
+Karamacho successfully dodges your futile slash.
+You thrust Karamacho causing first degree burns.
+|-55| Hp: 331 (1043) || Ep: 314 (359)
+Karamacho starts concentrating on a new offensive spell.
+You start concentrating on the skill.                                                                                                        
+Hp:331/1043 Ep:314/359 Exp:1522940 >n
+Dupre reports: Hp: 331 (1043) Sp: 29 (29) Ep: 314 (359).
+Your movement prevents you from doing the skill.                                                                                             
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ #.1#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Hp:331/1043 Ep:314/359 Exp:1522940 >w
+          All around is a dense fog. You can see maybe                                                                                       
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #.1#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Hp:331/1043 Ep:314/359 Exp:1522940 >lur
+Hp:331/1043 Ep:314/359 Exp:1522940 >l
+You start concentrating on the skill.
+Dupre [party]: luring                                                                                                                        
+Hp:331/1043 Ep:314/359 Exp:1522940 >l
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #.1#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+          All around is a dense fog. You can see maybe                                                                                       
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #.1#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Hp:331/1043 Ep:314/359 Exp:1522940 >se
+bla
+Delpers [saato+]: eek
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+ ####     five meters in front of you before everything
+ #..#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Karamacho Magiragan the member of Catfolk focken' arena king <team 1>
+*****************************************************
+You incise Karamacho causing entrails to fly everywhere.
+Karamacho seems hurt and confused.
+Karamacho successfully dodges your futile bash.
+Karamacho misses you.
+Karamacho misses you.
+You start concentrating on the skill.                                                                                                        
+Hp:331/1043 Ep:314/359 Exp:1522940 >x
+Dupre reports: Hp: 331 (1043) Sp: 29 (29) Ep: 314 (359).
+Karamacho is in bad shape.                                                                                                                   
+Karamacho starts concentrating on a new offensive spell.                                                                                     
+*****************************************************                                                                                        
+You miss Karamacho.
+Karamacho successfully dodges your futile bash.
+Karamacho smashes you in the thigh.
+You successfully dodge Karamacho's attack.
+|-15| Hp: 316 (1043) || Ep: 314 (359)
+Breathing heavily you stay in your battle frenzy.
+x
+Rutaliator [saato+]: dupre perkl
+Karamacho leaves west.
+Dupre reports: Hp: 316 (1043) Sp: 29 (29) Ep: 312 (359).
+You are not in combat right now.                                                                                                             
+Hp:316/1043 Ep:312/359 Exp:1522940 >w
+bla
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.
+You start concentrating on the skill.                                                                                                        
+Hp:316/1043 Ep:312/359 Exp:1522940 >n
+|+29| Hp: 345 (1043) |+4| Ep: 318 (359)
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Karamacho Magiragan the member of Catfolk focken' arena king <team 1>
+*****************************************************
+Karamacho successfully dodges your futile slash.
+You stroke Karamacho snapping back a limb.
+Karamacho misses you.
+You successfully dodge Karamacho's attack.
+Dupre reports: Hp: 345 (1043) Sp: 29 (29) Ep: 318 (359).                                                                                     
+Hp:345/1043 Ep:318/359 Exp:1522940 >bla
+x
+You start concentrating on the skill.
+Karamacho is in very bad shape.
+Hp:345/1043 Ep:318/359 Exp:1522940 >e
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+ ####      turns into murky shadows. The only
+ #1@#     interesting feature of this dull land is the
+ #..#     ground which is a matrix of shifting black
+ ####     and white squares. 
+          
+          
+Obvious exits are: w, sw and s.
+Hp:345/1043 Ep:318/359 Exp:1522940 >w
+bla
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Karamacho Magiragan the member of Catfolk focken' arena king <team 1>
+*****************************************************
+Karamacho successfully dodges your futile slash.
+You stroke Karamacho puncturing a hole, allowing entrails to spill everywhere.
+Karamacho smashes you in the thigh.
+You successfully dodge Karamacho's attack.
+Hp:330/1043 Ep:318/359 Exp:1522940 >x
+You start concentrating on the skill.
+Dupre reports: Hp: 330 (1043) Sp: 29 (29) Ep: 318 (359).                                                                                     
+Karamacho is in very bad shape.                                                                                                              
+Karamacho shreds air with her hands and screams 'Haii!'                                                                                      
+Suddenly someone is trying to claw his way out of your body!
+The pain forces you to your knees!
+|-45| Hp: 300 (1043) || Ep: 318 (359)
+*****************************************************
+Karamacho stomp-kicks you tumbling down.
+Karamacho punches you in the ribcage area.
+Your frenzy only exhausts you slightly.
+You are stunned and unable to do anything.
+Hp:229/1043 Ep:317/359 Exp:1522940 >x
+You are stunned and unable to do anything.
+Karamacho starts concentrating on a new offensive skill.                                                                                     
+Hp:229/1043 Ep:317/359 Exp:1522940 >s
+s
+You are stunned and unable to do anything.
+Hp:229/1043 Ep:317/359 Exp:1522940 >s
+s
+s
+s
+|-71| Hp: 229 (1043) |-1| Ep: 317 (359)
+*****************************************************
+Karamacho spin-kicks you shattering the jaw.
+You are about to DIE!
+Grinning diabolically Karamacho smashes you tearing the ribcage open and pulling out a still
+ beating heart.
+You wish your wounds would stop BLEEDING so much!
+You are stunned and unable to do anything.
+Hp:21/1043 Ep:317/359 Exp:1522940 >s
+You are stunned and unable to do anything.
+You are stunned and unable to do anything.                                                                                                   
+Hp:21/1043 Ep:317/359 Exp:1522940 >s
+s
+You are stunned and unable to do anything.                                                                                                   
+Hp:21/1043 Ep:317/359 Exp:1522940 >s
+s
+You are stunned and unable to do anything.                                                                                                   
+Hp:21/1043 Ep:317/359 Exp:1522940 >s
+s
+You are stunned and unable to do anything.                                                                                                   
+Hp:21/1043 Ep:317/359 Exp:1522940 >s
+You are stunned and unable to do anything.                                                                                                   
+Hp:21/1043 Ep:317/359 Exp:1522940 >s
+s
+You are stunned and unable to do anything.                                                                                                   
+Hp:21/1043 Ep:317/359 Exp:1522940 >s
+s
+s
+s
+You are no longer stunned.
+You feel your head clearing up.
+|-208| Hp: 21 (1043) || Ep: 317 (359)
+*****************************************************
+Karamacho successfully dodges your futile slash.
+Karamacho tries to dodge your hit, but you are not fooled that easily!
+You stroke Karamacho causing heart tissue to fly everywhere.
+Karamacho misses you.
+Karamacho misses you.
+          All around is a dense fog. You can see maybe
+  ####    five meters in front of you before everything
+  #1.#     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  ####    ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: n, ne and e.                                                                                                              
+Hp:21/1043 Ep:317/359 Exp:1522940 >s
+You cannot go that way.
+Hp:21/1043 Ep:317/359 Exp:1522940 >e
+You cannot go that way.
+You cannot go that way.                                                                                                                      
+You cannot go that way.                                                                                                                      
+You cannot go that way.                                                                                                                      
+Hp:21/1043 Ep:317/359 Exp:1522940 >lur
+You cannot go that way.
+You cannot go that way.                                                                                                                      
+You cannot go that way.
+Hp:21/1043 Ep:317/359 Exp:1522940 >e
+Rutaliator [saato+]: ooevoe
+You cannot go that way.
+You cannot go that way.
+You cannot go that way.                                                                                                                      
+Hp:21/1043 Ep:317/359 Exp:1522940 >lur
+l
+Dupre reports: Hp: 21 (1043) Sp: 29 (29) Ep: 317 (359).
+You cannot go that way.                                                                                                                      
+          All around is a dense fog. You can see maybe                                                                                       
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Even though your muscles tire you rage in frenzy.                                                                                            
+You start concentrating on the skill.                                                                                                        
+Dupre [party]: luring                                                                                                                        
+You cannot go that way.
+You decide to change the skill to new one.
+You start concentrating on the skill.
+|| Hp: 21 (1043) |-6| Ep: 311 (359)                                                                                                          
+Dupre [party]: luring
+          All around is a dense fog. You can see maybe                                                                                       
+ ####     five meters in front of you before everything
+ #1.#      turns into murky shadows. The only
+ #.@#     interesting feature of this dull land is the
+ ####     ground which is a matrix of shifting black
+          and white squares. 
+          
+          
+Obvious exits are: nw, n and w.
+Hp:21/1043 Ep:311/359 Exp:1522940 >break frenzy
+You start trying to break out of your frenzy.
+Hp:21/1043 Ep:311/359 Exp:1522940 >bla
+You decide to change the skill to new one.
+You start concentrating on the skill.
+Rutaliator [saato+]: tiukkaa                                                                                                                 
+Hp:21/1043 Ep:311/359 Exp:1522940 >nw
+Your movement prevents you from doing the skill.
+          All around is a dense fog. You can see maybe
+          five meters in front of you before everything
+  ####     turns into murky shadows. The only
+  #@.#    interesting feature of this dull land is the
+  #..#    ground which is a matrix of shifting black
+  ####    and white squares. 
+          
+          
+Obvious exits are: e, s and se.
+Karamacho Magiragan the member of Catfolk focken' arena king <team 1>
+*****************************************************
+You miss Karamacho.
+You stroke Karamacho forcing the heart to incinerate.
+You successfully dodge Karamacho's attack.
+Grinning diabolically Karamacho applies a painful jointlock, making you tearing the ribcage open
+ and pulling out a still beating heart.
+That really HURT!
+You wish your wounds would stop BLEEDING so much!
+You are no longer stunned.
+You fall unconscious from the pain.
+Karamacho starts concentrating on a new spell.                                                                                               
+You are unconscious, unable to do anything.
+Karamacho leaves east.                                                                                                                       
+Hp:-315/1043 Ep:311/359 Exp:1522940 >
+Blood pours from your wounds!                                                                                                                
+You wish your wounds would stop BLEEDING so much!
+Karamacho arrives from east.
+*****************************************************
+Karamacho misses you.
+Karamacho misses you.
+Karamacho starts concentrating on a new offensive skill.                                                                                     
+You are unconscious, unable to do anything.                                                                                                  
+Rutaliator [saato+]: elä anna sen hinuu                                                                                                      
+Gurb [saato+]: ack.
+You manage to control yourself thanks to your excellent discipline.                                                                          
+You slip away from the frenzy.
+Dagel (saato+): :(
+*****************************************************                                                                                        
+Grinning diabolically Karamacho strikes you tearing the ribcage open and pulling out a still
+ beating heart.
+That really HURT!
+You wish your wounds would stop BLEEDING so much!
+You die!
+You are transferred out of the arena by some very capable clerics.
+They manage to resurrect you without causing any serious trauma!
+You are moved to the stadium cellars.
+Dupre dies and is carried away by two clerics.
+The arena master shouts 'Dupre of team 2 dies and is removed from the arena!'
+This room is filled with healing equipment and here the clerics revive the
+fighters who shamefully lost in the arena fight.
+Obvious exit is: east.
+|-20| Hp: 1 (1043) || Ep: 311 (359)
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Karamacho'

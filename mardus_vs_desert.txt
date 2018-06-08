@@ -1,0 +1,508 @@
+The arena master shouts 'Team 1 consists of Mardus'
+The arena master shouts 'Team 2 consists of Desert'
+The arena master shouts 'All teams ready! Let the fight begin!'
+      
+ #### 
+ #12# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1287/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert           1327/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[Probe attached to: Player(/p/draconian-desert (Desert))].'
+Gore says '[probe 2:desert] use 'lure'.'
+Gore says '[probe 2:desert] look.'
+Gore says '[probe 2:desert] west.'
+      
+ #### 
+ #1.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1236/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert           1290/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Bela [twilight+]: jee
+Gore says '[probe 2:mardus] kill desert.'
+Gore says '[probe 2:desert] use 'lure'.'
+      
+ #### 
+ #1.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1236/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert           1290/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:desert] scan all.'
+Gore says '[probe 2:mardus] party report.'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:mardus] scan all.'
+Gore says '[probe 2:mardus] yodel.'
+      
+ #### 
+ #1.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1236/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            900/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:mardus] party report.'
+Gore says '[probe 2:desert] scan all.'
+Gore says '[probe 2:mardus] scan all.'
+      
+ #### 
+ #1.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1236/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            900/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:desert] camelot+ say HUOH.'
+Gore says '[probe 2:mardus] party report.'
+Gore exclaims '[probe 2:desert] party say back from stun!'
+Gore says '[probe 2:desert] scan all.'
+Gore says '[probe 2:mardus] scan all.'
+Gore says '[probe 2:desert] east.'
+Nuane [twilight+]: GOG OGOGOO!
+      
+ #### 
+ #12# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1186/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            754/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:mardus] party report.'
+Nuane [twilight+]: YEAAAA
+Sarnath [twilight+]: haha
+      
+ #### 
+ #.2# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1128/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            754/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore asks '[probe 2:desert] camelot+ say pystyyko krittaa ja stunnaa?'
+Gore says '[probe 2:mardus] use 'lure' desert.'
+Gore says '[probe 2:mardus] party say Luring -> desert.'
+Gore says '[probe 2:mardus] scan all.'
+Gore says '[probe 2:mardus] kill desert.'
+      
+ #### 
+ #.2# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1128/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            754/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:mardus] scan all.'
+Gore says '[probe 2:mardus] party report.'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:desert] scan all.'
+Gore says '[probe 2:mardus] scan all.'
+Anavrin [twilight+]: MAAAARDUUUUUUUS
+Sarnath [twilight+]: hakkaa se
+      
+ #### 
+ #.2# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1093/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            435/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:mardus] party report.'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:desert] camelot+ say TAAS.'
+Nuane [twilight+]: KSDFJHKFJSDH!!!!!!!!
+Gore says '[probe 2:mardus] scan all.'
+Specialk [twilight+]: hiihih
+Gore says '[probe 2:desert] scan all.'
+      
+ #### 
+ #.2# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1093/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            409/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:mardus] roar.'
+Gore says '[probe 2:mardus] party report.'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:mardus] party say ( Lure successful: 1 round stun ).'
+Gore exclaims '[probe 2:desert] party say back from stun!'
+Uncle [twilight+]: ohho
+Flab [party]: cheer =)
+Gore says '[probe 2:mardus] scan all.'
+Gore says '[probe 2:desert] west.'
+Gore says '[probe 2:mardus] use 'pound'.'
+Gore says '[probe 2:mardus] scan all.'
+      
+ #### 
+ #21# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           1023/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            409/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:mardus] party report.'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:desert] camelot+ say hihi taas :).'
+Gore says '[probe 2:mardus] kill desert.'
+Gore says '[probe 2:mardus] scan all.'
+Gore says '[probe 2:mardus] use 'pound'.'
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            985/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            373/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:mardus] scan all.'
+Enochian [twilight+]: hahahahaha :)
+Gore says '[probe 2:desert] scan all.'
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            985/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            373/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Sarnath grunts 'tapase.'
+Gore says '[probe 2:desert] scan all.'
+Gore says '[probe 2:mardus] party report.'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:mardus] scan all.'
+Kyynel [bat]: go mardus go
+Gore says '[probe 2:mardus] moo.'
+Gore says '[probe 2:mardus] scan all.'
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            985/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            373/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Anavrin [twilight+]: näkyy kivasti trigut :)
+Gore says '[probe 2:mardus] party report.'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:desert] scan all.'
+Gore says '[probe 2:mardus] scan all.'
+Enochian cheers enthusiastically.
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            914/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            297/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:mardus] party report.'
+Nuane cheers enthusiastically.
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:mardus] scan all.'
+Gore says '[probe 2:desert] scan all.'
+Ziggy [twilight+]: joh
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            858/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert            208/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:mardus] battle rounds.'
+Gore says '[probe 2:desert] party report.'
+Uncle [twilight+]: what happen?!?! =)
+Gore says '[probe 2:mardus] scan all.'
+Bela [twilight+]: LOLLOTILOO
+Gore says '[probe 2:mardus] use 'pound'.'
+Gore says '[probe 2:mardus] scan all.'
+Balthas says 'desert saa päihisä.'
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            806/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert             11/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:desert] party report.'
+Gore says '[probe 2:desert] use 'cleave'.'
+Gore says '[probe 2:desert] parry 0.'
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            806/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert             11/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Kyynel quacks 'hahhah.'
+Gore says '[probe 2:desert] scan all.'
+Sarnath [twilight+]: GOGOGO
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            621/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert             11/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:desert] scan all.'
+Kyynel quacks 'mahtavaa.'
+Anavrin [twilight+]: GOG OGOGOGOGO
+Balthas says 'oikein.'
+Celesta boos in disappointment.
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            366/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert             11/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Gore says '[probe 2:desert] party report.'
+Uncle [twilight+]: joku erkkikritti =P
+Flab shouts enthusiastically and screams 'WHEE!'.
+Anavrin says 'MARDUUS.'
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus            -32/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert             11/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Cyberlahko eeps fearfully.
+Nuane [twilight+]: EIIIIIIIIII
+Bela [twilight+]: EI VITTU
+Gore says '[probe 2:desert] party report.'
+Bela [twilight+]: EI VITTU
+Dupre goes 'Heh'.
+Bela [twilight+]: EI VITTU
+Gore says '[probe 2:desert] say  JESSS!!!!!'
+Nemi says 'MUAH.'
+Ziggy [twilight+]: scan allia :)
+Dooyee mumbles 'OHO.'
+Enochian acks.
+Gore says '[probe 2:desert] say JES JES JSE.'
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           -170/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert             11/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Flab goes 'aww'.
+Uncle [twilight+]: mitäää???
+Ibara claps.
+Specialk [twilight+]: täh
+Moe is absolutely stunned and amazed and can only say 'Wow...'.
+Bleezuz cheers enthusiastically.
+Bleezuz cheers enthusiastically.
+Bleezuz cheers enthusiastically.
+Bleezuz cheers enthusiastically.
+Gore says '[probe 2:desert] camelot+ say OVVIOTIN!! :).'
+Bleezuz cheers enthusiastically.
+Merri is struck by complete and utter fear.
+Rauskis quacks 'NIHAHAHAHHAHAHAHAHAHA.'
+      
+ #### 
+ #2.# 
+ #..# 
+ #### 
+      
+      
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Mardus           -287/1287   31/31   |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Desert             11/1327   74/73   |                                      |
+`-----------------------------------------------------------------------------'
+Nuane [twilight+]: AAAAAAAAARGH
+Gore says '[probe 2:desert] use 'cleave'.'
+Yandor grunts 'huh.'
+Celesta says 'JEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE.'
+Flab bleahs.
+Berovir exclaims 'hihaa!'
+Sirdar shouts 'OOOHHHHHH.'
+Gore says '[probe 2:desert] foad mardus.'
+Nuane screams 'Aaaaaaaaaaaarrrrgggghhhhhh!!'.
+Gore says '[probe 2:desert] foad mardus.'
+Gore says '[probe 2:desert] foad mardus.'
+Gore says '[probe 2:desert] foad mardus.'
+Uncle [twilight+]: nojust
+Anavrin [party]: :(((((((((((((((((((((((((((((((((((((((((((((
+The arena master shouts 'Mardus of team 1 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 2 which consists of Desert'
+There is no fight going on.
+Bleezuz thunders mightily 'wHEE.'
+Yandor leaves down.
+Bela [twilight+]: HAHAHAHA
+Berovir grunts 'GOUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU.'
+Sarnath grunts 'mitä vittua :).'
+Dooyee exclaims 'uiii!'
+Anavrin [twilight+]: :(((((((((((((((8
+Gore says '[probe 2 terminated].'
+Flab pouts.
+Kvlt [party]: paske
+Bela [twilight+]: vittu mika faighti
+Dooyee mumbles 'uliiiii.'
+Specialk [twilight+]: mitä kävi
+Hellhammer goes 'Heh'.
+Jadefang yells 'ASIAA!!!!'.
+Celesta says 'ULLULULULULULUUUU.'
+Berovir grunts 'deesert kiikaaaaaaaaaaaaaaaaaaas.'
+Sarnath [twilight+]: mitä tapahtu :)
+Balthas 'hmmmm's for a moment.
+Azmodan applauds wholeheartedly.
+Uncle asks 'wtf just happened?'
+Moe exclaims 'woohoo!'
+Mithrand surprises everyone completely.
+Sirdar shouts '11 hp and VICTORY!'
+Bela [twilight+]: desert kai sai luren sisää ku oli 11hp sil jäljel
+Makke arrives from west.
+Moe asks 'crit or stun?'
+Merri exclaims 'ok damn you all who didn't take me up on the bet!'
+[twilight+]: Ziggy bursts into tears.
+Kyynel tells Arenor, Pogowoko, Moonlord, Xunisiih, Uncle, Juicer, Henri, Sarnath, Demonizer, Panthos, Mardus, Kvlt, Twinder, Chaust and you 'ÄVÄVÄVÄVÄVÄ'
+Broetchen cruelly growls '11 against 387.'
+Balthas says 'joku kritti.'
+Enochian gives suspicious looks to everyone.
+Bela [twilight+]: tai joku kritti hmm
+Hellhammer goes 'Heh'.
+Sarnath grunts 'joo eroon tästä clubista.'
+Sarnath left the party.
+Panthos tells Arenor, Pogowoko, Moonlord, Xunisiih, Uncle, Juicer, Henri, Sarnath, Demonizer, Mardus, Kvlt, Twinder, Chaust, Kyynel and you 'poketipoksitipok?'
+Mithrand grunts 'was 11 agains 621.'
+Anavrin says 'höh.'
+Rauskis snickers.
+Bela [twilight+]: voi helvetti ihan sairas matsi kyl.
+Bela left the party.
+Sarnath [twilight+]: crittasko se :)
+Enochian [party]: Infravision: ####
+Kvlt left the party.
+Kharadus [party]: kukas midbies tappelee?
+Enochian left the party.
+Nuane [twilight+]: vittu mikä matsi huhu
+Flab [party]: inf -> flab
+Kyynel arrives from east.
+Henri tells Arenor, Pogowoko, Moonlord, Xunisiih, Uncle, Juicer, Sarnath, Demonizer, Mardus, Kvlt, Twinder, Chaust, Kyynel, Panthos and you 'voitteko lisää spammaa? jos kiltisti pyytää'
+[party]: Flab hastes
+Dandy exclaims '11/806 even!'
+[party]: Flab hastes
+Uncle buzzes 'sick.'
+Flab [party]: infra up
+Kyynel tells Arenor, Pogowoko, Moonlord, Xunisiih, Uncle, Juicer, Sarnath, Demonizer, Mardus, Kvlt, Twinder, Chaust, Panthos, Henri and you 'vesipyssy'
+Sarnath [twilight+]: paskapeli
+Lighthouse (sales): con/dam maneater held mb 1.5m
+Anavrin [twilight+]: HUIJAUSTA
+Cyberlahko says 'there you see, parry should be at 0 :).'
+Anavrin [twilight+]: DOPINGIN KÄRYÄ!
+Desert bows to her audience.
+Desert bows to her audience.
+Desert bows to her audience.
+Chaust tells Arenor, Pogowoko, Moonlord, Xunisiih, Uncle, Juicer, Sarnath, Demonizer, Mardus, Kvlt, Twinder, Panthos, Henri, Kyynel and you 'mä kans'
+Mardus (twilight+): lure vei
+Berovir starts a wave, wheeee!.
+Moe says 'must have been stun - mardus stopped scanning.'
+Sirdar shouts 'The KNIGHT OF THE BAT for year 2002 is DESERT ORBAN!'
+Anavrin [twilight+]: TOMMOSET ARMI AAVIKOT AMMUTAAN TÄÄLLÄPÄIN
+Jadefang sniffs sadly.
+Ibara claps.
+Moe cheers enthusiastically.
+Kharadus left the party.
+Elite guard shouts 'Busorama just made my day!'

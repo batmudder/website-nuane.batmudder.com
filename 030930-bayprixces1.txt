@@ -1,0 +1,1366 @@
+Kyo [party]: män
+Heidel removes golden wristbands labeled as <*>, a magic cloak, a pair of blue radium boots, Red Glove of the Healer, Red Glove of the Healer, mask of a bearded human male labeled as <*> and a pair of dirty leggings labeled as <*>.
+Heidel wears Glass armbands labeled as <*> (glowing) <yellow glow>, a black cloak (evil glow) labeled as <*> (glowing) <yellow glow>, strong sapphire boots (glowing) <yellow glow>, gloves of Nimbleness labeled as <*> (glowing) <orange glow>, the crown of mental power labeled as <*> (glowing) <orange glow> and dark grey and white plaid kilt labeled as <*> (glowing) <orange glow>.
+Akvavitix removes leggings of putrid flesh (undead), a white glove labeled as <|MAD|>, a white glove labeled as <|MAD|>, the Bracelets of Darkness, a sparkling breastplate, a golden necklace studded with huge diamonds labeled as <|ancient|>, a black hood labeled as <|MAD|>, a wand of magic, A heavy black metal ring, A heavy black metal ring, Slime cloak labeled as <|MAD|>, Boots of the Goddess, The Amulet of Truth labeled as <|ancient|>, Sacred Bracelets of Eternity, Girdle of Ethereal Power labeled as <|MAD/Spr|> and Shield of a Thousand Reflections labeled as <|MAD|>.
+Akvavitix wears gloves of Nimbleness (glowing) <orange glow>, A blue hat of wizardy labeled as <|MAD|> (glowing) <red glow>, an engraved cross amulet labeled as <|MAD|> (glowing) <yellow glow>, a black cloak (evil glow) labeled as <|MAD-AK|> (glowing) <yellow glow>, Ring of the Medusa labeled as <|MAD|> (glowing) <red glow>, Ring of the Medusa labeled as <|MAD|> (glowing) <red glow>, segmented titanium belt labeled as intti (glowing) <blue glow>, the Bracelets of Darkness (glowing) <red glow>, a little leather bag (glowing), a pair of black boots (glowing), Glass armbands labeled as <|MAD|> (glowing) <yellow glow>, moonstone leggings labeled as <|MAD|> (glowing) and a sparkling breastplate (glowing) <orange glow>.
+Akvavitix wields The staff of Lerethin labeled as <|MAD|> (glowing) <orange glow> in his right hand.
+Akvavitix wields The staff of Lerethin labeled as <|MAD|> (glowing) <orange glow> in his left hand.
+Dupre stumbles and nearly falls down.
+You are prepared to do the skill.
+You perform the ceremony.
+hp 743/743 () | sp 638/1165 () | ep 348/339 (-1)
+Kyo [party]: dupre lfexista
+Alorn [wanted]: party for ranger
+Info: Niagara recovers from link death.
+Dupre jumps up and begins dancing, but she stumbles and falls down on her ass.
+What an embarresement.
+Elero cast(s): '^ !)' (Flex shield)
+Elero's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+You sense Dupre's body being covered by a flex shield.
+Heidel {party}: war ensemble off (9m 47s)
+Dupre [party]: ( Flex Shield UP ) {Cast by Elero}
+Kyo leaves south.
+Apprentice training (d,n,e,w).
+Kyo Sayo the Dwarf (ecchi) < ecchi bunnies >
+Shadizar arrives from north.
+Bloodhunter arrives from north.
+Akvavitix arrives from north.
+Cyberlahko <--- from north.
+Heidel arrives from north.
+Elero arrives from north.
+Dupre sneaks in from north.
+Kyo leaves down.
+The entry (u,n,w,e,s).
+a bulletin board (17/17 unread) [mage]
+Kyo Sayo the Dwarf (ecchi) < ecchi bunnies >
+BayPrixces Condito, Arch Mage and Relic Collector
+Shadizar arrives from up.
+Bloodhunter arrives from up.
+Akvavitix arrives from up.
+Cyberlahko <--- from up.
+Heidel arrives from up.
+Elero arrives from up.
+Dupre sneaks in from up.
+Kyo starts concentrating on a new offensive skill.
+Kyo reports: Hp: 1383 (2039) Sp: 104 (104) Ep: 448 (448).
+habo
+reaver threaten mage
+You have an unusual feeling as you cast the spell.
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[23:43:01] hp 743/743 | sp 638/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Can only threaten once per 10 minutes.
+[23:43:01] hp 743/743 | sp 638/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Harm body: 6
+Nuane (party): Casting concealed.
+[23:43:02] hp 743/743 | sp 638/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Elero starts concentrating on a new spell.
+Heidel starts concentrating on a new offensive spell.
+Cyberlahko starts concentrating on a new offensive spell.
+Dupre starts concentrating on a new offensive skill.
+Akvavitix [party]: Concealed
+BayPrixces Condito says 'Maybe you should go study some more in my complex, you suck!'
+BayPrixces cast(s): 'ghht mar nak grttzt' (Blast vacuum)
+BayPrixces grins as his blast vacuum hits Heidel.
+scan all
+cast info
+*****************************************************
+Shadizar hits BayPrixces Condito 1 time.
+Kyo hits BayPrixces Condito 2 times.
+Dupre's flex shield wobbles.
+BayPrixces Condito hits Dupre 3 times.
+Dupre hits BayPrixces Condito 1 time.
+Harm body: 5
+Harm body: 3 (greater haste)
+BayPrixces Condito is near death. (0-10% hps)
+[23:43:05] hp 743/743 | sp 638/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Kyo reports: Hp: 1383 (2039) Sp: 104 (104) Ep: 448 (448).
+You are casting 'harm body'.
+[23:43:05] hp 743/743 | sp 638/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Shadizar reports: Hp: 1699 (1699) Sp: 43 (43) Ep: 421 (420).
+Kyo exclaims 'NÖYRRYYYH!'
+Heidel waves his hand and says 'tsaibaa' (Channelbolt)
+Heidel fires a thundering arc of blue lightning which hits BayPrixces Condito with full force!
+Heidel grins as his channelbolt hits BayPrixces Condito.
+BayPrixces Condito says 'I shall summon all the powers of the elements against you!'
+BayPrixces cast(s): 'cah mar nak grttzt' (Cold ray)
+BayPrixces grins as his cold ray hits Elero.
+Kyo's powerful bash sends BayPrixces Condito sprawling to the floor.
+scan all
+cast info
+*****************************************************
+Shadizar hits BayPrixces Condito 1 time.
+Dupre's flex shield wobbles.
+Dupre's flex shield wobbles.
+Dupre's flex shield wobbles.
+Dupre's flex shield wobbles.
+BayPrixces Condito hits Dupre 5 times.
+Harm body: 2
+Harm body: 1 (haste)
+Heidel {party}: BayPrixces Condito screams (0% resist) elec
+BayPrixces Condito is near death. (0-10% hps)
+[23:43:08] hp 743/743 | sp 638/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Kyo reports: Hp: 1383 (2039) Sp: 104 (104) Ep: 438 (448).
+You are casting 'harm body'.
+[23:43:08] hp 743/743 | sp 638/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Shadizar reports: Hp: 1694 (1699) Sp: 43 (43) Ep: 421 (420).
+Heidel starts concentrating on a new offensive spell.
+Kyo starts concentrating on a new offensive skill.
+Dupre reports: Hp: 351 (1656) Sp: 29 (29) Ep: 262 (400).
+Bloodhunter cast(s): 'PAF PAF PAF!' (Harm body)
+Bloodhunter fails to touch BayPrixces Condito.
+Cyberlahko waves his hand and says 'tsaibaa' (Channelbolt)
+Cyberlahko fires a thundering arc of blue lightning which hits BayPrixces Condito with full force!
+Cyberlahko grins as his channelbolt hits BayPrixces Condito.
+Dupre's powerful bash sends BayPrixces Condito sprawling to the floor.
+Elero cast(s): 'judicandus puorgo mangenic' (Major party heal)
+BayPrixces cast(s): 'tora tora tora' (Psychic crush)
+BayPrixces crushes Shadizarmind with a powerful psychic attack!
+scan all
+cast info
+*****************************************************
+Kyo hits BayPrixces Condito 1 time.
+Dupre's flex shield wobbles.
+party say Dupre has gone UNCONSCIOUS!
+Dupre lapses into unconsciousness from severe loss of blood.
+BayPrixces Condito hits Dupre 5 times.
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+The curse in your dagger allows you to channel harmful power through it!
+You harm BayPrixces Condito really much.
+hp 743/743 () | sp 445/1165 (-193) | ep 348/339 ()
+Electricity jolts through BayPrixces Condito!
+BayPrixces Condito is near death. (0-10% hps)
+[23:43:11] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Cyberlahko [party]: BayPrixces Condito resists 0% (electricity)
+Kyo reports: Hp: 1536 (2039) Sp: 104 (104) Ep: 438 (448).
+You are not doing anything at the moment.
+[23:43:11] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Elero [party]: SOMEONE UNCON
+Nuane (party): Dupre has gone UNCONSCIOUS!
+[23:43:11] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Elero starts concentrating on a new spell.
+Shadizar reports: Hp: 1282 (1699) Sp: 43 (43) Ep: 421 (420).
+habo
+reaver threaten mage
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[23:43:12] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Can only threaten once per 10 minutes.
+[23:43:12] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Nuane (party): Casting concealed.
+[23:43:12] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Cyberlahko starts concentrating on a new offensive spell.
+Kyo leaves up.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Apprentice training (d,n,e,w).
+Kyo Sayo the Dwarf (ecchi) < ecchi bunnies >
+Shadizar arrives from down.
+Bloodhunter arrives from down.
+Akvavitix arrives from down.
+Cyberlahko <--- from down.
+Heidel arrives from down.
+Elero arrives from down.
+BayPrixces Condito shouts 'Dupre died like a DOG!'
+Info: Dupre dies.
+Dupre dies.
+Nuane is now in the 1st row.
+Cyberlahko is now in the 2nd row.
+Heidel starts concentrating on a new spell.
+Ghost of Dupre [party]: < Flex Shield DOWN > [0:14]
+*Akvavitix ticks 37sps [30s].
+Bloodhunter starts concentrating on a new skill.
+Kyo leaves north.
+Apprentice training (n,s,e,w).
+iron aklys, a small pile of silver coins, 10 bronze
+coins, a big pile of mowgles coins, a steel dagger,
+15 copper coins, a small pile of tin coins, an empty
+alchemist's flask, a pile of zinc coins, an iron tomahawk,
+five slices of hard, brown bread,
+five big white breads, a big wooden
+mug, two chunks of ham, four
+hot pieces of chicken, four
+mugs (empty), three small
+barrels of pixie-ale, five rolls
+of bread known as 'adventurer's ally' and many slend
+er snow-white leaves
+Kyo Sayo the Dwarf (ecchi) < ecchi bunnies >
+ps
+Shadizar arrives from south.
+Bloodhunter arrives from south.
+Akvavitix arrives from south.
+Cyberlahko <--- from south.
+Heidel arrives from south.
+Elero arrives from south.
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 17m 38s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1282(1699)   43(  43) 421(420) |  98 |          644 |
+| 1.2   Kyo           ldr 1536(2039)  104( 104) 437(448) |  74 |          886 |
+| 1.3   Nuane         fol  743( 743)  445(1165) 348(339) | 100 |          653 |
+| 2.1   Bloodhunter   fol  942( 942)  956(1164) 422(410) |  93 |          624 |
+| 2.2   Elero         fol  475( 539)  265(1224) 253(235) |  94 |          628 |
+| 2.3   Cyberlahko    fol  483( 499)  909(1689) 290(299) |  82 |          578 |
+| 3.1   Akvavitix     fol  504( 526) 1125(1453) 223(223) |  97 |          641 |
+| 3.2   Heidel        fol  230( 466)  310(1059) 303(295) |  80 |          570 |
+| ?.?   Dupre        dead    1(1609)   29(  26) 252(386) |  75 |          548 |
+`-----------------------------------------------------------------------------'
+[23:43:15] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Akvavitix removes gloves of Nimbleness, A blue hat of wizardy labeled as <|MAD|>, an engraved cross amulet labeled as <|MAD|>, a black cloak (evil glow) labeled as <|MAD-AK|>, Ring of the Medusa labeled as <|MAD|>, Ring of the Medusa labeled as <|MAD|>, segmented titanium belt labeled as intti, the Bracelets of Darkness, a little leather bag, a pair of black boots, Glass armbands labeled as <|MAD|>, moonstone leggings labeled as <|MAD|>, a sparkling breastplate, The staff of Lerethin labeled as <|MAD|> and The staff of Lerethin labeled as <|MAD|>.
+Akvavitix wears leggings of putrid flesh (undead) (glowing), a white glove labeled as <|MAD|> (glowing) <red glow>, a white glove labeled as <|MAD|> (glowing) <red glow>, the Bracelets of Darkness (glowing) <red glow>, a sparkling breastplate (glowing) <orange glow>, a golden necklace studded with huge diamonds labeled as <|ancient|> (glowing) <orange glow>, a black hood labeled as <|MAD|> (glowing), a wand of magic (glowing) <orange glow>, A heavy black metal ring (glowing), A heavy black metal ring (glowing), Slime cloak labeled as <|MAD|> (glowing) <green glow>, Boots of the Goddess (glowing), The Amulet of Truth labeled as <|ancient|> (glowing) <white glow>, Sacred Bracelets of Eternity (glowing) <red glow> and Girdle of Ethereal Power labeled as <|MAD/Spr|> (glowing) <orange glow>.
+Akvavitix wields Shield of a Thousand Reflections labeled as <|MAD|> (glowing) <shimmering> <orange glow> in his right hand.
+rais dupre
+[23:43:16] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[23:43:16] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+You tell Dupre (dead) 'casting'
+[23:43:16] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Nuane (party): Casting raise dead at dupre
+[23:43:16] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Nuane (party): Casting concealed.
+[23:43:16] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Raise dead: 12
+Raise dead: 11 (haste)
+You feel some power hasten your casting.
+Kyo [party]: sniff
+Cyberlahko [party]: -=> personal force field (off) <=-
+Cyberlahko removes long, gnarled wood staff topped with a red crystal, the stone amulet of the earth elementalist, Tattered Silver Shimmering Cloak, the opal ring of Oystria, Girdle of Ethereal Power, Mirror breastplate, the opal ring of Oystria, strong sapphire boots, crystal wand, the Bracelets of Darkness, dark grey and white plaid kilt, a green glove, a green glove, Glass armbands, a little leather bag and the crown of mental power.
+Cyberlahko wears a battle-scarred shin guard <orange glow>, a wand of magic <orange glow>, sparkling ruby ring <red glow>, Mirror breastplate <orange glow>, a pair of old dark green boots, a battle-scarred shin guard <orange glow>, an engraved cross amulet <orange glow>, a wand of magic <orange glow>, The Bracers of Gods <red glow>, the Bracelets of Darkness, long sky-blue scarf, iron crown <orange glow>, sparkling ruby ring <red glow>, a purple glove, a purple glove, Slime cloak <orange glow> and Girdle of Ethereal Power <orange glow>.
+regen
+[23:43:18] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+You remove Cape of Knowledge, a pair of black boots, Holy vest of Yak, spark, the claw of fire, Blue glove of master Conjurer, Blue glove of master Conjurer, The gleaming blue collar of Bengalore labeled as +wis, The Amberley Ankh, The staff of Lerethin, Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (strong), Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (strong), golden belt of Fair River-Daughter and Pulsing Leggings.
+[23:43:18] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+As you wear the collar, you feel it slowly tightening around your neck...
+As you set your fingers upon the strings of the kanteel, a sound of such
+beauty issues from it that tears spring upon your eyes. A surge of warmth
+spreads from your fingers into your body. 
+ 
+You GLOW brightly! 
+ 
+You wear a druid's crescent made of silver (glowing) <blue glow>, Red Glove of the Healer (glowing), Red Glove of the Healer labeled as (Naane) (glowing), a collar made of black silk (glowing) <red glow>, an engraved cross amulet (glowing) <red glow>, the pikebone kanteel (glowing) <red glow>, A heavy black metal ring (glowing), A heavy black metal ring (glowing), Girdle of Ethereal Power (glowing) <red glow>, a battle-scarred shin guard (glowing), a battle-scarred shin guard (glowing), a torn leather muscle shirt labeled as (Naane) (glowing), a pair of blue radium boots (glowing) <red glow> and a magic cloak (glowing).
+[23:43:18] hp 743/743 | sp 445/1165 | ep 348/339 | exp 39991 | $ 10/251 | wimpy: off
+
+Dupre accepts raise dead from you.
+Heidel removes Glass armbands labeled as <*>, a black cloak (evil glow) labeled as <*>, strong sapphire boots, gloves of Nimbleness labeled as <*>, the crown of mental power labeled as <*> and dark grey and white plaid kilt labeled as <*>.
+Heidel wears golden wristbands labeled as <*> (glowing) <yellow glow>, a magic cloak (glowing) <yellow glow>, a pair of blue radium boots (glowing) <orange glow>, Red Glove of the Healer (glowing) <orange glow>, Red Glove of the Healer (glowing) <orange glow>, mask of a bearded human male labeled as <*> (glowing) <yellow glow> and a pair of dirty leggings labeled as <*> (glowing) <yellow glow>.
+Raise dead: 9
+Cyberlahko starts concentrating on a new spell.
+Elero starts concentrating on a new spell.
+[party]: Elero Major Heals kyo
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 17m 44s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1282(1699)   43(  43) 421(420) |  98 |          644 |
+| 1.2   Kyo           ldr 1536(2039)  104( 104) 437(448) |  74 |          886 |
+| 1.3   Nuane         fol  743( 773)  445(1026) 348(337) | 100 |          653 |
+| 2.1   Bloodhunter   fol  942( 942)  956(1164) 422(410) |  93 |          624 |
+| 2.2   Elero         fol  480( 539)  289(1224) 253(235) |  94 |          628 |
+| 2.3   Cyberlahko    fol  478( 485)  904(1556) 288(296) |  82 |          578 |
+| 3.1   Akvavitix     fol  504( 523) 1125(1266) 223(224) |  97 |          641 |
+| 3.2   Heidel        fol  234( 466)  366( 975) 303(300) |  80 |          570 |
+| ?.?   Dupre        dead    1(1609)   29(  26) 252(386) |  75 |          548 |
+`-----------------------------------------------------------------------------'
+[23:43:21] hp 743/773 | sp 445/1026 | ep 348/337 | exp 39991 | $ 10/251 | wimpy: off
+save
+
+SAVED.
+[23:43:22] hp 743/773 | sp 445/1026 | ep 348/337 | exp 39991 | $ 10/251 | wimpy: off
+
+Raise dead: 8
+Heidel {party}: jopas menee taas vaikeksi
+Elero cast(s): 'judicandus pafzarmus' (Major heal)
+Elero fails miserably in his spell.
+Raise dead: 7
+Raise dead: 5 (greater haste)
+Elero starts concentrating on a new spell.
+Kari [wanted]: party for barb
+Cyberlahko cast(s): 'riljya' (Personal force field)
+Cyberlahko surrounds himself with a bubble of force.
+Raise dead: 4
+Raise dead: 2 (greater haste)
+Cyberlahko [party]: -=> personal force field (on) <=-
+hp 760/773 (+17) | sp 536/1026 (+91) | ep 348/337 ()
+Raise dead: 1
+Spider Queen smiles upon you and helps you control the demon.
+Info: Jenming recovers from link death.
+Elero cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Elero's spell heals you. You feel much better.
+hp 766/773 (+6) | sp 530/1026 (-6) | ep 348/337 ()
+You are done with the chant.
+You invoke the powers of ancient gods and cast(s): 'vokinsalak elfirtluassa' (Raise dead)
+You raise Dupre from the dead.
+The corpse starts to move.
+You succeed.
+hp 766/773 () | sp 305/1026 (-225) | ep 348/337 ()
+Saapas [wanted]: summon
+Bloodhunter starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 17m 59s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1495(1699)   43(  43) 421(420) |  98 |          644 |
+| 1.2   Kyo           ldr 1781(2039)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Nuane         fol  766( 773)  305(1026) 348(337) | 100 |          653 |
+| 2.1   Bloodhunter   fol  942( 942) 1038(1164) 422(410) |  93 |          624 |
+| 2.2   Elero         fol  510( 539)  199(1224) 253(235) |  94 |          628 |
+| 2.3   Cyberlahko    fol  480( 485)  905(1556) 291(296) |  82 |          578 |
+| 3.1   Akvavitix     fol  513( 523) 1125(1266) 223(224) |  97 |          641 |
+| 3.2   Heidel        fol  349( 466)  359( 975) 300(300) |  80 |          570 |
+| ?.?   Dupre         mbr  101(1609)   29(  26) 352(386) |  75 |          548 |
+`-----------------------------------------------------------------------------'
+[23:43:36] hp 766/773 | sp 305/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+You gained 55 xp.
+You feel infernal energies flowing to your body from your heart.
+Elero starts concentrating on a new spell.
+[party]: Elero true heals dupre
+Info: Jerkkis recovers from link death.
+holz_marks
+Your Kerbholz has the following enemies marks:
+1   Sable Bladetree, lord high ranger                          #1
+2   Jane, the Goddess                                          #1
+3   Moratar Cain the diabolic Archlich is the Lord of Strife   #1
+4   Moratar Cain the diabolic Archlich, LORD of the Necropoli  #1
+5   Moratar Cain the diabolic Archlich, LORD of the Dead       #1
+6   a gargantuan slime-lizard sits here with bulbous belly, b  #1
+7   Baal-Naygash                                               #2
+8   Inra the valheru god (unholy)                              #1
+9   a beautiful and tall woman with hair the color of pale go  #1
+10  Lord Soth the Death Knight                                 #2
+11  Henry Amberley, defender of the Amberleys                  #2
+12  Lear Rotth, the undead lord superior, infuriated beyond c  #1
+13  Yaboz Zobay, the ancient Maze Master                       #1
+14  amazon princess Tigra is looking mightier than ever        #1
+15  Shade of Mithrandir the Druid GuildMaster                  #3
+16  Lord Foul sits upon his throne                             #3
+17  Merelix the white druid                                    #2
+18  the black reaver is here searching for his prey            #1
+19  Mokele Membee, the last dinosaur                           #1
+20  a tall man dressed in a black robe with a hood             #1
+21  Kech Lektar the EVIL necromancer is controlling undead     #4
+22  The man-eating leopard from Rudraprayag                    #1
+23  a high priestess of Esachen, protector of stability        #1
+24  Kitiara the Dragon highlord                                #5
+25  Akira the aged Spirit King of Kara-Tur                     #2
+26  a black king seeking to rule the world.                    #2
+27  a man clad in black silk smiling at you in arrogant manne  #1
+28  A towering demon, swathed in black                         #5
+29  an undead abomination                                      #1
+30  Listar the Forgetful, sparks crackling about his robe      #3
+31  Lerethin, guardian of the elemental dimensions             #3
+32  Saelli, the false lord of the underworld                   #2
+33  The mother of all mushrooms                                #1
+34  Fazid, the chief of mages                                  #7
+35  a gorgeous looking woman clad in shadows                   #1
+36  house-sized blob of translucent yellow-green goo           #1
+37  Sharon the Healer stands here looking beautiful            #1
+38  a rare and HUGE white buffalo                              #1
+39  a large dog called 'Rakki'                                 #4
+40  Nuane the Leprechaun :D                                    #1
+41  Bloodlust, the self-proclaimed Giant-kin King              #62
+42  Nasty multicolored demon                                   #5
+43  A Magic Mouth, a grotesque exemplification of an opulent   #1
+44  0                                                          #1
+[23:43:39] hp 766/773 | sp 305/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Elero reports: Hp: 510 (539) Sp: 199 (1224) Ep: 253 (235).
+Elero reports: Hp: 510 (539) Sp: 199 (1224) Ep: 253 (235).
+Bloodhunter cast(s): 'judicandus ignius' (Cure serious wounds)
+Bloodhunter casts his spell at Dupre.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 18m  5s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1530(1699)   43(  43) 421(420) |  98 |          644 |
+| 1.2   Kyo           ldr 1781(2039)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Nuane         fol  766( 773)  305(1026) 348(337) | 100 |          653 |
+| 2.1   Bloodhunter   fol  942( 942) 1007(1164) 422(410) |  93 |          624 |
+| 2.2   Elero         fol  510( 539)  199(1224) 253(235) |  94 |          628 |
+| 2.3   Cyberlahko    fol  480( 485)  905(1556) 291(296) |  82 |          578 |
+| 3.1   Akvavitix     fol  505( 523) 1117(1266) 219(224) |  97 |          641 |
+| 3.2   Heidel        fol  349( 466)  359( 975) 300(300) |  80 |          570 |
+| ?.?   Dupre         mbr  226(1609)   26(  26) 358(386) |  75 |          548 |
+`-----------------------------------------------------------------------------'
+[23:43:42] hp 766/773 | sp 305/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Elero cast(s): 'judicandus zapracus' (True heal)
+Elero casts his spell at Dupre.
+*Akvavitix ticks 138sps [30s].
+Heidel starts concentrating on a new spell.
+Cyberlahko starts concentrating on a new spell.
+Cyberlahko [party]: 400 sps -> elero
+Bloodhunter cast(s): 'judicandus ignius' (Cure serious wounds)
+Bloodhunter casts his spell at Dupre.
+[party]: Elero true heals dupre
+Heidel sings 'Green skins, white skins, black skins, purple skins. Big minds,
+ small minds, dumb minds, silly minds. Can you see through yourself, I care
+ not, for I can. I can see what you wear and what you bear, disguised or not,
+ you're a book for me to read.'
+Heidel's singing echoes inside your head!
+Bloodhunter starts concentrating on a new spell.
+Cyberlahko spreads his fingers and whispers 'enfuego delyo' (Replenish ally)
+Cyberlahko forms an energy link with Elero by putting his hands on his head.
+Cyberlahko starts concentrating on a new skill.
+Spider Queen smiles upon you and helps you control the demon.
+ps
+Bloodhunter cast(s): 'judicandus ignius' (Cure serious wounds)
+Bloodhunter casts his spell at Dupre.
+hp 766/773 () | sp 286/1026 (-19) | ep 348/337 ()
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 18m 19s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1530(1699)   43(  43) 421(420) |  98 |          644 |
+| 1.2   Kyo           ldr 1781(2039)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Nuane         fol  766( 773)  286(1026) 348(337) | 100 |          653 |
+| 2.1   Bloodhunter   fol  942( 942) 1077(1164) 422(410) |  93 |          624 |
+| 2.2   Elero         fol  518( 539)  412(1224) 253(235) |  94 |          628 |
+| 2.3   Cyberlahko    fol  480( 485)  467(1556) 291(296) |  82 |          578 |
+| 3.1   Akvavitix     fol  504( 523) 1255(1266) 223(224) |  97 |          641 |
+| 3.2   Heidel        fol  357( 466)  435( 975) 300(300) |  80 |          570 |
+| ?.?   Dupre         mbr 1106(1609)   26(  26) 358(386) |  75 |          548 |
+`-----------------------------------------------------------------------------'
+[23:43:56] hp 766/773 | sp 286/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Bloodhunter starts concentrating on a new spell.
+la dupre
+Dupre Muumi the Cromagnon < ecchi bunnies >.
+Friendly and HUGE Giant.
+She has a scar on her nose, left hand, right hand, forehead, left cheek and
+ right cheek.
+She is slightly hurt. (65-80% hps)
+Her eyes burn red with hatred and rage.
+She is surrounded by a protective circle of blue flames.
+        Dupre's equipment:
+Hand: gleaming steel gauntlet (0/100) (glowing)
+Hand: A Paw from the Maneater of Rudraprayag (glowing) <red glow>
+Head: white helmet of the defender (glowing) <orange glow>
+Neck: a great emerald hanging from a dragon skin chain (glowing)
+Amulet: a death amulet (glowing) <orange glow>
+Cloak: short dull black cloak (glowing) <yellow glow>
+Torso: a striking liquid metal shirt (fashion) labeled as d2 (glowing) <orange glow>
+Both arms: Frosty armbands of Icequeen Draqell (glowing) <orange glow>
+Bracelet: a twined amber bracelet (destructive aura) (glowing)
+Bracelet: The Pelt from the Maneater of Rudraprayag labeled as <[Kharadus]> (glowing) <red glow>
+Wielded in left hand: shield of Ages (glowing) <orange glow>
+Wielded in right hand: a full shield clad with golden goatskin (glowing) <orange glow>
+Finger: Ring of resistance [Made by: Matriam] labeled as 4physs 1spr (powerful) (glowing)
+Finger: Ring of resistance [Made by: Matriam] labeled as 4physs 1spr (powerful) (glowing)
+Belt: Crimson Brigades's weapon belt
+Belt: a fragile blue belt of unholy resistance (glowing) <green glow>
+Both legs: an exposing kilt (glowing)
+Both feet: a pair of supple basilisk sandals labeled as Dupre (glowing)
+On back: a huge sledgehammer called 'Hienosäätöleka'
+Kakkonen: Oluenlammitin <lammin hehku>
+In order: One-way ticket to Japan
+Behind: The Shadow bound with sunrays < black glow >
+Error: Insufficient memory
+Magic8ball: It's a good day to die!
+Aura: Burning Flames Infernal, Proclaimer of Dawn Eternal
+Necklace: a shrunken skull necklace decorated with wooden beads (glowing)
+[23:43:57] hp 766/773 | sp 286/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Grimpold (ewok+): muistaaks joku mitka mosat destas pyramidis?:)
+la kyo
+Kyo Sayo the Dwarf (ecchi) < ecchi bunnies >.
+
+      In the Darkness most infernal, lies the kiss ever eternal..
+
+She has a scar on her left leg, nose, left arm, right arm, left hand,
+ forehead, left cheek and right cheek.
+She is in a good shape. (80-90% hps)
+Her eyes burn red with hatred and rage.
+She is surrounded by a protective circle of blue flames.
+        Kyo's equipment:
+Head: a three-pronged crown (glowing) <yellow glow>
+Neck: a great emerald hanging from a dragon skin chain (glowing)
+Amulet: a death amulet (glowing) <purple glow>
+Cloak: Black Robes of Protection (glowing)
+Torso: Tom's Blue Coat (glowing) <orange glow>
+Both arms: Frosty armbands of Icequeen Draqell labeled as omaton (glowing) <red glow>
+Both hands: A pair of smooth gloves with seven embroidered circles (glowing)
+Bracelet: bracelet made of yellow crystal (glowing) <red glow>
+Bracelet: bracelet made of red crystal (glowing)
+Wielded in left hand: shield of Ages labeled as <phys/mana res> (glowing) <yellow glow>
+Wielded in right hand: Shield named 'Reflection of Goodness' (glowing) <orange glow>
+Finger: Green metal ring of Na'zier [Made by: Weilian] labeled as +3physs ress +1 sp reg (extra powerful) (glowing)
+Finger: Ring of Resistance [Made by: Mape] labeled as 4ps2cha-4dmg (extra powerful) (glowing)
+Belt: a fragile blue belt of unholy resistance (glowing) <green glow>
+Belt: Crimson Brigades's weapon belt
+Both legs: Bloody leggings (glowing) <red glow>
+Both feet: A pair of dragonscale boots (lost but found) (glowing) <blue glow>
+Shoulder: H0ly PartyM00se!
+Forehead: Glittering headband of Orion
+In order: One-way ticket to Japan
+Aura: Burning Flames Infernal, Proclaimer of Dawn Eternal
+Magic8ball: It's a good day to die!
+Necklace: a shrunken skull necklace
+On belt: wire brush
+On shoulder: Ifurita the black raven
+[23:43:58] hp 766/773 | sp 286/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+p say Full hp.
+You feel fully healed.
+hp 773/773 (+7) | sp 440/1026 (+154) | ep 348/337 ()
+Nuane (party): Full hp.
+[23:43:59] hp 773/773 | sp 440/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Dupre [party]: < War Ensemble DOWN > [10:48]
+la shadizar
+Shadizar Kallioniemi the Cromagnon riistanvartija gulguthra < ecchi bunnies >.
+
+
+                näinhän se homma etenee.
+
+He has a scar on his forehead
+He is in excellent shape. (90-100% hps)
+His eyes burn red with hatred and rage.
+He is surrounded by a protective circle of blue flames.
+        Shadizar's equipment:
+Wrist: white bracelet with gold runes
+Head: black horned helm with deep cracks (glowing) <blue glow>
+Neck: Slime necklace (glowing)
+Cloak: Black Robes of Protection (glowing)
+Torso: a striking liquid metal shirt (fashion) labeled as d (glowing) <purple glow>
+Bracelet: bracelet made of yellow crystal (glowing)
+Bracelet: bracelet made of yellow crystal (glowing) <blue glow>
+Wielded in right hand: shield of Ages (glowing)
+Wielded in left hand: The Legendary Shield known as 'The Fire and the Fury' (glowing) <red glow>
+Finger: Ring of resistance [Made by: Matriam] labeled as 4physs 1avoid (extra powerful) (glowing)
+Finger: Ring of resistance [Made by: Matriam] labeled as 4physs 1str (extra powerful) (glowing)
+Belt: a fragile blue belt of unholy resistance (glowing)
+Belt: Crimson Brigades's weapon belt
+Both legs: a pair of lambskin leggings labeled as <Shadizar> (glowing) <red glow>
+Both feet: Kawasa's legendary shadow shoes (lost its aura) (glowing)
+Forehead: Glittering headband of Orion
+Nivuset: Mahtava Musta Meisseli
+Error: Insufficient memory
+On shoulder: Jeesus Kristus the pink roc
+[23:44:01] hp 773/773 | sp 440/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Info: Ilidor goes link dead.
+Bloodhunter cast(s): 'judicandus ignius' (Cure serious wounds)
+Bloodhunter falters and loses his spell.
+Info: Bohemian left the game.
+l
+There are no light sources here, but you can still see.
+This is the central section of the elemental complex's main hall.  Young mages
+occasionally gather here to practice their spells without having to worry
+about damaging their master's books.  A large dome dominates overhead and has
+apparently been placed here as a way to vent any by-products from the many
+dangerous spells cast in this hall.
+Outside, above you is a still, clear night sky.
+Obvious exits are: n, s, e and w.
+iron aklys
+a small pile of silver coins
+10 bronze coins
+a big pile of mowgles coins
+a steel dagger
+15 copper coins
+a small pile of tin coins
+An empty alchemist's flask
+a pile of zinc coins
+an iron tomahawk
+five slices of hard, brown bread
+five big white breads
+a big wooden mug
+two chunks of ham
+four hot pieces of chicken
+four mugs (empty)
+three small barrels of pixie-ale
+five rolls of bread known as 'adventurer's ally'
+many slender snow-white leaves
+Dupre Muumi the Cromagnon < ecchi bunnies >
+Elero the grey Elf >--(¯`v´¯)---» < ecchi bunnies >
+Heidel the esteemed Brownie is headless (undead) < ecchi bunnies >
+Cyberlahko Lahkottaja the grey Elf < ecchi bunnies >
+Akvavitix Ihq the grey Elf 'Did you grab my ass?' < ecchi bunnies >
+Bloodhunter Naug-orl the dark Drow harmittava otus < ecchi bunnies >
+Shadizar Kallioniemi the Cromagnon riistanvartija gulguthra < ecchi bunnies >
+Kyo Sayo the Dwarf (ecchi) < ecchi bunnies >
+[23:44:03] hp 773/773 | sp 440/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 18m 27s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1530(1699)   43(  43) 421(420) |  98 |          644 |
+| 1.2   Kyo           ldr 1781(2039)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Nuane         fol  773( 773)  440(1026) 348(337) | 100 |          653 |
+| 2.1   Bloodhunter   fol  942( 942) 1076(1164) 422(410) |  93 |          624 |
+| 2.2   Elero         fol  518( 539)  412(1224) 253(235) |  94 |          628 |
+| 2.3   Cyberlahko    fol  471( 485)  583(1556) 292(296) |  82 |          578 |
+| 3.1   Akvavitix     fol  504( 523) 1255(1266) 223(224) |  97 |          641 |
+| 3.2   Heidel        fol  351( 466)  429( 975) 297(300) |  80 |          570 |
+| ?.?   Dupre         mbr 1106(1310)   26(  26) 358(363) |  75 |          548 |
+`-----------------------------------------------------------------------------'
+[23:44:04] hp 773/773 | sp 440/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Bloodhunter starts concentrating on a new spell.
+ceremony
+You start concentrating on the skill.
+[23:44:05] hp 773/773 | sp 440/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Dupre starts following the leader.
+Elero starts concentrating on a new spell.
+ewok last
+Last 20 messages from ewok+ channel:
+[12:41]:Descad {ewok+}: puptah?
+[12:41]:Descad {ewok+}: miksei gildronki?
+[12:42]:Descad {ewok+}: lassenoids?
+[12:42]:{ewok+}: Descad pokes Cyberlahko in the ribs.
+[12:42]:Cyberlahko [ewok+]: käyn varmaa ton medusan tappaan capulalle
+[12:44]:Pehtoori (ewok+): härrrreguuuuud mitä suhvelia
+[12:44]:Pehtoori (ewok+): eikö enään pysty ees jurrissa hukkaa ekui bootteihi :/
+[12:44]:Jokke (ewok+): inventory menee
+[12:44]:Cyberlahko [ewok+]: saa sentää swapin :)
+[19:59]:Aegis {ewok+}: pimpelipom. sinne tais ruksahtaa kovo
+[19:59]:Aegis {ewok+}: sur sur sur sur ja ruks ruks. sit loppu softat toimimasta
+[20:00]:Aegis {ewok+}: voiko tuollai kovolle tulla vaa vahasen bad sectoreit ja toimis muutoin muka nain moitteettomasti
+[20:01]:Grimpold (ewok+): voi
+[20:01]:Grimpold (ewok+): tai ainakin vanhoil kovoil pysty olemaan
+[20:01]:Aegis {ewok+}: njää. ei taa kai o ku 3v vanha
+[20:01]:Grimpold (ewok+): ja riippuu hieman mis kohas ne bad sectorit o
+[20:02]:Aegis {ewok+}: ne on siina vasemmalla. 3 mikrometriä kutos sektorista.
+[20:02]:Aegis {ewok+}: haha! oliko hyva juttu! HAH!
+[23:40]:Hannah [ewok+]: lastereita jos vääntäs jotain?
+[23:43]:Grimpold (ewok+): muistaaks joku mitka mosat destas pyramidis?:)
+[23:44:07] hp 773/773 | sp 440/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Kozma (ewok+): ei mitkaa?
+Akvavitix starts concentrating on a new spell.
+Akvavitix [party]: replenishing elero with 400 sps
+Bloodhunter cast(s): 'judicandus ignius' (Cure serious wounds)
+Bloodhunter casts his spell at Dupre.
+Dupre [party]: swap
+Jenming [wanted]: party for reincing channeller
+Info: Kiba left the game.
+ewok ei kai mikää?
+Info: Ilidor recovers from link death.
+Nuane (ewok+): ei kai mikää?
+[23:44:10] hp 773/773 | sp 440/1026 | ep 348/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Cyberlahko performs a solemn ceremony to please Aveallis.
+Bloodhunter cast(s): 'judicandus ignius' (Cure serious wounds)
+Bloodhunter casts his spell at Dupre.
+Cyberlahko [party]: -=> placet <=-
+You are prepared to do the skill.
+You perform the ceremony.
+hp 773/773 () | sp 440/1026 () | ep 347/337 (-1)
+*Akvavitix ticks 19sps [29s].
+Overlord [wanted]: party for blaster or tank and tarm
+Info: Susette left the game.
+Elero cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Elero starts concentrating on a new spell.
+Cyberlahko [party]: -=> nuane vähä turha edes <=-
+Info: Yiddora left the game.
+Grimpold (ewok+): ku mun muistaakseni taal yks mosa destas ainaki
+Akvavitix spreads his fingers and whispers 'enfuego delyo' (Replenish ally)
+Akvavitix forms an energy link with Elero by putting his hands on his head.
+Kyo swaps the places of you and Dupre.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 18m 44s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1699(1699)   43(  43) 421(420) |  98 |          644 |
+| 1.2   Kyo           ldr 1988(2039)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Dupre         fol 1310(1310)   26(  26) 363(363) |  75 |          548 |
+| 2.1   Bloodhunter   fol  942( 942) 1164(1164) 422(410) |  93 |          624 |
+| 2.2   Elero         fol  539( 539)  713(1224) 253(235) |  94 |          628 |
+| 2.3   Cyberlahko    fol  485( 485)  583(1556) 291(296) |  82 |          578 |
+| 3.1   Akvavitix     fol  523( 523)  828(1266) 224(224) |  97 |          641 |
+| 3.2   Heidel        fol  466( 466)  588( 975) 300(300) |  80 |          570 |
+| 3.3   Nuane         fol  773( 773)  440(1026) 347(337) | 100 |          653 |
+`-----------------------------------------------------------------------------'
+[23:44:21] hp 773/773 | sp 440/1026 | ep 347/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Info: Rhoads left the game.
+Info: Susette enters the game.
+Elero cast(s): 'judicandus puorgo mangenic' (Major party heal)
+hp 773/773 () | sp 616/1026 (+176) | ep 347/337 ()
+Kyo swaps the places of you and Cyberlahko.
+Kyo [party]: War ensemble expires
+Info: Yiddora enters the game.
+Elero starts concentrating on a new spell.
+[party]: Elero Flexes dupre
+Dupre [party]: < Aura of Hate DOWN >
+Heidel starts concentrating on a new spell.
+Heidel removes Girdle of Ethereal Power labeled as <*>, the blue bracelets of magic, sparkling ruby ring, grey crystal ring labeled as <*>, a pair of blue radium boots, Red Glove of the Healer, Red Glove of the Healer, an ancient staff of the necromancer labeled as <*> and a wand of magic labeled as <*>.
+Heidel wears Girdle of Feral Power (glowing) <orange glow>, Bracelet of Despair labeled as <*> (glowing) <yellow glow>, Bracelet of Despair labeled as <*> (glowing) <yellow glow>, the opal ring of Oystria (glowing) <red glow>, the opal ring of Oystria (glowing) <red glow>, great yellow boots labeled as <*> (glowing) <yellow glow>, Flute of the Slave's sigh (glowing) <yellow glow>, Flute of the Slave's sigh (glowing) <yellow glow>, the staff of olympus labeled as <*> (glowing) <yellow glow> and the staff of olympus labeled as <*> (glowing) <yellow glow>.
+Hannah [ewok+]: mielikuvitus
+aoh dupre
+[23:44:29] hp 773/773 | sp 616/1026 | ep 347/337 | exp 40046 | $ 10/251 | wimpy: off
+
+You have an unusual feeling as you cast the spell.
+You start chanting.
+[23:44:29] hp 773/773 | sp 616/1026 | ep 347/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Nuane (party): Aura of hate -> dupre
+[23:44:30] hp 773/773 | sp 616/1026 | ep 347/337 | exp 40046 | $ 10/251 | wimpy: off
+
+Kyo [party]: Prots: Flex: [1:45] Hw: [2:42] Fsh: [26:23] Melody: [12:13] Aoa: [5:35] Uns: [26:59]
+Aura of hate: 8
+Aura of hate: 7 (haste)
+Aura of hate: 6
+Heidel sings: 'War is TOTAL massacre, sport the war, war SUPPOORT!!!' (War ensemble)
+Dupre is full of battle rage!
+Elero is full of battle rage!
+Heidel is full of battle rage!
+Cyberlahko is full of battle rage!
+Akvavitix is full of battle rage!
+Bloodhunter is full of battle rage!
+Shadizar is full of battle rage!
+You feel full of battle rage! Victory is CERTAIN!
+Kyo is full of battle rage!
+Aura of hate: 5
+Dupre starts concentrating on a new skill.
+Shadizar [party]: WAREZ up
+Dupre [party]: ( War Ensemble UP ) {Cast by Heidel}
+Cyberlahko [party]: -=> war ensemble (on) <=-
+Kyo [party]: War ensemble active
+Akvavitix [party]: War Ensemble Activated.
+Heidel starts concentrating on a new spell.
+Cyberlahko bops Shadizar on the nose.
+Shadizar [party]: SPELLS - aoa(11:32) fsh(26:22) hw(10:56) warez(0:02)
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 19m  0s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1699(1972)   43(  43) 421(423) |  98 |          644 |
+| 1.2   Kyo           ldr 1770(2025)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Dupre         fol 1213(1449)   26(  26) 363(374) |  75 |          548 |
+| 2.1   Bloodhunter   fol  942(1231) 1164(1164) 422(434) |  93 |          624 |
+| 2.2   Elero         fol  539( 875)  624(1224) 253(261) |  94 |          628 |
+| 2.3   Nuane         fol  773( 990)  616(1026) 347(349) | 100 |          653 |
+| 3.1   Akvavitix     fol  523( 706)  828(1266) 224(237) |  97 |          641 |
+| 3.2   Heidel        fol  459( 699)  385( 975) 297(374) |  80 |          570 |
+| 3.3   Cyberlahko    fol  477( 731)  715(1556) 292(312) |  82 |          578 |
+`-----------------------------------------------------------------------------'
+[23:44:37] hp 773/990 | sp 616/1026 | ep 347/349 | exp 40046 | $ 10/251 | wimpy: off
+
+Info: Wallis goes link dead.
+Elero cast(s): '^ !)' (Flex shield)
+Elero's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+You sense Dupre's body being covered by a flex shield.
+Aura of hate: 4
+Aura of hate: 3 (haste)
+Dupre [party]: ( Flex Shield UP ) {Cast by Elero}
+Elero [party]: miksei lähe kuolema statti prkl
+Elero starts concentrating on a new spell.
+[party]: Elero Flexes shadizar
+Info: Wallis recovers from link death.
+Heidel sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!' (Campfire tune)
+Heidel's song heals some of your wounds.
+hp 872/990 (+99) | sp 616/1026 () | ep 347/349 ()
+Aura of hate: 2
+Aura of hate: 1 (haste)
+Heidel starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 19m  5s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1864(1972)   43(  43) 423(423) |  98 |          644 |
+| 1.2   Kyo           ldr 1890(2025)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Dupre         fol 1378(1449)   26(  26) 372(374) |  75 |          548 |
+| 2.1   Bloodhunter   fol 1062(1231) 1164(1164) 434(434) |  93 |          624 |
+| 2.2   Elero         fol  657( 875)  486(1224) 253(261) |  94 |          628 |
+| 2.3   Nuane         fol  872( 990)  616(1026) 347(349) | 100 |          653 |
+| 3.1   Akvavitix     fol  638( 706)  823(1266) 222(237) |  97 |          641 |
+| 3.2   Heidel        fol  579( 699)  439( 975) 307(374) |  80 |          570 |
+| 3.3   Cyberlahko    fol  605( 731)  715(1556) 292(312) |  82 |          578 |
+`-----------------------------------------------------------------------------'
+[23:44:42] hp 872/990 | sp 616/1026 | ep 347/349 | exp 40046 | $ 10/251 | wimpy: off
+la kyo
+
+Kyo Sayo the Dwarf (ecchi) < ecchi bunnies >.
+
+      In the Darkness most infernal, lies the kiss ever eternal..
+
+She has a scar on her left leg, nose, left arm, right arm, left hand,
+ forehead, left cheek and right cheek.
+She is in excellent shape. (90-100% hps)
+Her eyes burn red with hatred and rage.
+She is surrounded by a protective circle of blue flames.
+        Kyo's equipment:
+Head: a three-pronged crown (glowing) <yellow glow>
+Neck: a great emerald hanging from a dragon skin chain (glowing)
+Amulet: a death amulet (glowing) <purple glow>
+Cloak: Black Robes of Protection (glowing)
+Torso: Tom's Blue Coat (glowing) <orange glow>
+Both arms: Frosty armbands of Icequeen Draqell labeled as omaton (glowing) <red glow>
+Both hands: A pair of smooth gloves with seven embroidered circles (glowing)
+Bracelet: bracelet made of yellow crystal (glowing) <red glow>
+Bracelet: bracelet made of red crystal (glowing)
+Wielded in left hand: shield of Ages labeled as <phys/mana res> (glowing) <yellow glow>
+Wielded in right hand: Shield named 'Reflection of Goodness' (glowing) <orange glow>
+Finger: Green metal ring of Na'zier [Made by: Weilian] labeled as +3physs ress +1 sp reg (extra powerful) (glowing)
+Finger: Ring of Resistance [Made by: Mape] labeled as 4ps2cha-4dmg (extra powerful) (glowing)
+Belt: a fragile blue belt of unholy resistance (glowing) <green glow>
+Belt: Crimson Brigades's weapon belt
+Both legs: Bloody leggings (glowing) <red glow>
+Both feet: A pair of dragonscale boots (lost but found) (glowing) <blue glow>
+Shoulder: H0ly PartyM00se!
+Forehead: Glittering headband of Orion
+In order: One-way ticket to Japan
+Aura: Burning Flames Infernal, Proclaimer of Dawn Eternal
+Magic8ball: It's a good day to die!
+Necklace: a shrunken skull necklace
+On belt: wire brush
+On shoulder: Ifurita the black raven
+[23:44:43] hp 872/990 | sp 616/1026 | ep 347/349 | exp 40046 | $ 10/251 | wimpy: off
+
+You are done with the chant.
+You cast(s): 'Feel your anger and strike with all your hatred.
+ Use your aggressive feelings and let the hate flow through you. '
+You cast the spell successfully.
+hp 872/990 () | sp 530/1026 (-86) | ep 347/349 ()
+Shadizar looks at himself.
+*Akvavitix ticks 167sps [30s].
+Shadizar [party]: AOH up
+la shadizar
+Shadizar Kallioniemi the Cromagnon riistanvartija gulguthra < ecchi bunnies >.
+
+
+                näinhän se homma etenee.
+
+He has a scar on his forehead
+He is in excellent shape. (90-100% hps)
+His eyes burn red with hatred and rage.
+He is surrounded by a protective circle of blue flames.
+        Shadizar's equipment:
+Wrist: white bracelet with gold runes
+Head: black horned helm with deep cracks (glowing) <blue glow>
+Neck: Slime necklace (glowing)
+Cloak: Black Robes of Protection (glowing)
+Torso: a striking liquid metal shirt (fashion) labeled as d (glowing) <purple glow>
+Bracelet: bracelet made of yellow crystal (glowing)
+Bracelet: bracelet made of yellow crystal (glowing) <blue glow>
+Wielded in right hand: shield of Ages (glowing)
+Wielded in left hand: The Legendary Shield known as 'The Fire and the Fury' (glowing) <red glow>
+Finger: Ring of resistance [Made by: Matriam] labeled as 4physs 1avoid (extra powerful) (glowing)
+Finger: Ring of resistance [Made by: Matriam] labeled as 4physs 1str (extra powerful) (glowing)
+Belt: a fragile blue belt of unholy resistance (glowing)
+Belt: Crimson Brigades's weapon belt
+Both legs: a pair of lambskin leggings labeled as <Shadizar> (glowing) <red glow>
+Both feet: Kawasa's legendary shadow shoes (lost its aura) (glowing)
+Forehead: Glittering headband of Orion
+Nivuset: Mahtava Musta Meisseli
+Error: Insufficient memory
+On shoulder: Jeesus Kristus the pink roc
+[23:44:45] hp 872/990 | sp 530/1026 | ep 347/349 | exp 40046 | $ 10/251 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 19m  8s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1864(1972)   43(  43) 423(423) |  98 |          644 |
+| 1.2   Kyo           ldr 1890(2025)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Dupre         fol 1378(1643)   26(  26) 372(382) |  75 |          548 |
+| 2.1   Bloodhunter   fol 1062(1231) 1164(1164) 434(434) |  93 |          624 |
+| 2.2   Elero         fol  657( 875)  486(1224) 253(261) |  94 |          628 |
+| 2.3   Nuane         fol  872( 990)  530(1026) 347(349) | 100 |          653 |
+| 3.1   Akvavitix     fol  639( 706)  990(1266) 227(237) |  97 |          641 |
+| 3.2   Heidel        fol  579( 699)  439( 975) 307(374) |  80 |          570 |
+| 3.3   Cyberlahko    fol  605( 731)  715(1556) 292(312) |  82 |          578 |
+`-----------------------------------------------------------------------------'
+[23:44:45] hp 872/990 | sp 530/1026 | ep 347/349 | exp 40046 | $ 10/251 | wimpy: off
+ceremony
+
+Heidel sings: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!' (Campfire tune)
+Heidel's song heals some of your wounds.
+hp 970/990 (+98) | sp 530/1026 () | ep 347/349 ()
+You start concentrating on the skill.
+[23:44:47] hp 970/990 | sp 530/1026 | ep 347/349 | exp 40046 | $ 10/251 | wimpy: off
+
+Akvavitix [party]: replenishing elero with 400 sps
+Akvavitix [party]: Concealed
+Akvavitix takes a deep breath.
+Elero [party]: saaatana
+Info: Caped left the game.
+Elurin [wanted]: exp for tank
+Elero [party]: mis mun viagrat
+Elero cast(s): '^ !)' (Flex shield)
+Elero's druidstaff is surrounded by a sudden cloudburst, and you can see him
+ glorying in sheer power.
+You sense Shadizar's body being covered by a flex shield.
+p say Full hp.
+You feel fully healed.
+hp 990/990 (+20) | sp 715/1026 (+185) | ep 349/349 (+2)
+Nuane (party): Full hp.
+[23:44:53] hp 990/990 | sp 715/1026 | ep 349/349 | exp 40046 | $ 10/251 | wimpy: off
+
+Shadizar [party]: FLEX up
+Elero starts concentrating on a new spell.
+You are prepared to do the skill.
+You perform the ceremony.
+hp 990/990 () | sp 715/1026 () | ep 348/349 (-1)
+Info: Thoreau goes link dead.
+Megaton [wanted]: heal all
+Heidel removes Girdle of Feral Power, Bracelet of Despair labeled as <*>, Bracelet of Despair labeled as <*>, the opal ring of Oystria, the opal ring of Oystria, great yellow boots labeled as <*>, Flute of the Slave's sigh, Flute of the Slave's sigh, the staff of olympus labeled as <*> and the staff of olympus labeled as <*>.
+Heidel shivers from the cold.
+Heidel wears Girdle of Ethereal Power labeled as <*> (glowing) <orange glow>, the blue bracelets of magic (glowing) <orange glow>, sparkling ruby ring (glowing), grey crystal ring labeled as <*> (glowing), a pair of blue radium boots (glowing) <orange glow>, Red Glove of the Healer (glowing) <orange glow>, Red Glove of the Healer (glowing) <orange glow>, an ancient staff of the necromancer labeled as <*> (glowing) <yellow glow> and a wand of magic labeled as <*> (glowing) <orange glow>.
+Kyo's demon  feels easier to control than usual.
+Kyo's spider demon draws power from you.
+Elero cast(s): 'judicandus puorgo mangenic' (Major party heal)
+hp 990/990 () | sp 638/1026 (-77) | ep 348/349 ()
+Akvavitix spreads his fingers and whispers 'enfuego delyo' (Replenish ally)
+Akvavitix forms an energy link with Elero by putting his hands on his head.
+Dupre jumps up and begins dancing, but she stumbles and falls down on her ass.
+What an embarresement.
+Elero [party]: HAVUJA PERKELE
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 19m 26s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1972(1972)   43(  43) 423(423) |  98 |          644 |
+| 1.2   Kyo           ldr 2021(2021)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Dupre         fol 1599(1643)   26(  26) 372(382) |  75 |          548 |
+| 2.1   Bloodhunter   fol 1231(1231) 1164(1164) 434(434) |  93 |          624 |
+| 2.2   Elero         fol  875( 875)  642(1224) 259(261) |  94 |          628 |
+| 2.3   Nuane         fol  990( 990)  638(1026) 348(349) | 100 |          653 |
+| 3.1   Akvavitix     fol  706( 706)  552(1266) 227(237) |  97 |          641 |
+| 3.2   Heidel        fol  692( 699)  361( 975) 304(317) |  80 |          570 |
+| 3.3   Cyberlahko    fol  731( 731)  862(1556) 296(312) |  82 |          578 |
+`-----------------------------------------------------------------------------'
+[23:45:03] hp 990/990 | sp 638/1026 | ep 348/349 | exp 40046 | $ 10/251 | wimpy: off
+la spark
+
+This beautiful weapon looks like a flame that has taken the form of a dagger.
+That might be exactly what it is, since it seems like inside the smooth
+glass-like surface solid, greedy fire is dancing.
+It is surrounded by a red glow.
+It has a curse of channeling upon it.
+This weapon is in great condition.
+It looks very light weight.
+[23:45:04] hp 990/990 | sp 638/1026 | ep 348/349 | exp 40046 | $ 10/251 | wimpy: off
+c kyo
+
+You have an unusual feeling as you cast the spell.
+You start chanting.
+[23:45:06] hp 990/990 | sp 638/1026 | ep 348/349 | exp 40046 | $ 10/251 | wimpy: off
+
+Spider demon control: 1
+You feel infernal energies flowing to your body from your heart.
+You are done with the chant.
+You stand firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+You feed Kyo's spider demon's hunger with your ritual.
+hp 990/990 () | sp 611/1026 (-27) | ep 348/349 ()
+c nuane
+You start chanting.
+[23:45:09] hp 990/990 | sp 611/1026 | ep 348/349 | exp 40046 | $ 10/251 | wimpy: off
+
+Elero moans.
+Info: Banba recovers from link death.
+Spider demon control: 1
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: ecchi bunnies                (Members:  9) | Exp Tot:      5772 |
+| Created: Tue Sep 30 21:25:37 2003        ( 2h 19m 34s) | Exp/min:        41 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Shadizar      fol 1972(1972)   43(  43) 423(423) |  98 |          644 |
+| 1.2   Kyo           ldr 2021(2025)  104( 104) 448(448) |  74 |          886 |
+| 1.3   Dupre         fol 1643(1643)   26(  26) 382(382) |  75 |          548 |
+| 2.1   Bloodhunter   fol 1227(1227) 1037(1161) 434(434) |  93 |          624 |
+| 2.2   Elero         fol  875( 875)  642(1224) 259(261) |  94 |          628 |
+| 2.3   Nuane         fol  990( 990)  611(1026) 348(349) | 100 |          653 |
+| 3.1   Akvavitix     fol  699( 706)  545(1266) 224(237) |  97 |          641 |
+| 3.2   Heidel        fol  699( 699)  503( 975) 314(317) |  80 |          570 |
+| 3.3   Cyberlahko    fol  731( 731)  862(1556) 296(312) |  82 |          578 |
+`-----------------------------------------------------------------------------'
+[23:45:11] hp 990/990 | sp 611/1026 | ep 348/349 | exp 40046 | $ 10/251 | wimpy: off
+
+Dupre starts concentrating on a new skill.
+Kyo [party]: jokos redi
+You are done with the chant.
+You stand firmly and cast(s): 'infernalicus domus arachnid rex' (Spider demon control)
+You feed Nuane's spider demon's hunger with your ritual.
+hp 990/990 () | sp 578/1026 (-33) | ep 348/349 ()
+You feel like Manwe healed you a bit.
+ceremony
+*Akvavitix ticks 163sps [31s].
+You start concentrating on the skill.
+[23:45:14] hp 990/990 | sp 652/1026 | ep 349/349 | exp 40046 | $ 10/251 | wimpy: off
+
+Info: Dornier goes link dead.
+dam
+[23:45:16] hp 990/990 | sp 652/1026 | ep 349/349 | exp 40046 | $ 10/251 | wimpy: off
+
+You remove the collar, and the tightness around your neck is gone..
+You remove a magic cloak, a pair of blue radium boots, a torn leather muscle shirt labeled as (Naane), Red Glove of the Healer, Red Glove of the Healer labeled as (Naane), a collar made of black silk, an engraved cross amulet, the pikebone kanteel, a druid's crescent made of silver, A heavy black metal ring, A heavy black metal ring, Girdle of Ethereal Power, a battle-scarred shin guard and a battle-scarred shin guard.
+[23:45:16] hp 990/990 | sp 652/1026 | ep 349/349 | exp 40046 | $ 10/251 | wimpy: off
+
+Cyberlahko nogs noggingly.
+You wield spark, the claw of fire (glowing) <burning> <red glow> in your right hand.
+[23:45:16] hp 990/990 | sp 652/1026 | ep 349/349 | exp 40046 | $ 10/251 | wimpy: off
+
+You wield The staff of Lerethin (glowing) <red glow> in your left hand.
+[23:45:16] hp 990/990 | sp 652/1026 | ep 349/349 | exp 40046 | $ 10/251 | wimpy: off
+
+You wear Blue glove of master Conjurer (glowing) <red glow>, Blue glove of master Conjurer (glowing) <red glow>, The gleaming blue collar of Bengalore labeled as +wis (glowing) <red glow>, The Amberley Ankh (glowing), Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (strong) (glowing), Ring of Wisdom [Made by: Akvavitix] labeled as +6wis +1hpr (strong) (glowing), golden belt of Fair River-Daughter (glowing), Pulsing Leggings (glowing) <red glow>, Holy vest of Yak (glowing), a pair of black boots (glowing) <red glow> and Cape of Knowledge (glowing) <red glow>.
+** Cost for '@wear blue glove 1,blue glove 2,blue collar,ankh,ring of wisdom 1,ring of wisdom 2,golden belt,pulsing leggings,vest of yak,black boots,leather cape': Cost: utime:30 stime:0 ticks:119009 **
+[23:45:16] hp 990/990 | sp 652/1026 | ep 349/349 | exp 40046 | $ 10/251 | wimpy: off
+
+Akvavitix removes leggings of putrid flesh (undead), a white glove labeled as <|MAD|>, a white glove labeled as <|MAD|>, the Bracelets of Darkness, a sparkling breastplate, a golden necklace studded with huge diamonds labeled as <|ancient|>, a black hood labeled as <|MAD|>, a wand of magic, A heavy black metal ring, A heavy black metal ring, Slime cloak labeled as <|MAD|>, Boots of the Goddess, The Amulet of Truth labeled as <|ancient|>, Sacred Bracelets of Eternity, Girdle of Ethereal Power labeled as <|MAD/Spr|> and Shield of a Thousand Reflections labeled as <|MAD|>.
+Akvavitix wears gloves of Nimbleness (glowing) <orange glow>, A blue hat of wizardy labeled as <|MAD|> (glowing) <red glow>, an engraved cross amulet labeled as <|MAD|> (glowing) <yellow glow>, a black cloak (evil glow) labeled as <|MAD-AK|> (glowing) <yellow glow>, Ring of the Medusa labeled as <|MAD|> (glowing) <red glow>, Ring of the Medusa labeled as <|MAD|> (glowing) <red glow>, segmented titanium belt labeled as intti (glowing) <blue glow>, the Bracelets of Darkness (glowing) <red glow>, a little leather bag (glowing), a pair of black boots (glowing), Glass armbands labeled as <|MAD|> (glowing) <yellow glow>, moonstone leggings labeled as <|MAD|> (glowing) and a sparkling breastplate (glowing) <orange glow>.
+Akvavitix wields The staff of Lerethin labeled as <|MAD|> (glowing) <orange glow> in his right hand.
+Akvavitix wields The staff of Lerethin labeled as <|MAD|> (glowing) <orange glow> in his left hand.
+hp 960/960 (-30) | sp 652/1165 (+74) | ep 349/351 (+1)
+Heidel removes golden wristbands labeled as <*>, a magic cloak, a pair of blue radium boots, Red Glove of the Healer, Red Glove of the Healer, mask of a bearded human male labeled as <*> and a pair of dirty leggings labeled as <*>.
+Heidel wears Glass armbands labeled as <*> (glowing) <yellow glow>, a black cloak (evil glow) labeled as <*> (glowing) <yellow glow>, strong sapphire boots (glowing) <yellow glow>, gloves of Nimbleness labeled as <*> (glowing) <orange glow>, the crown of mental power labeled as <*> (glowing) <orange glow> and dark grey and white plaid kilt labeled as <*> (glowing) <orange glow>.
+Cyberlahko removes a battle-scarred shin guard, a wand of magic, sparkling ruby ring, Mirror breastplate, a pair of old dark green boots, a battle-scarred shin guard, an engraved cross amulet, a wand of magic, The Bracers of Gods, the Bracelets of Darkness, long sky-blue scarf, iron crown, sparkling ruby ring, a purple glove, a purple glove, Slime cloak and Girdle of Ethereal Power.
+Cyberlahko wears long, gnarled wood staff topped with a red crystal <orange glow>, the stone amulet of the earth elementalist, Tattered Silver Shimmering Cloak <red glow>, the opal ring of Oystria <red glow>, Girdle of Ethereal Power <orange glow>, Mirror breastplate <orange glow>, the opal ring of Oystria <red glow>, strong sapphire boots <yellow glow>, green crystal wand, the Bracelets of Darkness, dark grey and white plaid kilt <red glow>, a green glove, a green glove, Glass armbands <yellow glow>, a little leather bag <red glow> and the crown of mental power.
+Jenming [wanted]: tarma for exp
+hp 960/960 () | sp 781/1165 (+129) | ep 351/351 (+2)
+Dupre [party]: < Force Shield DOWN > [27:19]
+Kyo [party]: menee
+Kyo leaves south.
+Your movement prevents you from doing the skill.
+Apprentice training (d,n,e,w).
+Kyo Sayo the Dwarf (ecchi) < ecchi bunnies >
+Shadizar arrives from north.
+Bloodhunter arrives from north.
+Akvavitix arrives from north.
+Cyberlahko <--- from north.
+Heidel arrives from north.
+Elero arrives from north.
+Dupre sneaks in from north.
+*Akvavitix ticks 53sps [30s].
+habo
+reaver threaten mage
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[23:45:24] hp 960/960 | sp 781/1165 | ep 351/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Can only threaten once per 10 minutes.
+[23:45:24] hp 960/960 | sp 781/1165 | ep 351/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Nuane (party): Casting concealed.
+[23:45:24] hp 960/960 | sp 781/1165 | ep 351/351 | exp 40046 | $ 10/251 | wimpy: off
+habo
+reaver threaten mage
+
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[23:45:25] hp 960/960 | sp 781/1165 | ep 351/351 | exp 40046 | $ 10/251 | wimpy: off
+Can only threaten once per 10 minutes.
+[23:45:25] hp 960/960 | sp 781/1165 | ep 351/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Zarx (wanted): 2 blasters or tigerspider for exp
+Nuane (party): Casting concealed.
+[23:45:26] hp 960/960 | sp 781/1165 | ep 351/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Elero starts concentrating on a new spell.
+[party]: Elero true heals kyo
+Kyo leaves down.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+The entry (u,n,w,e,s).
+a bulletin board (17/17 unread) [mage]
+Kyo Sayo the Dwarf (ecchi) < ecchi bunnies >
+BayPrixces Condito, Arch Mage and Relic Collector
+Your keen senses note a disturbance seconds before the ambush!
+Shadizar arrives from up.
+Bloodhunter arrives from up.
+Akvavitix arrives from up.
+Cyberlahko <--- from up.
+Heidel arrives from up.
+Elero arrives from up.
+Dupre sneaks in from up.
+Kyo starts concentrating on a new offensive skill.
+Kyo reports: Hp: 1585 (2025) Sp: 104 (104) Ep: 447 (448).
+habo
+reaver threaten mage
+scan all
+cast info
+*****************************************************
+Kyo hits BayPrixces Condito 1 time.
+Shadizar's flex shield wobbles.
+Shadizar's flex shield wobbles.
+Shadizar's flex shield wobbles.
+BayPrixces Condito hits Shadizar 3 times.
+hp 960/960 () | sp 781/1165 () | ep 350/351 (-1)
+Bloodhunter starts concentrating on a new offensive spell.
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[23:45:27] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Heidel starts concentrating on a new offensive spell.
+Dupre starts concentrating on a new offensive skill.
+Cyberlahko starts concentrating on a new offensive spell.
+Can only threaten once per 10 minutes.
+[23:45:27] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Elero starts concentrating on a new spell.
+Kyo reports: Hp: 1585 (2025) Sp: 104 (104) Ep: 447 (448).
+BayPrixces Condito is near death. (0-10% hps)
+[23:45:27] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+[party]: Elero true heals kyo
+Akvavitix [party]: Concealed
+You are casting 'harm body'.
+[23:45:27] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Shadizar reports: Hp: 1549 (1972) Sp: 43 (43) Ep: 423 (423).
+Nuane (party): Casting concealed.
+[23:45:27] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+scan all
+cast info
+*****************************************************
+Kyo hits BayPrixces Condito 1 time.
+BayPrixces Condito hits Dupre 2 times.
+Dupre hits BayPrixces Condito 2 times.
+BayPrixces Condito says 'My powers are much greater than yours!'
+BayPrixces cast(s): 'zot mar nak grttzt' (Electrocution)
+BayPrixces grins as his electrocution hits Heidel.
+Harm body: 6
+BayPrixces Condito is near death. (0-10% hps)
+[23:45:30] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+You are casting 'harm body'.
+[23:45:30] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Shadizar reports: Hp: 1549 (1972) Sp: 43 (43) Ep: 423 (423).
+Shadizar [party]: HW down [11:49]
+Kyo reports: Hp: 1585 (2025) Sp: 104 (104) Ep: 447 (448).
+Cyberlahko waves his hand and says 'tsaibaa' (Channelbolt)
+Cyberlahko fires a thundering arc of blue lightning which hits BayPrixces Condito with full force!
+Cyberlahko grins as his channelbolt hits BayPrixces Condito.
+scan all
+cast info
+*****************************************************
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+BayPrixces Condito hits Kyo 3 times.
+BayPrixces cast(s): 'krkx mar nak grttzt' (Summon carnal spores)
+BayPrixces grins as his summon carnal spores hits Kyo.
+Kyo's flex shield wobbles.
+Harm body: 5
+Akvavitix waves his hand and says 'tsaibaa' (Channelbolt)
+Akvavitix fires a thundering arc of blue lightning which hits BayPrixces Condito with full force!
+Akvavitix grins as his channelbolt hits BayPrixces Condito.
+Kyo reports: Hp: 844 (2025) Sp: 104 (104) Ep: 447 (448).
+BayPrixces Condito is near death. (0-10% hps)
+[23:45:33] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Cyberlahko [party]: BayPrixces Condito resists 0% (electricity)
+You are casting 'harm body'.
+[23:45:33] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Shadizar reports: Hp: 1549 (1972) Sp: 43 (43) Ep: 423 (423).
+Cyberlahko starts concentrating on a new offensive spell.
+Akvavitix [party]: Concealed
+Akvavitix [party]: blast in (0 % resist)
+Heidel bitchslaps BayPrixces Condito on the cheek ...SLAP!!!
+Dupre's powerful bash sends BayPrixces Condito sprawling to the floor.
+scan all
+cast info
+*****************************************************
+Dupre's flex shield wobbles.
+BayPrixces Condito hits Dupre 3 times.
+Shadizar hits BayPrixces Condito 1 time.
+Elero cast(s): 'judicandus zapracus' (True heal)
+Elero casts his spell at Kyo.
+Heidel waves his hand and says 'tsaibaa' (Channelbolt)
+Heidel fires a thundering arc of blue lightning which hits BayPrixces Condito with full force!
+Heidel grins as his channelbolt hits BayPrixces Condito.
+BayPrixces cast(s): 'zot mar nak grttzt' (Electrocution)
+BayPrixces grins as his electrocution hits Elero.
+Kyo's powerful bash sends BayPrixces Condito sprawling to the floor.
+Harm body: 4
+Harm body: 3 (haste)
+Elero starts concentrating on a new spell.
+Kyo reports: Hp: 1540 (2025) Sp: 104 (104) Ep: 437 (448).
+BayPrixces Condito is near death. (0-10% hps)
+[23:45:36] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Kyo [party]: < Force Shield DOWN > [27:27]
+You are casting 'harm body'.
+[23:45:36] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Shadizar reports: Hp: 1549 (1972) Sp: 43 (43) Ep: 423 (423).
+Heidel starts concentrating on a new offensive spell.
+Kyo starts concentrating on a new offensive skill.
+Bloodhunter cast(s): 'PAF PAF PAF!' (Harm body)
+Bloodhunter casts a harming spell on BayPrixces Condito.
+scan all
+cast info
+*****************************************************
+BayPrixces Condito hits Shadizar 1 time.
+BayPrixces cast(s): 'fzz mar nak grttzt' (Acid blast)
+BayPrixces grins as his acid blast hits Heidel.
+Harm body: 2
+Harm body: 1
+BayPrixces Condito is near death. (0-10% hps)
+[23:45:39] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Kyo reports: Hp: 1536 (2025) Sp: 104 (104) Ep: 437 (448).
+You are casting 'harm body'.
+[23:45:39] hp 960/960 | sp 781/1165 | ep 350/351 | exp 40046 | $ 10/251 | wimpy: off
+
+Bloodhunter starts concentrating on a new offensive spell.
+Shadizar reports: Hp: 1343 (1972) Sp: 43 (43) Ep: 423 (423).
+Info: Gildron goes link dead.
+Shadizar [party]: ei oo sit hwta
+scan all
+cast info
+*****************************************************
+Kyo hits BayPrixces Condito 1 time.
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+BayPrixces Condito hits Kyo 3 times.
+Dupre hits BayPrixces Condito 2 times.
+Elero cast(s): 'judicandus puorgo mangenic' (Major party heal)
+BayPrixces Condito says 'Maybe you should go study some more in my complex, you suck!'
+BayPrixces cast(s): 'fzz mar nak grttzt' (Acid blast)
+BayPrixces grins as his acid blast hits Elero.
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+The curse in your dagger allows you to channel harmful power through it!
+You harm BayPrixces Condito really much.
+hp 960/960 () | sp 708/1165 (-73) | ep 350/351 ()
+Akvavitix waves his hand and says 'tsaibaa' (Channelbolt)
+Akvavitix fires a thundering arc of blue lightning which hits BayPrixces Condito with full force!
+Akvavitix grins as his channelbolt hits BayPrixces Condito.
+BayPrixces Condito stops existing in this reality.
+save
+BayPrixces Condito is DEAD, R.I.P.
+The magic mist around the dead BayPrixces Condito's neck leaps to your
+Kerbholz.
+A new mark appears.
+[23:45:42] hp 960/960 | sp 708/1165 | ep 350/351 | exp 93848 | $ 10/251 | wimpy: off
+You gained 53802 xp.
+
+Elero starts concentrating on a new spell.
+Kyo reports: Hp: 1309 (2025) Sp: 104 (104) Ep: 437 (448).
+You are not doing anything at the moment.
+[23:45:42] hp 960/960 | sp 708/1165 | ep 350/351 | exp 93848 | $ 10/251 | wimpy: off
+
+[party]: Elero unpain DOWN
+habo
+reaver threaten mage
+SAVED.
+[23:45:42] hp 960/960 | sp 708/1165 | ep 350/351 | exp 93848 | $ 10/251 | wimpy: off
+
+You start chanting.
+p say Casting concealed.
+You surreptitiously conceal your spell casting.
+[23:45:43] hp 960/960 | sp 708/1165 | ep 350/351 | exp 93848 | $ 10/251 | wimpy: off
+
+Shadizar reports: Hp: 1469 (1972) Sp: 43 (43) Ep: 423 (423).
+Can only threaten once per 10 minutes.
+[23:45:43] hp 960/960 | sp 708/1165 | ep 350/351 | exp 93848 | $ 10/251 | wimpy: off
+
+Akvavitix [party]: blast in (no analyze)
+Nuane (party): Casting concealed.
+[23:45:43] hp 960/960 | sp 708/1165 | ep 350/351 | exp 93848 | $ 10/251 | wimpy: off
+
+Dupre takes a shocked yolk of BayPrixces Condito.
+ga
+You can not take a bulletin board (17/17 unread) [mage].
+Nothing taken!
+[23:45:43] hp 960/960 | sp 708/1165 | ep 350/351 | exp 93848 | $ 10/251 | wimpy: off
+
+Bloodhunter aborts the spell casting.
+Cyberlahko aborts the spell casting.
+zz
+hp 960/960 () | sp 708/1165 () | ep 350/351 ()
+Harm body: 6
+Harm body: 4 (greater haste)
+You interrupt the spell.
+CASTING CANCELED.
+[23:45:45] hp 960/960 | sp 708/1165 | ep 350/351 | exp 93848 | $ 10/251 | wimpy: off
+
+Shadizar [party]: ohohohohoo
+Akvavitix [party]: poks
+*Akvavitix ticks 36sps [9s].
+p kills
+,-----------------------------------------------------------------------------.
+|    3351: an apprentice wearing golden clothing                              |
+|      19: An omnivorous lizard stalking around the corpse                    |
+|    1748: an apprentice wearing canary yellow clothing                       |
+|     654: an apprentice wearing golden clothing                              |
+|  701664: BayPrixces Condito, Arch Mage and Relic Collector                  |
+`-----------------------------------------------------------------------------'
+This party has killed 5 monsters (avg exp/mon: 141487).
+[23:45:46] hp 960/960 | sp 708/1165 | ep 350/351 | exp 93848 | $ 10/251 | wimpy: off
+
+Dupre takes Empowered Black Leg Plates <red glow>, Glimmering Belt of the
+ Elements <red glow>, Knobby Staff of the Archmage <red glow>, a small pile of
+ anipium coins and a huge pile of copper coins from a shocked yolk of
+ BayPrixces Condito.

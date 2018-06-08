@@ -1,0 +1,570 @@
+Kyo {party}: meni
+Andthi starts concentrating on a new spell.
+Rocker starts concentrating on a new offensive spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kape's flex shield wobbles.
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Moratar Cain hits Kyo 3 times.
+Nuane hits Moratar Cain 3 times.
+Kyo hits Moratar Cain 1 time.
+Harm body: 6
+Harm body: 4 (greater haste)
+Turmio starts concentrating on a new offensive spell.
+*Andthi               +---+.
+*Andthi               |   |.
+*Andthi               /---\.
+*Andthi              /.
+*Andthi         +---/.
+*Andthi         |MP |.
+*Andthi         +---\.
+*Andthi              \.
+*Andthi               \---/.
+*Andthi               |  O|.
+*Andthi               /---\.
+Zenick starts concentrating on a new offensive spell.
+Rocker hits Moratar Cain with her lightning storm.
+You are casting 'harm body'.
+[21:53:52] hp 1226/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Rocker hits Moratar Cain with her magic eruption.
+Moratar Cain is in a good shape. (80-90% hps)
+[21:53:52] hp 1226/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1226(1276)  218( 931) 431(535) | 100 |         1912 |
+| 1.2   Kyo           ldr 1278(1634) -135(  44) 255(409) |  87 |         5031 |
+| 1.3   Kape          fol  979(1196)  240( 785) 409(409) | 100 |         3857 |
+| 2.1   Torc          fol  600( 600)  786(1250) 224(224) | 100 |         1912 |
+| 2.2   Zenick        fol 1213(1213)  773(1330) 455(455) | 100 |         3857 |
+| 2.3   Andthi        fol  686( 686)  590(1194) 272(272) |  90 |         3622 |
+| 3.1   Milk          fol  533( 533)  797(1408) 258(258) |  93 |         1169 |
+| 3.2   Rocker        fol  509( 552) 1132(1573) 229(241) | 100 |         1912 |
+| 3.3   Turmio        fol  629( 709)  515(1009) 369(358) | 100 |         2625 |
+`-----------------------------------------------------------------------------'
+[21:53:52] hp 1226/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Nuane reports: Hp: 1226 (1276) Sp: 218 (931) Ep: 431 (535).
+[21:53:52] hp 1226/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kape starts concentrating on a new spell.
+Kape reports: Hp: 979 (1196) Sp: 240 (785) Ep: 409 (409).
+Kyo starts concentrating on a new offensive skill.
+Torc starts concentrating on a new spell.
+Info: Slobber goes link dead.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kape's flex shield wobbles.
+Moratar Cain hits Kape 3 times.
+*SIZZLE* Some of the damage reflects back to you!
+Nuane hits Moratar Cain 3 times.
+Kape hits Moratar Cain 1 time.
+Kyo hits Moratar Cain 1 time.
+hp 1225/1276 (-1) | sp 218/931 () | ep 431/535 ()
+Harm body: 3
+You are casting 'harm body'.
+[21:53:55] hp 1225/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kape reports: Hp: 835 (1196) Sp: 240 (785) Ep: 409 (409).
+Moratar Cain is in a good shape. (80-90% hps)
+[21:53:55] hp 1225/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1225(1276)  218( 931) 431(535) | 100 |         1912 |
+| 1.2   Kyo           ldr 1140(1634) -135(  44) 255(409) |  87 |         5031 |
+| 1.3   Kape          fol  835(1196)  240( 785) 409(409) | 100 |         3857 |
+| 2.1   Torc          fol  600( 600)  786(1250) 224(224) | 100 |         1912 |
+| 2.2   Zenick        fol 1213(1213)  773(1330) 455(455) | 100 |         3857 |
+| 2.3   Andthi        fol  686( 686)  590(1194) 272(272) |  90 |         3622 |
+| 3.1   Milk          fol  533( 533)  797(1408) 258(258) |  93 |         1169 |
+| 3.2   Rocker        fol  509( 552) 1132(1573) 229(241) | 100 |         1912 |
+| 3.3   Turmio        fol  629( 709)  515(1009) 369(358) | 100 |         2625 |
+`-----------------------------------------------------------------------------'
+[21:53:55] hp 1225/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Nuane reports: Hp: 1225 (1276) Sp: 218 (931) Ep: 431 (535).
+[21:53:55] hp 1225/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+*Andthi               +---+.
+*Andthi               |   |.
+*Andthi               /---\.
+*Andthi              /.
+*Andthi         +---/.
+*Andthi         |MP |.
+*Andthi         +---\.
+*Andthi              \.
+*Andthi               \---/.
+*Andthi               |  O|.
+*Andthi               /---\.
+Kyo {party}: se sw se wimpy dir
+Torc cast(s): 'judicandus pafzarmus' (Major heal)
+Torc casts her spell at Kape.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Your flex shield wobbles and part of the attack gets absorbed!
+Your flex shield wobbles and part of the attack gets absorbed!
+Moratar Cain hits Nuane 1 time.
+Nuane hits Moratar Cain 2 times.
+Kape hits Moratar Cain 1 time.
+Kyo hits Moratar Cain 1 time.
+hp 1077/1276 (-148) | sp 218/931 () | ep 431/535 ()
+Milk cast(s): 'fah mar nak grttzt' (Lava blast)
+As Milk casts the spell, he pulls out a granite sphere which bursts into a million prismatic starbursts.
+Milk grins as his lava blast hits Moratar Cain.
+Harm body: 2
+Andthi cast(s): 'judicandus eurto mangenic' (True party heal)
+Andthi's spell heals you. You feel all better.
+Milk [party]: Moratar Cain writhes fire damage. (20% resist)
+You are casting 'harm body'.
+[21:53:58] hp 1276/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Moratar Cain is in a good shape. (80-90% hps)
+[21:53:58] hp 1276/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kape [party]: (Full HP)
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1276(1276)  218( 931) 431(535) | 100 |         1912 |
+| 1.2   Kyo           ldr 1411(1634) -135(  44) 255(409) |  87 |         5031 |
+| 1.3   Kape          fol 1196(1196)  240( 785) 409(409) | 100 |         3857 |
+| 2.1   Torc          fol  600( 600)  684(1250) 224(224) | 100 |         1912 |
+| 2.2   Zenick        fol 1213(1213)  773(1330) 455(455) | 100 |         3857 |
+| 2.3   Andthi        fol  686( 686)  359(1194) 272(272) |  90 |         3622 |
+| 3.1   Milk          fol  533( 533)  675(1408) 258(258) |  93 |         1169 |
+| 3.2   Rocker        fol  552( 552) 1132(1573) 229(241) | 100 |         1912 |
+| 3.3   Turmio        fol  709( 709)  515(1009) 369(358) | 100 |         2625 |
+`-----------------------------------------------------------------------------'
+[21:53:58] hp 1276/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kape whistles 'Hp: 1196 (1196) Sp: 240 (785) Ep: 409 (409).'
+Torc starts concentrating on a new spell.
+Nuane reports: Hp: 1276 (1276) Sp: 218 (931) Ep: 431 (535).
+[21:53:58] hp 1276/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kape reports: Hp: 1196 (1196) Sp: 240 (785) Ep: 409 (409).
+Info: Okin recovers from link death.
+Turmio plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+Turmio grins as her con fioco hits Moratar Cain.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Your flex shield wobbles and part of the attack gets absorbed!
+Moratar Cain hits Nuane 2 times.
+Nuane hits Moratar Cain 1 time.
+Kyo hits Moratar Cain 1 time.
+hp 988/1276 (-89) | sp 218/931 () | ep 431/535 ()
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick fails to touch Moratar Cain.
+Harm body: 1
+Kape cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Kape's spell heals you. You feel much better.
+Moratar Cain cast(s): 'imprickening zang gah' (Imprisonment)
+This location is now surrounded in a banded green forcefield.
+Rocker cast(s): 'ghht mar nak grttzt' (Blast vacuum)
+As Rocker casts the spell, she pulls out a bronze marble which bursts into a million prismatic starbursts.
+Rocker grins as her blast vacuum hits Moratar Cain.
+Kape reports: Hp: 1196 (1196) Sp: 142 (785) Ep: 409 (409).
+You are casting 'harm body'.
+[21:54:01] hp 1158/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Moratar Cain is in a good shape. (80-90% hps)
+[21:54:01] hp 1158/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1158(1276)  218( 931) 431(535) | 100 |         1912 |
+| 1.2   Kyo           ldr 1581(1634) -135(  44) 255(409) |  87 |         5031 |
+| 1.3   Kape          fol 1196(1196)  142( 785) 409(409) | 100 |         3857 |
+| 2.1   Torc          fol  600( 600)  684(1250) 224(224) | 100 |         1912 |
+| 2.2   Zenick        fol 1213(1213)  661(1330) 455(455) | 100 |         3857 |
+| 2.3   Andthi        fol  686( 686)  359(1194) 272(272) |  90 |         3622 |
+| 3.1   Milk          fol  533( 533)  675(1408) 258(258) |  93 |         1169 |
+| 3.2   Rocker        fol  552( 552) 1034(1573) 229(241) | 100 |         1912 |
+| 3.3   Turmio        fol  709( 709)  366(1009) 369(358) | 100 |         2625 |
+`-----------------------------------------------------------------------------'
+[21:54:01] hp 1158/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Nuane reports: Hp: 1158 (1276) Sp: 218 (931) Ep: 431 (535).
+[21:54:01] hp 1158/1276 | sp 218/931 | ep 431/535 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kyo grumbles 'Kurkota Zenick kurkota...'
+Turmio [report]: blast in (no analyze)
+Turmio starts concentrating on a new offensive spell.
+Rocker starts concentrating on a new offensive spell.
+You have hard time breathing in here.
+party report War ensemble off. [9m20s]
+The effect of war ensemble wears off.
+Kape [party]: (War Ensemble off)
+Nuane (report): War ensemble off. [9m20s]
+[21:54:02] hp 1158/1132 | sp 218/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Zenick starts concentrating on a new offensive spell.
+Kape starts concentrating on a new spell.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kape's flex shield wobbles.
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Moratar Cain hits Kyo 4 times.
+Nuane hits Moratar Cain 2 times.
+hp 1154/1132 (+166) | sp 218/931 () | ep 431/519 ()
+hp 1132/1132 (-22) | sp 218/931 () | ep 431/519 ()
+You are done with the chant.
+You cast(s): 'PAF PAF PAF!' (Harm body)
+You use your right hand for channeling harmful powers.
+You fail to reach Moratar Cain.
+hp 1132/1132 () | sp 110/931 (-108) | ep 431/519 ()
+You are not doing anything at the moment.
+[21:54:04] hp 1132/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Moratar Cain is in a good shape. (80-90% hps)
+[21:54:04] hp 1132/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kape reports: Hp: 980 (1052) Sp: 142 (785) Ep: 409 (407).
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1132(1132)  110( 931) 431(519) | 100 |         1912 |
+| 1.2   Kyo           ldr 1256(1634) -135(  44) 255(409) |  87 |         5031 |
+| 1.3   Kape          fol  980(1052)  142( 785) 409(407) | 100 |         3857 |
+| 2.1   Torc          fol  600( 600)  684(1250) 224(224) | 100 |         1912 |
+| 2.2   Zenick        fol 1213(1213)  661(1330) 455(455) | 100 |         3857 |
+| 2.3   Andthi        fol  686( 686)  359(1194) 272(272) |  90 |         3622 |
+| 3.1   Milk          fol  533( 533)  675(1408) 258(258) |  93 |         1169 |
+| 3.2   Rocker        fol  552( 552) 1034(1573) 229(241) | 100 |         1912 |
+| 3.3   Turmio        fol  709( 709)  366(1009) 369(358) | 100 |         2625 |
+`-----------------------------------------------------------------------------'
+[21:54:04] hp 1132/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Andthi starts concentrating on a new spell.
+Nuane reports: Hp: 1132 (1132) Sp: 110 (931) Ep: 431 (519).
+[21:54:04] hp 1132/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kyo grumbles 'Kurkota Nuane kurkota...'
+Rocker takes a look at her notebook.
+*Andthi               +---+.
+*Andthi               |   |.
+*Andthi               /---\.
+*Andthi              /.
+*Andthi         +---/.
+*Andthi         |MP |.
+*Andthi         +---\.
+*Andthi              \.
+*Andthi               \---/.
+*Andthi               |  O|.
+*Andthi               /---\.
+habo
+party report Out of sp.
+You do not have enough spell points to cast the spell.
+[21:54:05] hp 1132/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Nuane (report): Out of sp.
+[21:54:05] hp 1132/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kyo starts concentrating on a new offensive skill.
+use bash
+You start concentrating on the skill.
+[21:54:06] hp 1132/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Turmio plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+Turmio grins as her con fioco hits Moratar Cain.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Your flex shield wobbles and part of the attack gets absorbed!
+Your flex shield wobbles and part of the attack gets absorbed!
+Moratar Cain hits Nuane 2 times.
+Kyo hits Moratar Cain 2 times.
+Nuane hits Moratar Cain 2 times.
+hp 894/1132 (-238) | sp 110/931 () | ep 431/519 ()
+Tuplabasari (twilight+): nigger girl
+You are using 'bash'.
+[21:54:07] hp 894/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Moratar Cain is in a good shape. (80-90% hps)
+[21:54:07] hp 894/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kape reports: Hp: 971 (1052) Sp: 142 (785) Ep: 409 (407).
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol  894(1132)  110( 931) 431(519) | 100 |         1912 |
+| 1.2   Kyo           ldr 1252(1634) -135(  44) 255(409) |  87 |         5031 |
+| 1.3   Kape          fol  971(1052)  142( 785) 409(407) | 100 |         3857 |
+| 2.1   Torc          fol  600( 600)  684(1250) 224(224) | 100 |         1912 |
+| 2.2   Zenick        fol 1213(1213)  661(1330) 455(455) | 100 |         3857 |
+| 2.3   Andthi        fol  686( 686)  359(1194) 272(272) |  90 |         3622 |
+| 3.1   Milk          fol  533( 533)  675(1408) 258(258) |  93 |         1169 |
+| 3.2   Rocker        fol  552( 552) 1034(1573) 229(241) | 100 |         1912 |
+| 3.3   Turmio        fol  709( 709)  217(1009) 369(358) | 100 |         2625 |
+`-----------------------------------------------------------------------------'
+[21:54:07] hp 894/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Nuane reports: Hp: 894 (1132) Sp: 110 (931) Ep: 431 (519).
+[21:54:07] hp 894/1132 | sp 110/931 | ep 431/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Turmio [report]: blast in (100 % resist)
+Turmio starts concentrating on a new offensive spell.
+*Andthi               +---+.
+*Andthi               |   |.
+*Andthi               /---\.
+*Andthi              /.
+*Andthi         +---/.
+*Andthi         |MP |.
+*Andthi         +---\.
+*Andthi              \.
+*Andthi               \---/.
+*Andthi               |  O|.
+*Andthi               /---\.
+Torc cast(s): 'judicandus pafzarmus' (Major heal)
+Torc casts her spell at Kyo.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo's flex shield wobbles.
+Moratar Cain hits Kape 3 times.
+Kyo hits Moratar Cain 2 times.
+Kape hits Moratar Cain 2 times.
+Nuane hits Moratar Cain 2 times.
+Milk cast(s): 'fah mar nak grttzt' (Lava blast)
+As Milk casts the spell, he pulls out a granite sphere which bursts into a million prismatic starbursts.
+Milk grins as his lava blast hits Moratar Cain.
+Kape cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Kape's spell heals you. You feel very much better.
+Moratar Cain cast(s): 'cah mar nak grttzt' (Cold ray)
+Moratar Cain grins as his cold ray hits Kyo.
+Kape's flex shield wobbles.
+Kyo's flex shield wobbles.
+hp 1056/1132 (+162) | sp 110/931 () | ep 431/519 ()
+You are prepared to do the skill.
+Your bash sends Moratar Cain sprawling.
+hp 1056/1132 () | sp 110/931 () | ep 421/519 (-10)
+You are not doing anything at the moment.
+[21:54:10] hp 1056/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kape reports: Hp: 895 (1052) Sp: 44 (785) Ep: 409 (407).
+Milk [party]: Moratar Cain writhes fire damage. (20% resist)
+Moratar Cain is in a good shape. (80-90% hps)
+[21:54:10] hp 1056/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Nuane         fol 1056(1132)  110( 931) 421(519) | 100 |         1912 |
+| 1.2   Kyo           ldr 1410(1634) -135(  44) 255(409) |  87 |         5031 |
+| 1.3   Kape          fol  895(1052)   44( 785) 409(407) | 100 |         3857 |
+| 2.1   Torc          fol  600( 600)  582(1250) 224(224) | 100 |         1912 |
+| 2.2   Zenick        fol 1213(1213)  656(1330) 455(455) | 100 |         3857 |
+| 2.3   Andthi        fol  686( 686)  359(1194) 272(272) |  90 |         3622 |
+| 3.1   Milk          fol  514( 533)  553(1408) 258(258) |  93 |         1169 |
+| 3.2   Rocker        fol  552( 552) 1034(1573) 229(241) | 100 |         1912 |
+| 3.3   Turmio        fol  709( 709)  217(1009) 369(358) | 100 |         2625 |
+`-----------------------------------------------------------------------------'
+[21:54:10] hp 1056/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Nuane reports: Hp: 1056 (1132) Sp: 110 (931) Ep: 421 (519).
+[21:54:10] hp 1056/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Torc starts concentrating on a new spell.
+Milk starts concentrating on a new offensive spell.
+use bash
+Kape [party]: (outta sp)
+You start concentrating on the skill.
+[21:54:11] hp 1056/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Torc starts concentrating on a new spell.
+Turmio plays the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+Turmio grins as her con fioco hits Moratar Cain.
+cast info
+scan all
+pss
+pr
+*****************************************************
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Kyo's flex shield wobbles.
+Moratar Cain hits Kyo 2 times.
+Kyo hits Moratar Cain 2 times.
+Kape hits Moratar Cain 1 time.
+hp 1049/1132 (-7) | sp 110/931 () | ep 421/519 ()
+Andthi cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Andthi's spell heals you. You feel very much better.
+Moratar Cain waves his hand in the air and cast(s): ' njetah ! followus!'
+Rocker fails to run away.
+Rocker fails to run away.
+Rocker fails to run away.
+Torc fails to run away.
+Torc fails to run away.
+Torc fails to run away.
+You feel SOOO lonely suddenly... You decide to leave your friends!
+You flee in terror!
+The banded green forcefield prevents you from leaving.
+The banded green forcefield prevents you from leaving.
+Your legs refuse to obey you!
+You flee in terror!
+The banded green forcefield prevents you from leaving.
+The banded green forcefield prevents you from leaving.
+Your legs refuse to obey you!
+You flee in terror!
+The banded green forcefield prevents you from leaving.
+The banded green forcefield prevents you from leaving.
+Your legs refuse to obey you!
+Milk fails to run away.
+Milk fails to run away.
+Milk fails to run away.
+Andthi fails to run away.
+Andthi fails to run away.
+Andthi fails to run away.
+Kape fails to run away.
+Kape fails to run away.
+Kape fails to run away.
+Zenick fails to run away.
+Zenick fails to run away.
+Zenick fails to run away.
+Turmio fails to run away.
+Turmio fails to run away.
+Turmio fails to run away.
+Kyo fails to run away.
+Kyo fails to run away.
+Kyo fails to run away.
+Rocker cast(s): 'ghht mar nak grttzt' (Blast vacuum)
+As Rocker casts the spell, she pulls out a bronze marble which bursts into a million prismatic starbursts.
+Rocker grins as her blast vacuum hits Moratar Cain.
+There is a fierce combat going on here, beware!
+There is a fierce combat going on here, beware!
+You are using 'bash'.
+[21:54:13] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Rocker starts concentrating on a new offensive spell.
+[21:54:13] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+You are not in a party.
+[21:54:13] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+You are not in a party.
+[21:54:13] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+se
+
+The banded green forcefield prevents you from leaving.
+[21:54:14] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+sw
+
+You cannot go that way.
+[21:54:14] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+se
+
+The banded green forcefield prevents you from leaving.
+[21:54:14] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+sw
+
+You cannot go that way.
+[21:54:14] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Torc cast(s): 'judicandus pafzarmus' (Major heal)
+Torc casts her spell at Kape.
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Moratar Cain.
+There is a fierce combat going on here, beware!
+party report Zenick has gone UNCONSCIOUS!
+Zenick lapses into unconsciousness from severe loss of blood.
+hp 1105/1132 (+56) | sp 110/931 () | ep 421/519 ()
+Info: Wermine dies.
+Kape whistles 'Hp: 1052 (1052) Sp: 44 (785) Ep: 409 (407).'
+Nuane (report): Zenick has gone UNCONSCIOUS!
+[21:54:17] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+'nf
+
+You boom 'nf.'
+[21:54:17] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Kyo grumbles 'nf.'
+se
+The banded green forcefield prevents you from leaving.
+[21:54:18] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+sw
+
+You cannot go that way.
+[21:54:18] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+se
+
+The banded green forcefield prevents you from leaving.
+[21:54:18] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+sw
+
+You cannot go that way.
+[21:54:18] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Torc buzzes 'nf.'
+You are prepared to do the skill.
+Bash who?
+Zenick stops existing in this reality.
+ark
+save
+Zenick is DEAD, R.I.P.
+Even in DEATH, the tortured soul of Zenick cannot escape the Wrath of Moratar Cain!
+Her mutilated corpse raises slowly again, with an EVIL gleam in its eyes!
+Moratar Cain roars victoriously as Zenick dies shamefully!
+Zenick's corpse is collected by Death, clad in black.
+[21:54:19] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+You hold your Necromatic Staff high above your head and cast(s): 'arkemile'.
+[21:54:19] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Moratar Cain says 'Sorry. Can't let you take it... MUUUAHAHAHAH!'
+Moratar Cain chants some words, and a blast of magic hits you HARD!
+party report It hurts it hurts :(
+That really HURT!
+[21:54:19] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+SAVED.
+[21:54:19] hp 1105/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+party report Rocker has gone UNCONSCIOUS!
+Rocker lapses into unconsciousness from severe loss of blood.
+Rocker suddenly stops breathing and jerks a couple of times violently, then falls to the ground, lifeless.
+ark
+save
+Rocker is DEAD, R.I.P.
+Even in DEATH, the tortured soul of Rocker cannot escape the Wrath of Moratar Cain!
+Her mutilated corpse raises slowly again, with an EVIL gleam in its eyes!
+Rocker's corpse is collected by Death, clad in black.
+Andthi starts concentrating on a new spell.
+Nuane (report): It hurts it hurts :(
+[21:54:20] hp 798/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Nuane (report): Rocker has gone UNCONSCIOUS!
+[21:54:20] hp 798/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+[21:54:20] hp 798/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+se
+
+You hold your Necromatic Staff high above your head and cast(s): 'arkemile'.
+[21:54:20] hp 798/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Moratar Cain says 'Sorry. Can't let you take it... MUUUAHAHAHAH!'
+Moratar Cain chants some words, and a blast of magic hits you HARD!
+[21:54:20] hp 798/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+SAVED.
+[21:54:20] hp 798/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+sw
+
+The banded green forcefield prevents you from leaving.
+[21:54:20] hp 798/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+You cannot go that way.
+[21:54:20] hp 798/1132 | sp 110/931 | ep 421/519 | exp 2200 | $ 654/1488 | wimpy: off
+
+Moratar Cain floats southeast.

@@ -1,0 +1,701 @@
+look
+        fff          Loc:    Fields in southern Laenor
+     ff..fffff       Exits:  north, south, east, west, northeast, northwest, 
+   ffff..fffffyy             southeast, southwest
+  fffrrfffffyyyyy    
+  rrrrrfyfyyyyyyy    The ground is bare and muddy due to the melting snow.
+ ,,,,yrry*yyyyyyyy   Some signs of life can already be seen, however. Here
+  fyy,yrrrryyyyyy    and there slender stems of grass and weeds protrude
+  fyyy,yyyryyyyyy    from the black soil. Some insects have also awakened
+   fyyy,yyrrrryy     from their cold torpor, and are now crawling clumsily
+     fff,yyyyr       about. There is little cover from the forces of nature
+        y,y          here, and the wind can still be freezing.
+                     
+Hp:1702/1702 Ep:414/414 Sp:16/16 27825 0 42 > 
+Desert looks at sign.
+Shinarae exclaims 'do you want it? do you need it? let me hear it!'
+Murrough exclaims 'go dupre go!'
+Kori looks at sign.
+Raizar cheers enthusiastically.
+Nosunrise continues the wave, wheeee!
+Raizar has high hopes.
+Cola looks at Shar.
+Enandor starts concentrating on a new spell.
+Slobber exclaims 'it!'
+Stargazer the christmas elf continues the wave, wheeee!
+Bat looks at you.
+Alakhai continues the wave, wheeee!
+Zerks continues the wave, wheeee!
+Mallarch says 'reimburse to me.'
+?orc [fall+]: mithrandiha se reiluu pelaa :P
+Nosunrise continues the wave, wheeee!
+Mallarch says 'and cheer.'
+Fred waves happily.
+Cozmo starts a wave, wheeee!
+The Battle Royale Continues:
+Mithrand, Shar, Dupre and Zenick will fight to the death!
+        HHH          Loc:    Rugged Highlands in eastern Laenor
+     HHHHHHHHH       Exits:  north, south, east, west, northeast, northwest, 
+   HHHHHHHHHHHHH             southeast, southwest
+  HHHHHHHHHHHHHHH    
+  HHHHHHHHHHhhhHH    Bare and rugged highlands spread around you. The air up
+ HHHHHHHH*hhhhhHHH   here is fresh, but often chilly, for wind usually blows
+  HHHHHhHhhhhhhHH    with its full force on high ground. The scenery is
+  hHHrHhHhhhhhhhH    absolutely magnificent and imposing. Travelling here is
+   hhHHHHHhHhhhH     quite troublesome, because of the towering hills and
+     Hhhhhhhhh       deep ravines.
+        hhh          
+*****************************************************
+Mithrand dodges.
+You miss.
+Mithrand bores you causing a small scratch.
+You successfully dodge Mithrand's pierce.
+You successfully dodge Mithrand's bludgeon.
+Mithrand misses you.
+Hp:1677/1697 -25| ep:414/414 | Sp:16/16 |  
+There is a fierce combat going on here, beware!
+
+(Zenick) leaves east.
+wave
+wave wand at mithrand
+Not a valid adverb, 'mithrand'.
+Hp:1677/1697 Ep:414/414 Sp:16/16 27825 0 42 > 
+?ilk (fall+): mis huonees se matsi
+bla
+use pound
+You start concentrating on the skill.
+Hp:1677/1697 Ep:414/414 Sp:16/16 27825 0 42 > 
+l
+Mithrand starts concentrating on a new offensive skill.
+look
+        HHH          Loc:    Rugged Highlands in northern Laenor
+     H^HHHHHHH       Exits:  north, west, northeast, northwest, southwest
+   HHHHHHHHHHHHH     
+  HHHHHHHHHHHHHHH    Bare and rugged highlands spread around you. The air up
+  HHHHHHHHH^HHHHH    here is fresh, but often chilly, for wind usually blows
+ HH^HHHHH*^^HHHHHH   with its full force on high ground. The scenery is
+  HHHHHHH^^^HHHH^    absolutely magnificent and imposing. Travelling here is
+  HHHHHH^^^^HHHH^    quite troublesome, because of the towering hills and
+   HHH^^^^^^H^^H     deep ravines.
+     H^^^^^!^^       
+        ^^H          
+Hp:1677/1697 Ep:414/414 Sp:16/16 27825 0 42 > 
+*****************************************************
+You miss.
+Mithrand craters you making skin bubble and sizzle.
+You successfully dodge Mithrand's pierce.
+You successfully dodge Mithrand's bludgeon.
+You successfully dodge Mithrand's bludgeon.
+Hp:1642/1690 -35| ep:414/414 | Sp:16/16 |  
+map
+map
+You cannot concentrate, funny colours are dancing in your ears!
+Hp:1642/1690 Ep:414/414 Sp:16/16 27825 0 42 > 
+Shar starts concentrating on a new offensive skill.
+wave
+wave wand at mithrand
+Not a valid adverb, 'mithrand'.
+Hp:1642/1690 Ep:414/414 Sp:16/16 27825 0 42 > 
+o
+o
+Pardon?
+Hp:1642/1690 Ep:414/414 Sp:16/16 27825 0 42 > 
+*****************************************************
+You stroke Shar.
+You hear groaning overhead, and dust falls from the ceiling.
+You miss.
+You successfully dodge Shar's slash.
+You successfully dodge Mithrand's pierce.
+Mithrand misses you.
+Mithrand slaps you making small marks.
+Your armours absorb some of the damage.
+Mithrand misses you.
+Hp:1641/1688 -1| ep:414/414 | Sp:16/16 |  
+Mithrand cuts your arm open with a powerful strike.
+Your flex shield wobbles and part of the attack gets absorbed!
+Hp:1582/1676 -59| ep:414/414 | Sp:16/16 |  
+w
+west
+You cannot go that way.
+Hp:1582/1676 Ep:414/414 Sp:16/16 27825 0 42 > 
+*****************************************************
+You stroke Shar.
+Shar misses you.
+Mithrand misses you.
+You successfully dodge Mithrand's bludgeon.
+Humming mace of Thunder in your hand is suddenly surrounded with bright blue
+glow and a fuming blast of lightning strikes Mithrand down.
+Humming mace of Thunder drains your magical energy to balance the space time
+continuum.
+Mithrand attacks and immediately hits you in the stomach!
+x
+scan all
+Mithrand is slightly hurt.
+Shar is in excellent shape.
+Hp:1513/1663 Ep:414/414 Sp:-310/16 27825 0 42 > 
+*****************************************************
+You miss.
+You sock Shar.
+Shar misses you.
+Mithrand sinks you making a hand corrode.
+You successfully dodge Mithrand's pierce.
+Mithrand misses you.
+Mithrand smacks you making small marks.
+Hp:1489/1658 -93| ep:414/414 | Sp:-310/16 -326|  
+Shar cuts your arm open with a powerful strike.
+Your flex shield wobbles and part of the attack gets absorbed!
+The wound burns with poison!
+Your flex shield wobbles and part of the attack gets absorbed!
+Hp:1387/1638 -102| ep:414/414 | Sp:-310/16 |  
+l
+look
+        hhh          Loc:    Rugged Highlands in northern Laenor
+     hhhhhhhhh       Exits:  north, south, east, west, northeast, northwest, 
+   hhhhHhHHhhhhh             southeast, southwest
+  HHHHhhhhhhhHhhh    
+  HHHHHHHHhhHhhHh    Bare and rugged highlands spread around you. The air up
+ HhHHHHHH*HHHHhhhh   here is fresh, but often chilly, for wind usually blows
+  HHHHHHHHHHHhHHh    with its full force on high ground. The scenery is
+  HHHHHhHhHHhHhHH    absolutely magnificent and imposing. Travelling here is
+   HHHHHHHHHHHHH     quite troublesome, because of the towering hills and
+     H^HHHHHHH       deep ravines.
+        HHH          
+Hp:1387/1638 Ep:414/414 Sp:-310/16 27825 0 42 > 
+(Zenick) arrives from south.
+There is a fierce combat going on here, beware!
+Someone drops the cube of air <yellow glow> and the star of rock <yellow
+ glow>.
+Someone drops the cube of air and it explodes into a million pieces!
+Your keen senses note a disturbance seconds before the ambush!
+There is a fierce combat going on here, beware!
+Someone drops the star of rock and it explodes into a million pieces!
+There is a fierce combat going on here, beware!
+Shimmering ball floats here.
+Shar starts concentrating on a new offensive skill.
+(Zenick) leaves south.
+t mithrand
+target mithrand
+You are now targetting Mithrand.
+Hp:1387/1638 Ep:414/414 Sp:-310/16 27825 0 42 > 
+*****************************************************
+You miss.
+You are prepared to do the skill.
+You turn your enemy's lunge aside and pound in one swift movement!
+Hp:1387/1638 | ep:383/414 -31| Sp:-310/16 |  
+Shimmering ball floats away.
+Mithrand drinks the contents of a flask containing syrupy bright yellow liquid labeled as hps.
+Mithrand feels magically empowered... his mind momentarily expands!
+wave mithrand
+wave wand at mithrand
+Not a valid adverb, 'mithrand'.
+Hp:1387/1638 Ep:383/414 Sp:-310/16 27825 0 42 > 
+x
+scan all
+Mithrand is slightly hurt.
+Shar is in excellent shape.
+Hp:1387/1638 Ep:383/414 Sp:-310/16 27825 0 42 > 
+Air elemental misses you.
+You successfully dodge Air elemental's claw.
+Air elemental misses you.
+*****************************************************
+Shar cuts Air elemental's arm open with a powerful strike.
+wave mithrand
+wave wand at mithrand
+Not a valid adverb, 'mithrand'.
+Hp:1387/1638 Ep:383/414 Sp:-310/16 27825 0 42 > 
+*****************************************************
+Shar dodges.
+You miss.
+You successfully dodge Earth elemental's claw.
+Earth elemental pricks you making small marks.
+Your marvellous sense of combat prevents your Damien from getting scratched.
+Your armours absorb some of the damage.
+You successfully dodge Earth elemental's bite.
+Air elemental misses you.
+Air elemental pricks you causing a small scratch.
+Air elemental misses you.
+ave
+ave
+You raise your arm in greeting.
+Hp:1375/1633 Ep:383/414 Sp:-310/16 27825 0 42 > 
+wave
+wave wand at mithrand
+Not a valid adverb, 'mithrand'.
+Hp:1375/1633 Ep:383/414 Sp:-310/16 27825 0 42 > 
+bla
+use pound
+You start concentrating on the skill.
+Hp:1375/1633 Ep:383/414 Sp:-310/16 27825 0 42 > 
+x
+scan all
+Air elemental is slightly hurt.
+Earth elemental is in excellent shape.
+Mithrand is in a good shape.
+Shar is in excellent shape.
+Hp:1375/1633 Ep:383/414 Sp:-310/16 27825 0 42 > 
+Shar starts concentrating on a new offensive spell.
+*****************************************************
+Mithrand dodges.
+Hp:1375/1633 -12| ep:383/414 | Sp:-310/16 |  
+Earth elemental misses you.
+Earth elemental misses you.
+Earth elemental misses you.
+You try to dodge, but Air elemental is not fooled.
+Air elemental pricks you causing a small scratch.
+You feel like your shield of energy blocked some physical damage.
+You successfully dodge Air elemental's claw.
+Air elemental misses you.
+Mithrand drinks the contents of a flask containing syrupy bright yellow liquid labeled as hps.
+Mithrand feels magically empowered... his mind momentarily expands!
+x
+scan all
+Air elemental is slightly hurt.
+Earth elemental is in a good shape.
+Mithrand is in a good shape.
+Shar is in excellent shape.
+Hp:1366/1631 Ep:383/414 Sp:-310/16 27825 0 42 > 
+l
+look
+        yyy          Loc:    Fast-moving River in eastern Laenor
+     f..f.....       Exits:  north, south, east, west, northeast, northwest, 
+   fffffff...fff             southeast, southwest
+  f.fffffff..ffff    
+  ..frrrrrff..fff    A river runs briskly here. It is probably not very deep
+ .r.frfff*rr..ffff   at this location, but the currents may be strong in
+  rrrrfffffr..fff    places due to winter's runoff. The water is freezing
+  ....fffffr..f..    cold still, althogh the Sun makes it warmer each day.
+   ...fffffr..f.     This part of the river is just deep and wide enough for
+     .ffff.r..       ships to slip through. The still water here is up to
+        ff.          your neck.
+                     
+Hp:1366/1631 Ep:383/414 Sp:-310/16 27825 0 42 > 
+x
+scan all
+Air elemental is slightly hurt.
+Earth elemental is in a good shape.
+Mithrand is in a good shape.
+Shar is in excellent shape.
+Hp:1366/1631 Ep:383/414 Sp:-310/16 27825 0 42 > 
+Air elemental fills up his cheeks with air and exhales 'ghht zur semen gnatlnamauch'
+Air elemental hits Dupre, Shar and Mithrand with its vacuum ball.
+Your flex shield wobbles and part of the attack gets absorbed!
+Shar's flex shield wobbles.
+You hear groaning overhead, and dust falls from the ceiling.
+Earth elemental throws a pinch of magic dust in air and chants 'gtzt zur semen'
+A levin bolt hits you.
+*****************************************************
+..WHO avoids being stunned.
+You stroke Shar.
+You bash Shar.
+Hp:1208/1593 -167| ep:383/414 | Sp:-310/16 |  
+Earth elemental misses you.
+Earth elemental misses you.
+Earth elemental misses you.
+You successfully dodge Air elemental's claw.
+Air elemental misses you.
+Air elemental misses you.
+x
+scan all
+Air elemental is noticeably hurt.
+Earth elemental is in a good shape.
+Mithrand is slightly hurt.
+Shar is in a good shape.
+Hp:1208/1593 Ep:383/414 Sp:-310/16 27825 0 42 > 
+*****************************************************
+You miss.
+Mithrand shafts you causing a nasty laceration.
+Mithrand misses you.
+Mithrand misses you.
+Hp:1150/1582 -58| ep:383/414 | Sp:-310/16 |  
+Earth elemental misses you.
+Earth elemental pricks you causing a small scratch.
+You successfully dodge Earth elemental's bite.
+You successfully dodge Air elemental's claw.
+Air elemental misses you.
+Air elemental misses you.
+Huge chunks of rock rain down from the ceiling!
+You are clonked on the head by a falling stone.
+p' < Unstun DOWN > [42:32]
+It doesn't hurt at all!
+party say < Unstun DOWN > [42:32]
+Dupre (party): < Unstun DOWN > [42:32]
+Hp:1119/1575 Ep:383/414 Sp:-310/16 27825 0 42 > 
+x
+scan all
+Air elemental is noticeably hurt.
+Earth elemental is in a good shape.
+Mithrand is slightly hurt.
+Shar is in a good shape.
+Hp:1119/1575 Ep:383/414 Sp:-310/16 27825 0 42 > 
+?orc [fall+]: kaikkiko mättää mithrandii? :P
+cinfo
+cast info
+You are using 'pound'.
+Hp:1119/1575 Ep:383/414 Sp:-310/16 27825 0 42 > 
+*****************************************************
+You score a CRITICAL hit!
+You jab Shar.
+You strike Shar.
+Mithrand misses you.
+You try to dodge, but Mithrand is not fooled.
+Mithrand smacks you making small marks.
+Mithrand smacks you making small marks.
+Hp:1109/1573 -41| ep:383/414 | Sp:-310/16 |  
+Shar points upwards and screams 'Azzarakk, take this sacrifice I offer thee!'
+A gaping black vortex appears, pulling everything towards it!
+Earth elemental withstands the pull of the vortex.
+Air elemental is sucked up into the vortex, vanishing forever!
+You struggle against the gravitational forces of the black hole, as the strength of the vortex grinds your bones against each other. Pieces of grit blow past your face, and all the air is sucked out of your lungs. You barely avoid being sucked in.
+Hp:851/1520 -258| ep:383/414 | Sp:-310/16 |  
+Grinning diabolically Earth elemental drills you causing entrails to fly everywhere.
+You feel righteous and protected against all evil.
+Earth elemental pricks you causing a small scratch.
+You feel like your shield of energy blocked some physical damage.
+Earth elemental misses you.
+Shar starts concentrating on a new offensive skill.
+x
+scan all
+Earth elemental is in bad shape.
+Mithrand is slightly hurt.
+Shar is in a good shape.
+Hp:774/1501 Ep:383/414 Sp:-310/16 27825 0 42 > 
+Earth elemental throws a pinch of magic dust in air and chants 'gtzt zur semen'
+A levin bolt hits you.
+Your flex shield wobbles and part of the attack gets absorbed!
+*****************************************************
+You thump Shar.
+Mithrand misses you.
+Mithrand misses you.
+Mithrand misses you.
+Mithrand misses you.
+Hp:709/1482 -142| ep:383/414 | Sp:-310/16 |  
+You are prepared to do the skill.
+You begin your pound, but see a new opportunity and smash your foe with the haft of your weapon!
+Hp:709/1482 | ep:352/414 -31| Sp:-310/16 |  
+You successfully dodge Earth elemental's claw.
+Earth elemental misses you.
+Earth elemental misses you.
+x
+scan all
+Earth elemental is in bad shape.
+Mithrand is in a good shape.
+Shar is slightly hurt.
+Hp:709/1482 Ep:352/414 Sp:-310/16 27825 0 42 > 
+bla
+use pound
+You start concentrating on the skill.
+Hp:709/1482 Ep:352/414 Sp:-310/16 27825 0 42 > 
+(Zenick) arrives from south.
+There is a fierce combat going on here, beware!
+Someone pushes the button on the apparatus!
+
+The apparatus trembles a bit but nothing happens.
+(Zenick) leaves south.
+9
+read halfheal
+You read the scroll and feel the magic flowing through you.
+You heal really much of your wounds.
+The scroll crumbles to dust, its powers spent.
+Hp:927/1482 Ep:352/414 Sp:-310/16 27825 0 41 > 
+*****************************************************
+You thrust Shar.
+You hear groaning overhead, and dust falls from the ceiling.
+You bash Shar.
+Mithrand misses you.
+You successfully dodge Mithrand's bludgeon.
+Mithrand slaps you making small marks.
+Hp:922/1480 +213| ep:352/414 | Sp:-310/16 |  
+Earth elemental misses you.
+Earth elemental misses you.
+Earth elemental misses you.
+x
+scan all
+Earth elemental is in very bad shape.
+Mithrand is in a good shape.
+Shar is slightly hurt.
+Hp:922/1480 Ep:352/414 Sp:-310/16 27825 0 41 > 
+cinfo
+cast info
+You are using 'pound'.
+Hp:922/1480 Ep:352/414 Sp:-310/16 27825 0 41 > 
+*****************************************************
+You stroke Mithrand.
+Mithrand craters you inducing a nasty lesion.
+Mithrand misses you.
+You successfully dodge Mithrand's bludgeon.
+Hp:886/1473 -36| ep:352/414 | Sp:-310/16 |  
+Shar cuts Earth elemental's arm open with a powerful strike.
+Earth elemental dies in a massive pool of blood.
+Earth elemental is DEAD, R.I.P.
+Shar starts concentrating on a new offensive skill.
+x
+scan all
+Mithrand is in a good shape.
+Shar is slightly hurt.
+Hp:886/1473 Ep:352/414 Sp:-310/16 27825 0 41 > 
+*****************************************************
+Mithrand dodges.
+You tumble Mithrand's dodge.
+You jab Mithrand.
+Shar misses you.
+You successfully dodge Mithrand's pierce.
+Mithrand misses you.
+Mithrand smacks you making small marks.
+Mithrand smacks you making small marks.
+Hp:876/1470 -10| ep:352/414 | Sp:-310/16 |  
+Mithrand points upwards and screams 'Azzarakk, take this sacrifice I offer thee!'
+A gaping black vortex appears, pulling everything towards it!
+You struggle against the gravitational forces of the black hole, as the strength of the vortex grinds your bones against each other. Pieces of grit blow past your face, and all the air is sucked out of your lungs. You barely avoid being sucked in.
+Your flex shield wobbles and part of the attack gets absorbed!
+p' < Unpain DOWN > [7:54]
+You feel your will returning normal.
+Hp:711/1465 -165| ep:352/414 | Sp:-310/16 |  
+party say < Unpain DOWN > [7:54]
+Dupre (party): < Unpain DOWN > [7:54]
+Hp:711/1465 Ep:352/414 Sp:-310/16 27825 0 41 > 
+Mithrand starts concentrating on a new offensive skill.
+cinfo
+cast info
+You are using 'pound'.
+Hp:711/1465 Ep:352/414 Sp:-310/16 27825 0 41 > 
+9
+read halfheal
+You attempt to read the scroll, but you fail to understand
+the script, and it crumbles before your eyes!
+The scroll crumbles to dust, its powers spent.
+Hp:711/1465 Ep:352/414 Sp:-310/16 27825 0 39 > 
+*****************************************************
+You stroke Mithrand.
+Shar misses you.
+Shar misses you.
+Mithrand misses you.
+Mithrand misses you.
+Shar cuts your arm open with a powerful strike.
+The wound burns with poison!
+Your flex shield wobbles and part of the attack gets absorbed!
+?orc [fall+]: mithrandi pistelee areal :P
+?lobber [fall+]: älä petä mua dupre!
+cinfo
+cast info
+You are using 'pound'.
+Hp:614/1465 Ep:352/414 Sp:-310/16 27825 0 39 > 
+*****************************************************
+Mithrand dodges.
+You successfully dodge Mithrand's pierce.
+Mithrand sinks you causing bad burns.
+Mithrand slaps you causing a small scratch.
+Mithrand smacks you causing a small scratch.
+Hp:582/1465 -129| ep:352/414 | Sp:-310/16 |  
+You are prepared to do the skill.
+You begin your pound, but see a new opportunity and smash your foe with the haft of your weapon!
+Hp:582/1465 | ep:321/414 -31| Sp:-310/16 |  
+9
+read halfheal
+You attempt to read the scroll, but you fail to understand
+the script, and it crumbles before your eyes!
+The scroll crumbles to dust, its powers spent.
+Hp:582/1465 Ep:321/414 Sp:-310/16 27825 0 37 > 
+Shar attacks and immediately hits you in the stomach!
+x
+scan all
+Mithrand is slightly hurt.
+Shar is slightly hurt.
+Hp:549/1465 Ep:321/414 Sp:-310/16 27825 0 37 > 
+0
+read heal
+You read the scroll and feel the magic flowing through you.
+You heal really much of your wounds.
+The scroll crumbles to dust, its powers spent.
+Hp:710/1465 Ep:321/414 Sp:-310/16 27825 0 35 > 
+*****************************************************
+You miss.
+You successfully dodge Shar's slash.
+You try to dodge, but Shar is not fooled.
+Shar lightly bashes you with shield causing a small scratch.
+Mithrand cavitates you making an artery explode.
+Mithrand misses you.
+Mithrand misses you.
+You try to dodge, but Mithrand is not fooled.
+Mithrand smacks you causing a small scratch.
+You feel like your shield of energy blocked some physical damage.
+Hp:656/1465 +74| ep:321/414 | Sp:-310/16 |  
+Mithrand swings at you over and over, but you avoid the attack.
+cinfo
+cast info
+You are not doing anything at the moment.
+Hp:656/1465 Ep:321/414 Sp:-310/16 27825 0 35 > 
+bla
+use pound
+You start concentrating on the skill.
+Hp:656/1465 Ep:321/414 Sp:-310/16 27825 0 35 > 
+The world seems to grow dark as Mithrand meets your gaze and gravely intones
+'Oblivion has come for you.'
+You feel desperate and panicked.
+x
+scan all
+Mithrand is slightly hurt.
+Shar is slightly hurt.
+Hp:656/1465 Ep:321/414 Sp:-310/16 27825 0 35 > 
+Shar follows with a third strike to your cheek, bloodying your face!
+(Zenick) arrives from south.
+There is a fierce combat going on here, beware!
+(Zenick) leaves south.
+*****************************************************
+You thrust Shar.
+You jab Shar.
+Mithrand misses you.
+Mithrand craters you causing facial tissue to sizzle.
+Mithrand smacks you causing a small scratch.
+You successfully dodge Mithrand's bludgeon.
+Hp:570/1465 -86| ep:321/414 | Sp:-310/16 |  
+Mithrand starts concentrating on a new offensive skill.
+cinfo
+cast info
+You are using 'pound'.
+Hp:570/1465 Ep:321/414 Sp:-310/16 27825 0 35 > 
+*****************************************************
+You thrust Mithrand.
+You hear groaning overhead, and dust falls from the ceiling.
+Mithrand misses you.
+You successfully dodge Mithrand's pierce.
+Mithrand slaps you causing a small scratch.
+You try to dodge, but Mithrand is not fooled.
+Mithrand smacks you causing a small scratch.
+Hp:560/1465 -10| ep:321/414 | Sp:-310/16 |  
+cinfo
+cast info
+You are using 'pound'.
+Hp:560/1465 Ep:321/414 Sp:-310/16 27825 0 35 > 
+*****************************************************
+You miss.
+You miss.
+You successfully dodge Shar's slash.
+Shar lightly bashes you with shield producing large scratches.
+You feel like your shield of energy blocked some physical damage.
+You successfully dodge Mithrand's bludgeon.
+You successfully dodge Mithrand's bludgeon.
+Hp:552/1465 -8| ep:321/414 | Sp:-310/16 |  
+Mithrand cuts your arm open with a powerful strike.
+Your flex shield wobbles and part of the attack gets absorbed!
+You feel like your shield of energy blocked some acid damage.
+Hp:499/1465 -53| ep:321/414 | Sp:-310/16 |  
+p' < Shield of Protection DOWN > [5:27]
+You feel more vulnerable now.
+party say < Shield of Protection DOWN > [5:27]
+Dupre (party): < Shield of Protection DOWN > [5:27]
+Hp:499/1465 Ep:321/414 Sp:-310/16 27825 0 39 > 
+Mithrand unfolds and reads a scroll.
+Mithrand creates a small sphere which floats in the air.
+*****************************************************
+Shar tears you making skin scorch.
+Your armours absorb some of the damage.
+You thrust Shar.
+You successfully dodge Mithrand's pierce.
+You successfully dodge Mithrand's pierce.
+Mithrand misses you.
+Mithrand smacks you causing a small scratch.
+Hp:478/1465 -21| ep:321/414 | Sp:-310/16 |  
+The sphere floats east.
+Mithrand attacks and immediately hits you in the stomach!
+Holy aura crackles as it absorbs some of the damage.
+0
+read heal
+In the name of all things that don't suck! Stop typing that!
+Hp:433/1465 Ep:321/414 Sp:-310/16 27825 0 39 > 
+p' < Flex Shield DOWN > [6:41]
+Your flex shield wobbles, PINGs and vanishes.
+cinfo
+party say < Flex Shield DOWN > [6:41]
+Dupre (party): < Flex Shield DOWN > [6:41]
+Hp:433/1465 Ep:321/414 Sp:-310/16 27825 0 39 > 
+cast info
+You are using 'pound'.
+Hp:433/1465 Ep:321/414 Sp:-310/16 27825 0 39 > 
+9
+read halfheal
+You attempt to read the scroll, but you fail to understand
+the script, and it crumbles before your eyes!
+The scroll crumbles to dust, its powers spent.
+Hp:433/1465 Ep:321/414 Sp:-310/16 27825 0 39 > 
+*****************************************************
+You successfully dodge Shar's shield.
+You thrust Mithrand.
+You miss.
+You try to dodge, but Mithrand is not fooled.
+Mithrand craters you causing second degree burns.
+You successfully dodge Mithrand's bludgeon.
+You successfully dodge Mithrand's bludgeon.
+Hp:393/1465 -85| ep:321/414 | Sp:-310/16 |  
+Shar claps his hands and whispers 'yugzhrr paf'
+Shar harms you a lot.
+Hp:1/1465 -392| ep:321/414 | Sp:-310/16 |  
+You are prepared to do the skill.
+You turn your enemy's lunge aside and pound in one swift movement!
+Hp:1/1465 | ep:290/414 -31| Sp:-310/16 |  
+Shar starts concentrating on a new offensive skill.
+x
+Mithrand follows with a third strike to your cheek, bloodying your face!
+Your skin MELTS exposing your internal organs!
+pp *woke up from the stun*
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+Hp:-34/1465 Ep:290/414 Sp:-310/16 27825 0 37 > 
+You are unconscious, unable to do anything.
+Hp:-34/1465 Ep:290/414 Sp:-310/16 27825 0 37 > 
+9
+You are unconscious, unable to do anything.
+Hp:-34/1465 Ep:290/414 Sp:-310/16 27825 0 37 > 
+*****************************************************
+Shar incises you forcing the heart to incinerate.
+Your skin MELTS exposing your internal organs!
+Your skin is CHARRED severily!
+Mithrand cavitates you making the head explode from a MASSIVE acid blast.
+Your skin MELTS exposing your internal organs!
+Mithrand slaps you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Mithrand slaps you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Hp:-112/1465 -113| ep:290/414 | Sp:-310/16 |  
+Blood pours from your wounds!
+Your skin MELTS exposing your internal organs!
+*****************************************************
+Shar tears you making the head explode from a MASSIVE acid blast.
+Your skin MELTS exposing your internal organs!
+Your skin is CHARRED severily!
+Shar lightly bashes you with shield causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Mithrand craters you causing heart tissue to fly everywhere.
+Your skin MELTS exposing your internal organs!
+Mithrand craters you causing heart tissue to fly everywhere.
+Your skin is CHARRED severily!
+Mithrand smacks you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Mithrand smacks you causing heart tissue to fly everywhere.
+You wish your wounds would stop BLEEDING so much!
+Hp:-257/1465 -145| ep:290/414 | Sp:-310/16 |  
+(Zenick) arrives from south.
+There is a fierce combat going on here, beware!
+Someone zaps with Custom wand named lightning storm (1/100).
+Someone hits Dupre, Shar and Mithrand with her lightning storm.
+That really HURT!
+You lose your muscle control as electricity JOLTS through you!
+You died, and thus lost the tournament.
+
+You die.
+Nuane is the new leader of the party.
+You have a strange feeling.
+You can see Death, clad in black, collect your corpse.
+
+        rH+          Loc:    Rugged Highlands in eastern Laenor
+     HHHH/sHrH       Exits:  north, south, west, northeast, northwest, 
+   ^HHHH/HHHrHHH             southeast, southwest
+  HHHHH/HHHrHHHHH    
+  HHHH/HHHHHhHHHH    Bare and rugged highlands spread around you. The air up
+ HHHH/HHH*^HHHHHHH   here is fresh, but often chilly, for wind usually blows
+  HH/HHHHHHHHHHhh    with its full force on high ground. The scenery is
+  H/HrHHHH^HHHHHh    absolutely magnificent and imposing. Travelling here is
+   HHHHHHHHHHHHh     quite troublesome, because of the towering hills and
+     HHHHHHHHH       deep ravines.
+        HHH          
+Your skin returns to its original texture.

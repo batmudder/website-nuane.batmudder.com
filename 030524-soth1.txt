@@ -1,0 +1,727 @@
+Lammas [party]: setgoes
+Brock starts concentrating on a new spell.
+Hit [sales]: hihi
+cball
+You start chanting.
+You surreptitiously conceal your spell casting.
+[02:20:41] hp 703/833 | sp 983/1541 | ep 319/322 | exp 1 | $ 0/156 | wimpy: off
+
+Lammas leaves south.
+Brock flies to the south.
+Sarmangoth leaves south.
+Mithrand leaves south.
+Mysteryman leaves south.
+Ksahn leaves south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Lord Soths' Chamber (n).
+Ksahn Perkeles the Barsoomian tortutus < fuck the shit >
+Mysteryman the Human < fuck the shit >
+Mithrand the black Centaur
+Sarmangoth Saurus the Sprite < fuck the shit >
+Brock Scotty the Thrikhren ompelukone tasapainoilija < fuck the shit >
+Lammas Sorkkaelain the wicked Kobold monkey see & do < fuck the shit >
+Lord Soth the Death Knight (undead)
+** Cost for '@south': Cost: utime:30 stime:0 ticks:151926 **
+Rocker arrives from north.
+Druff arrives from north.
+Mithrand starts concentrating on a new offensive skill.
+Mithrand reports: Hp: 1282 (1513) Sp: 55 (525) Ep: 387 (466).
+Mithrand [party]: ### unpain DOWN: 19 ###
+cball
+You start chanting.
+You surreptitiously conceal your spell casting.
+[02:20:42] hp 703/833 | sp 983/1541 | ep 319/322 | exp 1 | $ 0/156 | wimpy: off
+
+Mysteryman starts concentrating on a new offensive spell.
+Rocker starts concentrating on a new offensive spell.
+Channelball: 3
+scan all
+*****************************************************
+Ksahn hits Lord Soth 1 time.
+Mithrand hits Lord Soth 1 time.
+Lord Soth hits Mithrand 3 times.
+Druff hits Lord Soth 1 time.
+Brock starts concentrating on a new spell.
+Mithrand reports: Hp: 781 (1513) Sp: 55 (525) Ep: 387 (466).
+Lord Soth is near death.
+[02:20:44] hp 703/833 | sp 983/1541 | ep 319/322 | exp 1 | $ 0/156 | wimpy: off
+
+Ksahn says 'Hp: 1408 (1491) Sp: 32 (32) Ep: 409 (409).'
+Sarmangoth starts concentrating on a new offensive spell.
+Info: Slayton enters the game.
+Channelball: 2
+Channelball: 1 (haste)
+scan all
+*****************************************************
+Ksahn hits Lord Soth 2 times.
+Mithrand hits Lord Soth 4 times.
+Lord Soth hits Mithrand 3 times.
+Druff hits Lord Soth 1 time.
+Ksahn says 'Hp: 1408 (1491) Sp: 32 (32) Ep: 409 (409).'
+Mithrand reports: Hp: 361 (1513) Sp: 55 (525) Ep: 387 (466).
+Lord Soth is near death.
+[02:20:47] hp 703/833 | sp 983/1541 | ep 319/322 | exp 1 | $ 0/156 | wimpy: off
+
+Druff raises his arm in greeting to Lord Soth.
+You are done with the chant.
+CASTED.
+You thrust your hands forward and scream 'shar ryo den...Haa!'
+The crackling small blue comet slams into your target and explodes in a deafening bang!
+p say lvl2 damcrit
+You feel like you managed to channel additional POWER to your spell.
+You watch with selfpride as your channelball hits Lord Soth.
+p say Lord Soth writhes mana (20% resist).
+Lord Soth writhes in agony.
+hp 697/833 (-6) | sp 914/1541 (-69) | ep 316/322 (-3)
+Brock cast(s) -> 'judicandus eurto mangenic'
+Brock's spell heals you. You feel very much better.
+scan all
+*****************************************************
+Ksahn hits Lord Soth 2 times.
+Mithrand hits Lord Soth 1 time.
+Lord Soth hits Mithrand 3 times.
+Druff hits Lord Soth 1 time.
+hp 805/833 (+108) | sp 914/1541 () | ep 316/322 ()
+Lammas cast(s) -> 'Electrocution'
+As Lammas casts the spell, it pulls out a small piece of electrum wire from a small pouch.
+Lammas grins as its electrocution hits Lord Soth.
+Ksahn says 'Hp: 1474 (1491) Sp: 32 (32) Ep: 409 (409).'
+Nuane (party): lvl2 damcrit
+[02:20:50] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Hit [sales]: "naurattaa vähä"
+Mithrand reports: Hp: 502 (1513) Sp: 55 (525) Ep: 387 (466).
+Nuane (party): Lord Soth writhes mana (20% resist).
+[02:20:50] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Druff reports: Hp: 1949 (1976) Sp: 44 (44) Ep: 421 (421).
+Brock starts concentrating on a new spell.
+Lord Soth is near death.
+[02:20:50] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+cball
+
+You start chanting.
+You surreptitiously conceal your spell casting.
+[02:20:51] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Mithrand [party]: ### repulsor aura DOWN: 11:36 ###
+Lord Soth utters the magic words 'sulta taiat pois, mulle hyva mieli
+ taikadaikaduu'
+Ksahn's head glows black for a moment.
+Channelball: 3
+*Torturus squawks loudly.
+Screaming hellishly, Mithrand HACKS and HACKS deeply into Lord Soth's bloody
+body.  Glowing with energy, Ssssuuucker exults as it greedily sucks
+the core of Lord Soth's lifeforce away.
+scan all
+*****************************************************
+Mithrand hits Lord Soth 2 times.
+Rocker cast(s) -> 'Harm Body'
+Rocker casts a harming spell on Lord Soth.
+Ksahn says 'Hp: 1474 (1491) Sp: 32 (32) Ep: 409 (409).'
+Mithrand starts concentrating on a new offensive skill.
+Druff reports: Hp: 1947 (1976) Sp: 44 (44) Ep: 421 (421).
+Sarmangoth [party]: Ksahn had forget cast on them.
+Lord Soth is near death.
+[02:20:53] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Mithrand reports: Hp: 573 (1513) Sp: 55 (525) Ep: 360 (466).
+Druff booms 'mita aijja.'
+Mysteryman says '1.'
+Rocker starts concentrating on a new offensive spell.
+Channelball: 2
+Sarmangoth thrusts both hands forth and screams 'shar ryo den...Haa!'
+Sarmangoth hurls a crackling small blue comet at Lord Soth, which explodes in a blast of light!
+Sarmangoth grins as his channelball hits Lord Soth.
+scan all
+*****************************************************
+Lord Soth hits Mithrand 3 times.
+Mithrand hits Lord Soth 2 times.
+Mysteryman cast(s) -> 'Harm Body'
+Mysteryman casts a harming spell on Lord Soth.
+Lammas cast(s) -> 'Electrocution'
+As Lammas casts the spell, it pulls out a small piece of electrum wire from a small pouch.
+Lammas grins as its electrocution hits Lord Soth.
+Ksahn says 'Hp: 1468 (1491) Sp: 32 (32) Ep: 409 (409).'
+Mithrand reports: Hp: 254 (1513) Sp: 55 (525) Ep: 360 (466).
+Mithrand [party]: ### I'M DYING! (get the FUCK out of here) ###
+Druff reports: Hp: 1943 (1976) Sp: 44 (44) Ep: 421 (421).
+Lord Soth is near death.
+[02:20:56] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Sarmangoth starts concentrating on a new offensive spell.
+Malicat [wanted]: 3/4 slotter or soemthing
+Mysteryman starts concentrating on a new offensive spell.
+Ksahn is the new leader of the party.
+Brock starts following the leader.
+Sarmangoth starts following the leader.
+Mithrand starts following the leader.
+Mysteryman starts following the leader.
+Lammas starts following the leader.
+You start following the leader.
+Rocker starts following the leader.
+Druff starts following the leader.
+Mithrand seems to lock in place from the power of Lord Soths' spell.
+Channelball: 1
+scan all
+*****************************************************
+party say Mithrand has gone UNCONSCIOUS!
+Mithrand lapses into unconsciousness from severe loss of blood.
+Mithrand is dogfood.
+save
+Mithrand is DEAD, R.I.P.
+Lord Soth shouts 'Mithrand just made my day!'
+Mithrand dies.
+Mithrand's corpse is collected by Death, clad in black.
+Lord Soth hits Mithrand 7 times.
+Sarmangoth is now in the 1st row.
+Brock is now in the 2nd row.
+Druff hits Lord Soth 2 times.
+Sarmangoth hits Lord Soth 2 times.
+Ksahn leaves north.
+Brock flies to the north.
+Sarmangoth leaves north.
+Mysteryman leaves north.
+Lammas leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Silent Chamber (s,d).
+Lammas Sorkkaelain the wicked Kobold monkey see & do < fuck the shit >
+Mysteryman the Human < fuck the shit >
+Sarmangoth Saurus the Sprite < fuck the shit >
+Brock Scotty the Thrikhren ompelukone tasapainoilija < fuck the shit >
+Ksahn Perkeles the Barsoomian tortutus < fuck the shit >
+Rocker arrives from south.
+Druff arrives from south.
+Mithrand reports: Hp: 1 (1096) Sp: 55 (354) Ep: 360 (324).
+Druff (party): Mithrand went unconn!
+You are not in combat right now.
+[02:20:59] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+Ksahn says 'Hp: 1468 (1491) Sp: 32 (32) Ep: 409 (409).'
+Nuane (party): Mithrand has gone UNCONSCIOUS!
+[02:20:59] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Ksahn [party]: Mithrand has gone UNCONSCIOUS!
+SAVED.
+[02:20:59] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Sarmangoth [party]: Mithrand has gone UNCONSCIOUS!
+Kyo [wanted]: nice long blade
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 29m 36s) | Exp/min:     12594 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Ksahn         ldr 1468(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.2   Sarmangoth    fol  926( 942)  751(1231) 442(446) | 100 |       541449 |
+| 1.3   Druff         fol 1943(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  676( 699)  657( 818) 265(277) | 100 |       541449 |
+| 2.2   Brock         fol  987( 987)  310(1476) 308(298) |  93 |       481652 |
+| 2.3   Mysteryman    fol 1220(1238)  854(1110) 476(466) | 100 |       541449 |
+| 3.1   Nuane         fol  805( 833)  914(1541) 316(322) |  82 |       479598 |
+| 3.3   Lammas        fol  803( 803)  299(1247) 327(316) | 100 |       541449 |
+| ?.?   Mithrand     dead    1(1096)   55( 354) 360(324) | 100 |       833364 |
+`-----------------------------------------------------------------------------'
+[02:21:01] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Lammas [party]: whine
+Brock starts concentrating on a new spell.
+[twilight+]: Belanthor laughs out loud at Flab.
+Mysteryman starts concentrating on a new skill.
+twi lsat
+Last 20 messages from twilight+ channel:
+[02:06]:Belanthor [twilight+]: mita helvettia tas herasuitis oli
+[02:07]:Flab [twilight+]: 8 wis
+[02:07]:Flab [twilight+]: multislot
+[02:07]:Flab [twilight+]: eli sacvaluee kai vaha ei muuta
+[02:07]:Belanthor [twilight+]: hihi
+[02:07]:Belanthor [twilight+]: über
+[02:07]:Flab [twilight+]: kyl
+[02:09]:Belanthor [twilight+]: 95k sac value
+[02:11]:Bela [twilight+]: hehe
+[02:13]:Bela [twilight+]: fuck u
+[02:13]:Belanthor [twilight+]: nii oliko taa 8wissia taa suitti tosiaan?
+[02:14]:Flab [twilight+]: muistaakseni
+[02:14]:Belanthor [twilight+]: niinha ma laitoin salesil, kait se niin on sit :)=
+[02:14]:Flab [twilight+]: jeh =)
+[02:15]:Flab [twilight+]: oli sil sacvaluee jotai
+[02:18]:Flab [twilight+]: mikas lq toi muute oli
+[02:20]:Flab [twilight+]: approved by alakhai!
+[02:20]:Belanthor [twilight+]: YEP!
+[02:20]:Belanthor [twilight+]: they know they know
+[02:21]:[twilight+]: Belanthor laughs out loud at Flab.
+[02:21:04] hp 805/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Sarmangoth starts concentrating on a new spell.
+Druff (party): ois kuollu iskuu
+Brock cast(s) -> 'Major Party Heal'
+Brock's spell heals you. You feel all better.
+Lammas [party]: 1 round lag =/
+hp 833/833 (+28) | sp 914/1541 () | ep 316/322 ()
+Mysteryman bows its head for a moment.
+Mysteryman bellows 'YES! Fear ME!'
+Druff reports: Hp: 1976 (1976) Sp: 44 (44) Ep: 421 (421).
+Lammas guides Brock to the middle of 3rd row.
+Lammas is the new leader of the party.
+Sarmangoth starts concentrating on a new spell.
+Brock starts following the leader.
+Sarmangoth starts following the leader.
+Mysteryman starts following the leader.
+Ksahn starts following the leader.
+You start following the leader.
+Rocker starts following the leader.
+Druff starts following the leader.
+Druff (party): MD off (14:09)
+Lammas guides Sarmangoth to the middle of 2nd row.
+ps
+Rocker draws a picture of a spider to air with glowing lines and chants
+ 'arachnid infernalicus arachnoidus demonicus'
+Rocker chants 'I command you demon to come and serve me! Come now or suffer
+damnation!' He cuts open his arm and  drinks his own blood! Disgusting!
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 29m 52s) | Exp/min:     12594 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  587( 916)  403(1051) 267(463) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  797(1231) 444(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  906(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  914(1541) 316(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  266(1476) 308(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  351(1247) 327(316) | 100 |       541449 |
+| ?.?   Mithrand     dead    1(1225)   55( 354) 360(344) | 100 |       833364 |
+`-----------------------------------------------------------------------------'
+[02:21:17] hp 833/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Lammas [party]: vittu jos kuolee entryyn
+Mysteryman [party]: raiseen
+repl brock 300
+[02:21:20] hp 833/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+You start chanting.
+You surreptitiously conceal your spell casting.
+[02:21:20] hp 833/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Nuane (party): Replenishing brock with 300 points
+[02:21:20] hp 833/833 | sp 914/1541 | ep 316/322 | exp 1 | $ 0/156 | wimpy: off
+
+Replenish ally: 6
+White Belt Ninja shouts 'Bair died like a DOG!'
+Info: Bair dies.
+Info: Kitania enters the game.
+Replenish ally: 5
+Replenish ally: 4 (haste)
+Chyl [sales]: oh new id says It will divinely improve your wis =)
+Info: Thunk left the game.
+hp 833/833 () | sp 952/1541 (+38) | ep 320/322 (+4)
+Replenish ally: 3
+Rocker cast(s) -> 'infernalicus nexus arachnid rex'
+Rocker {party}: controlling
+Brock starts concentrating on a new spell.
+Replenish ally: 2
+Lammas [party]: Druff strokes Lord Soth causing entrails to fly everywhere.
+Info: Spick enters the game.
+Replenish ally: 1
+Rocker cast(s) -> 'Spider Demon Control'
+Mysteryman invokes the powers of ancient gods and chants 'vokinsalak
+ elfirtluassa'
+Mithrand arrives through a loophole in space-time continuum.
+The corpse starts to move.
+Mithrand starts concentrating on a new skill.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 30m 12s) | Exp/min:     12562 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  587( 932)  349(1063) 267(477) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  797(1231) 444(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  675(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  952(1541) 320(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  266(1476) 308(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  468(1247) 327(316) | 100 |       541449 |
+| ?.?   Mithrand      mbr  101(1225)  155( 354) 344(344) | 100 |       833364 |
+`-----------------------------------------------------------------------------'
+[02:21:37] hp 833/833 | sp 952/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+
+Rocker {party}: controlling
+You are done with the chant.
+CASTED.
+You spread your fingers and whisper 'enfuego delyo'
+You place your hands on Brock's head and feel the energy flow from you.
+hp 833/833 () | sp 619/1541 (-333) | ep 320/322 ()
+Brock cast(s) -> 'Major Heal'
+Brock casts her spell at Rocker.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 30m 13s) | Exp/min:     12562 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  932( 932)  349(1063) 267(477) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  797(1231) 444(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  675(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  619(1541) 320(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  668(1476) 308(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  468(1247) 327(316) | 100 |       541449 |
+| ?.?   Mithrand      mbr  101(1225)  155( 354) 344(344) | 100 |       833364 |
+`-----------------------------------------------------------------------------'
+[02:21:38] hp 833/833 | sp 619/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+
+Brock starts concentrating on a new spell.
+Mithrand starts following the leader.
+Mithrand [party]: -=* 200 sps for me *=-
+Rocker cast(s) -> 'Spider Demon Control'
+repl mithrand 200
+[02:21:42] hp 833/833 | sp 619/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+
+You start chanting.
+[02:21:42] hp 833/833 | sp 619/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+
+Nuane (party): Replenishing mithrand with 200 points
+[02:21:42] hp 833/833 | sp 619/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+
+Lammas removes gloves of Nimbleness labeled as <|qc|>.
+Lammas removes Mysterious glowing ringband [Made by: Markuz] labeled as 6int, Blackthorn Ring [Made by: Proteus] labeled as 5int1spr, Girdle of Ethereal Power labeled as int, a pair of black boots, the shining helm of azakh-khanan labeled as ancient, Tattered Silver Shimmering Cloak labeled as wis1, swirling bands of lava <flaming>, The staff of Lerethin labeled as (lammas), The staff of Lerethin labeled as (lammas) and Scarf of Beauty labeled as (lammas).
+Lammas wears a wand of magic <orange glow>, a wand of magic <orange glow>, a battle-scarred shin guard labeled as (lammas) <orange glow>, a battle-scarred shin guard labeled as (lammas) <orange glow>, a collar made of black silk labeled as (lammas) <orange glow>, Slime cloak labeled as (lammas) <yellow glow>, Girdle of Ethereal Power labeled as spr <orange glow>, Boots of the Goddess labeled as (lammas) <orange glow>, a mithril ring, called 'eckma' <orange glow>, A heavy black metal ring labeled as (lammas) <yellow glow>, a majectical black crown <yellow glow>, Red Glove of the Healer labeled as (lammas) and Red Glove of the Healer labeled as (lammas).
+Replenish ally: 6
+Replenish ally: 4 (greater haste)
+Brock cast(s) -> 'True Heal'
+Brock casts her spell at Mithrand.
+Info: Shumrena goes link dead.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 30m 19s) | Exp/min:     12562 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.2   Mithrand      fol  797(1225)  171( 354) 344(344) | 100 |       833364 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  932( 932)  418(1063) 278(477) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  797(1231) 444(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  781(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  619(1541) 320(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  483(1476) 308(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  468(1202) 327(320) | 100 |       541449 |
+`-----------------------------------------------------------------------------'
+[02:21:44] hp 833/833 | sp 619/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+
+Replenish ally: 3
+Replenish ally: 2 (haste)
+Brock starts concentrating on a new spell.
+Replenish ally: 1
+Lammas [party]: too close too close
+You are done with the chant.
+CASTED.
+You spread your fingers and whisper 'enfuego delyo'
+You lose touch with the magic and the spell fizzles.
+You feel like you just saved some spell points!
+hp 833/833 () | sp 611/1541 (-8) | ep 320/322 ()
+Sarmangoth starts concentrating on a new spell.
+repl mithrand 200
+[02:21:54] hp 833/833 | sp 611/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+
+You start chanting.
+[02:21:54] hp 833/833 | sp 611/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+
+Nuane (party): Replenishing mithrand with 200 points
+[02:21:54] hp 833/833 | sp 611/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 30m 30s) | Exp/min:     12562 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.2   Mithrand      fol  797(1263)  171( 382) 344(363) | 100 |       833364 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  932( 932)  418(1063) 278(477) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  881(1231) 446(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  781(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  611(1541) 320(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  483(1476) 308(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  468(1202) 327(320) | 100 |       541449 |
+`-----------------------------------------------------------------------------'
+[02:21:55] hp 833/833 | sp 611/1541 | ep 320/322 | exp 1 | $ 0/156 | wimpy: off
+
+hp 833/833 () | sp 699/1541 (+88) | ep 322/322 (+2)
+Replenish ally: 6
+Replenish ally: 5 (haste)
+Info: Kotivalo dies.
+Brock cast(s) -> 'Major Heal'
+Brock casts her spell at Mithrand.
+Mithrand performs a solemn ceremony to please Aveallis.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 30m 31s) | Exp/min:     12562 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.2   Mithrand      fol 1250(1263)  171( 382) 343(363) | 100 |       833364 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  932( 932)  418(1063) 278(477) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  881(1231) 446(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  781(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  699(1541) 322(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  368(1476) 308(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  468(1202) 327(320) | 100 |       541449 |
+`-----------------------------------------------------------------------------'
+[02:21:56] hp 833/833 | sp 699/1541 | ep 322/322 | exp 1 | $ 0/156 | wimpy: off
+
+Brock starts concentrating on a new spell.
+Lammas [party]: meinaatko druff et yks spelli tappais jo lähes?
+Replenish ally: 4
+Replenish ally: 3
+Brock cast(s) -> 'Major Party Heal'
+Sarmangoth sings: 'What child is this, who laid to rest on Mary's lap is
+ sleeping, angels greet with anthems sweet while shepherds guard are keeping?
+ This, this is Christ the king, whom shephers guard and angels sing. Haste,
+ haste to bring him laude the babe, the son of Mary!'
+Brock starts concentrating on a new skill.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 30m 37s) | Exp/min:     12562 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+|*1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.2   Mithrand      fol 1263(1263)  171( 382) 343(363) | 100 |       833364 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  932( 932)  418(1063) 278(477) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  810(1231) 446(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  781(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  699(1541) 322(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  280(1476) 308(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  468(1202) 327(320) | 100 |       541449 |
+`-----------------------------------------------------------------------------'
+[02:22:02] hp 833/833 | sp 699/1541 | ep 322/322 | exp 1 | $ 0/156 | wimpy: off
+
+Sarmangoth starts concentrating on a new spell.
+Replenish ally: 2
+Brock performs a solemn ceremony to please Aveallis.
+Replenish ally: 1
+You are done with the chant.
+CASTED.
+You spread your fingers and whisper 'enfuego delyo'
+You place your hands on Mithrand's head and feel the energy flow from you.
+hp 833/833 () | sp 466/1541 (-233) | ep 322/322 ()
+Sarmangoth starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 30m 46s) | Exp/min:     12562 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+|*1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.2   Mithrand      fol 1263(1263)  382( 382) 343(363) | 100 |       833364 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  932( 932)  418(1063) 278(477) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  810(1231) 446(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  748(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  466(1541) 322(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  417(1476) 307(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  670(1202) 327(320) | 100 |       541449 |
+`-----------------------------------------------------------------------------'
+[02:22:11] hp 833/833 | sp 466/1541 | ep 322/322 | exp 1 | $ 0/156 | wimpy: off
+
+Mithrand starts concentrating on a new spell.
+Mysteryman [party]: habo cost 160sps
+Druff (party): no pari wepahittia ois piisannu
+Sarmangoth aborts the spell casting.
+Mysteryman [party]: norm 300
+save
+SAVED.
+[02:22:19] hp 833/833 | sp 466/1541 | ep 322/322 | exp 1 | $ 0/156 | wimpy: off
+
+Info: Starrlight left the game.
+Mithrand [party]: ### displacement DOWN: 3:50:3 ###
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 30m 55s) | Exp/min:     12562 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+|*1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.2   Mithrand      fol 1263(1263)  382( 382) 353(363) | 100 |       833364 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  932( 932)  526(1063) 291(477) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  921(1231) 446(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  887(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  466(1541) 322(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  417(1476) 307(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  670(1202) 327(320) | 100 |       541449 |
+`-----------------------------------------------------------------------------'
+[02:22:20] hp 833/833 | sp 466/1541 | ep 322/322 | exp 1 | $ 0/156 | wimpy: off
+
+Mysteryman [party]: so not many sps left
+hp 833/833 () | sp 584/1541 (+118) | ep 322/322 ()
+Mysteryman [party]: not many = few
+Lammas [party]: 151sps a while ago :P
+Info: Morag goes link dead.
+Info: Spick left the game.
+Rocker {party}: controlling
+Druff (party): iskin 14/24 jo
+Lammas looks at Mithrand.
+Mithrand draws a picture of a spider to air with glowing lines and chants
+ 'arachnid infernalicus arachnoidus demonicus'
+Mithrand mumbles something inconcievable.
+Mithrand starts concentrating on a new spell.
+Mithrand starts concentrating on a new skill.
+Rocker cast(s) -> 'Spider Demon Control'
+Mysteryman [party]: it heals!
+Lammas removes a mithril ring, called 'eckma', A heavy black metal ring labeled as (lammas), Red Glove of the Healer labeled as (lammas), Red Glove of the Healer labeled as (lammas), Boots of the Goddess labeled as (lammas), a majectical black crown, Girdle of Ethereal Power labeled as spr, a collar made of black silk labeled as (lammas), a wand of magic, a wand of magic, a battle-scarred shin guard labeled as (lammas), a battle-scarred shin guard labeled as (lammas) and Slime cloak labeled as (lammas).
+Lammas wears Mysterious glowing ringband [Made by: Markuz] labeled as 6int, Blackthorn Ring [Made by: Proteus] labeled as 5int1spr, a pair of black boots <yellow glow>, swirling bands of lava <flaming>, Tattered Silver Shimmering Cloak labeled as wis1 <orange glow>, gloves of Nimbleness labeled as <|qc|> <orange glow>, Scarf of Beauty labeled as (lammas), Girdle of Ethereal Power labeled as int <orange glow> and the shining helm of azakh-khanan labeled as ancient <orange glow>.
+Lammas wields The staff of Lerethin labeled as (lammas) (glowing) <orange glow> in its right hand.
+Lammas wields The staff of Lerethin labeled as (lammas) (glowing) <orange glow> in its left hand.
+Lammas [party]: goes
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: fuck the shit                (Members:  9) | Exp Tot:   4911797 |
+| Created: Sat May 24 18:43:01 2003        ( 6h 31m 16s) | Exp/min:     12530 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+|*1.1   Ksahn         fol 1491(1491)   32(  32) 409(409) |  78 |       466828 |
+| 1.2   Mithrand      fol 1263(1263)   91( 382) 353(363) | 100 |       833364 |
+| 1.3   Druff         fol 1976(1976)   44(  44) 421(421) |  83 |       484559 |
+| 2.1   Rocker        fol  932( 932)  613(1063) 304(477) | 100 |       541449 |
+| 2.2   Sarmangoth    fol  942( 942)  921(1231) 446(446) | 100 |       541449 |
+| 2.3   Mysteryman    fol 1238(1238)  887(1110) 471(466) | 100 |       541449 |
+| 3.1   Nuane         fol  833( 833)  584(1541) 322(322) |  82 |       479598 |
+| 3.2   Brock         fol  987( 987)  555(1476) 307(298) |  93 |       481652 |
+| 3.3   Lammas        ldr  803( 803)  860(1247) 327(316) | 100 |       541449 |
+`-----------------------------------------------------------------------------'
+[02:22:41] hp 833/833 | sp 584/1541 | ep 322/322 | exp 1 | $ 0/156 | wimpy: off
+
+Mithrand [party]: -=* no luck at all *=-
+cball
+You start chanting.
+You surreptitiously conceal your spell casting.
+[02:22:43] hp 833/833 | sp 584/1541 | ep 322/322 | exp 1 | $ 0/156 | wimpy: off
+
+Lammas leaves south.
+Brock flies to the south.
+Sarmangoth leaves south.
+Mithrand leaves south.
+Mysteryman leaves south.
+Ksahn leaves south.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Lord Soths' Chamber (n).
+Ksahn Perkeles the Barsoomian tortutus < fuck the shit >
+Mysteryman the Human < fuck the shit >
+Mithrand the black Centaur
+Sarmangoth Saurus the Sprite < fuck the shit >
+Brock Scotty the Thrikhren ompelukone tasapainoilija < fuck the shit >
+Lammas Sorkkaelain the wicked Kobold monkey see & do < fuck the shit >
+Lord Soth the Death Knight (undead)
+** Cost for '@south': Cost: utime:20 stime:10 ticks:144352 **
+Rocker arrives from north.
+Druff arrives from north.
+Lammas starts concentrating on a new offensive spell.
+Mithrand [party]: ### aura of hate DOWN: 3:50:27 ###
+Mithrand starts concentrating on a new offensive skill.
+Mithrand reports: Hp: 624 (1169) Sp: 91 (382) Ep: 353 (355).
+cball
+Brock starts concentrating on a new offensive spell.
+You start chanting.
+[02:22:44] hp 833/833 | sp 584/1541 | ep 322/322 | exp 1 | $ 0/156 | wimpy: off
+
+The air around Druff's Uncanny mace of Thunder is suddenly heavily distorted
+by crackling electric storm which grows larger and larger until finally
+discharging as a bright lightning striking upon shivering Lord Soth with
+TERRIFIC force.
+Channelball: 3
+Channelball: 1 (greater haste)
+Mysteryman starts concentrating on a new offensive spell.
+Sarmangoth starts concentrating on a new offensive spell.
+Druff reports: Hp: 1898 (1976) Sp: -200 (44) Ep: 421 (421).
+Mithrand is overwhelmed with pain as Lord Soth casts a Death spell on him.
+You are done with the chant.
+CASTED.
+You thrust your hands forward and scream 'shar ryo den...Haa!'
+The crackling small blue comet slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Lord Soth.
+p say Lord Soth writhes mana (20% resist).
+Lord Soth writhes in agony.
+hp 827/833 (-6) | sp 515/1541 (-69) | ep 319/322 (-3)
+scan all
+*****************************************************
+party say Mithrand has gone UNCONSCIOUS!
+Mithrand lapses into unconsciousness from severe loss of blood.
+A large hole replaces Mithrand's face.
+save
+Mithrand is DEAD, R.I.P.
+Lord Soth shouts 'Next time, Mithrand, bring me your friends too!'
+Mithrand dies.
+Mithrand's corpse is collected by Death, clad in black.
+Lord Soth hits Mithrand 5 times.
+Ksahn says 'Hp: 1487 (1491) Sp: 32 (32) Ep: 409 (409).'
+Ghost of Mithrand [party]: ### Auts, it HURTS! ###
+Ksahn [party]: Mithrand has gone UNCONSCIOUS!
+Mithrand reports: Hp: 1 (1131) Sp: 91 (354) Ep: 353 (336).
+Druff (party): Mithrand went unconn!
+Sarmangoth [party]: Mithrand has gone UNCONSCIOUS!
+Nuane (party): Lord Soth writhes mana (20% resist).
+[02:22:48] hp 827/833 | sp 515/1541 | ep 319/322 | exp 1 | $ 0/156 | wimpy: off
+
+Lord Soth is near death.
+[02:22:48] hp 827/833 | sp 515/1541 | ep 319/322 | exp 1 | $ 0/156 | wimpy: off
+
+Nuane (party): Mithrand has gone UNCONSCIOUS!
+[02:22:48] hp 827/833 | sp 515/1541 | ep 319/322 | exp 1 | $ 0/156 | wimpy: off
+
+SAVED.
+[02:22:48] hp 827/833 | sp 515/1541 | ep 319/322 | exp 1 | $ 0/156 | wimpy: off
+
+Brock utters holy words praising Las and zaps the spell dispel evil.
+Waves of holy force enfold Brock as dazzling flash erupts from her Rosary of
+Truth and strikes with blazing rage upon Lord Soth.
+Lord Soth staggers... then falls backwards on the floor. He tries to get to
+  his knees, but then eyes you... almost ironically... 
+  
+There is a rustling sigh from his helmet. He says in a peaceful voice: 'I...
+  thank you for lifting this blackest curse from my soul...'
+  ... and then he looks heavenwards and summons his last dieing strength:
+  
+Lord Soth shouts 'TAKHISIS!!! I AM YOUR SERVANT NO LONGER!'
+  
+The glow from his burning eyes seems to fade and disappear within the depths
+  of his helmet.
+  
+Amused laughter echoes throughout the heavens.
+  A seductive voice says 'Brock may have delivered you from your physical
+  body... but I still have your soul Soth... still have your soul... still
+  have your...'
+  
+The voice fades away leaving behind a sense of vengefulness...
+  
+Lord Soth's skull splits wide open, revealing some mushy-green substance.
+save
+Lord Soth is DEAD, R.I.P.
+The magic mist around the dead Lord Soth's neck leaps to your Kerbholz.
+A new mark appears.
+The magic mist around the dead Lord Soth's neck leaps to Druff's Kerbholz.
+The magic mist around the dead Lord Soth's neck leaps to Lammas's Kerbholz.
+The magic mist around the dead Lord Soth's neck leaps to Rocker's Kerbholz.

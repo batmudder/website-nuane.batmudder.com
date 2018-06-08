@@ -1,0 +1,348 @@
+You are done with the chant.
+You cast(s): 'gwwaaajj' (Summon)
+Lambda snaps into existence.
+hp 537/537 () | sp 639/858 (-192) | ep 254/254 ()
+You start chanting.
+[17:51:40] hp 537/537 | sp 639/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+You zap Lambda with Custom wand named channelball (1/100).
+The fist-sized ball of white light slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Lambda.
+*****************************************************
+An image of Nuane vanishes.
+An image of Nuane vanishes.
+Lambda hits Nuane 2 times.
+hp 531/537 (-6) | sp 633/858 (-6) | ep 251/254 (-3)
+Lambda grunts from the pain.
+[17:51:40] hp 537/537 | sp 639/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+You are casting 'channelball'.
+[17:51:40] hp 537/537 | sp 639/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda is not in a good shape. (35-50% hps)
+[17:51:40] hp 537/537 | sp 639/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Info: Tanta goes link dead.
+Nuane (party): Lambda grunts mana (60% resist).
+[17:51:41] hp 531/537 | sp 633/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Channelball: 3
+*****************************************************
+An image of Nuane vanishes.
+An image of Nuane vanishes.
+Lambda hits Nuane 2 times.
+You are casting 'channelball'.
+[17:51:42] hp 531/537 | sp 633/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda is not in a good shape. (35-50% hps)
+[17:51:42] hp 531/537 | sp 633/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Info: Alvin enters the game.
+Lambda suddenly snaps out of existence.
+Channelball: 2
+Nanna (twilight+): HAHAH
+[17:51:48] hp 531/537 | sp 633/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Channelball: 1
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[17:51:50] hp 531/537 | sp 633/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+Summon: 3
+Summon: 1 (greater haste)
+Trainer shouts 'I fart in your general direction, Warre!'
+Info: Warre dies.
+You are done with the chant.
+You cast(s): 'gwwaaajj' (Summon)
+Lambda snaps into existence.
+hp 531/537 () | sp 439/858 (-194) | ep 251/254 ()
+You start chanting.
+[17:51:55] hp 531/537 | sp 439/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+*****************************************************
+An image of Nuane vanishes.
+Lambda hits Nuane 2 times.
+hp 514/537 (-17) | sp 439/858 () | ep 251/254 ()
+[17:51:57] hp 514/537 | sp 439/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+You are casting 'channelball'.
+[17:51:57] hp 514/537 | sp 439/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda is not in a good shape. (35-50% hps)
+[17:51:57] hp 514/537 | sp 439/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Channelball: 3
+Channelball: 2 (haste)
+Lambda suddenly snaps out of existence.
+Channelball: 1
+Atomska [wanted]: relo+dim door
+Nanna (twilight+): SUMMONBALl :D
+[17:52:02] hp 514/537 | sp 439/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[17:52:03] hp 514/537 | sp 439/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+Summon: 3
+Da Makkara [twilight+]: HOMO
+Da Makkara [twilight+]: HOMO
+Da Makkara [twilight+]: HOMO
+hp 518/537 (+4) | sp 469/858 (+30) | ep 254/254 (+3)
+Summon: 2
+Summon: 1 (haste)
+Info: Finwe enters the game.
+TIGERPUMP [twilight+]: :-D
+Nanna (twilight+): MUN
+[17:52:09] hp 518/537 | sp 469/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+You are done with the chant.
+You cast(s): 'gwwaaajj' (Summon)
+Lambda snaps into existence.
+hp 518/537 () | sp 311/858 (-158) | ep 254/254 ()
+You start chanting.
+[17:52:10] hp 518/537 | sp 311/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+*****************************************************
+An image of Nuane vanishes.
+An image of Nuane vanishes.
+Lambda hits Nuane 2 times.
+[17:52:11] hp 518/537 | sp 311/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+You are casting 'channelball'.
+[17:52:11] hp 518/537 | sp 311/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda is not in a good shape. (35-50% hps)
+[17:52:11] hp 518/537 | sp 311/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+TIGERPUMP [twilight+]: Lambda suddenly snaps out of existence.
+Channelball: 3
+*****************************************************
+An image of Nuane vanishes.
+An image of Nuane vanishes.
+Lambda hits Nuane 2 times.
+You are casting 'channelball'.
+[17:52:13] hp 518/537 | sp 311/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda is not in a good shape. (35-50% hps)
+[17:52:13] hp 518/537 | sp 311/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Info: Tornipeikko goes link dead.
+Channelball: 2
+Channelball: 1 (haste)
+*****************************************************
+Blnk tells you 'VITUN HOMO'
+You are casting 'channelball'.
+[17:52:16] hp 518/537 | sp 311/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda is not in a good shape. (35-50% hps)
+[17:52:16] hp 518/537 | sp 311/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda suddenly snaps out of existence.
+You are done with the chant.
+Cast channelball at what?
+hp 518/537 () | sp 307/858 (-4) | ep 254/254 ()
+You start chanting.
+[17:52:20] hp 518/537 | sp 307/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Channelball: 3
+Nanna (twilight+): VITTU :D
+[17:52:22] hp 518/537 | sp 307/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Info: Shaolin recovers from link death.
+Info: Sprite goes link dead.
+Channelball: 2
+Channelball: 1 (haste)
+You are done with the chant.
+Cast channelball at what?
+hp 518/537 () | sp 304/858 (-3) | ep 254/254 ()
+Da Makkara [twilight+]: SE ON MUN
+Pehtoori (fin): ei tarvi mit‰‰n merelixejak‰‰n tappaa ku chainaa runic healia itteensa :)
+Nanna (twilight+): :D
+[17:52:30] hp 518/537 | sp 304/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Ghost of Murdoch [ghost]: ress prkl!
+Da Makkara [twilight+]: reloo tappamaan se
+Pehtoori (fin): kuinkaha monta noita lˆytyy ku alkaa miettiin
+hp 522/537 (+4) | sp 333/858 (+29) | ep 254/254 ()
+TIGERPUMP [twilight+]: summikaa
+Kawasa (fin): miteh‰ mithrandir hmm
+You start chanting.
+[17:52:40] hp 522/537 | sp 333/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Info: Delamar enters the game.
+Info: Raist goes link dead.
+Relocate: 2
+Relocate: 1 (haste)
+Blnk tells you 'summoning..'
+You are done with the chant.
+You cast(s): 'xafe uurthq' (Relocate/Phaze shift)
+You sense your surroundings distorting and then snap.
+All of your images vanish!
+In the freezer ().
+mudpit full of thick oozing mud
+Lambda the member of Catfolk
+Blnk Biatch the grey Elf trafficing minister of midian
+Ice cube, cooling itself here
+hp 522/537 () | sp 245/858 (-88) | ep 254/254 ()
+You start chanting.
+[17:52:46] hp 522/537 | sp 245/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+You feel no longer protected from being stunned.
+Blnk aborts the spell casting.
+Nuane (party): Iron will off.
+[17:52:48] hp 522/537 | sp 245/858 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda starts concentrating on a new spell.
+Channelball: 3
+Blnk starts concentrating on a new offensive spell.
+Toag {fin}: eidilon ja true heal twiddleee
+Blnk goes 'Ooooo...'.
+Info: Walciz left the game.
+Channelball: 2
+Channelball: 1 (haste)
+Lambda cast(s): 'judicandus mercuree' (Cure light wounds)
+Lambda starts concentrating on a new spell.
+You are done with the chant.
+You cast(s): 'shar ryo den...Haa!' (Channelball)
+The fist-sized ball of white light slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Lambda.
+Lambda lapses into unconsciousness from severe loss of blood.
+*****************************************************
+Nuane hits Lambda 2 times.
+hp 516/537 (-6) | sp 203/858 (-42) | ep 251/254 (-3)
+Nuane (party): Lambda has gone UNCONSCIOUS!
+[17:52:55] hp 516/537 | sp 203/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Nomiculious [wanted]: 1 of the 77 fucking tarms for exp.
+You are not doing anything at the moment.
+[17:52:55] hp 516/537 | sp 203/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda is near death. (0-10% hps)
+[17:52:55] hp 516/537 | sp 203/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+You start chanting.
+[17:52:56] hp 516/537 | sp 203/858 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Blnk yells hysterically 'No! No! Nooooo!'.
+Channelball: 3
+*****************************************************
+Nuane hits Lambda 2 times.
+The psionic shield vanishes.
+You are casting 'channelball' at 'lambda'.
+[17:52:58] hp 516/342 | sp 203/1151 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda is near death. (0-10% hps)
+[17:52:58] hp 516/342 | sp 203/1151 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Ghost of Murdoch [ghost]: got from B
+Toag {fin}: noooh runilla vaa
+Blnk cast(s): '& ^'
+Blnk's druidstaff is surrounded by a sudden cloudburst, and you can see her
+ glorying in sheer power.
+A beam of multi-hued firelight springs from Blnk's gem.
+Blnk grins as her gem fire hits Lambda.
+hp 342/342 (-174) | sp 203/1151 () | ep 251/254 ()
+Channelball: 2
+Channelball: 1 (haste)
+Ice cube cools himself a bit.'
+*****************************************************
+Nuane hits Lambda 2 times.
+You are casting 'channelball' at 'lambda'.
+[17:53:01] hp 342/342 | sp 203/1151 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Lambda is near death. (0-10% hps)
+[17:53:01] hp 342/342 | sp 203/1151 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Kawasa (fin): fouli kans :P
+Blnk says 'MINE :D.'
+Hannah [fin]: no mithrandiha l‰htee pakoo ja ei mee takas roomii et sit‰ turha tappaa
+Toag {fin}: charge
+You are done with the chant.
+You cast(s): 'shar ryo den...Haa!' (Channelball)
+The fist-sized ball of white light slams into your target and explodes in a deafening bang!
+You watch with selfpride as your channelball hits Lambda.
+Lambda moves on to happier hunting grounds.
+Lambda is DEAD, R.I.P.
+Your keen senses note a disturbance seconds before the ambush!
+Lambda's corpse is collected by Death, clad in black.
+hp 336/342 (-6) | sp 161/1151 (-42) | ep 248/254 (-3)
+Blnk starts concentrating on a new offensive spell.
+SAVED.
+[17:53:04] hp 336/342 | sp 161/1151 | ep 248/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Blnk aborts the spell casting.
+Blnk starts concentrating on a new spell.
+You are in freezer of the kitchen of the newbie king.
+This place looks empty, though there are few shelves on the walls.
+You see a little lamp on the ceiling.
+Iron door to the freezer (closed) leads southwest.
+There are no obvious exits.
+mudpit full of thick oozing mud
+Blnk Biatch the grey Elf trafficing minister of midian
+Ice cube, cooling itself here
+[17:53:06] hp 336/342 | sp 161/1151 | ep 248/254 | exp 618 | $ 500/13974 | wimpy: off
+
+hp 340/342 (+4) | sp 189/1151 (+28) | ep 251/254 (+3)
+Info: Peon goes link dead.
+Info: Leper goes link dead.
+Broetchen the bat (fin): fouli on runin monsu muutenkin
+Blnk goes 'Heh'.
+Nanna (twilight+): hahah
+[17:53:11] hp 340/342 | sp 189/1151 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Blnk cast(s): 'xafe ayz xckgandhuzqarr' (Teleport without error)
+Blnk vanishes in a bright flash as reality snaps.
+You start chanting.
+[17:53:16] hp 340/342 | sp 189/1151 | ep 251/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Info: Kazzu goes link dead.
+TIGERPUMP [twilight+]: Lambda sells 1 task points.
+Teleport without error: 3
+Kawasa (fin): mjoo mut ei se aina mee :P
+Teleport without error: 2
+Teleport without error: 1 (haste)
+You are done with the chant.
+You cast(s): 'xafe ayz xckgandhuzqarr' (Teleport without error)
+You sense your surroundings distorting and then snap.
+(house) Seurojentalon ruokasali (s).
+big and heavy construction table (bolted), a gargantuan bamboo
+vault reinforced with dukonium labeled as WATERPIXIE, a beautifully
+crafted scroll cabinet labeled as misc (closed), a large fountain
+(full), a zircon safe labeled as possu_pelle <blue
+glow>, a large emerald vault reinforced with dukonium labeled as
+jottai (closed), a beautifully crafted scroll cabinet labeled as
+typeprot (closed), a large ruby vault reinforced with emerald labeled
+as powerlol (closed), a large emerald vault reinforced with dukonium
+labeled as hermunen <blue glow>, an ebony safe
+reinforced with dukonium labeled as 9slot <blue glow>, a
+wood chest reinforced with aluminium labeled as huppa, a gargantuan
+ebony vault reinforced with dukonium labeled as mulk <blue
+glow>, a gargantuan ebony vault reinforced with dukonium labeled
+as pernajumppa <blue glow>, a big, sturdy looking safe
+labeled as pomppulinna <blue glow>, a gargantuan ebony
+vault reinforced with dukonium labeled as vilma <blue glow>,
+a small, dark crystal shaped like a star, a large trashcan,
+a gargantuan sapphire vault reinforced with emerald labeled as meeting
+(closed) <blue glow>, a beautifully crafted scroll
+cabinet labeled as field (closed), a beautifully crafted scroll
+cabinet labeled as misc2 (closed), an ebony safe labeled as
+sianvagina <blue glow>, a big bamboo sailor chest
+reinforced with ebony labeled as runkkukakka <blue glow>,
+a gargantuan emerald vault reinforced with dukonium labeled as
+12slot, a large ebony vault reinforced with dukonium labeled as
+11slot (closed), a gargantuan emerald vault reinforced with dukonium
+labeled as ylpeys2 (closed) and a large ebony vault reinforced with
+dukonium labeled as temp2 (closed)
+MAULASEN ROLLO :DDDDDDDDDDDDDD
+hp 340/342 () | sp 50/1151 (-139) | ep 251/254 ()
+Juggelo <fin>: ei eidiloni fukkaannu tuosta
+Info: Jantsu enters the game.
+You feel fully healed.
+hp 342/342 (+2) | sp 143/1151 (+93) | ep 254/254 (+3)
+Nuane (party): Full hp.
+[17:53:37] hp 342/342 | sp 143/1151 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+Nanna (twilight+): rupes v‰h‰ repeilytt‰‰ ku lambda snaps into lambda snaps from lambda snaps into lambda snaps from lambda snaps into lambda snaps from
+[17:53:40] hp 342/342 | sp 143/1151 | ep 254/254 | exp 618 | $ 500/13974 | wimpy: off
+
+TIGERPUMP [twilight+]: :-D

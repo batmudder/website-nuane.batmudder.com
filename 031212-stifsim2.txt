@@ -1,0 +1,709 @@
+Dupre [party]: menis
+Someone removes leggings of putrid flesh (undead), a white glove labeled as <|MAD|>, a white glove labeled as <|MAD|>, Mirror breastplate, a golden necklace studded with huge diamonds labeled as <|ancient|>, a black hood labeled as <|MAD|>, a dusty book concerning the truth and the creation, A heavy black metal ring, A heavy black metal ring, Slime cloak labeled as <|MAD|>, Boots of the Goddess, medallion of honor, Sacred Bracelets of Eternity, Girdle of Ethereal Power labeled as <|MAD/Spr|>, the pikebone kanteel and Golden Bracelets.
+Kozma aborts the spell casting.
+Someone wears gloves of Nimbleness <orange glow>, A blue hat of wizardy labeled as <|MAD|> <orange glow>, a dull black amulet...it has a black aura around it <yellow glow>, a black cloak (evil glow) labeled as <|MAD-AK|> <yellow glow>, Ring of the Medusa labeled as <|MAD|> <red glow>, Ring of the Medusa labeled as <|MAD|> <red glow>, segmented titanium belt labeled as intti <yellow glow>, Golden Bracelets <orange glow>, a little leather bag, a pair of black boots <yellow glow>, Glass armbands labeled as <|MAD|> <yellow glow>, moonstone leggings labeled as <|MAD|> and a sparkling breastplate <orange glow>.
+Someone wields The staff of Lerethin labeled as <|MAD|> (glowing) <orange glow> in her right hand.
+Someone wields The staff of Lerethin labeled as <|MAD|> (glowing) <orange glow> in her left hand.
+Someone tiptoes to the north.
+Someone lahkottaa north.
+Someone leaves north.
+Stifsim's cavern (e,w,n,ne,nw,s).
+(Susette the Sprite goes PAF PAF PAF! < moo! >)
+(Cyberlahko Lahkottaja the grey Elf vajukki < moo! >)
+(Dupre Talakkuna the Cromagnon hehhi from hmm < moo! >)
+a massive ice golem guarding the entrance
+Your keen senses note a disturbance seconds before the ambush!
+Someone arrives from south.
+Someone sneaks in from south.
+Someone arrives from south.
+Someone arrives from south.
+Someone arrives from south.
+[party]: Elero Avoided Ambush!
+cast info
+scan all
+pr
+*****************************************************
+Someone hits Golem 1 time.
+Golem hits Someone 1 time.
+Someone hits Golem 2 times.
+Someone hits Golem 2 times.
+hp 1839/1853 (-22) | sp 20/20 () | ep 360/406 ()
+Someone reports: Hp: 1650 (1692) Sp: 815 (877) Ep: 584 (562).
+You are not doing anything at the moment.
+[00:52:45] hp 1839/1853 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Golem is in excellent shape. (90-100% hps)
+[00:52:46] hp 1839/1853 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone reports: Hp: 1839 (1853) Sp: 20 (20) Ep: 360 (406).
+[00:52:46] hp 1839/1853 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Info: Caronte enters the game.
+cast info
+scan all
+pr
+*****************************************************
+Someone hits Golem 2 times.
+Someone reports: Hp: 1650 (1692) Sp: 815 (877) Ep: 584 (562).
+You are not doing anything at the moment.
+[00:52:48] hp 1839/1853 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Golem is in excellent shape. (90-100% hps)
+[00:52:48] hp 1839/1853 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone reports: Hp: 1839 (1853) Sp: 20 (20) Ep: 360 (406).
+[00:52:48] hp 1839/1853 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+cast info
+scan all
+pr
+*****************************************************
+Someone hits Golem 1 time.
+Golem hits Someone 1 time.
+Someone hits Golem 2 times.
+Someone hits Golem 2 times.
+hp 1837/1852 (-2) | sp 20/20 () | ep 360/406 ()
+Someone reports: Hp: 1605 (1675) Sp: 815 (877) Ep: 584 (562).
+You are not doing anything at the moment.
+[00:52:51] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Golem is in excellent shape. (90-100% hps)
+[00:52:51] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone reports: Hp: 1837 (1852) Sp: 20 (20) Ep: 360 (406).
+[00:52:51] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone tiptoes to the north.
+Someone lahkottaa north.
+Someone leaves north.
+Stifsim's cavern (e,w,s,n,ne,nw,sw,se).
+(Susette the Sprite goes PAF PAF PAF! < moo! >)
+(Cyberlahko Lahkottaja the grey Elf vajukki < moo! >)
+(Dupre Talakkuna the Cromagnon hehhi from hmm < moo! >)
+an ice drake flying towards you
+Someone arrives from south.
+cast info
+scan all
+pr
+*****************************************************
+Someone hits Ice drake 1 time.
+Someone hits Ice drake 2 times.
+Ice drake hits Someone 1 time.
+Someone sneaks in from south.
+Someone arrives from south.
+Someone arrives from south.
+Someone arrives from south.
+Info: Nullnullatte enters the game.
+You are not doing anything at the moment.
+[00:52:52] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Ice drake is in excellent shape. (90-100% hps)
+[00:52:52] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone reports: Hp: 1837 (1852) Sp: 20 (20) Ep: 360 (406).
+[00:52:52] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+[party]: Elero Avoided Ambush!
+cast info
+scan all
+pr
+*****************************************************
+Someone hits Ice drake 2 times.
+Someone hits Ice drake 1 time.
+Someone hits Ice drake 1 time.
+Someone reports: Hp: 1605 (1675) Sp: 815 (877) Ep: 584 (562).
+You are not doing anything at the moment.
+[00:52:54] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Ice drake is in excellent shape. (90-100% hps)
+[00:52:54] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone reports: Hp: 1837 (1852) Sp: 20 (20) Ep: 360 (406).
+[00:52:54] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+cast info
+scan all
+pr
+*****************************************************
+Someone hits Ice drake 2 times.
+Ice drake hits Someone 1 time.
+Someone hits Ice drake 1 time.
+Someone reports: Hp: 1597 (1672) Sp: 815 (877) Ep: 584 (562).
+You are not doing anything at the moment.
+[00:52:57] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Ice drake is in excellent shape. (90-100% hps)
+[00:52:58] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone reports: Hp: 1837 (1852) Sp: 20 (20) Ep: 360 (406).
+[00:52:58] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+cast info
+scan all
+pr
+*****************************************************
+You score a CRITICAL hit!
+Someone hits Ice drake 2 times.
+Someone hits Ice drake 2 times.
+Ice drake hits Someone 2 times.
+Someone hits Ice drake 2 times.
+Someone reports: Hp: 1557 (1659) Sp: 815 (877) Ep: 584 (562).
+You are not doing anything at the moment.
+[00:53:00] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Ice drake is in a good shape. (80-90% hps)
+[00:53:00] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone reports: Hp: 1837 (1852) Sp: 20 (20) Ep: 360 (406).
+[00:53:00] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone tiptoes to the north.
+Someone lahkottaa north.
+Someone leaves north.
+Stifsim's cavern (e,w,s,n,ne,nw,sw,se).
+(Susette the Sprite goes PAF PAF PAF! < moo! >)
+(Cyberlahko Lahkottaja the grey Elf vajukki < moo! >)
+(Dupre Talakkuna the Cromagnon hehhi from hmm < moo! >)
+Someone arrives from south.
+Someone sneaks in from south.
+Someone arrives from south.
+Someone arrives from south.
+Someone arrives from south.
+Info: Dutois goes link dead.
+Someone tiptoes to the north.
+Someone lahkottaa north.
+Someone leaves north.
+Stifsim's cavern (e,w,s,n,ne,nw,sw,se).
+(Susette the Sprite goes PAF PAF PAF! < moo! >)
+(Cyberlahko Lahkottaja the grey Elf vajukki < moo! >)
+(Dupre Talakkuna the Cromagnon hehhi from hmm < moo! >)
+a large ice drake flying towards you
+The ancient elemental Wyrm called Stifsim
+Your keen senses note a disturbance seconds before the ambush!
+Your keen senses note a disturbance seconds before the ambush!
+Someone arrives from south.
+Someone sneaks in from south.
+Someone arrives from south.
+Someone arrives from south.
+Someone arrives from south.
+k dupre
+t stifsim
+sl stifsim
+p say Invisibility down.
+You turn visible.
+[00:53:02] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+[00:53:02] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+You are now targetting Stifsim.
+[00:53:02] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane (party): Target set: 'stifsim'.
+[00:53:02] hp 1837/1852 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Your flex shield wobbles and part of the attack gets absorbed!
+Your flex shield wobbles and part of the attack gets absorbed!
+Large ice drake hits Nuane 2 times.
+Someone hits Large ice drake 2 times.
+cast info
+scan all
+pr
+*****************************************************
+Someone hits Stifsim 1 time.
+Stifsim hits Someone 1 time.
+Nuane hits Stifsim 2 times.
+hp 1748/1822 (-89) | sp 20/20 () | ep 360/406 ()
+[00:53:03] hp 1748/1822 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone starts concentrating on a new offensive spell.
+Someone starts concentrating on a new spell.
+Someone starts concentrating on a new offensive spell.
+You start concentrating on the skill.
+[00:53:03] hp 1748/1822 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone reports: Hp: 1418 (1608) Sp: 789 (877) Ep: 584 (562).
+Stifsim is already wounded, not worth the glory.
+[00:53:03] hp 1748/1822 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone starts concentrating on a new spell.
+Nuane (party): Invisibility down.
+[00:53:04] hp 1748/1822 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Akvavitix [party]: Concealed
+You are using 'slash' at 'stifsim'.
+[00:53:04] hp 1748/1822 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:04] hp 1748/1822 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane reports: Hp: 1748 (1822) Sp: 20 (20) Ep: 360 (406).
+[00:53:04] hp 1748/1822 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+cast info
+scan all
+pr
+*****************************************************
+Your flex shield wobbles and part of the attack gets absorbed!
+Your flex shield wobbles and part of the attack gets absorbed!
+The protective celestial aura around you glimmers magically.
+party say It hurts it hurts :(
+That really HURT!
+Stifsim hits Nuane 3 times.
+hp 1343/1712 (-405) | sp 20/20 () | ep 360/406 ()
+You are using 'slash' at 'stifsim'.
+[00:53:06] hp 1343/1712 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:06] hp 1343/1712 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+(party): Mandrake : Targeting > wyrm
+Nuane reports: Hp: 1343 (1712) Sp: 20 (20) Ep: 360 (406).
+[00:53:06] hp 1343/1712 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane (party): It hurts it hurts :(
+[00:53:06] hp 1343/1712 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Someone reports: Hp: 1418 (1608) Sp: 789 (877) Ep: 584 (562).
+Info: Dutois recovers from link death.
+Info: Zoloft recovers from link death.
+Large ice drake hits Someone 1 time.
+cast info
+scan all
+pr
+*****************************************************
+Someone hits Stifsim 1 time.
+Stifsim hits Someone 3 times.
+Nuane hits Stifsim 1 time.
+hp 1340/1711 (-3) | sp 20/20 () | ep 360/406 ()
+Someone reports: Hp: 1288 (1569) Sp: 789 (877) Ep: 584 (562).
+You are using 'slash' at 'stifsim'.
+[00:53:09] hp 1340/1711 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:10] hp 1340/1711 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane reports: Hp: 1340 (1711) Sp: 20 (20) Ep: 360 (406).
+[00:53:10] hp 1340/1711 | sp 20/20 | ep 360/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Dupre [party]: < Invisibility DOWN > [1:46]
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Stifsim.
+Dupre's powerful bash sends Stifsim sprawling to the floor.
+Stifsim cast(s): 'saugaiii' (Poison)
+You SAVE against POISON.
+cast info
+scan all
+pr
+*****************************************************
+Stifsim hits Someone 3 times.
+You are prepared to do the skill.
+Your enemy gasps as you slash a wound across its forehead!
+...And you turn suddenly and STRIKE again.
+hp 1340/1711 () | sp 20/20 () | ep 328/406 (-32)
+Mandrake cast(s): 'yugzhrr paf' (Aneurysm)
+Mandrake casts a harming spell on Stifsim.
+Mandrake reports: Hp: 560 (1416) Sp: 644 (877) Ep: 584 (562).
+You are not doing anything at the moment.
+[00:53:12] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+(party): Mandrake : Unpain Expires. [5m35s]
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:12] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane reports: Hp: 1340 (1711) Sp: 20 (20) Ep: 328 (406).
+[00:53:12] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Delpers starts concentrating on a new offensive spell.
+Mandrake starts concentrating on a new offensive spell.
+Dupre starts concentrating on a new offensive skill.
+sl stifsim
+Info: Dutois left the game.
+[00:53:14] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+You start concentrating on the skill.
+[00:53:14] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Stifsim is already wounded, not worth the glory.
+[00:53:14] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Akvavitix cast(s): 'aamad ato naav aanarub atyak ala' (Psychic purge)
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Stifsim.
+Mandrake's flex shield wobbles.
+Large ice drake hits Mandrake 1 time.
+Elero cast(s): 'judicandus eurto mangenic' (True party heal)
+Elero screams with frustration as his spell fails.
+cast info
+scan all
+pr
+*****************************************************
+Mandrake's flex shield wobbles.
+party say Mandrake has gone UNCONSCIOUS!
+Mandrake lapses into unconsciousness from severe loss of blood.
+Mandrake's flex shield wobbles.
+Mandrake's flex shield wobbles.
+Mandrake stops existing in this reality.
+get all from corpse
+get corpse
+get all
+save
+Mandrake is DEAD, R.I.P.
+Stifsim shouts 'Let's do that again sometime, Mandrake!'
+Mandrake dies.
+Mandrake's corpse is collected by Death, clad in black.
+Stifsim hits Mandrake 5 times.
+Nuane hits Stifsim 1 time.
+Dupre hits Stifsim 1 time.
+Torc cast(s): 'nilaehz temnahecne neg'
+Stifsim turns very pale!
+Susette [party]: < Invisibility DOWN > [1:45]
+[party]: Akvavitix is visible.
+Mandrake reports: Hp: 1 (1111) Sp: 644 (740) Ep: 584 (387).
+(party): Ghost of Mandrake is no longer stunned.
+Susette [party]: Mandrake is Uncon!
+Torc [party]: Cot in
+You are using 'slash' at 'stifsim'.
+[00:53:15] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+(party): Ghost of Mandrake : Flex Shield Expires. [5m35s]
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:16] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Torc starts concentrating on a new spell.
+Nuane reports: Hp: 1340 (1711) Sp: 20 (20) Ep: 328 (406).
+[00:53:16] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane (party): Mandrake has gone UNCONSCIOUS!
+[00:53:16] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Elero [party]: SOMEONE UNCON
+There is no corpse here.
+[00:53:16] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+There is nothing here called corpse!
+[00:53:16] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nothing taken!
+[00:53:16] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+SAVED.
+[00:53:16] hp 1340/1711 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Akvavitix [party]: Concealed
+Elero starts concentrating on a new spell.
+Torc starts concentrating on a new spell.
+Torc starts concentrating on a new spell.
+Cyberlahko hurls an invisible ball and yells 'incantar enfeugo aggriva' (Energy vortex)
+As the spell is completed, wild colours spring to life, twirling and swirling
+in a kind of sideways tornado, focussing in on a single point...
+...Stifsim!
+Stifsim ignores the spell completely.
+You feel like Matriam healed you a bit.
+Stifsim ROARS 'Taste the sweetness of my eternal ice!'
+Cyberlahko is now in the 1st row.
+Torc is now in the 2nd row.
+Large ice drake hits Cyberlahko 3 times.
+cast info
+scan all
+pr
+*****************************************************
+Dupre's flex shield wobbles.
+Dupre's flex shield wobbles.
+Stifsim hits Dupre 3 times.
+Nuane hits Stifsim 1 time.
+Cyberlahko hits Stifsim 1 time.
+hp 1400/1710 (+60) | sp 20/20 () | ep 391/406 (+63)
+You are prepared to do the skill.
+Your enemy gasps as you slash a wound across its forehead!
+hp 1400/1710 () | sp 20/20 () | ep 359/406 (-32)
+Cyberlahko [party]: -=> invisibility (off) <=-
+Dupre [party]: < Unpain DOWN > [5:52]
+You are not doing anything at the moment.
+[00:53:18] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Cyberlahko starts concentrating on a new offensive spell.
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:19] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+*Akvavitix ticks 82sps [24s].
+*Torc ticks 97sps (1179/1286) in 1m19s.
+Nuane reports: Hp: 1400 (1710) Sp: 20 (20) Ep: 359 (406).
+[00:53:19] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+sl stifsim
+
+[00:53:19] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+You start concentrating on the skill.
+[00:53:19] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Stifsim is already wounded, not worth the glory.
+[00:53:19] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers mumbles something inconcievable.
+Dupre's powerful bash sends Stifsim sprawling to the floor.
+Stifsim cast(s): 'vaka tosi vanha vainamoinen' (Area entropy)
+You feel much older.
+party say Cyberlahko has gone UNCONSCIOUS!
+Cyberlahko lapses into unconsciousness from severe loss of blood.
+Cyberlahko moves on to happier hunting grounds.
+get all from corpse
+get corpse
+get all
+save
+Cyberlahko is DEAD, R.I.P.
+Stifsim shouts 'Cyberlahko, I rather enjoyed killing you!'
+Cyberlahko dies.
+Cyberlahko's corpse is collected by Death, clad in black.
+Large ice drake hits Cyberlahko 3 times.
+Torc is now in the 1st row.
+cast info
+scan all
+pr
+*****************************************************
+party say Torc has gone UNCONSCIOUS!
+Torc lapses into unconsciousness from severe loss of blood.
+You get bad vibrations as Torc's spine snaps with an audible *SNAP*.
+get all from corpse
+get corpse
+get all
+save
+Torc is DEAD, R.I.P.
+Large ice drake shouts 'Torc bites the dust!'
+Torc dies.
+Torc's corpse is collected by Death, clad in black.
+Stifsim hits Torc 6 times.
+Info: Mackakkonen goes link dead.
+Ghost of Cyberlahko [party]: -=> stun (off) <=-
+Ghost of Cyberlahko [party]: -=> protection from evil (off) <=-
+Nuane (party): Cyberlahko has gone UNCONSCIOUS!
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Susette [party]: Cyberlahko is Uncon!
+Akvavitix [party]: PfE Down [3m10s]
+Ghost of Cyberlahko [party]: -=> unpain (off) <=-
+There is no corpse here.
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Kozma (fall+): raiseen mankun
+[party]: Ghost of Torc is no longer stunned.
+There is nothing here called corpse!
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Susette [party]: Torc is Uncon!
+Nothing taken!
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Delpers starts concentrating on a new offensive spell.
+SAVED.
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Info: Elmoth recovers from link death.
+You are using 'slash' at 'stifsim'.
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Elero [party]: SOMEONE UNCON
+Nuane reports: Hp: 1400 (1710) Sp: 20 (20) Ep: 359 (406).
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Elero [party]: SOMEONE UNCON
+Nuane (party): Torc has gone UNCONSCIOUS!
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+There is no corpse here.
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+There is nothing here called corpse!
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nothing taken!
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+SAVED.
+[00:53:22] hp 1400/1710 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Ghost of Mandrake (party): vittu ei järkee kyllä :)
+That really hurt! You just have to stop your skill.
+You lose your concentration and cannot do the skill.
+Large ice drake hits Nuane 1 time.
+cast info
+scan all
+pr
+*****************************************************
+Your flex shield wobbles and part of the attack gets absorbed!
+party say Unpain off. [10m37s]
+You feel your will returning normal.
+Your flex shield wobbles and part of the attack gets absorbed!
+Stifsim hits Nuane 5 times.
+Nuane hits Stifsim 1 time.
+hp 724/1560 (-676) | sp 20/20 () | ep 359/406 ()
+You are not doing anything at the moment.
+[00:53:25] hp 724/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:26] hp 724/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane reports: Hp: 724 (1560) Sp: 20 (20) Ep: 359 (406).
+[00:53:26] hp 724/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane (party): Unpain off. [10m37s]
+[00:53:26] hp 724/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+sl stifsim
+[00:53:27] hp 724/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+You start concentrating on the skill.
+[00:53:27] hp 724/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Stifsim is already wounded, not worth the glory.
+[00:53:27] hp 724/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Akvavitix cast(s): 'tora tora tora' (Psychic crush)
+Akvavitix crushes Stifsim's mind with a powerful psychic attack!
+Large ice drake hits Dupre 1 time.
+Elero cast(s): 'judicandus eurto mangenic' (True party heal)
+Elero's spell heals you. You feel much better.
+cast info
+scan all
+pr
+*****************************************************
+Dupre's flex shield wobbles.
+Stifsim hits Dupre 6 times.
+Nuane hits Stifsim 1 time.
+hp 1174/1560 (+450) | sp 20/20 () | ep 359/406 ()
+You are using 'slash' at 'stifsim'.
+[00:53:28] hp 1174/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Ghost of Torc [party]: no sain cotin
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:29] hp 1174/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Akvavitix starts concentrating on a new offensive spell.
+Nuane reports: Hp: 1174 (1560) Sp: 20 (20) Ep: 359 (406).
+[00:53:29] hp 1174/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Akvavitix [party]: blast in (40 % resist)
+Elero starts concentrating on a new spell.
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Stifsim.
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Stifsim.
+cast info
+scan all
+pr
+*****************************************************
+Dupre's flex shield wobbles.
+Stifsim hits Dupre 4 times.
+Nuane hits Stifsim 2 times.
+Dupre hits Stifsim 1 time.
+You are using 'slash' at 'stifsim'.
+[00:53:31] hp 1174/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Era {wanted}: party for psiprotter
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:32] hp 1174/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane reports: Hp: 1174 (1560) Sp: 20 (20) Ep: 359 (406).
+[00:53:32] hp 1174/1560 | sp 20/20 | ep 359/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Info: Willi left the game.
+Dupre's powerful bash sends Stifsim sprawling to the floor.
+Large ice drake hits Dupre 1 time.
+cast info
+scan all
+pr
+*****************************************************
+Stifsim hits Dupre 4 times.
+Nuane hits Stifsim 2 times.
+Dupre hits Stifsim 1 time.
+You are prepared to do the skill.
+Your enemy gasps as you slash a wound across its forehead!
+hp 1174/1560 () | sp 20/20 () | ep 328/406 (-31)
+You are not doing anything at the moment.
+[00:53:34] hp 1174/1560 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:34] hp 1174/1560 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane reports: Hp: 1174 (1560) Sp: 20 (20) Ep: 328 (406).
+[00:53:34] hp 1174/1560 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+sl stifsim
+
+[00:53:35] hp 1174/1560 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+You start concentrating on the skill.
+[00:53:35] hp 1174/1560 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Stifsim is already wounded, not worth the glory.
+[00:53:35] hp 1174/1560 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Ghost of Torc [party]: ens roundil kerkeen hinaa sua
+Info: Willi enters the game.
+Elero cast(s): 'judicandus eurto mangenic' (True party heal)
+Elero's spell heals you. You feel very much better.
+cast info
+scan all
+pr
+*****************************************************
+Dupre's flex shield wobbles.
+Dupre's flex shield wobbles.
+Stifsim hits Dupre 3 times.
+Nuane hits Stifsim 2 times.
+Dupre hits Stifsim 1 time.
+hp 1446/1560 (+272) | sp 20/20 () | ep 328/406 ()
+You are using 'slash' at 'stifsim'.
+[00:53:37] hp 1446/1560 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Large ice drake is in a good shape. (80-90% hps)
+Stifsim is near death. (0-10% hps)
+[00:53:37] hp 1446/1560 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Nuane reports: Hp: 1446 (1560) Sp: 20 (20) Ep: 328 (406).
+[00:53:38] hp 1446/1560 | sp 20/20 | ep 328/406 | exp 247 | $ 223/32071 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+Akvavitix cast(s): 'tora tora tora' (Psychic crush)
+Akvavitix crushes Stifsim's mind with a powerful psychic attack!
+Stifsim wails as Akvavitix's last blow sends it on its way to hell.
+Elero utters a prayer for the fallen foe 'In nomine Faerwon. Amen.'
+A large cavity replaces Stifsim's chest.
+get all from corpse
+get corpse
+get all
+save
+Stifsim is DEAD, R.I.P.
+The magic mist around the dead Stifsim's neck leaps to your Kerbholz.
+A new mark appears.
+cast info
+scan all
+pr
+*****************************************************
+Nuane hits Large ice drake 2 times.
+Dupre hits Large ice drake 1 time.
+hp 1446/1560 () | sp 20/20 () | ep 328/406 ()
+Guard shouts 'Edrick is in a much warmer place now!'
+Info: Edrick dies.
+Elero starts concentrating on a new spell.
+Dupre takes Necklace of Tears, 2 mowgles coins, a perfect black onyx, a small
+ wooden box (closed) and Frost medallion from a mangled slush of Stifsim.
+There is no all in the a mangled slush of Stifsim!
+[00:53:41] hp 1446/1560 | sp 20/20 | ep 328/406 | exp 137379 | $ 223/32071 | wimpy: off
+You gained 137132 xp.
+You take a mangled slush of Stifsim.
+
+| 1083041: The ancient elemental Wyrm called Stifsim                          |

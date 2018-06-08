@@ -1,0 +1,1114 @@
+Dupre tiptoes to the southwest.
+Delpers leaves southwest.
+Huge chamber made of black onyx (ne,se).
+Delpers the Human Replica of me < d >
+Dupre Talakkuna the Ogre duunari < d >
+Zenick arrives from northeast.
+Kharadus arrives from northeast.
+Kozma sneaks in from northeast.
+Milk arrives from northeast.
+Yggrasil arrives from northeast.
+Susette arrives from northeast.
+*Yggrasil               \---/.
+*Yggrasil               |   |.
+*Yggrasil               /---\.
+*Yggrasil              /.
+*Yggrasil         +---/.
+*Yggrasil         | P |.
+*Yggrasil         +---\.
+*Yggrasil              \.
+*Yggrasil               \---/.
+*Yggrasil               |M  |.
+*Yggrasil               +---+.
+Info: Koopa goes link dead.
+Yggrasil starts concentrating on a new offensive spell.
+Dupre [party]: amx south
+Info: Sundstar left the game.
+Dupre tiptoes to the southeast.
+Delpers leaves southeast.
+Huge chamber made of black onyx (nw,ne).
+Delpers the Human Replica of me < d >
+Dupre Talakkuna the Ogre duunari < d >
+Moratar Cain the diabolic Archlich is the Lord of Strife (undead)
+Zenick arrives from northwest.
+Kharadus arrives from northwest.
+Kozma sneaks in from northwest.
+Milk arrives from northwest.
+Yggrasil arrives from northwest.
+Susette arrives from northwest.
+Zenick starts concentrating on a new offensive spell.
+tph
+Dupre starts concentrating on a new offensive skill.
+Delpers starts concentrating on a new offensive spell.
+You start chanting.
+[02:27:21] hp 626/626 | sp 1287/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Susette starts concentrating on a new offensive spell.
+Milk starts concentrating on a new spell.
+Kharadus starts concentrating on a new skill.
+Yggrasil starts concentrating on a new offensive spell.
+Kozma starts concentrating on a new spell.
+*Kharadus ticks 15 sps[26s].
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Dupre 4 times.
+Kharadus hits Moratar Cain 1 time.
+Kozma hits Moratar Cain 1 time.
+True party heal: 4
+True party heal: 2 (greater haste)
+Your heavy burden slows down your casting.
+You are casting 'true party heal'.
+[02:27:23] hp 626/626 | sp 1287/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:23] hp 626/626 | sp 1287/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 889 (1084) Sp: 698 (698) Ep: 393 (393).
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Dupre 1 time.
+Kharadus hits Moratar Cain 2 times.
+Kharadus trembles in the face of evil.
+True party heal: 2
+True party heal: 1 (haste)
+Yggrasil waves his hand and says 'tsaibaa' (Channelbolt)
+Yggrasil fires a thundering arc of blue lightning which hits Moratar Cain with full force!
+Yggrasil grins as his channelbolt hits Moratar Cain.
+Electricity jolts through Moratar Cain!
+You are casting 'true party heal'.
+[02:27:26] hp 626/626 | sp 1287/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:26] hp 626/626 | sp 1287/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Yggrasil [report]: 100% resist
+Kharadus reports: Hp: 855 (1084) Sp: 698 (698) Ep: 393 (393).
+Yggrasil starts concentrating on a new offensive spell.
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Moratar Cain.
+Kharadus starts concentrating on a new skill.
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Moratar Cain.
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Dupre 1 time.
+Kharadus hits Moratar Cain 1 time.
+Kozma hits Moratar Cain 1 time.
+Dupre's powerful bash sends Moratar Cain sprawling to the floor.
+You are done with the chant.
+You cast(s): 'judicandus eurto mangenic' (True party heal)
+You heal much of Dupre's wounds.
+You heal all of Delpers's wounds.
+You heal all of Kharadus's wounds.
+You heal all of Kozma's wounds.
+You heal all of Yggrasil's wounds.
+hp 626/626 () | sp 1065/1355 (-222) | ep 211/211 ()
+Kozma cast(s): 'judicandus puorgo mangenic' (Major party heal)
+You are not doing anything at the moment.
+[02:27:29] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 1084 (1084) Sp: 698 (698) Ep: 393 (393).
+tph
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:29] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+You start chanting.
+[02:27:29] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Delpers starts concentrating on a new offensive spell.
+Kozma starts concentrating on a new spell.
+Dupre starts concentrating on a new offensive skill.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  8m 38s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1102(1102)  876( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1314(1492)   32(  32) 394(404) | 100 |            0 |
+| 1.3   Kharadus      fol 1084(1084)  698( 698) 393(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784) 1218(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841) 1311(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  991( 991)  876(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  704(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  595( 595) 1077(1738) 239(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626) 1065(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:27:30] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain closes his eyes and with a dry, dark voice entones 'nyyjoo happa
+ hilleiksis'
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Kozma 2 times.
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Moratar Cain.
+Kharadus cries out defiantly 'I will not be moved!'
+True party heal: 4
+Milk cast(s): 'kewa dan dol rae hout' (Degenerate person)
+Moratar Cain appears weakened!
+You are casting 'true party heal'.
+[02:27:32] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:32] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 1084 (1084) Sp: 698 (698) Ep: 365 (393).
+Kharadus starts concentrating on a new spell.
+Kozma starts concentrating on a new spell.
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Dupre 3 times.
+Kharadus hits Moratar Cain 2 times.
+Kozma hits Moratar Cain 1 time.
+True party heal: 3
+Kharadus reports: Hp: 957 (1084) Sp: 698 (698) Ep: 368 (393).
+You are casting 'true party heal'.
+[02:27:35] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:35] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  8m 44s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol  977(1102)  876( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1145(1492)   32(  32) 394(404) | 100 |            0 |
+| 1.3   Kharadus      fol  957(1084)  698( 698) 368(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  947(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841) 1311(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  835( 991)  876(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  552(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  595( 595) 1077(1738) 239(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626) 1065(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:27:36] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+The stench is unbearable.
+Moratar Cain cast(s): 'vaka vanha vainamoinen' (Entropy)
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Dupre 5 times.
+Dupre's powerful bash sends Moratar Cain sprawling to the floor.
+True party heal: 2
+True party heal: 1 (haste)
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Moratar Cain.
+Yggrasil waves his hand and says 'tsaibaa' (Channelbolt)
+Yggrasil fires a thundering arc of blue lightning which hits Moratar Cain with full force!
+Yggrasil grins as his channelbolt hits Moratar Cain.
+Electricity jolts through Moratar Cain!
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Moratar Cain.
+You are casting 'true party heal'.
+[02:27:38] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 768 (1084) Sp: 698 (698) Ep: 368 (393).
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:38] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Yggrasil starts concentrating on a new offensive spell.
+Zenick starts concentrating on a new offensive spell.
+Delpers starts concentrating on a new offensive spell.
+Dupre starts concentrating on a new offensive skill.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  8m 48s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol  976(1102)  876( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr  821(1492)   32(  32) 384(404) | 100 |            0 |
+| 1.3   Kharadus      fol  771(1084)  698( 698) 371(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  947(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841) 1067(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  834( 991)  647(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  552(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  546( 588) 1002(1738) 236(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626) 1065(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:27:40] hp 626/626 | sp 1065/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Kozma 3 times.
+Kharadus cast(s): 'judicandus puorgo mangenic' (Major party heal)
+You are done with the chant.
+You cast(s): 'judicandus eurto mangenic' (True party heal)
+You heal very much of Dupre's wounds.
+You heal all of Delpers's wounds.
+You heal all of Kharadus's wounds.
+You heal all of Kozma's wounds.
+You heal all of Yggrasil's wounds.
+hp 626/626 () | sp 843/1355 (-222) | ep 211/211 ()
+Kozma cast(s): 'judicandus puorgo mangenic' (Major party heal)
+You are not doing anything at the moment.
+[02:27:41] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 1084 (1084) Sp: 604 (698) Ep: 371 (393).
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:41] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kozma starts concentrating on a new spell.
+Kharadus starts concentrating on a new spell.
+tph
+You start chanting.
+[02:27:42] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  8m 50s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1102(1102)  782( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1418(1492)   32(  32) 384(404) | 100 |            0 |
+| 1.3   Kharadus      fol 1084(1084)  604( 698) 371(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  947(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841) 1067(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  991( 991)  647(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  552(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  588( 588) 1002(1738) 236(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  843(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:27:42] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Nct (wanted): party for decent off
+Moratar Cain cast(s): 'yugfzhrrr suuck
+ suuuuuck suuuuuuuuuuck'
+Kozma shivers and suffers.
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Dupre 3 times.
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Moratar Cain.
+ ..The power of Burglefloogah takes over Susette!
+    An awful crackling is heard as the life is drained out of Moratar Cain!!
+True party heal: 4
+True party heal: 2 (greater haste)
+Your heavy burden slows down your casting.
+Milk cast(s): 'cah mar nak grttzt' (Cold ray)
+As Milk casts the spell, he pulls out a steel arrowhead from a small pouch.
+Milk grins as his cold ray hits Moratar Cain.
+Info: Ragelius left the game.
+Yggrasil [party]: anna ajaa
+You are casting 'true party heal'.
+[02:27:44] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Milk [party]: Moratar Cain grunts cold damage. (60% resist)
+Kharadus reports: Hp: 925 (1084) Sp: 604 (698) Ep: 371 (393).
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:44] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Milk starts concentrating on a new offensive spell.
+*Kharadus ticks 3 sps[12s].
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  8m 54s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1069(1102)  782( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1203(1492)   32(  32) 384(404) | 100 |            0 |
+| 1.3   Kharadus      fol  928(1084)  607( 698) 374(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  670(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841) 1067(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  951( 991)  647(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  382(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  588( 588) 1002(1738) 236(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  843(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:27:46] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Kharadus 3 times.
+Dupre's powerful bash sends Moratar Cain sprawling to the floor.
+True party heal: 2
+True party heal: 1 (haste)
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Moratar Cain.
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Moratar Cain.
+You are casting 'true party heal'.
+[02:27:47] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 520 (1084) Sp: 607 (698) Ep: 374 (393).
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:47] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus {report}: Spell interrupted.
+Zenick starts concentrating on a new offensive spell.
+Delpers starts concentrating on a new offensive spell.
+Dupre starts concentrating on a new offensive skill.
+Kharadus starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  8m 56s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1069(1102)  782( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr  920(1492)   32(  32) 374(404) | 100 |            0 |
+| 1.3   Kharadus      fol  520(1084)  607( 698) 374(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  670(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  811(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  951( 991)  413(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  382(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  588( 588) 1002(1738) 236(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  843(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:27:48] hp 626/626 | sp 843/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain cast(s): 'vaka vanha vainamoinen' (Entropy)
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Dupre 3 times.
+Kharadus hits Moratar Cain 1 time.
+You are done with the chant.
+You cast(s): 'judicandus eurto mangenic' (True party heal)
+You heal much of Dupre's wounds.
+You heal really much of Delpers's wounds.
+You heal very much of Kharadus's wounds.
+You heal really much of Kozma's wounds.
+hp 626/626 () | sp 619/1355 (-224) | ep 211/211 ()
+Yggrasil waves his hand and says 'tsaibaa' (Channelbolt)
+Yggrasil fires a thundering arc of blue lightning which hits Moratar Cain with full force!
+Yggrasil grins as his channelbolt hits Moratar Cain.
+Kozma cast(s): 'judicandus puorgo mangenic' (Major party heal)
+You are not doing anything at the moment.
+[02:27:50] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 1084 (1084) Sp: 607 (698) Ep: 374 (393).
+Yggrasil [report]: 100% resist
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:50] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Yggrasil starts concentrating on a new offensive spell.
+tph
+You start chanting.
+[02:27:51] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+ps
+
+Kozma starts concentrating on a new spell.
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  8m 59s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1102(1102)  688( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1317(1492)   32(  32) 374(404) | 100 |            0 |
+| 1.3   Kharadus      fol 1084(1084)  607( 698) 374(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  670(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  811(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  991( 991)  413(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  382(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  588( 588)  927(1738) 233(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  619(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:27:51] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+*Kharadus ticks 4 sps[24s].
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Dupre 4 times.
+Kozma hits Moratar Cain 1 time.
+True party heal: 4
+You are casting 'true party heal'.
+[02:27:53] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Klar [wanted]: tarmie for offtank party
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:53] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 897 (1084) Sp: 611 (698) Ep: 378 (393).
+Dupre starts concentrating on a new offensive skill.
+Moratar Cain cast(s): 'noccon uurthg' (Disease)
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Kozma 4 times.
+Kozma hits Moratar Cain 1 time.
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Moratar Cain.
+True party heal: 3
+You are casting 'true party heal'.
+[02:27:56] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 896 (1084) Sp: 611 (698) Ep: 378 (393).
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:56] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Susette starts concentrating on a new offensive spell.
+Yggrasil [party]: huippu runi
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Kharadus 4 times.
+Kozma hits Moratar Cain 1 time.
+Kharadus cast(s): 'judicandus puorgo mangenic' (Major party heal)
+True party heal: 2
+Milk cast(s): 'cah mar nak grttzt' (Cold ray)
+As Milk casts the spell, he pulls out a steel arrowhead from a small pouch.
+Milk grins as his cold ray hits Moratar Cain.
+The air before Milk becomes electrified and crackles with pure POWER.
+Yggrasil waves his hand and says 'tsaibaa' (Channelbolt)
+Yggrasil fires a thundering arc of blue lightning which hits Moratar Cain with full force!
+Yggrasil grins as his channelbolt hits Moratar Cain.
+Kozma cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Electricity jolts through Moratar Cain!
+party say Moratar Cain lost skill.
+Moratar Cain seems hurt and confused.
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Moratar Cain.
+ ..The power of Burglefloogah takes over Zenick!
+    An awful crackling is heard as the life is drained out of Moratar Cain!!
+You are casting 'true party heal'.
+[02:27:59] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Milk [party]: Moratar Cain grunts cold damage. (60% resist)
+Kharadus reports: Hp: 955 (1084) Sp: 524 (698) Ep: 385 (393).
+Yggrasil [report]: 100% resist
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:27:59] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Nuane (party): Moratar Cain lost skill.
+[02:27:59] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kozma (party): Moratar Cain is CONFUSED!
+Kharadus starts concentrating on a new spell.
+Kozma starts concentrating on a new spell.
+Info: Traveler goes link dead.
+Dupre starts concentrating on a new offensive skill.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m  9s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1019(1102)  594( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1300(1492)   32(  32) 374(404) | 100 |            0 |
+| 1.3   Kharadus      fol  955(1084)  524( 698) 385(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  381(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  553(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  907( 991)  413(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  212(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  585( 588)  852(1738) 230(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  619(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:01] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Moratar Cain.
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 2 times.
+Moratar Cain hits Dupre 3 times.
+True party heal: 1
+Yggrasil [party]: oho jinxaan
+You are casting 'true party heal'.
+[02:28:02] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 847 (1084) Sp: 524 (698) Ep: 385 (393).
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:02] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Yggrasil starts concentrating on a new offensive spell.
+*Kharadus ticks 7 sps[6s].
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m 12s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1019(1102)  594( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1125(1492)   32(  32) 374(404) | 100 |            0 |
+| 1.3   Kharadus      fol  854(1084)  531( 698) 392(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  381(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  553(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  907( 991)  201(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  212(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  585( 588)  852(1738) 230(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  619(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:04] hp 626/626 | sp 619/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain rapidly flicks a stiletto, and says 'viiltaja jaska' (Make scar)
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Kozma 2 times.
+You are done with the chant.
+You cast(s): 'judicandus eurto mangenic' (True party heal)
+You heal really much of Dupre's wounds.
+You heal all of Delpers's wounds.
+You heal all of Kharadus's wounds.
+You heal all of Kozma's wounds.
+You heal all of Yggrasil's wounds.
+hp 626/626 () | sp 390/1355 (-229) | ep 211/211 ()
+You are not doing anything at the moment.
+[02:28:05] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 1084 (1084) Sp: 531 (698) Ep: 392 (393).
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:05] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+tph
+
+You start chanting.
+[02:28:06] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+The stench is unbearable.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m 15s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1102(1102)  594( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1463(1492)   32(  32) 374(404) | 100 |            0 |
+| 1.3   Kharadus      fol 1084(1084)  531( 698) 392(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  381(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  553(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  991( 991)  201(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  212(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  588( 588)  852(1738) 230(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  390(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:07] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Yggrasil [party]: sori
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Kozma 6 times.
+Kharadus hits Moratar Cain 1 time.
+Kharadus cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Dupre's powerful bash sends Moratar Cain sprawling to the floor.
+True party heal: 4
+True party heal: 2 (greater haste)
+Yggrasil waves his hand and says 'tsaibaa' (Channelbolt)
+Yggrasil fires a thundering arc of blue lightning which hits Moratar Cain with full force!
+Yggrasil grins as his channelbolt hits Moratar Cain.
+You are casting 'true party heal'.
+[02:28:08] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 1084 (1084) Sp: 446 (698) Ep: 393 (393).
+Yggrasil [report]: 100% resist elec
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:08] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus starts concentrating on a new spell.
+Yggrasil starts concentrating on a new offensive spell.
+Dupre starts concentrating on a new offensive skill.
+Kozma starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m 18s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol  862(1102)  594( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1481(1492)   32(  32) 364(404) | 100 |            0 |
+| 1.3   Kharadus      fol 1084(1084)  446( 698) 393(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  381(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  553(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  794( 991)  201(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  212(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  549( 583)  777(1738) 227(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  390(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:10] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain cast(s): 'vaka vanha vainamoinen' (Entropy)
+Moratar Cain cast(s): 'he KKE akoohk ahti OHNU'
+You feel confused for a second...
+You lose your concentration and cannot cast the spell.
+CASTING BROKED.
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Dupre 2 times.
+Kozma hits Moratar Cain 1 time.
+Yggrasil [party]: spell interrupted
+Dupre [party]: ( Not linked to anymore! )
+Kharadus reports: Hp: 995 (1084) Sp: 446 (698) Ep: 393 (393).
+You are not doing anything at the moment.
+[02:28:11] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus {report}: Life link Expires. [7307m43s]
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:11] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus starts concentrating on a new spell.
+Zenick starts concentrating on a new offensive spell.
+Yggrasil [party]: eikai se haittaA?
+Night (wanted): exp rep for low-share offtank
+Dupre starts concentrating on a new offensive skill.
+Kozma starts concentrating on a new spell.
+Delpers starts concentrating on a new offensive spell.
+Susette starts concentrating on a new offensive spell.
+Milk [party]: sp out
+mjph
+You start chanting.
+[02:28:13] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m 21s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol  862(1102)  594( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1369(1492)   32(  32) 364(404) | 100 |            0 |
+| 1.3   Kharadus      fol  995(1084)  446( 698) 393(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  381(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  553(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  794( 991)  180(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  212(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  549( 583)  777(1738) 227(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  390(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:13] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Kozma 2 times.
+Kharadus hits Moratar Cain 1 time.
+Major party heal: 3
+Major party heal: 2 (haste)
+Major party heal: 1
+mph
+Yggrasil starts concentrating on a new offensive spell.
+Kharadus reports: Hp: 1000 (1084) Sp: 451 (698) Ep: 393 (393).
+*Kharadus ticks 5 sps[7307m43s].
+You are casting 'major party heal'.
+[02:28:14] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:14] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[02:28:14] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+cast info
+scan all
+*****************************************************
+Dupre hits Moratar Cain 1 time.
+Moratar Cain hits Kharadus 6 times.
+Minor party heal: 2
+Minor party heal: 1 (haste)
+Kharadus reports: Hp: 246 (1084) Sp: 451 (698) Ep: 393 (393).
+You are casting 'minor party heal'.
+[02:28:17] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:17] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m 26s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol  753(1102)  594( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1369(1492)   32(  32) 364(404) | 100 |            0 |
+| 1.3   Kharadus      fol  246(1084)  451( 698) 393(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  381(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  837( 841)  549(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  705( 991)  180(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)  212(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  549( 583)  777(1738) 227(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  390(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:18] hp 626/626 | sp 390/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Milk [party]: 1
+Moratar Cain closes his eyes and with a dry, dark voice entones 'nyyjoo happa
+ hilleiksis'
+Moratar Cain is enshroudered in darkness for a brief moment and his voice becomes distorted.
+Kozma shivers and seems confused.
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Dupre 4 times.
+Kharadus hits Moratar Cain 1 time.
+Kharadus cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Dupre's powerful bash sends Moratar Cain sprawling to the floor.
+You are done with the chant.
+You cast(s): 'judicandus puorgo ignius' (Minor party heal)
+You heal little of Dupre's wounds.
+You heal little of Delpers's wounds.
+You heal all of Zenick's wounds.
+You heal little of Kharadus's wounds.
+You heal little of Kozma's wounds.
+You heal little of Yggrasil's wounds.
+hp 626/626 () | sp 357/1355 (-33) | ep 211/211 ()
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Moratar Cain.
+Milk cast(s): 'cah mar nak grttzt' (Cold ray)
+As Milk casts the spell, he pulls out a steel arrowhead from a small pouch.
+Milk grins as his cold ray hits Moratar Cain.
+Kozma cast(s): 'judicandus eurto mangenic' (True party heal)
+You are not doing anything at the moment.
+[02:28:20] hp 626/626 | sp 357/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 947 (1084) Sp: 363 (698) Ep: 393 (393).
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:20] hp 626/626 | sp 357/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Milk [party]: Moratar Cain grunts cold damage. (60% resist)
+Kharadus starts concentrating on a new spell.
+Kozma starts concentrating on a new spell.
+mjph
+You start chanting.
+[02:28:21] hp 626/626 | sp 357/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Dupre starts concentrating on a new offensive skill.
+Kharadus starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m 29s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1102(1102)  350( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1492(1492)   32(  32) 354(404) | 100 |            0 |
+| 1.3   Kharadus      fol  947(1084)  363( 698) 393(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  381(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  285(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  991( 991)  180(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)   42(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  583( 583)  777(1738) 227(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  357(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:21] hp 626/626 | sp 357/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Milk [party]: :does not have enough spell points.
+Yggrasil [party]: pit‰s varmaa jinxaa enemm‰
+Delpers cast(s): 'PAF PAF PAF!' (Harm body)
+Delpers casts a harming spell on Moratar Cain.
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Kharadus 2 times.
+Kharadus hits Moratar Cain 1 time.
+Major party heal: 3
+Major party heal: 2 (haste)
+Yggrasil waves his hand and says 'tsaibaa' (Channelbolt)
+Yggrasil fires a thundering arc of blue lightning which hits Moratar Cain with full force!
+Yggrasil grins as his channelbolt hits Moratar Cain.
+You are casting 'major party heal'.
+[02:28:23] hp 626/626 | sp 357/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 721 (1084) Sp: 363 (698) Ep: 393 (393).
+Yggrasil [report]: 100% resist elec
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:23] hp 626/626 | sp 357/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Yggrasil starts concentrating on a new offensive spell.
+Moratar Cain cast(s): 'noccon uurthg' (Disease)
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Dupre 4 times.
+Kharadus hits Moratar Cain 1 time.
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Moratar Cain.
+Kharadus cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Major party heal: 1
+Kozma cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Kozma screams with frustration as her spell fails.
+Delpers [party]: spt loppu
+You are casting 'major party heal'.
+[02:28:26] hp 626/626 | sp 357/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 882 (1084) Sp: 277 (698) Ep: 393 (393).
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:26] hp 626/626 | sp 357/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kozma starts concentrating on a new spell.
+Milk [party]: nosp
+Kharadus starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m 35s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1102(1102)  349( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1256(1492)   32(  32) 354(406) | 100 |            0 |
+| 1.3   Kharadus      fol  882(1084)  277( 698) 393(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  185(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  285(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  991( 991)  -91(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)   42(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  580( 583)  702(1738) 224(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  357(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:27] hp 626/626 | sp 357/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Yggrasil [party]: mit‰ luulette
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Kozma 3 times.
+Kharadus hits Moratar Cain 1 time.
+Dupre hits Moratar Cain 1 time.
+Dupre's powerful bash sends Moratar Cain sprawling to the floor.
+You are done with the chant.
+You cast(s): 'judicandus puorgo mangenic' (Major party heal)
+You heal very much of Dupre's wounds.
+You heal very much of Delpers's wounds.
+You heal very much of Kharadus's wounds.
+You heal very much of Kozma's wounds.
+You heal very much of Yggrasil's wounds.
+hp 626/626 () | sp 272/1355 (-85) | ep 211/211 ()
+You are not doing anything at the moment.
+[02:28:29] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:29] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus reports: Hp: 1029 (1084) Sp: 277 (698) Ep: 393 (393).
+Kozma starts concentrating on a new spell.
+mjph
+You start chanting.
+[02:28:31] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+*Kharadus ticks 6 sps[11s].
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m 39s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1044(1102)  349( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1428(1492)   32(  32) 344(406) | 100 |            0 |
+| 1.3   Kharadus      fol 1035(1084)  283( 698) 393(393) |  76 |            0 |
+| 2.1   Susette       fol  784( 784)  185(1393) 335(335) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)  285(1507) 388(388) | 100 |            0 |
+| 2.3   Delpers       fol  933( 991)  -91(1133) 460(460) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)   42(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  582( 583)  702(1738) 224(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 626)  272(1355) 211(211) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:31] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Yggrasil [party]: 1
+Moratar Cain cast(s): 'noccon uurthg' (Disease)
+cast info
+scan all
+*****************************************************
+Moratar Cain hits Kozma 3 times.
+Dupre hits Moratar Cain 1 time.
+Kharadus cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Major party heal: 3
+Major party heal: 2 (haste)
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Moratar Cain.
+Yggrasil waves his hand and says 'tsaibaa' (Channelbolt)
+Yggrasil fires a thundering arc of blue lightning which hits Moratar Cain with full force!
+Yggrasil grins as his channelbolt hits Moratar Cain.
+Electricity jolts through Moratar Cain!
+Susette cast(s): 'PAF PAF PAF!' (Harm body)
+Susette casts a harming spell on Moratar Cain.
+ ..The power of Burglefloogah takes over Susette!
+    An awful crackling is heard as the life is drained out of Moratar Cain!!
+Kharadus reports: Hp: 1083 (1084) Sp: 189 (698) Ep: 393 (393).
+Yggrasil [report]: 100% resist elec
+You are casting 'major party heal'.
+[02:28:32] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Moratar Cain is slightly hurt. (65-80% hps)
+[02:28:32] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus starts concentrating on a new spell.
+Dupre tiptoes to the northwest.
+Delpers leaves northwest.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Huge chamber made of black onyx (ne,se).
+Delpers the Human Replica of me < d >
+Dupre Talakkuna the Ogre duunari < d >
+Zenick arrives from southeast.
+Kharadus arrives from southeast.
+Kozma sneaks in from southeast.
+Milk arrives from southeast.
+Yggrasil arrives from southeast.
+Susette arrives from southeast.
+Kozma starts concentrating on a new spell.
+Yggrasil [party]: pois
+Dupre tiptoes to the northeast.
+Delpers leaves northeast.
+Throne chamber of Moratar Cain (nw,ne,sw,se).
+Delpers the Human Replica of me < d >
+Dupre Talakkuna the Ogre duunari < d >
+Zenick arrives from southwest.
+Kharadus arrives from southwest.
+Kozma sneaks in from southwest.
+Milk arrives from southwest.
+Yggrasil arrives from southwest.
+Susette arrives from southwest.
+Dupre tiptoes to the northwest.
+Delpers leaves northwest.
+Huge chamber made of black onyx (ne,se).
+Delpers the Human Replica of me < d >
+Dupre Talakkuna the Ogre duunari < d >
+Zenick arrives from southeast.
+Kharadus arrives from southeast.
+Kozma sneaks in from southeast.
+Milk arrives from southeast.
+Yggrasil arrives from southeast.
+Susette arrives from southeast.
+regen
+Dupre tiptoes to the northeast.
+Delpers leaves northeast.
+Huge chamber made of black onyx (sw,se).
+Delpers the Human Replica of me < d >
+Dupre Talakkuna the Ogre duunari < d >
+Zenick arrives from southwest.
+Kharadus arrives from southwest.
+Kozma sneaks in from southwest.
+Milk arrives from southwest.
+Yggrasil arrives from southwest.
+Susette arrives from southwest.
+Susette removes spark, the claw of fire, Girdle of Ethereal Power, Cape of Knowledge labeled as <|susette|>, a green glove, a green glove, an ivory amulet in the shape of small scales labeled as <|susette|>, swirling bands of lava <flaming> labeled as <|susette|>, The staff of Lerethin labeled as <|susette|>, Holy vest of Yak, the shining helm of azakh-khanan, The gleaming blue collar of Bengalore labeled as <|susette|>, Ring of wisdom [Made by: Matriam] labeled as 6wisalch, A ring of wisdom [Made by: Kyynel] labeled as 6wis 1hpr and a pair of old dark green boots labeled as <|susette|>.
+Delpers removes Nova Arcanum, Melkior's book of necromancy.
+[02:28:37] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Susette wears a purple glove (glowing), a purple glove (glowing), a black hood labeled as <|susette|> (glowing), a collar made of black silk (glowing) <red glow>, The Amulet of Truth labeled as <|susette|> (glowing) <red glow>, Slime cloak (glowing), a torn leather muscle shirt labeled as <|susette|> (glowing) <red glow>, a mithril ring, called 'eckma' labeled as <|susette|> (glowing) <red glow>, A heavy black metal ring labeled as <|susette|> (glowing), a wand of magic labeled as <|susette|> (glowing) <red glow>, a wand of magic labeled as <|susette|> (glowing) <red glow>, Glimmering Belt of the Elements labeled as <|susette|> (glowing) <red glow>, The protectors (glowing) and Boots of the Goddess (glowing) <red glow>.
+Kozma (party): .D
+Delpers removes spark, the claw of fire.
+You remove The staff of Lerethin.
+[02:28:37] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Delpers removes swirling bands of lava <flaming>, a rose clasp, Ring of Divine Enligntenment. [Made by: Zion] labeled as BWD, the shining helm of azakh-khanan, Scarf of Beauty, Holy vest of Yak, gloves of Nimbleness, purple amazon cloak and Girdle of Ethereal Power.
+Delpers wears Necklace of The Petrified Heart (glowing), sparkling ruby ring (glowing), a white glove (glowing) <red glow>, Circlet of Flame (glowing), a purple glove (glowing), Pendant of Apathy..  emitting a dead black aura (glowing), Mirror breastplate (glowing) <red glow>, the frozen ice belt of the demon lord (glowing), a battle-scarred shin guard labeled as newshin (glowing) <red glow>, a battle-scarred shin guard labeled as oldshin (glowing) <red glow>, a wand of magic (glowing) <red glow>, a wand of magic (glowing) <red glow> and Slime cloak (glowing).
+You remove Girdle of Ethereal Power, glittering leg protectors labeled as <|broetchen|>, Blue glove of master Conjurer, Blue glove of master Conjurer, bracelet made of green crystal, bracelet made of green crystal, a pair of black boots, Ring of wisdom [Made by: Matriam] labeled as 6wis 2dex (powerful), Ring of wisdom [Made by: Matriam] labeled as 6wis 1hpr (powerful), heavy tabard with a chalice ensignia, Cape of Knowledge, The Amberley Ankh and The gleaming blue collar of Bengalore labeled as +wis.
+As you wear the collar, you feel it slowly tightening around your neck...
+You wear a battle-scarred shin guard (glowing) <yellow glow>, a battle-scarred shin guard (glowing) <yellow glow>, medallion of honor (glowing), a magic cloak (glowing), Glimmering Belt of the Elements (glowing) <red glow>, a torn leather muscle shirt labeled as (Naane) (glowing), a pair of blue radium boots (glowing) <red glow>, a collar made of black silk (glowing) <red glow>, A heavy black metal ring (glowing), A heavy black metal ring (glowing), gloves of Nimbleness labeled as sprgloves (glowing) <red glow> and the Bracelets of Darkness (glowing).
+** Cost for '@eqset wear regen': Cost: utime:30 stime:0 ticks:143071 **
+[02:28:37] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Dupre [party]: ehe
+Kharadus is no longer protected by a circle of blue flames.
+Kharadus removes Shield of a Thousand Reflections labeled as <|Kharadus|>, The Staff of Ulmat-Took labeled as <|Kharadus|>, A large bloody nose-ring, a great emerald hanging from a dragon skin chain, scaly cloak of diffusion, Felidae's sparkling crystal amulet, a striking liquid metal shirt (fashion) labeled as <|Kharadus|>, Frosty armbands of Icequeen Draqell labeled as <|Kharadus|>, Nightmare gloves of Clouds called 'Shattered dreams' labeled as <|Kharadus|>, black silk bracelet with tiger claw ornament labeled as <|Kharadus|>, black silk bracelet with tiger claw ornament labeled as <|Kharadus|>, alchemist moulded ring labeled as pr3, a black scaly finger guard, made of thorns (burned) labeled as <|Kharadus|>, a runed blue belt of unholy resistance labeled as <|Kharadus|>, an exposing kilt labeled as <|Kharadus|> and black scaled boots labeled as boots1.
+As you set your fingers upon the strings of the kanteel, a sound of such
+beauty issues from it that tears spring upon your eyes. A surge of warmth
+spreads from your fingers into your body. 
+ 
+You GLOW brightly! 
+ 
+You wear the pikebone kanteel (glowing) <orange glow>.
+[02:28:37] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Kharadus shivers from the cold.
+Kharadus wears Red armlets of the ancient order (glowing) <yellow glow>, an ancient staff of the necromancer (glowing) <orange glow>, A full length bright red robe with a hood labeled as robe2 (glowing), red robe with mystic symbol at back labeled as robe1 (glowing), Boots of the Goddess labeled as janebootsit (glowing) <yellow glow>, a black leaf of The Old Man Willow. (glowing), Bracelets of San-Jyan (glowing) <orange glow>, gloves of Nimbleness (glowing) <orange glow>, sparkling ruby ring (glowing), sparkling ruby ring (glowing), The Amulet of Truth (glowing) <orange glow>, fine eyeglasses (glowing), necklace made out of sharp fangs (glowing), the frozen ice belt of the demon lord (glowing) and a pair of dirty leggings (glowing).
+'clairi' is now aliased to 'silk collar'.
+[02:28:37] hp 626/626 | sp 272/1355 | ep 211/211 | exp 5764 | $ 500/271063 | wimpy: off
+
+Zenick [party]: niceee
+Milk [party]: ei vittu
+Zenick removes spark, the claw of fire.
+Zenick removes The gleaming blue collar of Bengalore, a pair of black boots, gold sun cloak, a rose clasp, a sparkling breastplate, swirling bands of lava <flaming>, Nova Arcanum, Melkior's book of necromancy, the shining helm of azakh-khanan, gloves of Nimbleness and Moonshade, coral great belt.
+Zenick wears a pair of prancy high-heeled shoes and walks around arrogantly
+like a spoiled prima donna she is.
+Zenick wears a collar made of black silk (glowing) <red glow>, a magic cloak (glowing) <blue glow>, a majectical black crown (glowing) <blue glow>, a purple glove (glowing), Spider Amulet (glowing), Prancy high-heeled glass shoes (glowing) <red glow>, a purple glove (glowing), a black belt decored with golden stripes (glowing) <purple glow>, a wand of magic (glowing) <red glow>, a torn leather muscle shirt (glowing) <blue glow>, a battle-scarred shin guard (glowing) <purple glow> and a battle-scarred shin guard (glowing) <purple glow>.
+Zenick wields a staff of moonlight (glowing) <humming> in her right hand.
+Yggrasil [party]: HAHA
+Kharadus {party}: jessu fuck
+*Kharadus ticks 54 sps[17s].
+Milk [party]: aika kova
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: d                            (Members:  9) | Exp Tot:         0 |
+| Created: Tue Apr 06 02:18:52 2004        ( 0h  9m 49s) | Exp/min:         0 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Kozma         fol 1057(1102)  349( 970) 398(398) | 100 |            0 |
+| 1.2   Dupre         ldr 1491(1492)   32(  32) 344(406) | 100 |            0 |
+| 1.3   Kharadus      fol  977( 977)  243( 710) 393(368) |  76 |            0 |
+| 2.1   Susette       fol  776( 776)  -26(1233) 335(332) | 100 |            0 |
+| 2.2   Zenick        fol  841( 841)   51(1389) 388(400) | 100 |            0 |
+| 2.3   Delpers       fol  950( 991)  -91(1041) 460(465) | 100 |            0 |
+| 3.1   Milk          fol  572( 572)   42(1408) 243(243) |  90 |            0 |
+| 3.2   Yggrasil      fol  574( 582)  627(1738) 221(239) | 100 |            0 |
+| 3.3   Nuane         fol  626( 652)  272(1132) 211(219) | 100 |            0 |
+`-----------------------------------------------------------------------------'
+[02:28:41] hp 626/652 | sp 272/1132 | ep 211/219 | exp 5764 | $ 500/271063 | wimpy: off
+
+Milk removes The staff of Lerethin.
+Milk removes Beautiful Ring of Intelligence [Made by: Azmodan] labeled as 5int 1cha, Blue glove of master Conjurer, a black cloak (evil glow), Ring of the Medusa, the stone amulet of the earth elementalist, Holy vest of Yak, strong sapphire boots, dark grey and white plaid kilt labeled as <|MAD|>, segmented titanium belt, Blue glove of master Conjurer, crystal wand labeled as {wonders}, A beautiful black pearl collar labeled as - Milk - and Glass armbands.
+Milk wears a battle-scarred shin guard (glowing) <yellow glow>, a battle-scarred shin guard (glowing) <yellow glow>, a purple glove (glowing), a purple glove labeled as - Milk - (glowing), a pair of blue radium boots (glowing) <orange glow>, sparkling red bracers (glowing) <yellow glow>, sparkling ruby ring (glowing), Girdle of Ethereal Power (glowing) <orange glow>, a torn leather muscle shirt (glowing) <yellow glow>, a magic cloak (glowing) <yellow glow>, a collar made of black silk (glowing) <red glow>, a wand of magic (glowing) <orange glow>, a wand of magic (glowing) <orange glow>, a golden pendant inscribed with a symbol of Aeo (glowing) <yellow glow> and sparkling ruby ring (glowing).
+*Kozma swapping to SPR.
+Kozma removes a crown of the kings, a great emerald hanging from a dragon skin chain, scaly cloak of diffusion, Tom's Blue Coat, Frosty armbands of Icequeen Draqell, a snake bracelet, the bracelet of dancing, dark gloves with spider web ornaments, Ring Of Divine Physical Resistance. [Made by: Zion] labeled as pr4, Ring of Extreme Resistance [Made by: Bippo] labeled as pr4, A black belt, inlaid with pearls, The Staff of Ulmat-Took, shield of Ages, an exposing kilt and a pair of supple basilisk sandals.
+Kozma wears a black hood (glowing), a collar made of black silk (glowing) <red glow>, a magic cloak (glowing) <yellow glow>, a torn leather muscle shirt (glowing) <yellow glow>, sparkling red bracers (glowing) <red glow>, the blue bracelets of magic (glowing) <orange glow>, a white glove (glowing) <red glow>, a white glove (glowing) <red glow>, A heavy black metal ring (glowing), A heavy black metal ring (glowing), Girdle of Ethereal Power (glowing) <orange glow>, a wand of magic (glowing) <orange glow>, a wand of magic (glowing) <orange glow>, Leggings of Sorrow (glowing) <yellow glow> and Boots of the Goddess (glowing) <orange glow>.
+*Kozma end of swap, SPR mode.
+hp 630/652 (+4) | sp 361/1132 (+89) | ep 214/219 (+3)
+Kharadus starts concentrating on a new spell.
+Kharadus {report}: Blessing of Faerwon [ dupre ]
+Yggrasil starts concentrating on a new spell.
+Yggrasil [report]: replenishing susette amount of 200
+*Yggrasil         +---+.
+*Yggrasil         | P |.
+*Yggrasil         /---\.
+*Yggrasil        /     \.
+*Yggrasil   +---/       \---+.
+*Yggrasil   |   |       |   |.
+*Yggrasil   +---\       /---+.
+Yggrasil removes The staff of Lerethin.
+Yggrasil removes a pair of black boots labeled as wisboots, Girdle of Ethereal Power, Blue glove of master Conjurer, an ivory amulet in the shape of small scales, Glass armbands, moonstone leggings, long, gnarled wood staff topped with a red crystal, a black cloak (evil glow), a little leather bag, Ring of the Medusa, Blue glove of master Conjurer, Ring of the Medusa, the Bracelets of Darkness and a Golden Helm.
+Yggrasil shivers from the cold.
+Yggrasil wears medallion of honor (glowing) <yellow glow>, a collar made of black silk (glowing) <red glow>, an ancient staff of the necromancer (glowing) <yellow glow>, the Bracelets of Darkness (glowing) <yellow glow>, Girdle of Ethereal Power (glowing) <orange glow>, a wand of magic (glowing) <orange glow>, a torn leather muscle shirt labeled as |Shaolin| (glowing) <yellow glow>, Demonclaw boots (glowing) <yellow glow>, a Golden Helm (glowing) <orange glow>, a magic cloak (glowing) <green glow>, Zhentorium reinforced legging of Xzui (glowing) <orange glow>, Ancient Bracers of Xzui (glowing) <orange glow>, a purple glove (glowing), sparkling ruby ring (glowing), sparkling ruby ring (glowing) and Red Glove of the Healer (glowing).
+p say pakko sanoo etten oo el‰ess‰ni n‰hny moista runia moral
+Nuane (party): pakko sanoo etten oo el‰ess‰ni n‰hny moista runia moral
+[02:28:53] hp 630/652 | sp 361/1132 | ep 214/219 | exp 5764 | $ 500/271063 | wimpy: off
+
+You have hard time breathing in here.
+Yggrasil spreads his fingers and whispers 'enfuego delyo' (Replenish ally)
+Yggrasil forms an energy link with Susette by putting his hands on her head.
+Milk [party]: alkaa huurut haihtuu p‰‰st‰

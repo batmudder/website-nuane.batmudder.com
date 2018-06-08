@@ -1,0 +1,10 @@
+Session summary:
+Time: 11 hours 34 minutes 23 seconds
+Experience gained: 12608962
+Experience lost: 357069
+Experience spent: 12561571
+Gold difference: +2834.00
+New areas explored: 4454
+Battle skill summary:
+ Hits: 1804 Misses: 1238 Parries: 475 Ripostes: 81 Stuns: 13
+ Criticals: 64 Dodges: 249 Tumbles: 195 Stunned Maneuvers: 0

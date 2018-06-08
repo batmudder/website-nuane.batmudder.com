@@ -1,0 +1,624 @@
+Bleezuz is a level 100 ancient of the Lich race.
+She was created Mon Sep 15 13:23:00 1997 and she is 1y, 238d, 20h, 41min and 44s old.
+She has been on for 8h, 40min and 55s, idle 1s.
+She has killed: the Lizardman Captain is here, attac.., 215507 exp
+                Sera the evil Archmage of Chaos is c.., 1666666 exp (party of 9)
+Web page: 13(41) camelot+
+Plan:
+>
+>
+>To be a faithful disciple of Burglefloogah.
+>
+
+
+Durtle Floogah is a level 62 ancient of the Gargoyle race.
+She was created Sun May 18 19:39:28 1997 and she is 1y, 84d, 16h, 15min and 41s old.
+She has been on for 8h, 40min and 20s, idle 17s.
+She has killed: A drider is here eating, 12167 exp
+                A dragon Highlord is glaring at you .., 257508 exp (party of 6)
+Web page: Mbyan Twiga!          1.5k fat!
+Plan:
+>Leeches clung to his face, and he smiled. Now the end would come.
+>To be a faithful disciple of Burglefloogah.
+>
+
+
+The arena master shouts 'Team 1 consists of Bleezuz'
+The arena master shouts 'Team 2 consists of Durtle'
+The arena master shouts 'All teams ready! Let the fight begin!'
+Laaban giggles inanely.
+Vanhapieru [wanted]: scar remove here at zhamanias crystal, please
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz          1067/1067 1064/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           1321/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..close door
+Pahvi ..close team 1 door.
+Pahvi ..arena master shouts 'Team 1 consists of Bleezuz'
+Pahvi ..arena master shouts 'Team 2 consists of Durtle'
+Pahvi ..arena master shouts 'All teams ready! Let the fight begin!'
+Pahvi ..Sp:1064/1064 Ep:411/411 XP:909>
+Pahvi ..All around is a dense fog. You can see maybe
+Pahvi ..exits are: e, s and se.
+Pahvi ..[wanted]: scar remove here at zhamanias crystal, please
+Pahvi ..gg durtle
+Pahvi ..start chanting.
+Pahvi ..Sp:1064/1064 Ep:411/411 XP:909>
+Pahvi ..l
+Pahvi ..All around is a dense fog. You can see maybe
+Pahvi ..exits are: e, s and se.
+Pahvi ..Sp:1064/1064 Ep:411/411 XP:909>
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz          1067/1067 1064/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           1321/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..arrives from east.
+Pahvi ..
+Pahvi ..hits Bleezuz 2 times.
+Pahvi ..hits Durtle 1 time.
+Pahvi ..990-77 (1067) Sp: 1064 (1064) Ep: 411 (411)
+Pahvi ..###
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           990/1067 1064/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           1308/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Damogran [newbie]: Introducing a new player to BatMUD: Sickend.
+Pahvi ..[newbie]: Introducing a new player to BatMUD: Sickend.
+Akvavitix [sales]: 10k x123
+Pahvi ..[sales]: 10k x123
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           990/1067 1064/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           1285/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..##
+Pahvi ..skillfully cast the spell with haste.
+Pahvi ..
+Pahvi ..hits Durtle 2 times.
+Juggelo cackles gleefully at Pahvi.
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           990/1067 1064/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           1285/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Chizra [sales]: 12k!
+Pahvi ..are done with the chant.
+Dagel arrives from west.
+Pahvi ..thrust your hands forward and scream 'shar ryo den...Haa!'
+Pahvi ..crackling small blue comet slams into your target and explodes in a deafening bang!
+Pahvi ..watch with selfpride as your channelball hits Durtle.
+Pahvi ..screams in pain.
+Pahvi ..
+Pahvi ..armours absorb some of the damage.
+Pahvi ..hits Bleezuz 2 times.
+Pahvi ..shock wave of the blast hits Durtle!
+Pahvi ..seems hurt and confused.
+Pahvi ..[sales]: 12k!
+Pahvi ..gg durtle
+Flab [party]: 0% resist
+Pahvi ..start chanting.
+Pahvi ..Sp:992/1064 Ep:408/411 XP:909>
+Elero [suomi]: onko kellä kokemusta plextori cdr levyistä?
+Pahvi ..x
+Pahvi ..is noticeably hurt.
+Pahvi ..Sp:992/1064 Ep:408/411 XP:909>
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           893/1067  992/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            774/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Inferno [party]: resist 0%
+Info: Eirnawn left the game.
+Big nasty demon shouts 'Zulgen, I bet that HURT! *RAH RAH*'
+Info: Zulgen dies.
+Pahvi ..893-97 (1067) Sp: 992-72 (1064) Ep: 408-3 (411)
+Pahvi ..###
+Pahvi ..skillfully cast the spell with greater haste.
+Pahvi ..
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           821/1067  992/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            714/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..hits Bleezuz 2 times.
+Pahvi ..battle cadence grants you another attack!
+Pahvi ..hits Durtle 3 times.
+Pahvi ..nasty demon shouts 'Zulgen, I bet that HURT! *RAH RAH*'
+Fegud [suomi]: ai ai, jeff saa turpaan
+Pahvi ..says 'haha :).'
+Pahvi ..leaves south.
+       
+ ####  
+ #1.#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           821/1067  986/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            714/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..821-72 (1067) Sp: 992 (1064) Ep: 408 (411)
+Inferno [party]: :D
+Pahvi ..are done with the chant.
+Pahvi ..channelball at what?
+Pahvi ..arrives from south.
+Pahvi ..
+Pahvi ..armours absorb some of the damage.
+Pahvi ..hits Bleezuz 1 time.
+Pahvi ..hits Durtle 1 time.
+Pahvi ..gg durtle
+Pahvi ..start chanting.
+Pahvi ..Sp:986/1064 Ep:408/411 XP:909>
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           815/1067  986/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            691/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Kawasa {sales}: blood crown mb1k
+Pahvi ..{sales}: blood crown mb1k
+Damogran [newbie]: Introducing a new player to BatMUD: Deathofrsj.
+Pahvi ..
+Pahvi ..armours absorb some of the damage.
+Pahvi ..hits Bleezuz 2 times.
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           740/1067  986/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            672/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..hits Durtle 1 time.
+Pahvi ..740-81 (1067) Sp: 986-6 (1064) Ep: 408 (411)
+Pahvi ..###
+Pahvi ..skillfully cast the spell with greater haste.
+Pahvi ..leaves east.
+Pahvi ..[newbie]: Introducing a new player to BatMUD: Deathofrsj.
+Pahvi ..gg durtle
+Malar [ghost]: accept
+Pahvi ..interrupt the chant in order to start a new chant.
+Pahvi ..start chanting.
+Pahvi ..Sp:986/1064 Ep:408/411 XP:909>
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           740/1067  986/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            672/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+*Hawk is sooo cool.
+Chizra [sales]: 50
+Allercan [wanted]: summon
+Pahvi ..###
+Pahvi ..skillfully cast the spell with greater haste.
+Pahvi ..[sales]: 50
+Pahvi ..[wanted]: summon
+Pahvi ..arrives from east.
+Pahvi ..
+Pahvi ..score a CRITICAL hit!
+Pahvi ..hits Durtle 3 times.
+Pahvi ..leaves south.
+Modor [sales]: 100k
+Vulcanus [sales]: 100k
+Pahvi ..[sales]: 100k
+Pahvi ..[sales]: 100k
+Shadowos [sales]: 1k
+Pahvi ..[sales]: 1k
+You say 'ui meininkiä.'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Info: Joseph goes link dead.
+Vulcanus [sales]: 200k
+Pahvi ..are done with the chant.
+Pahvi ..channelball at what?
+Pahvi ..[sales]: 200k
+Pahvi ..gg durtle
+Pahvi ..start chanting.
+Pahvi ..Sp:975/1064 Ep:408/411 XP:909>
+Croesus booms 'jea.'
+Fegud [sales]: stats?
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           693/1067  975/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            447/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..arrives from south.
+Pahvi ..
+Pahvi ..hits Durtle 2 times.
+Pahvi ..740 (1067) Sp: 975-11 (1064) Ep: 408 (411)
+Pahvi ..###
+Pahvi ..
+Pahvi ..hits Bleezuz 1 time.
+Info: Presence left the game.
+Pahvi ..hits Durtle 1 time.
+Pahvi ..[sales]: stats?
+Pahvi ..x
+Pahvi ..is in bad shape.
+Pahvi ..Sp:975/1064 Ep:408/411 XP:909>
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           693/1067  975/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            447/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..leaves east.
+Ananator [sales]: 300k
+Pahvi ..693-47 (1067) Sp: 975 (1064) Ep: 408 (411)
+Pahvi ..##
+Pahvi ..skillfully cast the spell with haste.
+Pahvi ..[sales]: 300k
+Shadowos [sales]: w:Blood axe
+       
+ ####  
+ #12#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           693/1067  975/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            447/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..[sales]: w:Blood axe
+Pahvi ..arrives from east.
+Pahvi ..
+Pahvi ..hits Durtle 1 time.
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           693/1067  975/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            430/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Info: Decay goes link dead.
+Pahvi ..
+Pahvi ..hits Durtle 2 times.
+Pahvi ..are done with the chant.
+Pahvi ..thrust your hands forward and scream 'shar ryo den...Haa!'
+Pahvi ..crackling small blue comet slams into your target and explodes in a deafening bang!
+Pahvi ..watch with selfpride as your channelball hits Durtle.
+Pahvi ..screams in pain.
+Pahvi ..shock wave of the blast hits Durtle!
+Pahvi ..seems hurt and confused.
+Flab [party]: 0% resist
+Pahvi ..gg
+Pahvi ..start chanting.
+Pahvi ..Sp:903/1064 Ep:405/411 XP:909>
+       
+ ####  
+ #1.#  
+ #..#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           687/1067  903/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle              7/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..x
+Pahvi ..is near death.
+Pahvi ..Sp:903/1064 Ep:405/411 XP:909>
+Pahvi ..leaves south.
+Vanhapieru [sales]: 4 dam
+Pahvi ..[sales]: 4 dam
+       
+ ####  
+ #1.#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           687/1067  903/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle              7/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Info: Edrick goes link dead.
+Laaban cheers enthusiastically.
+Anavrin [party]: info: tulin suihkusta
+Pahvi ..699+6 (1067) Sp: 924-51 (1064) Ep: 411+3 (411)
+Pahvi ..###
+Pahvi ..skillfully cast the spell with greater haste.
+Pahvi ..s
+Pahvi ..movement prevents you from casting the spell.
+Pahvi ..All around is a dense fog. You can see maybe
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           699/1067  924/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle              7/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..exits are: n, ne and e.
+Pahvi ..Floogah the Stone Gargoyle <nuclear> (horny) <team 2>
+Pahvi ..
+Pahvi ..Sp:924/1064 Ep:411/411 XP:909>
+Dheos roars 'oi.'
+Pahvi ..cheers enthusiastically.
+Pahvi ..kil
+Pahvi ..are STUNNED from the force of the attack typo.
+Pahvi ..Sp:924/1064 Ep:411/411 XP:909>
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           699/1067  924/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle              7/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Sirdar exclaims 'WO!'
+Pahvi ..
+Pahvi ..lapses into unconsciousness from severe loss of blood.
+Pahvi ..battle cadence grants you another attack!
+Pahvi ..hits Durtle 2 times.
+Pahvi ..pours from Durtle's wounds.
+Pahvi ..tells Durtle and you 'aijai :)'
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           699/1067  924/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            -48/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi says 'sinne menivät .P.'
+Sarnath says 'peijakkaan sales.'
+Info: Deathofrsj left the game.
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           699/1067  924/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle            -48/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Kawasa {sales}: 300k 1x2x3x
+Pahvi ..
+Pahvi ..battle cadence grants you another attack!
+Pahvi ..hits Durtle 3 times.
+Dornier [sales]: 350k
+Pahvi ..pours from Durtle's wounds.
+Pahvi ..gg
+Pahvi ..start chanting.
+Pahvi ..Sp:924/1064 Ep:411/411 XP:909>
+Pahvi ..{sales}: 300k 1x2x3x
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           699/1067  924/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           -133/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..[camelot+]: voitto !
+Pahvi ..[sales]: 350k
+Pahvi ..[camelot+]: snap
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           699/1067  924/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           -133/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..
+Alder snaps her fingers.
+Jokke is caught by sudden enlightment.
+Blower goes 'Heh'.
+Pahvi ..battle cadence grants you another attack!
+Juggelo says 'pelas paskasti durre.'
+Pahvi ..hits Durtle 3 times.
+Pahvi ..###
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           699/1067  924/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           -185/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Sirdar exclaims 'The STANDING Champion defends his title!'
+Sarnath [party]: se oli pikanen
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           699/1067  924/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           -185/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+Pahvi ..
+Pahvi ..battle cadence grants you another attack!
+Pahvi ..battle cadence grants you another attack!
+Pahvi ..hits Durtle 3 times.
+Pahvi ..##
+Pahvi ..skillfully cast the spell with haste.
+       
+ ####  
+ #..#  
+ #2.#  
+ ####  
+       
+       
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Bleezuz           699/1067  924/1064 |                                      |
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Durtle           -263/1321   20/20   |                                      |
+`-----------------------------------------------------------------------------'
+hp 1175/1175 | sp 20/20 | ep 386/386 | exp 58064 | cash 2317/5251
+
+The arena master shouts 'Durtle of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Bleezuz'

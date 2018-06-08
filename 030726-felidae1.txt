@@ -1,0 +1,1465 @@
+Kalarobotti [party]: good, goes
+Durtle starts concentrating on a new spell.
+Kalarobotti leaves up.
+Smoking leaves up.
+Tzager tiptoes to the up.
+Farliss leaves up.
+Felidae's chamber and study (u,d).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+A beautiful and tall woman with hair the color of pale gold
+** Cost for '@up': Cost: utime:20 stime:0 ticks:128442 **
+Dogi arrives from down.
+Zenick arrives from down.
+Toudi arrives from down.
+Durtle sneaks in from down.
+ct
+Kalarobotti starts concentrating on a new spell.
+Tzager reports: Hp: 1635 (1826) Sp: 65 (58) Ep: 408 (408).
+You start chanting.
+[21:52:48] hp 1013/1117 | sp 964/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi (party): avoided ambush
+Zenick [party]: casting concealed
+Farliss starts concentrating on a new offensive spell.
+Campfire tune: 2
+scan all
+cast info
+*****************************************************
+Dogi hits Felidae 1 time.
+Felidae hits Dogi 2 times.
+Smoking's disc floats in.
+Toudi starts concentrating on a new offensive spell.
+Durtle reports: Hp: 1473 (1473) Sp: 588 (588) Ep: 357 (358).
+Felidae is in bad shape.
+[21:52:50] hp 1013/1117 | sp 964/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Tzager reports: Hp: 1632 (1826) Sp: 65 (58) Ep: 408 (408).
+You are casting 'campfire tune'.
+[21:52:50] hp 1013/1117 | sp 964/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1370 (1553) Sp: 917 (1116) Ep: 417 (417).
+Durtle starts concentrating on a new spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 29m  6s) | Exp/min:     28723 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1370(1553)  917(1116) 417(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1632(1826)   65(  58) 408(408) | 100 |      1412980 |
+| 1.3   Durtle        fol 1473(1473)  588( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1013(1117)  964(1079) 426(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172) 1047(1301) 470(465) | 100 |      1434266 |
+| 2.3   Toudi         fol  950(1077) 1303(1303) 240(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr  991(1045)  713( 992) 284(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  864( 935) 1293(1293) 297(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  650( 896) 1436(1436) 239(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:52:51] hp 1013/1117 | sp 964/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Smoking starts concentrating on a new offensive spell.
+Campfire tune: 1
+Kalarobotti cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Kalarobotti's spell heals you. You feel much better.
+scan all
+cast info
+*****************************************************
+Dogi hits Felidae 1 time.
+Felidae hits Tzager 3 times.
+Durtle hits Felidae 1 time.
+hp 1075/1117 (+62) | sp 964/1079 () | ep 426/421 ()
+Durtle reports: Hp: 1473 (1473) Sp: 588 (588) Ep: 357 (358).
+Tzager reports: Hp: 1594 (1826) Sp: 65 (58) Ep: 408 (408).
+Felidae is in bad shape.
+[21:52:53] hp 1075/1117 | sp 964/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are casting 'campfire tune'.
+[21:52:53] hp 1075/1117 | sp 964/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1479 (1553) Sp: 917 (1116) Ep: 417 (417).
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 29m  9s) | Exp/min:     28723 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1479(1553)  917(1116) 417(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1594(1826)   65(  58) 408(408) | 100 |      1412980 |
+| 1.3   Durtle        fol 1473(1473)  588( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1075(1117)  964(1079) 426(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172) 1047(1301) 470(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1025(1077) 1303(1303) 240(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1023(1045)  605( 992) 284(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  906( 935) 1293(1293) 297(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  796( 896) 1436(1436) 239(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:52:54] hp 1075/1117 | sp 964/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Farliss cast(s): 'fah mar nak grttzt' (Lava blast)
+As Farliss casts the spell, he pulls out a granite sphere from a small pouch.
+Farliss grins as his lava blast hits Felidae.
+You are done with the chant.
+You sing: 'What child is this, who laid to rest on Mary's lap is sleeping,
+ angels greet with anthems sweet while shepherds guard are keeping? This, this
+ is Christ the king, whom shephers guard and angels sing. Haste, haste to
+ bring him laude the babe, the son of Mary!' (Campfire tune)
+Your playing heals Toudi
+Your playing heals Dogi
+Your playing heals Nuane
+Nuane's song heals some of your wounds.
+Your playing heals Farliss
+Your playing heals Tzager
+Your playing heals Smoking
+Your playing heals Kalarobotti
+hp 1117/1117 (+42) | sp 877/1079 (-87) | ep 426/421 ()
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Felidae.
+Felidae shreds air with her hands and screams 'Haii!' (Tiger claw)
+Durtle's face contorts in pain and she falls to her knees!
+Felidae roars victoriously and leaps in for the kill!
+scan all
+cast info
+*****************************************************
+Dogi hits Felidae 1 time.
+Tzager hits Felidae 2 times.
+Felidae hits Tzager 1 time.
+cf
+Tzager reports: Hp: 1666 (1826) Sp: 65 (58) Ep: 408 (408).
+Felidae is in bad shape.
+[21:52:56] hp 1117/1117 | sp 877/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are not doing anything at the moment.
+[21:52:56] hp 1117/1117 | sp 877/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You start chanting.
+[21:52:56] hp 1117/1117 | sp 877/1079 | ep 426/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle reports: Hp: 1353 (1473) Sp: 588 (588) Ep: 357 (358).
+Dogi reports: Hp: 1550 (1553) Sp: 917 (1116) Ep: 417 (417).
+Kalarobotti leaves down.
+Smoking leaves down.
+Tzager tiptoes to the down.
+Farliss leaves down.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Winding stairs (u,d,ne).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from up.
+Zenick arrives from up.
+Toudi arrives from up.
+Durtle sneaks in from up.
+Kalarobotti starts concentrating on a new spell.
+Zenick starts concentrating on a new offensive spell.
+Farliss [party]: Lava blast hits Felidae (0% resist)
+cf
+You start chanting.
+[21:52:57] hp 1117/1117 | sp 877/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Durtle starts concentrating on a new spell.
+hp 1117/1117 () | sp 877/1079 () | ep 425/421 (-1)
+Con fioco: 3
+Con fioco: 2 (haste)
+Kalarobotti wears heavy tabard with a chalice ensignia (glowing) <yellow glow>.
+Kalarobotti starts concentrating on a new spell.
+Kalarobotti [party]: paxus at durtle
+Smoking's disc floats in.
+Smoking starts concentrating on a new offensive spell.
+Con fioco: 1
+Felidae sneaks in from up.
+scan all
+cast info
+*****************************************************
+Felidae hits Tzager 5 times.
+Tzager hits Felidae 1 time.
+Your knowledge about Felidae's tactics allows you to evade the ambush.
+Felidae eyes turns black and two rays of blood red ether shoots out from them!
+The rays hit Dogi!
+... and his death cry echoes in your head...
+....................aaaaaaaaaaaarrrrrrrgggggghHHHHHHHHHHHHHHHHHHHHHHH
+ You hear the wailing of Nature as the prime defender of Nature, Mithradir the
+ Druid GuildMaster's soul, is banished by evil Cutter and its cohorts.
+ 
+Durtle reports: Hp: 1353 (1473) Sp: 588 (588) Ep: 357 (358).
+Felidae is in bad shape.
+[21:53:02] hp 1117/1117 | sp 877/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are casting 'con fioco'.
+[21:53:02] hp 1117/1117 | sp 877/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1058 (1553) Sp: 917 (1116) Ep: 417 (417).
+Toudi (party): avoided ambush
+Smoking cast(s): 'diir mieelis sxil miarr mieelin' (Mindseize)
+Smoking focuses on the mind of Felidae.
+Felidae is stunned from the intrusion into her mind.
+scan all
+cast info
+*****************************************************
+Felidae hits Durtle 2 times.
+Dogi hits Felidae 1 time.
+Tzager hits Felidae 1 time.
+You are done with the chant.
+You play the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+You watch with selfpride as your con fioco hits Felidae.
+p say Felidae screams fire (0% resist).
+Felidae screams in pain.
+hp 1117/1117 () | sp 733/1079 (-144) | ep 425/421 ()
+Kalarobotti cast(s): 'Paxus' (Unstun)
+Toudi clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Toudi flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Felidae, bursting into flames!
+Toudi grins as his channelburn hits Felidae.
+Durtle cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Tzager reports: Hp: 1484 (1826) Sp: 65 (58) Ep: 408 (408).
+Felidae is in bad shape.
+[21:53:05] hp 1117/1117 | sp 733/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are not doing anything at the moment.
+[21:53:05] hp 1117/1117 | sp 733/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Nuane (party): Felidae screams fire (0% resist).
+[21:53:05] hp 1117/1117 | sp 733/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle reports: Hp: 1315 (1473) Sp: 494 (588) Ep: 357 (358).
+Dogi reports: Hp: 1179 (1553) Sp: 917 (1116) Ep: 417 (417).
+cf
+You start chanting.
+[21:53:05] hp 1117/1117 | sp 733/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle starts concentrating on a new spell.
+Toudi starts concentrating on a new offensive spell.
+scan all
+cast info
+*****************************************************
+Felidae hits Durtle 3 times.
+Farliss cast(s): 'fah mar nak grttzt' (Lava blast)
+As Farliss casts the spell, he pulls out a granite sphere from a small pouch.
+Farliss grins as his lava blast hits Felidae.
+Con fioco: 3
+Con fioco: 1 (greater haste)
+Info: Nightwrath goes link dead.
+Durtle reports: Hp: 1040 (1473) Sp: 494 (588) Ep: 357 (358).
+Felidae is in bad shape.
+[21:53:08] hp 1117/1117 | sp 733/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are casting 'con fioco'.
+[21:53:08] hp 1117/1117 | sp 733/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Tzager reports: Hp: 1484 (1826) Sp: 65 (58) Ep: 408 (408).
+Dogi reports: Hp: 1179 (1553) Sp: 917 (1116) Ep: 417 (417).
+Durtle starts concentrating on a new spell.
+Farliss [party]: Lava blast hits Felidae (0% resist)
+Farliss starts concentrating on a new offensive spell.
+scan all
+cast info
+*****************************************************
+Felidae hits Tzager 5 times.
+You are done with the chant.
+You play the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+You watch with selfpride as your con fioco hits Felidae.
+p say Felidae screams fire (0% resist).
+Felidae screams in pain.
+hp 1117/1117 () | sp 589/1079 (-144) | ep 425/421 ()
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Felidae.
+Kalarobotti starts concentrating on a new spell.
+Durtle reports: Hp: 1040 (1473) Sp: 494 (588) Ep: 357 (358).
+Tzager reports: Hp: 1187 (1826) Sp: 65 (58) Ep: 408 (408).
+Felidae is in bad shape.
+[21:53:11] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1179 (1553) Sp: 917 (1116) Ep: 417 (417).
+You are not doing anything at the moment.
+[21:53:11] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Nuane (party): Felidae screams fire (0% resist).
+[21:53:11] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+cf
+
+Zenick starts concentrating on a new offensive spell.
+You start chanting.
+[21:53:12] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Info: Gror recovers from link death.
+Kalarobotti poks Tzager.
+scan all
+cast info
+*****************************************************
+Felidae hits Tzager 5 times.
+Dogi hits Felidae 1 time.
+Tzager hits Felidae 1 time.
+Con fioco: 3
+Con fioco: 2 (haste)
+Toudi clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Toudi flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Felidae, bursting into flames!
+Toudi grins as his channelburn hits Felidae.
+Felidae cast(s): 'wheeeaaaaaa oooooo' (Field of fear)
+This location is now surrounded in a miserably gray forcefield.
+Felidae bursts into flames!
+Con fioco: 1
+Tzager reports: Hp: 781 (1826) Sp: 65 (58) Ep: 408 (408).
+[party]: Tzager is no longer stunned.
+Durtle reports: Hp: 1037 (1473) Sp: 494 (588) Ep: 357 (358).
+Dogi reports: Hp: 1179 (1553) Sp: 917 (1116) Ep: 417 (417).
+Felidae is in bad shape.
+[21:53:14] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are casting 'con fioco'.
+[21:53:14] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Kalarobotti leaves down.
+Smoking leaves down.
+Tzager tiptoes to the down.
+Farliss leaves down.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Winding stairs (u,d,nw).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from up.
+Zenick arrives from up.
+Toudi arrives from up.
+Durtle sneaks in from up.
+Kalarobotti leaves down.
+Smoking leaves down.
+Tzager tiptoes to the down.
+Farliss leaves down.
+Winding stairs (u,e).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from up.
+Zenick arrives from up.
+Toudi arrives from up.
+Durtle sneaks in from up.
+cf
+You start chanting.
+[21:53:16] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Con fioco: 3
+Con fioco: 1 (greater haste)
+Kalarobotti starts concentrating on a new spell.
+Durtle starts concentrating on a new spell.
+Farliss starts concentrating on a new offensive spell.
+cf
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:53:18] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+ps
+Zenick [party]: casting concealed
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 29m 33s) | Exp/min:     28723 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1179(1553)  917(1116) 417(417) | 100 |      1462789 |
+| 1.2   Tzager        fol  781(1826)   65(  58) 408(408) | 100 |      1412980 |
+| 1.3   Durtle        fol 1050(1473)  512( 588) 358(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  589(1079) 425(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  642(1301) 469(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1066(1077) 1157(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1045(1045)  482(1002) 283(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1275(1293) 301(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  896( 896) 1147(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:53:18] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Con fioco: 3
+Smoking's disc floats in.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 29m 35s) | Exp/min:     28723 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1179(1553)  917(1116) 417(417) | 100 |      1462789 |
+| 1.2   Tzager        fol  781(1826)   65(  58) 408(408) | 100 |      1412980 |
+| 1.3   Durtle        fol 1050(1473)  512( 588) 358(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  589(1079) 425(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  642(1301) 469(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1066(1077) 1157(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1045(1045)  482(1002) 283(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1275(1293) 301(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  896( 896) 1147(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:53:20] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Con fioco: 2
+[party]: Smoking sizzles
+Toudi starts concentrating on a new offensive spell.
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 29m 39s) | Exp/min:     28723 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1179(1553)  917(1116) 417(417) | 100 |      1462789 |
+| 1.2   Tzager        fol  781(1826)   65(  58) 408(408) | 100 |      1412980 |
+| 1.3   Durtle        fol 1050(1473)  512( 588) 358(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  589(1079) 425(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  642(1301) 469(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1066(1077) 1149(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1045(1045)  519(1002) 283(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1293(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  896( 896) 1147(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:53:24] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Con fioco: 1
+cf
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:53:26] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+Zenick [party]: casting concealed
+Con fioco: 3
+Kalarobotti cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Durtle cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Tzager peers up.
+Tzager peers up.
+*Tzager You peer up:
+*Tzager The staircase winds itself up and down. There's bedroom to the northwest.
+*Tzager Obvious exits are: u, d and nw.
+*Tzager You use your enhanced ability to peer.
+Smoking starts concentrating on a new offensive spell.
+Kalarobotti starts concentrating on a new spell.
+Durtle starts concentrating on a new spell.
+Con fioco: 2
+Toudi starts concentrating on a new offensive spell.
+Zenick starts concentrating on a new offensive spell.
+Info: Glory recovers from link death.
+Kalarobotti cast(s): 'judicandus mangenic' (Cure critical wounds)
+Kalarobotti fails miserably in her spell.
+Durtle cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Kalarobotti leaves up.
+Smoking leaves up.
+Tzager tiptoes to the up.
+Farliss leaves up.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Winding stairs (u,d,nw).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from down.
+Zenick arrives from down.
+Toudi arrives from down.
+Durtle sneaks in from down.
+cf
+You start chanting.
+[21:53:36] hp 1117/1117 | sp 589/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle starts concentrating on a new skill.
+Kalarobotti starts concentrating on a new spell.
+Zenick [party]: casting concealed
+Toudi starts concentrating on a new offensive spell.
+hp 1117/1117 () | sp 679/1079 (+90) | ep 425/421 ()
+Con fioco: 3
+Con fioco: 1 (greater haste)
+Smoking starts concentrating on a new offensive spell.
+Tzager peers up.
+cf
+Tzager peers up.
+*Tzager You peer up:
+*Tzager The staircase winds itself up and down. There's a room to the northeast.
+*Tzager A miserably gray force field surrounds this area.
+*Tzager Obvious exits are: u, d and ne.
+*Tzager You use your enhanced ability to peer.
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:53:38] hp 1117/1117 | sp 679/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+Smoking's disc floats in.
+Info: Cremator recovers from link death.
+Con fioco: 3
+Con fioco: 1 (greater haste)
+Kalarobotti cast(s): 'judicandus puorgo mangenic' (Major party heal)
+cf
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:53:42] hp 1117/1117 | sp 679/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+Hackop [chat]: I have no internet starting in 3 days! ack!
+Kalarobotti leaves up.
+Smoking leaves up.
+Tzager tiptoes to the up.
+Farliss leaves up.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Winding stairs (u,d,ne).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+A beautiful and tall woman with hair the color of pale gold
+Your knowledge about Felidae's tactics allows you to evade the ambush.
+** Cost for '@up': Cost: utime:30 stime:0 ticks:126291 **
+Dogi arrives from down.
+Zenick arrives from down.
+Toudi arrives from down.
+Durtle sneaks in from down.
+Tzager reports: Hp: 1397 (1826) Sp: 65 (58) Ep: 407 (408).
+cf
+Toudi (party): avoided ambush
+You start chanting.
+[21:53:44] hp 1117/1117 | sp 679/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Zenick starts concentrating on a new offensive spell.
+Smoking's disc floats in.
+Toudi starts concentrating on a new offensive spell.
+Kalarobotti starts concentrating on a new spell.
+Durtle starts concentrating on a new spell.
+Smoking starts concentrating on a new offensive spell.
+Farliss starts concentrating on a new offensive spell.
+scan all
+cast info
+*****************************************************
+Felidae hits Durtle 5 times.
+Con fioco: 3
+Felidae eyes turns black and two rays of blood red ether shoots out from them!
+The rays hit Kalarobotti!
+... and his death cry echoes in your head...
+Con fioco: 2
+Con fioco: 1 (haste)
+Durtle reports: Hp: 1098 (1473) Sp: 324 (588) Ep: 358 (358).
+Felidae is in bad shape.
+[21:53:47] hp 1117/1117 | sp 679/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Smoking looks at disc.
+Kalarobotti says 'u lied.'
+You are casting 'con fioco'.
+[21:53:47] hp 1117/1117 | sp 679/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Tzager reports: Hp: 1397 (1879) Sp: 65 (65) Ep: 407 (412).
+Dogi reports: Hp: 1547 (1553) Sp: 940 (1116) Ep: 417 (417).
+Durtle starts concentrating on a new spell.
+Kalarobotti starts concentrating on a new spell.
+scan all
+cast info
+*****************************************************
+Dogi hits Felidae 1 time.
+Felidae hits Durtle 2 times.
+You are done with the chant.
+You play the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+You watch with selfpride as your con fioco hits Felidae.
+p say Felidae screams fire (0% resist).
+Felidae screams in pain.
+hp 1117/1117 () | sp 535/1079 (-144) | ep 425/421 ()
+Toudi clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Toudi flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Felidae, bursting into flames!
+Toudi grins as his channelburn hits Felidae.
+Felidae shreds air with her hands and screams 'Haii!' (Tiger claw)
+Durtle's face contorts in pain and she falls to her knees!
+Felidae roars victoriously and leaps in for the kill!
+Felidae is in very bad shape.
+[21:53:50] hp 1117/1117 | sp 535/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are not doing anything at the moment.
+[21:53:50] hp 1117/1117 | sp 535/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle reports: Hp: 882 (1473) Sp: 324 (588) Ep: 358 (358).
+Tzager reports: Hp: 1397 (1879) Sp: 65 (65) Ep: 407 (412).
+Nuane (party): Felidae screams fire (0% resist).
+[21:53:50] hp 1117/1117 | sp 535/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1547 (1553) Sp: 940 (1116) Ep: 417 (417).
+cf
+You start chanting.
+[21:53:50] hp 1117/1117 | sp 535/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Argooni [chat]: sounds good for you.
+scan all
+cast info
+*****************************************************
+Felidae hits Durtle 3 times.
+Durtle hits Felidae 1 time.
+Smoking cast(s): 'fah mar nak grttzt' (Lava blast)
+As Smoking casts the spell, he pulls out a granite sphere from a small pouch.
+The air before Smoking becomes electrified and crackles with pure POWER.
+Smoking grins as his lava blast hits Felidae.
+Con fioco: 3
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Felidae.
+Kalarobotti cast(s): 'judicandus mangenic' (Cure critical wounds)
+Tzager reports: Hp: 1397 (1879) Sp: 65 (65) Ep: 407 (412).
+Durtle reports: Hp: 679 (1473) Sp: 324 (588) Ep: 358 (358).
+Felidae is in very bad shape.
+[21:53:53] hp 1117/1117 | sp 535/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are casting 'con fioco'.
+[21:53:53] hp 1117/1117 | sp 535/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1547 (1553) Sp: 940 (1116) Ep: 417 (417).
+Smoking [party]: Felidae screams to lava blast
+Zenick [party]: casting concealed
+Kalarobotti leaves northeast.
+Smoking leaves northeast.
+Tzager tiptoes to the northeast.
+Farliss leaves northeast.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+A luxury bedroom (s,sw,w).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from southwest.
+Zenick arrives from southwest.
+Toudi arrives from southwest.
+Durtle sneaks in from southwest.
+Info: Laendar left the game.
+Smoking's disc floats in.
+Kalarobotti leaves south.
+Smoking leaves south.
+Tzager tiptoes to the south.
+Farliss leaves south.
+Armoury of Torre de Renardia (w,n).
+a pile of tin coins, a big pile of zinc coins and a
+huge pile of mowgles coins
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from north.
+Zenick arrives from north.
+Toudi arrives from north.
+Durtle sneaks in from north.
+cf
+You start chanting.
+[21:53:55] hp 1117/1117 | sp 535/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Kalarobotti starts concentrating on a new spell.
+Zenick starts concentrating on a new offensive spell.
+Toudi starts concentrating on a new offensive spell.
+Smoking starts concentrating on a new offensive spell.
+Durtle starts concentrating on a new spell.
+Zarx {sales}: grolth maul 300k
+Con fioco: 2
+Con fioco: 1 (haste)
+Durtle takes a look at her notebook.
+cf
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:54:00] hp 1117/1117 | sp 535/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+Smoking's disc floats in.
+Toudi starts concentrating on a new offensive spell.
+Con fioco: 3
+Con fioco: 1 (greater haste)
+Kalarobotti cast(s): 'judicandus puorgo mangenic' (Major party heal)
+cf
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:54:03] hp 1117/1117 | sp 535/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+Zenick starts concentrating on a new offensive spell.
+Farliss [party]: haistakko vitun thrikhren ja mage
+Kalarobotti starts concentrating on a new spell.
+Kalarobotti [party]: sp
+hp 1117/1117 () | sp 618/1079 (+83) | ep 425/421 ()
+Con fioco: 3
+Con fioco: 2 (haste)
+Durtle cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Toudi starts concentrating on a new spell.
+Con fioco: 1
+Kalarobotti cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Farliss [party]: haste?!?!?!?
+cf
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:54:08] hp 1117/1117 | sp 618/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 30m 24s) | Exp/min:     28660 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1553(1553)  963(1116) 417(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1840(1879)   65(  65) 407(412) | 100 |      1412980 |
+| 1.3   Durtle        fol 1285(1473)  230( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  618(1079) 425(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  481(1301) 468(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1076(1077) 1105(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr  998(1045)   64(1002) 282(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1133(1293) 304(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  896( 896) 1233(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:54:09] hp 1117/1117 | sp 618/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Kalarobotti starts concentrating on a new skill.
+Favorit <chat>: sigh, it's gonna be soooooooo quiet
+Con fioco: 3
+Larppa [chat]: HAH! you're not gonna make it! :O
+repl kalarobotti 250
+[21:54:11] hp 1117/1117 | sp 618/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:54:11] hp 1117/1117 | sp 618/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Nuane (party): Replenishing kalarobotti with 250 points
+[21:54:11] hp 1117/1117 | sp 618/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+Zenick [party]: casting concealed
+Kronai [wanted]: summon to portal , pay 1 mithril
+Farliss turns his pockets inside out and peers inside. A dazzled moth flies out.
+Replenish ally: 6
+Durtle starts concentrating on a new skill.
+Farliss starts concentrating on a new offensive spell.
+Magnar [newbie]: any newbie need tank to stand in front of them ?
+Replenish ally: 5
+Replenish ally: 3 (greater haste)
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 30m 33s) | Exp/min:     28660 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1553(1553)  963(1116) 417(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1871(1879)   65(  65) 412(412) | 100 |      1412980 |
+| 1.3   Durtle        fol 1298(1473)  247( 588) 358(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  618(1079) 425(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  481(1301) 468(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1074(1077) 1159(1303) 240(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr  998(1045)   64(1002) 282(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1133(1293) 304(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  896( 896) 1233(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:54:18] hp 1117/1117 | sp 618/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Smoking starts concentrating on a new offensive spell.
+Replenish ally: 2
+Replenish ally: 1 (haste)
+Kalarobotti performs a solemn ceremony to please Aveallis.
+Toudi spreads his fingers and whispers 'enfuego delyo' (Replenish ally)
+Toudi forms an energy link with Kalarobotti by putting his hands on her head.
+Durtle performs a solemn ceremony to please Aveallis.
+Kalarobotti [party]: comes
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 30m 36s) | Exp/min:     28660 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1553(1553)  963(1116) 417(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1871(1879)   65(  65) 412(412) | 100 |      1412980 |
+| 1.3   Durtle        fol 1298(1473)  247( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  618(1079) 425(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  481(1301) 468(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1074(1077)  760(1303) 240(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1007(1045)  439(1002) 281(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1178(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  896( 896) 1233(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:54:21] hp 1117/1117 | sp 618/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Zenick starts concentrating on a new offensive spell.
+Toudi starts concentrating on a new offensive spell.
+cf
+You are done with the chant.
+You spread your fingers and whisper 'enfuego delyo' (Replenish ally)
+You place your hands on Kalarobotti's head and feel the energy flow from you.
+hp 1117/1117 () | sp 330/1079 (-288) | ep 425/421 ()
+You start chanting.
+[21:54:23] hp 1117/1117 | sp 330/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Farliss [party]: < Magic Dispersion DOWN > [14:46]
+Tzager peers north.
+Tzager peers north.
+*Tzager You peer north:
+*Tzager The bedroom is comfortable and well appointed with rich oak and leather.
+*Tzager furniture. Part bedchamber, part library, part office, this large area is.
+*Tzager where the Don Luis spends most of his time each day. His officers are.
+*Tzager permitted to interrupt him here, though none but the most intimate and trusted.
+*Tzager of visitors are invited within.
+*Tzager Outside, above you is a hot, slowly moving, clear sky.
+*Tzager Obvious exits are: s, sw and w.
+*Tzager You use your enhanced ability to peer.
+Replenish ally: -1 (greater haste)
+cf
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:54:27] hp 1117/1117 | sp 330/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+Smoking starts concentrating on a new offensive spell.
+Toudi starts concentrating on a new offensive spell.
+Farliss starts concentrating on a new offensive spell.
+Replenish ally: -2 (haste)
+Kalarobotti leaves north.
+Smoking leaves north.
+Tzager tiptoes to the north.
+Farliss leaves north.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+A luxury bedroom (s,sw,w).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from south.
+Zenick arrives from south.
+Toudi arrives from south.
+Durtle sneaks in from south.
+Kalarobotti leaves southwest.
+Smoking leaves southwest.
+Tzager tiptoes to the southwest.
+Farliss leaves southwest.
+Winding stairs (u,d,ne).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+A beautiful and tall woman with hair the color of pale gold
+Your knowledge about Felidae's tactics allows you to evade the ambush.
+** Cost for '@southwest': Cost: utime:30 stime:0 ticks:126188 **
+Dogi arrives from northeast.
+Zenick arrives from northeast.
+Toudi arrives from northeast.
+Durtle sneaks in from northeast.
+Farliss [party]: Magic dispersion -> Me.
+Tzager reports: Hp: 1767 (1879) Sp: 65 (65) Ep: 410 (412).
+cf
+Toudi (party): avoided ambush
+You start chanting.
+[21:54:30] hp 1117/1117 | sp 330/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Smoking's disc floats in.
+Zenick starts concentrating on a new offensive spell.
+Toudi starts concentrating on a new offensive spell.
+scan all
+cast info
+*****************************************************
+Dogi hits Felidae 1 time.
+Tzager hits Felidae 2 times.
+Felidae hits Durtle 2 times.
+Con fioco: 3
+Farliss starts concentrating on a new offensive spell.
+Kalarobotti starts concentrating on a new spell.
+Durtle reports: Hp: 1173 (1473) Sp: 247 (588) Ep: 357 (358).
+Felidae is in very bad shape.
+[21:54:32] hp 1117/1117 | sp 330/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Tzager reports: Hp: 1767 (1879) Sp: 65 (65) Ep: 410 (412).
+You are casting 'con fioco'.
+[21:54:32] hp 1117/1117 | sp 330/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1553 (1553) Sp: 963 (1116) Ep: 416 (417).
+Durtle starts concentrating on a new spell.
+scan all
+cast info
+*****************************************************
+Dogi hits Felidae 1 time.
+Felidae hits Durtle 3 times.
+Con fioco: 2
+Con fioco: 1 (haste)
+Durtle reports: Hp: 925 (1473) Sp: 247 (588) Ep: 357 (358).
+Tzager reports: Hp: 1767 (1879) Sp: 65 (65) Ep: 410 (412).
+Felidae is in very bad shape.
+[21:54:35] hp 1117/1117 | sp 330/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are casting 'con fioco'.
+[21:54:35] hp 1117/1117 | sp 330/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1553 (1553) Sp: 963 (1116) Ep: 416 (417).
+scan all
+cast info
+*****************************************************
+Felidae hits Dogi 4 times.
+Smoking cast(s): 'fah mar nak grttzt' (Lava blast)
+As Smoking casts the spell, he pulls out a granite sphere from a small pouch.
+Smoking grins as his lava blast hits Felidae.
+You are done with the chant.
+You play the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+You watch with selfpride as your con fioco hits Felidae.
+hp 1117/1117 () | sp 186/1079 (-144) | ep 425/421 ()
+Toudi clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Toudi mumbles something inconcievable.
+Durtle cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Tzager reports: Hp: 1823 (1879) Sp: 65 (65) Ep: 410 (412).
+Felidae is in very bad shape.
+[21:54:38] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle reports: Hp: 1100 (1473) Sp: 153 (588) Ep: 357 (358).
+You are not doing anything at the moment.
+[21:54:38] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1392 (1553) Sp: 963 (1116) Ep: 416 (417).
+Smoking [party]: Felidae screams to lava blast
+cf
+You start chanting.
+[21:54:39] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle starts concentrating on a new spell.
+Kalarobotti leaves up.
+Smoking leaves up.
+Tzager tiptoes to the up.
+Farliss leaves up.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Felidae's chamber and study (u,d).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from down.
+Zenick arrives from down.
+Toudi arrives from down.
+Durtle sneaks in from down.
+Kalarobotti starts concentrating on a new spell.
+Smoking's disc floats in.
+cf
+You start chanting.
+[21:54:40] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Farliss starts concentrating on a new offensive spell.
+Con fioco: 3
+Felidae sneaks in from down.
+scan all
+cast info
+*****************************************************
+Felidae hits Durtle 5 times.
+Tzager hits Felidae 1 time.
+Your knowledge about Felidae's tactics allows you to evade the ambush.
+Felidae cast(s): 'gtzt mar nak grttzt' (Golden arrow)
+Felidae grins as her golden arrow hits Farliss.
+Smoking's floating disc suddenly disappears.
+Zenick [party]: casting concealed
+Dogi starts concentrating on a new offensive skill.
+Durtle reports: Hp: 570 (1473) Sp: 153 (588) Ep: 357 (358).
+Felidae is in very bad shape.
+[21:54:41] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1392 (1553) Sp: 963 (1116) Ep: 415 (417).
+You are casting 'con fioco'.
+[21:54:41] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Tzager reports: Hp: 1823 (1879) Sp: 65 (65) Ep: 410 (412).
+[party]: Farliss was hit by a golden arrow!
+Farliss [party]: ( Hurt! )
+Toudi (party): avoided ambush
+Durtle starts concentrating on a new spell.
+rebirth heal
+You must wait 1h, 45min and 12s.
+[21:54:43] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Felidae.
+scan all
+cast info
+*****************************************************
+Felidae hits Durtle 2 times.
+Toudi clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Toudi flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Felidae, bursting into flames!
+Toudi grins as his channelburn hits Felidae.
+Durtle reports: Hp: 296 (1473) Sp: 153 (588) Ep: 357 (358).
+Tzager reports: Hp: 1823 (1879) Sp: 65 (65) Ep: 410 (412).
+Felidae is in very bad shape.
+[21:54:44] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1392 (1553) Sp: 963 (1116) Ep: 415 (417).
+You are casting 'con fioco'.
+[21:54:44] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+ps
+
+Zenick starts concentrating on a new offensive spell.
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 31m  0s) | Exp/min:     28596 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1392(1553)  963(1116) 415(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1823(1879)   65(  65) 410(412) | 100 |      1412980 |
+| 1.3   Durtle        fol  296(1473)  153( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  186(1079) 425(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  284(1301) 467(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1069(1077)  667(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1026(1045)  743(1002) 281(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1032(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  577( 810) 1233(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:54:45] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Farliss cast(s): 'fah mar nak grttzt' (Lava blast)
+As Farliss casts the spell, he pulls out a granite sphere from a small pouch.
+Farliss grins as his lava blast hits Felidae.
+Con fioco: 1
+Kalarobotti cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Durtle cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Durtle mumbles something inconcievable.
+scan all
+cast info
+*****************************************************
+Felidae hits Dogi 2 times.
+Tzager hits Felidae 1 time.
+Felidae is near death.
+[21:54:47] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are casting 'con fioco'.
+[21:54:47] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle reports: Hp: 506 (1473) Sp: 59 (588) Ep: 357 (358).
+Tzager reports: Hp: 1844 (1879) Sp: 65 (65) Ep: 410 (412).
+Dogi reports: Hp: 1275 (1553) Sp: 963 (1116) Ep: 415 (417).
+ps
+Farliss [party]: Lava blast hits Felidae (0% resist)
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 31m  3s) | Exp/min:     28596 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1275(1553)  963(1116) 415(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1844(1879)   65(  65) 410(412) | 100 |      1412980 |
+| 1.3   Durtle        fol  506(1473)   59( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  186(1079) 425(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  284(1301) 467(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1072(1077)  667(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1033(1045)  644(1002) 281(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1032(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  667( 810) 1080(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:54:48] hp 1117/1117 | sp 186/1079 | ep 425/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Kalarobotti leaves down.
+Smoking leaves down.
+Tzager tiptoes to the down.
+Farliss leaves down.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Winding stairs (u,d,ne).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from up.
+Zenick arrives from up.
+Toudi arrives from up.
+Durtle sneaks in from up.
+Kalarobotti starts concentrating on a new spell.
+cf
+Zenick starts concentrating on a new offensive spell.
+hp 1117/1117 () | sp 186/1079 () | ep 424/421 (-1)
+You start chanting.
+[21:54:50] hp 1117/1117 | sp 186/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Dogi starts concentrating on a new spell.
+Info: Tzharas recovers from link death.
+Durtle starts concentrating on a new spell.
+Con fioco: 3
+Con fioco: 1 (greater haste)
+Toudi starts concentrating on a new offensive spell.
+cf
+You interrupt the chant in order to start a new chant.
+CASTING RESTARTED.
+You start chanting.
+[21:54:55] hp 1117/1117 | sp 186/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+Con fioco: 3
+Dogi cast(s): 'judicandus ignius' (Cure serious wounds)
+Kalarobotti cast(s): 'judicandus zapracus' (True heal)
+Kalarobotti mumbles something inconcievable.
+Dogi starts concentrating on a new spell.
+Zenick [party]: casting concealed
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 31m 12s) | Exp/min:     28596 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1365(1553)  936(1116) 415(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1844(1879)   65(  65) 410(412) | 100 |      1412980 |
+| 1.3   Durtle        fol  506(1473)   59( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  186(1079) 424(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  321(1301) 467(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1072(1077)  645(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1041(1045)  691(1002) 281(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1081(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  667( 810) 1080(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:54:57] hp 1117/1117 | sp 186/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Smoking [party]: Magicprot -> farliss
+Info: Toag enters the game.
+Kalarobotti starts concentrating on a new spell.
+Con fioco: 2
+Felidae sneaks in from up.
+scan all
+cast info
+*****************************************************
+Felidae hits Tzager 2 times.
+Your knowledge about Felidae's tactics allows you to evade the ambush.
+Durtle cast(s): 'judicandus mangenic' (Cure critical wounds)
+Kalarobotti starts concentrating on a new spell.
+Durtle reports: Hp: 688 (1473) Sp: 16 (588) Ep: 357 (358).
+Felidae is near death.
+[21:54:59] hp 1117/1117 | sp 186/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Tzager reports: Hp: 1763 (1879) Sp: 65 (65) Ep: 410 (412).
+Dogi reports: Hp: 1364 (1553) Sp: 936 (1116) Ep: 415 (417).
+You are casting 'con fioco'.
+[21:54:59] hp 1117/1117 | sp 186/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Toudi (party): avoided ambush
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 31m 15s) | Exp/min:     28596 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1364(1553)  936(1116) 415(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1763(1879)   65(  65) 410(412) | 100 |      1412980 |
+| 1.3   Durtle        fol  688(1473)   16( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  186(1079) 424(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  321(1301) 467(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1072(1077)  639(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1041(1045)  691(1002) 281(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1081(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  667( 810) 1080(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:55:00] hp 1117/1117 | sp 186/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Smoking starts concentrating on a new offensive spell.
+scan all
+cast info
+*****************************************************
+Felidae hits Tzager 2 times.
+Dogi hits Felidae 1 time.
+Con fioco: 1
+Dogi cast(s): 'judicandus ignius' (Cure serious wounds)
+Durtle reports: Hp: 685 (1473) Sp: 16 (588) Ep: 357 (358).
+Felidae is near death.
+[21:55:02] hp 1117/1117 | sp 186/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Tzager reports: Hp: 1671 (1879) Sp: 65 (65) Ep: 410 (412).
+You are casting 'con fioco'.
+[21:55:02] hp 1117/1117 | sp 186/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1454 (1553) Sp: 909 (1116) Ep: 415 (417).
+Dogi starts concentrating on a new spell.
+Kalarobotti [party]: luck o hoy
+ps
+Info: Glacius recovers from link death.
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 31m 18s) | Exp/min:     28596 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1454(1553)  909(1116) 415(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1671(1879)   65(  65) 410(412) | 100 |      1412980 |
+| 1.3   Durtle        fol  685(1473)   16( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)  186(1079) 424(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  321(1301) 467(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1072(1077)  639(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1041(1045)  691(1002) 281(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1081(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  667( 810) 1080(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:55:03] hp 1117/1117 | sp 186/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi starts concentrating on a new offensive skill.
+scan all
+cast info
+*****************************************************
+Felidae hits Tzager 1 time.
+Durtle hits Felidae 1 time.
+Farliss cast(s): 'fah mar nak grttzt' (Lava blast)
+As Farliss casts the spell, he pulls out a granite sphere from a small pouch.
+Farliss grins as his lava blast hits Felidae.
+You are done with the chant.
+You play the instrument with an unbelievable speed: 'AeaH*h***Gdg' (Con fioco)
+You watch with selfpride as your con fioco hits Felidae.
+p say Felidae screams fire (0% resist).
+Felidae screams in pain.
+hp 1117/1117 () | sp 42/1079 (-144) | ep 424/421 ()
+Felidae is near death.
+[21:55:05] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle reports: Hp: 685 (1473) Sp: 16 (588) Ep: 357 (358).
+You are not doing anything at the moment.
+[21:55:05] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Tzager reports: Hp: 1595 (1879) Sp: 65 (65) Ep: 410 (412).
+Nuane (party): Felidae screams fire (0% resist).
+[21:55:05] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1454 (1553) Sp: 909 (1116) Ep: 415 (417).
+Farliss [party]: Lava blast hits Felidae (0% resist)
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 31m 21s) | Exp/min:     28596 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1454(1553)  909(1116) 415(417) | 100 |      1462789 |
+| 1.2   Tzager        fol 1595(1879)   65(  65) 410(412) | 100 |      1412980 |
+| 1.3   Durtle        fol  685(1473)   16( 588) 357(358) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)   42(1079) 424(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  321(1301) 467(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1072(1077)  639(1303) 237(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1041(1045)  691(1002) 281(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1081(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  667( 810)  927(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:55:06] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Kalarobotti leaves up.
+Smoking leaves up.
+Tzager tiptoes to the up.
+Farliss leaves up.
+Felidae's chamber and study (u,d).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from down.
+Zenick arrives from down.
+Toudi arrives from down.
+Durtle sneaks in from down.
+Kalarobotti starts concentrating on a new spell.
+Toudi starts concentrating on a new offensive spell.
+Dogi starts concentrating on a new offensive skill.
+Zenick starts concentrating on a new offensive spell.
+da smoking
+Smoking starts concentrating on a new offensive spell.
+You start chanting.
+[21:55:09] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Info: Zeane recovers from link death.
+Ins [wanted]: snake dirk(s), cutlass(es) of cold.. offer!
+Drain ally: 3
+Drain ally: 2 (haste)
+Kalarobotti cast(s): 'judicandus pafzarmus' (Major heal)
+Kalarobotti casts her spell at Durtle.
+Felidae sneaks in from down.
+scan all
+cast info
+*****************************************************
+Felidae hits Tzager 4 times.
+Your knowledge about Felidae's tactics allows you to evade the ambush.
+Felidae cast(s): 'PAF PAF PAF!' (Harm body)
+Felidae casts a harming spell on Tzager.
+Tzager reports: Hp: 677 (1879) Sp: 65 (65) Ep: 410 (412).
+Felidae is near death.
+[21:55:11] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Durtle reports: Hp: 1164 (1516) Sp: 33 (627) Ep: 358 (374).
+You are casting 'drain ally' at 'smoking'.
+[21:55:11] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Dogi reports: Hp: 1454 (1553) Sp: 909 (1116) Ep: 415 (417).
+ps
+Durtle starts concentrating on a new skill.
+Toudi (party): avoided ambush
+Kalarobotti starts concentrating on a new spell.
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 31m 27s) | Exp/min:     28596 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1454(1553)  909(1116) 415(417) | 100 |      1462789 |
+| 1.2   Tzager        fol  677(1879)   65(  65) 410(412) | 100 |      1412980 |
+| 1.3   Durtle        fol 1164(1516)   33( 627) 358(374) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)   42(1079) 424(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  321(1301) 467(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1070(1077)  688(1303) 240(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1041(1045)  558(1002) 281(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1081(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  667( 810)  927(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:55:12] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Smoking [party]: ill skip degen
+Drain ally: 1
+scan all
+cast info
+*****************************************************
+Felidae hits Tzager 3 times.
+Kronai [wanted]: still need that summon
+Info: Alder left the game.
+Durtle reports: Hp: 1161 (1516) Sp: 33 (627) Ep: 358 (374).
+Tzager reports: Hp: 449 (1879) Sp: 65 (65) Ep: 410 (412).
+Dogi reports: Hp: 1454 (1553) Sp: 909 (1116) Ep: 415 (417).
+Felidae is near death.
+[21:55:14] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are casting 'drain ally' at 'smoking'.
+[21:55:14] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+ps
+
+,-----------------------------------------------------------------------------.
+| Party Name: lets not aoa tanks and wipe  (Members:  9) | Exp Tot:  12925725 |
+| Created: Sat Jul 26 12:53:07 2003        ( 7h 31m 30s) | Exp/min:     28596 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   Experience |
+|========================================================|=====|==============|
+| 1.1   Dogi          fol 1454(1553)  909(1116) 415(417) | 100 |      1462789 |
+| 1.2   Tzager        fol  449(1879)   65(  65) 410(412) | 100 |      1412980 |
+| 1.3   Durtle        fol 1161(1516)   33( 627) 358(374) |  80 |      1294293 |
+| 2.1   Nuane         fol 1117(1117)   42(1079) 424(421) |  86 |      1336994 |
+| 2.2   Zenick        fol 1172(1172)  321(1301) 467(465) | 100 |      1434266 |
+| 2.3   Toudi         fol 1070(1077)  688(1303) 240(256) |  50 |       983878 |
+| 3.1   Kalarobotti   ldr 1041(1045)  558(1002) 281(281) | 100 |      2157963 |
+| 3.2   Smoking       fol  935( 935) 1081(1293) 305(305) |  96 |      1431365 |
+| 3.3   Farliss       fol  667( 810)  927(1436) 238(220) | 100 |      1411197 |
+`-----------------------------------------------------------------------------'
+[21:55:15] hp 1117/1117 | sp 42/1079 | ep 424/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are done with the chant.
+You spread your fingers and whisper 'enfuego delmigo' (Drain ally)
+You place a hand on Smoking's chest and feel the energy flow into you.
+hp 1117/1117 () | sp 120/1079 (+78) | ep 421/421 (-3)
+scan all
+cast info
+*****************************************************
+Felidae hits Durtle 2 times.
+Tzager hits Felidae 1 time.
+Toudi clenches his fists and screams 'grhagrhagrhagrah gra gra Hyaa!' (Channelburn)
+Toudi flails wildly and throws DOZENS of exploding bombs, leaving a pillar of
+black smoke!
+The blasts explode all around Felidae, bursting into flames!
+Toudi grins as his channelburn hits Felidae.
+Zenick cast(s): 'PAF PAF PAF!' (Harm body)
+Zenick casts a harming spell on Felidae.
+Durtle reports: Hp: 888 (1516) Sp: 33 (627) Ep: 358 (374).
+Tzager reports: Hp: 449 (1879) Sp: 65 (65) Ep: 410 (412).
+Dogi reports: Hp: 1451 (1553) Sp: 909 (1116) Ep: 415 (417).
+Felidae is near death.
+[21:55:17] hp 1117/1117 | sp 120/1079 | ep 421/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are not doing anything at the moment.
+[21:55:17] hp 1117/1117 | sp 120/1079 | ep 421/421 | exp 21787 | $ 0/78599 | wimpy: off
+cburn
+
+Info: Zeane goes link dead.
+You start chanting.
+[21:55:18] hp 1117/1117 | sp 120/1079 | ep 421/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi starts concentrating on a new offensive spell.
+Smoking cast(s): 'fah mar nak grttzt' (Lava blast)
+As Smoking casts the spell, he pulls out a granite sphere from a small pouch.
+Smoking grins as his lava blast hits Felidae.
+Channelburn: 3
+Dogi delivers a crushing blow to Felidae's windpipe!
+Dogi turns suddenly and STRIKES again..
+scan all
+cast info
+*****************************************************
+Felidae hits Durtle 2 times.
+Durtle hits Felidae 1 time.
+Dogi hits Felidae 1 time.
+Kalarobotti cast(s): 'judicandus puorgo mangenic' (Major party heal)
+Durtle reports: Hp: 836 (1516) Sp: 33 (627) Ep: 358 (374).
+Tzager reports: Hp: 636 (1879) Sp: 65 (65) Ep: 410 (412).
+Smoking [party]: Felidae screams to lava blast
+Dogi reports: Hp: 1470 (1553) Sp: 909 (1116) Ep: 383 (417).
+Felidae is near death.
+[21:55:20] hp 1117/1117 | sp 120/1079 | ep 421/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+You are casting 'channelburn'.
+[21:55:20] hp 1117/1117 | sp 120/1079 | ep 421/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Kalarobotti leaves down.
+Smoking leaves down.
+Tzager tiptoes to the down.
+Farliss leaves down.
+Your movement prevents you from casting the spell.
+CASTING BROKED.
+Winding stairs (u,d,ne).
+Farliss Windust the Thrikhren is the first Necromancer King of Quaran < lets not aoa tanks and wipe >
+Tzager the shining member of Tinmen liekehtivät bosat+ < lets not aoa tanks and wipe >
+Smoking the Zombie breeds that Rotten Funk < lets not aoa tanks and wipe >
+Kalarobotti Suklaabotti the vile Kobold is just one of the dogs (sacred) < lets not aoa tanks and wipe >
+Dogi arrives from up.
+Zenick arrives from up.
+Toudi arrives from up.
+Durtle sneaks in from up.
+cburn
+Dogi starts concentrating on a new offensive skill.
+Kalarobotti starts concentrating on a new spell.
+Farliss starts concentrating on a new offensive spell.
+Durtle starts concentrating on a new spell.
+You start chanting.
+[21:55:22] hp 1117/1117 | sp 120/1079 | ep 421/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Zenick starts concentrating on a new offensive spell.
+Khorne [wanted]: surgery 80
+Channelburn: 3
+Channelburn: 1 (greater haste)
+Felidae sneaks in from up.
+scan all
+cast info
+*****************************************************
+Felidae hits Durtle 3 times.
+Durtle hits Felidae 1 time.
+Your knowledge about Felidae's tactics allows you to evade the ambush.
+Toudi starts concentrating on a new offensive spell.
+Dogi starts concentrating on a new offensive skill.
+Durtle reports: Hp: 547 (1516) Sp: 33 (627) Ep: 358 (374).
+Tzager reports: Hp: 633 (1879) Sp: 65 (65) Ep: 410 (412).
+Felidae is near death.
+[21:55:23] hp 1117/1117 | sp 120/1079 | ep 421/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Hackop [chat]: I know...
+You are casting 'channelburn'.
+[21:55:23] hp 1117/1117 | sp 120/1079 | ep 421/421 | exp 21787 | $ 0/78599 | wimpy: off
+
+Toudi (party): avoided ambush
+Info: Minsc left the game.
+Dogi reports: Hp: 1470 (1553) Sp: 909 (1116) Ep: 383 (417).
+Smoking starts concentrating on a new offensive spell.
+Farliss cast(s): 'fah mar nak grttzt' (Lava blast)
+As Farliss casts the spell, he pulls out a granite sphere from a small pouch.
+Farliss grins as his lava blast hits Felidae.
+You have completed the quest, but your level is too high to receive it.
+The moon turns red as Felidae is slayed and the man in the moon gets a sad
+face. Some might argue that it was wrong, some might say it was just about
+time. But a demi-goddess has fallen and much will change...
+Felidae's horn disappears back into her skull.
+Felidae suddenly stops breathing and jerks a couple of times violently, then falls to the ground, lifeless.
+save
+Felidae is DEAD, R.I.P.
+The magic mist around the dead Felidae's neck leaps to Farliss's Kerbholz.
+The magic mist around the dead Felidae's neck leaps to Toudi's Kerbholz.
+The magic mist around the dead Felidae's neck leaps to Dogi's Kerbholz.
+The magic mist around the dead Felidae's neck leaps to your Kerbholz.
+A new mark appears.
+The magic mist around the dead Felidae's neck leaps to Durtle's Kerbholz.

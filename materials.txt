@@ -1,0 +1,1990 @@
+MATERIAL STATS (adamantium):
+-------------------------------------------------------------------------------
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (highly magical)   Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)    
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid)
+Mentality:     (low mentality)    Reactivity:    (notable reactivity
+Weapon rarity: (rarely used)      Armour rarity: (sometimes used)  
+Value (gp/kg): (very valuable)    Rarity:        (average)         
+Article:       an                      Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit       
+Raw names:     hunk, nugget
+Refined names: bar, ingot, casting
+
+MATERIAL STATS (air):
+-------------------------------------------------------------------------------
+Weight (g/l):  (very light)       Sturdyness:    (very fragile)    
+Magic:         (not magical)      Flammability:  (highly flammable)
+Warmth:        (drafty outfit)    Toxicity:      (non toxic)       
+Resistivity:   (great insulator)  Malleability:  (loose)           
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)        
+Value (gp/kg): (cheap)            Rarity:        (very common)     
+Article:       an                      Type:          Organ
+Found nature:  Yes                     Lode name:     Pocket        
+Raw names:     pocket
+Refined names: pocket
+
+MATERIAL STATS (alabaster):
+-------------------------------------------------------------------------------
+Weight (g/l):  (light)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (very flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (insulator)        Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (average)
+Article:       an                      Type:          Inorg
+Found nature:  No                      Lode name:     Mass
+Raw names:     lump, chunk, clump
+Refined names: shaped, sculpted
+
+MATERIAL STATS (alexandrite):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (incredibly sturdy)
+Magic:         (a bit magical)    Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (poor reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (average)
+Article:       an                      Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (aluminium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (sturdy)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (mediocre toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (solid)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (sometimes used)   Armour rarity: (sometimes used)
+Value (gp/kg): (cheap)            Rarity:        (common)
+Article:       an                      Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     nugget, clump
+Refined names: bar, mold, casting
+
+MATERIAL STATS (amber):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)
+Magic:         (notable magical)  Flammability:  (very flammable)
+Warmth:        (chilly outfit)    Toxicity:      (non toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (rare)
+Article:       an                      Type:          Stone
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     crystal, chunk
+Refined names: crystal, formed
+
+MATERIAL STATS (amethyst):
+-------------------------------------------------------------------------------
+Weight (g/l):  (heavy)            Sturdyness:    (sturdy)          
+Magic:         (notable magical)  Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)    
+Resistivity:   (great insulator)  Malleability:  (loose)           
+Mentality:     (some mentality)   Reactivity:    (low reactivity)  
+Weapon rarity: (not used)         Armour rarity: (not used)        
+Value (gp/kg): (low-priced)       Rarity:        (average)         
+Article:       an                      Type:          Gem 
+Found nature:  Yes                     Lode name:     Deposit       
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (anipium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (sturdy)
+Magic:         (highly magical)   Flammability:  (quite unburnable)
+Warmth:        (drafty outfit)    Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid)
+Mentality:     (mental)           Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (average)
+Article:       an                      Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     wad, clod
+Refined names: bar, casting, mold
+
+MATERIAL STATS (aquamarine):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very sturdy)
+Magic:         (a bit magical)    Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (poor reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (valuable)         Rarity:        (common)
+Article:       an                      Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (bamboo):
+-------------------------------------------------------------------------------
+Weight (g/l):  (very light)       Sturdyness:    (sturdy)          
+Magic:         (weakly magical)   Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)           
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (quite much used) 
+Value (gp/kg): (cheap)            Rarity:        (average)         
+Article:       a                       Type:          Wood
+Found nature:  Yes                     Lode name:     Stack         
+Raw names:     reed, log, twig, stick, block
+Refined names: block, reed
+
+MATERIAL STATS (bark):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very light)       Sturdyness:    (very fragile)     
+Magic:         (a bit magical)    Flammability:  (highly flammable) 
+Warmth:        (icy outfit)       Toxicity:      (non toxic)        
+Resistivity:   (weak insulator)   Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (rarely used)      
+Value (gp/kg): (cheap)            Rarity:        (very common)      
+Article:       a                       Type:          Wood 
+Found nature:  Yes                     Lode name:     Pile           
+Raw names:     block, chunk
+Refined names: block
+
+MATERIAL STATS (basalt):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)
+Magic:         (weakly magical)   Flammability:  (unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (quite common)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Crag
+Raw names:     chunk, block, clump, hunk, lump
+Refined names: block, brick
+
+MATERIAL STATS (batium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (sturdy)           
+Magic:         (highly magical)   Flammability:  (normal)           
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)       
+Resistivity:   (lousy insulator)  Malleability:  (very solid)       
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)   
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (very valuable)    Rarity:        (common)           
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode           
+Raw names:     nugget, chunk
+Refined names: bar, ingot, casting
+
+MATERIAL STATS (birch):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (normal)           
+Magic:         (a bit magical)    Flammability:  (highly flammable) 
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (rarely used)      Armour rarity: (not used)         
+Value (gp/kg): (cheap)            Rarity:        (quite common)     
+Article:       a                       Type:          Wood 
+Found nature:  Yes                     Lode name:     Stack          
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (bloodstone):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (incredibly sturdy)
+Magic:         (very magical)     Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (weak insulator)   Malleability:  (loose)
+Mentality:     (some mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (average)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (bone):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (mediocre toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (average)
+Article:       a                       Type:          Bone
+Found nature:  Yes                     Lode name:     Graveyard
+Raw names:     piece, chunk
+Refined names: shaped
+
+MATERIAL STATS (brass):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (sturdy)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (quite much used)  Armour rarity: (quite much used)
+Value (gp/kg): (cheap)            Rarity:        (quite common)
+Article:       a                       Type:          Alloy
+Found nature:  No                      Lode name:     Deposit
+Raw names:     hunk, lode
+Refined names: casting, mold, bar
+
+MATERIAL STATS (bronze):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (sturdy)           
+Magic:         (magical)          Flammability:  (normal)           
+Warmth:        (chilly outfit)    Toxicity:      (toxic)            
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)      
+Mentality:     (low mentality)    Reactivity:    (high reactivity)  
+Weapon rarity: (frequently used)  Armour rarity: (most common)      
+Value (gp/kg): (cheap)            Rarity:        (quite common)     
+Article:       a                       Type:          Alloy
+Found nature:  No                      Lode name:     Deposit        
+Raw names:     chunk, lode
+Refined names: casting, mold, bar
+
+MATERIAL STATS (burlap):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)           
+Magic:         (weakly magical)   Flammability:  (highly flammable) 
+Warmth:        (comfortable)      Toxicity:      (non toxic)        
+Resistivity:   (good insulator)   Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (frequently used)  
+Value (gp/kg): (cheap)            Rarity:        (rare)             
+Article:       a                       Type:          Cloth
+Found nature:  No                      Lode name:     Mound          
+Raw names:     piece, strip
+Refined names: pelt
+
+MATERIAL STATS (carnelian):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (sturdy)
+Magic:         (notable magical)  Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (some mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (average)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (cedar):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (quite common)
+Article:       a                       Type:          Wood
+Found nature:  Yes                     Lode name:     Stack
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (cesium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (fragile)
+Magic:         (weakly magical)   Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (a bit loose)
+Mentality:     (low mentality)    Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (valuable)         Rarity:        (average)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     lump, isotope, clod
+Refined names: bar, billot, ingot     SPECIAL: sheds light!
+
+MATERIAL STATS (chalk):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (fragile)
+Magic:         (weakly magical)   Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (toxic)
+Resistivity:   (insulator)        Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (common)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     lump, chunk, clump
+Refined names: cube, block
+
+MATERIAL STATS (chromium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (normal)
+Magic:         (magical)          Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid)
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (sometimes used)   Armour rarity: (sometimes used)
+Value (gp/kg): (valuable)         Rarity:        (average)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     chunk, lode, gob
+Refined names: mold, casting, ingot
+
+MATERIAL STATS (chrysoberyl):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (incredibly sturdy)
+Magic:         (a bit magical)    Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (poor reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (common)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (clay):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very light)       Sturdyness:    (very fragile)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (weak insulator)   Malleability:  (quite solid)
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (cheap)            Rarity:        (very common)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Hill
+Raw names:     hunk, chunk
+Refined names: block, ball
+
+MATERIAL STATS (cloth):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (fragile)
+Magic:         (weakly magical)   Flammability:  (highly flammable)
+Warmth:        (drafty outfit)    Toxicity:      (mediocre toxicity)
+Resistivity:   (good insulator)   Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (sometimes used)
+Value (gp/kg): (cheap)            Rarity:        (quite common)
+Article:       a                       Type:          Cloth
+Found nature:  No                      Lode name:     Mound
+Raw names:     piece, strip
+Refined names: piece, strip, bolt
+
+MATERIAL STATS (coal):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very fragile)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (non toxic)
+Resistivity:   (weak insulator)   Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (common)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Crag
+Raw names:     lump, chunk, clump
+Refined names: cube, block
+
+MATERIAL STATS (cobalt):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (magical)          Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (low toxicity)
+Resistivity:   (weak insulator)   Malleability:  (very solid)
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)
+Weapon rarity: (sometimes used)   Armour rarity: (sometimes used)
+Value (gp/kg): (valuable)         Rarity:        (average)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     lode, hunk
+Refined names: mold, casting, bar
+
+MATERIAL STATS (copper):
+-------------------------------------------------------------------------------
+Weight (g/l):  (very heavy)       Sturdyness:    (normal)          
+Magic:         (magical)          Flammability:  (normal)          
+Warmth:        (chilly outfit)    Toxicity:      (toxic)           
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)     
+Mentality:     (low mentality)    Reactivity:    (low reactivity)  
+Weapon rarity: (quite much used)  Armour rarity: (frequently used) 
+Value (gp/kg): (cheap)            Rarity:        (quite common)    
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode          
+Raw names:     wad, lump
+Refined names: casting, mold, bar
+
+MATERIAL STATS (coral):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (fragile)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (mediocre toxicity)
+Resistivity:   (good insulator)   Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (very rare)
+Article:       a                       Type:          Bone
+Found nature:  No                      Lode name:     Network
+Raw names:     piece, chunk
+Refined names: shaped
+
+MATERIAL STATS (cork):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very light)       Sturdyness:    (very fragile)     
+Magic:         (a bit magical)    Flammability:  (highly flammable) 
+Warmth:        (icy outfit)       Toxicity:      (mediocre toxicity)
+Resistivity:   (weak insulator)   Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)      
+Value (gp/kg): (cheap)            Rarity:        (very common)      
+Article:       a                       Type:          Wood 
+Found nature:  Yes                     Lode name:     Mass           
+Raw names:     block, chunk
+Refined names: block
+
+MATERIAL STATS (cotton):
+-------------------------------------------------------------------------------
+Weight (g/l):  (light)            Sturdyness:    (normal)
+Magic:         (weakly magical)   Flammability:  (highly flammable)
+Warmth:        (comfortable)      Toxicity:      (mediocre toxicity)
+Resistivity:   (good insulator)   Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (sometimes used)
+Value (gp/kg): (cheap)            Rarity:        (common)
+Article:       a                       Type:          Organ
+Found nature:  Yes                     Lode name:     Mound
+Raw names:     piece, strip, ball
+Refined names: piece, strip, ball
+
+MATERIAL STATS (crystal):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (fragile)
+Magic:         (very magical)     Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (poor reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (valuable)         Rarity:        (average)
+Article:       a                       Type:          Glass
+Found nature:  Yes                     Lode name:     Slab
+Raw names:     piece, shard, sliver
+Refined names: mold, casting, form
+
+MATERIAL STATS (darksteel):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)      
+Magic:         (notable magical)  Flammability:  (normal)           
+Warmth:        (excellent outfit) Toxicity:      (mediocre toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (very solid)       
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)  
+Weapon rarity: (sometimes used)   Armour rarity: (sometimes used)   
+Value (gp/kg): (average)          Rarity:        (common)           
+Article:       a                       Type:          Alloy
+Found nature:  No                      Lode name:     Deposit        
+Raw names:     chunk, lode, lump
+Refined names: bar, ingot, casting
+
+MATERIAL STATS (diamond):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (incredibly sturdy)
+Magic:         (a bit magical)    Flammability:  (very flammable)   
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)     
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (not reactive)     
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (highly valuable)  Rarity:        (very rare)        
+Article:       a                       Type:          Gem  
+Found nature:  Yes                     Lode name:     Deposit        
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (diggalite):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (highly magical)   Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (very solid)
+Mentality:     (mental)           Reactivity:    (poor reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (sometimes used)
+Value (gp/kg): (very valuable)    Rarity:        (rare)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     lode, hunk, wad
+Refined names: bar, mold, casting
+
+MATERIAL STATS (dragonscale):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)           
+Magic:         (highly magical)   Flammability:  (quite unburnable) 
+Warmth:        (icy outfit)       Toxicity:      (toxic)            
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (very valuable)    Rarity:        (impossible)       
+Article:       a                       Type:          Bone 
+Found nature:  Yes                     Lode name:     Graveyard      
+Raw names:     piece, chunk
+Refined names: shaped, sculpted
+
+MATERIAL STATS (dukonium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (highly magical)   Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid)
+Mentality:     (high mentality)   Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (impossible)
+Article:       a                       Type:          Metal
+Found nature:  No                      Lode name:     Pile
+Raw names:     chunk, lode, sphere
+Refined names: cube, octagon, elipsoid
+
+MATERIAL STATS (duraluminium):
+-------------------------------------------------------------------------------
+Weight (g/l):  (normal)           Sturdyness:    (very sturdy)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (rarely used)
+Value (gp/kg): (average)          Rarity:        (rare)
+Article:       a                       Type:          Alloy
+Found nature:  No                      Lode name:     Lode
+Raw names:     nugget, clump
+Refined names: bar, mold, casting
+
+MATERIAL STATS (durandium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (highly magical)   Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (average)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     nugget, lump, lode
+Refined names: bar, casting, mold
+
+MATERIAL STATS (earth):
+-------------------------------------------------------------------------------
+Weight (g/l):  (very light)       Sturdyness:    (very fragile)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (weak insulator)   Malleability:  (quite solid)
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (very common)
+Article:       an                      Type:          Stone
+Found nature:  Yes                     Lode name:     Mountain
+Raw names:     hunk, chunk
+Refined names: block, ball
+
+MATERIAL STATS (ebony):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (very sturdy)      
+Magic:         (a bit magical)    Flammability:  (highly flammable) 
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (good insulator)   Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (rarely used)      Armour rarity: (not used)         
+Value (gp/kg): (low-priced)       Rarity:        (quite common)     
+Article:       a                       Type:          Wood 
+Found nature:  Yes                     Lode name:     Stack          
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (electrum):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (sturdy)
+Magic:         (very magical)     Flammability:  (normal)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (solid)
+Mentality:     (low mentality)    Reactivity:    (poor reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (sometimes used)
+Value (gp/kg): (valuable)         Rarity:        (common)
+Article:       an                      Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     nugget, chunk
+Refined names: bar, mold, casting
+
+MATERIAL STATS (elm):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (quite common)
+Article:       a                       Type:          Wood
+Found nature:  Yes                     Lode name:     Stack
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (emerald):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (incredibly sturdy)
+Magic:         (magical)          Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (highly valuable)  Rarity:        (rare)
+Article:       an                      Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (enchanted air):
+-------------------------------------------------------------------------------
+Weight (g/l):  (very light)       Sturdyness:    (fragile)
+Magic:         (not magical)      Flammability:  (highly flammable)
+Warmth:        (drafty outfit)    Toxicity:      (non toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (very common)
+Article:       an                      Type:          Organ
+Found nature:  Yes                     Lode name:     Pocket
+Raw names:     pocket
+Refined names: pocket
+
+MATERIAL STATS (feathers):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very light)       Sturdyness:    (very fragile)     
+Magic:         (weakly magical)   Flammability:  (highly flammable) 
+Warmth:        (icy outfit)       Toxicity:      (very low toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (cheap)            Rarity:        (very rare)        
+Article:       a                       Type:          Organ
+Found nature:  No                      Lode name:     Nest           
+Raw names:     pile, carcas, heap
+Refined names: bundle
+
+MATERIAL STATS (fire):
+-------------------------------------------------------------------------------
+Weight (g/l):  (very light)       Sturdyness:    (very fragile)
+Magic:         (weakly magical)   Flammability:  (unburnable)
+Warmth:        (icy outfit)       Toxicity:      (very low toxicity)
+Resistivity:   (poor insulator)   Malleability:  (quite solid)
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (very common)
+Article:       a                       Type:          Inorg
+Found nature:  No                      Lode name:     Torrent
+Raw names:     wisp, flame
+Refined names: wisp, flame
+
+MATERIAL STATS (flesh):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very light)       Sturdyness:    (very fragile)     
+Magic:         (weakly magical)   Flammability:  (highly flammable) 
+Warmth:        (icy outfit)       Toxicity:      (non toxic)        
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (cheap)            Rarity:        (quite common)     
+Article:       a                       Type:          Organ
+Found nature:  No                      Lode name:     Mound          
+Raw names:     chunk, piece, strip
+Refined names: chunk
+
+MATERIAL STATS (food):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (fragile)          
+Magic:         (weakly magical)   Flammability:  (highly flammable) 
+Warmth:        (drafty outfit)    Toxicity:      (low toxicity)     
+Resistivity:   (good insulator)   Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (cheap)            Rarity:        (rare)             
+Article:       a                       Type:          Organ
+Found nature:  No                      Lode name:     Pile           
+Raw names:     dough, mix
+Refined names: product
+
+MATERIAL STATS (fur):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)           
+Magic:         (weakly magical)   Flammability:  (highly flammable) 
+Warmth:        (comfortable)      Toxicity:      (non toxic)        
+Resistivity:   (good insulator)   Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (frequently used)  
+Value (gp/kg): (cheap)            Rarity:        (rare)             
+Article:       a                       Type:          Cloth
+Found nature:  No                      Lode name:     Mound          
+Raw names:     piece, strip
+Refined names: pelt
+
+MATERIAL STATS (garnet):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (solid)
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (valuable)         Rarity:        (average)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (glass):
+-------------------------------------------------------------------------------
+Weight (g/l):  (normal)           Sturdyness:    (fragile)          
+Magic:         (weakly magical)   Flammability:  (normal)           
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)     
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (poor reactivity)  
+Weapon rarity: (rarely used)      Armour rarity: (not used)         
+Value (gp/kg): (average)          Rarity:        (common)           
+Article:       a                       Type:          Glass
+Found nature:  No                      Lode name:     Shard          
+Raw names:     piece, shard, sliver
+Refined names: mold, casting, form
+
+MATERIAL STATS (gold):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (sturdy)
+Magic:         (very magical)     Flammability:  (quite flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (solid)
+Mentality:     (low mentality)    Reactivity:    (not reactive)
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (very valuable)    Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     nugget, chunk, lump
+Refined names: bar, mold, ingot
+
+MATERIAL STATS (granite):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (sturdy)
+Magic:         (weakly magical)   Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (very common)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Protrusion
+Raw names:     chunk, block, clump, hunk, lump
+Refined names: block, brick
+
+MATERIAL STATS (graphite):
+-------------------------------------------------------------------------------
+Weight (g/l):  (normal)           Sturdyness:    (very fragile)
+Magic:         (weakly magical)   Flammability:  (unburnable)
+Warmth:        (icy outfit)       Toxicity:      (very low toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (a bit loose)
+Mentality:     (poor mentality)   Reactivity:    (poor reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  No                      Lode name:     Lode
+Raw names:     chunk, lump, nugget
+Refined names: block, mold, ingot
+
+MATERIAL STATS (hematite):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (normal)
+Magic:         (magical)          Flammability:  (quite unburnable)
+Warmth:        (icy outfit)       Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (quite common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     lump, chunk, wad, nugget
+Refined names: block, ingot
+
+MATERIAL STATS (hemp):
+-------------------------------------------------------------------------------
+Weight (g/l):  (very light)       Sturdyness:    (sturdy)
+Magic:         (magical)          Flammability:  (highly flammable)
+Warmth:        (drafty outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (very solid)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (common)
+Article:       a                       Type:          Organ
+Found nature:  No                      Lode name:     Coil
+Raw names:     stalk, stem
+Refined names: fibres, cord, strand
+
+MATERIAL STATS (highsteel):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)     
+Magic:         (very magical)     Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)    
+Resistivity:   (lousy insulator)  Malleability:  (very solid)      
+Mentality:     (low mentality)    Reactivity:    (notable reactivity
+Weapon rarity: (sometimes used)   Armour rarity: (quite much used) 
+Value (gp/kg): (average)          Rarity:        (common)          
+Article:       a                       Type:          Alloy
+Found nature:  No                      Lode name:     Deposit       
+Raw names:     chunk, lode, lump
+Refined names: bar, ingot, casting
+
+MATERIAL STATS (ice):
+-------------------------------------------------------------------------------
+Weight (g/l):  (light)            Sturdyness:    (fragile)
+Magic:         (weakly magical)   Flammability:  (highly flammable)
+Warmth:        (icy outfit)       Toxicity:      (very low toxicity)
+Resistivity:   (good insulator)   Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (quite common)
+Article:       an                      Type:          Organ
+Found nature:  Yes                     Lode name:     Slab
+Raw names:     crystal, shard
+Refined names: crystal, shard
+
+MATERIAL STATS (illumium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)
+Magic:         (very magical)     Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (weak insulator)   Malleability:  (very solid)
+Mentality:     (high mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (average)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Gloss
+Raw names:     lode, gob, chunk
+Refined names: casting, mold, block
+
+MATERIAL STATS (indium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (valuable)         Rarity:        (common)
+Article:       an                      Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     nugget, lump
+Refined names: bar, casting, mold
+
+MATERIAL STATS (iridium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (very sturdy)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)
+Mentality:     (low mentality)    Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (rare)
+Article:       an                      Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     chunk, gob
+Refined names: ingot, bar, casting
+
+MATERIAL STATS (iron):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (solid)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (most common)      Armour rarity: (frequently used)
+Value (gp/kg): (cheap)            Rarity:        (quite common)
+Article:       an                      Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     nugget
+Refined names: ingot, bar, mold
+
+MATERIAL STATS (ivory):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)           
+Magic:         (a bit magical)    Flammability:  (quite unburnable) 
+Warmth:        (chilly outfit)    Toxicity:      (mediocre toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (average)          Rarity:        (very rare)        
+Article:       an                      Type:          Bone 
+Found nature:  Yes                     Lode name:     Graveyard      
+Raw names:     piece, chunk, tusk
+Refined names: shaped, sculpted
+
+MATERIAL STATS (jade):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)
+Magic:         (notable magical)  Flammability:  (quite unburnable)
+Warmth:        (icy outfit)       Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (average)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (kryptonite):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (normal)
+Magic:         (highly magical)   Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid)
+Mentality:     (mental)           Reactivity:    (notable reactivity
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (very rare)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     chunk, gob
+Refined names: mold, casting, ingot
+
+MATERIAL STATS (laen):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (incredibly sturdy)
+Magic:         (highly magical)   Flammability:  (unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (not reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (rare)
+Article:       a                       Type:          Glass
+Found nature:  Yes                     Lode name:     Slab
+Raw names:     piece, shard, sliver
+Refined names: mold, casting, form
+
+MATERIAL STATS (lead):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (normal)
+Magic:         (magical)          Flammability:  (quite flammable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (loose)
+Mentality:     (high mentality)   Reactivity:    (notable reactivity
+Weapon rarity: (rarely used)      Armour rarity: (sometimes used)
+Value (gp/kg): (cheap)            Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     lump, gob, clump
+Refined names: ingot, bar, mold
+
+MATERIAL STATS (leather):
+-------------------------------------------------------------------------------
+Weight (g/l):  (normal)           Sturdyness:    (incredibly sturdy)
+Magic:         (highly magical)   Flammability:  (quite flammable)  
+Warmth:        (drafty outfit)    Toxicity:      (mediocre toxicity)
+Resistivity:   (great insulator)  Malleability:  (quite solid)      
+Mentality:     (some mentality)   Reactivity:    (notable reactivity
+Weapon rarity: (not used)         Armour rarity: (frequently used)  
+Value (gp/kg): (cheap)            Rarity:        (average)          
+Article:       a                       Type:          Cloth
+Found nature:  No                      Lode name:     Pile           
+Raw names:     piece, strip
+Refined names: strap, length
+
+MATERIAL STATS (magnesium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very fragile)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (a bit loose)
+Mentality:     (low mentality)    Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     salt, lump
+Refined names: mold, casting, ingot
+
+MATERIAL STATS (mahogany):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (quite common)
+Article:       a                       Type:          Wood
+Found nature:  Yes                     Lode name:     Stack
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (malachite):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (sturdy)
+Magic:         (magical)          Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (quite common)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (mallorn):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (sturdy)
+Magic:         (highly magical)   Flammability:  (very flammable)
+Warmth:        (chilly outfit)    Toxicity:      (low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (quite common)
+Article:       a                       Type:          Wood
+Found nature:  Yes                     Lode name:     Stack
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (maple):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (quite common)
+Article:       a                       Type:          Wood
+Found nature:  Yes                     Lode name:     Stack
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (marble):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (fragile)          
+Magic:         (weakly magical)   Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)     
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (reactive)         
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (cheap)            Rarity:        (quite common)     
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Crag           
+Raw names:     chunk, block, clump, hunk, lump
+Refined names: block, brick
+
+MATERIAL STATS (marlor):
+-------------------------------------------------------------------------------
+Weight (g/l):  (normal)           Sturdyness:    (incredibly sturdy)
+Magic:         (magical)          Flammability:  (very flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (insulator)        Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (valuable)         Rarity:        (impossible)
+Article:       a                       Type:          Wood
+Found nature:  No                      Lode name:     Stack
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (mithril):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (incredibly sturdy)
+Magic:         (highly magical)   Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (average)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     lump, nugget
+Refined names: bar, mold, casting
+
+MATERIAL STATS (molybdenum):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (very sturdy)      
+Magic:         (a bit magical)    Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (mediocre toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid) 
+Mentality:     (poor mentality)   Reactivity:    (notable reactivity
+Weapon rarity: (sometimes used)   Armour rarity: (sometimes used)   
+Value (gp/kg): (average)          Rarity:        (very rare)        
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit        
+Raw names:     lode, chunk
+Refined names: bar, ingot, mold
+
+MATERIAL STATS (moonstone):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (sturdy)
+Magic:         (notable magical)  Flammability:  (normal)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (average)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Protrusion
+Raw names:     chunk, block, clump, hunk, lump
+Refined names: block, brick
+
+MATERIAL STATS (moss agate):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (sturdy)
+Magic:         (notable magical)  Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (some mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (rare)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (mowglite):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (normal)
+Magic:         (weakly magical)   Flammability:  (quite flammable)
+Warmth:        (icy outfit)       Toxicity:      (very low toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (a bit loose)
+Mentality:     (poor mentality)   Reactivity:    (poor reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (very common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     chunk, lode, lump
+Refined names: bar, ingot, mold
+
+MATERIAL STATS (nickel):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (magical)          Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (low toxicity)
+Resistivity:   (weak insulator)   Malleability:  (solid)
+Mentality:     (some mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (quite much used)  Armour rarity: (quite much used)
+Value (gp/kg): (low-priced)       Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     nugget, lump
+Refined names: bar, ingot, casting
+
+MATERIAL STATS (nullium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)
+Magic:         (very magical)     Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (weak insulator)   Malleability:  (very solid)
+Mentality:     (high mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (average)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Abyss
+Raw names:     lode, gob, chunk
+Refined names: casting, mold, block    SPECIAL: SHEDS DARKNESS
+
+MATERIAL STATS (oak):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (quite common)
+Article:       a                       Type:          Wood
+Found nature:  Yes                     Lode name:     Stack
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (obsidian):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)
+Magic:         (weakly magical)   Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (average)
+Article:       a                       Type:          Glass
+Found nature:  Yes                     Lode name:     Slab
+Raw names:     piece, shard, sliver
+Refined names: mold, casting, form
+
+MATERIAL STATS (olivine):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very sturdy)
+Magic:         (magical)          Flammability:  (normal)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (common)
+Article:       an                      Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (onyx):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)
+Magic:         (magical)          Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (notable reactivity
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (valuable)         Rarity:        (rare)
+Article:       an                      Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (opal):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)
+Magic:         (a bit magical)    Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (average)          Rarity:        (rare)
+Article:       an                      Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (osmium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (very sturdy)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)
+Mentality:     (low mentality)    Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (common)
+Article:       an                      Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     hunk, nugget
+Refined names: ingot, bar, billet
+
+MATERIAL STATS (palladium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (sturdy)
+Magic:         (notable magical)  Flammability:  (quite unburnable)
+Warmth:        (icy outfit)       Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (solid)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (valuable)         Rarity:        (average)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     lump, nugget
+Refined names: ingot, casting, billot
+
+MATERIAL STATS (paper):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (very fragile)     
+Magic:         (a bit magical)    Flammability:  (highly flammable) 
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (cheap)            Rarity:        (rare)             
+Article:       a                       Type:          Paper
+Found nature:  No                      Lode name:     Pile           
+Raw names:     pulp
+Refined names: sheet, reem, piece
+
+MATERIAL STATS (pearl):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (fragile)          
+Magic:         (a bit magical)    Flammability:  (quite flammable)  
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)     
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)  
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (very valuable)    Rarity:        (rare)             
+Article:       a                       Type:          Gem  
+Found nature:  No                      Lode name:     Deposit        
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (petrified wood):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)
+Magic:         (weakly magical)   Flammability:  (quite unburnable)
+Warmth:        (icy outfit)       Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (very rare)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Crag
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (pewter):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (fragile)
+Magic:         (magical)          Flammability:  (normal)
+Warmth:        (chilly outfit)    Toxicity:      (mediocre toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (sometimes used)
+Value (gp/kg): (low-priced)       Rarity:        (common)
+Article:       a                       Type:          Alloy
+Found nature:  No                      Lode name:     Lode
+Raw names:     lode, chunk
+Refined names: casting, bar, mold, ingot
+
+MATERIAL STATS (platinum):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (very sturdy)
+Magic:         (very magical)     Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (solid)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     hunk, lump
+Refined names: bar, billet, casting
+
+MATERIAL STATS (porcelain):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very light)       Sturdyness:    (very fragile)     
+Magic:         (a bit magical)    Flammability:  (quite flammable)  
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (weak insulator)   Malleability:  (quite solid)      
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)   
+Weapon rarity: (quite much used)  Armour rarity: (not used)         
+Value (gp/kg): (low-priced)       Rarity:        (rare)             
+Article:       a                       Type:          Inorg
+Found nature:  No                      Lode name:     Mass           
+Raw names:     hunk, chunk
+Refined names: block, ball
+
+MATERIAL STATS (potassium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very fragile)
+Magic:         (weakly magical)   Flammability:  (highly flammable)
+Warmth:        (drafty outfit)    Toxicity:      (highly toxic)
+Resistivity:   (weak insulator)   Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (rare)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     lump, chunk, wad
+Refined names: block, ingot
+
+MATERIAL STATS (pyrite):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (low-priced)       Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     nugget, chunk, lump
+Refined names: bar, mold, ingot
+
+MATERIAL STATS (quartz):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (sturdy)
+Magic:         (notable magical)  Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (good insulator)   Malleability:  (loose)
+Mentality:     (some mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (average)          Rarity:        (average)
+Article:       an                      Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (quicksilver):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (very fragile)     
+Magic:         (notable magical)  Flammability:  (highly flammable) 
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)     
+Resistivity:   (lousy insulator)  Malleability:  (loose)            
+Mentality:     (some mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (very valuable)    Rarity:        (rare)             
+Article:       a                       Type:          Metal
+Found nature:  No                      Lode name:     Lode           
+Raw names:     load
+Refined names: ingot
+
+MATERIAL STATS (rhodium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (very sturdy)
+Magic:         (notable magical)  Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)
+Mentality:     (low mentality)    Reactivity:    (reactive)
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (valuable)         Rarity:        (very rare)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     lump, chunk
+Refined names: bar, casting, mold
+
+MATERIAL STATS (rhodonite):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)
+Magic:         (magical)          Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (poor reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (average)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (rubber):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (normal)           
+Magic:         (not magical)      Flammability:  (very flammable)   
+Warmth:        (chilly outfit)    Toxicity:      (non toxic)        
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (cheap)            Rarity:        (average)          
+Article:       a                       Type:          Inorg                                                            
+Found nature:  No                      Lode name:     Mass           
+Raw names:     piece, chunk, wad
+Refined names: block, mold, form
+
+MATERIAL STATS (ruby):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very sturdy)
+Magic:         (magical)          Flammability:  (normal)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (highly valuable)  Rarity:        (average)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (sapphire):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very sturdy)
+Magic:         (magical)          Flammability:  (normal)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (very rare)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (silicon):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (normal)
+Magic:         (weakly magical)   Flammability:  (almost unburnable)
+Warmth:        (icy outfit)       Toxicity:      (very low toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (very solid)
+Mentality:     (poor mentality)   Reactivity:    (notable reactivity
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (rare)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     lode, lump, chunk
+Refined names: mold, chip, casting
+
+MATERIAL STATS (silk):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very light)       Sturdyness:    (normal)           
+Magic:         (a bit magical)    Flammability:  (highly flammable) 
+Warmth:        (chilly outfit)    Toxicity:      (non toxic)        
+Resistivity:   (great insulator)  Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (most common)      
+Value (gp/kg): (low-priced)       Rarity:        (rare)             
+Article:       a                       Type:          Cloth
+Found nature:  No                      Lode name:     Mound          
+Raw names:     piece, strip
+Refined names: piece, strip
+
+MATERIAL STATS (silver):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (very sturdy)
+Magic:         (very magical)     Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (very toxic)
+Resistivity:   (lousy insulator)  Malleability:  (solid)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (quite much used)
+Value (gp/kg): (low-priced)       Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     nugget, chunk
+Refined names: bar, casting, ingot
+
+MATERIAL STATS (slate):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very fragile)
+Magic:         (weakly magical)   Flammability:  (normal)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (a bit loose)
+Mentality:     (poor mentality)   Reactivity:    (reactive)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (very common)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Slab
+Raw names:     chunk, block, clump, hunk, lump
+Refined names: block, brick
+
+MATERIAL STATS (starmetal):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)      
+Magic:         (very magical)     Flammability:  (almost unburnable)
+Warmth:        (excellent outfit) Toxicity:      (mediocre toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid) 
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)  
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)      
+Value (gp/kg): (highly valuable)  Rarity:        (very rare)        
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode           
+Raw names:     piece, fragment, chunk                                                                            
+Refined names: bar, ingot
+
+MATERIAL STATS (steel):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)      
+Magic:         (magical)          Flammability:  (quite unburnable) 
+Warmth:        (chilly outfit)    Toxicity:      (toxic)            
+Resistivity:   (lousy insulator)  Malleability:  (very solid)       
+Mentality:     (low mentality)    Reactivity:    (high reactivity)  
+Weapon rarity: (most common)      Armour rarity: (frequently used)  
+Value (gp/kg): (low-priced)       Rarity:        (very common)      
+Article:       a                       Type:          Alloy
+Found nature:  No                      Lode name:     Deposit        
+Raw names:     lump, lode
+Refined names: ingot, bar, casting
+
+MATERIAL STATS (stone):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very fragile)
+Magic:         (weakly magical)   Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (notable reactivity
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (very common)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Crag
+Raw names:     chunk, block, clump, hunk, lump
+Refined names: block, brick
+
+MATERIAL STATS (sulphur):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (fragile)
+Magic:         (magical)          Flammability:  (quite flammable)
+Warmth:        (chilly outfit)    Toxicity:      (non toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (rare)
+Article:       a                       Type:          Stone
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     lump, chunk, hunk
+Refined names: form, block
+
+MATERIAL STATS (sunstone):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very sturdy)
+Magic:         (notable magical)  Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (average)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (sunstone):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very sturdy)
+Magic:         (notable magical)  Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (average)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (tadmium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very sturdy)
+Magic:         (highly magical)   Flammability:  (very flammable)
+Warmth:        (icy outfit)       Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (solid)
+Mentality:     (great mentality)  Reactivity:    (great reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (very valuable)    Rarity:        (very rare)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     lode, lump, hunk
+Refined names: bar, ingot, block
+
+MATERIAL STATS (tin):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (fragile)
+Magic:         (a bit magical)    Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (quite solid)
+Mentality:     (low mentality)    Reactivity:    (high reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (sometimes used)
+Value (gp/kg): (cheap)            Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     lode, chunk
+Refined names: bar, mold, ingot
+
+MATERIAL STATS (titanium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (magical)          Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (very solid)
+Mentality:     (low mentality)    Reactivity:    (notable reactivity
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (average)          Rarity:        (rare)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     wad, chunk
+Refined names: bar, mold, ingot
+
+MATERIAL STATS (topaz):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (magical)          Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (common)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (tormium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)
+Magic:         (very magical)     Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (non toxic)
+Resistivity:   (lousy insulator)  Malleability:  (very solid)
+Mentality:     (low mentality)    Reactivity:    (notable reactivity
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     hunk, clod, wad
+Refined names: bar, ingot, mold
+
+MATERIAL STATS (tungsten):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (normal)
+Magic:         (magical)          Flammability:  (unburnable)
+Warmth:        (icy outfit)       Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (reactive)
+Weapon rarity: (sometimes used)   Armour rarity: (rarely used)
+Value (gp/kg): (valuable)         Rarity:        (average)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     piece, hunk
+Refined names: bar, mold, casting
+
+MATERIAL STATS (turquoise):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (normal)           Sturdyness:    (very sturdy)
+Magic:         (weakly magical)   Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (some mentality)   Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (common)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric
+
+MATERIAL STATS (uranium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (very heavy)       Sturdyness:    (normal)
+Magic:         (magical)          Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (very solid)
+Mentality:     (some mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (rare)
+Article:       an                      Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     lump, isotope
+Refined names: bar, billet, mold
+
+MATERIAL STATS (vanadium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (magical)          Flammability:  (quite flammable)
+Warmth:        (icy outfit)       Toxicity:      (mediocre toxicity)
+Resistivity:   (lousy insulator)  Malleability:  (solid)
+Mentality:     (poor mentality)   Reactivity:    (poor reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (rarely used)
+Value (gp/kg): (valuable)         Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     wad, gob
+Refined names: mold, billit, casting
+
+MATERIAL STATS (water):
+-------------------------------------------------------------------------------
+Weight (g/l):  (light)            Sturdyness:    (incredibly sturdy)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (icy outfit)       Toxicity:      (very low toxicity)
+Resistivity:   (poor insulator)   Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (notable reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (cheap)            Rarity:        (very common)
+Article:       a                       Type:          Organ
+Found nature:  Yes                     Lode name:     Pool
+Raw names:     puddle, pocket
+Refined names: puddle
+
+MATERIAL STATS (wax):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (very fragile)     
+Magic:         (a bit magical)    Flammability:  (highly flammable) 
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (quite solid)      
+Mentality:     (poor mentality)   Reactivity:    (high reactivity)  
+Weapon rarity: (not used)         Armour rarity: (not used)         
+Value (gp/kg): (cheap)            Rarity:        (common)           
+Article:       a                       Type:          Organ
+Found nature:  No                      Lode name:     Lump           
+Raw names:     block, chunk
+Refined names: stick, sheet
+
+MATERIAL STATS (weenite):
+-------------------------------------------------------------------------------
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (highly magical)   Flammability:  (almost unburnable)
+Warmth:        (excellent outfit) Toxicity:      (very toxic)
+Resistivity:   (great insulator)  Malleability:  (incredibly solid)
+Mentality:     (great mentality)  Reactivity:    (low reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (highly valuable)  Rarity:        (impossible)
+Article:       a                       Type:          Gem
+Found nature:  No                      Lode name:     Hit
+Raw names:     mic, string
+Refined names: dean, gene
+
+MATERIAL STATS (wood):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (normal)
+Magic:         (a bit magical)    Flammability:  (highly flammable)
+Warmth:        (chilly outfit)    Toxicity:      (very low toxicity)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (poor mentality)   Reactivity:    (great reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (not used)
+Value (gp/kg): (low-priced)       Rarity:        (quite common)
+Article:       a                       Type:          Wood
+Found nature:  Yes                     Lode name:     Stack
+Raw names:     log, twig, stick, block
+Refined names: block, log
+
+MATERIAL STATS (wool):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (light)            Sturdyness:    (fragile)          
+Magic:         (weakly magical)   Flammability:  (highly flammable) 
+Warmth:        (comfortable)      Toxicity:      (non toxic)        
+Resistivity:   (insulator)        Malleability:  (loose)            
+Mentality:     (poor mentality)   Reactivity:    (great reactivity) 
+Weapon rarity: (not used)         Armour rarity: (quite much used)  
+Value (gp/kg): (cheap)            Rarity:        (common)           
+Article:       a                       Type:          Cloth
+Found nature:  Yes                     Lode name:     Mound          
+Raw names:     piece, strip
+Refined names: strap, length
+
+MATERIAL STATS (zhentorium):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (incredibly sturdy)
+Magic:         (highly magical)   Flammability:  (quite unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (lousy insulator)  Malleability:  (incredibly solid)
+Mentality:     (some mentality)   Reactivity:    (reactive)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (very valuable)    Rarity:        (very rare)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Lode
+Raw names:     nugget, lump, piece
+Refined names: bar, mold, casting
+
+MATERIAL STATS (zinc):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (fragile)
+Magic:         (a bit magical)    Flammability:  (normal)
+Warmth:        (chilly outfit)    Toxicity:      (toxic)
+Resistivity:   (lousy insulator)  Malleability:  (a bit loose)
+Mentality:     (low mentality)    Reactivity:    (low reactivity)
+Weapon rarity: (rarely used)      Armour rarity: (sometimes used)
+Value (gp/kg): (cheap)            Rarity:        (common)
+Article:       a                       Type:          Metal
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     mineral, nugget
+Refined names: casting, ingot, billet
+
+MATERIAL STATS (zircon):
+-------------------------------------------------------------------------------
+
+Weight (g/l):  (heavy)            Sturdyness:    (very sturdy)
+Magic:         (a bit magical)    Flammability:  (almost unburnable)
+Warmth:        (chilly outfit)    Toxicity:      (highly toxic)
+Resistivity:   (great insulator)  Malleability:  (loose)
+Mentality:     (low mentality)    Reactivity:    (poor reactivity)
+Weapon rarity: (not used)         Armour rarity: (not used)
+Value (gp/kg): (average)          Rarity:        (average)
+Article:       a                       Type:          Gem
+Found nature:  Yes                     Lode name:     Deposit
+Raw names:     stone, crystal
+Refined names: hexagonal, tetragonal, isometric

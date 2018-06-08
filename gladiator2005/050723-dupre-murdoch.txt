@@ -1,0 +1,455 @@
+Sirdest says 'this will be from dupre's perspective.'
+Tackle nods solemnly.
+Sirdest says '%Tackle nods solemnly.'
+Ulver [wanted]: +dex shoes, black silk cloak
+Sirdest says '%Sirdar mutters 'oot on air, dupre.'.'
+Sam [wanted]: summon to civ
+Sirdest says '% nod.'
+Sirdest says '%nod.'
+Sirdest says '%You nod solemnly.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '% nod.'.'
+Sirdest says '%Sirdar asks 'valmiina menee lockeriin (dupre 1, murdoch 2) ?'.'
+Sam [wanted]: fastish please
+Antikiller [wanted]: summon
+Sirdest says '%Antikiller [wanted]: summon.'
+Sirdest says '%nod.'
+Sirdest says '%You nod solemnly.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%nod.'.'
+Predator [wanted]: same for me
+Sam [wanted]: got from C
+Sirdest says '%Sam [wanted]: got from C.'
+channels off
+Turned off 23 channels.
+Sirdest says '%Sirdar mutters 'GO. YOU HAVE TWO MINUTES!!'.'
+Sirdest says '%Predator [wanted]: got.'
+Sirdest says '%team1.'
+Sirdest exclaims '%Haha, you typoed!  Learn who to spill!'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%team1.'.'
+Sirdest says '%look.'
+Sirdest says '%This is a small chamber down in the arena-building, where the magical arena of.'
+Sirdest says '%Obvious exit is: up.'
+Sirdest says '%Murdoch Greenthumb the Ogre unbreakable (horny).'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%look.'.'
+Sirdest says '%sa pistäs teamit :).'
+Sirdest says '%Vain pakki puuttuu!?!?.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%sa pistäs teamit :).'.'
+The arena master shouts 'The number of teams is now 2'
+Sirdest says '%The arena master shouts 'The number of teams is now 2'.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%Hp:1293/1293 Ep:404/404 1492 >.'.'
+Sirdest says '%team1.'
+Sirdest says '%Waitingroom for team 1. This room is magically created,.'
+Sirdest says '%Team 1 door (open) leads out.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%team1.'.'
+Sirdest says '% spa off.'
+Sirdest says '%saato+ say off.'
+Sirdest says '%Channel saato+ is now off.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '% spa off.'.'
+Sirdest says '%say siin ajas mä oon ehtiny jo reinccii ja pistän kokoajan sitä ihme millä voi muuttuu vaik kolikoks tai joksuks mosaks ni milläs tapat :D.'
+Sirdest says '%You say 'siin ajas mä oon ehtiny jo reinccii ja pistän kokoajan sitä ihme millä voi muuttuu vaik.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%say siin ajas mä oon ehtiny jo reinccii ja pistän kokoajan sitä ihme.'
+Sirdest says '%twiddle.'
+Sirdest says '%You twiddle your thumbs.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%twiddle.'.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%Hp:1293/1293 Ep:404/404 1492 >.'.'
+Sirdest says '% reply :D.'
+Sirdest says '%tell * :D.'
+Sirdest says '%You tell Mardus (*Reina Pooon!... Wow!*) ':D'.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '% reply :D.'.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%Hp:1293/1293 Ep:404/404 1492 >.'.'
+Sirdest says '%swing.'
+Sirdest says '%You swing your sword of clouds menacingly.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%swing.'.'
+Sirdest says '%.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%.'.'
+Sirdest asks '%Atomska {wanted}: healer/hitter for exp?'
+Sirdest says '%Sirdar tells Murdoch and you 'CLOSE THE DOORS AND FIGHT!!'.'
+The arena master shouts 'Team 1 consists of Dupre'
+The arena master shouts 'Team 2 consists of Murdoch'
+The arena master shouts 'All teams ready! Let the fight begin!'
+Sirdest says '%close door.'
+Sirdest says '%You close team 1 door.'
+Sirdest says '%The arena master shouts 'Team 1 consists of Dupre'.'
+Sirdest says '%The arena master shouts 'Team 2 consists of Murdoch'.'
+Sirdest says '%The arena master shouts 'All teams ready! Let the fight begin!'.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%close door.'.'
+Sirdest says '%There are no obvious exits.'
+Sirdest says '%Murdoch arrives.'
+Sirdest says '%use slash at murdoch.'
+Sirdest says '%You start concentrating on the skill.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '%use slash at murdoch.'.'
+Sirdest says '% k murdoch.'
+Sirdest says '%kill murdoch.'
+Sirdest says '%*****************************************************.'
+Sirdest says '%You successfully dodge Murdoch's slash.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch successfully dodges your futile slash.'
+Sirdest says '%Murdoch successfully dodges your futile slash.'
+Sirdest says '%Hp:1293/1293 Ep:404/404 1492 >.'
+Sirdest says '%You say '% k murdoch.'.'
+Sirdest says '%You try to dodge, but Murdoch is not fooled.'
+Sirdest says '%Murdoch cuts you causing a small scratch.'
+Sirdest says '%Murdoch tears you causing a small scratch.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch successfully dodges your futile slash.'
+Sirdest says '%Murdoch successfully dodges your futile slash.'
+Sirdest says '%Hp:1236/1293 -57| ep:404/404 |.'
+Sirdest says '%You are prepared to do the skill.'
+Sirdest says '%You make a great slashing maneuver, but your enemy blocks your attack.'
+Sirdest says '%Hp:1236/1293 | ep:372/404 -32|.'
+Sirdest says '%Murdoch starts concentrating on a new offensive skill.'
+Sirdest says '%use slash.'
+Sirdest says '%You start concentrating on the skill.'
+Sirdest says '%Hp:1236/1293 Ep:372/404 1492 >.'
+Sirdest says '%You say '%use slash.'.'
+Sirdest says '%scan all.'
+Sirdest says '%Murdoch is in excellent shape.'
+Sirdest says '%Hp:1236/1293 Ep:372/404 1492 >.'
+Sirdest says '%You say '%scan all.'.'
+Sirdest says '%Murdoch incises you producing large scratches.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%You successfully dodge Murdoch's pierce.'
+Sirdest says '%Murdoch successfully parries your slash.'
+Sirdest says '% ...AND counterattacks with ferocity.'
+Sirdest says '%Murdoch successfully dodges your futile slash.'
+Sirdest says '%Hp:1177/1293 -59| ep:372/404 |.'
+la arena
+     
+ ### 
+ #1# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Murdoch          1242/1242   34/34   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre            1177/1293   21/21   |                                      |
+`-----------------------------------------------------------------------------'
+Sirdest exclaims '%You lunge at Murdoch, but he turns your attack against you and slashes you!'
+Sirdest says '%*****************************************************.'
+Sirdest says '%Murdoch tears you producing large scratches.'
+Sirdest says '%You successfully parry Murdoch's slash.'
+Sirdest says '%You successfully dodge Murdoch's pierce.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%Murdoch successfully parries your slash.'
+Sirdest says '%Hp:1016/1293 -161| ep:372/404 |.'
+Sirdest says '%Murdoch starts concentrating on a new offensive skill.'
+,-----------------------------------------------------------------------.
+| Time    Channel           Program                                     |
+|-----------------------------------------------------------------------|
+| 17:00   YLE TV1           Tv-uutiset                                  |
+|         YLE TV2           Puskuri                                     |
+|         MTV3              Ellen Express                               |
+`-----------------------------------------------------------------------'
+Sirdest says '%say ee saa blokkaa.'
+Sirdest says '%You say 'ee saa blokkaa.'.'
+Sirdest says '%Hp:1016/1293 Ep:372/404 1492 >.'
+Sirdest says '%You say '%say ee saa blokkaa.'.'
+Sirdest says '%The snakes on the sword take exception to your enemy's attack and build a ferocious counter attack.'
+Sirdest says '%Murdoch tears you creating a nasty infection.'
+Sirdest says '%You successfully dodge Murdoch's slash.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch successfully parries your slash.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%Hp:980/1293 -36| ep:372/404 |.'
+la arena
+Sirdest says '%scan all.'
+Sirdest says '%Murdoch is in excellent shape.'
+Sirdest says '%Hp:980/1293 Ep:372/404 1492 >.'
+Sirdest says '%You say '%scan all.'.'
+     
+ ### 
+ #1# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Murdoch          1242/1242   34/34   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             980/1293   21/21   |                                      |
+`-----------------------------------------------------------------------------'
+Sirdest says '%cast info.'
+Sirdest says '%You are using 'slash'.'
+Sirdest says '%Hp:980/1293 Ep:372/404 1492 >.'
+Sirdest says '%You say '%cast info.'.'
+Sirdest says '%Murdoch tears you producing large scratches.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%You cut Murdoch causing a small scratch.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%Hp:935/1293 -45| ep:372/404 |.'
+Sirdest says '%You are prepared to do the skill.'
+Sirdest exclaims '%Your enemy gasps as you slash a wound across his forehead!'
+Sirdest says '%Hp:935/1293 | ep:340/404 -32|.'
+Sirdest says '%use slash.'
+Sirdest says '%You start concentrating on the skill.'
+Sirdest says '%Hp:935/1293 Ep:340/404 1492 >.'
+Sirdest says '%You say '%use slash.'.'
+Sirdest says '%Murdoch cuts you causing an infection.'
+Sirdest says '%You successfully dodge Murdoch's slash.'
+Sirdest says '%Murdoch pierces you causing a small scratch.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%Hp:896/1293 -39| ep:340/404 |.'
+la arena
+     
+ ### 
+ #1# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Murdoch          1076/1242   34/34   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             896/1293   21/21   |                                      |
+`-----------------------------------------------------------------------------'
+Sirdest says '% x.'
+Sirdest says '%scan all.'
+Sirdest says '%Murdoch is in a good shape.'
+Sirdest says '%Hp:896/1293 Ep:340/404 1492 >.'
+Sirdest says '%You say '% x.'.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch punctures you causing a small scratch.'
+Sirdest says '%Murdoch successfully dodges your futile slash.'
+Sirdest says '%You incise Murdoch producing large scratches.'
+Sirdest says '%Hp:881/1293 -15| ep:340/404 |.'
+Sirdest says '%japan+ say lol häviin ennemmi.'
+Sirdest says '%Dupre (japan+): lol häviin ennemmi.'
+Sirdest says '%Hp:881/1293 Ep:340/404 1492 >.'
+Sirdest says '%You say '%japan+ say lol häviin ennemmi.'.'
+Sirdest says '%*****************************************************.'
+Sirdest says '%You successfully parry Murdoch's slash.'
+Sirdest says '%Murdoch tears you making a minor throttling.'
+Sirdest says '%Murdoch punctures you causing a small scratch.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%You cut Murdoch causing a small scratch.'
+Sirdest says '%Hp:712/1293 -169| ep:340/404 |.'
+la arena
+     
+ ### 
+ #1# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Murdoch          1034/1242   34/34   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             712/1293   21/21   |                                      |
+`-----------------------------------------------------------------------------'
+Sirdest says '%*****************************************************.'
+Sirdest says '%You successfully dodge Murdoch's slash.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%You successfully parry Murdoch's pierce.'
+Sirdest says '%...AND counterattack with ferocity.'
+Sirdest says '%You miss Murdoch.'
+Sirdest exclaims '%Murdoch tries to dodge your hit, but you are not fooled that easily!'
+Sirdest says '%You tear Murdoch producing large scratches.'
+Sirdest says '%You are prepared to do the skill.'
+Sirdest exclaims '%You swiftly slash your enemy across the throat, almost crushing his windpipe!'
+Sirdest says '%Hp:712/1293 | ep:308/404 -32|.'
+Sirdest says '%use slash.'
+Sirdest says '%You start concentrating on the skill.'
+Sirdest says '%Hp:712/1293 Ep:308/404 1492 >.'
+Sirdest says '%You say '%use slash.'.'
+Sirdest says '%scan all.'
+Sirdest says '%Murdoch is slightly hurt.'
+Sirdest says '%Hp:712/1293 Ep:308/404 1492 >.'
+Sirdest says '%You say '%scan all.'.'
+Sirdest says '%As one snake blocks your attack, the other snake quickly rises up and sinks it's teeth into your soft skin.'
+Sirdest says '%Murdoch tears you inducing a minor poison burn.'
+Sirdest says '%You successfully dodge Murdoch's slash.'
+Sirdest says '%Murdoch pierces you causing a small scratch.'
+Sirdest says '%You tear Murdoch causing skin to quiver.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%Hp:653/1293 -59| ep:308/404 |.'
+la arena
+     
+ ### 
+ #1# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Murdoch           794/1242   34/34   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             653/1293   21/21   |                                      |
+`-----------------------------------------------------------------------------'
+Sirdest says '%You successfully parry Murdoch's slash.'
+Sirdest says '%...AND counterattack with ferocity.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%You successfully dodge Murdoch's slash.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch misses you.'
+Sirdest exclaims '%You score a CRITICAL hit!'
+Sirdest says '%Grinning diabolically you rive Murdoch causing the head to be blasted into a magical oblivion.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%japan+ say ihme ku osuu jopa slashit välis.'
+Sirdest says '%Dupre (japan+): ihme ku osuu jopa slashit välis.'
+Sirdest says '%Hp:653/1293 Ep:308/404 1492 >.'
+Sirdest says '%You say '%japan+ say ihme ku osuu jopa slashit välis.'.'
+Sirdest says '%scan all.'
+Sirdest says '%Murdoch is not in a good shape.'
+Sirdest says '%Hp:653/1293 Ep:308/404 1492 >.'
+Sirdest says '%You say '%scan all.'.'
+la arena
+     
+ ### 
+ #1# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Murdoch           503/1242   34/34   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             653/1293   21/21   |                                      |
+`-----------------------------------------------------------------------------'
+Sirdest says '%ooo.'
+Sirdest says '%You go 'Ooooo...'.'
+Sirdest says '%Hp:653/1293 Ep:308/404 1492 >.'
+Sirdest says '%You say '%ooo.'.'
+Sirdest says '%You successfully dodge Murdoch's slash.'
+Sirdest says '%You try to dodge, but Murdoch is not fooled.'
+Sirdest says '%Grinning diabolically Murdoch rives you causing the soul to get sucked out.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%You tear Murdoch causing skin to quiver.'
+Sirdest says '%You incise Murdoch sparking a limb to slice open.'
+Sirdest says '%Hp:423/1293 -230| ep:308/404 |.'
+Sirdest says '%You are prepared to do the skill.'
+Sirdest exclaims '%You begin your slash, but see a new opportunity and smash your foe with the haft of your weapon!'
+Sirdest says '%Hp:423/1293 | ep:276/404 -32|.'
+Sirdest says '%use slash.'
+Sirdest says '%You start concentrating on the skill.'
+Sirdest says '%Hp:423/1293 Ep:276/404 1492 >.'
+Sirdest says '%You say '%use slash.'.'
+Sirdest says '%scan all.'
+Sirdest says '%Murdoch is in bad shape.'
+Sirdest says '%Hp:423/1293 Ep:276/404 1492 >.'
+Sirdest says '%%Atomska {wanted}: kanth online.'
+Sirdest says '%*****************************************************.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch tears you inducing choking.'
+Sirdest says '%You successfully dodge Murdoch's pierce.'
+Sirdest says '%You tear Murdoch making nasty welts.'
+Sirdest says '%You miss Murdoch.'
+Sirdest says '%Hp:261/1293 -162| ep:276/404 |.'
+la arena
+     
+ ### 
+ #1# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Murdoch           267/1242   34/34   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             261/1293   21/21   |                                      |
+`-----------------------------------------------------------------------------'
+Sirdest says '% cinfo.'
+Sirdest says '%cast info.'
+Sirdest says '%You are using 'slash'.'
+Sirdest says '%Hp:261/1293 Ep:276/404 1492 >.'
+Sirdest says '%You say '% cinfo.'.'
+Suamiel Nelut shouts 'Rymic died on her knees!'
+Sirdest says '%Suamiel Nelut shouts 'Rymic died on her knees!'.'
+Sirdest says '%*****************************************************.'
+Sirdest says '%You successfully parry Murdoch's slash.'
+Sirdest says '%Murdoch misses you.'
+Sirdest says '%Murdoch pierces you inducing a nasty lesion.'
+Sirdest exclaims '%You are about to DIE!'
+Sirdest exclaims '%You score a CRITICAL hit!'
+Sirdest says '%Grinning diabolically you rive Murdoch causing heart tissue to fly everywhere.'
+Sirdest says '%Murdoch lapses into unconsciousness from severe loss of blood.'
+Sirdest says '%You tear Murdoch causing heart tissue to fly everywhere.'
+Sirdest says '%Hp:249/1293 -12| ep:276/404 |.'
+Sirdest says '%You are prepared to do the skill.'
+Sirdest says '%You make a great slashing maneuver, but your enemy blocks your attack.'
+Sirdest says '%Hp:249/1293 | ep:244/404 -32|.'
+la arena
+     
+ ### 
+ #1# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Murdoch           -38/1242   34/34   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             249/1293   21/21   |                                      |
+`-----------------------------------------------------------------------------'
+Sirdest says '%use slash.'
+Sirdest says '%You start concentrating on the skill.'
+Sirdest says '%Hp:249/1293 Ep:244/404 1492 >.'
+Sirdest says '%You say '%use slash.'.'
+Sirdest says '%scan all.'
+Sirdest says '%Murdoch is near death.'
+Sirdest says '%Hp:249/1293 Ep:244/404 1492 >.'
+Sirdest says '%You say '%scan all.'.'
+Sirdest says '%*****************************************************.'
+Sirdest says '%You tear Murdoch forcing the heart to explode and then magically implode.'
+Sirdest says '%You tear Murdoch causing heart tissue to fly everywhere.'
+Sirdest says '%scan all.'
+Sirdest says '%Murdoch is near death.'
+Sirdest says '%Hp:249/1293 Ep:244/404 1492 >.'
+Sirdest says '%You say '%scan all.'.'
+Sirdest says '%*****************************************************.'
+Sirdest says '%You tear Murdoch causing heart tissue to fly everywhere.'
+Sirdest says '%You tear Murdoch causing heart tissue to fly everywhere.'
+la arena
+     
+ ### 
+ #1# 
+ ### 
+     
++--- Team 2 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Murdoch          -178/1242   34/34   |                                      |
++--- Team 1 --------- Hp ------ Sp ------------------------- Hp ------ Sp ----+
+| Dupre             249/1293   21/21   |                                      |
+`-----------------------------------------------------------------------------'
+Sirdest says '%Blood pours from Murdoch's wounds.'
+Sirdest says '%*****************************************************.'
+Sirdest says '%You incise Murdoch forcing the heart to explode and then magically implode.'
+Sirdest says '%You tear Murdoch causing heart tissue to fly everywhere.'
+Sirdest says '%You are prepared to do the skill.'
+Sirdest says '%You make a great slashing maneuver, but your enemy blocks your attack.'
+Sirdest says '%Hp:249/1293 | ep:212/404 -32|.'
+Sirdest says '%.'
+Sirdest says '%Hp:249/1293 Ep:212/404 1492 >.'
+Sirdest says '%You say '%.'.'
+Sirdest says '%You cut Murdoch causing heart tissue to fly everywhere.'
+Sirdest says '%You tear Murdoch causing heart tissue to fly everywhere.'
+Sirdest says '%say kritithä ne.'
+Sirdest says '%You say 'kritithä ne.'.'
+Sirdest says '%Hp:249/1293 Ep:212/404 1492 >.'
+Sirdest says '%You say '%say kritithä ne.'.'
+The arena master shouts 'Murdoch of team 2 dies and is removed from the arena!'
+The arena master shouts 'Fight is over! Winner is team 1 which consists of Dupre'
+Sirdest says '%*****************************************************.'
+Sirdest says '%You cut Murdoch forcing the heart to explode and then magically implode.'
+Sirdest says '%You tear Murdoch causing heart tissue to fly everywhere.'
+Sirdest says '%Murdoch is dogfood.'
+Sirdest says '%Murdoch dies and is carried away by two clerics.'
+Sirdest says '%The arena master shouts 'Murdoch of team 2 dies and is removed from the arena!'.'
+Sirdest says '%Murdoch leaves away.'
+Sirdest says '%The arena master shouts 'Fight is over! Winner is team 1 which consists of Dupre'.'
+Sirdest says '%This is a small chamber down in the arena-building, where the magical arena of.'
+Sirdest says '%Team 1 door (closed) leads team1.'
+Sirdest says '%Sirdar Silverfang the Wizard.'
+Erlend yawns tiredly.
+channels on
+Turned on 27 channels.
+Noctur <football>: join the sport+ you buggers!
+Antikiller [wanted]: got from lahko
+Atomska {wanted}: healer for exp
