@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<cmud>
+  <trigger priority="15140">
+    <pattern>([a-zA-Z]) {acid arrow|acid blast|acid ray|acid wind|disruption} hits*</pattern>
+    <value>#IF (%1 &lt;&gt; "mind") {#color 39}</value>
+  </trigger>
+  <trigger priority="15840">
+    <pattern>with {its|his|her|your} {acid rain|acid storm}.$</pattern>
+    <value>#color 39</value>
+  </trigger>
+  <trigger priority="15850">
+    <pattern> with {its|his|her|your} vacuum {ball|globe}.$</pattern>
+    <value>#color 49</value>
+  </trigger>
+  <trigger priority="13010">
+    <pattern>*{blast vacuum|chaos bolt|strangulation|suffocation|vacuumbolt} hits*</pattern>
+    <value>#color 49</value>
+  </trigger>
+  <trigger priority="12810">
+    <pattern> with {its|his|her|your} {cone of cold|hailstorm}.$</pattern>
+    <value>#color 241</value>
+  </trigger>
+  <trigger priority="15030">
+    <pattern>*{chill touch|flaming ice|cold ray|darkfire|icebolt} hits*</pattern>
+    <value>#color 241</value>
+  </trigger>
+  <trigger priority="15860">
+    <pattern> with {its|his|her|your} {lightning storm|chain lightning}.$</pattern>
+    <value>#color 20</value>
+  </trigger>
+  <trigger priority="15130">
+    <pattern>*{blast lightning|electrocution|forked lightning|lightning bolt|shocking grasp|channelbolt} hits*</pattern>
+    <value>#color 20</value>
+  </trigger>
+  <trigger priority="12060">
+    <pattern> with {its|his|her|your} {meteor swarm|lava storm|fireball}.$</pattern>
+    <value>#color 64</value>
+  </trigger>
+  <trigger priority="15040">
+    <pattern>*{fire blast|firebolt|flame arrow|lava blast|meteor blast|channelburn|con fioco} hits*</pattern>
+    <value>#color 64</value>
+  </trigger>
+  <trigger priority="15700">
+    <pattern>* harms you *</pattern>
+    <value>#COLOR 112</value>
+  </trigger>
+  <trigger priority="12080">
+    <pattern> with {its|his|her|your} {magic eruption|magic wave|earthquake}.$</pattern>
+    <value>#color 86</value>
+  </trigger>
+  <trigger priority="12070">
+    <pattern>*{wither flesh|golden arrow|holy hand|levin bolt|dispel evil|dispel good|saintly touch|dispel undead|magic missile|summon lesser spores|summon greater spores|channelball} hits*</pattern>
+    <value>#color 86</value>
+  </trigger>
+  <trigger priority="15100">
+    <pattern> with {its|his|her|your} {poison spray|killing cloud}.$</pattern>
+    <value>#color 228</value>
+  </trigger>
+  <trigger priority="15020">
+    <pattern>*{poison blast|power blast|summon carnal spores|thorn spray|venom strike} hits*</pattern>
+    <value>#color 228</value>
+  </trigger>
+  <trigger priority="12100">
+    <pattern> paralyzes </pattern>
+    <value>#color 113</value>
+  </trigger>
+  <trigger priority="15170">
+    <pattern> with {its|his|her|your} psychic {shout|storm}.$</pattern>
+    <value>#color 113</value>
+  </trigger>
+  <trigger priority="15110">
+    <pattern>*{mind blast|mind disruption|psibolt|psychic crush|psi blast} hits*</pattern>
+    <value>#color 113</value>
+  </trigger>
+  <trigger priority="12090">
+    <pattern>crushes * mind with a powerful psychic attack!$</pattern>
+    <value>#color 113</value>
+  </trigger>
+</cmud>

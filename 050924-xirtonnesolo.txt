@@ -1,0 +1,2943 @@
+n
+cast 'tiger claw' 
+
+You open heavy bronze-studded oak doors.
+Your movement prevents you from doing the skill.
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou shred [0mXirtonne.
+Xirtonne thrusts you.
+Xirtonne bores you.
+Xirtonne scrapes you.
+You dodge.
+hp [36m888[0m/1142 ([31m-236[0m) | sp [36m698[0m/765 () | ep [36m418[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:19 stime:0 ticks:133058 **[0m
+[23:26:20] hp 888/1142  sp 698/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!' [0m
+[23:26:20] hp 888/1142  sp 698/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You are casting 'tiger claw'.
+[23:26:20] hp 888/1142  sp 698/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;53m is in bad shape. [0m(20-35% hps)
+[23:26:20] hp 888/1142  sp 698/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr  888(1142)  698( 765)[0m 418(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:26:20] hp 888/1142  sp 698/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+[32mA.J. says 'Look out!'  [0m
+[36mTiger claw[0m: [57m2[0m
+[36mTiger claw[0m: [57m1[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+You miss.
+Xirtonne thrusts you.
+Xirtonne misses.
+You dodge.
+Xirtonne kicks you.
+hp [1;33m726[0m/1142 ([31m-162[0m) | sp [36m698[0m/765 () | ep [36m418[0m/420 ()
+You are casting 'tiger claw'.
+[23:26:24] hp 726/1142  sp 698/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;53m is in bad shape. [0m(20-35% hps)
+[23:26:24] hp 726/1142  sp 698/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  726(1142)[32m  698( 765)[0m 418(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:26:24] hp 726/1142  sp 698/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------.
+| Time    Channel           Program                                     |
+|-----------------------------------------------------------------------|
+| 23:30   YLE Teema         Ihaninta Italiaa                            |
+`-----------------------------------------------------------------------'
+titan stomp
+You feel too tired to do that yet.
+[23:26:26] hp 726/1142  sp 698/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+[53;42mYou are done with the chant.[0m
+[36mYou shred [0mair with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow leap)[0m
+party report Claw in.
+[53mAs Xirtonne drops to his knees you leap in for the kill![0m
+hp [1;33m726[0m/1142 () | sp [1;33m577[0m/765 ([31m-121[0m) | ep [36m418[0m/420 ()
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[35mYou really poke[0m Xirtonne.
+[33mYou incise [0mXirtonne.
+Xirtonne thrusts you.
+hp [1;33m625[0m/1142 ([31m-101[0m) | sp [1;33m577[0m/765 () | ep [36m418[0m/420 ()
+[1;37mNuane [1;30m(report):[1;37m Claw in.[0m
+[23:26:27] hp 625/1142  sp 577/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You are not doing anything at the moment.
+[23:26:27] hp 625/1142  sp 577/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;31m is in very bad shape. [0m(10-20% hps)
+[23:26:27] hp 625/1142  sp 577/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  625(1142)[32m  577( 765)[0m 418(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:26:27] hp 625/1142  sp 577/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Piiper [35m[wanted]:[0m reinc
+cast 'tiger claw' 
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'   [0m
+[23:26:28] hp 625/1142  sp 577/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Ssmud [35m[wanted]:[0m ouch! blackstar just got burned!
+[36mTiger claw[0m: [57m2[0m
+[36mTiger claw[0m: [57m1 [0m(haste)
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou crater[0m Xirtonne.
+[33mYou incise [0mXirtonne.
+Xirtonne misses.
+You are casting 'tiger claw'.
+[23:26:30] hp 625/1142  sp 577/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;31m is in very bad shape. [0m(10-20% hps)
+[23:26:30] hp 625/1142  sp 577/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  625(1142)[32m  577( 765)[0m 418(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:26:30] hp 625/1142  sp 577/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+[53;42mYou are done with the chant.[0m
+[36mYou shred [0mair with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow leap)[0m
+party report Claw in.
+[53mAs Xirtonne drops to his knees you leap in for the kill![0m
+hp [1;33m625[0m/1142 () | sp [1;33m456[0m/765 ([31m-121[0m) | ep [36m418[0m/420 ()
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne thrusts you.
+Xirtonne thrusts you.
+Xirtonne misses.
+Xirtonne misses.
+hp [1;33m445[0m/1142 ([31m-180[0m) | sp [1;33m456[0m/765 () | ep [36m418[0m/420 ()
+[1;37mNuane [1;30m(report):[1;37m Claw in.[0m
+[23:26:33] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You are not doing anything at the moment.
+[23:26:33] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;31m is in very bad shape. [0m(10-20% hps)
+[23:26:33] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [31m ldr  445(1142)[53m  456( 765)[0m 418(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:26:33] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+cast 'tiger claw' 
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'    [0m
+[23:26:33] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+s
+
+You open heavy bronze-studded oak doors.
+Your movement prevents you from casting the spell.
+[56mCASTING BROKED.[0m
+Castle foyer (nearly stripped) ([1;37mn[0m).
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+You close heavy bronze-studded oak doors.
+[23:26:34] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+cast shattered feast at amount 100
+
+You start chanting.
+[23:26:35] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+[36mShattered feast[0m: [57m8[0m
+[36mShattered feast[0m: [57m7[0m
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You remove kraftigar, trident of darkness labeled as (Nuane) <red glow>.
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You remove a battleaxe of divinities labeled as (Nuane) <red glow>.
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You feel as though a pressure has been lifted from your soul.
+You remove Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You wield Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow> in your left hand.
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:26:36] hp 445/1142  sp 456/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m6[0m
+[36mShattered feast[0m: [57m5 [0m(haste)
+[36mShattered feast[0m: [57m4[0m
+hp [1;33m465[0m/1124 ([32m+20[0m) | sp [1;33m537[0m/774 ([32m+81[0m) | ep [32m418[0m/418 ()
+[36mShattered feast[0m: [57m3[0m
+[36mShattered feast[0m: [57m2 [0m(haste)
+[56mTICK IN 5 SECONDS.[0m
+[36mShattered feast[0m: [57m1[0m
+The archway hums quietly.
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m699[0m/1124 ([32m+234[0m) | sp [1;33m467[0m/774 ([31m-70[0m) | ep [32m418[0m/418 ()
+Ssmud [35m[wanted]:[0m what now blackstar ... got nothing to say?
+cast shattered feast at amount 100
+You start chanting.
+[23:26:52] hp 699/1124  sp 467/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+Spider Queen smiles upon you and helps you control the demon.
+[56mTimer now at 73 secs.[0m
+hp [1;33m699[0m/1124 () | sp [1;33m461[0m/774 ([31m-6[0m) | ep [32m418[0m/418 ()
+[36mShattered feast[0m: [57m7[0m
+[36mShattered feast[0m: [57m6[0m
+[36mShattered feast[0m: [57m4 [0m(greater haste)
+[36mShattered feast[0m: [57m3[0m
+[36mShattered feast[0m: [57m2 [0m(haste)
+[36mShattered feast[0m: [57m1[0m
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [36m952[0m/1124 ([32m+253[0m) | sp [1;33m391[0m/774 ([31m-70[0m) | ep [32m418[0m/418 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:27:09] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+[36mShattered feast[0m: [57m7 [0m(haste)
+dam_off
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You remove Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+Screams of the imprisoned souls echoes in your mind. Your vision turns red.
+As you place the amulet around your neck a deathly [1;34mcold[0m chill overcomes you.
+You shiver from the cold.
+You wear the liquid metal shirt...
+You feel almost IMMORTAL in this shirt.
+You wear Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You wield kraftigar, trident of darkness labeled as (Nuane) <red glow> in your right hand.
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You wield a battleaxe of divinities labeled as (Nuane) <red glow> in your left hand.
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'black gloves'.
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'solamnian necklace'.
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'ring of the depths'.
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'ring of the depths'.
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+[23:27:14] hp 952/1124  sp 391/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+n
+cast 'tiger claw' 
+
+hp [36m984[0m/1142 ([32m+32[0m) | sp [1;33m455[0m/765 ([32m+64[0m) | ep [32m420[0m/420 ([32m+2[0m)
+[36mShattered feast[0m: [57m5 [0m(greater haste)
+Valdec [35m[wanted]:[0m nah he's just too concentrated on this party
+You open heavy bronze-studded oak doors.
+Your movement prevents you from casting the spell.
+[56mCASTING BROKED.[0m
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+Your knowledge about Xirtonne's tactics allows you to evade the ambush.
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+You miss.
+Xirtonne misses.
+You dodge.
+You dodge.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne headbutts you.
+party report It hurts it hurts :(
+That really [31mHURT[0m!
+hp [1;33m602[0m/1142 ([31m-382[0m) | sp [1;33m455[0m/765 () | ep [32m420[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:13 stime:0 ticks:115151 **[0m
+[23:27:15] hp 602/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'[0m
+[23:27:15] hp 602/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You are casting 'tiger claw'.
+[23:27:15] hp 602/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;31m is in very bad shape. [0m(10-20% hps)
+[23:27:15] hp 602/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  602(1142)  455( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:27:15] hp 602/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;37mNuane [1;30m(report):[1;37m It hurts it hurts :([0m
+[23:27:15] hp 602/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Slobber goes link dead.[0m
+[36mTiger claw[0m: [57m2[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou crater[0m Xirtonne.
+You miss.
+Xirtonne thrusts you.
+You dodge.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne snaps you.
+Xirtonne misses.
+hp [33m410[0m/1142 ([31m-192[0m) | sp [1;33m455[0m/765 () | ep [32m420[0m/420 ()
+You are casting 'tiger claw'.
+[23:27:18] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;31m is in very bad shape. [0m(10-20% hps)
+[23:27:18] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [31m ldr  410(1142)[53m  455( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:27:18] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+s
+
+You open heavy bronze-studded oak doors.
+Your movement prevents you from casting the spell.
+[56mCASTING BROKED.[0m
+Castle foyer (nearly stripped) ([1;37mn[0m).
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+You close heavy bronze-studded oak doors.
+[23:27:19] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+cast shattered feast at amount 100
+
+You start chanting.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove kraftigar, trident of darkness labeled as (Nuane) <red glow>.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove a battleaxe of divinities labeled as (Nuane) <red glow>.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You feel as though a pressure has been lifted from your soul.
+You remove Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You wield Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow> in your left hand.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:27:20] hp 410/1142  sp 455/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+score
+Name: Nuane Maanviljelija the Titan < . >
+--------------------------------------------------------------------------
+Player level: 90                        Experience: 101397
+Money: 4815.00                          Bank: 987.62
+Rebirth experience: 9123
+Explore count: 12893/14679 (E%: 87)     Last reinc: Sep 15 2005
+[56m               24 rooms for next %[0m
+Exp bonus pool: 0                       Pool charged: Sat Sep 24 19:28:18 2005
+Task Points: 2                          Reinc Count: 4
+
+  Hit Points     Spell Points     Endurance Points
+    410/1124        455/774            420/418
+
+Str: Excellent (183++)    Dex: Impressive (114-)    Con: Excellent (183++)    
+Int: Superb (79++)        Wis: Divine (165++)       
+Cha: Nice (68)            Siz: Enormous (110)       
+
+You have an above average ability for avoiding hits.
+You are Draen-Dalar's love child.
+You have completed 63 active quests. (41 lq, 1 gq, 18 aq, 2 pq, 1 aw)
+You are refreshed, satiated, very young and brave.
+Vendar leads the titan race.
+[23:27:22] hp 410/1124  sp 455/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m6[0m
+[1;30mInfo: Dreadlord recovers from link death.[0m
+[36mShattered feast[0m: [57m5 [0m(haste)
+[36mShattered feast[0m: [57m4 [0m(haste)
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m715[0m/1124 ([32m+305[0m) | sp [1;33m385[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:27:37] hp 715/1124  sp 385/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+[36mShattered feast[0m: [57m7 [0m(haste)
+[1;30mInfo: Muumipeikko recovers from link death.[0m
+hp [1;33m737[0m/1124 ([32m+22[0m) | sp [1;33m468[0m/774 ([32m+83[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m5 [0m(greater haste)
+[36mShattered feast[0m: [57m2[0m
+[36mShattered feast[0m: [57m1 [0m(haste)
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+[36mYou stumble and lose your concentration.[0m
+You feel like you just saved some spell points!
+hp [1;33m737[0m/1124 () | sp [1;33m431[0m/774 ([31m-37[0m) | ep [1;32m420[0m/418 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:27:53] hp 737/1124  sp 431/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m7[0m
+[36mShattered feast[0m: [57m6[0m
+[36mShattered feast[0m: [57m5 [0m(haste)
+[56mTICK IN 5 SECONDS.[0m
+[36mShattered feast[0m: [57m4[0m
+[36mShattered feast[0m: [57m3[0m
+hp [1;33m766[0m/1124 ([32m+29[0m) | sp [1;33m541[0m/774 ([32m+110[0m) | ep [1;32m420[0m/418 ()
+Spider Queen smiles upon you and helps you control the demon.
+[56mTimer now at 73 secs.[0m
+hp [1;33m766[0m/1124 () | sp [1;33m538[0m/774 ([31m-3[0m) | ep [1;32m420[0m/418 ()
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [36m1029[0m/1124 ([32m+263[0m) | sp [1;33m468[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+You feel infernal energies flowing to your body from your heart.
+dam_off
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You remove Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+Screams of the imprisoned souls echoes in your mind. Your vision turns red.
+As you place the amulet around your neck a deathly [1;34mcold[0m chill overcomes you.
+You shiver from the cold.
+You wear the liquid metal shirt...
+You feel almost IMMORTAL in this shirt.
+You wear Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield kraftigar, trident of darkness labeled as (Nuane) <red glow> in your right hand.
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield a battleaxe of divinities labeled as (Nuane) <red glow> in your left hand.
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'black gloves'.
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'solamnian necklace'.
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'ring of the depths'.
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'ring of the depths'.
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+[23:28:13] hp 1029/1124  sp 468/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+n
+cast 'tiger claw' 
+
+You open heavy bronze-studded oak doors.
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+Your knowledge about Xirtonne's tactics allows you to evade the ambush.
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+You tumble Xirtonne's dodge.
+[36mYou crater[0m Xirtonne.
+[33mYou incise [0mXirtonne.
+Xirtonne misses.
+Xirtonne misses.
+You dodge.
+Xirtonne socks you.
+hp [36m953[0m/1142 ([31m-76[0m) | sp [1;33m468[0m/765 () | ep [32m420[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:13 stime:0 ticks:123310 **[0m
+[23:28:14] hp 953/1142  sp 468/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'  [0m
+[23:28:14] hp 953/1142  sp 468/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m2 [0m(haste)
+You are casting 'tiger claw'.
+[23:28:15] hp 953/1142  sp 468/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;31m is in very bad shape. [0m(10-20% hps)
+[23:28:15] hp 953/1142  sp 468/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr  953(1142)[53m  468( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:28:15] hp 953/1142  sp 468/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[32mXirtonne says 'Do you think you can get away with this?' [0m
+[53;42mYou are done with the chant.[0m
+[36mYou shred [0mair with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow leap)[0m
+party report Claw in.
+[53mAs Xirtonne drops to his knees you leap in for the kill![0m
+hp [36m953[0m/1142 () | sp [1;33m347[0m/765 ([31m-121[0m) | ep [32m420[0m/420 ()
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[35mYou really poke[0m Xirtonne.
+[36mYou shred [0mXirtonne.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne wounds you.
+hp [1;33m839[0m/1142 ([31m-114[0m) | sp [1;33m347[0m/765 () | ep [32m420[0m/420 ()
+[1;37mNuane [1;30m(report):[1;37m Claw in.[0m
+[23:28:18] hp 839/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You are not doing anything at the moment.
+[23:28:18] hp 839/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;31m is in very bad shape. [0m(10-20% hps)
+[23:28:18] hp 839/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr  839(1142)[53m  347( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:28:18] hp 839/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+cast 'tiger claw' 
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'   [0m
+[23:28:18] hp 839/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[36mTiger claw[0m: [57m2[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[34mYou gorge[0m Xirtonne.
+[36mYou shred [0mXirtonne.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne wounds you.
+You get hit hard but your discipline saves concentration on your spell.
+hp [1;33m710[0m/1142 ([31m-129[0m) | sp [1;33m347[0m/765 () | ep [32m420[0m/420 ()
+You are casting 'tiger claw'.
+[23:28:21] hp 710/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:28:21] hp 710/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  710(1142)  347( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:28:21] hp 710/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+A.J. cringes in terror.
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne misses.
+[1;33mYou become somewhat confused, losing your edge.[0m
+[56mI'm stunned. (lvl 2)[0m
+[31mYou[51m lose your concentration [31mand cannot cast the spell.[0m
+[56mCASTING BROKED.[0m
+Xirtonne thrusts you.
+Xirtonne snaps you.
+Xirtonne kicks you.
+hp [1;33m463[0m/1142 ([31m-247[0m) | sp [1;33m347[0m/765 () | ep [32m420[0m/420 ()
+You try to act but just blank out, losing focus.
+[23:28:24] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:28:24] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane       [53m stun  463(1142)  347( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:28:24] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Saldas recovers from link death.[0m
+s
+You open heavy bronze-studded oak doors.
+Castle foyer (nearly stripped) ([1;37mn[0m).
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+You close heavy bronze-studded oak doors.
+[23:28:25] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You feel your head clearing up.
+[1;30mInfo: Rehna goes link dead.[0m
+Piiper [35m[wanted]:[0m any1 need defender?
+fesat
+No one has ever seen a better Typo Galore before!! hehehe!
+[23:28:29] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You feel your head clearing up.
+regen_off
+You try to act but just blank out, losing focus.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+'tinringi' is now aliased to 'black ring'.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+You try to act but just blank out, losing focus.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You try to act but just blank out, losing focus.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+You try to act but just blank out, losing focus.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:28:31] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;37mMardraum tells you 'khii, t‰‰kˆh‰ se sit on mink‰ se voittaa'[0m
+party report No longer stunned.
+You are no longer stunned.
+You feel your head clearing up.
+[1;37mNuane [1;30m(report):[1;37m No longer stunned.[0m
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove kraftigar, trident of darkness labeled as (Nuane) <red glow>.
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove a battleaxe of divinities labeled as (Nuane) <red glow>.
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You feel as though a pressure has been lifted from your soul.
+You remove Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You wield Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow> in your left hand.
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:28:33] hp 463/1142  sp 347/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+cast shattered feast at amount 100
+
+You have nothing to remove!
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You have nothing to remove!
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You're already wielding Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[23:28:34] hp 463/1124  sp 347/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+[1;37mMardraum tells you 'n‰‰ o tosiaa wanhoi'[0m
+tell last
+hp [1;33m483[0m/1124 ([32m+20[0m) | sp [1;33m425[0m/774 ([32m+78[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m8[0m
+[36mShattered feast[0m: [57m7 [0m(haste)
+Displaying last tells to you.
+(23:19) You tell Mardraum 'aightsor'
+(23:19) You tell Mardraum 'mutta enihau mielenkiintosta katottavaa'
+(23:19) [1;37mMardraum tells you 'katottii joskus sampan edellisel l‰pp‰ril niit viros'[0m
+(23:19) [1;37mMardraum tells you 'ja h‰visin sille varmaa 20e ku pelattii kahestaa'[0m
+(23:19) [1;37mMardraum tells you 'voitin kyl 7 kortin sˆkˆs silt l‰j‰n kruunui ":D"'[0m
+(23:19) You tell Mardraum 'hihi'
+(23:24) You tell Mardraum 'aika hyv‰ matsi kyl menos atm'
+(23:25) You tell Mardraum (idle 5min and 41s) 'hahaa :)'
+(23:28) [1;37mMardraum tells you 'khii, t‰‰kˆh‰ se sit on mink‰ se voittaa'[0m
+(23:28) [1;37mMardraum tells you 'n‰‰ o tosiaa wanhoi'[0m
+Ok.
+[23:28:36] hp 483/1124  sp 425/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m6[0m
+[36mShattered feast[0m: [57m5[0m
+[36mShattered feast[0m: [57m4[0m
+reply no bittu et ois spoilannu :D
+You tell Mardraum 'no bittu et ois spoilannu :D'
+[23:28:47] hp 483/1124  sp 425/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+The archway hums quietly.
+[36mShattered feast[0m: [57m3 [0m(haste)
+Saldas [32m[sales]:[0m Merchant services available
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m788[0m/1124 ([32m+305[0m) | sp [1;33m355[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:28:56] hp 788/1124  sp 355/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Ssmud [35m[wanted]:[0m felidae book read
+hp [1;33m818[0m/1124 ([32m+30[0m) | sp [1;33m475[0m/774 ([32m+120[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m5[0m
+[36mShattered feast[0m: [57m4[0m
+[36mShattered feast[0m: [57m3 [0m(haste)
+[1;30mInfo: Muumipeikko goes link dead.[0m
+[1;30mInfo: Poe recovers from link death.[0m
+[36mShattered feast[0m: [57m1[0m
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [36m1090[0m/1124 ([32m+272[0m) | sp [1;33m405[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+dam_off
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You remove Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+Screams of the imprisoned souls echoes in your mind. Your vision turns red.
+As you place the amulet around your neck a deathly [1;34mcold[0m chill overcomes you.
+You shiver from the cold.
+You wear the liquid metal shirt...
+Ah you feel good in your nice liquid shirt.
+You wear Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield kraftigar, trident of darkness labeled as (Nuane) <red glow> in your right hand.
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield a battleaxe of divinities labeled as (Nuane) <red glow> in your left hand.
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'black gloves'.
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'solamnian necklace'.
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'ring of the depths'.
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'ring of the depths'.
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+[23:29:16] hp 1090/1124  sp 405/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+n
+cast 'tiger claw' 
+
+You open heavy bronze-studded oak doors.
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+You miss.
+Xirtonne dodges.
+You parry.
+Xirtonne brutally beats you.
+party report It hurts it hurts :(
+That really [31mHURT[0m!
+Xirtonne scrapes you.
+Xirtonne socks you.
+hp [1;33m488[0m/1142 ([31m-602[0m) | sp [1;33m405[0m/765 () | ep [32m420[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:19 stime:0 ticks:129422 **[0m
+[23:29:18] hp 488/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'[0m
+[23:29:18] hp 488/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You are casting 'tiger claw'.
+[23:29:18] hp 488/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:29:18] hp 488/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  488(1142)  405( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:29:18] hp 488/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;37mNuane [1;30m(report):[1;37m It hurts it hurts :([0m
+[23:29:18] hp 488/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+s
+
+You open heavy bronze-studded oak doors.
+party report AMBUSHED!
+You cannot leave, you have been AMBUSHED.
+You close heavy bronze-studded oak doors.
+Heavy bronze-studded oak doors closes.
+[23:29:19] hp 488/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;37mNuane [1;30m(report):[1;37m AMBUSHED![0m
+[23:29:19] hp 488/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[36mTiger claw[0m: [57m1[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne misses.
+Xirtonne misses.
+Xirtonne snaps you.
+Xirtonne misses.
+hp [33m410[0m/1142 ([31m-78[0m) | sp [1;33m405[0m/765 () | ep [32m420[0m/420 ()
+You are casting 'tiger claw'.
+[23:29:22] hp 410/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:29:22] hp 410/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [31m ldr  410(1142)[53m  405( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:29:22] hp 410/1142  sp 405/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[53;42mYou are done with the chant.[0m
+[36mYou shred [0mair with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow leap)[0m
+party report Claw in.
+[53mAs Xirtonne drops to his knees you leap in for the kill![0m
+hp [33m410[0m/1142 () | sp [1;33m284[0m/765 ([31m-121[0m) | ep [32m420[0m/420 ()
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou cavitate[0m Xirtonne.
+You miss.
+Xirtonne misses.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne thrusts you.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne snaps you.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne socks you.
+You are about to [31mDIE[0m!
+hp [33m155[0m/1142 ([31m-255[0m) | sp [1;33m284[0m/765 () | ep [32m420[0m/420 ()
+Spider Queen smiles upon you and helps you control the demon.
+[56mTimer now at 73 secs.[0m
+[1;37mNuane [1;30m(report):[1;37m Claw in.[0m
+[23:29:25] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You are not doing anything at the moment.
+[23:29:25] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:29:25] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [57m ldr  155(1142)[31m  275( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:29:25] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+cast 'tiger claw' 
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!' [0m
+[23:29:25] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+s
+
+You open heavy bronze-studded oak doors.
+Your movement prevents you from casting the spell.
+[56mCASTING BROKED.[0m
+Castle foyer (nearly stripped) ([1;37mn[0m).
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+You close heavy bronze-studded oak doors.
+[23:29:26] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Moss recovers from link death.[0m
+Stefan [35m[wanted]:[0m eq for habodef
+cast shattered feast at amount 100
+You start chanting.
+[23:29:26] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove kraftigar, trident of darkness labeled as (Nuane) <red glow>.
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove a battleaxe of divinities labeled as (Nuane) <red glow>.
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You feel as though a pressure has been lifted from your soul.
+You remove Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You wield Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow> in your left hand.
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:29:27] hp 155/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+hp [33m155[0m/1124 () | sp [33m275[0m/774 ([31m-9[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m7[0m
+hp [33m178[0m/1124 ([32m+23[0m) | sp [1;33m354[0m/774 ([32m+79[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m6[0m
+[36mShattered feast[0m: [57m5 [0m(haste)
+[36mShattered feast[0m: [57m4[0m
+Moss [35m[wanted]:[0m exp for mage
+[31mGuardian shouts 'Rocker barely scratched me before dying!'[0m
+[1;30mInfo: Rocker dies.[0m
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m427[0m/1124 ([32m+249[0m) | sp [1;33m284[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+tell mardraum ah toi scotty on kova, kattelin sit‰ yhes jaksos
+You tell Mardraum 'ah toi scotty on kova, kattelin sit‰ yhes jaksos'
+[23:29:53] hp 427/1124  sp 284/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+cast shattered feast at amount 100
+
+You start chanting.
+[23:29:54] hp 427/1124  sp 284/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+hp [1;33m456[0m/1124 ([32m+29[0m) | sp [1;33m399[0m/774 ([32m+115[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m6[0m
+[36mShattered feast[0m: [57m5 [0m(haste)
+[36mShattered feast[0m: [57m4[0m
+[36mShattered feast[0m: [57m3 [0m(haste)
+[1;30mInfo: Halle recovers from link death.[0m
+[1;30mInfo: Lazuli recovers from link death.[0m
+[1;30mInfo: Awed goes link dead.[0m
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m713[0m/1124 ([32m+257[0m) | sp [1;33m329[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+[1;30mInfo: Ritari goes link dead.[0m
+cast shattered feast at amount 100
+You start chanting.
+[23:30:14] hp 713/1124  sp 329/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+[36mShattered feast[0m: [57m6 [0m(greater haste)
+[1;30mInfo: Erygon recovers from link death.[0m
+[36mShattered feast[0m: [57m4[0m
+[1;30mInfo: Rehna recovers from link death.[0m
+[36mShattered feast[0m: [57m2[0m
+hp [1;33m746[0m/1124 ([32m+33[0m) | sp [1;33m472[0m/774 ([32m+143[0m) | ep [1;32m420[0m/418 ()
+[1;30mInfo: Halle goes link dead.[0m
+[56mTICK IN 5 SECONDS.[0m
+dam_off
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You remove Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+Screams of the imprisoned souls echoes in your mind. Your vision turns red.
+As you place the amulet around your neck a deathly [1;34mcold[0m chill overcomes you.
+You shiver from the cold.
+You wear the liquid metal shirt...
+You are the coolest player on BatMUD. In this shirt at least.
+You wear Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield kraftigar, trident of darkness labeled as (Nuane) <red glow> in your right hand.
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield a battleaxe of divinities labeled as (Nuane) <red glow> in your left hand.
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'black gloves'.
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'solamnian necklace'.
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'ring of the depths'.
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'ring of the depths'.
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+[23:30:33] hp 746/1124  sp 472/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [36m935[0m/1142 ([32m+189[0m) | sp [1;33m402[0m/765 ([31m-70[0m) | ep [32m420[0m/420 ()
+n
+cast 'tiger claw' 
+You open heavy bronze-studded oak doors.
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+Your keen senses note a disturbance seconds before the ambush!
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+You miss.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne thrusts you.
+Xirtonne bores you.
+You parry.
+Xirtonne kicks you.
+hp [1;33m709[0m/1142 ([31m-226[0m) | sp [1;33m402[0m/765 () | ep [32m420[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:15 stime:0 ticks:126639 **[0m
+[23:30:34] hp 709/1142  sp 402/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'    [0m
+[23:30:34] hp 709/1142  sp 402/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You are casting 'tiger claw'.
+[23:30:35] hp 709/1142  sp 402/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:30:35] hp 709/1142  sp 402/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  709(1142)  402( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:30:35] hp 709/1142  sp 402/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Lanta goes link dead.[0m
+titan stomp
+You stomp your foot against the ground! TREMBLE!
+You parry.
+...AND riposte.
+A.J. misses.
+A.J. manages to stay on his feet.
+Xirtonne falls to the ground!
+[23:30:36] hp 709/1142  sp 402/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[32mA.J. says 'No, stop! I'll tell you everything!'[0m
+[36mShattered feast[0m: [57m1 [0m(haste)
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+You dodge.
+Xirtonne thrusts you.
+Xirtonne snaps you.
+Xirtonne socks you.
+Xirtonne dodges.
+You tumble Xirtonne's dodge.
+[36mYou shred [0mXirtonne.
+hp [1;33m449[0m/1142 ([31m-260[0m) | sp [1;33m402[0m/765 () | ep [32m420[0m/420 ()
+You dodge.
+You dodge.
+[53;42mYou are done with the chant.[0m
+[36mYou shred [0mair with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow leap)[0m
+party report Mob resisted claw :(
+Xirtonne manages to resist your claws!
+hp [1;33m449[0m/1142 () | sp [1;33m281[0m/765 ([31m-121[0m) | ep [32m420[0m/420 ()
+You are not doing anything at the moment.
+[23:30:37] hp 449/1142  sp 281/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+A.J.[32m is in excellent shape. [0m(90-100% hps)
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:30:37] hp 449/1142  sp 281/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [31m ldr  449(1142)  281( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:30:37] hp 449/1142  sp 281/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;37mNuane [1;30m(report):[1;37m Mob resisted claw :([0m
+[23:30:37] hp 449/1142  sp 281/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Spider Queen smiles upon you and helps you control the demon.
+[56mTimer now at 73 secs.[0m
+cast 'tiger claw' 
+You start chanting.
+[23:30:38] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+s
+
+You open heavy bronze-studded oak doors.
+Your movement prevents you from casting the spell.
+[56mCASTING BROKED.[0m
+Castle foyer (nearly stripped) ([1;37mn[0m).
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+You close heavy bronze-studded oak doors.
+[23:30:39] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+cast shattered feast at amount 100
+
+hp [1;33m449[0m/1142 () | sp [33m275[0m/765 ([31m-6[0m) | ep [32m420[0m/420 ()
+You start chanting.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove kraftigar, trident of darkness labeled as (Nuane) <red glow>.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove a battleaxe of divinities labeled as (Nuane) <red glow>.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You feel as though a pressure has been lifted from your soul.
+You remove Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You wield Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow> in your left hand.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:30:40] hp 449/1142  sp 275/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+[31mGreat lion shouts 'I fart in your general direction, Vince!'[0m
+[1;30mInfo: Vince dies.[0m
+Ghost of Vince [31m[ghost]:[0m VITTU!
+[36mShattered feast[0m: [57m7[0m
+[36mShattered feast[0m: [57m6 [0m(haste)
+[36mShattered feast[0m: [57m5[0m
+[36mShattered feast[0m: [57m4 [0m(haste)
+The archway pulses silently.
+[36mShattered feast[0m: [57m3[0m
+[36mShattered feast[0m: [57m2[0m
+hp [1;33m472[0m/1124 ([32m+23[0m) | sp [1;33m358[0m/774 ([32m+83[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m1[0m
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m717[0m/1124 ([32m+245[0m) | sp [1;33m288[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:31:01] hp 717/1124  sp 288/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Julma [31m[ghost]:[0m acceot
+[36mShattered feast[0m: [57m8[0m
+[36mShattered feast[0m: [57m7[0m
+[31mGrue shouts 'Mizuti, I bet that HURT! *RAH RAH*'[0m
+[1;30mInfo: Mizuti dies.[0m
+[1;30mInfo: Mephisto goes link dead.[0m
+[36mShattered feast[0m: [57m5[0m
+[36mShattered feast[0m: [57m4[0m
+[36mShattered feast[0m: [57m3[0m
+[36mShattered feast[0m: [57m2 [0m(haste)
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+[36mYou fail miserably in your spell.[0m
+You feel like you just saved some spell points!
+hp [1;33m717[0m/1124 () | sp [33m248[0m/774 ([31m-40[0m) | ep [1;32m420[0m/418 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:31:27] hp 717/1124  sp 248/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+hp [1;33m745[0m/1124 ([32m+28[0m) | sp [1;33m368[0m/774 ([32m+120[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m8[0m
+[36mShattered feast[0m: [57m5[0m
+[36mShattered feast[0m: [57m4 [0m(haste)
+[1;30mInfo: Qurp goes link dead.[0m
+[36mShattered feast[0m: [57m3[0m
+Shadowwar [35m[wanted]:[0m some good movie torrent
+[56mTICK IN 5 SECONDS.[0m
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [36m990[0m/1124 ([32m+245[0m) | sp [1;33m298[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+[1;30mInfo: Presence goes link dead.[0m
+Spider Queen smiles upon you and helps you control the demon.
+[56mTimer now at 73 secs.[0m
+dam_off
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You remove Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+Screams of the imprisoned souls echoes in your mind. Your vision turns red.
+As you place the amulet around your neck a deathly [1;34mcold[0m chill overcomes you.
+You shiver from the cold.
+You wear the liquid metal shirt...
+You self confidince increases with this shirt.
+You wear Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield kraftigar, trident of darkness labeled as (Nuane) <red glow> in your right hand.
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield a battleaxe of divinities labeled as (Nuane) <red glow> in your left hand.
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'black gloves'.
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'solamnian necklace'.
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'ring of the depths'.
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'ring of the depths'.
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+[23:31:51] hp 990/1124  sp 294/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+hp [36m990[0m/1142 () | sp [1;33m294[0m/765 ([31m-4[0m) | ep [32m420[0m/420 ()
+n
+cast 'tiger claw' 
+You open heavy bronze-studded oak doors.
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne parries.
+Xirtonne wounds you.
+Your armours absorb some of the damage.
+You parry.
+Xirtonne misses.
+Xirtonne misses.
+hp [36m952[0m/1142 ([31m-38[0m) | sp [1;33m294[0m/765 () | ep [32m420[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:11 stime:1 ticks:122435 **[0m
+[23:31:52] hp 952/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'   [0m
+[23:31:52] hp 952/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You are casting 'tiger claw'.
+[23:31:52] hp 952/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[1;31m is in very bad shape. [0m(10-20% hps)
+[23:31:52] hp 952/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr  952(1142)[31m  294( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:31:52] hp 952/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[36mTiger claw[0m: [57m2[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou cavitate[0m Xirtonne.
+Xirtonne misses.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne bores you.
+You get hit SO HARD that you have to stop your spell.
+[31mYou[51m lose your concentration [31mand cannot cast the spell.[0m
+[56mCASTING BROKED.[0m
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne snaps you.
+You dodge.
+hp [1;33m817[0m/1142 ([31m-135[0m) | sp [1;33m294[0m/765 () | ep [32m420[0m/420 ()
+[1;30mInfo: Presence recovers from link death.[0m
+You are not doing anything at the moment.
+[23:31:55] hp 817/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:31:55] hp 817/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr  817(1142)[31m  294( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:31:55] hp 817/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Egall enters the game.[0m
+cast 'tiger claw' 
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'    [0m
+[23:31:56] hp 817/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[36mTiger claw[0m: [57m2[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[34mYou shaft[0m Xirtonne.
+You miss.
+Xirtonne thrusts you.
+Your armours absorb some of the damage.
+Xirtonne misses.
+You dodge.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne kicks you.
+It hurts so badly you get confused and stop your spell.
+[31mYou[51m lose your concentration [31mand cannot cast the spell.[0m
+[56mCASTING BROKED.[0m
+hp [1;33m719[0m/1142 ([31m-98[0m) | sp [1;33m294[0m/765 () | ep [32m420[0m/420 ()
+You are not doing anything at the moment.
+[23:31:58] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:31:58] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  719(1142)[31m  294( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:31:58] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+s
+
+You open heavy bronze-studded oak doors.
+Castle foyer (nearly stripped) ([1;37mn[0m).
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+You close heavy bronze-studded oak doors.
+[23:31:59] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+cast shattered feast at amount 100
+
+You start chanting.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Balroc recovers from link death.[0m
+regen_off
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove kraftigar, trident of darkness labeled as (Nuane) <red glow>.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove a battleaxe of divinities labeled as (Nuane) <red glow>.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You feel as though a pressure has been lifted from your soul.
+You remove Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You wield Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow> in your left hand.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:32:00] hp 719/1142  sp 294/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+[36mShattered feast[0m: [57m7 [0m(haste)
+[1;30mInfo: Glow goes link dead.[0m
+[1;30mInfo: Sancran left the game.[0m
+[36mShattered feast[0m: [57m4[0m
+[36mShattered feast[0m: [57m2 [0m(greater haste)
+[36mShattered feast[0m: [57m1[0m
+[1;30mInfo: Sancran enters the game.[0m
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [36m886[0m/1124 ([32m+167[0m) | sp [33m224[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+[1;30mInfo: Solstice enters the game.[0m
+cast shattered feast at amount 100
+You start chanting.
+[23:32:17] hp 886/1124  sp 224/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+[36mShattered feast[0m: [57m7 [0m(haste)
+You feel infernal energies flowing to your body from your heart.
+[36mShattered feast[0m: [57m5[0m
+hp [36m909[0m/1124 ([32m+23[0m) | sp [1;33m304[0m/774 ([32m+80[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m4[0m
+,-----------------------------------------------------------------------.
+| Time    Channel           Program                                     |
+|-----------------------------------------------------------------------|
+| 23:35   YLE TV2           TOP40                                       |
+`-----------------------------------------------------------------------'
+[36mShattered feast[0m: [57m3[0m
+[36mShattered feast[0m: [57m2 [0m(haste)
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [32m1124[0m/1124 ([32m+215[0m) | sp [33m234[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+dam_off
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You remove Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+Screams of the imprisoned souls echoes in your mind. Your vision turns red.
+As you place the amulet around your neck a deathly [1;34mcold[0m chill overcomes you.
+You shiver from the cold.
+You wear the liquid metal shirt...
+You self confidince increases with this shirt.
+You wear Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield kraftigar, trident of darkness labeled as (Nuane) <red glow> in your right hand.
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+You wield a battleaxe of divinities labeled as (Nuane) <red glow> in your left hand.
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'black gloves'.
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'solamnian necklace'.
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'ring of the depths'.
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'ring of the depths'.
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+[23:32:35] hp 1124/1124  sp 234/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Shardik shouts 'what you do in life, shall echo in eternity!'
+n
+cast 'tiger claw' 
+You open heavy bronze-studded oak doors.
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+Your knowledge about Xirtonne's tactics allows you to evade the ambush.
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne dodges.
+Xirtonne dodges.
+Xirtonne misses.
+Xirtonne thrusts you.
+You parry.
+You dodge.
+hp [36m1018[0m/1142 ([31m-106[0m) | sp [33m234[0m/765 () | ep [32m420[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:12 stime:0 ticks:115269 **[0m
+[23:32:36] hp 1018/1142  sp 234/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'  [0m
+[23:32:36] hp 1018/1142  sp 234/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You are casting 'tiger claw'.
+[23:32:37] hp 1018/1142  sp 234/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:32:37] hp 1018/1142  sp 234/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr 1018(1142)[31m  234( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:32:37] hp 1018/1142  sp 234/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Egall left the game.[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne misses.
+Xirtonne perforates you.
+Xirtonne misses.
+Xirtonne misses.
+hp [36m942[0m/1142 ([31m-76[0m) | sp [33m234[0m/765 () | ep [32m420[0m/420 ()
+You are casting 'tiger claw'.
+[23:32:40] hp 942/1142  sp 234/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:32:40] hp 942/1142  sp 234/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr  942(1142)[31m  234( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:32:40] hp 942/1142  sp 234/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou crater[0m Xirtonne.
+party report Xirtonne lost skill/spell.
+Xirtonne seems [51mhurt and confused[0m.
+Xirtonne dodges.
+Xirtonne misses.
+Xirtonne misses.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne snaps you.
+Xirtonne socks you.
+hp [1;33m781[0m/1142 ([31m-161[0m) | sp [33m234[0m/765 () | ep [32m420[0m/420 ()
+[53;42mYou are done with the chant.[0m
+[36mYou shred [0mair with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow leap)[0m
+party report Claw in.
+[53mAs Xirtonne drops to his knees you leap in for the kill![0m
+hp [1;33m781[0m/1142 () | sp [33m113[0m/765 ([31m-121[0m) | ep [32m420[0m/420 ()
+You are not doing anything at the moment.
+[23:32:43] hp 781/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:32:43] hp 781/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  781(1142)[57m  113( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:32:43] hp 781/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;37mNuane [1;30m(report):[1;37m Xirtonne lost skill/spell.[0m
+[23:32:43] hp 781/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;37mNuane [1;30m(report):[1;37m Claw in.[0m
+[23:32:43] hp 781/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+cast 'tiger claw' 
+
+party report Out of sp.
+You do not have enough spell points to cast the spell.
+[23:32:44] hp 781/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;37mNuane [1;30m(report):[1;37m Out of sp.[0m
+[23:32:44] hp 781/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+wos
+
+[1;30mInfo: Doughnut recovers from link death.[0m
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'   [0m
+[23:32:45] hp 781/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[34mYou gorge[0m Xirtonne.
+[34mYou slash[0m Xirtonne.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne thrusts you.
+hp [1;33m690[0m/1142 ([31m-91[0m) | sp [33m113[0m/765 () | ep [32m420[0m/420 ()
+A.J. cringes in terror.
+You are casting 'word of spite'.
+[23:32:46] hp 690/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:32:46] hp 690/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  690(1142)[57m  113( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:32:46] hp 690/1142  sp 113/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Eressa recovers from link death.[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[34mYou shaft[0m Xirtonne.
+[34mYou incisively cut [0mXirtonne.
+Xirtonne misses.
+[53;42mYou are done with the chant.[0m
+You speak the ancient Word of Spite 'torrfra' [57m(Word of spite)[0m
+A glowing white mystical symbol appears in the air before Xirtonne.
+You watch with selfpride as your word of spite hits Xirtonne.
+hp [1;33m690[0m/1142 () | sp [31m80[0m/765 ([31m-33[0m) | ep [32m420[0m/420 ()
+Glaurung [1;30m[bat]:[0m yeah keep telling that to yourself!
+You are not doing anything at the moment.
+[23:32:49] hp 690/1142  sp 80/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:32:49] hp 690/1142  sp 80/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  690(1142)[57m   80( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:32:49] hp 690/1142  sp 80/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+wos
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'    [0m
+[23:32:50] hp 690/1142  sp 80/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne thrusts you.
+It hurts so badly you get confused and stop your spell.
+[31mYou[51m lose your concentration [31mand cannot cast the spell.[0m
+[56mCASTING BROKED.[0m
+You parry.
+...AND riposte.
+Xirtonne misses.
+Xirtonne kicks you.
+hp [1;33m521[0m/1142 ([31m-169[0m) | sp [31m80[0m/765 () | ep [32m420[0m/420 ()
+You are not doing anything at the moment.
+[23:32:52] hp 521/1142  sp 80/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:32:52] hp 521/1142  sp 80/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  521(1142)[57m   80( 765)[0m 420(420) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:32:52] hp 521/1142  sp 80/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+wos
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'[0m
+[23:32:53] hp 521/1142  sp 80/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+s
+
+You open heavy bronze-studded oak doors.
+Your movement prevents you from casting the spell.
+[56mCASTING BROKED.[0m
+Castle foyer (nearly stripped) ([1;37mn[0m).
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+You close heavy bronze-studded oak doors.
+[23:32:54] hp 521/1142  sp 80/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+hp [1;33m545[0m/1142 ([32m+24[0m) | sp [33m103[0m/765 ([32m+23[0m) | ep [32m420[0m/420 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:32:55] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove kraftigar, trident of darkness labeled as (Nuane) <red glow>.
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You remove a battleaxe of divinities labeled as (Nuane) <red glow>.
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You feel as though a pressure has been lifted from your soul.
+You remove Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+You wield Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow> in your left hand.
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:32:56] hp 545/1142  sp 103/765  ep 420/420  xp 101397  $ 4815/987  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[36mShattered feast[0m: [57m7[0m
+[36mShattered feast[0m: [57m6[0m
+Spider Queen smiles upon you and helps you control the demon.
+[56mTimer now at 73 secs.[0m
+hp [1;33m545[0m/1124 () | sp [33m101[0m/774 ([31m-2[0m) | ep [1;32m420[0m/418 ()
+[36mShattered feast[0m: [57m3[0m
+[36mShattered feast[0m: [57m2[0m
+[36mShattered feast[0m: [57m1[0m
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m817[0m/1124 ([32m+272[0m) | sp [31m31[0m/774 ([31m-70[0m) | ep [1;32m420[0m/418 ()
+hp [1;33m846[0m/1124 ([32m+29[0m) | sp [33m146[0m/774 ([32m+115[0m) | ep [1;32m420[0m/418 ()
+[1;30mInfo: Rammon dies.[0m
+sales long sky-blue scarf +spr +flow of magic vlw(?) with your name mb 100k
+Nuane [32m(sales):[0m long sky-blue scarf +spr +flow of magic vlw(?) with your name mb 100k
+[31m** Cost for 'sales long sky-blue scarf +spr +flow of magic vlw(?) with your name mb [0m[31m100k': Cost: utime:26 stime:0 ticks:120189 **[0m
+[23:33:35] hp 846/1124  sp 146/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+use ceremony
+
+You start concentrating on the skill.
+[23:33:40] hp 846/1124  sp 146/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+Danefl [32m[sales]:[0m 100k
+f danefl
+Danefl is a level 71 mortal of the Thrikhren race.
+He was created Thu Sep 16 20:43:31 1999 and he is 262d, 2h, 24min and 17s old.
+He has been on for 11h, 18min and 35s, idle 5s (*idle*).
+He has killed: a sow relaxing contently on the ground, 1331 exp
+               Reanimated body hosting the ancient .., 508927 exp (party of 5)
+Web page: unlucky channeller with blue aura, conjus under construction
+Plan:
+>When the past makes you laugh
+>and you can savor the magic
+>that let you survive your own war
+>You find that that fire is passion
+>and there's a door up ahead not a wall
+[23:33:48] hp 846/1124  sp 146/774  ep 420/418  xp 101397  $ 4815/987  wimpy off
+
+[53;42mYou are prepared to do the skill.[0m
+You perform the ceremony.
+hp [1;33m846[0m/1124 () | sp [33m146[0m/774 () | ep [1;32m419[0m/418 ([31m-1[0m)
+hp [36m881[0m/1124 ([32m+35[0m) | sp [1;33m284[0m/774 ([32m+138[0m) | ep [1;32m419[0m/418 ()
+[1;30mInfo: Ignore recovers from link death.[0m
+sales 100k 1x2x3x
+Nuane [32m(sales):[0m 100k 1x2x3x
+[31m** Cost for 'sales 100k 1x2x3x': Cost: utime:31 stime:0 ticks:115664 **[0m
+[23:33:55] hp 881/1124  sp 284/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Moss goes link dead.[0m
+Kiomet [32m[sales]:[0m 105k
+Danefl [32m[sales]:[0m 120k
+f kiomet
+Kiomet Eschata is a level 43 mortal of the Dwarf race.
+She was created Tue Jun 29 07:35:17 2004 and she is 94d, 11h, 57min and 20s old.
+She has been on for 1h, 12min and 59s, idle 3s.
+She has killed: burly cook chopping some vegetables, 2437 exp
+                a dark elf trying to avoid the light, 52846 exp (party of 5)
+Plan:
+>She is the leader of the Ogre race. (For a whole hour! 19-20:00 EET on 1 June
+>2005!)
+[23:34:06] hp 881/1124  sp 284/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+sales 120k 1x2x3x
+
+Nuane [32m(sales):[0m 120k 1x2x3x
+[31m** Cost for 'sales 120k 1x2x3x': Cost: utime:27 stime:0 ticks:115017 **[0m
+[23:34:10] hp 881/1124  sp 284/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+c nuane
+
+You have an unusual feeling as you cast the spell.
+You start chanting.
+[23:34:12] hp 881/1124  sp 284/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[1;30mInfo: Qui recovers from link death.[0m
+[53;42mYou are done with the chant.[0m
+You stand firmly and chant 'infernalicus domus arachnid rex' [57m(Spider demon control)[0m
+You feed Nuane's spider demon's hunger with your ritual.
+[56mTimer now at 50 secs.[0m
+hp [36m881[0m/1124 () | sp [33m247[0m/774 ([31m-37[0m) | ep [1;32m419[0m/418 ()
+use ceremony
+You start concentrating on the skill.
+[23:34:16] hp 881/1124  sp 247/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+sales sold
+
+Nuane [32m(sales):[0m sold
+[31m** Cost for 'sales sold': Cost: utime:24 stime:0 ticks:115271 **[0m
+[23:34:19] hp 881/1124  sp 247/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+f danefl
+
+Danefl is a level 71 mortal of the Thrikhren race.
+He was created Thu Sep 16 20:43:31 1999 and he is 262d, 2h, 24min and 17s old.
+He has been on for 11h, 19min and 8s, idle 6s (*idle*).
+He has killed: a sow relaxing contently on the ground, 1331 exp
+               Reanimated body hosting the ancient .., 508927 exp (party of 5)
+Web page: unlucky channeller with blue aura, conjus under construction
+Plan:
+>When the past makes you laugh
+>and you can savor the magic
+>that let you survive your own war
+>You find that that fire is passion
+>and there's a door up ahead not a wall
+[23:34:21] hp 881/1124  sp 247/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+
+hp [36m918[0m/1124 ([32m+37[0m) | sp [1;33m382[0m/774 ([32m+135[0m) | ep [1;32m419[0m/418 ()
+walk through archway
+wob
+You walk up to the archway and try to pass through.
+With a [32mFLASH[0m you walk through the light.
+Your movement prevents you from doing the skill.
+There are no light sources here, but you can still see.
+Silver-walled room with massive archway ([1;37md[0m).
+[35mone bronze coin[0m and [35ma swirling purple-black vortex hovering in[0m
+[35mthe air[0m
+[23:34:27] hp 918/1124  sp 382/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[23:34:27] hp 918/1124  sp 382/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+zz
+
+You interrupt the spell.
+[56mCASTING CANCELED.[0m
+[23:34:28] hp 918/1124  sp 382/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+tell danefl relo
+
+You tell Danefl (*idle*) 'relo'
+[23:34:30] hp 918/1124  sp 382/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Chickity recovers from link death.[0m
+use ceremony
+You start concentrating on the skill.
+[23:34:32] hp 918/1124  sp 382/774  ep 419/418  xp 101397  $ 4815/987  wimpy off
+
+[53;42mYou are prepared to do the skill.[0m
+You perform the ceremony.
+hp [36m918[0m/1124 () | sp [1;33m382[0m/774 () | ep [32m418[0m/418 ([31m-1[0m)
+A coalescing of ethereal substances causes your vision to blur.
+When your eyes clear, Danefl stands before you.
+Danefl's disc floats in.
+Lazuli [35m[wanted]:[0m +3 con or str equip, not picky
+pi danefl
+Danefl is already in some other party.
+[23:34:39] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+pi danefl
+
+Danefl is already in some other party.
+[23:34:40] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Darkwell goes link dead.[0m
+'plv
+You boom 'plv.'
+[23:34:41] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+pi danefl
+
+You offer Danefl a membership in your party.
+[23:34:42] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+Danefl is now acting member of the party.
+Danefl steps to the left side of 1st row and starts following the leader.
+pss
+,-----------------------------------------------------------------------------.
+| 1.1   Danefl       [32m fol  405( 448)[31m  525(1420)[0m 188(207) |  71 |            0 |
+| 1.2   Nuane        [32m ldr  918(1124)[53m  382( 774)[0m 418(418) |  90 |      1906102 |
+`-----------------------------------------------------------------------------'
+[23:34:43] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+p shake
+
+Danefl quits following the leader.
+[23:34:44] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+walk through archway
+wob
+
+You walk up to the archway and try to pass through.
+With a [33mFLASH[0m you walk through the light.
+There are no light sources here, but you can still see.
+Castle foyer (nearly stripped) ().
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+[23:34:45] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You have an unusual feeling as you cast the spell.
+You start chanting.
+[23:34:45] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+zz
+
+[36mWord of blasting[0m: [57m1[0m
+You interrupt the spell.
+[56mCASTING CANCELED.[0m
+[23:34:46] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+use ceremony
+
+You start concentrating on the skill.
+[23:34:47] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+fesat
+
+But you don't even have one ?!?!?.
+[23:34:48] hp 918/1124  sp 382/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+hp [36m954[0m/1124 ([32m+36[0m) | sp [1;33m526[0m/774 ([32m+144[0m) | ep [32m418[0m/418 ()
+atlas find danefl
+Danefl lives in Kallio, Helsinki.
+[23:34:51] hp 954/1124  sp 526/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[53;42mYou are prepared to do the skill.[0m
+You perform the ceremony.
+hp [36m954[0m/1124 () | sp [1;33m526[0m/774 () | ep [36m417[0m/418 ([31m-1[0m)
+dam_off
+[1;30mInfo: Erygon goes link dead.[0m
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+You remove Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+Screams of the imprisoned souls echoes in your mind. Your vision turns red.
+As you place the amulet around your neck a deathly [1;34mcold[0m chill overcomes you.
+You shiver from the cold.
+You wear the liquid metal shirt...
+You self confidince increases with this shirt.
+You wear Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+You wield kraftigar, trident of darkness labeled as (Nuane) <red glow> in your right hand.
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+You wield a battleaxe of divinities labeled as (Nuane) <red glow> in your left hand.
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'black gloves'.
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'solamnian necklace'.
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'ring of the depths'.
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'ring of the depths'.
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+[23:34:53] hp 954/1124  sp 526/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+n
+cast 'tiger claw' 
+
+You open heavy bronze-studded oak doors.
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+Your keen senses note a disturbance seconds before the ambush!
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne dodges.
+Xirtonne dodges.
+Xirtonne misses.
+Xirtonne misses.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne snaps you.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne kicks you.
+hp [1;33m813[0m/1142 ([31m-141[0m) | sp [1;33m526[0m/765 () | ep [36m417[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:13 stime:0 ticks:122976 **[0m
+[23:34:54] hp 813/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You have an unusual feeling as you cast the spell.
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!' [0m
+[23:34:54] hp 813/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You are casting 'tiger claw'.
+[23:34:54] hp 813/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:34:54] hp 813/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr  813(1142)[53m  526( 765)[0m 417(420) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  412( 448)[53m  669(1420)[0m 193(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:34:54] hp 813/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne dodges.
+Xirtonne misses.
+Xirtonne perforates you.
+Xirtonne scrapes you.
+You dodge.
+hp [1;33m658[0m/1142 ([31m-155[0m) | sp [1;33m526[0m/765 () | ep [36m417[0m/420 ()
+You are casting 'tiger claw'.
+[23:34:56] hp 658/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:34:56] hp 658/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  658(1142)  526( 765)[0m 417(420) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  412( 448)[53m  669(1420)[0m 193(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:34:56] hp 658/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+[36mTiger claw[0m: [57m1[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne parries.
+ ...AND counterattacks.
+Xirtonne thrusts you.
+Xirtonne misses.
+Xirtonne misses.
+Xirtonne kicks you.
+hp [1;33m486[0m/1142 ([31m-172[0m) | sp [1;33m526[0m/765 () | ep [36m417[0m/420 ()
+You are casting 'tiger claw'.
+[23:34:59] hp 486/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:34:59] hp 486/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  486(1142)  526( 765)[0m 417(420) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  412( 448)[53m  669(1420)[0m 193(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:34:59] hp 486/1142  sp 526/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+[56mTICK IN 5 SECONDS.[0m
+
+[53;42mYou are done with the chant.[0m
+[36mYou shred [0mair with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow leap)[0m
+party report Claw in.
+[53mAs Xirtonne drops to his knees you leap in for the kill![0m
+hp [1;33m486[0m/1142 () | sp [1;33m426[0m/765 ([31m-100[0m) | ep [36m417[0m/420 ()
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou cavitate[0m Xirtonne.
+You miss.
+Xirtonne thrusts you.
+You dodge.
+Xirtonne misses.
+Xirtonne kicks you.
+Your armours absorb some of the damage.
+hp [33m362[0m/1142 ([31m-124[0m) | sp [1;33m426[0m/765 () | ep [36m417[0m/420 ()
+[1;37mNuane [1;30m(report):[1;37m Claw in.[0m
+[23:35:02] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You are not doing anything at the moment.
+[23:35:02] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:35:02] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [31m ldr  362(1142)[53m  426( 765)[0m 417(420) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  412( 448)[53m  669(1420)[0m 193(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:35:02] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+s
+
+You open heavy bronze-studded oak doors.
+Castle foyer (nearly stripped) ([1;37mn[0m).
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+You close heavy bronze-studded oak doors.
+[23:35:03] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+cast shattered feast at amount 100
+
+You start chanting.
+[23:35:03] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You remove kraftigar, trident of darkness labeled as (Nuane) <red glow>.
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You remove a battleaxe of divinities labeled as (Nuane) <red glow>.
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You feel as though a pressure has been lifted from your soul.
+You remove Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You wield Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow> in your left hand.
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:35:04] hp 362/1142  sp 426/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+Spider Queen smiles upon you and helps you control the demon.
+[56mTimer now at 73 secs.[0m
+p say kuolee iha just
+[1;37mNuane [0;52m(party):[1;37m kuolee iha just[0m
+[23:35:10] hp 362/1124  sp 425/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+hp [33m362[0m/1124 () | sp [1;33m425[0m/774 ([31m-1[0m) | ep [36m417[0m/418 ()
+[36mShattered feast[0m: [57m6[0m
+pss
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [31m ldr  362(1124)[53m  425( 774)[0m 417(418) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  404( 448)[53m  661(1420)[0m 189(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:35:12] hp 362/1124  sp 425/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m4[0m
+hp [33m384[0m/1124 ([32m+22[0m) | sp [1;33m505[0m/774 ([32m+80[0m) | ep [32m418[0m/418 ([32m+1[0m)
+[36mShattered feast[0m: [57m3[0m
+[1;30mInfo: Krazaak recovers from link death.[0m
+[36mShattered feast[0m: [57m2[0m
+[36mShattered feast[0m: [57m1 [0m(haste)
+p say hakannu t‰t‰ aika saatanan kauan
+[1;37mNuane [0;52m(party):[1;37m hakannu t‰t‰ aika saatanan kauan[0m
+[23:35:21] hp 384/1124  sp 505/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m697[0m/1124 ([32m+313[0m) | sp [1;33m435[0m/774 ([31m-70[0m) | ep [32m418[0m/418 ()
+Kyynel [35m[wanted]:[0m something for templar
+cast shattered feast at amount 100
+You start chanting.
+[23:35:23] hp 697/1124  sp 435/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+The archway hums quietly.
+[36mShattered feast[0m: [57m-1 [0m(greater haste)
+p say soolona :)
+[1;37mNuane [0;52m(party):[1;37m soolona :)[0m
+[23:35:27] hp 697/1124  sp 435/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m5[0m
+[36mShattered feast[0m: [57m4 [0m(haste)
+[1;37mDanefl [0;52m[party]:[1;37m onko pahaki :)[0m
+[36mShattered feast[0m: [57m2[0m
+p say on t‰‰ soolona iha mukava haaste
+[1;37mNuane [0;52m(party):[1;37m on t‰‰ soolona iha mukava haaste[0m
+[23:35:38] hp 697/1124  sp 435/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+Kyynel [35m[wanted]:[0m or conjumage
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [36m954[0m/1124 ([32m+257[0m) | sp [1;33m365[0m/774 ([31m-70[0m) | ep [32m418[0m/418 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:35:43] hp 954/1124  sp 365/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m1 [0m(haste)
+hp [36m982[0m/1124 ([32m+28[0m) | sp [1;33m483[0m/774 ([32m+118[0m) | ep [32m418[0m/418 ()
+[36mShattered feast[0m: [57m5[0m
+dam_off
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You remove Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+Screams of the imprisoned souls echoes in your mind. Your vision turns red.
+As you place the amulet around your neck a deathly [1;34mcold[0m chill overcomes you.
+You shiver from the cold.
+You wear the liquid metal shirt...
+You are the coolest player on BatMUD. In this shirt at least.
+You wear Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You wield kraftigar, trident of darkness labeled as (Nuane) <red glow> in your right hand.
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You wield a battleaxe of divinities labeled as (Nuane) <red glow> in your left hand.
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'black gloves'.
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'solamnian necklace'.
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'ring of the depths'.
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'ring of the depths'.
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+[23:35:50] hp 982/1124  sp 483/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+n
+cast 'tiger claw' 
+
+You open heavy bronze-studded oak doors.
+Your movement prevents you from casting the spell.
+[56mCASTING BROKED.[0m
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+Your knowledge about Xirtonne's tactics allows you to evade the ambush.
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+You miss.
+You miss.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne thrusts you.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne thrusts you.
+#$%&&&! Xirtonne tumbles your dodge.
+Xirtonne snaps you.
+Xirtonne misses.
+hp [1;33m709[0m/1142 ([31m-273[0m) | sp [1;33m483[0m/765 () | ep [36m418[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:12 stime:1 ticks:127796 **[0m
+[23:35:52] hp 709/1142  sp 483/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'  [0m
+[23:35:52] hp 709/1142  sp 483/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You are casting 'tiger claw'.
+[23:35:52] hp 709/1142  sp 483/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:35:52] hp 709/1142  sp 483/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  709(1142)  483( 765)[0m 418(420) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  410( 448)[53m  924(1420)[0m 196(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:35:52] hp 709/1142  sp 483/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+[32mA.J. says 'Help me! He's going to kill me!'   [0m
+[36mTiger claw[0m: [57m2[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Xirtonne parries.
+ ...AND counterattacks.
+Xirtonne thrusts you.
+Xirtonne misses.
+Xirtonne snaps you.
+Xirtonne kicks you.
+hp [1;33m458[0m/1142 ([31m-251[0m) | sp [1;33m483[0m/765 () | ep [36m418[0m/420 ()
+You are casting 'tiger claw'.
+[23:35:56] hp 458/1142  sp 483/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:35:56] hp 458/1142  sp 483/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  458(1142)  483( 765)[0m 418(420) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  410( 448)[53m  924(1420)[0m 196(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:35:56] hp 458/1142  sp 483/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+A.J. cringes in terror.
+[53;42mYou are done with the chant.[0m
+[36mYou shred [0mair with your tiger claws and scream 'Haii!' [57m(Tiger claw/Shadow leap)[0m
+party report Claw in.
+[53mAs Xirtonne drops to his knees you leap in for the kill![0m
+hp [1;33m458[0m/1142 () | sp [1;33m362[0m/765 ([31m-121[0m) | ep [36m418[0m/420 ()
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou cavitate[0m Xirtonne.
+You dodge.
+[1;33mYou become somewhat confused, losing your edge.[0m
+[56mI'm stunned. (lvl 2)[0m
+Xirtonne thrusts you.
+Xirtonne snaps you.
+Xirtonne socks you.
+You are about to [31mDIE[0m!
+hp [33m219[0m/1142 ([31m-239[0m) | sp [1;33m362[0m/765 () | ep [36m418[0m/420 ()
+[1;37mNuane [1;30m(report):[1;37m Claw in.[0m
+[23:35:59] hp 219/1142  sp 362/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You try to act but just blank out, losing focus.
+[23:35:59] hp 219/1142  sp 362/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:35:59] hp 219/1142  sp 362/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane       [57m stun  219(1142)[53m  362( 765)[0m 418(420) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  410( 448)[53m  924(1420)[0m 196(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:35:59] hp 219/1142  sp 362/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+cast 'tiger claw' 
+
+You try to concentrate but your head spins like a whirligig!
+[23:36:00] hp 219/1142  sp 362/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+s
+
+You open heavy bronze-studded oak doors.
+Castle foyer (nearly stripped) ([1;37mn[0m).
+[35mfour granite shards of the golem Stone Fist[0m,
+[35mfive steel shards of the golem Steel Claw[0m and
+[35ma rug[0m
+You close heavy bronze-studded oak doors.
+[23:36:01] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+party report No longer stunned.
+You are no longer stunned.
+hp [33m219[0m/1142 () | sp [1;33m362[0m/765 () | ep [36m417[0m/420 ([31m-1[0m)
+[1;30mInfo: Puhuri goes link dead.[0m
+[1;37mNuane [1;30m(report):[1;37m No longer stunned.[0m
+[23:36:02] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+p say viel‰ pist‰‰ v‰h‰n vastaan
+
+[1;37mNuane [0;52m(party):[1;37m viel‰ pist‰‰ v‰h‰n vastaan[0m
+[23:36:05] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+cast shattered feast at amount 100
+
+You start chanting.
+[23:36:05] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+regen_off
+
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You remove kraftigar, trident of darkness labeled as (Nuane) <red glow>.
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You remove a battleaxe of divinities labeled as (Nuane) <red glow>.
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You feel as though a pressure has been lifted from your soul.
+You remove Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+The hardened flesh of the hood molds to your face perfectly.
+As you wear the collar, you feel it slowly tightening around your neck...
+You feel the chill of death tingle up and down your spine.
+You shiver from the cold.
+You wear Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+You wield Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow> in your left hand.
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'red glove'.
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'silk collar'.
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'black ring'.
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'black ring'.
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 1.
+Keyword 'all' preceeds all others.
+[23:36:06] hp 219/1142  sp 362/765  ep 417/420  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+[31mDemon of justice shouts 'My HAMSTER fights better than you do, Drizzin!'[0m
+[1;30mInfo: Drizzin dies.[0m
+p say deep nd kyl
+[1;37mNuane [0;52m(party):[1;37m deep nd kyl[0m
+[23:36:10] hp 219/1124  sp 362/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m7 [0m(haste)
+[36mShattered feast[0m: [57m6 [0m(haste)
+p say last
+Displaying last 20 partys to you.
+Argoroth [52m[party]:[0m (O) hihhii (O)
+Argoroth [52m[party]:[0m (O) mita voitin? (O)
+Argoroth [52m[party]:[0m (O) taa on se joku +3 dodge tms? (O)
+Nuane [52m(party):[0m joo joku tommone
+Argoroth [52m[party]:[0m (O) paljos siita kehtaa pyytaa? 10k? (O)
+Nuane [52m(party):[0m shrug :D
+Argoroth [52m[party]:[0m (O) jaa meneeki poolii jos sil on mitaa arvoo :) (O)
+Argoroth [52m[party]:[0m (O) tarviks viel? (O)
+Nuane [52m(party):[0m mut jatkanpa soolotwiddlee t‰st :)
+Argoroth [52m[party]:[0m (O) jees (O)
+Nuane [52m(party):[0m danke avust
+[52m[party]:[0m Argoroth is going home.
+Argoroth [52m[party]:[0m (O) eip mitaa (O)
+Nuane [52m(party):[0m kuolee iha just
+Nuane [52m(party):[0m hakannu t‰t‰ aika saatanan kauan
+Nuane [52m(party):[0m soolona :)
+Danefl [52m[party]:[0m onko pahaki :)
+Nuane [52m(party):[0m on t‰‰ soolona iha mukava haaste
+Nuane [52m(party):[0m viel‰ pist‰‰ v‰h‰n vastaan
+Nuane [52m(party):[0m deep nd kyl
+[23:36:15] hp 219/1124  sp 362/774  ep 417/418  xp 101397  $ 4815/987  wimpy off
+
+hp [33m240[0m/1124 ([32m+21[0m) | sp [1;33m443[0m/774 ([32m+81[0m) | ep [32m418[0m/418 ([32m+1[0m)
+[36mShattered feast[0m: [57m3[0m
+[56mTICK IN 5 SECONDS.[0m
+[36mShattered feast[0m: [57m2[0m
+[1;30mInfo: Viko recovers from link death.[0m
+Blitzer [1;30m<bat>:[0m Durand tells *** and you 'I am all drunk'
+[36mShattered feast[0m: [57m1[0m
+Spider Queen smiles upon you and helps you control the demon.
+[56mTimer now at 73 secs.[0m
+Blitzer [1;30m<bat>:[0m Durand tells *** and you 'soon it will be worth it to ask for tps'
+,-----------------------------------------------------------------------.
+| Time    Channel           Program                                     |
+|-----------------------------------------------------------------------|
+| 23:40   YLE TV1           Hanneksen ilmestys                          |
+`-----------------------------------------------------------------------'
+hp [33m240[0m/1124 () | sp [1;33m434[0m/774 ([31m-9[0m) | ep [32m418[0m/418 ()
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m455[0m/1124 ([32m+215[0m) | sp [1;33m364[0m/774 ([31m-70[0m) | ep [32m418[0m/418 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:36:26] hp 455/1124  sp 364/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[1;30mInfo: Halle recovers from link death.[0m
+[36mShattered feast[0m: [57m8[0m
+[1;30m[bat]:[0m Ulath gasps in astonishment.
+[36mShattered feast[0m: [57m6 [0m(greater haste)
+[1;37mDanefl [1;30m[report]:[1;37m (Unpain down) [14:58][0m
+sales last
+Last 20 messages from sales channel:
+[22:53]:Serra [32m[sales]:[0m 300k anip 315k
+[22:54]:Serra [32m[sales]:[0m fine mb 305k
+[22:54]:Garou [32m[sales]:[0m 305
+[22:54]:Serra [32m[sales]:[0m sold
+[22:54]:Venomwwa [32m[sales]:[0m 308
+[22:54]:Venomwwa [32m[sales]:[0m shit
+[22:54]:Venomwwa [32m[sales]:[0m stupid typoes
+[22:58]:Luciferion [32m[sales]:[0m merch services (repairs, id, labels, surgery (80), etc)
+[23:13]:Chanrot [32m(sales):[0m w: iron palm & martial arts eq
+[23:21]:Nathanielw [32m[sales]:[0m gleaming silver blade mb 200k
+[23:22]:Nathanielw [32m[sales]:[0m +dex +songcasting compares about equal to spider sabre
+[23:22]:Nathanielw [32m[sales]:[0m ssblade
+[23:28]:Saldas [32m[sales]:[0m Merchant services available
+[23:33]:Nuane [32m(sales):[0m long sky-blue scarf +spr +flow of magic vlw(?) with your name mb 100k
+[23:33]:Danefl [32m[sales]:[0m 100k
+[23:33]:Nuane [32m(sales):[0m 100k 1x2x3x
+[23:34]:Kiomet [32m[sales]:[0m 105k
+[23:34]:Danefl [32m[sales]:[0m 120k
+[23:34]:Nuane [32m(sales):[0m 120k 1x2x3x
+[23:34]:Nuane [32m(sales):[0m sold
+[23:36:38] hp 455/1124  sp 364/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m2[0m
+[1;30m[bat]:[0m Ssmud volunteers to be the first one into battle.
+[36mShattered feast[0m: [57m1[0m
+Ulath [1;30m[bat]:[0m Howabout begging for reincexp reimburse!
+hp [1;33m484[0m/1124 ([32m+29[0m) | sp [1;33m479[0m/774 ([32m+115[0m) | ep [32m418[0m/418 ()
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [1;33m774[0m/1124 ([32m+290[0m) | sp [1;33m409[0m/774 ([31m-70[0m) | ep [32m418[0m/418 ()
+cast shattered feast at amount 100
+You start chanting.
+[23:36:47] hp 774/1124  sp 409/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+pss
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [53m ldr  774(1124)  409( 774)[0m 418(418) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  271( 295)[0m 1199(1420) 207(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:36:48] hp 774/1124  sp 409/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m8[0m
+p kills
+,-----------------------------------------------------------------------------.
+|    4384: an ugly, spiny beast tromps through                                |
+|   14020: heavily armoured warrior in black                                  |
+|    2644: heavily armoured warrior in black                                  |
+|    2519: heavily armoured warrior in white                                  |
+|    9147: heavily armoured warrior in white                                  |
+|   53524: heavily armoured ent knight                                        |
+|   73610: huge, bulbous, geletinous mass with three large eyes               |
+|    2823: an ugly, spiny beast tromps through                                |
+|    1694: an ugly, spiny beast tromps through                                |
+|     591: an ugly, spiny beast tromps through                                |
+|    3884: an ugly, spiny beast tromps through                                |
+|    2831: an ugly, spiny beast tromps through                                |
+|     383: an ugly, spiny beast tromps through                                |
+|     868: an ugly, spiny beast tromps through                                |
+|    1026: an ugly, spiny beast tromps through                                |
+|     314: an ugly, spiny beast tromps through                                |
+|   36246: Steel Claw the steel golem                                         |
+|   39147: Stone Fist the granite golem                                       |
+|   75691: Tronje McCaughlin the Human for hire < raid >                      |
+|   83984: Kestro Volaris the Human in da house < raid >                      |
+`-----------------------------------------------------------------------------'
+This party has killed 242 monsters (avg exp/mon: 8022).
+[23:36:51] hp 774/1124  sp 409/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[36mShattered feast[0m: [57m7[0m
+Dralith [1;30m(bat):[0m You tell Durand and Blitzer 'sure.'
+Halle [35m[wanted]:[0m def+conjumage for few kills
+[36mShattered feast[0m: [57m5[0m
+[36mShattered feast[0m: [57m4 [0m(haste)
+[36mShattered feast[0m: [57m1[0m
+p say josko nyt kuolis
+[1;37mNuane [0;52m(party):[1;37m josko nyt kuolis[0m
+[23:37:06] hp 774/1124  sp 409/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+[53;42mYou are done with the chant.[0m
+You kneel and whisper 'That I have set free, return to me' [57m(Shattered feast)[0m
+You feel you have used up a tiny amount of destructive energy.
+Your prayer to the powers of destruction are answered.
+The recalled destructive energies revitalize your damaged body.
+hp [36m1057[0m/1124 ([32m+283[0m) | sp [1;33m339[0m/774 ([31m-70[0m) | ep [32m418[0m/418 ()
+dam_off
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You remove Shield of a Thousand Reflections labeled as sprshield (Nuane) <orange glow>.
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+The fleshy mask makes an audible *pop* sound as it reluctantly releases from your face.
+You remove the collar, and the tightness around your neck is gone..
+You remove Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>, a black hood labeled as (Nuane), a collar made of black silk labeled as (Nuane) <red glow>, The Amulet of the Snow Dog labeled as (Nuane) <yellow glow>, A heavy black metal ring labeled as (Nuane), A heavy black metal ring labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), Red Glove of the Healer labeled as (Nuane), red robe with mystic symbol at back labeled as (Nuane), Boots of the Goddess labeled as (Nuane) <yellow glow>, the Bracelets of Darkness labeled as (Nuane) <yellow glow>, Glimmering Belt of the Elements labeled as (Nuane) <orange glow>, Tattered Silver Shimmering Cloak labeled as (Nuane) <orange glow> and an ancient staff of the necromancer labeled as (Nuane) <yellow glow>.
+Screams of the imprisoned souls echoes in your mind. Your vision turns red.
+As you place the amulet around your neck a deathly [1;34mcold[0m chill overcomes you.
+You shiver from the cold.
+You wear the liquid metal shirt...
+Ah the cool metal liquid feels GOOOD against your skin.
+You wear Sturdy black leather boot inlaid with rubies labeled as parryboot (Nuane) <orange glow>, a purple moccasin labeled as inframocca (Nuane) <yellow glow>, Crown of Sorrows..  The Blood Crown labeled as (Nuane) <yellow glow>, black silk belt with tiger head ornament labeled as (Nuane), Ring of the Depths [Made by: Proteus] labeled as 4dam1str (Nuane), Daemon Fire Ring [Made by: Proteus] labeled as 4dam1str (Nuane), a death amulet labeled as (Nuane) <orange glow>, the dark bracelets of azakh-khanan labeled as (Nuane) <orange glow>, black scaly gloves...it has a black aura around it labeled as (Nuane), a striking liquid metal shirt (fashion) labeled as (Nuane) <orange glow>, cloak of chilling death labeled as (Nuane) <yellow glow>, the Solamnian Necklace of Kingfisher, Rose and Crown labeled as (Nuane) <red glow>, an arm protector called Damien (Nuane) and an arm protector called Damien (Nuane).
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You wield kraftigar, trident of darkness labeled as (Nuane) <red glow> in your right hand.
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+You wield a battleaxe of divinities labeled as (Nuane) <red glow> in your left hand.
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'gzappi' is now aliased to 'black gloves'.
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'clairi' is now aliased to 'solamnian necklace'.
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'tinringi' is now aliased to 'ring of the depths'.
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+'demonicringi' is now aliased to 'ring of the depths'.
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+
+Listening to: all At Level: 2.
+Keyword 'all' preceeds all others.
+[23:37:08] hp 1057/1124  sp 339/774  ep 418/418  xp 101397  $ 4815/987  wimpy off
+n
+cast 'tiger claw' 
+
+You open heavy bronze-studded oak doors.
+Large antech[53mamber[0m ([1;37ms[0m).
+[35mbronze dish of green salve[0m, [35mCustom wand named channelbolt[0m
+[35m(2/100)[0m, [1;32ma flask containing burning bright green liquid[0m,
+[35mtwo waxy green leaves[0m, [1;34ma flask[0m
+[1;34mcontaining cloudy bright blue liquid[0m, [36ma steel field plate[0m,
+[32mspiked glaive with long oak haft[31m <red glow>[0m, [35ma pile[0m
+[35mof mowgles coins[0m, [35ma small pile of copper coins[0m, [1;34ma flask[0m
+[1;34mcontaining popping bright blue liquid[0m, [36man iron scale mail[0m,
+[32mround wooden shield with iron rim[31m <red glow>[0m, [32msharp[0m
+[32msteel bastard sword[31m <red glow>[0m and [35ma big pile of zinc[0m
+[35mcoins[0m
+[1;36mpanic-stricken catfolk cringing in the corner[0m
+[31mXirtonne the artificer stands ready[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou shred [0mXirtonne.
+Xirtonne misses.
+Xirtonne thrusts you.
+You dodge.
+Xirtonne kicks you.
+hp [36m884[0m/1142 ([31m-173[0m) | sp [1;33m339[0m/765 () | ep [36m418[0m/420 ()
+You close heavy bronze-studded oak doors.
+[31m** Cost for 'n': Cost: utime:14 stime:1 ticks:128082 **[0m
+[23:37:09] hp 884/1142  sp 339/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You start chanting.
+[32mA.J. says 'No! Please! Don't shoot!'    [0m
+[23:37:09] hp 884/1142  sp 339/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+You are casting 'tiger claw'.
+[23:37:09] hp 884/1142  sp 339/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+Xirtonne[57m is near death. [0m(0-10% hps)
+[23:37:09] hp 884/1142  sp 339/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr  884(1142)[53m  339( 765)[0m 418(420) |  90 |      1906102 |
+| ?.?   Danefl       [32m mbr  277( 295)[0m 1328(1420) 207(207) |  71 |            0 |
+`-----------------------------------------------------------------------------'
+[23:37:09] hp 884/1142  sp 339/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+titan stomp
+
+You feel too tired to do that yet.
+[23:37:10] hp 884/1142  sp 339/765  ep 418/420  xp 101397  $ 4815/987  wimpy off
+
+[36mTiger claw[0m: [57m2[0m
+[36mTiger claw[0m: [57m1 [0m(haste)
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+[36mYou cavitate[0m Xirtonne.
+You tumble Xirtonne's dodge.
+[33mYou incise [0mXirtonne.
+Because of the low amount of unidle players you receive some additional
+experience for your kill.
+Xirtonne staggers back, mortally wounded. 'You fools!' he gasps through bloody
+lips. 'You will be next, don't you understand? Now he will come for...you...'
+He expires before you can ask him anything.
+You score a KILLING BLOW on Xirtonne!
+You feel you have released HUGE(tm) quantities of destructive energy.
+Xirtonne moves on to happier hunting grounds.
+save
+ark
+Xirtonne is DEAD, R.I.P.
+hp [36m911[0m/1142 ([32m+27[0m) | sp [1;33m361[0m/765 ([32m+22[0m) | ep [32m420[0m/420 ([32m+2[0m)
+[53;42mYou are done with the chant.[0m
+Cast tiger claw at what?
+hp [36m911[0m/1142 () | sp [1;33m337[0m/765 ([31m-24[0m) | ep [32m420[0m/420 ()
+You are not doing anything at the moment.
+[23:37:11] hp 911/1142  sp 337/765  ep 420/420  xp 191441  $ 4815/987  wimpy off
+[56mYou gained 90044 xp.[0m
+
+You are not in combat right now.
+[23:37:11] hp 911/1142  sp 337/765  ep 420/420  xp 191441  $ 4815/987  wimpy off
+
+,-----------------------------------------------------------------------------.
+| 1.2   Nuane        [32m ldr  911(1142)[53m  337( 765)[0m 420(420) |  90 |      2009601 |
+| ?.?   Danefl       [32m mbr  277( 295)[0m 1328(1420) 207(207) |  71 |        27144 |
+`-----------------------------------------------------------------------------'
+[23:37:11] hp 911/1142  sp 337/765  ep 420/420  xp 191441  $ 4815/987  wimpy off
+
+SAVED.
+[23:37:11] hp 911/1142  sp 337/765  ep 420/420  xp 191441  $ 4815/987  wimpy off
+
+[23:37:11] hp 911/1142  sp 337/765  ep 420/420  xp 191441  $ 4815/987  wimpy off
+
+You hold your Necromatic Staff high above your head and chant 'arkemile'.
+The corpse writhes and twists; then suddenly it disintegrates into dust.
+You feel life force flow into your body.
+[23:37:11] hp 911/1142  sp 337/765  ep 420/420  xp 191441  $ 4815/987  wimpy off
+
+You take 4 [1;35mplatinum coin[0ms and one [1;35mmithril coin[0m.
+[31m** Cost for '@get mithril,batium,anipium,platinum,gold,all box,all chest,all safe,all [0m[53mscroll[31m,all gem,all emerald disc': Cost: utime:9 stime:0 ticks:104778 **[0m
+[23:37:11] hp 911/1142  sp 337/765  ep 420/420  xp 191441  $ 4815/987  wimpy off
+
+[1;37mDanefl [0;52m[party]:[1;37m aina sopii toivoa :)[0m
+ga
+You take a big pile of zinc coins, 2 waxy green leaves, a small pile of copper
+ coins, Custom wand named channelbolt (2/100), a flask containing burning
+ bright green liquid, small brass key, bronze dish of green salve, a steel
+ field plate, sharp steel bastard sword <red glow>, a flask containing popping
+ bright blue liquid, spiked glaive with long oak haft <red glow>, iron ring
+ with onyx and pearl, a flask containing cloudy bright blue liquid, round
+ wooden shield with iron rim <red glow>, an interesting cyan robe, a pile of
+ mowgles coins, an iron scale mail, letter on smooth off-white paper, long
+ sky-blue scarf, a pile of bronze coins and strangely-shaped starmetal amulet
+ <red glow>.

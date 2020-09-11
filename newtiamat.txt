@@ -1,0 +1,1367 @@
+The Final Incarnation of Tiamat, the Chromatic Dragon, looms above you
+Your knowledge about Tiamat's tactics allows you to evade the ambush.
+Your knowledge about Tiamat's tactics allows you to evade the ambush.
+Baltzebub's flex shield wobbles.
+Tiamat hits Baltzebub 2 times.
+Baltzebub arrives from south.
+Samppa arrives from south.
+Kiefer arrives from south.
+Arthedain arrives from south.
+Geryon arrives from south.
+Pim arrives from south.
+Crowbar arrives from south.
+Zartan arrives from south.
+cast 'psychic crush' tiamat
+You start chanting.
+Psychic crush: ####
+Baltzebub mutters darkly 'Hp: 1296 (1483) Sp: 523 (602) Ep: 405 (406).'
+Kiefer starts concentrating on a new offensive spell.
+o
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1273(1280)   29(  29) 244(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1282(1578)   19(  19) 410(412) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1296(1483)  523( 602) 405(406) |  95 |       
+233932 |
+| 2.1   Zartan        fol  303( 377)  980(1234) 214(214) |  77 |       
+190191 |
+| 2.2   Continuity    ldr  306( 383)  613(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Kiefer        fol  670( 690)  627( 713) 284(284) |  82 |       
+202111 |
+| 3.1   Samppa        fol  389( 403)  568( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  381( 408)  954(1143) 205(205) |  93 |       
+239773 |
+| 3.3   Pim           fol  415( 453) 1182(1182) 244(244) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Baltzebub starts concentrating on a new offensive spell.
+Geryon starts concentrating on a new spell.
+Arthedain starts concentrating on a new offensive skill.
+Zartan starts concentrating on a new offensive spell.
+Crowbar starts concentrating on a new offensive skill.
+Samppa starts concentrating on a new spell.
+Crowbar booms 'Hp: 1282 (1578) Sp: 19 (19) Ep: 410 (412).'
+Baltzebub's flex shield wobbles.
+Baltzebub's flex shield wobbles.
+Baltzebub's flex shield wobbles.
+Tiamat hits Baltzebub 6 times.
+Psychic crush: ###
+You skillfully cast the spell with greater haste.
+Arthedain says 'Hp: 1273 (1280) Sp: 29 (29) Ep: 244 (368).'
+Baltzebub mutters darkly 'Hp: 651 (1483) Sp: 523 (602) Ep: 405 (406).'
+Samppa claps her hands and whispers 'judicandus pafzarmus'
+Samppa casts her spell at Arthedain.
+o
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1280(1280)   29(  29) 244(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1282(1578)   19(  19) 410(412) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol  651(1483)  523( 602) 405(406) |  95 |       
+233932 |
+| 2.1   Zartan        fol  303( 377)  980(1234) 214(214) |  77 |       
+190191 |
+| 2.2   Continuity    ldr  306( 383)  613(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Kiefer        fol  670( 690)  627( 713) 284(284) |  82 |       
+202111 |
+| 3.1   Samppa        fol  389( 403)  446( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  381( 408)  954(1143) 205(205) |  93 |       
+239773 |
+| 3.3   Pim           fol  415( 453) 1182(1182) 244(244) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Crowbar booms 'Hp: 1282 (1578) Sp: 19 (19) Ep: 410 (412).'
+Arthedain's flex shield wobbles.
+Arthedain's flex shield wobbles.
+Arthedain's flex shield wobbles.
+Arthedain's flex shield wobbles.
+Arthedain's flex shield wobbles.
+Tiamat hits Arthedain 5 times.
+Baltzebub hits Tiamat 2 times.
+You are done with the chant.
+You clench your fists and yell 'tora tora tora'
+You crush Tiamat's mind with your psychic attack!
+Tiamat shrugs off the attack.
+Geryon claps her hands and whispers 'judicandus zapracus'
+Geryon casts her spell at Baltzebub.
+Samppa starts concentrating on a new spell.
+Arthedain says 'Hp: 760 (1280) Sp: 29 (29) Ep: 244 (368).'
+You start chanting.
+You surreptitiously conceal your spell casting.
+o
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol  760(1280)   29(  29) 244(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1282(1578)   19(  19) 410(412) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1334(1483)  523( 602) 405(406) |  95 |       
+233932 |
+| 2.1   Zartan        fol  303( 377)  980(1234) 214(214) |  77 |       
+190191 |
+| 2.2   Continuity    ldr  270( 383)  460(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Kiefer        fol  670( 690)  627( 713) 284(284) |  82 |       
+202111 |
+| 3.1   Samppa        fol  389( 403)  446( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  381( 408)  774(1143) 205(205) |  93 |       
+239773 |
+| 3.3   Pim           fol  415( 453) 1182(1182) 244(244) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Geryon starts concentrating on a new spell.
+Crowbar booms 'Hp: 1282 (1578) Sp: 19 (19) Ep: 410 (412).'
+Crowbar hits Tiamat 1 time.
+Baltzebub's flex shield wobbles.
+Tiamat hits Baltzebub 4 times.
+Baltzebub hits Tiamat 1 time.
+% TICK (-153)
+Psychic crush: ####
+You skillfully cast the spell with greater haste.
+Arthedain delivers a crushing blow to Tiamat's windpipe!
+Arthedain turns suddenly and STRIKES again..
+Baltzebub claps her hands and whispers 'yugzhrr paf'
+Baltzebub casts harming spell on Tiamat.
+Kiefer claps her hands and whispers 'yugzhrr paf'
+Kiefer casts harming spell on Tiamat.
+Baltzebub mutters darkly 'Hp: 853 (1483) Sp: 371 (602) Ep: 405 (406).'
+Arthedain says 'Hp: 760 (1280) Sp: 29 (29) Ep: 212 (368).'
+Crowbar booms 'Hp: 1282 (1578) Sp: 19 (19) Ep: 410 (412).'
+s
+Your movement prevents you from casting the spell.
+Hrr...It is cold here (n,e,s,w).
+a huge pile of mowgles coins, a pile of copper coins, a
+pile of bronze coins, a small pile of silver coins, a pile
+of tin coins, a small pile of gold coins, three heav
+y boulders and a big pile of zinc coins
+Baltzebub arrives from north.
+Samppa arrives from north.
+Kiefer arrives from north.
+Arthedain arrives from north.
+Geryon arrives from north.
+Pim arrives from north.
+Crowbar arrives from north.
+Zartan arrives from north.
+o
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol  760(1280)   29(  29) 212(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1282(1578)   19(  19) 410(412) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol  853(1483)  371( 602) 405(406) |  95 |       
+233932 |
+| 2.1   Zartan        fol  303( 377)  980(1234) 214(214) |  77 |       
+190191 |
+| 2.2   Continuity    ldr  270( 383)  460(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Kiefer        fol  670( 690)  448( 713) 284(284) |  82 |       
+202111 |
+| 3.1   Samppa        fol  389( 403)  446( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  381( 408)  774(1143) 205(205) |  93 |       
+239773 |
+| 3.3   Pim           fol  415( 453) 1182(1182) 244(244) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Arthedain starts concentrating on a new offensive skill.
+Baltzebub mutters darkly 'Hp: 853 (1483) Sp: 371 (602) Ep: 405 (406).'
+Ulver [sales]: w: one fucking barb ring cant be that hard to find
+Samppa starts concentrating on a new spell.
+Baltzebub starts concentrating on a new skill.
+Baltzebub mutters darkly 'ceremony.'
+Arthedain spins around furiously nearly dropping her weapon.
+Samppa claps her hands and whispers 'judicandus pafzarmus'
+Samppa casts her spell at Crowbar.
+Baltzebub mutters darkly 'Hp: 890 (1483) Sp: 444 (602) Ep: 406 (406).'
+Geryon starts concentrating on a new spell.
+o
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol  804(1280)   29(  29) 222(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1578(1578)   19(  19) 410(412) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol  890(1483)  444( 602) 406(406) |  95 |       
+233932 |
+| 2.1   Zartan        fol  305( 377) 1129(1234) 214(214) |  77 |       
+190191 |
+| 2.2   Continuity    ldr  270( 383)  460(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Kiefer        fol  690( 690)  558( 713) 284(284) |  82 |       
+202111 |
+| 3.1   Samppa        fol  389( 403)  324( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  392( 408)  932(1143) 205(205) |  93 |       
+239773 |
+| 3.3   Pim           fol  415( 453) 1182(1182) 244(244) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Samppa starts concentrating on a new spell.
+You feel your luck changing.
+Samppa claps her hands and whispers 'judicandus pafzarmus'
+Samppa casts her spell at Arthedain.
+o
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1203(1280)   29(  29) 222(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1578(1578)   19(  19) 412(412) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol  890(1483)  444( 602) 406(406) |  95 |       
+233932 |
+| 2.1   Zartan        fol  305( 377) 1129(1234) 214(214) |  77 |       
+190191 |
+| 2.2   Continuity    ldr  270( 383)  460(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Kiefer        fol  690( 690)  558( 713) 284(284) |  82 |       
+202111 |
+| 3.1   Samppa        fol  389( 403)  202( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  392( 408)  932(1143) 205(205) |  93 |       
+239773 |
+| 3.3   Pim           fol  415( 453) 1182(1182) 244(244) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+You suffer from cold.
+Your fur absorbs some of the damage.
+Baltzebub mutters darkly 'Hp: 873 (1483) Sp: 444 (602) Ep: 406 (406).'
+o
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1196(1280)   29(  29) 222(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1574(1578)   19(  19) 412(412) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol  873(1483)  444( 602) 406(406) |  95 |       
+233932 |
+| 2.1   Zartan        fol  287( 373) 1129(1234) 214(214) |  77 |       
+190191 |
+| 2.2   Continuity    ldr  259( 383)  460(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Kiefer        fol  680( 690)  558( 713) 284(284) |  82 |       
+202111 |
+| 3.1   Samppa        fol  380( 403)  202( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  391( 408)  932(1143) 205(205) |  93 |       
+239773 |
+| 3.3   Pim           fol  400( 448) 1182(1182) 244(244) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Mtn [sales]: heh
+Samppa starts concentrating on a new spell.
+Geryon claps her hands and whispers 'judicandus pafzarmus'
+Geryon casts her spell at Baltzebub.
+o
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1196(1280)   29(  29) 222(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1574(1578)   19(  19) 412(412) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1328(1483)  444( 602) 406(406) |  95 |       
+233932 |
+| 2.1   Zartan        fol  287( 373) 1129(1234) 214(214) |  77 |       
+190191 |
+| 2.2   Continuity    ldr  259( 383)  460(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Kiefer        fol  680( 690)  558( 713) 284(284) |  82 |       
+202111 |
+| 3.1   Samppa        fol  380( 403)  202( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  391( 408)  820(1143) 205(205) |  93 |       
+239773 |
+| 3.3   Pim           fol  400( 448) 1182(1182) 244(244) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+% TICK (149)
+Baltzebub coughs up blood and howls soullessly to satisfy Draen-Dalar.
+Samppa claps her hands and whispers 'judicandus ignius'
+Samppa casts her spell at Arthedain.
+Baltzebub mutters darkly 'Hp: 1328 (1483) Sp: 444 (602) Ep: 405 (406).'
+Crowbar [sales]: from raven gates, n,e,n,n,e and kill all etc :)
+Geryon starts concentrating on a new spell.
+Geryon starts concentrating on a new spell.
+n
+Hrr...It is cold here (n,e,s,w).
+a huge pile of mowgles coins, a pile of copper coins and
+nine heavy boulders
+The Final Incarnation of Tiamat, the Chromatic Dragon, looms above you
+Your knowledge about Tiamat's tactics allows you to evade the ambush.
+Your knowledge about Tiamat's tactics allows you to evade the ambush.
+You try to dodge, but Tiamat is not fooled.
+Tiamat cuts you making vital organs chill and expand.
+You successfully parry Tiamat's bite.
+You try to dodge, but Tiamat is not fooled.
+Tiamat chomps you causing skin to die from toxins.
+You try to dodge, but Tiamat is not fooled.
+Tiamat chomps you causing a zap which cracks a bone.
+You try to dodge, but Tiamat is not fooled.
+Grinning wickedly Tiamat cuts you causing entrails to fly everywhere.
+*****************************************************
+Tiamat successfully parries your slash.
+You miss Tiamat.
+Your knowledge about Tiamat's tactics allows you to evade the ambush.
+Samppa arrives from south.
+Kiefer arrives from south.
+Arthedain arrives from south.
+Geryon arrives from south.
+Pim arrives from south.
+Crowbar arrives from south.
+Zartan arrives from south.
+Samppa starts concentrating on a new skill.
+(SC) Hp:813/1483 Sp:444/602 Ep:405/406
+pl
+Repeat, please!
+Hp:813/1483 eternal Sp:444/602 Ep:405/406 W:27 Exp:62023
+Kiefer starts concentrating on a new offensive spell.
+Geryon starts concentrating on a new spell.
+Samppa starts concentrating on a new spell.
+Linkless [lord_chaos]: plunge chuck
+o
+..They say that events can fool even a smart traveller..
+Hp:813/1483 eternal Sp:444/602 Ep:405/406 W:27 Exp:62023
+Zartan starts concentrating on a new offensive spell.
+Crowbar starts concentrating on a new offensive skill.
+s
+Hrr...It is cold here (n,e,s,w).
+A huge pile of mowgles coins, a pile of copper coins, a pile of bronze
+coins, a small pile of silver coins, a pile of tin coins, a small
+pile of gold coins, three heavy boulders and a big pile of zinc
+coins
+You stop following the leader.
+Hp:813/1483 eternal Sp:444/602 Ep:405/406 W:27 Exp:62023
+o
+NO CARRIER
+Hp:813/1483 n/a Sp:444/602 Ep:405/406 W:27 Exp:62023
+Kiefer is now in the 1st row.
+Pim is now in the 2nd row.
+Tiamat shouts 'I butchered Arthedain for breakfast, who's up for dinner?'
+Arthedain dies.
+o
+You feel something probing your typos.
+Hp:813/1483 n/a Sp:444/602 Ep:405/406 W:27 Exp:62023
+Ghost of Arthedain [party]: No longer stunned!
+Ghost of Arthedain [party]: < Flex shield: (off [5:40]) >
+Linkless [lord_chaos]: and plunge lode
+l
+Snow. Ice. Snow. Ice. That is all you see as you peer around.
+Freezing wind strikes against your face and almost turns your
+head into a ice sculpture. Only one place has been rumored to be
+as cold as this one; the old legends call the place by a mystical
+name: Oulu... You have trouble moving forward as your legs almost
+freeze to the surface of the ice field.
+Obvious exits are: n, e, s and w.
+A huge pile of mowgles coins
+A pile of copper coins
+A pile of bronze coins
+A small pile of silver coins
+A pile of tin coins
+A small pile of gold coins
+Three heavy boulders
+A big pile of zinc coins
+Hp:813/1483 n/a Sp:444/602 Ep:405/406 W:27 Exp:62023
+pps what?
+Gamedriver hugs you.
+Hp:813/1483 n/a Sp:444/602 Ep:405/406 W:27 Exp:62023
+Tiamat shouts 'Kiefer, I rather enjoyed killing you!'
+Kiefer dies.
+You suffer from cold.
+Your fur absorbs some of the damage.
+(SC) Hp:840/1483 Sp:517/602 Ep:406/406
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+Ghost of Kiefer [party]: Stun off!
+lord_chaos save
+Lankku SAVED.
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+rep
+Rep wasn't on.
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+Snow. Ice. Snow. Ice. That is all you see as you peer around.
+Freezing wind strikes against your face and almost turns your
+head into a ice sculpture. Only one place has been rumored to be
+as cold as this one; the old legends call the place by a mystical
+name: Oulu... You have trouble moving forward as your legs almost
+freeze to the surface of the ice field.
+Obvious exits are: n, e, s and w.
+A huge pile of mowgles coins
+A pile of copper coins
+A pile of bronze coins
+A small pile of silver coins
+A pile of tin coins
+A small pile of gold coins
+Three heavy boulders
+A big pile of zinc coins
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+Crowbar [party]: AURA DOWN
+o
+No shit?
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+Geryon left somewhere.
+Geryon arrives from north.
+Tiamat shouts 'Zartan barely scratched me before dying!'
+Info: Zartan dies.
+Zartan dies.
+Tiamat shouts 'Crowbar is a LOSER!'
+Crowbar dies.
+Tiamat shouts 'Pim dies from a single blow, well almost at least!'
+Pim dies.
+Tiamat shouts 'Samppa dies from a single blow, well almost at least!'
+Samppa dies.
+Tiamat shouts 'Continuity dies from a single blow, well almost at least!'
+Info: Continuity dies.
+Continuity dies.
+You are the new leader of the party.
+Tiamat <wanted>: Some challenge once in a century is too much to ask, is it?
+ps
+,-----------------------------------------------------------------------------.
+| Party Name: TiAMAT                       (Members:  9) | Exp Tot:   
+1902462 |
+| Created: Sat Mar 28 01:39:49 1998        ( 2h 42m 31s) | Exp/min:     
+11671 |
+|========================================================|====================|
+| Place  Name      Status      HP         SP        EP   | Lvl |   
+Experience |
+|========================================================|=====|==============|
+| 1.3   Baltzebub     ldr  840(1483)  517( 602) 406(406) |  95 |       
+233932 |
+| ?.?   Samppa       dead    1( 403)  290( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer       dead    1( 690)  379( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain    dead    1(1280)   29(  29) 222(368) |  65 |       
+185596 |
+| ?.?   Continuity   dead    1( 383)  609(1095) 267(267) |  80 |       
+221008 |
+| ?.?   Geryon        mbr  391( 408)  802(1143) 205(205) |  93 |       
+239773 |
+| ?.?   Pim          dead    1( 293)  894(1182) 244(244) |  76 |       
+214006 |
+| ?.?   Crowbar      dead    1(1328)   19(  19) 383(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+party say last
+Ghost of Kiefer [party]: whine
+Ghost of Zartan {party}: NO LONGER STUNNED !!!!!
+Ghost of Zartan {party}: unpain down!
+Ghost of Continuity [party]: Back from Stun
+Ghost of Samppa [party]: mitas kiuku
+Linkless [lord_chaos]: dont plunge molybdenum
+Ghost of Crowbar [party]: No longer stunned.
+Ghost of Continuity [party]: wtf?
+Snow. Ice. Snow. Ice. That is all you see as you peer around.
+Freezing wind strikes against your face and almost turns your
+head into a ice sculpture. Only one place has been rumored to be
+as cold as this one; the old legends call the place by a mystical
+name: Oulu... You have trouble moving forward as your legs almost
+freeze to the surface of the ice field.
+Obvious exits are: n, e, s and w.
+A huge pile of mowgles coins
+A pile of copper coins
+A pile of bronze coins
+A small pile of silver coins
+A pile of tin coins
+A small pile of gold coins
+Three heavy boulders
+A big pile of zinc coins
+Geryon the MIGHTY BATTLEHEALER the Thrikhren eats starship troopers for 
+lunch < TiAMAT >
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+s
+A place full of lightning and thunder (n,e,s,w).
+A heavy boulder and 16 gold coins
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+o
+..They say that you can wield a tree if you 'wield tree in right hand'..
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+pps asd
+You are now hunting your typo.
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+Mazzio [lord_chaos]: thanks
+Ghost of Continuity [party]: what did it do?
+Geryon tells you 'minnes saa kavelet'
+bat hello
+Baltzebub {bat}: hello
+Hp:840/1483 n/a Sp:517/602 Ep:406/406 W:27 Exp:62023
+Ghost of Continuity [party]: hihi
+Lightning hits you!
+Your fur absorbs some of the damage.
+(SC) Hp:874/1483 Sp:590/602 Ep:406/406
+bat WQEQWEH
+Baltzebub {bat}: WQEQWEH
+Hp:874/1483 n/a Sp:590/602 Ep:406/406 W:27 Exp:62023
+Ghost of Continuity [party]: Im continuity
+Geryon {party}: you stayed in
+bat wow!
+Baltzebub {bat}: wow!
+Hp:874/1483 n/a Sp:590/602 Ep:406/406 W:27 Exp:62023
+Ghost of Continuity [party]: hehe
+bat WORSHIpe
+Baltzebub {bat}: WORSHIpe
+Hp:874/1483 n/a Sp:590/602 Ep:406/406 W:27 Exp:62023
+bat WOOOORSHIP
+Baltzebub {bat}: WOOOORSHIP
+Hp:874/1483 n/a Sp:590/602 Ep:406/406 W:27 Exp:62023
+Your armours absorb some of the damage.
+Lightning hits you!
+Your fur absorbs some of the damage.
+You see nothing special.
+Hp:874/1483 n/a Sp:590/602 Ep:406/406 W:27 Exp:62023
+You sizzle with magical energy.
+(SC) Hp:914/1483 Sp:602/602 Ep:406/406
+Ghost of Continuity [party]: heh
+Geryon {party}: hmm
+part say I'm
+Baltzebub {party}: I'm
+Hp:914/1483 n/a Sp:602/602 Ep:406/406 W:27 Exp:62023
+party say stunned :)
+Baltzebub {party}: stunned :)
+Hp:914/1483 n/a Sp:602/602 Ep:406/406 W:27 Exp:62023
+Hp:914/1483 n/a Sp:602/602 Ep:406/406 W:27 Exp:62023
+lord_chaos save
+Lankku SAVED.
+Hp:914/1483 n/a Sp:602/602 Ep:406/406 W:27 Exp:62023
+Ghost of Continuity [party]: hihi
+Linkless [lord_chaos]: did ya get the plunging ok?
+Dorneryl [wanted]: summon to BC or near please
+Lightning hits you!
+Your fur absorbs some of the damage.
+(SC) Hp:894/1483 Sp:602/602 Ep:406/406
+Geryon {party}: baltzebub leaves south almost on entry
+news send general tiamat
+Starting editor (help: '~?').
+(Note: If you don't like paragraph mode, type '~m o')
+worship
+Linkless [lord_chaos]: oh btw metals stay in pool even after reboot
+(SC) Hp:933/1483 Sp:602/602 Ep:406/406
+You sent a news article.
+Hp:933/1483 n/a Sp:602/602 Ep:406/406 W:27 Exp:62023
+Ghost of Continuity [party]: accepted from doughnut
+Lightning hits you!
+Your fur absorbs some of the damage.
+(SC) Hp:921/1483 Sp:602/602 Ep:406/406
+Linkless [lord_chaos]: so you could probably plunge anything ya pick iup
+Ghost of Continuity [party]: continuity stop fucking around with my name =)
+part say continuity let's change chars :)
+Baltzebub {party}: continuity let's change chars :)
+Hp:921/1483 n/a Sp:602/602 Ep:406/406 W:27 Exp:62023
+You feel your luck changing.
+Mazzio [lord_chaos]: lodes are plunged, but somehow chunks don't go there,
+strange
+% Connection to bat closed.
+---- World bat ----
+% Connection to bat established.
+      ^                         ^            ^                         ^
+     /^\ ____ ____ _____       /^\          /^\     _______      ____ /^\
+    //|^\\ __\\ __\\_ __\     /^|\\        //|^\   /__ __ /^  ^ /__ //^|\\
+   // ||\\\\_\\\\_\\ \\      //|| \\      // ||\\ // // //// //// ////|| \\
+  //  || \\\ __\\ __\ \\    // ||  \\    //  || \\V // //// //// //// ||  \\
+//_  ||  \\\\_\\\\ \\ \\  //  ||  _\\  //_  ||  \\ V ////_////_////  ||  _\\
+/'  \ ||   \\\___\V  V  V //   || /  `\/'  \ ||   \\  V/___//___///   || /  
+`\
+`    \|| _  \\           //  _ ||/    '`    \|| _  \\           //  _ ||/    
+'
+      ||/ \  \\ (\___/) //  / \||    logo    ||/ \  \\ (\___/) //  / \||
+      |'   \  \\_\o o/_//  /   `|     by     |'   \  \\_\o o/_//  /   `|
+            \_____V-V_____/     '   Inyluki  `     \_____V-V_____/     '
+            '"`         '"`                         '"`         '"`
+               Welcome to BatMUD, Online since 14th April 1990!
+        EMail: batmud@mail.bat.org about problems concerning BatMUD
+        This machine is owned by B.A.T. Ry, a non profit organization
+  1 - enter the game                    s - game status
+  2 - visit the game                    w - who is playing at the moment
+  3 - create a new character            q - quit
+* NO DONATIONS ACCEPTED (help donate, help donate-text)
+What is your name: continuity
+Recovering character.
+,-----------------------------------------------------------------------------.
+| 2.2   Continuity   dead    1( 383)  609(1095) 267(267) |  80 |       
+221008 |
+| ?.?   Baltzebub      ld  921(1483)  602( 602) 406(406) |  95 |       
+233932 |
+|*?.?   Samppa       dead    1( 403)  290( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer        mbr  122( 690)  590( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain     mbr  189(1280)   29(  29) 342(368) |  65 |       
+185596 |
+| ?.?   Geryon        mbr  379( 408) 1143(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim          dead    1( 293)  894(1182) 244(244) |  76 |       
+214006 |
+| ?.?   Crowbar       mbr  158(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Ghost of Continuity [party]: hahahaa
+You are a ghost. You may use ghost channel or 'pray' here.
+,-----------------------------------------------------------------------------.
+| 2.2   Continuity   dead    1( 383)  609(1095) 267(267) |  80 |       
+221008 |
+| ?.?   Baltzebub      ld  921(1483)  602( 602) 406(406) |  95 |       
+233932 |
+|*?.?   Samppa       dead    1( 403)  290( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer        mbr  122( 690)  590( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain     mbr  189(1280)   29(  29) 342(368) |  65 |       
+185596 |
+| ?.?   Geryon        mbr  379( 408) 1143(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim          dead    1( 293)  894(1182) 244(244) |  76 |       
+214006 |
+| ?.?   Crowbar       mbr  158(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Samppa left somewhere.
+,-----------------------------------------------------------------------------.
+| 2.2   Continuity   dead    1( 383)  609(1095) 267(267) |  80 |       
+221008 |
+| ?.?   Baltzebub      ld  921(1483)  602( 602) 406(406) |  95 |       
+233932 |
+|*?.?   Samppa        mbr  101( 403)  390( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer        mbr  122( 690)  590( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain     mbr  189(1280)   29(  29) 342(368) |  65 |       
+185596 |
+| ?.?   Geryon        mbr  385( 408) 1143(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim          dead    1( 293)  894(1182) 244(244) |  76 |       
+214006 |
+| ?.?   Crowbar       mbr  158(1328)   19(  19) 402(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Geryon {fin}: muah HIENO speciaali
+Info: Baltzebub recovers from link death.
+Baltzebub recovers from linkdead.
+Samppa [party]: accept
+Baltzebub {party}: hmm
+You are a ghost. You may use ghost channel or 'pray' here.
+Baltzebub {party}: < Iron Will DOWN (3m 25s) [Avg: 3712715m 36s] >
+You accept raise dead from Samppa.
+Angry inmate shouts 'I fart in your general direction, Dogi!'
+Samppa [party]: raising continuity
+Baltzebub {party}: cool =)
+Crowbar [party]: Iron Will is OFF!!
+Geryon {party}: who is who now?
+Baltzebub {party}: got my name back =)
+Ghost of Continuity [party]: fucking legendary :)
+,-----------------------------------------------------------------------------.
+| 2.2   Continuity   dead    1( 383)  609(1095) 267(267) |  80 |       
+221008 |
+| ?.?   Baltzebub     mbr  957(1483)  602( 602) 406(406) |  95 |       
+233932 |
+| ?.?   Samppa        mbr  131( 403)  646( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer        mbr  140( 690)  695( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain     mbr  233(1280)   29(  29) 352(368) |  65 |       
+185596 |
+| ?.?   Geryon        mbr  371( 408) 1143(1143) 205(205) |  93 |       
+239773 |
+| ?.?   Pim          dead    1( 293)  894(1182) 244(244) |  76 |       
+214006 |
+| ?.?   Crowbar       mbr  217(1328)   19(  19) 411(411) |  76 |       
+213013 |
+|*?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Arthedain [party]: < Iron will: (off) >
+Baltzebub {party}: hehe
+Baltzebub {party}: got it logged?
+Pim left somewhere.
+You have been RAISED FROM THE DEAD !
+You enter the corpse.
+You feel a bit older.
+A long, dark passage (e,w).
+Samppa Bundy the Duck is multipurpose healer dude < TiAMAT >
+Spid Sharpe the Penguin aint no chocolate bar. < Graffiti Cemetary >
+Doughnut Taikuri the Zombie < Graffiti Cemetary >
+Continuity [party]: I thought I was tiamat there, all strange colors and
+people dying
+Ghost of Zartan {party}: baltzebub was conti and othe wise ?
+Baltzebub {party}: hope wish
+Doughnut mumbles 'mita se teki.'
+Samppa starts concentrating on a new skill.
+,-----------------------------------------------------------------------------.
+| 2.2   Continuity    ldr  101( 383)  709(1095) 267(267) |  80 |       
+221008 |
+| ?.?   Baltzebub     mbr  995(1483)  602( 602) 406(406) |  95 |       
+233932 |
+| ?.?   Samppa        mbr  131( 403)  445( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer        mbr  158( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain     mbr  233(1280)   29(  29) 352(368) |  65 |       
+185596 |
+| ?.?   Geryon        mbr  371( 408)  505(1143) 205(205) |  93 |       
+239773 |
+| ?.?   Pim           mbr  101( 222)  894( 751) 192(192) |  76 |       
+214006 |
+| ?.?   Crowbar       mbr  217(1328)   19(  19) 410(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Baltzebub {party}: - Aura of Hate DOWN (14850872m 20s) -
+% TICK (243)
+Crowbar [party]: wtf happened?
+Samppa performs a solemn ceremony to please Aveallis.
+Arthedain [party]: < Force absorption: (off [4:11]) >
+Doughnut mumbles 'jonku specialin.'
+This is a long, dark passage which runs east-west and is littered by cobwebs
+that seem to be much bigger than any that you have seen before.  There are 
+odd
+scraping sounds emanating from the passages around you.
+Obvious exits are: e and w.
+Samppa Bundy the Duck is multipurpose healer dude < TiAMAT >
+Spid Sharpe the Penguin aint no chocolate bar. < Graffiti Cemetary >
+Doughnut Taikuri the Zombie < Graffiti Cemetary >
+Doughnut asks 'vai areas vaa?'
+A coalescing of ethereal substances causes your vision to blur.
+When your eyes clear, Pim stands before you.
+Pim starts following the leader.
+Baltzebub {party}: I was conti and he was me
+Pim [party]: afk just a sec
+Crowbar [party]: FAB IS OFF!!
+Baltzebub {party}: Im still in here btw
+Continuity [fin]: mudiuran huipennus kylla :)
+,-----------------------------------------------------------------------------.
+| 2.2   Continuity    ldr  111( 383)  852(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Pim           fol  106( 225)  758( 758) 192(192) |  76 |       
+214006 |
+| ?.?   Baltzebub     mbr 1024(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| ?.?   Samppa        mbr  146( 403)  571( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer        mbr  176( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain     mbr  277(1280)   29(  29) 362(368) |  65 |       
+185596 |
+| ?.?   Geryon        mbr  366( 408)  712(1143) 205(205) |  93 |       
+239773 |
+| ?.?   Crowbar       mbr  276(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+,-----------------------------------------------------------------------------.
+| 2.2   Continuity    ldr  111( 383)  852(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Pim           fol  106( 225)  758( 758) 192(192) |  76 |       
+214006 |
+| ?.?   Baltzebub     mbr 1024(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| ?.?   Samppa        mbr  146( 403)  571( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer        mbr  176( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain     mbr  277(1280)   29(  29) 362(368) |  65 |       
+185596 |
+| ?.?   Geryon        mbr  366( 408)  712(1143) 205(205) |  93 |       
+239773 |
+| ?.?   Crowbar       mbr  276(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+% TICK (147)
+Doughnut starts reading news.
+The end of the cave complex (w).
+Arthedain Stormbringer the Cromagnon whirlwind < TiAMAT >
+Pim arrives from west.
+Baltzebub {fin}: HIENO!
+This is the end of the caves.
+At the end of the cave there is a huge laen door.
+The walls are blackened with smoke.
+Nothing can be heard behind the door.
+Huge laen door with ancient carvings (closed) leads east.
+Obvious exit is: west.
+Pim the Duck < TiAMAT >
+Arthedain Stormbringer the Cromagnon whirlwind < TiAMAT >
+Samppa arrives from west.
+Samppa opens huge laen door with ancient carvings.
+Samppa leaves east.
+Huge laen door with ancient carvings closes.
+Typo, ypot, poyt, yopt, no matter how you spell it, you still made one.
+Arthedain opens huge laen door with ancient carvings.
+Arthedain leaves east.
+Huge laen door with ancient carvings closes.
+This is the end of the caves.
+At the end of the cave there is a huge laen door.
+The walls are blackened with smoke.
+Nothing can be heard behind the door.
+Huge laen door with ancient carvings (closed) leads east.
+Obvious exit is: west.
+Pim the Duck < TiAMAT >
+You open huge laen door with ancient carvings.
+Approaching an ancient evil (w).
+Arthedain Stormbringer the Cromagnon whirlwind < TiAMAT >
+Kiefer the red Devil < TiAMAT >
+Pim arrives from west.
+You close huge laen door with ancient carvings.
+Kiefer [party]: was it just the name or whole char changed?
+You are standing in front of a black portal.  The portal seems to emit some
+kind of magical darkness and you can't see through it.  There is the rancid
+smell of decayed flesh wafting from the portal, and you can sense a stream 
+of
+air rushing into the darkness.
+Huge laen door with ancient carvings (closed) leads west.
+There are no obvious exits.
+Pim the Duck < TiAMAT >
+Arthedain Stormbringer the Cromagnon whirlwind < TiAMAT >
+Kiefer the red Devil < TiAMAT >
+Baltzebub {fin}: ennenakematon =)
+Arthedain leaves into the portal.
+Arthedain left somewhere.
+Continuity [party]: char
+You are standing in front of a black portal.  The portal seems to emit some
+kind of magical darkness and you can't see through it.  There is the rancid
+smell of decayed flesh wafting from the portal, and you can sense a stream 
+of
+air rushing into the darkness.
+Huge laen door with ancient carvings (closed) leads west.
+There are no obvious exits.
+Pim the Duck < TiAMAT >
+Kiefer the red Devil < TiAMAT >
+You enter the portal and get sucked downwards.
+Hrr...It is cold here (n,e,s,w).
+14 gold coins
+Snow. Ice. Snow. Ice. That is all you see as you peer around.
+Freezing wind strikes against your face and almost turns your
+head into a ice sculpture. Only one place has been rumored to be
+as cold as this one; the old legends call the place by a mystical
+name: Oulu... You have trouble moving forward as your legs almost
+freeze to the surface of the ice field.
+Obvious exits are: n, e, s and w.
+14 gold coins
+Ghost of Zartan {ghost}: doughnut are ya ressing
+You sizzle with magical energy.
+% TICK (96)
+Baltzebub {fin}: alan tulee tanne ihan vaan ton takii =)
+Fishu [ghost]: if needed you can accept rais/ress/body from fishu
+Crowbar [party]: summon me pls
+Guard shouts 'Kronos, I rather enjoyed killing you!'
+A place full of lightning and thunder (n,e,s,w).
+10 gold coins
+Hrr...It is cold here (n,e,s,w).
+three heavy boulders, a pile of silver
+coins and 11 gold coins
+Hrr...It is cold here (n,e,s,w).
+a huge pile of mowgles coins, a pile of copper coins, a
+pile of bronze coins, a small pile of silver coins, a pile
+of tin coins, a small pile of gold coins, three heav
+y boulders and a big pile of zinc coins
+Geryon the MIGHTY BATTLEHEALER the Thrikhren eats starship troopers for 
+lunch < TiAMAT >
+Baltzebub {party}: < Flex Shield DOWN >
+,-----------------------------------------------------------------------------.
+| 2.2   Continuity    ldr  119( 383) 1095(1095) 267(267) |  80 |       
+221008 |
+| ?.?   Baltzebub     mbr 1053(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| ?.?   Samppa        mbr  161( 403)  743( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer        mbr  192( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain     mbr  321(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| ?.?   Geryon        mbr  350( 408)  950(1143) 205(205) |  93 |       
+239773 |
+| ?.?   Pim           mbr  109( 227)  769( 776) 193(194) |  76 |       
+214006 |
+| ?.?   Crowbar       mbr  336(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Continuity [party]: come to 12
+Geryon tickles you playfully.
+Snow. Ice. Snow. Ice. That is all you see as you peer around.
+Freezing wind strikes against your face and almost turns your
+head into a ice sculpture. Only one place has been rumored to be
+as cold as this one; the old legends call the place by a mystical
+name: Oulu... You have trouble moving forward as your legs almost
+freeze to the surface of the ice field.
+Obvious exits are: n, e, s and w.
+a huge pile of mowgles coins
+a pile of copper coins
+a pile of bronze coins
+a small pile of silver coins
+a pile of tin coins
+a small pile of gold coins
+three heavy boulders
+a big pile of zinc coins
+Geryon the MIGHTY BATTLEHEALER the Thrikhren eats starship troopers for 
+lunch < TiAMAT >
+Last messages from bat channel:
+[03:54]:Amarth <bat>: 5? nooooo. 2.
+[03:55]:<bat>: Cyberman laughs at the pitiful number of 2 beers
+[03:55]:Cedryk [bat]: 5 beers is an appetizer
+[03:55]:Amarth <bat>: no actually.. tomba drank those
+[03:55]:Amarth <bat>: i'm just fakin' it
+[03:55]:Cyberman <bat>: Tomba?!?!
+[03:55]:Cyberman <bat>: But, he told me he didn't like alcohol!
+[03:55]:Cyberman <bat>: That he was like Shardik.
+[03:55]:Glace [bat]: hmm 5 that means like seeing a sex act with two men
+[03:57]:Amarth <bat>: congrats for your levels
+[03:58]:Cyberman <bat>: I am still thinking about the PWOOSY stuff.
+[03:58]:Amarth <bat>: yes, yes.. I would be honoured too
+[03:58]:Cyberman <bat>: hihihkhihihk
+[03:59]:Amarth <bat>: I'll go take a poo
+[03:59]:Amarth <bat>: +p
+[04:22]:Baltzebub {bat}: hello
+[04:22]:Baltzebub {bat}: WQEQWEH
+[04:22]:Baltzebub {bat}: wow!
+[04:22]:Baltzebub {bat}: WORSHIpe
+[04:22]:Baltzebub {bat}: WOOOORSHIP
+Geryon buzzes 'lahdin pois just ennen areaa :).'
+Ghost of Zartan {party}: saatana prkl idle mur grr
+You suffer from cold.
+Your fur absorbs some of the damage.
+Ghost of Kronos [ghost]: always nice to know that aviod works
+You say 'maailman paras niinkun :).'
+,-----------------------------------------------------------------------------.
+| 2.2   Continuity    ldr  118( 383) 1095(1095) 267(267) |  80 |       
+221008 |
+| ?.?   Baltzebub     mbr 1094(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| ?.?   Samppa        mbr  162( 403)  881( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Kiefer        mbr  208( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Arthedain     mbr  360(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| ?.?   Geryon        mbr  350( 408) 1143(1143) 205(205) |  93 |       
+239773 |
+| ?.?   Pim           mbr  112( 227)  783( 783) 195(195) |  76 |       
+214006 |
+| ?.?   Crowbar       mbr  397(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+  Lvl | Player name   | Idletime          | Gametime
+-------------------------------------------------------------
+[ 93]  Geryon          8s                  3h, 53m and 15s      [P]
+[ 95]  Baltzebub       3s                  4h and 30s           [P]
+[ 69]  Backlash        5s                  1h, 11m and 42s      [P]
+[ 43]  Snowy           6s                  44m and 45s          [P]
+<602>  Mapmaker        1h, 50m and 51s     4h and 48s                 [V]
+Total players: 129.
+Baltzebub arrives from south.
+Geryon buzzes 'heti kun lahdin tuli hirvee dies dies ryvas.'
+You say 'bounce.'
+Baltzebub mutters darkly 'hihi.'
+Geryon buzzes 'MAHTAVA.'
+Baltzebub mutters darkly '!!!'
+Your armours absorb some of the damage.
+You suffer from cold.
+Your fur absorbs some of the damage.
+Kiefer arrives from south.
+Baltzebub mutters darkly 'Hp: 1120 (1233) Sp: 602 (602) Ep: 406 (405).'
+Samppa [party]: where should i come ?
+You say ''kaikki meni logiin.'
+Baltzebub mutters darkly 'ei osannu yhtaa odottaa tommosta =).'
+Continuity [party]: 12
+Baltzebub mutters darkly 'ihhanaa.'
+Baltzebub mutters darkly 'mulle lahetat login.'
+Kiefer [party]: hieno
+Crowbar [party]: anyone at doughnut summon me?
+You say 'jep.'
+Ghost of Zartan {ghost}: ress dough
+Samppa arrives from west.
+Samppa greets everyone.
+You suffer from cold.
+Your fur absorbs some of the damage.
+Arthedain arrives from south.
+Samppa starts following the leader.
+Baltzebub mutters darkly 'Hp: 1143 (1233) Sp: 602 (602) Ep: 406 (405).'
+You say 'mitas tykkasit minun vareista? :).'
+Arthedain starts following the leader.
+Baltzebub {bat}: fucking unbeliavable
+Geryon starts concentrating on a new spell.
+Samppa [party]: toi piristi :)
+Continuity [bat]: best I've ever seen
+Crowbar [party]: coming to 12 or something :)
+Geryon claps her hands and whispers 'judicandus mercuree'
+Backlash [bat]: snicker
+Baltzebub mutters darkly 'olin nii sekasin.'
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1155(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| 2.2   Continuity    ldr  100( 383) 1095(1095) 267(267) |  80 |       
+221008 |
+| 3.1   Samppa        fol  167( 403)  881( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Baltzebub     mbr 1143(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| ?.?   Kiefer        mbr  238( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Geryon        mbr  408( 408) 1128(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim           mbr  119( 233)  820( 820) 199(199) |  76 |       
+214006 |
+| ?.?   Crowbar       mbr 1192(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| ?.?   Zartan       dead    1( 287)  789(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+You suffer from cold.
+Your fur absorbs some of the damage.
+Geryon starts concentrating on a new spell.
+Baltzebub mutters darkly 'Hp: 1125 (1233) Sp: 602 (602) Ep: 406 (405).'
+Samppa giggles inanely.
+Kiefer [party]: toivotaan ettei se tee tuota kokoana
+Ghost of Zartan {party}: what shape btw
+Geryon claps her hands and whispers 'judicandus puorgo mangenic'
+Geryon's spell heals you. You feel very much better.
+Baltzebub mutters darkly 'Hp: 1191 (1233) Sp: 602 (602) Ep: 406 (405).'
+Last messages from bat channel:
+[03:55]:Amarth <bat>: no actually.. tomba drank those
+[03:55]:Amarth <bat>: i'm just fakin' it
+[03:55]:Cyberman <bat>: Tomba?!?!
+[03:55]:Cyberman <bat>: But, he told me he didn't like alcohol!
+[03:55]:Cyberman <bat>: That he was like Shardik.
+[03:55]:Glace [bat]: hmm 5 that means like seeing a sex act with two men
+[03:57]:Amarth <bat>: congrats for your levels
+[03:58]:Cyberman <bat>: I am still thinking about the PWOOSY stuff.
+[03:58]:Amarth <bat>: yes, yes.. I would be honoured too
+[03:58]:Cyberman <bat>: hihihkhihihk
+[03:59]:Amarth <bat>: I'll go take a poo
+[03:59]:Amarth <bat>: +p
+[04:22]:Baltzebub {bat}: hello
+[04:22]:Baltzebub {bat}: WQEQWEH
+[04:22]:Baltzebub {bat}: wow!
+[04:22]:Baltzebub {bat}: WORSHIpe
+[04:22]:Baltzebub {bat}: WOOOORSHIP
+[04:26]:Baltzebub {bat}: fucking unbeliavable
+[04:26]:Continuity [bat]: best I've ever seen
+[04:26]:Backlash [bat]: snicker
+Baltzebub {party}: < Force Abs DOWN >
+Kiefer [party]: ajan
+Geryon starts concentrating on a new spell.
+Baltzebub mutters darkly 'Hp: 1231 (1233) Sp: 602 (602) Ep: 406 (405).'
+Crowbar arrives from west.
+Ghost of Kronos [ghost]: i accepted from Kiilgore already
+Geryon claps her hands and whispers 'judicandus puorgo mangenic'
+Geryon's spell heals you. You feel all better.
+Baltzebub mutters darkly 'Hp: 1233 (1233) Sp: 602 (602) Ep: 406 (405).'
+Kiefer [party]: hmm
+Starting editor (help: '~?').
+(Note: If you don't like paragraph mode, type '~m o')
+Crowbar starts following the leader.
+You suffer from cold.
+Your fur absorbs some of the damage.
+Crowbar starts reading news.
+yes, agree with baltzebub :)
+% Activity in world zombi
+Baltzebub mutters darkly 'Hp: 1211 (1233) Sp: 602 (602) Ep: 406 (405).'
+You sent a news article.
+Baltzebub mutters darkly 'hirveesti oli ainaki keltasta.'
+Kiefer [party]: jos muuttaa niin meen heti myyman teidan tpt
+Crowbar looks at you.
+You say 'pelaajat on keltasia.'
+Crowbar looks at Baltzebub.
+You suffer from cold.
+Your fur absorbs some of the damage.
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1262(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1324(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| 2.2   Continuity    ldr  367( 383) 1095(1095) 267(267) |  80 |       
+221008 |
+| 3.1   Samppa        fol  386( 403)  881( 881) 225(225) |  77 |       
+202832 |
+| ?.?   Baltzebub     mbr 1224(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| ?.?   Kiefer        mbr  550( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| ?.?   Geryon        mbr  378( 408) 1062(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim           mbr  121( 238)  835( 847) 201(203) |  76 |       
+214006 |
+| ?.?   Zartan        mbr  287( 287) 1039(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Baltzebub mutters darkly 'Hp: 1224 (1233) Sp: 602 (602) Ep: 406 (405).'
+Ghost of Kronos [ghost]: sorry i didnt see you on
+Crowbar [party]: what changed? :)
+Crowbar starts reading news.
+Baltzebub starts following the leader.
+Kiefer starts following the leader.
+Geryon starts following the leader.
+Pim cannot follow from that location.
+Zartan cannot follow from that location.
+Baltzebub mutters darkly 'Hp: 1224 (1233) Sp: 602 (602) Ep: 406 (405).'
+party place me 3,2
+Geryon is already in that position.
+                      PARTY SHOW -- BATTLE FORMATION
+------------------------------------------------------------------------------
+1st. Row       Arthedain              Crowbar              Baltzebub
+2nd. Row         Kiefer              Continuity              -----
+3rd. Row         Samppa                Geryon                -----
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1262(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1324(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1224(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| 2.1   Kiefer        fol  566( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| 2.2   Continuity    ldr  367( 383) 1095(1095) 267(267) |  80 |       
+221008 |
+| 3.1   Samppa        fol  401( 403)  881( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  378( 408) 1062(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim           mbr  123( 238)  847( 854) 203(203) |  76 |       
+214006 |
+| ?.?   Zartan        mbr  287( 287) 1009(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Zartan arrives from west.
+Baltzebub starts reading news.
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1262(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1324(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1224(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| 2.1   Kiefer        fol  566( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| 2.2   Continuity    ldr  367( 383) 1095(1095) 267(267) |  80 |       
+221008 |
+| 3.1   Samppa        fol  401( 403)  881( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  378( 408) 1062(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim           mbr  123( 238)  847( 854) 203(203) |  76 |       
+214006 |
+| ?.?   Zartan        mbr  287( 287) 1009(1234) 214(214) |  77 |       
+190191 |
+`-----------------------------------------------------------------------------'
+Geryon starts concentrating on a new spell.
+Zartan starts following the leader.
+Geryon {party}: flex shield -> arthedain
+Pim is a level 76 mortal of the Duck race.
+She was created before 1997 and is 125d, 19h, 48min and 36s old.
+She has been on for 3h, 9m and 35s, idle 2m and 19s.
+She has killed Asmodeus, the Overlord of all the du.., 1200792 exp (party/ 
+9)
+               a small lemming eating grass, 148 exp.
+Plan:
+>I am looking for fighter eq.  I need Arms, bracelets, 1 ring, and cloak. If
+>you got something really good,  Give me a tell.
+>
+>(or wait till I am on to sell it).
+>
+Snow. Ice. Snow. Ice. That is all you see as you peer around.
+Freezing wind strikes against your face and almost turns your
+head into a ice sculpture. Only one place has been rumored to be
+as cold as this one; the old legends call the place by a mystical
+name: Oulu... You have trouble moving forward as your legs almost
+freeze to the surface of the ice field.
+Obvious exits are: n, e, s and w.
+a huge pile of mowgles coins
+a pile of copper coins
+a pile of bronze coins
+a small pile of silver coins
+a pile of tin coins
+a small pile of gold coins
+three heavy boulders
+a big pile of zinc coins
+Zartan the Duck is covered with Jism < TiAMAT >
+Crowbar the Giant                                < TiAMAT >
+Arthedain Stormbringer the Cromagnon whirlwind < TiAMAT >
+Samppa Bundy the Duck is multipurpose healer dude < TiAMAT >
+Kiefer the red Devil < TiAMAT >
+Baltzebub Demon the red Devil Satan Himself
+Geryon the MIGHTY BATTLEHEALER the Thrikhren eats starship troopers for 
+lunch < TiAMAT >
+You suffer from cold.
+Your fur absorbs some of the damage.
+Baltzebub mutters darkly 'Hp: 1214 (1233) Sp: 602 (602) Ep: 406 (405).'
+Continuity [party]: come pim
+Crowbar quits following the leader.
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1262(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| 1.2   Crowbar      form 1304(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1214(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| 2.1   Kiefer        fol  552( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| 2.2   Continuity    ldr  347( 383) 1095(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Zartan        fol  267( 287) 1153(1234) 214(214) |  77 |       
+190191 |
+| 3.1   Samppa        fol  387( 403)  881( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  374( 408) 1062(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim           mbr  123( 238)  847( 854) 203(203) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Geryon traces fiery blue runes in the air '^ !)'
+Geryon's druidstaff is surrounded by a sudden cloudburst, and you can see 
+her
+glorying in sheer power.
+You sense Arthedain's body being covered by a flex shield.
+Arthedain [party]: < Flex shield: (on) >
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1262(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| 1.2   Crowbar      form 1328(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1214(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| 2.1   Kiefer        fol  552( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| 2.2   Continuity    ldr  347( 383) 1095(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Zartan        fol  267( 287) 1153(1234) 214(214) |  77 |       
+190191 |
+| 3.1   Samppa        fol  387( 403)  881( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  380( 408) 1143(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim           mbr  123( 238)  847( 854) 203(203) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Crowbar starts following the leader.
+Geryon starts concentrating on a new spell.
+Geryon {party}: flex shield -> crowbar
+Baltzebub mutters darkly 'hihi conti.'
+You start chanting.
+You surreptitiously conceal your spell casting.
+party say removez -> crowbar
+Continuity [party]: removez -> crowbar
+Zartan {party}: dispel magical protection --> baltzebub
+Samppa starts concentrating on a new spell.
+Dispel magical protection: #
+Baltzebub mutters darkly 'Hp: 1233 (1233) Sp: 602 (602) Ep: 406 (405).'
+Baltzebub mutters darkly 'news =).'
+Zartan utters the magic words 'removezzzzzarmour'
+Samppa claps her hands and whispers 'judicandus puorgo mangenic'
+Samppa's spell heals you. You feel all better.
+You are done with the chant.
+You utter the magic words 'removezzzzzarmour'
+You cast the dispel magical protection successfully.
+% TICK (-55)
+Geryon traces fiery blue runes in the air '^ !)'
+Geryon's druidstaff is surrounded by a sudden cloudburst, and you can see 
+her
+glorying in sheer power.
+You sense Crowbar's body being covered by a flex shield.
+Zartan starts reading news.
+Geryon starts concentrating on a new spell.
+Geryon {party}: flex shield -> baltzebub
+You say 'jep :).'
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1280(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1328(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1233(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| 2.1   Kiefer        fol  623( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| 2.2   Continuity    ldr  383( 383) 1040(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Zartan        fol  287( 287) 1098(1234) 214(214) |  77 |       
+190191 |
+| 3.1   Samppa        fol  403( 403)  740( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  408( 408) 1006(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim           mbr  125( 240)  861( 861) 205(205) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Kiefer [party]: continuity and baltzebub got their chars swapped
+Geryon starts reading news.
+You start chanting.
+party say fabs -> crowbar
+Continuity [party]: fabs -> crowbar
+Force absorption: ######
+Baltzebub mutters darkly 'maki lensin pihalle ku sa menit.'
+Force absorption: #####
+You suffer from cold.
+Your fur absorbs some of the damage.
+Force absorption: ####
+You skillfully cast the spell with greater haste.
+Baltzebub mutters darkly 'Hp: 1214 (1233) Sp: 602 (602) Ep: 406 (405).'
+You say 'joo niin kuuluu olal.'
+Force absorption: #
+Geryon traces fiery blue runes in the air '^ !)'
+Geryon's druidstaff is surrounded by a sudden cloudburst, and you can see 
+her
+glorying in sheer power.
+You sense Baltzebub's body being covered by a flex shield.
+Lord shouts 'Moonmist died on her knees!'
+Baltzebub {party}: (Flex Shield UP)
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1280(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1328(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1214(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| 2.1   Kiefer        fol  602( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| 2.2   Continuity    ldr  361( 383) 1040(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Zartan        fol  275( 287) 1234(1234) 214(214) |  77 |       
+190191 |
+| 3.1   Samppa        fol  399( 403)  740( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  402( 408) 1006(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim           mbr  127( 240)  872( 872) 205(205) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+You sizzle with magical energy.
+% TICK (55)
+You are done with the chant.
+You utter the magic words 'ztonez des deckers'
+You create the resistance successfully.
+Baltzebub mutters darkly 'Hp: 1233 (1233) Sp: 602 (602) Ep: 406 (405).'
+Crowbar [party]: Force Absorption is == ON ==
+,-----------------------------------------------------------------------------.
+| 1.1   Arthedain     fol 1280(1280)   29(  29) 368(368) |  65 |       
+185596 |
+| 1.2   Crowbar       fol 1328(1328)   19(  19) 411(411) |  76 |       
+213013 |
+| 1.3   Baltzebub     fol 1233(1233)  602( 602) 406(405) |  95 |       
+233932 |
+| 2.1   Kiefer        fol  602( 690)  713( 713) 284(284) |  82 |       
+202111 |
+| 2.2   Continuity    ldr  362( 383)  965(1095) 267(267) |  80 |       
+221008 |
+| 2.3   Zartan        fol  275( 287) 1234(1234) 214(214) |  77 |       
+190191 |
+| 3.1   Samppa        fol  403( 403)  881( 881) 225(225) |  77 |       
+202832 |
+| 3.2   Geryon        fol  402( 408) 1006(1143) 205(205) |  93 |       
+239773 |
+|*?.?   Pim           mbr  127( 243)  872( 879) 205(207) |  76 |       
+214006 |
+`-----------------------------------------------------------------------------'
+Baltzebub {party}: I should have changed the psw =P
+
+
+

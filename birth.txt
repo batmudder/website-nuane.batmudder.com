@@ -1,0 +1,1133 @@
+l
+Bank of Midian.
+There is a teller here to handle your transactions and a small
+sign on the counter describing the available commands.
+Obvious exits are: n, s and e.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/420953 .-"
+Info: Dutois recovers from link death.
+Info: Hrolf recovers from link death.
+withdraw all
+The teller gives you the money, and takes a service fee of 50 gold.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+n
+(road) Central Square of Midian (e,n,s,w).
+Two oak skeletons of chest lock, an empty alchemist's flask, a small, dark
+crystal shaped like a star, a green gas street lamp, a large fountain
+(almost full) <blue glow>, a sign - Map, a large
+deciduous tree, a park bench and a large trashcan
+Kvlt Kulti the Human epäselvä paskakasa
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+i
+You are carrying 421.3 kg of equipment:
+420903 coins (420903 gold) [Cash: 420903.00  Bank: 0.00  Total: 420903.00]
+Keep:
+A torch
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+malas
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+(guard house) The gateway to the inner parts of Midian. (w,d,n,s).
+a guard trainer
+Decker
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+Castle room (u,d,w).
+Bulletin board, a sign - directions and a sign UPDATED 15/06 -
+IMPORTANT
+Lurid nightbreed
+Ghastly nightbreed
+Grisly nightbreed
+Hideous nightbreed
+Monstrous nightbreed
+Horrendous nightbreed
+Dreadful nightbreed
+Horrifying nightbreed
+Scary nightbreed
+Creepy nightbreed
+Frightful nightbreed
+Eerie nightbreed
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+(house) Hallway (u,ne,se,n).
+A sign !READ THE BOARD UP FROM HERE!
+Nightbreed lurking in shadows
+Nightbreed hiding in shadows
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+(house) Hallway (sw,ne,nw).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+(house) Hallway (sw,u,e).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+(house) Hallway (w,e,n).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+(house) Hallway (w).
+Nightbreed, blocking the door
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+You set the default state of the north door to open.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+(house) Pakolaiskeskus (s).
+|\ /  |\ | /~~\
+|/ \/ |> |> /\
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+You set the default state of the south door to locked.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+You set the default state of the down door to open.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+(house) Seurojentalon ruokasali (u).
+4 batium coins, ring of infravision, a big bamboo sailor chest labeled
+as Ylpeys, an ebony safe reinforced with dukonium labeled as
+9slot <blue glow>, a wood chest reinforced with aluminium
+labeled as huppa, a gargantuan ebony vault reinforced with dukonium
+labeled as mulk <blue glow>, a gargantuan ebony vault
+reinforced with dukonium labeled as pernajumppa <blue glow>,
+a big bamboo sailor chest reinforced with ebony labeled as runkkukakka
+ <blue glow>, an ebony safe labeled as sianvagina <blue
+glow>, a big, sturdy looking safe labeled as pomppulinna
+<green glow>, a gargantuan ebony vault reinforced with dukonium
+labeled as vilma <blue glow>, a gargantuan sapphire vault
+reinforced with emerald labeled as meeting (closed) <blue
+glow>, a large emerald vault reinforced with dukonium labeled as
+hermunen (closed) <blue glow>, a small, dark crystal shaped
+like a star, a large trashcan and a zircon safe labeled as
+possu_pelle <blue glow>
+MAULASEN ROLLO :DDDDDDDDDDDDDD
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+You set the default state of the up door to locked.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 420903/0 .-"
+drop gold
+You drop 420903 gold coins.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+mulos
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+You set the default state of the up door to open.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+(house) Pakolaiskeskus (d).
+|\ /  |\ | /~~\
+|/ \/ |> |> /\
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+You set the default state of the down door to locked.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+You set the default state of the south door to open.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+(house) Hallway (w,n).
+Nightbreed, blocking the door
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+You set the default state of the north door to locked.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+(house) Hallway (w,e,n).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+(house) Hallway (sw,u,e).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+(house) Hallway (sw,ne,nw).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+(house) Hallway (u,ne,se,n).
+A sign !READ THE BOARD UP FROM HERE!
+Nightbreed lurking in shadows
+Nightbreed hiding in shadows
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Castle room (u,d,w).
+Bulletin board, a sign - directions and a sign UPDATED 15/06 -
+IMPORTANT
+Lurid nightbreed
+Ghastly nightbreed
+Grisly nightbreed
+Hideous nightbreed
+Monstrous nightbreed
+Horrendous nightbreed
+Dreadful nightbreed
+Horrifying nightbreed
+Scary nightbreed
+Creepy nightbreed
+Frightful nightbreed
+Eerie nightbreed
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+(guard house) The gateway to the inner parts of Midian. (w,d,n,s).
+a guard trainer
+Decker
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+(road) Central Square of Midian (e,n,s,w).
+Two oak skeletons of chest lock, an empty alchemist's flask, a small, dark
+crystal shaped like a star, a green gas street lamp, a large fountain
+(almost full) <blue glow>, a sign - Map, a large
+deciduous tree, a park bench and a large trashcan
+Kvlt Kulti the Human epäselvä paskakasa
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+i
+You are carrying 0.4 kg of equipment:
+You are carrying no coins.
+Keep:
+A torch
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+n
+(portal) Portal of Midian (n,s,e).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+transport church
+e
+Ronald [newbie]: ok couple scrolls cheaper thank reinc :)
+As you enter the portal, you feel that your surroundings change.
+Church of all Gods (n,s,w,e).
+A holy altar emitting peace around it
+Hrolf Dogface the Dwarf
+Cazul the Ent rukkanen
+Gurd the Troll |practical metaphysics|
+Bashag the Cyclops < . >
+Rwinky Kinky Twinky the stubby-tailed Lizardman
+Saugor the Duck sukkaa n
+Tan the Hill Giant
+Yoz Iris the black Centaur histamiini
+Caigus BlackSmithian the scaly Lizardman
+Guest-56 the Player
+Anna the dark Elf
+Fubaria the stubby-tailed Lizardman .
+Laurene the Zombie
+Jazar the Thrikhren
+Ymir the Elf
+Guest-17 the Player
+Kosmonova the Ogre
+Obanez the bony Skeleton
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Entrance hall of the church of all Gods (e,w,n,s).
+A large fountain (almost full) and a tour guide
+Velvetjoy the Minotaur
+Saldas Elfstone the member of Catfolk
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+n
+w
+Church yard (s,w,n).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+n
+Cemetary (e,w,s,n).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Mortis' corpse store (s).
+Mortis stands here behind the desk (almost undead)
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+i
+You are carrying 0.4 kg of equipment:
+You are carrying no coins.
+Keep:
+A torch
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Kape [wanted]: party for lq57
+s
+Info: Hrolf goes link dead.
+Cemetary (e,w,s,n).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+n
+Mortis' corpse store (s).
+Mortis stands here behind the desk (almost undead)
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Kharadus [twilight+]: You feel satiated, middle aged and brave.
+Info: Mazaharaza goes link dead.
+Daktar [wanted]: heal all please
+i
+You are carrying 0.4 kg of equipment:
+You are carrying no coins.
+Keep:
+A torch
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+eq
+Your equipment:
+Held: A purple bong, made of ice
+Forehead: A Warpstone charm, hammered into the flesh
+Error: Insufficient memory
+Necklace: A shrunken skull necklace
+Decoration: A small golden wedding ring
+On shoulder: Pulivari the homo roc
+You have little protection against general damage.
+You have meager protection against bashing.
+You have little protection against cutting.
+You have little protection against stabbing.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Info: Kawasa enters the game.
+Info: Sprite goes link dead.
+Xanadis [wanted]: summon
+A faint scream comes from the hole...
+s
+Cemetary (e,w,s,n).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+s
+The player freezer facility (n).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Info: Coyolxauhqui left the game.
+Xanadis [wanted]: got
+Info: Thorswrath enters the game.
+n
+n
+Cemetary (e,w,s,n).
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Mortis' corpse store (s).
+Mortis stands here behind the desk (almost undead)
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+l
+You are in a small, gloomy cave. Blood and entrails cover the whole floor
+making you shudder. Over one corner you see a little desk. Along the walls you
+see rows and rows of lockers attached, some still dripping blood. A large
+torch attached to a wall gives off gloomy flickering light which gives the
+room an ominous feel. Behind the desk you notice a dark hole which seems to
+carry an awful smell...
+Commands: sell corpse, list, buy <locker number>
+Obvious exit is: south.
+Mortis stands here behind the desk (almost undead)
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Info: Delion left the game.
+Info: Timotei goes link dead.
+tell mardus sano m00
+You tell Mardus 'sano m00'
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Info: Dandalf left the game.
+Mardus tells you 'm00' 
+thank mardus
+You emote to Mardus 'thanks you heartily.'
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+Miller [wanted]: tarmanav to reloc and tempt me some
+rebirth
+Mortis exclaims 'Will do!'
+Mortis casts the arcane spell of rebirth at you.
+Rebirth room ().
+Verbose mode.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+l
+You have been re-born. Now you need to create your character
+again. Quitting now will cancel your rebirth.
+Type 'rebirth' to proceed, or 'rebirth <name>' to
+proceed to a total rebirth, changing your name to <name>.
+NOTE: Also your password will be cleared if you change your name,
+so remember to set it.
+There are no obvious exits.
+"-. hp 1161/1161 | sp 31/31 | ep 380/380 | exp 258 | cash 0/0 .-"
+rebirth
+Doing Rebirth Conversion...
+Aggression skill converted into 0 exp.
+Forge coins skill converted into 0 exp.
+You feel young.
+=====================================================================
+The rebirth system was severely modified and you have thus been
+given a free reinc.
+=====================================================================
+Do you want a free reinc (yes/no)?: You have been reincarnated. Now you need to create your character
+again. You may quit any time during the recreation, but it will result
+in cancellation of all that has happened. Linkdeath hopefully has the
+same results as quitting.
+Type 'conversion' to proceed.
+There are no obvious exits.
+Xeltar Leech the Leech leeches and leeches and leeches...
+Quenthalion Sarn the bony Skeleton tuleeKIVAST
+Felonius 'Lasileuka' Foureyes the Troll eastsiden ISOMIES
+l
+y
+Do you want a free reinc (yes/no)?: You have been reincarnated. Now you need to create your character
+again. You may quit any time during the recreation, but it will result
+in cancellation of all that has happened. Linkdeath hopefully has the
+same results as quitting.
+Type 'conversion' to proceed.
+There are no obvious exits.
+Xeltar Leech the Leech leeches and leeches and leeches...
+Quenthalion Sarn the bony Skeleton tuleeKIVAST
+Felonius 'Lasileuka' Foureyes the Troll eastsiden ISOMIES
+l
+Hp:0/53 Sp:0/18 Ep:0/152 >You have been reincarnated. Now you need to create your character
+again. You may quit any time during the recreation, but it will result
+in cancellation of all that has happened. Linkdeath hopefully has the
+same results as quitting.
+Type 'conversion' to proceed.
+There are no obvious exits.
+Xeltar Leech the Leech leeches and leeches and leeches...
+Quenthalion Sarn the bony Skeleton tuleeKIVAST
+Felonius 'Lasileuka' Foureyes the Troll eastsiden ISOMIES
+conversion
+Hp:0/53 Sp:0/18 Ep:0/152 >Doing Reincarnation Conversion...
+Experience:
+0 experience paid in reincarnation taxes.
+Total:                    0 experience points
+In here you can select the kind of background your character has.
+This affects your characters skills and spells in the beginning.
+Later on it affects the ways you can join guilds.  There are five
+backgrounds to choose from, and they are:
+  nomad, magical, evil_religious, good_religious and civilized
+To get information about a certain background you should type:
+  info <background>
+Once you have decided what you want to be you should type:
+  select <background>
+There are no obvious exits.
+select evil_religious
+Hp:0/53 Sp:0/18 Ep:0/152 >You choose evil_religious to be your background.  You automatically learn
+some skills and spells.  For more information type 'evil_religious help'.
+To see what skills and spells you have you should use the 'show'
+command.
+Now you can select a race.  This affects most of your abilities.  You
+should pick your race carefully.  You can change your race during game
+play, but changing the race has its drawbacks.  Only the races suitable
+for your background are listed.  There are also some races that are not
+available to all players.
+  races          - list of available races
+  info <race>    - information about a race
+  select <race>  - to select a race and continue with character creation
+There are no obvious exits.
+select lich
+Hp:0/7 Sp:0/7 Ep:0/152 >You are now a lich.
+Now you must choose your alignment.  This affects mostly religious
+backgrounds and their powers.  By choosing an alignment, you select
+the path you should try to follow.  If you play accordingly to your
+alignment, you will probably gain the favor of the gods.
+Possible alignments:  good,  neutral,  evil.
+  select <align> - to select an alignment and continue with character creation
+There are no obvious exits.
+select evil
+Your base alignment is now evil.
+
+Welcome to BatMUD. Read help files and ask help from other players.
+
+There is a specific channel for newbies, the 'newbie' channel.
+You can ask help on that channel giving command like:
+  'newbie where is the adventurers guild?'
+
+Read also the following help files.
+  help channels (for communication)
+  help topics   (for list of all help files)
+  help commands (for list of all commands)
+
+Good luck!
+You are now done with the creation of a new character. Once you
+continue your journey you can't come back to here with this
+character. Once are certain you wish to continue to your guild room
+from here, you should type 'continue'.
+During your first levels you can't train skills or spells, they are
+automatically given to you according to your background.
+If you wish to redo something you should quit now.
+You should probably type 'help getting started' as soon as possible. It
+is very long, but well worth the trouble reading.
+
+NOTE: If you are impatient, try 'help quickstart' and remember to visit
+      our website at 'http://www.bat.org'!
+There are no obvious exits.
+Billyclub the Ogre
+Would you like to enable colours? [Y/n]
+@Mardus eeks panicedly at you.
+@Jaael meeps at you.
+y
+Okay, colours are turned on!
+If you cannot see any, inspect your client software's configuration.
+Read 'help term' if you want to turn them off.
+Hp:0/175 Sp:0/59 Ep:0/158 >@Belanthor goes 'Ooooo...' at you.
+term ansi
+You should not see this row.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This should be at the top of the screen.
+Terminal type set to 'ansi'. Showing some test patterns:
+  bold, normal, reverse, normal
+  Alert: 10 (low hitpoints are shown with this)
+Flash: 
+l
+Hp:0/175 Sp:0/59 Ep:0/158 >You are now done with the creation of a new character. Once you
+continue your journey you can't come back to here with this
+character. Once are certain you wish to continue to your guild room
+from here, you should type 'continue'.
+During your first levels you can't train skills or spells, they are
+automatically given to you according to your background.
+If you wish to redo something you should quit now.
+You should probably type 'help getting started' as soon as possible. It
+is very long, but well worth the trouble reading.
+
+NOTE: If you are impatient, try 'help quickstart' and remember to visit
+      our website at 'http://www.bat.org'!
+There are no obvious exits.
+Billyclub the Ogre
+Hp:0/175 Sp:0/59 Ep:0/158 >White guard shouts 'Deicide dies from a single blow, well almost at least!'
+continue
+You are given a HUGE meal. You start consuming it.
+You are so full of liquid you feel like you might burst.
+
+This time has come for you to venture out into the vast unknown Batworld.
+As you leave the shelter of your home and parents, you are given a pack
+containing items to help you on your journeys.
+
+Fortunately for you, your rich royal background allows you to travel
+luxuriously throughout the lands with a rather large pack of useful
+equipment.
+
+This is the main hall of the church of all Gods. A clock on the wall shows the
+uptime of the mud. A poster explaining the upcoming events is posted on the
+wall and a golden plaque with names on it hanging beside it. Several doorways
+leave out from here.
+Obvious exits are: n, s, w and e.
+A holy altar emitting peace around it
+Puroplatino the brown Centaur
+Velvetjoy the Minotaur
+Cazul the Ent rukkanen
+Gurd the Troll |practical metaphysics|
+Bashag the Cyclops < . >
+Rwinky Kinky Twinky the stubby-tailed Lizardman
+Saugor the Duck sukkaa n
+Tan the Hill Giant
+Yoz Iris the black Centaur histamiini
+Caigus BlackSmithian the scaly Lizardman
+Guest-56 the Player
+Anna the dark Elf
+Fubaria the stubby-tailed Lizardman .
+Laurene the Zombie
+Jazar the Thrikhren
+Ymir the Elf
+Guest-17 the Player
+Kosmonova the Ogre
+Obanez the bony Skeleton
+Turned off no channels.
+Channel newbie is now on.
+Damogran [newbie]: Introducing a new player to BatMUD: Nuane.
+Hp:175/175 Sp:59/59 Ep:158/158 >hp: 175 (175) [+175] sp: 59 (59) [+59] ep: 158 (158)
+help ansi
+scan all
+pr
+***************************************************************************
+BatMUD Player's manual
+
+COMMAND
+        ansi - Personalize your ansi settings.
+
+DESCRIPTION
+        If you have ansic termtype, you can colorize some of the common
+        aspects of the mud. If you use colors judiciously, colors can greatly
+        enhance the appearance of the happenings around you.
+
+OPTIONS
+ list                         - List your settings
+ colors                       - List available colors
+ <aspect> <color>             - Set <aspect> to <color>
+ <aspect> <color> on <color>  - Set <aspect> to <color> with <color> background
+More (40%) [qpbns?] <aspect> clear               - Clear <aspect>
+
+ASPECTS
+        player - The short descriptions of players
+        weapons - The short descriptions of weapons
+        armours - The short descriptions of armours
+        items - The short descriptions of other items
+        aggrmons - The short descriptions of aggressive monsters
+        roomshort - The short description of rooms
+        roomlong - The long description of rooms
+        regmons - The short descriptions of non-aggressive monsters
+
+COLORS
+        You can get the listing with command ansi colors.
+
+EXAMPLE
+More (80%) [qpbns?]        ansi list
+        ansi colors
+        ansi player light yellow
+        ansi player light yellow on blue
+        ansi player clear
+
+SEE ALSO
+        term
+Hp:175/175 Sp:59/59 Ep:158/158 >Mustamiekka [newbie]: heh
+Nobbs [newbie]: hello nuane!
+Dagel [newbie]: moo
+Gaurhoth tells you 'KRUIKS!' 
+Belanthor [newbie]: hi nuane, be welcome
+Dagel tells you 'no saatana' 
+newbie *scratch*
+(newbie): Nuane scratches its head.
+Hp:175/175 Sp:59/59 Ep:158/158 >Dagel tells you 'oisit vaan tullu partyyn :(' 
+@Jaael kisses you.
+Jaael tells you 'kallo pukee sinua' 
+@Windi greets you.
+help ansi
+scan all
+pr
+***************************************************************************
+BatMUD Player's manual
+
+COMMAND
+        ansi - Personalize your ansi settings.
+
+DESCRIPTION
+        If you have ansic termtype, you can colorize some of the common
+        aspects of the mud. If you use colors judiciously, colors can greatly
+        enhance the appearance of the happenings around you.
+
+OPTIONS
+ list                         - List your settings
+ colors                       - List available colors
+ <aspect> <color>             - Set <aspect> to <color>
+ <aspect> <color> on <color>  - Set <aspect> to <color> with <color> background
+More (40%) [qpbns?] <aspect> clear               - Clear <aspect>
+
+ASPECTS
+        player - The short descriptions of players
+        weapons - The short descriptions of weapons
+        armours - The short descriptions of armours
+        items - The short descriptions of other items
+        aggrmons - The short descriptions of aggressive monsters
+        roomshort - The short description of rooms
+        roomlong - The long description of rooms
+        regmons - The short descriptions of non-aggressive monsters
+
+COLORS
+        You can get the listing with command ansi colors.
+
+EXAMPLE
+More (80%) [qpbns?]        ansi list
+        ansi colors
+        ansi player light yellow
+        ansi player light yellow on blue
+        ansi player clear
+
+SEE ALSO
+        term
+Hp:175/175 Sp:59/59 Ep:158/158 >*Jack Fairy 's beauty outshines the sun!
+help lite
+scan all
+pr
+***************************************************************************
+BatMUD Player's manual
+
+COMMAND
+        lite - light a channel, level minimum or person for communication
+
+USAGE
+        lite <player_name/friends/channel/clear> <color/off>
+
+DESCRIPTION
+        You can lite all messages from a certain player, channel, level or
+        everyone on your friends list.
+
+        'lite friends <color>' adds _current_ friends list to the lite list.
+        'lite <level> <color>' lites players of level or higher.
+        'lite <channel> <color>' lites the specified channel
+More (26%) [qpbns?]        'lite <name/channel> off' will turn liting off.
+        'lite clear' will turn all liting off.
+
+        If the <color> argument is not used, lite will be switched off
+        for that target. Colors will only work on 'ansic', 'xtermc',
+        'ansicbar' and 'xtermcbar' terms (see help term).
+        Valid colors are:
+
+             blue          light_blue          dull_blue
+             cyan          light_cyan          dull_cyan
+             green         light_green         dull_green
+             magenta       light_magenta       dull_magenta
+             red           light_red           dull_red
+             white         light_white         dull_white
+             yellow        light_yellow        dull_yellow
+             bold
+More (53%) [qpbns?]
+        Actual color may vary according to your terminal.
+        You do NOT have to include the _ character.  For example:
+        'light green' or 'dull red' works.
+
+EXAMPLES
+
+          lite 40 green
+          lite 101                   All Wizards, default colors
+          lite 200 light_blue        All Archwizards, in pretty blue
+          lite bat magenta           Lite the bat channel in magenta
+          lite bat off               Turn off liting bat channel
+          lite friends blue          Lite your friends list
+          lite tell light_yellow     Lite incoming single tells as light yellow
+          lite multitell light_red   Lite incoming multiple tells as light red
+          lite say light_green       Lite said messages in light green
+
+More (80%) [qpbns?]          lite info light_blue       Lite informative messages in light blue
+          lite gore dull_red         Lite Gore (archwiz) on all channels
+          lite clear                 Erase all liting.
+
+NOTA BENE
+          say, tell, multitell, whisper and lite are liteable channels.
+          You can have several groups of levels that you lite.
+          The first line in a tell is always bold for your convenience,
+          to make it easier to spot an incoming tell.
+
+SEE ALSO
+         ignore, term and friends
+lite friends light_white
+Hp:175/175 Sp:59/59 Ep:158/158 >Messages from your friends are now lited in light white.
+Hp:175/175 Sp:59/59 Ep:158/158 >Mandrake arrives.
+Mandrake leaves east.
+Pogowoko arrives.
+Pogowoko leaves east.
+*Kosmo squawks loudly.
+Grimpold tells you 'jaa että birthi paukahti :)' 
+help ansi
+scan all
+pr
+***************************************************************************
+BatMUD Player's manual
+
+COMMAND
+        ansi - Personalize your ansi settings.
+
+DESCRIPTION
+        If you have ansic termtype, you can colorize some of the common
+        aspects of the mud. If you use colors judiciously, colors can greatly
+        enhance the appearance of the happenings around you.
+
+OPTIONS
+ list                         - List your settings
+ colors                       - List available colors
+ <aspect> <color>             - Set <aspect> to <color>
+ <aspect> <color> on <color>  - Set <aspect> to <color> with <color> background
+More (40%) [qpbns?] <aspect> clear               - Clear <aspect>
+
+ASPECTS
+        player - The short descriptions of players
+        weapons - The short descriptions of weapons
+        armours - The short descriptions of armours
+        items - The short descriptions of other items
+        aggrmons - The short descriptions of aggressive monsters
+        roomshort - The short description of rooms
+        roomlong - The long description of rooms
+        regmons - The short descriptions of non-aggressive monsters
+
+COLORS
+        You can get the listing with command ansi colors.
+
+EXAMPLE
+More (80%) [qpbns?]        ansi list
+        ansi colors
+        ansi player light yellow
+        ansi player light yellow on blue
+        ansi player clear
+
+SEE ALSO
+        term
+nodnod grimpold
+Hp:175/175 Sp:59/59 Ep:158/158 >You emote to Grimpold 'nods twice rapidly in agreement to you.'
+Hp:175/175 Sp:59/59 Ep:158/158 >Mardus arrives.
+Mardus leaves east.
+@Erwain blinks and goes Woah! at you.
+*Punamulkku squawks loudly.
+Erwain tells you 'ooppistarallaa =)' 
+Leopard catfolk warrior shouts 'Heihachi died like a DOG!'
+tell last
+Displaying last tells to you.
+(00:38) @Belanthor goes 'Ooooo...' at you.
+(00:38) Gaurhoth tells you 'KRUIKS!' 
+(00:38) Dagel tells you 'no saatana' 
+(00:38) Dagel tells you 'oisit vaan tullu partyyn :(' 
+(00:38) @Jaael kisses you.
+(00:39) Jaael tells you 'kallo pukee sinua' 
+(00:39) @Windi greets you.
+(00:39) Grimpold tells you 'jaa että birthi paukahti :)' 
+(00:40) @Erwain blinks and goes Woah! at you.
+(00:40) Erwain tells you 'ooppistarallaa =)' 
+Ok.
+Hp:175/175 Sp:59/59 Ep:158/158 >Gurd leaves east.
+Erwain tells you 'hajes leveli ni voidaa höpäjää =)' 
+Spica arrives.
+Spica leaves east.
+f nuane
+Nuane is a level 1 elder of the Lich race.
+It was created Sun Feb 18 16:04:07 2001 and it is 293d, 13h, 16min and 43s old.
+It has been on for 2min and 47s, not idle.
+It has no plan.
+Hp:175/175 Sp:59/59 Ep:158/158 >Lammas arrives.
+Lammas leaves south.
+Chamber arrives from east.
+Chamber leaves west.
+Chamber arrives from west.
+Chamber leaves south.
+tell mardus,belanthor,nobbs,osku,erwain,grimpold,jaael,dagel hei mikä tää peli on :(
+Can not tell: Jaael (ignoring tells to over 6 persons)
+You tell Mardus, Belanthor, Nobbs, Osku, Erwain, Grimpold and Dagel 'hei mikä
+ tää peli on :('
+Hp:175/175 Sp:59/59 Ep:158/158 >Mardus tells Belanthor, Nobbs, Osku, Erwain, Grimpold, Jaael, Dagel and you
+ 'pip' 
+Belanthor tells Nobbs, Osku, Erwain, Grimpold, Jaael, Dagel, Mardus and you
+ 'en maa tiera' 
+Dagel tells Nobbs, Osku, Erwain, Grimpold, Jaael, Mardus, Belanthor and you
+ 'tää on tälläinen jossa nyypat ei pärjää' 
+Dheos arrives.
+Dheos leaves south.
+Dagel tells Nobbs, Osku, Erwain, Grimpold, Jaael, Mardus, Belanthor and you
+ 'ilman expoo turha ees yrittää' 
+Belanthor tells Nobbs, Osku, Erwain, Grimpold, Jaael, Mardus, Dagel and you
+ 'nii, mee pois nyypä :(((' 
+Dheos arrives from south.
+Dheos leaves north.
+Dheos arrives from north.
+Dheos leaves east.
+reply sniff
+Can not tell: Jaael (ignoring tells to over 6 persons)
+You tell Nobbs, Osku, Erwain, Grimpold, Mardus, Dagel and Belanthor 'sniff'
+Hp:175/175 Sp:59/59 Ep:158/158 >Mustamiekka arrives.
+Mustamiekka leaves east.
+Erwain tells Nobbs, Osku, Grimpold, Jaael, Mardus, Dagel, Belanthor and you
+ 'elä ala lannistaa pientä heti' 
+l
+This is the main hall of the church of all Gods. A clock on the wall shows the
+uptime of the mud. A poster explaining the upcoming events is posted on the
+wall and a golden plaque with names on it hanging beside it. Several doorways
+leave out from here.
+Obvious exits are: n, s, w and e.
+A holy altar emitting peace around it
+Puroplatino the brown Centaur
+Velvetjoy the Minotaur
+Cazul the Ent rukkanen
+Bashag the Cyclops < . >
+Rwinky Kinky Twinky the stubby-tailed Lizardman
+Saugor the Duck sukkaa n
+Tan the Hill Giant
+Yoz Iris the black Centaur histamiini
+Caigus BlackSmithian the scaly Lizardman
+Guest-56 the Player
+Anna the dark Elf
+Fubaria the stubby-tailed Lizardman .
+Laurene the Zombie
+Jazar the Thrikhren
+Ymir the Elf
+Guest-17 the Player
+Kosmonova the Ogre
+Obanez the bony Skeleton
+Hp:175/175 Sp:59/59 Ep:158/158 >Belanthor tells Nobbs, Osku, Grimpold, Jaael, Mardus, Dagel, Erwain and you
+ 'no ei pitais kyl, niista tulee sit tollasia matrixeja ku pienena liikaa
+ potkii paahan' 
+Arden arrives.
+Arden leaves south.
+Erwain tells you 'no nymmä jummarran ko sitä dama ekuu hajit' 
+Grimpold tells Nobbs, Osku, Jaael, Mardus, Dagel, Erwain, Belanthor and you
+ 'matrixiha on suuri huvinkohde... :)' 
+*Jack Fairy squawks loudly.
+l
+This is the main hall of the church of all Gods. A clock on the wall shows the
+uptime of the mud. A poster explaining the upcoming events is posted on the
+wall and a golden plaque with names on it hanging beside it. Several doorways
+leave out from here.
+Obvious exits are: n, s, w and e.
+A holy altar emitting peace around it
+Puroplatino the brown Centaur
+Velvetjoy the Minotaur
+Cazul the Ent rukkanen
+Bashag the Cyclops < . >
+Rwinky Kinky Twinky the stubby-tailed Lizardman
+Saugor the Duck sukkaa n
+Tan the Hill Giant
+Yoz Iris the black Centaur histamiini
+Caigus BlackSmithian the scaly Lizardman
+Guest-56 the Player
+Anna the dark Elf
+Fubaria the stubby-tailed Lizardman .
+Laurene the Zombie
+Jazar the Thrikhren
+Ymir the Elf
+Guest-17 the Player
+Kosmonova the Ogre
+Obanez the bony Skeleton
+e
+Hp:175/175 Sp:59/59 Ep:158/158 >This is the tall entrance hall to the church of all Gods. The walls
+are made of white marble. The roof is covered by a huge painting.
+East is a doorway that leads out to the city streets. The entrance
+hall opens west to the main hall of the temple. A small gateway
+leads north.
+Obvious exits are: e, w, n and s.
+A large fountain (almost full)
+A tour guide
+Saldas Elfstone the member of Catfolk
+e
+s
+Hp:175/175 Sp:59/59 Ep:158/158 >  #..     You are standing on Pine street, between Onyx and Jade
+  #..     avenues. The church of all Gods is to the west, and a
+  #.#     largish building to the east is the Adventurers guild. 
+  /@/     
+  #.#     
+  .&#     
+  ...     
+          
+Iron gate (open) leads west.
+Iron gate (open) leads east.
+Obvious exits are: n, s, w and e.
+A cart labeled 'D & G'
+A cart labeled 'Chests by Dryad'
+A large granite post
+A green gas street lamp (glowing)
+A grim Guardsman is keeping watch here
+s
+Hp:175/175 Sp:59/59 Ep:158/158 >  #..     You are on Pine Street. This street is between the Church
+  #.#     of All Gods to the west and the Adventurers' Guild to the
+  /&/     east. The street itself is worn and heavily trafficed.
+  #@#     
+  .&#     
+ ....     
+ ####     
+          
+Obvious exits are: n, sw and s.
+s
+s
+s
+Hp:175/175 Sp:59/59 Ep:158/158 >  #.#     You are at the point where Pine Street and Jade Avenue
+  /&/     meet. Traffic is moving slower as people and wagons try to
+###.#     force their way onto the smaller street. The road here is
+...@#     slightly beat up and dirt is showing where cobbles once
+.....     laid.
+######    
+          
+          
+Obvious exits are: n, w, sw, s and se.
+A young Guardsman is keeping watch here
+A vigilant Guardsman is keeping watch here
+Hp:175/175 Sp:59/59 Ep:158/158 >  /&/     You are at the point where Pine Street and Jade Avenue
+###.#     meet. Traffic is moving slower as people and wagons try to
+...&###   force their way onto the smaller street. The road here is
+...@...   slightly beat up and dirt is showing where cobbles once
+#######   laid.
+          
+          
+          
+Obvious exits are: nw, n, w and e.
+Hp:175/175 Sp:59/59 Ep:158/158 >You cannot go that way.
+s
+Hp:175/175 Sp:59/59 Ep:158/158 >You cannot go that way.
+Hp:175/175 Sp:59/59 Ep:158/158 >You cannot go that way.
+brief
+Hp:175/175 Sp:59/59 Ep:158/158 >Brief mode.
+14 e
+Hp:175/175 Sp:59/59 Ep:158/158 >Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (nw,w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (w,e).
+A green gas street lamp (glowing)
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (ne,w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (n,ne,w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (nw,n,ne,w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (nw,n,ne,w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (nw,n,ne,w,e).
+A green gas street lamp (glowing)
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (nw,n,ne,w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (nw,n,w,e).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue (nw,w,e,se).
+Hp:175/175 Sp:59/59 Ep:158/158 >Jade avenue, by the southern city gate (w,e,s).
+A green gas street lamp (glowing)
+11 s
+Hp:175/175 Sp:59/59 Ep:158/158 >Hp:175/175 Sp:59/59 Ep:158/158 >Southern city gate (nw,n,ne,s).
+Hp:175/175 Sp:59/59 Ep:158/158 >Southern guardpost (sw,s,se,n).
+A sleepy gateguard is here bragging
+A young gateguard is here bragging
+A bored gateguard is here looking mean
+A irritated gateguard is here bragging
+Hp:175/175 Sp:59/59 Ep:158/158 >Southern road to city (n,w,e,s).
+A green gas street lamp (glowing)
+Hp:175/175 Sp:59/59 Ep:158/158 >Bridge to the city (w,e,sw,s,se,n).
+Hp:175/175 Sp:59/59 Ep:158/158 >The Road (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:158/158 >The Road (nw,n,ne,w,e,sw,s,se).
+A cart labeled 'jotain'
+Hp:175/175 Sp:59/59 Ep:158/158 >The Crossing (nw,n,ne,w,e,sw,s,se).
+This fish meat looks yummy, a cart labeled '[<<<[\EKUMARKET\]>>>]'
+ <blue glow>, a cart labeled 'RAVYNCLAW CHESTS & EQ', a cart
+labeled 'Chests and Stuff' and a huge tree, rising high up to the
+skies
+Mustamiekka Vindicator the Sprite choir of angels
+Qozza Druglord the dented member of Tinmen
+Hp:175/175 Sp:59/59 Ep:158/158 >The Road (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:158/158 >The Road (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:158/158 >The Road (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:158/158 >The Crossing (nw,n,ne,w,e,sw,s,se).
+A cart labeled 'Narzhiwarez.com' and a huge tree, rising high up to the
+skies
+7 se
+Hp:175/175 Sp:59/59 Ep:158/158 >Hp:175/175 Sp:59/59 Ep:156/158 >The Road (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:156/158 >The Road (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:156/158 >The Road (nw,n,ne,w,e,sw,s,se).
+A Flying Citadel is towering high above you in the skies
+Hp:175/175 Sp:59/59 Ep:156/158 >The Road (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:156/158 >The Road (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:156/158 >The Road (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:156/158 >The Crossing (nw,n,ne,w,e,sw,s,se).
+se
+e
+se
+e
+e
+Hp:175/175 Sp:59/59 Ep:156/158 >hp: 175 (175) [] sp: 59 (59) [] ep: 154 (158)
+e
+The Plain (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:154/158 >The River (nw,n,ne,w,e,sw,s,se).
+You walk under the waters.
+Hp:175/175 Sp:59/59 Ep:154/158 >The Crossing (nw,n,ne,w,e,sw,s,se).
+Hp:175/175 Sp:59/59 Ep:154/158 >The Crossing (n,e,s,sw,w,nw).
+Hp:175/175 Sp:59/59 Ep:154/158 >Gate (w,e).
+A sign - The City of Midian
+Babette
+Hp:175/175 Sp:59/59 Ep:154/158 >(road) Central Square of Midian (e,n,s,w).
+Two oak skeletons of chest lock, an empty alchemist's flask, a small, dark
+crystal shaped like a star, a green gas street lamp, a large fountain
+(almost full) <blue glow>, a sign - Map, a large
+deciduous tree, a park bench and a large trashcan
+Kvlt Kulti the Human epäselvä paskakasa
+l
+Hp:175/175 Sp:59/59 Ep:154/158 >  +#TSccc  The Central Square of Midian.
+  +#pFccc  Look at the map-sign to find your way around the city.
+  +G*gccc  Above you is a hot, slowly moving, clear night sky. A breeze blows
+  +#BWccc  around you. A waxing gibbous moon hangs in the sky.
+  +#kAccc  Gate (open) leads west.
+Obvious exits are: e, n, s and w.
+Two oak skeletons of chest lock
+An empty alchemist's flask
+A small, dark crystal shaped like a star
+A green gas street lamp
+A large fountain (almost full) <blue glow>
+A sign - Map
+A large deciduous tree
+A park bench
+A large trashcan
+Kvlt Kulti the Human epäselvä paskakasa
+Hp:175/175 Sp:59/59 Ep:148/158 >The crystal throbs faintly, healing some of your wounds.
+hp: 175 (175) [] sp: 59 (59) [] ep: 158 (158)
+help ansi
+scan all
+pr
+***************************************************************************
+BatMUD Player's manual
+
+COMMAND
+        ansi - Personalize your ansi settings.
+
+DESCRIPTION
+        If you have ansic termtype, you can colorize some of the common
+        aspects of the mud. If you use colors judiciously, colors can greatly
+        enhance the appearance of the happenings around you.
+
+OPTIONS
+ list                         - List your settings
+ colors                       - List available colors
+ <aspect> <color>             - Set <aspect> to <color>
+ <aspect> <color> on <color>  - Set <aspect> to <color> with <color> background
+More (40%) [qpbns?] <aspect> clear               - Clear <aspect>
+
+ASPECTS
+        player - The short descriptions of players
+        weapons - The short descriptions of weapons
+        armours - The short descriptions of armours
+        items - The short descriptions of other items
+        aggrmons - The short descriptions of aggressive monsters
+        roomshort - The short description of rooms
+        roomlong - The long description of rooms
+        regmons - The short descriptions of non-aggressive monsters
+
+COLORS
+        You can get the listing with command ansi colors.
+
+EXAMPLE
+More (80%) [qpbns?]        ansi list
+        ansi colors
+        ansi player light yellow
+        ansi player light yellow on blue
+        ansi player clear
+
+SEE ALSO
+        term
+i
+Hp:175/175 Sp:59/59 Ep:158/158 >You are carrying 14.8 kg of equipment:
+You are carrying no coins.
+A small manual written in an ancient language, a simple prayer book, a
+wafer of lembas, a leather waterskin (half full), a wool bra,
+palladium leggings, a nickel cap, a cookie, a tasty cake and a
+copper whip
+eq
+Hp:175/175 Sp:59/59 Ep:158/158 >Your equipment:
+Nothing.
+Hp:175/175 Sp:59/59 Ep:158/158 >The crystal throbs faintly, healing some of your wounds.
+exp
+Exp: 2 Money: 0.00 Bank: 0.00
+Hp:175/175 Sp:59/59 Ep:158/158 >@Osku grabs you by the neck.
+party say Osku summoned me.
+Osku has summoned you!
+(society) Twilight Inner Circle (n,s,e,u).
+Osku the dark Drow
+Channel party is now on.
+Nuane (party): Osku summoned me.
+Hp:175/175 Sp:59/59 Ep:158/158 >Osku exclaims '!'
+eep
+You eep fearfully.
+Hp:175/175 Sp:59/59 Ep:158/158 >Mardus tells you 'show invites tyhjä vai' 
+join
+You need to join your race guild first.
+tell mardus,osku You need to join your race guild first.
+Hp:175/175 Sp:59/59 Ep:158/158 >You tell Mardus and Osku 'You need to join your race guild first.'
+Hp:175/175 Sp:59/59 Ep:158/158 >Osku tells Mardus and you 'ack!' 
+Osku tells Mardus and you 'meen sinne :)' 
+tell mardus,osku teettekö mulle 3k expaa :)
+You tell Mardus and Osku 'teettekö mulle 3k expaa :)'
+Hp:175/175 Sp:59/59 Ep:158/158 >Sister Maple shouts 'Tiger's BLOOD tasted good!'
+Osku tells Mardus and you 'hmm jooh' 
+Osku whimpers ailingly.
+Osku tells Mardus and you 'kummallisii nää race guildit' 
+reply ni pääsen sossuihin
+You tell Mardus and Osku 'ni pääsen sossuihin'
+l
+Hp:175/175 Sp:59/59 Ep:158/158 >
+
+   - t w i l i g h t -
+
+
+
+
+There is a sign here.
+Obvious exits are: n, s, e and u.
+Osku the dark Drow
+Hp:175/175 Sp:59/59 Ep:158/158 >Osku gives you midnight black spider mask.
+Midnight black spider mask turns to dust.
+eep
+You eep fearfully.
+i
+Hp:175/175 Sp:59/59 Ep:158/158 >You are carrying 14.8 kg of equipment:
+You are carrying no coins.
+A small manual written in an ancient language, a simple prayer book, a
+wafer of lembas, a leather waterskin (half full), a wool bra,
+palladium leggings, a nickel cap, a cookie, a tasty cake and a
+copper whip
+eq
+Hp:175/175 Sp:59/59 Ep:158/158 >Your equipment:
+Nothing.

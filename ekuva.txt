@@ -1,0 +1,1234 @@
+
+Hand: a white glove labeled as (Nuane) <red glow>
+Hand: a white glove labeled as (Nuane) <red glow>
+Head: a black hood labeled as (Nuane)
+Neck: a collar made of black silk labeled as (Nuane) <red glow>
+Amulet: an ancient blue medallion
+Cloak: Tattered Silver Shimmering Cloak labeled as sprcloak (Nuane) <orange glow>
+Torso: red robe with mystic symbol at back labeled as (Nuane)
+Both arms: The protectors <white glow> labeled as (Nuane)
+Bracelets: the Bracelets of Darkness labeled as (Nuane) <yellow glow>
+Finger: a mithril ring, called 'eckma' <red glow>
+Finger: a mithril ring, called 'eckma' labeled as (Nuane) <red glow>
+Held: Celestial crosier of Las labeled as (Nuane) (holy) <orange glow>
+Held: an ancient staff of the necromancer labeled as (Nuane) <yellow glow>
+Belt: Belt of bones <|kyo|> <yellow glow>
+Both legs: the protectors
+Both feet: a pair of short green boots labeled as (Nuane) <yellow glow>
+
+a horned great helm <yellow glow>
+silvery spider necklace labeled as (Nuane) <orange glow>
+pink crystal arm guards labeled as (Nuane) <orange glow>
+a runed blue belt of unholy resistance labeled as (Nuane) <orange glow>
+a silver charm labeled as (Nuane) <orange glow>
+black shadowy cape labeled as (Nuane) <yellow glow>
+A shining white ivory full shield, embedded with black pearls labeled as (Nuane) (holy) <orange glow>
+wonderful boots of evasion labeled as (Nuane) <orange glow>
+a HUGE sturdy pack for storing potions labeled as pakki1 <yellow glow> (38/50)
+athame of severing labeled as (Nuane) <orange glow>
+A glowing green amulet labeled as (Nuane) <yellow glow>
+A leather pouch labeled as taikatoosa (half full) <yellow glow>
+rod of life and death labeled as (Nuane) <yellow glow>
+the blue bracelets of magic labeled as (Nuane) <orange glow>
+a sparkling breastplate labeled as (Nuane) <orange glow>
+A blank yellow scroll
+small white note with Las' seal
+white prayer candle with golden decorations
+a lovely silvery hematite
+a flawless silvery hematite
+a polished steel-coloured hematite
+a beautiful greenish-brown jade
+a black scaly finger guard, made of thorns (burned) labeled as (Nuane)
+High-quality air shovel <red glow>
+two gleaming steel gauntlets labeled as (Nuane) (0/100)
+Transparent flickering glove labeled as (Nuane)
+a stethoscope
+a beautiful silk blanket
+Demonic Ring of Invisibility labeled as (Nuane)
+Ring made of tin <Cursed> labeled as (Nuane)
+the dream ring <red glow>
+High-quality air pick <red glow>
+a pair of leggings, formed out of earth labeled as (Nuane) <red glow>
+a short magic wand with a sparkling star labeled as (Nuane)
+Mace of the Barbarian Lords labeled as (Nuane) <red glow>
+A sleeveless mail coat with an emblem of black panther labeled as (Nuane) <orange glow>
+a rough magenta ringband <red glow>
+a rough magenta ringband labeled as (Nuane) <red glow>
+Nightmare gloves of Clouds called 'Shattered dreams' labeled as (Nuane) <red glow>
+two bracelets of no forgiveness labeled as (Nuane)
+Empyrean, the Tranquility of Justified Fury Eternal labeled as (Nuane) [Awesome] <red glow>
+
+
+There are no light sources here, but you can still see.
+Castle room (u,d).
+There are no light sources here, but you can still see.
+             __.-/|
+             \`o_O'
+              =( )=  +----------------------+
+                U|   | TÄÄLLÄ VARTIOI TAUNO |
+      /\  /\   / |   +----------------------+
+     ) /^\) ^\/ _)\     |
+     )   /^\/   _) \    |
+     )   _ /  / _)  \___|_
+ /\  )/\/ ||  | )_)\___,|))
+<  >      |(,,) )__)    |
+Obvious exits are: u and d.
+a large diamond vault labeled as misc13 (open)
+a gargantuan bamboo vault reinforced with diamond labeled as caster9 (open)
+a large emerald vault reinforced with dukonium labeled as misc1 (open) <blue glow>
+a large diamond vault labeled as archer5 (open)
+a large diamond vault labeled as tank11 (open)
+a gargantuan ebony vault reinforced with weenite labeled as archer3 (open)
+a large dukonium vault labeled as misc11 (open)
+an abstract painting hangs on the wall
+a large dukonium vault labeled as misc10 (open)
+a gargantuan weenite vault labeled as misc8 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as misc7 (open)
+a large emerald vault reinforced with dukonium labeled as misc2 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc4 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank4 (open) <blue glow>
+a large dragonscale vault reinforced with weenite labeled as caster4 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as caster3 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as caster1 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank6 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank5 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank7 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as tank3 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank2 (open) <blue glow>
+a large trashcan
+a gargantuan bamboo vault reinforced with dukonium labeled as caster6 (open) <blue glow>
+a large dukonium vault labeled as misc6 (open)
+a large ruby vault reinforced with emerald labeled as misc3 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc5 (open) <blue glow>
+a large emerald vault reinforced with dukonium labeled as caster5 (open) <blue glow>
+a large weenite money vault labeled as roope (open)
+a large fountain (full)
+a small, dark crystal shaped like a star
+a gargantuan dukonium vault labeled as caster7 (open)
+a large bamboo vault reinforced with dukonium labeled as tank8 (open)
+a gargantuan weenite vault labeled as misc9 (open) <blue glow>
+a large dukonium vault labeled as mccrystals (open)
+a large dukonium vault labeled as caster8 <blue glow>
+a large weenite vault labeled as tank9 (open)
+a gargantuan dukonium vault labeled as tank10 (open)
+a large emerald vault reinforced with dukonium labeled as archer1 (open)
+a large diamond vault labeled as archer2 (open)
+a gargantuan weenite vault labeled as archer4 (open)
+a gargantuan bamboo vault reinforced with dukonium labeled as caster2 (open)
+a large ebony vault reinforced with dukonium labeled as misc12 (open)
+a gargantuan weenite vault labeled as archer6 (open)
+a gargantuan sapphire vault reinforced with emerald labeled as tank1 (open) <blue glow>
+a large bamboo vault reinforced with dukonium labeled as crap1 (open)
+** Cost for 'flook': Cost: utime:8 stime:0 ticks:151713 **
+[18:29:29] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+[18:29]:Angu the spawn (sales): 2gem compass mb15k
+[18:29]:Hannibal [sales]: 15k
+Info: Corto goes link dead.
+[18:29]:Arnoldi the spawn (suomi): kumminki sellaset tukikupit ettei mitään tunne
+This chest is made from diamond and is an excellent item for storing valuable treasures.
+It is labeled as misc13.
+See 'help large diamond vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (0 out of 11 slots used)
+[18:29:39] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as caster9.
+See 'help gargantuan bamboo vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (6 out of 12 slots used)
+Silver ring bearing white figure of a dove <red glow>
+Golden Bracelets labeled as (Nuane) <orange glow>
+a pair of pure white flowing sleeves labeled as (Nuane)
+Tome of Chaos (CHAOTIC) <red glow>
+two protectors <white glow>s
+[18:29:40] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from emerald and is an excellent item for storing valuable treasures.
+It is labeled as misc1.
+You see a small combination lock with 4 dials on the large emerald vault.
+The dials are set to: £ \ $ < 
+See 'help large emerald vault' for more information.
+It is surrounded by a blue glow.
+This item is in superb condition.
+It looks ridiculously heavy.
+        Chest contains: (0 out of 11 slots used)
+[18:29:40] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from diamond and is an excellent item for storing valuable treasures.
+It is labeled as archer5.
+See 'help large diamond vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (9 out of 11 slots used)
+a bundle of 332 arrows labeled as phys <green glow>
+a bundle of 30 arrows labeled as elec <green glow>
+a bundle of 231 arrows labeled as cold <green glow>
+a bundle of 55 arrows labeled as mana <green glow>
+a bundle of 171 arrows labeled as phys <green glow>
+a bundle of 14 blue-flethced arrows labeled as mana <green glow>
+a bundle of 180 arrows labeled as acid <green glow>
+a bundle of 54 arrows labeled as phys <green glow>
+a bundle of 6 blue-flethced arrows labeled as psi <green glow>
+[18:29:41] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from diamond and is an excellent item for storing valuable treasures.
+It is labeled as tank11.
+See 'help large diamond vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+A black belt, inlaid with pearls <orange glow>
+A red belt, inlaid with diamonds <red glow>
+the Torso Maker sword labeled as (Nuane) <purple glow>
+The staff of Ulmat-Took
+Ring of resistance [Made by: Matriam] labeled as 4pr
+a purple moccasin labeled as wwmocca (Nuane) <blue glow>
+a Vorpal Blade <red glow>
+A black arm protector inlaid with rubies labeled as parryarm (Nuane) <orange glow>
+A black arm protector inlaid with rubies labeled as parryarm (Nuane) <red glow>
+adamantium large shield of Dragon Rebel labeled as (Nuane) red glow>m
+a death amulet labeled as (Nuane) <orange glow>
+[18:29:41] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from ebony and is an excellent item for storing valuable treasures.
+It is labeled as archer3.
+See 'help gargantuan ebony vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (10 out of 12 slots used)
+engraved turquoise bracers labeled as (Nuane) <yellow glow>
+the necklace of the oppressed labeled as (Nuane) <yellow glow>
+Pulsing Leggings labeled as (Nuane) <orange glow>
+the Crown of Vipers labeled as (Nuane) <orange glow>
+Shoes that look a little bit gay (was lost) <white glow>
+Cloak of fire labeled as (Nuane) <yellow glow>
+a pair of gauntlets of dexterity <green glow>
+Ring of Major Dexterity [Made by: Solarhawk]
+Ring of dexterity [Made by: Chorale] labeled as +6dex +1dam (Nuane)
+the staff of olympus
+[18:29:42] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as misc11.
+You see a small combination lock with 3 dials on the large dukonium vault.
+The dials are set to: 0 0 0 
+See 'help large dukonium vault' for more information.
+The chest has small silvery plate with name 'Kyo'
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (7 out of 11 slots used)
+a mosquito stinger
+thick red tome with star of Tarmalen on the cover
+red ruby
+The Rod of Channeling
+a twinkling black eye patch <red glow>
+a leather pants, coated with fresh dirt <red glow>
+large white shield
+[18:29:42] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as misc10.
+You see a small combination lock with 3 dials on the large dukonium vault.
+The dials are set to: 0 0 0 
+See 'help large dukonium vault' for more information.
+The chest has small silvery plate with name 'Kyo'
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (7 out of 11 slots used)
+two rings of spirits
+Tim's powerful staff
+a potion of restore dexterity
+a potion of restore strength
+green emerald
+red ruby
+[18:29:43] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from weenite and is an excellent item for storing valuable treasures.
+It is labeled as misc8.
+You see a small combination lock with 3 dials on the gargantuan weenite vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan weenite vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+a map of somekind
+large golden tome
+silver ring with engraving
+ring of infravision (extra good)
+blue sapphire
+Watermelon Staff
+two black cloth cases of lock picks
+The head of Zonni's statue
+twisted iron rod <red glow>
+white diamond
+tome with thick wooden covers and steel clasp
+[18:29:43] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as misc7.
+See 'help gargantuan bamboo vault' for more information.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+the twisted finger of kershai <red glow>
+Tisau, the Circlet of Power <yellow glow>
+a darkwood staff with a shimmering tip <red glow>
+three blue sapphires
+an odd looking crucifix (holy)
+The left foot of Zonni's statue
+a red leather folder
+a black leather folder
+a watch
+A heart shaped amulet <red glow>
+[18:29:44] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from emerald and is an excellent item for storing valuable treasures.
+It is labeled as misc2.
+You see a small combination lock with 3 dials on the large emerald vault.
+The dials are set to: @ = & 
+See 'help large emerald vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (10 out of 11 slots used)
+Rude mask made of oak
+golden spider scarab <red glow>
+large leather pouch for storing reagents labeled as pussi
+a HUGE shiny jar for storing herbs labeled as vine (48/50)
+small iron humanoid figurine
+two maps of somekind
+a HUGE shiny jar for storing herbs labeled as hoar (42/50)
+orb of wind and rain labeled as (Nuane)
+a HUGE shiny jar for storing herbs labeled as druid (50/50)
+[18:29:44] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from emerald and is an excellent item for storing valuable treasures.
+It is labeled as misc4.
+You see a small combination lock with 3 dials on the gargantuan emerald vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan emerald vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+A jet black obsidian key
+a small hill of mithril coins
+two maps of somekind
+knobbed oak staff
+large tome with green covers
+the punisher
+A potion of efreeti youth
+a dark, thin wand
+Mardraum's tits
+a sapphire crystal
+a ticket printed on white parchment
+[18:29:45] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as tank4.
+You see a small combination lock with 3 dials on the gargantuan bamboo vault.
+The dials are set to: ? ? ? 
+See 'help gargantuan bamboo vault' for more information.
+It is surrounded by a blue glow.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (10 out of 12 slots used)
+The Tail from the Maneater of Rudraprayag labeled as damtail (Nuane) <red glow>
+A green pair of forest shoes labeled as (Nuane) <orange glow>
+Nightfall, proclaimer of death eternal labeled as (Nuane) <red glow>
+a pile of white water-lilies on a large leaf labeled as (Nuane)
+king's lead hat labeled as (Nuane) <yellow glow>
+a black leather belt with a red bird claw symbol on the buckle labeled as (Nuane) <orange glow>
+Tough luck [Made by: Narril] labeled as TICK IN 5 SECONDS.
+4pr1cha
+a full shield clad with golden goatskin labeled as (Nuane) <orange glow>
+spiked mailed gauntlets labeled as (Nuane) <yellow glow>
+A Smooth Silver Tail Guard labeled as (Nuane)
+[18:29:45] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dragonscale and is an excellent item for storing valuable treasures.
+It is labeled as caster4.
+You see a small combination lock with 3 dials on the large dragonscale vault.
+The dials are set to: 0 0 0 
+See 'help large dragonscale vault' for more information.
+It is surrounded by a blue glow.
+This item is in superb condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+small crystal prism on a mithril chain labeled as (Nuane) <orange glow>
+a round-headed amulet <orange glow>
+shining ring crafted out of moonstone labeled as (Nuane) <red glow>
+a red feather push-up brassiere labeled as (Nuane) <red glow>
+segmented titanium belt labeled as (Nuane) <yellow glow>
+gloves of Nimbleness labeled as intgloves (Nuane) <orange glow>
+Ring of the Medusa labeled as (Nuane) <red glow>
+A pair of boots made of blue cobalt labeled as (Nuane) <yellow glow>
+long, black staff of petrified wood labeled as (Nuane) <orange glow>
+Glabrezu the Shimmering white mage staff <red glow>
+Silently humming Cross of Clouds labeled as (Nuane) (holy) <orange glow>
+[18:29:46] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from ebony and is an excellent item for storing valuable treasures.
+It is labeled as caster3.
+You see a small combination lock with 3 dials on the gargantuan ebony vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan ebony vault' for more information.
+It is surrounded by a blue glow.
+This item is in excellent condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+Mirror breastplate labeled as (Nuane) <orange glow>
+Black wool cloak of the Undying labeled as (Nuane) <red glow>
+a mithril necklace labeled as (Nuane)
+a pair of black boots labeled as wisboots (Nuane) <yellow glow>
+Spider Amulet labeled as (Nuane)
+Sacred Bracelets of Eternity labeled as (Nuane) <orange glow>
+Ring of Wisdom [Made by: Arnoldi] labeled as +6wis-3str
+an ice glove labeled as (Nuane)
+a green glove labeled as (Nuane)
+A black scaly crown, made of thorns <|nuane|> <orange glow>
+a long mallorn staff with gem embedding labeled as (Nuane) <orange glow>
+a black cloak (evil glow) labeled as (Nuane) <green glow>
+[18:29:46] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+Info: Yar goes link dead.
+This chest is made from ebony and is an excellent item for storing valuable treasures.
+It is labeled as caster1.
+You see a small combination lock with 3 dials on the gargantuan ebony vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan ebony vault' for more information.
+It is surrounded by a blue glow.
+This item is in excellent condition.
+It looks ridiculously heavy.
+        Chest contains: (0 out of 12 slots used)
+[18:29:47] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from ebony and is an excellent item for storing valuable treasures.
+It is labeled as tank6.
+You see a small combination lock with 3 dials on the gargantuan ebony vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan ebony vault' for more information.
+It is surrounded by a blue glow.
+This item is in superb condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+the Sun Belt of Apollo labeled as (Nuane) <yellow glow>
+a great emerald hanging from a dragon skin chain labeled as (Nuane)
+a pair of gauntlets enveloped by fire <red glow>
+A mysterious object labeled as (Nuane) <red glow>
+crystal necklace
+a magical, silk shirt labeled as (Nuane)
+three Rings of Shadows labeled as (Nuane)
+three piles of white water-lilies on a large leaf labeled as (Nuane)
+[18:29:47] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+[18:29]:Angu the spawn (sales): sold
+This chest is made from ebony and is an excellent item for storing valuable treasures.
+It is labeled as tank5.
+You see a small combination lock with 3 dials on the large ebony vault.
+The dials are set to: = + ^ 
+See 'help large ebony vault' for more information.
+It is surrounded by a blue glow.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+a red silk cloak embroidered with flame symbols labeled as (Nuane)
+Blackened half-plate labeled as strplate <purple glow>
+Ring of Shadows
+a wicked flesh amulet (diabolic) labeled as (Nuane) <yellow glow>
+a black sleeve made of mamba skin labeled as (Nuane)
+two Pelt from the Maneaters of Rudraprayag labeled as (Nuane) <red glow>
+A fresh Paw from the Maneater of Rudraprayag labeled as (Nuane) <red glow>
+Fire medallion labeled as (Nuane)
+Opaque bracelets 'tekek' labeled as (Nuane) <red glow>
+Blue dragon boots labeled as genprot (Nuane) <yellow glow>
+[18:29:48] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+Info: Gantz enters the game.
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as tank7.
+You see a small combination lock with 3 dials on the gargantuan bamboo vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan bamboo vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+a set of vampire teeth <green glow>
+ring of powers [Made by: Valkrist] labeled as 4avoid
+two bracelet decorateds with white silver skulls labeled as throw weight
+black horned helm labeled as (Nuane)
+Ring of the barbarians [Made by: Caitline] labeled as +5tw,-3int,nuane
+Ring of resistance [Made by: Krokodiili] labeled as 4pr1cha (Nuane)
+heavy obsidian boot labeled as (Nuane) <red glow>
+a feather pen knife <red glow>
+three black sleeve mades of mamba skin labeled as (Nuane)
+[18:29:49] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+You see nothing special.
+[18:29:50] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from emerald and is an excellent item for storing valuable treasures.
+It is labeled as tank3.
+You see a small combination lock with 3 dials on the gargantuan emerald vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan emerald vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+a pair of lambskin leggings labeled as dexavoidlegs (Nuane) <orange glow>
+black shadowy cape labeled as (Nuane) <red glow>
+black scaly gloves...it has a black aura around it labeled as (Nuane) <yellow glow>
+Sturdy black leather boot inlaid with rubies labeled as dodgeboot (Nuane) <orange glow>
+steel-reinforced leather boot <green glow>
+a pair of cold black leggings labeled as (Nuane)
+two steel rings labeled as (Nuane)
+the Great Belt of the Demon Queen of Spiders labeled as (Nuane)
+the Trilloch's sword labeled as (Nuane) <red glow>
+a feather pen knife labeled as (Nuane) <red glow>
+a large shield clad with golden dragonskin labeled as (Nuane) <orange glow>
+[18:29:50] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from ebony and is an excellent item for storing valuable treasures.
+It is labeled as tank2.
+You see a small combination lock with 4 dials on the large ebony vault.
+The dials are set to: 1 / - * 
+See 'help large ebony vault' for more information.
+It is surrounded by a blue glow.
+This item is in superb condition.
+It looks ridiculously heavy.
+        Chest contains: (0 out of 11 slots used)
+[18:29:51] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as caster6.
+You see a small combination lock with 3 dials on the gargantuan bamboo vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan bamboo vault' for more information.
+It is surrounded by a blue glow.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+silverstar bracelets labeled as (Nuane) <orange glow>
+Tattered Silver Shimmering Cloak labeled as wiscloak (Nuane) <orange glow>
+Nova Arcanum, Melkior's book of necromancy labeled as (Nuane) <yellow glow>
+Nova Arcanum, Melkior's book of necromancy labeled as (Nuane)
+a small crumbled cross (holy) <yellow glow>
+a wand of magic labeled as wiswand (Nuane) <orange glow>
+a glimmering leather belt with gem decoration labeled as (Nuane) <orange glow>
+two Blue gloves of master Conjurer labeled as (Nuane) <red glow>
+an unholy clerical collar labeled as (Nuane) <yellow glow>
+purple amazon cloak labeled as (Nuane) <yellow glow>
+moonstone leggings labeled as (Nuane) <yellow glow>
+[18:29:52] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as misc6.
+See 'help large dukonium vault' for more information.
+This item is in superb condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+Amulet of Deep Shadows labeled as (Nuane) <red glow>
+Custom wand named blast vacuum (1/100)
+Custom wand named blast vacuum (2/100)
+Flint and steel
+Tim's powerful staff
+a pair of black silk gloves labeled as (Nuane)
+midnight black bracers labeled as (Nuane)
+two black cloth cases of lock picks
+a book of eternal youth (new)
+a gold necklace
+[18:29:52] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from ruby and is an excellent item for storing valuable treasures.
+It is labeled as misc3.
+See 'help large ruby vault' for more information.
+It is surrounded by a blue glow.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (6 out of 11 slots used)
+two gold rings with spider ornament <red glow>
+an ancient tome with golden covers <orange glow>
+Barbarian Ring of Friendship
+a jar of black paste
+the bright blue staff of exploration labeled as <|HO+|> <orange glow>
+[18:29:53] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from emerald and is an excellent item for storing valuable treasures.
+It is labeled as misc5.
+See 'help gargantuan emerald vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+a gleaming blue-white diamond
+a sparkling purple amethyst
+a magnificent deep purple amethyst
+horseshoe-shaped white object with gems <yellow glow>
+a leather scroll
+thick red tome with star of Tarmalen on the cover
+black iron rod <red glow>
+a supple bamboo fishing rod
+Nuane's tits
+circular topaz amulet
+a gold necklace
+a small jeweled ring
+[18:29:53] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from emerald and is an excellent item for storing valuable treasures.
+It is labeled as caster5.
+You see a small combination lock with 3 dials on the large emerald vault.
+The dials are set to: 0 0 0 
+See 'help large emerald vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+heavy tabard with a chalice ensignia labeled as (Nuane) <orange glow>
+two Shields of a Thousand Reflections labeled as sprshield (Nuane) <red glow>
+Six wis One 1hp [Made by: Rigger]
+Speedy Spells [Made by: Sprite] labeled as 4spr
+a wand of magic labeled as wiswand <orange glow>
+an intricate gaiter with scarlet runes labeled as firegaiter (Nuane) <yellow glow>
+A burning red tail ring labeled as (Nuane) <red glow>
+Shield of a Thousand Reflections labeled as qcshield (Nuane) <orange glow>
+old and worn arm protectors <yellow glow>
+glittering leg protectors labeled as (Nuane) <orange glow>
+[18:29:54] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from weenite and is an excellent item for storing your hard-earned money.
+It is labeled as roope.
+See 'help large weenite money vault' for more information.
+Large weenite money vault has 437619 coins worth 11134256.00 gold and space for 1267200 coins.
+    Platinum     32765 Worth:  327650.00
+    Anipium     132000 Worth:  6600000.00
+    Mithril       6605 Worth:  3302500.00
+    Batium        6443 Worth:  644300.00
+    Gold        259806 Worth:  259806.00
+This item is in excellent condition.
+It looks very very heavy.
+[18:29:55] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as caster7.
+See 'help gargantuan dukonium vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+An oak cross (holy) <yellow glow>
+Keeper, the majestic white lance of Lanzia labeled as (Nuane) <orange glow>
+the shining helm of azakh-khanan labeled as (Nuane) <orange glow>
+two purple gloves labeled as (Nuane)
+Girdle of Ethereal Power labeled as wisgirdle (Nuane) <orange glow>
+Scarf of Beauty labeled as (Nuane) <yellow glow>
+a little leather bag labeled as (Nuane) <yellow glow>
+sparkling ruby ring labeled as (Nuane)
+bracelet made of green crystal labeled as (Nuane)
+ancient yellow sleeves labeled as (Nuane) <yellow glow>
+Shield of a Thousand Reflections labeled as sprshield <orange glow>
+[18:29:56] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as tank8.
+You see a small combination lock with 3 dials on the large bamboo vault.
+The dials are set to: 0 0 0 
+See 'help large bamboo vault' for more information.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+Pendant of the Vampire <red glow>
+Helm of souls labeled as (Nuane) <yellow glow>
+The spiked loop labeled as (Nuane) <red glow>
+a battleaxe of divinities labeled as (Nuane) <red glow>
+Shield of a Thousand Reflections labeled as parryshield <orange glow>
+A large bloody nose-ring labeled as (Nuane) <red glow>
+a broad spiked leather collar labeled as (Nuane)
+two arm protectors called Damien (Nuane)
+Blackened half-plate <red glow>
+a shining flanged battle mace <red glow>
+[18:29:57] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from weenite and is an excellent item for storing valuable treasures.
+It is labeled as misc9.
+You see a small combination lock with 3 dials on the gargantuan weenite vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan weenite vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 12 slots used)
+green scaled pentagram shield <red glow>
+glaive of piercing <red glow>
+sword of wonders <red glow>
+a small jug (empty)
+a potion of restore dexterity
+a black gem
+a tiny crescent shaped piece of greenish metal <red glow>
+a green glove
+A leather pouch labeled as kynttilät (half full)
+a map of somekind
+yellow topaz
+[18:29:58] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as mccrystals.
+You see a small combination lock with 3 dials on the large dukonium vault.
+The dials are set to: 0 0 0 
+See 'help large dukonium vault' for more information.
+The chest has small silvery plate with name 'Kyo'
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (10 out of 11 slots used)
+nine multicolored crystals <yellow glow>
+multicolored crystal labeled as cr2 <yellow glow>
+[18:29:59] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as caster8.
+You see a small combination lock with 4 dials on the large dukonium vault.
+The dials are set to: 1 5 4 0 
+See 'help large dukonium vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+The large dukonium vault is locked.
+[18:30:00] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from weenite and is an excellent item for storing valuable treasures.
+It is labeled as tank9.
+See 'help large weenite vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+glittering diamond bracelet of Tranquility <orange glow>
+glittering diamond bracelet of Tranquility labeled as (Nuane) <orange glow>
+three arm protectors called Damien (Nuane)
+blue tabard with silver symbol <red glow>
+black silk belt with tiger head ornament labeled as (Nuane)
+cloak of chilling death labeled as (Nuane)
+mantle of the woodsman labeled as (Nuane) <red glow>
+Silver Battlesuit labeled as (Nuane) <orange glow>
+Shield of a Thousand Reflections labeled as dodgeshield (Nuane) <orange glow>
+[18:30:00] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+Ranger shouts 'Gee, sorry about that Muta *snicker*!'
+Info: Muta dies.
+The brown turtle pokes into a small undead shaped doll.
+This lock has 4 dials, turn accordingly.
+[18:30:06] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+You start operating lock.
+[18:30:07] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as tank10.
+You see a small combination lock with 3 dials on the gargantuan dukonium
+vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan dukonium vault' for more information.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 12 slots used)
+a circular ornamental shield with wyvern engravings <red glow>
+an ancient breastplate decorated with a skull labeled as (Nuane) <orange glow>
+short dull black cloak labeled as (Nuane) <yellow glow>
+shadow belt labeled as (Nuane) <red glow>
+Uranium Boots...emitting a deadly red aura labeled as (Nuane)
+Mace of the Barbarian Lords labeled as (Nuane) <purple glow>
+an extravagant, runed bracelets of the Greatwyrm labeled as barso (Nuane) <red glow>
+a glaring blue glove labeled as (Nuane) <red glow>
+A fresh Paw from the Maneater of Rudraprayag labeled as (Nuane) <red glow>
+Visored helmet of Kaela Jaessar labeled as (Nuane) <orange glow>
+Necklace of unearthly might labeled as (Nuane)
+[18:30:10] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from emerald and is an excellent item for storing valuable treasures.
+It is labeled as archer1.
+See 'help large emerald vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (9 out of 11 slots used)
+a bundle of 62 arrows labeled as elec <yellow glow>
+a bundle of 100 arrows labeled as cold <yellow glow>
+a bundle of 135 arrows labeled as psi
+a bundle of 68 arrows labeled as poison
+a bundle of 43 arrows labeled as asphyx
+a bundle of 51 arrows labeled as acid
+a bundle of 21 arrows labeled as mana
+a bundle of 23 arrows labeled as elec <yellow glow>
+a bundle of 62 arrows labeled as phys <yellow glow>
+[18:30:11] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from diamond and is an excellent item for storing valuable treasures.
+It is labeled as archer2.
+See 'help large diamond vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (9 out of 11 slots used)
+Diamond sling [Made by: Murgan]
+Diamond heavy crossbow [Made by: Murgan]
+Diamond medium crossbow [Made by: Murgan]
+Diamond light crossbow [Made by: Murgan]
+Diamond slingshot [Made by: Murgan]
+ebony arrow with feathers fletching and diamond head labeled as poison <green glow>
+Diamond staff sling [Made by: Murgan]
+the staff of olympus <yellow glow>
+Diamond longbow [Made by: Murgan] <red glow>
+[18:30:12] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from weenite and is an excellent item for storing valuable treasures.
+It is labeled as archer4.
+See 'help gargantuan weenite vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 12 slots used)
+great yellow boots
+a leather pumpkin shoulder pad <yellow glow>
+an extravagant, exquisite kote of the Greatwyrm <orange glow>
+Felidae's sparkling crystal amulet <green glow>
+two Bracelets of Despair labeled as (Nuane) <yellow glow>
+Ring of dexterity [Made by: Chorale] labeled as 6dex1dam
+a plain gold and crystal ring labeled as (Nuane)
+snakeskin belt labeled as (Nuane) <orange glow>
+two staffs of olympus labeled as (Nuane) <yellow glow>
+[18:30:13] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as caster2.
+See 'help gargantuan bamboo vault' for more information.
+This item is in great condition.
+It looks ridiculously heavy.
+        Chest contains: (0 out of 12 slots used)
+[18:30:14] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+The brown turtle pokes into a tiny little turtleshell.
+TICK IN 5 SECONDS.
+This chest is made from ebony and is an excellent item for storing valuable treasures.
+It is labeled as misc12.
+See 'help large ebony vault' for more information.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+a black pill with skull shaped pattern on it
+a small wooden penny
+Two hairy balls hanging on a narrow string <red glow>
+a detached left hand of a doll
+Soul Ripper, the jet black katana <orange glow>
+a detached left leg of a doll
+a detached right leg of a doll
+a detached head of a doll
+a smudged torso of a doll
+fur-covered tome with GROO written on it
+tome with thick wooden covers and steel clasp
+[18:30:16] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+You set the lock to 0 0 0 0.
+*klonk*
+This chest is made from weenite and is an excellent item for storing valuable treasures.
+It is labeled as archer6.
+See 'help gargantuan weenite vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (5 out of 12 slots used)
+ebony arrow with feathers fletching and aluminium head labeled as ar::acid rain potion added <torturously yellow glow>
+ebony arrow with feathers fletching and diamond head labeled as +acid_arrow <torturously yellow glow>
+ebony arrow with feathers fletching and diamond head labeled as +fire_blast <torturously yellow glow>
+a bundle of 53 arrows labeled as phys <red glow>
+a bundle of 50 enchanted arrows <white glow>
+[18:30:17] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from sapphire and is an excellent item for storing valuable treasures.
+It is labeled as tank1.
+You see a small combination lock with 3 dials on the gargantuan sapphire
+vault.
+The dials are set to: ? £ . 
+See 'help gargantuan sapphire vault' for more information.
+It is surrounded by a blue glow.
+This item is in excellent condition.
+It looks ridiculously heavy.
+        Chest contains: (0 out of 12 slots used)
+[18:30:19] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as crap1.
+See 'help large bamboo vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+Nuane's Turtle Soup
+Pink postcard, with a smiling face of Cupid on it
+A hand rolled joint
+a leather purse (Kyo's) (empty)
+a leather purse (Darol's) (empty)
+a green turtle
+a brown turtle
+a tiny turtle (pulled into its shell)
+a tiny little turtleshell
+a small undead shaped doll
+a decapitated head of Nuane (holy)
+[18:30:20] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+You see nothing special.
+[18:30:21] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+You open the caster8.
+** Cost for 'open caster8': Cost: utime:4 stime:4 ticks:106269 **
+[18:30:24] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as caster8.
+You see a small combination lock with 4 dials on the large dukonium vault.
+The dials are set to: 0 0 0 0 
+See 'help large dukonium vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Caster8 contains: (10 out of 11 slots used)
+two Zhentorium reinforced leggings of Xzui labeled as (Nuane) <red glow>
+a rose clasp labeled as (Nuane) <orange glow>
+an ivory amulet in the shape of small scales labeled as (Nuane)
+a cross full of scratches (holy)
+the opal ring of Oystria labeled as (Nuane) <red glow>
+a white skull hanging on a steel chain <red glow>
+gloves of Nimbleness labeled as (Mape) <red glow>
+Ring of quickchant [Made by: Stargazer] labeled as 6qc1spr
+swirling bands of lava <flaming>
+[18:30:25] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+You set the lock to 0 0 0.
+Looks like large dukonium vault opened.
+You set the lock to 0 0 0.
+Congrats! You opened large dukonium vault.
+Info: Teppo recovers from link death.
+Info: Drizzin goes link dead.
+You set the lock to 0 0 0.
+You hear a soft click from the gargantuan emerald vault.
+Beast shouts 'Time to meet your maker, Boot!'
+Info: Boot dies.
+Info: Leopoldo enters the game.
+Info: Chaus dies.
+A gargantuan bamboo vault reinforced with dukonium labeled as mersu5 (open) is already open.
+You open the a large dukonium vault labeled as mersu4 (unlocked).
+A large dukonium vault labeled as mersu3 (open) is already open.
+A gargantuan dukonium vault labeled as mersu2 (open) <blue glow> is already open.
+A gargantuan emerald vault reinforced with dukonium labeled as mersu1 (open) <blue glow> is already open.
+You open the a large dukonium vault labeled as dest4 (unlocked).
+You open the a large dukonium vault labeled as dest3 (unlocked).
+A gargantuan bamboo vault reinforced with dukonium labeled as dest2 (open) is already open.
+A large bamboo vault reinforced with sapphire labeled as dest1 (open) is already open.
+A large bamboo vault reinforced with weenite labeled as sales2 (open) is already open.
+A large ebony vault reinforced with dukonium labeled as sales1 (open) is already open.
+You open the a gargantuan emerald vault reinforced with dukonium labeled as sacit (unlocked).
+A large dukonium vault labeled as sales3 (open) is already open.
+A gargantuan ebony vault reinforced with weenite labeled as relsukartat (open) is already open.
+A large diamond vault labeled as sales4 (open) is already open.
+A wood crate reinforced with bamboo labeled as 3slot (open) is already open.
+A large bamboo vault reinforced with dukonium labeled as tyhjä (open) is already open.
+A gargantuan bamboo vault reinforced with dukonium labeled as tyhjä (open) is already open.
+A large dukonium money vault labeled as roope2 (open) is already open.
+A gargantuan bamboo vault reinforced with dukonium labeled as tyhjä (open) is already open.
+** Cost for 'open all chest': Cost: utime:16 stime:0 ticks:178301 **
+[18:31:44] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+TICK IN 5 SECONDS.
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as mersu5.
+See 'help gargantuan bamboo vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (7 out of 12 slots used)
+a big shiny box for storing minerals labeled as pimee <yellow glow> (19/20)
+a big shiny box for storing minerals labeled as valo <yellow glow> (20/20)
+a HUGE shiny can for storing organs labeled as bodypart (11/50)
+a HUGE shiny can for storing organs labeled as can2 (36/50)
+a HUGE shiny can for storing organs labeled as can1 (27/50)
+large leather pouch for storing reagents
+a HUGE shiny tube for storing pills (0/50)
+[18:31:48] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as mersu4.
+You see a small combination lock with 3 dials on the large dukonium vault.
+The dials are set to: 0 0 0 
+See 'help large dukonium vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (8 out of 11 slots used)
+a white headband with red dot
+two White mycelium boots
+a purplish Beholder headwear
+stout dwarven mining axe <red glow>
+a HUGE shiny jar for storing herbs labeled as jar1 (47/50)
+a HUGE shiny jar for storing herbs labeled as jar2 (42/50)
+a HUGE shiny jar for storing herbs labeled as jar3 (48/50)
+[18:31:48] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as mersu3.
+You see a small combination lock with 3 dials on the large dukonium vault.
+The dials are set to: 0 0 0 
+See 'help large dukonium vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (10 out of 11 slots used)
+large leather pouch for storing reagents labeled as k <yellow glow>
+large leather pouch for storing reagents labeled as protti
+two white cloth packs for holding salves labeled as wis [2/6]
+white cloth pack for holding salves labeled as wis [0/6]
+white cloth pack for holding salves [3/6]
+two adamantium picks labeled as <|VALMET|>
+a heavy old crucifix (holy)
+white cloth pack for holding salves [6/6]
+[18:31:49] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as mersu2.
+See 'help gargantuan dukonium vault' for more information.
+It is surrounded by a blue glow.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+a HUGE sturdy pack for storing potions (29/50)
+large leather pouch for storing reagents labeled as reiska
+large leather pouch for storing reagents labeled as backup <yellow glow>
+a HUGE sturdy pack for storing potions (35/50)
+a HUGE sturdy pack for storing potions labeled as pakki3 (50/50)
+a HUGE sturdy pack for storing potions labeled as pakki4 (50/50)
+a HUGE sturdy pack for storing potions labeled as pakki6 (50/50)
+a HUGE sturdy pack for storing potions labeled as pakki5 (50/50)
+a HUGE sturdy pack for storing potions labeled as pakki2 (40/50)
+a HUGE sturdy pack for storing potions labeled as pakki8 (50/50)
+a HUGE sturdy pack for storing potions labeled as pakki9 (50/50)
+a HUGE sturdy pack for storing potions labeled as pakki7 (45/50)
+[18:31:49] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from emerald and is an excellent item for storing valuable treasures.
+It is labeled as mersu1.
+See 'help gargantuan emerald vault' for more information.
+It is surrounded by a blue glow.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+white ruffled shirt
+Gauntlets of Lust <red glow>
+a big shiny box for storing minerals labeled as woodi <yellow glow> (0/20)
+black leather steeltoe boots <yellow glow>
+dull grey helmet <yellow glow> (0/2)
+a HUGE shiny box for storing minerals labeled as birch-zhentorium <yellow glow> (24/50)
+a big shiny box for storing minerals <yellow glow> (15/20)
+a HUGE shiny box for storing minerals <yellow glow> (29/50)
+a HUGE shiny box for storing minerals labeled as b1 <yellow glow> (30/50)
+two black D-shaped saws
+stout dwarven mining axe <red glow>
+[18:31:50] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as dest4.
+You see a small combination lock with 3 dials on the large dukonium vault.
+The dials are set to: 0 0 0 
+See 'help large dukonium vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (10 out of 11 slots used)
+a malachite cross of Kofgaad (holy)
+two Fire full shields [Made by: Delveling]
+Diamond o-yoroi [Made by: Broetchen] <yellow glow>
+Mysterious battlesuit [Made by: Grimpold]
+an old and twisted crucifix (holy)
+a beautiful tiny cross (holy)
+Diamond o-yoroi [Made by: Delveling] <yellow glow>
+silvery spider necklace <red glow>
+Pendant of Apathy..  emitting a dead black aura
+[18:31:50] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as dest3.
+You see a small combination lock with 3 dials on the large dukonium vault.
+The dials are set to: 0 0 0 
+See 'help large dukonium vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (10 out of 11 slots used)
+Legendary Cross of Winds (holy) <red glow>
+Rakirsai, The Blue Flame
+a tasteless crucifix (holy)
+a laen o-yoroi [Made by: Tails] <yellow glow>
+a zhentorium full plate [Made by: Tails] <yellow glow>
+a zhentorium o-yoroi [Made by: Tails] <yellow glow>
+a dukonium battlesuit crafted by Spid <yellow glow>
+A plain maple cross (holy)
+a laen full plate crafted by Tails <yellow glow>
+a white cross full of stains (holy)
+[18:31:51] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as dest2.
+See 'help gargantuan bamboo vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (12 out of 12 slots used)
+two green gloves
+bracelet made of yellow crystal
+a white longbow <red glow>
+Silently humming cross made from gold (holy) <red glow>
+misty blue shield of energy <red glow>
+Full fire shield [Made by: Delveling]
+a peculiar headgear with reindeer antlers labeled as (Nuane) <red glow>
+Magnificient twisty lizard sceptre
+a sturdy leather great boots <red glow>
+a diamond full plate [Made by: Tails] <yellow glow>
+Sinful Boots of Sloth labeled as Orome <red glow>
+[18:31:51] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as dest1.
+See 'help large bamboo vault' for more information.
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 11 slots used)
+two black sabres with spider shaped guard <red glow>
+exceptional adamantium chainmail <red glow>
+Ebony Bracers
+flowing silk cloak with spider ornament at back <orange glow>
+an adamantium full plate crafted by Tails <yellow glow>
+Ring of Resistance [Made by: Dryad]
+Fire full shield [Made by: Delveling]
+bracelet made of yellow crystal
+a small ring of smoke
+a great emerald hanging from a dragon skin chain
+[18:31:53] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as sales2.
+You see a small combination lock with 3 dials on the large bamboo vault.
+The dials are set to: 0 0 0 
+See 'help large bamboo vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (6 out of 11 slots used)
+two black tops with silvery spider web ornaments <red glow>
+dark grey and white plaid kilt <red glow>
+large tome with green covers
+swirled green vest <red glow>
+Dream mask of Clouds called 'Nightmare preventer' <orange glow>
+[18:31:53] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from ebony and is an excellent item for storing valuable treasures.
+It is labeled as sales1.
+You see a small combination lock with 3 dials on the large ebony vault.
+The dials are set to: 0 0 0 
+See 'help large ebony vault' for more information.
+The chest has small silvery plate with name 'Kyo'
+This item is in incredible condition.
+It looks ridiculously heavy.
+        Chest contains: (10 out of 11 slots used)
+the Necroblade <red glow>
+Mirror breastplate <red glow>
+two black masks with silvery spider ornament <red glow>
+golden wristbands
+bracelet made of yellow crystal
+potion of longevity
+silvery spider necklace <red glow>
+black top with silvery spider web ornaments <red glow>
+the singing sword <red glow>
+[18:31:54] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from emerald and is an excellent item for storing valuable treasures.
+It is labeled as sacit.
+You see a small combination lock with 3 dials on the gargantuan emerald vault.
+The dials are set to: 0 0 0 
+See 'help gargantuan emerald vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (4 out of 12 slots used)
+Durandium demon-collar
+cloak of the magi
+a vibrant black snake-dirk <red glow>
+highsteel bastard sword <red glow>
+[18:31:55] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing valuable treasures.
+It is labeled as sales3.
+You see a small combination lock with 3 dials on the large dukonium vault.
+The dials are set to: 0 0 0 
+See 'help large dukonium vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (8 out of 11 slots used)
+armour of red dragon scales
+The ancient rune of Kza-ze
+two black tops with silvery spider web ornaments <red glow>
+two flaming red crystal crowns
+The Legendary Shield known as 'The Fire and the Fury' <red glow>
+spiked mailed gauntlets <red glow>
+[18:31:55] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from ebony and is an excellent item for storing valuable treasures.
+It is labeled as relsukartat.
+See 'help gargantuan ebony vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (11 out of 12 slots used)
+many maps of somekind
+[18:31:56] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from diamond and is an excellent item for storing valuable treasures.
+It is labeled as sales4.
+See 'help large diamond vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (10 out of 11 slots used)
+a vibrant black breastplate
+demon's mask
+white helmet of the defender <red glow>
+The ancient rune of Yozar-ain
+A black arm protector inlaid with rubies <red glow>
+three black tops with silvery spider web ornaments <red glow>
+the Necroblade <red glow>
+spiked battlesuit
+[18:31:57] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from wood and is an excellent item for storing valuable treasures.
+It is labeled as 3slot.
+See 'help wood crate' for more information.
+This item is in AWESOME condition.
+It looks very heavy.
+        Chest contains: (0 out of 3 slots used)
+[18:31:57] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as tyhjä.
+See 'help large bamboo vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (0 out of 11 slots used)
+[18:31:58] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as tyhjä.
+See 'help gargantuan bamboo vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (0 out of 12 slots used)
+[18:32:00] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from dukonium and is an excellent item for storing your hard-earned money.
+It is labeled as roope2.
+See 'help large dukonium money vault' for more information.
+Large dukonium money vault has 0 coins worth 0 gold and space for 1266400 coins.
+This item is in AWESOME condition.
+It looks very very heavy.
+[18:32:01] hp 905/905  sp 830/830  ep 345/345  xp 22742  $ 0/102613  wimpy off
+
+This chest is made from bamboo and is an excellent item for storing valuable treasures.
+It is labeled as tyhjä.
+See 'help gargantuan bamboo vault' for more information.
+This item is in AWESOME condition.
+It looks ridiculously heavy.
+        Chest contains: (0 out of 12 slots used)

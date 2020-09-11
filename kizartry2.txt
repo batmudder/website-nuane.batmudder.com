@@ -1,0 +1,152 @@
+﻿[1;37mOrthanc [0;52m[party]:[1;37m nyt krittii[0m
+Milk tries to stab Kizarwexius, but her attack is easily blocked.
+[36mMajor party heal[0m: [57m3[0m
+[36mMajor party heal[0m: [57m1 [0m(greater haste)
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Kizarwexius GLEAMS brightly and everything is reflected!
+Kharadus hits Kizarwexius 2 times.
+Dupre hits Kizarwexius 1 time.
+Kizarwexius hits Kharadus 2 times.
+Turmio [1;36mcast(s): [0m'gtzt mar nak grttzt' [57m(Golden arrow)[0m
+As Turmio casts the spell, he pulls out a copper rod which bursts into a million prismatic starbursts.
+[33;45mTurmio grins as his golden arrow hits Kizarwexius.[0m
+Turmio's fingertips are surrounded with swirling ENERGY as he casts the spell.
+The air is filled with pure energy and crackles with power.
+party report UNSEEN!
+[51mUnseen BURSTS of magic are absorbed into the spell![0m
+Torc [1;36mcast(s): [0m'judicandus eurto mangenic' [57m(True party heal)[0m
+Torc's spell heals you. You feel all better.
+Lim [1;36mcast(s): [0m'cah mar nak grttzt' [57m(Cold ray)[0m
+As Lim casts the spell, he pulls out a steel arrowhead which bursts into a million prismatic starbursts.
+[1;34;47mLim grins as his cold ray hits Kizarwexius.[0m
+[1;37mMilk reports: Hp: 1243 (1243) Sp: 28 (1044) Ep: 375 (433).[0m
+[1;37mKharadus reports: Hp: 1050 (1083) Sp: 795 (795) Ep: 352 (370).[0m
+You are casting 'major party heal'.
+[17:18:00] hp 824/824 | sp 253/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+[1;37mMilk reports: Hp: 1243 (1243) Sp: 28 (1044) Ep: 375 (433).[0m
+Kizarwexius[32m is slightly hurt. [0m(65-80% hps)
+[17:18:00] hp 824/824 | sp 253/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+,-----------------------------------------------------------------------------.
+| 1.1   Milk         [54m fol 1243(1243)   28(1044)[0m 375(433) | 100 |            0 |
+| 1.2   Dupre        [54m ldr 1312(1312)    7(   7)[0m 257(400) |  69 |            0 |
+| 1.3   Kharadus     [32m fol 1050(1083)[54m  795( 795)[0m 352(370) |  85 |            0 |
+| 2.1   Nuane        [54m fol  824( 824)[31m  253(1197)[0m 253(253) | 100 |            0 |
+| 2.2   Orthanc      [54m fol  830( 830)[0m 1039(1438) 301(296) | 100 |            0 |
+| 2.3   Torc         [54m fol  931( 931)[53m  542(1195)[0m 275(275) | 100 |            0 |
+| 3.1   Turmio       [54m fol  610( 610)[53m  618(1274)[0m 270(248) |  90 |            0 |
+| 3.2   Lim          [54m fol  824( 824)[53m  788(1246)[0m 303(303) |  92 |            0 |
+| 3.3   Yggrasil     [54m fol  675( 675)[31m  452(1448)[0m 265(263) |  85 |            0 |
+`-----------------------------------------------------------------------------'
+[17:18:00] hp 824/824 | sp 253/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+[1;37mNuane [1;30m(report):[1;37m UNSEEN![0m
+[17:18:00] hp 824/824 | sp 253/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+[33;45mTurmio [1;30m[report]:[0;33m golden arrow hits Kizarwexius (40 % resist)[0m
+Torc starts concentrating on a new spell.
+[1;37mTurmio [1;30m[report]:[1;37m Concealed[0m
+Milk starts concentrating on a new offensive skill.
+Kizarwexius [1;36mcast(s): [0m'se on sarki nyt' [57m(Destroy armour)[0m
+hp [32m824[0m/824 ([32m+65[0m) | sp [33m253[0m/1197 () | ep [32m253[0m/253 ()
+[53;42mYou are done with the chant.[0m
+You [1;36mcast(s): [0m'judicandus puorgo mangenic' [57m(Major party heal)[0m
+You heal some of Kharadus's wounds.
+hp [32m824[0m/824 () | sp [33m173[0m/1197 ([31m-80[0m) | ep [32m253[0m/253 ()
+Kharadus [1;36mcast(s): [0m'judicandus puorgo mangenic' [57m(Major party heal)[0m
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Kizarwexius GLEAMS brightly and everything is reflected!
+Kharadus hits Kizarwexius 2 times.
+Milk hits Kizarwexius 1 time.
+Kizarwexius hits Milk 1 time.
+Yggrasil [1;36mcast(s): [0m'tora tora tora' [57m(Psychic crush)[0m
+[34;47mYggrasil crushes Kizarwexius's mind with a powerful psychic attack![0m
+[31mShade of corrupted paladin shouts 'Croesus no longer causes lag!'[0m
+[1;30mInfo: Croesus dies.[0m
+[1;37mMilk reports: Hp: 1174 (1243) Sp: 28 (1044) Ep: 375 (433).[0m
+[1;37mKharadus reports: Hp: 1069 (1083) Sp: 715 (795) Ep: 355 (370).[0m
+[1;37mOrthanc [0;52m[party]:[1;37m Cold ray: 1[0m
+You are not doing anything at the moment.
+[17:18:03] hp 824/824 | sp 173/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+[1;37mYggrasil [1;30m(report):[1;37m 40% resist[0m
+Kizarwexius[32m is slightly hurt. [0m(65-80% hps)
+[17:18:03] hp 824/824 | sp 173/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+[1;37mTurmio [0;52m[party]:[1;37m selv" :)[0m
+,-----------------------------------------------------------------------------.
+| 1.1   Milk         [32m fol 1174(1243)   28(1044)[0m 375(433) | 100 |            0 |
+| 1.2   Dupre        [32m ldr 1311(1312)[54m    7(   7)[0m 257(400) |  69 |            0 |
+| 1.3   Kharadus     [32m fol 1069(1083)  715( 795)[0m 355(370) |  85 |            0 |
+| 2.1   Nuane        [54m fol  824( 824)[57m  173(1197)[0m 253(253) | 100 |            0 |
+| 2.2   Orthanc      [54m fol  830( 830)[0m 1039(1438) 301(296) | 100 |            0 |
+| 2.3   Torc         [54m fol  931( 931)[53m  542(1195)[0m 275(275) | 100 |            0 |
+| 3.1   Turmio       [54m fol  610( 610)[53m  618(1274)[0m 270(248) |  90 |            0 |
+| 3.2   Lim          [54m fol  824( 824)[53m  788(1246)[0m 303(303) |  92 |            0 |
+| 3.3   Yggrasil     [32m fol  655( 672)[31m  305(1448)[0m 265(263) |  85 |            0 |
+`-----------------------------------------------------------------------------'
+[17:18:03] hp 824/824 | sp 173/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+Kharadus starts concentrating on a new spell.
+[1;37mDupre [0;52m(party):[1;37m whoa[0m
+p say hahahha
+[1;37mNuane [0;52m(party):[1;37m hahahha[0m
+[17:18:04] hp 824/824 | sp 173/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+Skeleton warrior arrives from southeast.
+mjph
+You start chanting.
+[17:18:05] hp 824/824 | sp 173/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+Orthanc [1;36mcast(s): [0m'cah mar nak grttzt' [57m(Cold ray)[0m
+As Orthanc casts the spell, he pulls out a steel arrowhead which bursts into a million prismatic starbursts.
+[1;34;47mOrthanc grins as his cold ray hits Kizarwexius.[0m
+[36mMajor party heal[0m: [57m3[0m
+[36mMajor party heal[0m: [57m2 [0m(haste)
+cast info
+scan all
+pss
+[57m*****************************************************[0m
+Skeleton warrior hits Kharadus 2 times.
+Kizarwexius hits Kharadus 2 times.
+Milk hits Skeleton warrior 1 time.
+Dupre hits Skeleton warrior 1 time.
+Torc [1;36mcast(s): [0m'judicandus puorgo mangenic' [57m(Major party heal)[0m
+[1;37mKharadus reports: Hp: 1038 (1083) Sp: 715 (795) Ep: 355 (370).[0m
+[1;37mMilk reports: Hp: 1243 (1243) Sp: 28 (1044) Ep: 375 (433).[0m
+You are casting 'major party heal'.
+[17:18:06] hp 824/824 | sp 173/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+[1;37mMilk reports: Hp: 1243 (1243) Sp: 28 (1044) Ep: 375 (433).[0m
+[1;30mInfo: Demo recovers from link death.[0m
+Orthanc starts concentrating on a new offensive spell.
+Kizarwexius[32m is slightly hurt. [0m(65-80% hps)
+Skeleton warrior[32m is in excellent shape. [0m(90-100% hps)
+[17:18:06] hp 824/824 | sp 173/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+get 500 points from crystal
+
+,-----------------------------------------------------------------------------.
+| 1.1   Milk         [54m fol 1243(1243)   28(1044)[0m 375(433) | 100 |            0 |
+| 1.2   Dupre        [32m ldr 1289(1312)[31m    7(  23)[0m 257(400) |  69 |            0 |
+| 1.3   Kharadus     [32m fol 1038(1083)  715( 795)[0m 355(370) |  85 |            0 |
+| 2.1   Nuane        [54m fol  824( 824)[57m  173(1197)[0m 253(253) | 100 |            0 |
+| 2.2   Orthanc      [54m fol  830( 830)[53m  940(1438)[0m 301(296) | 100 |            0 |
+| 2.3   Torc         [54m fol  931( 931)[31m  460(1195)[0m 275(275) | 100 |            0 |
+| 3.1   Turmio       [54m fol  610( 610)[53m  618(1274)[0m 270(248) |  90 |            0 |
+| 3.2   Lim          [54m fol  824( 824)[53m  788(1246)[0m 303(303) |  92 |            0 |
+| 3.3   Yggrasil     [54m fol  672( 672)[31m  305(1448)[0m 265(263) |  85 |            0 |
+`-----------------------------------------------------------------------------'
+[17:18:06] hp 824/824 | sp 173/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+Skeleton warrior prevents you from taking anything.
+[17:18:07] hp 824/824 | sp 173/1197 | ep 253/253 | exp 98163 | $ 2550/103882 | wimpy: off
+
+[32m*Kharadus ticks 4 sps[3m36s].[0m
+[1;37mOrthanc [0;52m[party]:[1;37m hahah[0m
