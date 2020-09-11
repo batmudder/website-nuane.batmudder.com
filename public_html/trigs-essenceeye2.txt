@@ -1,0 +1,12 @@
+#ECHO This trigset replaces your usual "Summon: #" essence eye with numbers and
+#ECHO colors, supports quick chant, quick lips (as much as its possible, as
+#ECHO the rounds are random) and burden. Works correctly only with 100% essence
+#ECHO eye.
+#ECHO
+#ECHO Thu Jul 29 2004: Fixed burden.
+#ECHO
+#TRIGGER {^([A-Za-z ]): ([#])} {#VAR currentspell "%1";#VAR currentspelllength %len( %2);#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength}} "essence eye"
+#TRIGGER {^You skillfully cast the spell with greater haste.$} {#MATH currentspelllength (@currentspelllength - 2);#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength %ansi(grey,black)(greater haste)};#var burdencheck 0} "essence eye"
+#TRIGGER {^You skillfully cast the spell with haste.$} {#MATH currentspelllength (@currentspelllength - 1);#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength %ansi(grey,black)(haste)};#var burdencheck 1} "essence eye"
+#TRIGGER {^Your heavy burden slows down your casting.$} {#if (@burdencheck = 1) {#MATH currentspelllength (@currentspelllength + 1)};#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength %ansi(grey,black)(BURDEN)};#var burdencheck 0} "essence eye"
+#TRIGGER {^{You feel godly power hasten your casting.|You feel some power hasten your casting.|You feel unearthly power hasten your casting.}$} {#MATH currentspelllength (@currentspelllength - 1);#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength %ansi(grey,black)(or less, quick lips)};#var burdencheck 1} "essence eye"

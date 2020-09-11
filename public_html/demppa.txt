@@ -1,0 +1,1748 @@
+You are done with the chant.
+You stand firmly and chant (Spider demon banishment/Spider web)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+You fail to banish the demon!
+Nuane looks a bit paler than usual.
+hp 1185/1108 (-126) | sp 816/599 (-44) | ep 547/428 ()
+You start chanting.
+[13:03:43] hp 1185/1108  sp 816/599  ep 547/428  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (party): ja fail
+[13:03:45] hp 1185/1108  sp 816/599  ep 547/428  xp 244889  $ 11733/67619  wimpy off
+
+hp 1108/1108 (-77) | sp 599/599 (-217) | ep 547/428 ()
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+Nuane (report): It hurts it hurts :(
+[13:03:47] hp 856/1108  sp 599/599  ep 547/428  xp 244889  $ 11733/67619  wimpy off
+
+hp 856/1108 (-252) | sp 599/599 () | ep 547/428 ()
+You are done with the chant.
+You stand firmly and chant (Spider demon banishment/Spider web)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You fail to banish the demon!
+Nuane looks a bit paler than usual.
+hp 479/1108 (-377) | sp 555/599 (-44) | ep 547/428 ()
+Nuane (report): It hurts it hurts :(
+[13:03:49] hp 479/1108  sp 555/599  ep 547/428  xp 244889  $ 11733/67619  wimpy off
+
+You start chanting.
+[13:03:49] hp 479/1108  sp 555/599  ep 547/428  xp 244889  $ 11733/67619  wimpy off
+
+[party]: Transtar acks.
+TICK IN 5 SECONDS.
+You are losing the battle for control over your body!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:03:52] hp -24/1108  sp 555/599  ep 547/428  xp 244889  $ 11733/67619  wimpy off
+
+You are unconscious, unable to do anything.
+[13:03:52] hp -24/1108  sp 555/599  ep 547/428  xp 244889  $ 11733/67619  wimpy off
+
+Blood pours from your wounds!
+You feel excruciating PAIN in your head!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+The extra organs retract back into your body.
+You feel your body can't handle anymore.
+You remove gold ring with spider ornament.
+You remove gold ring with spider ornament.
+You remove golden spider scarab.
+You remove Rude mask made of oak.
+Nuane (report): It hurts it hurts :(
+[13:03:57] hp 1/1056  sp 555/599  ep 107/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 1/1056 (-478) | sp 555/599 () | ep 107/424 (-440)
+We are too busy to process this command.
+[13:03:58] hp 1/1056  sp 555/599  ep 107/424  xp 244889  $ 11733/67619  wimpy off
+
+You break your typo attempt.
+[13:04:01] hp 1/1056  sp 555/599  ep 107/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:02] hp 1/1056  sp 555/599  ep 107/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:02] hp 1/1056  sp 555/599  ep 107/424  xp 244889  $ 11733/67619  wimpy off
+
+You sizzle with magical energy.
+hp 78/1056 (+77) | sp 599/599 (+44) | ep 122/424 (+15)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (party): öö
+[13:04:07] hp 1/1056  sp 599/599  ep 122/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): It hurts it hurts :(
+[13:04:07] hp 1/1056  sp 599/599  ep 122/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:07] hp 1/1056  sp 599/599  ep 122/424  xp 244889  $ 11733/67619  wimpy off
+
+The crystal throbs faintly, healing some of your wounds.
+hp 13/1056 (-65) | sp 599/599 () | ep 134/424 (+12)
+Transtar [party]: wtf :D
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:11] hp 1/1056  sp 599/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:11] hp 1/1056  sp 599/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+A spider peeks out through your skin, stares at the world curiously for a moment and dives back in.
+hp 1/1056 (-12) | sp 581/599 (-18) | ep 134/424 ()
+Nuane (party): tota
+[13:04:13] hp 1/1056  sp 581/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:15] hp 1/1048  sp 581/589  ep 134/418  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:15] hp 1/1048  sp 581/589  ep 134/418  xp 244889  $ 11733/67619  wimpy off
+
+Nuane's demon feels easier to control than usual.
+Nuane's spider demon draws power from you.
+Timer now at 100 secs.
+Blood in your veins burns as your Channel to xxx breaks!
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:04:17] hp -213/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:20] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 1/1056 () | sp 434/599 (-147) | ep 134/424 ()
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:23] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:23] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:27] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:27] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+I'm sorry, but I don't understand you.
+[13:04:31] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:32] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:32] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+You typo make me sad with huge nervis.
+[13:04:32] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Gamedriver tells you 'Thank you. Your typo has been logged and stored.'
+[13:04:32] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+You feel like your typo healed you a bit.
+[13:04:32] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:04]:Nuane (wanted): hmm
+** Cost for 'wanted hmm': Cost: utime:4 stime:4 ticks:102854 **
+[13:04:34] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:36] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:36] hp 1/1056  sp 434/599  ep 134/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 70/1056 (+69) | sp 509/599 (+75) | ep 147/424 (+13)
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:04:37] hp -125/1056  sp 509/599  ep 147/424  xp 244889  $ 11733/67619  wimpy off
+
+Blood pours from your wounds!
+You feel excruciating PAIN in your head!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:40] hp 1/1056  sp 509/599  ep 147/424  xp 244889  $ 11733/67619  wimpy off
+
+Info: Walciz recovers from link death.
+The crystal throbs faintly, healing some of your wounds.
+hp 14/1056 (-56) | sp 522/599 (+13) | ep 160/424 (+13)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:43] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:43] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:04]:Xunisiih (suomi): eiköhän se vaikka ois vankilaa tullu ois muutamassa vuodessa ollu ehon-alasessa eniveis :D
+hp 1/1056 (-13) | sp 522/599 () | ep 160/424 ()
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:46] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:46] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:04]:Nuane (wanted): any wiz on, i'm kinda dying over and over again :-D
+** Cost for 'wanted any wiz on, i'm kinda dying over and over again :-D': Cost: utime:8 stime:0 ticks:103714 **
+[13:04:48] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:50] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:50] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+Info: Erygon enters the game.
+You are losing the battle for control over your body!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:04:55] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:04:55] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:04:57] hp -244/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+@Shar goes 'Heh' at you.
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:00] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:04] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:05:04] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:08] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:05:08] hp 1/1056  sp 522/599  ep 160/424  xp 244889  $ 11733/67619  wimpy off
+
+Shar tells you 'nimbusko sul vai mihi'
+The crystal throbs faintly, healing some of your wounds.
+hp 9/1056 (+8) | sp 530/599 (+8) | ep 168/424 (+8)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:13] hp 1/1056  sp 530/599  ep 168/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:05:13] hp 1/1056  sp 530/599  ep 168/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 1/1056 (-8) | sp 530/599 () | ep 168/424 ()
+[13:05]:Nuane (wanted): tried to banish demon and now it's "killing" me all the time, can't really do anything :)
+** Cost for 'wanted tried to banish demon and now it's "killing" me all the time, can't really do anything :)': Cost: utime:16 stime:0 ticks:105014 **
+[13:05:16] hp 1/1056  sp 530/599  ep 168/424  xp 244889  $ 11733/67619  wimpy off
+
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:05:17] hp -167/1056  sp 530/599  ep 168/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:20] hp 1/1056  sp 530/599  ep 168/424  xp 244889  $ 11733/67619  wimpy off
+
+You sizzle with magical energy.
+hp 79/1056 (+78) | sp 599/599 (+69) | ep 182/424 (+14)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:05:24] hp -298/1056  sp 599/599  ep 182/424  xp 244889  $ 11733/67619  wimpy off
+
+You are unconscious, unable to do anything.
+[13:05:24] hp -298/1056  sp 599/599  ep 182/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+Blood pours from your wounds!
+You feel excruciating PAIN in your head!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:29] hp 1/1056  sp 599/599  ep 182/424  xp 244889  $ 11733/67619  wimpy off
+
+The crystal throbs faintly, healing some of your wounds.
+hp 10/1056 (-69) | sp 599/599 () | ep 191/424 (+9)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:33] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:05:33] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 1/1056 (-9) | sp 599/599 () | ep 191/424 ()
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:05:37] hp -198/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+Blood pours from your wounds!
+You feel excruciating PAIN in your head!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:40] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+But you don't even have one ?!?!?.
+[13:05:41] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:43] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:05:43] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:05]:Tume (wanted): Answer must be 42
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:47] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:05:47] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+Connected to host batmud.bat.org
+
+
+    __|\/|__             __|\/|__           __|\/|__       __|\/|__  Logo
+     \<..>/               \<..>/             \<..>/         \<..>/    by:
+             |\_/|                                      |\_/|          Gar
+       ______|0 0|______   /////// //\\ \\\\\\\   ______|0 0|______
+        \| | |   |  | |/  //   // //  \\    \\     \| | |   |  | |/
+          \|..\./...|/   /////// ////\\\\    \\      \|..\./...|/
+             (   )      //   // //      \\    \\        (   )
+         |\_/|         /////// //        \\    \\           |\./|
+   ______|0 0|______   **   **    **  **    ******    ______|0 0|______
+    \| | |   |  | |/   *** ***    **  **    **   **    \| | |   |  | |/
+      \|..\./...|/     ** * **    **  **    **   **      \|..\./...|/
+         (   )         **   **    ******    ******          (   )
+               Welcome to BatMUD, Online since 14th April 1990!
+             EMail: batmud@bat.org about problems concerning BatMUD
+
+         This machine is owned by B.A.T. ry, a non-profit organization, 
+                    and is hosted at Magenta Sites, Finland.
+
+  1 - enter the game                    s - game status
+  2 - visit the game                    w - who is playing at the moment
+  3 - create a new character            q - quit
+Please enter your choice or name: 
++---- - - - -                                                       +
+|   Forgot your password? Retrieve it from http://www.bat.org/
+    BatMUD runs on a 2x Quad-Core Xeon w/ 32GB mem (help hardware)  |
++                                                     - - - - ------+
+
+What is your name: nuane
+Log is on: C:\Program Files\CMUD\BatMUD\090226130556.txt
+Password: 
+Recovering character.
+[13:05:51] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+TICK IN 5 SECONDS.
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+There are no light sources here, but you can still see.
+Castle room.
+             __.-/|
+             \`o_O'
+              =( )=  +----------------------+
+                U|   | TÄÄLLÄ VARTIOI TAUNO |
+      /\  /\   / |   +----------------------+
+     ) /^\) ^\/ _)\     |
+     )   /^\/   _) \    |
+     )   _ /  / _)  \___|_
+ /\  )/\/ ||  | )_)\___,|))
+<  >      |(,,) )__)    |
+Obvious exits are: u, d and s.
+a gargantuan dukonium vault labeled as caster5 (open)
+a large diamond vault labeled as misc13 (open)
+a gargantuan bamboo vault reinforced with diamond labeled as caster9 (open)
+a large emerald vault reinforced with dukonium labeled as caster11 (open) <blue glow>
+a large diamond vault labeled as tank11 (open)
+a large dukonium vault labeled as misc11 (open)
+an abstract painting hangs on the wall
+a large dukonium vault labeled as misc10 (open)
+a gargantuan weenite vault labeled as misc8 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as misc7 (open)
+a large emerald vault reinforced with dukonium labeled as caster12 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc4 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank4 (open) <blue glow>
+a large dragonscale vault reinforced with weenite labeled as misc2 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank10 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank6 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank5 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank7 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank2 (open) <blue glow>
+a large trashcan
+a gargantuan bamboo vault reinforced with dukonium labeled as caster4 (open) <blue glow>
+a large dukonium vault labeled as misc6 (open)
+a large ruby vault reinforced with emerald labeled as misc3 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc5 (open) <blue glow>
+a large emerald vault reinforced with dukonium labeled as caster3 (open) <blue glow>
+a large weenite money vault labeled as roope (open)
+a large fountain (full)
+a small, dark crystal shaped like a star
+a large bamboo vault reinforced with dukonium labeled as tank8 (open)
+a gargantuan weenite vault labeled as misc9 (open) <blue glow>
+a large dukonium vault labeled as caster8 (open) <blue glow>
+a large weenite vault labeled as tank9 (open)
+a gargantuan dukonium vault labeled as caster1 (open)
+a large ebony vault reinforced with dukonium labeled as misc12 (open)
+a gargantuan sapphire vault reinforced with emerald labeled as caster2 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as tank3 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as caster10 (open)
+a gargantuan bamboo vault reinforced with dukonium labeled as misc1 (open)
+a gargantuan ebony vault reinforced with dukonium labeled as tank1 (open) <blue glow>
+a small altar, draped with a cloth <red glow>
+** Cost for 'l': Cost: utime:4 stime:4 ticks:127298 **
+[13:05:52] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): It hurts it hurts :(
+[13:05:52] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:05:52] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+There are no light sources here, but you can still see.
+Castle room.
+             __.-/|
+             \`o_O'
+              =( )=  +----------------------+
+                U|   | TÄÄLLÄ VARTIOI TAUNO |
+      /\  /\   / |   +----------------------+
+     ) /^\) ^\/ _)\     |
+     )   /^\/   _) \    |
+     )   _ /  / _)  \___|_
+ /\  )/\/ ||  | )_)\___,|))
+<  >      |(,,) )__)    |
+Obvious exits are: u, d and s.
+a gargantuan dukonium vault labeled as caster5 (open)
+a large diamond vault labeled as misc13 (open)
+a gargantuan bamboo vault reinforced with diamond labeled as caster9 (open)
+a large emerald vault reinforced with dukonium labeled as caster11 (open) <blue glow>
+a large diamond vault labeled as tank11 (open)
+a large dukonium vault labeled as misc11 (open)
+an abstract painting hangs on the wall
+a large dukonium vault labeled as misc10 (open)
+a gargantuan weenite vault labeled as misc8 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as misc7 (open)
+a large emerald vault reinforced with dukonium labeled as caster12 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc4 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank4 (open) <blue glow>
+a large dragonscale vault reinforced with weenite labeled as misc2 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank10 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank6 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank5 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank7 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank2 (open) <blue glow>
+a large trashcan
+a gargantuan bamboo vault reinforced with dukonium labeled as caster4 (open) <blue glow>
+a large dukonium vault labeled as misc6 (open)
+a large ruby vault reinforced with emerald labeled as misc3 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc5 (open) <blue glow>
+a large emerald vault reinforced with dukonium labeled as caster3 (open) <blue glow>
+a large weenite money vault labeled as roope (open)
+a large fountain (full)
+a small, dark crystal shaped like a star
+a large bamboo vault reinforced with dukonium labeled as tank8 (open)
+a gargantuan weenite vault labeled as misc9 (open) <blue glow>
+a large dukonium vault labeled as caster8 (open) <blue glow>
+a large weenite vault labeled as tank9 (open)
+a gargantuan dukonium vault labeled as caster1 (open)
+a large ebony vault reinforced with dukonium labeled as misc12 (open)
+a gargantuan sapphire vault reinforced with emerald labeled as caster2 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as tank3 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as caster10 (open)
+a gargantuan bamboo vault reinforced with dukonium labeled as misc1 (open)
+a gargantuan ebony vault reinforced with dukonium labeled as tank1 (open) <blue glow>
+a small altar, draped with a cloth <red glow>
+** Cost for 'l': Cost: utime:12 stime:0 ticks:127328 **
+[13:05:53] hp 1/1056  sp 599/599  ep 191/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 70/1056 (+69) | sp 599/599 () | ep 204/424 (+13)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:05:55] hp 1/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:05:55] hp 1/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+There are no light sources here, but you can still see.
+Castle room.
+             __.-/|
+             \`o_O'
+              =( )=  +----------------------+
+                U|   | TÄÄLLÄ VARTIOI TAUNO |
+      /\  /\   / |   +----------------------+
+     ) /^\) ^\/ _)\     |
+     )   /^\/   _) \    |
+     )   _ /  / _)  \___|_
+ /\  )/\/ ||  | )_)\___,|))
+<  >      |(,,) )__)    |
+Obvious exits are: u, d and s.
+a gargantuan dukonium vault labeled as caster5 (open)
+a large diamond vault labeled as misc13 (open)
+a gargantuan bamboo vault reinforced with diamond labeled as caster9 (open)
+a large emerald vault reinforced with dukonium labeled as caster11 (open) <blue glow>
+a large diamond vault labeled as tank11 (open)
+a large dukonium vault labeled as misc11 (open)
+an abstract painting hangs on the wall
+a large dukonium vault labeled as misc10 (open)
+a gargantuan weenite vault labeled as misc8 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as misc7 (open)
+a large emerald vault reinforced with dukonium labeled as caster12 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc4 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank4 (open) <blue glow>
+a large dragonscale vault reinforced with weenite labeled as misc2 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank10 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank6 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank5 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank7 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank2 (open) <blue glow>
+a large trashcan
+a gargantuan bamboo vault reinforced with dukonium labeled as caster4 (open) <blue glow>
+a large dukonium vault labeled as misc6 (open)
+a large ruby vault reinforced with emerald labeled as misc3 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc5 (open) <blue glow>
+a large emerald vault reinforced with dukonium labeled as caster3 (open) <blue glow>
+a large weenite money vault labeled as roope (open)
+a large fountain (full)
+a small, dark crystal shaped like a star
+a large bamboo vault reinforced with dukonium labeled as tank8 (open)
+a gargantuan weenite vault labeled as misc9 (open) <blue glow>
+a large dukonium vault labeled as caster8 (open) <blue glow>
+a large weenite vault labeled as tank9 (open)
+a gargantuan dukonium vault labeled as caster1 (open)
+a large ebony vault reinforced with dukonium labeled as misc12 (open)
+a gargantuan sapphire vault reinforced with emerald labeled as caster2 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as tank3 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as caster10 (open)
+a gargantuan bamboo vault reinforced with dukonium labeled as misc1 (open)
+a gargantuan ebony vault reinforced with dukonium labeled as tank1 (open) <blue glow>
+a small altar, draped with a cloth <red glow>
+** Cost for 'l': Cost: utime:12 stime:0 ticks:127249 **
+[13:05:56] hp 1/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:05:57] hp -236/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+You are unconscious, unable to do anything.
+[13:05:57] hp -236/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+Blood pours from your wounds!
+You feel excruciating PAIN in your head!
+[party]: Transtar giggles inanely.
+You are unconscious, unable to do anything.
+[13:05:59] hp -248/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:00] hp 1/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+You start chanting.
+[13:06:00] hp 1/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 1/1056 (-69) | sp 599/599 () | ep 204/424 ()
+There are no light sources here, but you can still see.
+Castle room.
+             __.-/|
+             \`o_O'
+              =( )=  +----------------------+
+                U|   | TÄÄLLÄ VARTIOI TAUNO |
+      /\  /\   / |   +----------------------+
+     ) /^\) ^\/ _)\     |
+     )   /^\/   _) \    |
+     )   _ /  / _)  \___|_
+ /\  )/\/ ||  | )_)\___,|))
+<  >      |(,,) )__)    |
+Obvious exits are: u, d and s.
+a gargantuan dukonium vault labeled as caster5 (open)
+a large diamond vault labeled as misc13 (open)
+a gargantuan bamboo vault reinforced with diamond labeled as caster9 (open)
+a large emerald vault reinforced with dukonium labeled as caster11 (open) <blue glow>
+a large diamond vault labeled as tank11 (open)
+a large dukonium vault labeled as misc11 (open)
+an abstract painting hangs on the wall
+a large dukonium vault labeled as misc10 (open)
+a gargantuan weenite vault labeled as misc8 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as misc7 (open)
+a large emerald vault reinforced with dukonium labeled as caster12 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc4 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank4 (open) <blue glow>
+a large dragonscale vault reinforced with weenite labeled as misc2 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank10 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank6 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank5 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank7 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank2 (open) <blue glow>
+a large trashcan
+a gargantuan bamboo vault reinforced with dukonium labeled as caster4 (open) <blue glow>
+a large dukonium vault labeled as misc6 (open)
+a large ruby vault reinforced with emerald labeled as misc3 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc5 (open) <blue glow>
+a large emerald vault reinforced with dukonium labeled as caster3 (open) <blue glow>
+a large weenite money vault labeled as roope (open)
+a large fountain (full)
+a small, dark crystal shaped like a star
+a large bamboo vault reinforced with dukonium labeled as tank8 (open)
+a gargantuan weenite vault labeled as misc9 (open) <blue glow>
+a large dukonium vault labeled as caster8 (open) <blue glow>
+a large weenite vault labeled as tank9 (open)
+a gargantuan dukonium vault labeled as caster1 (open)
+a large ebony vault reinforced with dukonium labeled as misc12 (open)
+a gargantuan sapphire vault reinforced with emerald labeled as caster2 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as tank3 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as caster10 (open)
+a gargantuan bamboo vault reinforced with dukonium labeled as misc1 (open)
+a gargantuan ebony vault reinforced with dukonium labeled as tank1 (open) <blue glow>
+a small altar, draped with a cloth <red glow>
+** Cost for 'l': Cost: utime:12 stime:0 ticks:127313 **
+[13:06:01] hp 1/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:03] hp 1/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:03] hp 1/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+You start chanting.
+[13:06:04] hp 1/1056  sp 599/599  ep 204/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+The crystal throbs faintly, healing some of your wounds.
+Nuane (report): It hurts it hurts :(
+[13:06:06] hp 6/1056  sp 599/599  ep 209/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:06] hp 6/1056  sp 599/599  ep 209/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:06]:Zammy {wanted}: that'll teach you not to fail next time :)
+hp 6/1056 (+5) | sp 599/599 () | ep 209/424 (+5)
+Info: Ealoren goes link dead.
+You start chanting.
+[13:06:08] hp 6/1056  sp 599/599  ep 209/424  xp 244889  $ 11733/67619  wimpy off
+
+Info: Malos enters the game.
+[13:06]:Ahvensurma [wanted]: party for def/off
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:11] hp 1/1056  sp 599/599  ep 209/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:11] hp 1/1056  sp 599/599  ep 209/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 1/1056 (-5) | sp 599/599 () | ep 209/424 ()
+Info: Brokus goes link dead.
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:14] hp 1/1056  sp 599/599  ep 209/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:14] hp 1/1056  sp 599/599  ep 209/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:06]:Xunisiih (suomi): ja pahempi paikka se mielisairaala on todennäkösesti ku vankila :D
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:06:17] hp -129/1056  sp 599/599  ep 209/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+The crystal throbs faintly, healing some of your wounds.
+Nuane (report): It hurts it hurts :(
+[13:06:20] hp 8/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 8/1056 (+7) | sp 599/599 () | ep 216/424 (+7)
+There are no light sources here, but you can still see.
+Castle room.
+             __.-/|
+             \`o_O'
+              =( )=  +----------------------+
+                U|   | TÄÄLLÄ VARTIOI TAUNO |
+      /\  /\   / |   +----------------------+
+     ) /^\) ^\/ _)\     |
+     )   /^\/   _) \    |
+     )   _ /  / _)  \___|_
+ /\  )/\/ ||  | )_)\___,|))
+<  >      |(,,) )__)    |
+Obvious exits are: u, d and s.
+a gargantuan dukonium vault labeled as caster5 (open)
+a large diamond vault labeled as misc13 (open)
+a gargantuan bamboo vault reinforced with diamond labeled as caster9 (open)
+a large emerald vault reinforced with dukonium labeled as caster11 (open) <blue glow>
+a large diamond vault labeled as tank11 (open)
+a large dukonium vault labeled as misc11 (open)
+an abstract painting hangs on the wall
+a large dukonium vault labeled as misc10 (open)
+a gargantuan weenite vault labeled as misc8 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as misc7 (open)
+a large emerald vault reinforced with dukonium labeled as caster12 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc4 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank4 (open) <blue glow>
+a large dragonscale vault reinforced with weenite labeled as misc2 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank10 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank6 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank5 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank7 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank2 (open) <blue glow>
+a large trashcan
+a gargantuan bamboo vault reinforced with dukonium labeled as caster4 (open) <blue glow>
+a large dukonium vault labeled as misc6 (open)
+a large ruby vault reinforced with emerald labeled as misc3 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc5 (open) <blue glow>
+a large emerald vault reinforced with dukonium labeled as caster3 (open) <blue glow>
+a large weenite money vault labeled as roope (open)
+a large fountain (full)
+a small, dark crystal shaped like a star
+a large bamboo vault reinforced with dukonium labeled as tank8 (open)
+a gargantuan weenite vault labeled as misc9 (open) <blue glow>
+a large dukonium vault labeled as caster8 (open) <blue glow>
+a large weenite vault labeled as tank9 (open)
+a gargantuan dukonium vault labeled as caster1 (open)
+a large ebony vault reinforced with dukonium labeled as misc12 (open)
+a gargantuan sapphire vault reinforced with emerald labeled as caster2 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as tank3 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as caster10 (open)
+a gargantuan bamboo vault reinforced with dukonium labeled as misc1 (open)
+a gargantuan ebony vault reinforced with dukonium labeled as tank1 (open) <blue glow>
+a small altar, draped with a cloth <red glow>
+** Cost for 'l': Cost: utime:12 stime:0 ticks:127252 **
+[13:06:22] hp 8/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:24] hp 1/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:24] hp 1/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+You are wearing/wielding or carrying following items:
+gold ring with spider ornament <red glow>
+gold ring with spider ornament <red glow>
+golden spider scarab <red glow>
+Rude mask made of oak
+a sparkling grey hematite
+
+You have to drop these items before you may quit.
+[13:06:24] hp 1/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+You are carrying 5.3 kg of equipment:
+267 coins (234 anipium and 33 gold) [Cash: 11733.00  Bank: 67619.02  Total: 79352.02]
+two gold rings with spider ornament <red glow>
+golden spider scarab <red glow>
+Rude mask made of oak
+Keep:
+a sparkling grey hematite
+Kerbholz <weak white glow>
+a small remote control 'chest-o-matic'
+[13:06:26] hp 1/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 1/1056 (-7) | sp 599/599 () | ep 216/424 ()
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:28] hp 1/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:28] hp 1/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+You drop golden spider scarab <red glow>, Rude mask made of oak and 2 gold
+ rings with spider ornament <red glow> to misc3.
+[13:06:29] hp 1/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+You push the 'close' button on your chest-o-matic.
+a gargantuan dukonium vault labeled as caster5 (open) shakes and its lid slams shut.
+You are losing the battle for control over your body!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:32] hp 1/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:32] hp 1/1056  sp 599/599  ep 216/424  xp 244889  $ 11733/67619  wimpy off
+
+Info: Jeskko enters the game.
+You push the 'close' button on your chest-o-matic.
+a large diamond vault labeled as misc13 (open) shakes and its lid slams shut.
+hp 78/1056 (+77) | sp 599/599 () | ep 230/424 (+14)
+[13:06]:Malos (wanted): party for off
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:35] hp 1/1056  sp 599/599  ep 230/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:35] hp 1/1056  sp 599/599  ep 230/424  xp 244889  $ 11733/67619  wimpy off
+
+There are no light sources here, but you can still see.
+Castle room.
+             __.-/|
+             \`o_O'
+              =( )=  +----------------------+
+                U|   | TÄÄLLÄ VARTIOI TAUNO |
+      /\  /\   / |   +----------------------+
+     ) /^\) ^\/ _)\     |
+     )   /^\/   _) \    |
+     )   _ /  / _)  \___|_
+ /\  )/\/ ||  | )_)\___,|))
+<  >      |(,,) )__)    |
+Obvious exits are: u, d and s.
+a gargantuan dukonium vault labeled as caster5 (closed)
+a large diamond vault labeled as misc13 (closed)
+a gargantuan bamboo vault reinforced with diamond labeled as caster9 (open)
+a large emerald vault reinforced with dukonium labeled as caster11 (open) <blue glow>
+a large diamond vault labeled as tank11 (open)
+a large dukonium vault labeled as misc11 (open)
+an abstract painting hangs on the wall
+a large dukonium vault labeled as misc10 (open)
+a gargantuan weenite vault labeled as misc8 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as misc7 (open)
+a large emerald vault reinforced with dukonium labeled as caster12 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc4 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank4 (open) <blue glow>
+a large dragonscale vault reinforced with weenite labeled as misc2 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank10 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank6 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank5 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank7 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank2 (open) <blue glow>
+a large trashcan
+a gargantuan bamboo vault reinforced with dukonium labeled as caster4 (open) <blue glow>
+a large dukonium vault labeled as misc6 (open)
+a large ruby vault reinforced with emerald labeled as misc3 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc5 (open) <blue glow>
+a large emerald vault reinforced with dukonium labeled as caster3 (open) <blue glow>
+a large weenite money vault labeled as roope (open)
+a large fountain (full)
+a small, dark crystal shaped like a star
+a large bamboo vault reinforced with dukonium labeled as tank8 (open)
+a gargantuan weenite vault labeled as misc9 (open) <blue glow>
+a large dukonium vault labeled as caster8 (open) <blue glow>
+a large weenite vault labeled as tank9 (open)
+a gargantuan dukonium vault labeled as caster1 (open)
+a large ebony vault reinforced with dukonium labeled as misc12 (open)
+a gargantuan sapphire vault reinforced with emerald labeled as caster2 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as tank3 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as caster10 (open)
+a gargantuan bamboo vault reinforced with dukonium labeled as misc1 (open)
+a gargantuan ebony vault reinforced with dukonium labeled as tank1 (open) <blue glow>
+a small altar, draped with a cloth <red glow>
+** Cost for 'l': Cost: utime:12 stime:0 ticks:127872 **
+[13:06:36] hp 1/1056  sp 599/599  ep 230/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+The crystal throbs faintly, healing some of your wounds.
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:06:37] hp -144/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Endure tells you 'Dragonessin laatukoodi iski jälleen?'
+You are unconscious, unable to do anything.
+[13:06:37] hp -144/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Blood pours from your wounds!
+You feel excruciating PAIN in your head!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:40] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+There are no light sources here, but you can still see.
+Castle room.
+             __.-/|
+             \`o_O'
+              =( )=  +----------------------+
+                U|   | TÄÄLLÄ VARTIOI TAUNO |
+      /\  /\   / |   +----------------------+
+     ) /^\) ^\/ _)\     |
+     )   /^\/   _) \    |
+     )   _ /  / _)  \___|_
+ /\  )/\/ ||  | )_)\___,|))
+<  >      |(,,) )__)    |
+Obvious exits are: u, d and s.
+a gargantuan dukonium vault labeled as caster5 (closed)
+a large diamond vault labeled as misc13 (closed)
+a gargantuan bamboo vault reinforced with diamond labeled as caster9 (open)
+a large emerald vault reinforced with dukonium labeled as caster11 (open) <blue glow>
+a large diamond vault labeled as tank11 (open)
+a large dukonium vault labeled as misc11 (open)
+an abstract painting hangs on the wall
+a large dukonium vault labeled as misc10 (open)
+a gargantuan weenite vault labeled as misc8 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as misc7 (open)
+a large emerald vault reinforced with dukonium labeled as caster12 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc4 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank4 (open) <blue glow>
+a large dragonscale vault reinforced with weenite labeled as misc2 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank10 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank6 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank5 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank7 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank2 (open) <blue glow>
+a large trashcan
+a gargantuan bamboo vault reinforced with dukonium labeled as caster4 (open) <blue glow>
+a large dukonium vault labeled as misc6 (open)
+a large ruby vault reinforced with emerald labeled as misc3 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc5 (open) <blue glow>
+a large emerald vault reinforced with dukonium labeled as caster3 (open) <blue glow>
+a large weenite money vault labeled as roope (open)
+a large fountain (full)
+a small, dark crystal shaped like a star
+a large bamboo vault reinforced with dukonium labeled as tank8 (open)
+a gargantuan weenite vault labeled as misc9 (open) <blue glow>
+a large dukonium vault labeled as caster8 (open) <blue glow>
+a large weenite vault labeled as tank9 (open)
+a gargantuan dukonium vault labeled as caster1 (open)
+a large ebony vault reinforced with dukonium labeled as misc12 (open)
+a gargantuan sapphire vault reinforced with emerald labeled as caster2 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as tank3 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as caster10 (open)
+a gargantuan bamboo vault reinforced with dukonium labeled as misc1 (open)
+a gargantuan ebony vault reinforced with dukonium labeled as tank1 (open) <blue glow>
+a small altar, draped with a cloth <red glow>
+** Cost for 'l': Cost: utime:12 stime:0 ticks:127307 **
+[13:06:41] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+You are carrying 0.5 kg of equipment:
+267 coins (234 anipium and 33 gold) [Cash: 11733.00  Bank: 67619.02  Total: 79352.02]
+Keep:
+a sparkling grey hematite
+Kerbholz <weak white glow>
+a small remote control 'chest-o-matic'
+[13:06:41] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:06]:Naamafanta [suomi]: joo, vankilassakin se olisi päässyt varmaan jonnekkin nuorten osastolle
+hp 1/1056 (-77) | sp 599/599 () | ep 241/424 (+11)
+Keep list cleared.
+[13:06:44] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:45] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:45] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+You drop a sparkling grey hematite.
+[13:06:45] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+You left the party.
+Session summary:
+Time: 50 minutes 4 seconds
+Exp gained (total): 25855031
+Exp gained (net): 25855031 (0 lost)
+Experience spent: 0
+Gold difference: -28517.00
+New areas explored: 0
+Battle skill summary:
+
+Hits: 493 (55.76%), Misses: 391 (44.23%), Parries: 0, Ripostes: 0 (0%), Stuns: 1 (0.202%), Criticals: 13 (2.636%), Dodges: 43, Tumbles: 101, Stunned maneuvers: 5
+Saving Nuane.
+You spell your typo and Slip disappears into thin air.
+[13:06:46] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:06]:Nerya <suomi>: mitenhän se on pahempi?
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:50] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:50] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:06]:<wanted>: Ulath pulls up a chair and passes the popcorn around, watching at Nuane.
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:06:54] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:06:54] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+You are not in a party.
+Session summary:
+Time: 50 minutes 13 seconds
+Exp gained (total): 25855031
+Exp gained (net): 25855031 (0 lost)
+Experience spent: 0
+Gold difference: -28517.00
+New areas explored: 0
+Battle skill summary:
+
+Hits: 493 (55.76%), Misses: 391 (44.23%), Parries: 0, Ripostes: 0 (0%), Stuns: 1 (0.202%), Criticals: 13 (2.636%), Dodges: 43, Tumbles: 101, Stunned maneuvers: 5
+Saving Nuane.
+You see little TYPOS dancing all around you.
+[13:06:55] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Info: Beliah left the game.
+You are not in a party.
+Session summary:
+Time: 50 minutes 13 seconds
+Exp gained (total): 25855031
+Exp gained (net): 25855031 (0 lost)
+Experience spent: 0
+Gold difference: -28517.00
+New areas explored: 0
+Battle skill summary:
+
+Hits: 493 (55.76%), Misses: 391 (44.23%), Parries: 0, Ripostes: 0 (0%), Stuns: 1 (0.202%), Criticals: 13 (2.636%), Dodges: 43, Tumbles: 101, Stunned maneuvers: 5
+Saving Nuane.
+Typo, ypot, poyt, yopt, no matter how you spell it, you still made one.
+[13:06:55] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:06:57] hp -227/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+[13:06]:Ulath <wanted>: Go go go!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:00] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:04] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:04] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:07] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:07] hp 1/1056  sp 599/599  ep 241/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 70/1056 (+69) | sp 599/599 () | ep 256/424 (+15)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:10] hp 1/1056  sp 599/599  ep 256/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:10] hp 1/1056  sp 599/599  ep 256/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:07]:Naamafanta [suomi]: seura tekee kaltaisekseen...
+The crystal throbs faintly, healing some of your wounds.
+hp 9/1056 (-61) | sp 599/599 () | ep 264/424 (+8)
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:14] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:14] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+You tell Ulath 'errrr, jaksasiks vilasta oikeesti, näin hämärää meininkiä en o ennen nähny :d'
+[13:07:14] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:07]:Xunisiih (suomi): nerya, no syöppä nappia joka sekottaa sun pääs päivästä toiseen, sitten ku totut nii vaihdetaan napit toisiin
+hp 1/1056 (-8) | sp 599/599 () | ep 264/424 ()
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:17] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:17] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:07:18] hp -153/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+[13:07]:Morpha [suomi]: ei se kyllä yhtään parempi oo, vankilasta pääset pois sillon ja sillon, tuolta ei pääse välttämättä koskaan
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:21] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:26] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:26] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+You tell Ulath 'oon chestihuoneessani ja "kuolen" kokoajan mutten päädy hellii'
+[13:07:27] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:29] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:29] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+TICK IN 5 SECONDS.
+
+[13:07]:Freld (suomi): vankilassa o iha kivaa
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:34] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:34] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+You are losing the battle for control over your body!
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:38] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:38] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+You tell Ulath 'alko siitä ku failasin demonin banishmentin'
+[13:07:38] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:07:39] hp -171/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Ulath tells you 'Kokeile quit realia ekaks'
+[13:07]:Nerya <suomi>: freld oo missää vankilassa ollu
+[13:07]:Endure [suomi]: epäilen vahvasti
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:42] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:07]:Nerya <suomi>: avovankilaa ei lasketa:)
+[13:07]:Ahvensurma [sales]: broker ahvensurma
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:45] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:45] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:48] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:48] hp 1/1056  sp 599/599  ep 264/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:07]:Freld (suomi): lasketaanpas =(
+hp 75/1056 (+74) | sp 599/599 () | ep 277/424 (+13)
+The crystal throbs faintly, healing some of your wounds.
+You tell Ulath 'koitin jo, antaa typomessua show summary rivin jälkeen'
+[13:07:50] hp 80/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:51] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:51] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 1/1056 (-74) | sp 599/599 () | ep 282/424 (+5)
+You are not in a party.
+Session summary:
+Time: 51 minutes 10 seconds
+Exp gained (total): 25855031
+Exp gained (net): 25855031 (0 lost)
+Experience spent: 0
+Gold difference: -28517.00
+New areas explored: 0
+Battle skill summary:
+
+Hits: 493 (55.76%), Misses: 391 (44.23%), Parries: 0, Ripostes: 0 (0%), Stuns: 1 (0.202%), Criticals: 13 (2.636%), Dodges: 43, Tumbles: 101, Stunned maneuvers: 5
+Saving Nuane.
+But, Sir, wouldn't that be wrong?
+[13:07:52] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:55] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:55] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+@Ulath goes 'Heh' at you.
+You are losing the battle for control over your body!
+[13:07]:Nerya <suomi>: se on sama ku hoitokoti
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:07:59] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:07:59] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Ulath tells you 'profit'
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:08:00] hp -216/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Ulath the christmas elf opens a door in thin air, scuttles in, running on his 84 arms like a centipede.
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:08:03] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:08]:Freld (suomi): kivaa oli silti!
+There are no light sources here, but you can still see.
+Castle room.
+             __.-/|
+             \`o_O'
+              =( )=  +----------------------+
+                U|   | TÄÄLLÄ VARTIOI TAUNO |
+      /\  /\   / |   +----------------------+
+     ) /^\) ^\/ _)\     |
+     )   /^\/   _) \    |
+     )   _ /  / _)  \___|_
+ /\  )/\/ ||  | )_)\___,|))
+<  >      |(,,) )__)    |
+Obvious exits are: u, d and s.
+a sparkling grey hematite
+a gargantuan dukonium vault labeled as caster5 (closed)
+a large diamond vault labeled as misc13 (closed)
+a gargantuan bamboo vault reinforced with diamond labeled as caster9 (open)
+a large emerald vault reinforced with dukonium labeled as caster11 (open) <blue glow>
+a large diamond vault labeled as tank11 (open)
+a large dukonium vault labeled as misc11 (open)
+an abstract painting hangs on the wall
+a large dukonium vault labeled as misc10 (open)
+a gargantuan weenite vault labeled as misc8 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as misc7 (open)
+a large emerald vault reinforced with dukonium labeled as caster12 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc4 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank4 (open) <blue glow>
+a large dragonscale vault reinforced with weenite labeled as misc2 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank10 (open) <blue glow>
+a gargantuan ebony vault reinforced with dukonium labeled as tank6 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank5 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as tank7 (open) <blue glow>
+a large ebony vault reinforced with dukonium labeled as tank2 (open) <blue glow>
+a large trashcan
+a gargantuan bamboo vault reinforced with dukonium labeled as caster4 (open) <blue glow>
+a large dukonium vault labeled as misc6 (open)
+a large ruby vault reinforced with emerald labeled as misc3 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as misc5 (open) <blue glow>
+a large emerald vault reinforced with dukonium labeled as caster3 (open) <blue glow>
+a large weenite money vault labeled as roope (open)
+a large fountain (full)
+a small, dark crystal shaped like a star
+a large bamboo vault reinforced with dukonium labeled as tank8 (open)
+a gargantuan weenite vault labeled as misc9 (open) <blue glow>
+a large dukonium vault labeled as caster8 (open) <blue glow>
+a large weenite vault labeled as tank9 (open)
+a gargantuan dukonium vault labeled as caster1 (open)
+a large ebony vault reinforced with dukonium labeled as misc12 (open)
+a gargantuan sapphire vault reinforced with emerald labeled as caster2 (open) <blue glow>
+a gargantuan emerald vault reinforced with dukonium labeled as tank3 (open) <blue glow>
+a gargantuan bamboo vault reinforced with dukonium labeled as caster10 (open)
+a gargantuan bamboo vault reinforced with dukonium labeled as misc1 (open)
+a gargantuan ebony vault reinforced with dukonium labeled as tank1 (open) <blue glow>
+a small altar, draped with a cloth <red glow>
+Ulath Pulath the 84-armed Barsoomian
+** Cost for 'l': Cost: utime:12 stime:0 ticks:130092 **
+[13:08:05] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Ulath the christmas elf goes 'Heh'.
+Ulath the christmas elf mumbles incoherently 'hoho.'
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:08:07] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:08:07] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:08]:Xunisiih (suomi): suomessa jos tuomitaan syyntakeettomana joutuu pakkohoitoon jossa tehään esim sarja-erinäisiä testejä...
+You boom 'mitähä vittua :P.'
+[13:08:11] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:08:12] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:08:12] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Ulath the christmas elf mumbles incoherently 'Aaaaaah.'
+Nuane (report): It hurts it hurts :(
+[13:08:15] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:08:15] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+You are not in a party.
+Session summary:
+Time: 51 minutes 35 seconds
+Exp gained (total): 25855031
+Exp gained (net): 25855031 (0 lost)
+Experience spent: 0
+Gold difference: -28517.00
+New areas explored: 0
+Battle skill summary:
+
+Hits: 493 (55.76%), Misses: 391 (44.23%), Parries: 0, Ripostes: 0 (0%), Stuns: 1 (0.202%), Criticals: 13 (2.636%), Dodges: 43, Tumbles: 101, Stunned maneuvers: 5
+Saving Nuane.
+Scusi?
+[13:08:17] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:08:18] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:08:18] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+You feel something alien crawling inside your mind seeking release.
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+You are unconscious, unable to do anything.
+[13:08:20] hp -185/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:08:23] hp 1/1056  sp 599/599  ep 282/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:08]:Xunisiih (suomi): joista yks o pariviikkoa kestävä sokeritasapainon fukkaus
+Ulath the christmas elf mumbles incoherently 'Humssi, destataas sun demoni käsin sit.'
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+The crystal throbs faintly, healing some of your wounds.
+Nuane (report): It hurts it hurts :(
+[13:08:27] hp 6/1056  sp 599/599  ep 287/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:08:27] hp 6/1056  sp 599/599  ep 287/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 6/1056 (+5) | sp 599/599 () | ep 287/424 (+5)
+Info: Warlord enters the game.
+Info: Stark enters the game.
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:08:31] hp 1/1056  sp 599/599  ep 287/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:08:31] hp 1/1056  sp 599/599  ep 287/424  xp 244889  $ 11733/67619  wimpy off
+
+hp 1/1056 (-5) | sp 599/599 () | ep 287/424 ()
+Alien thoughts invade your mind! Your body no longer is yours alone!
+That really HURT!
+You feel excruciating PAIN in your head!
+You are no longer stunned.
+You fall unconscious from the pain.
+
+You die.
+Nuane (report): It hurts it hurts :(
+[13:08:35] hp 1/1056  sp 599/599  ep 287/424  xp 244889  $ 11733/67619  wimpy off
+
+Nuane (report): No longer stunned.
+[13:08:35] hp 1/1056  sp 599/599  ep 287/424  xp 244889  $ 11733/67619  wimpy off
+
+[13:08]:Yggrasil the spawn (suomi): Ois loppunu tila ni Freld ois sendattu vankivaihtoo abu-kharimii
+hp 1/1036 () | sp 579/579 (-20) | ep 287/404 ()
+Ulath the christmas elf asks 'paree?'

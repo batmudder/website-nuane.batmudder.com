@@ -1,0 +1,3229 @@
+C:\Program Files (x86)\Zmud\BatMUD\020402-020408 - (lvl 67) Zombie TarmaDruid.zip::log - 020402-020408 - (lvl 67) Zombie TarmaDruid.txt
+  533317  Ghost of Larppa [ghost]: channel
+  736786  Ghost of Larppa [ghost]: channel
+  737566  Ghost of Larppa [ghost]: channel
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\020402-020408 - (lvl 67) Zombie TarmaDruid.zip::log - 020402-020408 - (lvl 67) Zombie TarmaDruid.txt
+C:\Program Files (x86)\Zmud\BatMUD\020408-020413 - (lvl 67) Zombie TarmaDruid.zip::log - 020408-020413 - (lvl 67) Zombie TarmaDruid.txt
+  248893  "-. hp 619/619 | sp 460/814 | ep 168/238 | exp 41919 | cash 0/55353 .-"Ghost of Larppa [ghost]: how long it takes to get outta here if u are too weak
+  249763  Ghost of Larppa [ghost]: im ghosting around
+  249820  Ghost of Larppa [ghost]: DADAAAAAAA
+  249945  Ghost of Larppa [ghost]: wut?
+  340978  Ghost of Larppa [ghost]: jee oli siidee ei menny ees expaa nyt meni tavarat se
+  341010  Ghost of Larppa [ghost]: shay lopeta mun listiminen tai tuun tänne muuten vaan
+  341023  Ghost of Larppa [ghost]: anna mun elää
+  341029  Ghost of Larppa [ghost]: tahtoo tappaa chipmunkkeja
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\020408-020413 - (lvl 67) Zombie TarmaDruid.zip::log - 020408-020413 - (lvl 67) Zombie TarmaDruid.txt
+C:\Program Files (x86)\Zmud\BatMUD\020506-020518 - (lvl 77) Human MonkTarma.zip::log - 020506-020518 - (lvl 77) Human MonkTarma.txt
+  658865  [    31    ] Ghost of Larppa
+1 match in C:\Program Files (x86)\Zmud\BatMUD\020506-020518 - (lvl 77) Human MonkTarma.zip::log - 020506-020518 - (lvl 77) Human MonkTarma.txt
+C:\Program Files (x86)\Zmud\BatMUD\020531-020606 - (lvl 70) Elf Mage+Conju.zip::log - 020531-020606 - (lvl 70) Elf Mage+Conju.txt
+  334578  Ghost of Larppa [ghost]: rais plz
+  334602  Ghost of Larppa [ghost]: kardon why did you abort my rais?
+  392005  Ghost of Larppa [ghost]: w: ress
+  393884  Ghost of Larppa [ghost]: w: ress
+  397294  [21:58]:Ghost of Larppa [ghost]: w: ress
+  403789  Ghost of Larppa [ghost]: w: ress
+  405124  [22:49]:Ghost of Larppa [ghost]: w: ress
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\020531-020606 - (lvl 70) Elf Mage+Conju.zip::log - 020531-020606 - (lvl 70) Elf Mage+Conju.txt
+C:\Program Files (x86)\Zmud\BatMUD\020606-020613 - (lvl 70) Elf Mage+Conju.zip::log - 020606-020613 - (lvl 70) Elf Mage+Conju.txt
+   50142  Ghost of Larppa [ghost]: w: rais
+  136531  Ghost of Larppa [ghost]: w:ress
+  136546  Ghost of Larppa [ghost]: ress plz
+  136614  Ghost of Larppa [ghost]: damn clone! damn! ress plz...
+  136619  Ghost of Larppa [ghost]: someone kill that clone of me... its south of sc
+  138355  [15:09]:Ghost of Larppa [ghost]: ress plz
+  138360  [15:16]:Ghost of Larppa [ghost]: damn clone! damn! ress plz...
+  138362  [15:17]:Ghost of Larppa [ghost]: someone kill that clone of me... its south of sc
+  258859  Ghost of Larppa [ghost]: damn sea! =)
+  378047  Ghost of Larppa [ghost]: rais plz
+  378725  Ghost of Larppa [ghost]: rais plz
+  378777  Ghost of Larppa [ghost]: rais plz
+  380290  Ghost of Larppa [ghost]: rais plz, i'll pay 500 gold!
+  486184  Ghost of Larppa [ghost]: w ress plz
+14 matches in C:\Program Files (x86)\Zmud\BatMUD\020606-020613 - (lvl 70) Elf Mage+Conju.zip::log - 020606-020613 - (lvl 70) Elf Mage+Conju.txt
+C:\Program Files (x86)\Zmud\BatMUD\020613-020627 - (lvl 70) Elf Mage+Conju.zip::log - 020613-020627 - (lvl 70) Elf Mage+Conju.txt
+     405  Ghost of Larppa [ghost]: oh, damn... first i got in freezer and now this! this
+  436714  Ghost of Larppa [ghost]: damnhh.. rais plz
+  436754  [    38    ] Ghost of Larppa
+  476387  Ghost of Larppa [ghost]: w: rais
+  508334  Ghost of Larppa [ghost]: w: ress
+  618739  Ghost of Larppa [ghost]: damn crit! ress plz
+  618799  Ghost of Larppa [ghost]: w: ress,scar removal and heal =)
+ 1112079  Ghost of Larppa [ghost]: oh... DAMN! rais plz!
+ 1122953  Ghost of Larppa [ghost]: huoh, rais plz =)
+9 matches in C:\Program Files (x86)\Zmud\BatMUD\020613-020627 - (lvl 70) Elf Mage+Conju.zip::log - 020613-020627 - (lvl 70) Elf Mage+Conju.txt
+C:\Program Files (x86)\Zmud\BatMUD\020627-020702 - (lvl 70) Elf Mage+Conju.zip::log - 020627-020702 - (lvl 70) Elf Mage+Conju.txt
+  119445  Ghost of Larppa [ghost]: rais plz
+  120980  Ghost of Larppa [ghost]: rais plz
+  127772  Ghost of Larppa [ghost]: damn, damn, not my day! rais plz
+  129167  Ghost of Larppa [ghost]: rais plz
+  129228  Ghost of Larppa [ghost]: damn someone get me outta here!
+  133174  Ghost of Larppa [ghost]: OH DAMN! rais plz
+  133658  Ghost of Larppa [ghost]: anyone rainsing?
+  135956  Ghost of Larppa [ghost]: damn! this is too much for me! rais plz
+  151007  Ghost of Larppa [ghost]: rais plz
+  151158  Ghost of Larppa [ghost]: kool, its good to see ya creal =)
+  151312  Ghost of Larppa [ghost]: w: that damn rais =)
+  407029  Ghost of Larppa [ghost]: huh, rais plz
+  407090  Ghost of Larppa [ghost]: DAMN someone get me outta here! =)
+  461369  Ghost of Larppa [ghost]: w:ress plz... dont remember how much i got exp on =)
+14 matches in C:\Program Files (x86)\Zmud\BatMUD\020627-020702 - (lvl 70) Elf Mage+Conju.zip::log - 020627-020702 - (lvl 70) Elf Mage+Conju.txt
+C:\Program Files (x86)\Zmud\BatMUD\020702-020709 - (lvl 73) Catfolk Tiger+Priest.zip::log - 020702-020709 - (lvl 73) Catfolk Tiger+Priest.txt
+  268176  Ghost of Larppa [ghost]: huh, just used my exp =) rais plz
+  268187  Ghost of Larppa [ghost]: huh, get me outta here!
+  367642  Ghost of Larppa [ghost]: damn i hate blood baths =)
+  406549  Ghost of Larppa [ghost]: nooo! rais plz
+  539247  Ghost of Larppa [ghost]: w:ress plz
+  542003  Ghost of Larppa [ghost]: oh DAMN! ress plz
+  547205  [14:05]:Ghost of Larppa [ghost]: w:ress plz
+  547213  [14:15]:Ghost of Larppa [ghost]: oh DAMN! ress plz
+  548105  [14:15]:Ghost of Larppa [ghost]: oh DAMN! ress plz
+  549335  Ghost of Larppa [ghost]: damn! ress plz
+  550781  [ghost]: Ghost of Larppa goes 'DOH'.
+  550785  Ghost of Larppa [ghost]: dude blort killed me =)
+  550790  Ghost of Larppa [ghost]: heh, damn i got only 17hp
+  550798  Ghost of Larppa [ghost]: w: rais plz
+  744256  Ghost of Larppa [ghost]: heh, rais plz
+  748676  [ghost]: Ghost of Larppa goes 'DOH'.
+  749352  Ghost of Larppa [ghost]: huh, when that dwarf get there?
+17 matches in C:\Program Files (x86)\Zmud\BatMUD\020702-020709 - (lvl 73) Catfolk Tiger+Priest.zip::log - 020702-020709 - (lvl 73) Catfolk Tiger+Priest.txt
+C:\Program Files (x86)\Zmud\BatMUD\050515.zip::050515.txt
+   32125  Ghost of Larppa [31m[ghost]:[0m haha :D
+   32129  Ghost of Larppa [31m[ghost]:[0m ressi
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050515.zip::050515.txt
+C:\Program Files (x86)\Zmud\BatMUD\050516.zip::050516.txt
+  174404  Ghost of Larppa [31m[ghost]:[0m :ddddd ress?
+  174405  Ghost of Larppa [31m[ghost]:[0m :Dddd jopa
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050516.zip::050516.txt
+C:\Program Files (x86)\Zmud\BatMUD\050517.zip::050517.txt
+   55661  Ghost of Larppa [31m[ghost]:[0m voi nigris!11111111111 taas menin ripsimään kaikki expani xättäillessä :Dddddd
+   55664  Ghost of Larppa [31m[ghost]:[0m ressiä? :D
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050517.zip::050517.txt
+C:\Program Files (x86)\Zmud\BatMUD\050519.zip::050519.txt
+   72989  Ghost of Larppa [31m[ghost]:[0m :(88888
+   72991  Ghost of Larppa [31m[ghost]:[0m ei ois pitäny lähtä vouhottaan :D
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050519.zip::050519.txt
+C:\Program Files (x86)\Zmud\BatMUD\050529.zip::050529.txt
+   32778  Ghost of Larppa [31m[ghost]:[0m AUGH!11111
+   32780  Ghost of Larppa [31m[ghost]:[0m sen siitä saa kun xättii
+   32781  Ghost of Larppa [31m[ghost]:[0m ressi
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\050529.zip::050529.txt
+C:\Program Files (x86)\Zmud\BatMUD\050607.zip::050607.txt
+   23750  Ghost of Larppa [31m[ghost]:[0m hra. cancero... blood bäthin aikana ei voi tulla peliin niin että selviäis hengissä :)
+   30147  Ghost of Larppa [31m[ghost]:[0m w: äsäs kanavat wörksimään during bb
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050607.zip::050607.txt
+C:\Program Files (x86)\Zmud\BatMUD\050610.zip::050610.txt
+  196396  [31m[ghost]:[0m Ghost of Larppa sighs deeply.
+  196424  Ghost of Larppa [31m[ghost]:[0m got from windowssia
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050610.zip::050610.txt
+C:\Program Files (x86)\Zmud\BatMUD\050611.zip::050611.txt
+   53746  Ghost of Larppa [31m[ghost]:[0m Aaaaaauuuuuuuuuughhhhhhhh nigön pena täysin sinun syysi :D
+   53754  Ghost of Larppa [31m[ghost]:[0m ressi?
+   72441  Ghost of Larppa [31m[ghost]:[0m UHU!!!!!!!!! :Dddddddddddddd
+   72474  Ghost of Larppa [31m[ghost]:[0m w: dleggins
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050611.zip::050611.txt
+C:\Program Files (x86)\Zmud\BatMUD\050613.zip::050613.txt
+  114035  Ghost of Larppa [31m[ghost]:[0m UHU!!!!!!!!!! huono peli
+  114039  Ghost of Larppa [31m[ghost]:[0m ressi mä lähen nugsiin adjö
+  114989  Ghost of Larppa [31m[ghost]:[0m RESS!
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\050613.zip::050613.txt
+C:\Program Files (x86)\Zmud\BatMUD\050615.zip::050615.txt
+   37485  Ghost of Larppa [31m[ghost]:[0m TAPOIT MUT
+   37495  Ghost of Larppa [31m[ghost]:[0m ressi :D
+   37517  Ghost of Larppa [31m[ghost]:[0m sainpa hyvinnii
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\050615.zip::050615.txt
+C:\Program Files (x86)\Zmud\BatMUD\050620.zip::050620.txt
+  150744  | Ghost of Larppa [31m[ghost]:[0m TAPOIT MUT
+  151885  Ghost of Larppa [31m[ghost]:[0m oh :O
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050620.zip::050620.txt
+C:\Program Files (x86)\Zmud\BatMUD\050623.zip::050623.txt
+  116714  Ghost of Larppa [31m[ghost]:[0m :(888888888888888
+  127589  Ghost of Larppa [31m[ghost]:[0m hahahaha hohohoho... ja siihen loppui huumorintaju
+  127734  Ghost of Larppa [31m[ghost]:[0m adjö
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\050623.zip::050623.txt
+C:\Program Files (x86)\Zmud\BatMUD\050624.zip::050624.txt
+   58014  Ghost of Larppa [31m[ghost]:[0m no jee :D
+   58015  Ghost of Larppa [31m[ghost]:[0m ressiä
+  220332  Ghost of Larppa [31m[ghost]:[0m ress?
+  220375  Ghost of Larppa [31m[ghost]:[0m ehkä paras tuuri ikinä... idlaan luonnossa 160k niskassa nii lioni poppaa ruutuun ku oon keittiössä
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050624.zip::050624.txt
+C:\Program Files (x86)\Zmud\BatMUD\050627.zip::050627.txt
+  230774  Ghost of Larppa [31m[ghost]:[0m uhu mikä monsteri!
+  230983  Ghost of Larppa [31m[ghost]:[0m ress/rais?
+  232326  Ghost of Larppa [31m[ghost]:[0m rais before that tp rain
+  232367  Ghost of Larppa [31m[ghost]:[0m :D
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050627.zip::050627.txt
+C:\Program Files (x86)\Zmud\BatMUD\050630.zip::050630.txt
+   46168  Ghost of Larppa [31m[ghost]:[0m jaaaaaaaaahas
+   46170  Ghost of Larppa [31m[ghost]:[0m ress
+   53350  Ghost of Larppa [31m[ghost]:[0m ress :)
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\050630.zip::050630.txt
+C:\Program Files (x86)\Zmud\BatMUD\050704.zip::050704.txt
+   80462  Ghost of Larppa [31m[ghost]:[0m OHO :O
+   80557  Ghost of Larppa [31m[ghost]:[0m rais? :D
+   80685  Ghost of Larppa [31m[ghost]:[0m instana henki pois
+   80844  Ghost of Larppa [31m[ghost]:[0m kill sentry -> Welcome to HEAVEN.
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050704.zip::050704.txt
+C:\Program Files (x86)\Zmud\BatMUD\050705.zip::050705.txt
+   47985  Ghost of Larppa [31m[ghost]:[0m ADJÖ!
+   47987  Ghost of Larppa [31m[ghost]:[0m ressi?
+   48000  Ghost of Larppa [31m[ghost]:[0m :D
+   48018  Ghost of Larppa [31m[ghost]:[0m sinne meni powerit! yhyybuhuu
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050705.zip::050705.txt
+C:\Program Files (x86)\Zmud\BatMUD\050711.zip::050711.txt
+  127742  Ghost of Larppa [31m[ghost]:[0m oho! :( )
+  127835  Ghost of Larppa [31m[ghost]:[0m That really HURT!
+  127838  Ghost of Larppa [31m[ghost]:[0m rais?
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\050711.zip::050711.txt
+C:\Program Files (x86)\Zmud\BatMUD\050713.zip::050713.txt
+   61693  Ghost of Larppa [31m[ghost]:[0m UHU UHU UHU
+   61699  Ghost of Larppa [31m[ghost]:[0m got from xuninpällerö
+   64118  [23:56]:Ghost of Larppa [31m[ghost]:[0m UHU UHU UHU
+   64119  [23:56]:Ghost of Larppa [31m[ghost]:[0m got from xuninpällerö
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050713.zip::050713.txt
+C:\Program Files (x86)\Zmud\BatMUD\050714.zip::050714.txt
+   65934  Ghost of Larppa [31m[ghost]:[0m :D
+   65948  Ghost of Larppa [31m[ghost]:[0m 61 cha :)
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050714.zip::050714.txt
+C:\Program Files (x86)\Zmud\BatMUD\050716.zip::050716.txt
+   38399  Ghost of Larppa [31m[ghost]:[0m UHU
+1 match in C:\Program Files (x86)\Zmud\BatMUD\050716.zip::050716.txt
+C:\Program Files (x86)\Zmud\BatMUD\050718.zip::050718.txt
+  117456  Ghost of Larppa [31m[ghost]:[0m vihattu peli vihattu peli
+  117458  Ghost of Larppa [31m[ghost]:[0m vihhaan
+  119769  [23:37]:Ghost of Larppa [31m[ghost]:[0m vihattu peli vihattu peli
+  119770  [23:37]:Ghost of Larppa [31m[ghost]:[0m vihhaan
+  120296  Ghost of Larppa [31m[ghost]:[0m haha :D
+  120297  Ghost of Larppa [31m[ghost]:[0m ress
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\050718.zip::050718.txt
+C:\Program Files (x86)\Zmud\BatMUD\050722.zip::050722.txt
+  114588  Ghost of Larppa [31m[ghost]:[0m :( )
+1 match in C:\Program Files (x86)\Zmud\BatMUD\050722.zip::050722.txt
+C:\Program Files (x86)\Zmud\BatMUD\050723.zip::050723.txt
+  154132  Ghost of Larppa [31m[ghost]:[0m AAAAAAHAHAHAHAHA melkein riitti munki huumorintaju
+  154289  Ghost of Larppa [31m[ghost]:[0m -600 entryt
+  166823  Ghost of Larppa [31m[ghost]:[0m haha justku pääs sanomasta :D
+  170424  Ghost of Larppa [31m[ghost]:[0m ress
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050723.zip::050723.txt
+C:\Program Files (x86)\Zmud\BatMUD\050724.zip::050724.txt
+  213850  Ghost of Larppa [31m[ghost]:[0m :( )
+1 match in C:\Program Files (x86)\Zmud\BatMUD\050724.zip::050724.txt
+C:\Program Files (x86)\Zmud\BatMUD\050725.zip::050725.txt
+  149566  Ghost of Larppa [31m[ghost]:[0m uhu
+  149568  Ghost of Larppa [31m[ghost]:[0m leibän tappo mut
+  204786  Ghost of Larppa [31m[ghost]:[0m :( )
+  204842  Ghost of Larppa [31m[ghost]:[0m raisress somethingiä?
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050725.zip::050725.txt
+C:\Program Files (x86)\Zmud\BatMUD\050727.zip::050727.txt
+  162300  Ghost of Larppa [31m[ghost]:[0m :D
+  162336  Ghost of Larppa [31m[ghost]:[0m nah :D
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050727.zip::050727.txt
+C:\Program Files (x86)\Zmud\BatMUD\050728.zip::050728.txt
+  105867  Ghost of Larppa [31m[ghost]:[0m :(
+1 match in C:\Program Files (x86)\Zmud\BatMUD\050728.zip::050728.txt
+C:\Program Files (x86)\Zmud\BatMUD\050731.zip::050731.txt
+   14305  Ghost of Larppa [31m[ghost]:[0m uhu :D
+   14361  Ghost of Larppa [31m[ghost]:[0m ei aidiöä how much on
+   14409  Ghost of Larppa [31m[ghost]:[0m uhu... 40k on :D
+   31335  Ghost of Larppa [31m[ghost]:[0m rais?
+   31945  Ghost of Larppa [31m[ghost]:[0m _rais_!!! uliuliuli
+   32761  Ghost of Larppa [31m[ghost]:[0m uaaa?!?!?!
+  118411  Ghost of Larppa [31m[ghost]:[0m yhyy! charity posteri jäi inventoryyn :(
+  191863  Ghost of Larppa [31m[ghost]:[0m :D
+  191883  Ghost of Larppa [31m[ghost]:[0m rais, bad cha
+9 matches in C:\Program Files (x86)\Zmud\BatMUD\050731.zip::050731.txt
+C:\Program Files (x86)\Zmud\BatMUD\050801.zip::050801.txt
+  129882  Ghost of Larppa [31m[ghost]:[0m no niinpä tietennii
+  155087  Ghost of Larppa [31m[ghost]:[0m khyäääääää
+  155193  Ghost of Larppa [31m[ghost]:[0m :D
+  160371  Ghost of Larppa [31m[ghost]:[0m huahaha
+  160372  Ghost of Larppa [31m[ghost]:[0m :D
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\050801.zip::050801.txt
+C:\Program Files (x86)\Zmud\BatMUD\050802.zip::050802.txt
+   14006  Ghost of Larppa [31m[ghost]:[0m no ugh
+   97596  Ghost of Larppa [31m[ghost]:[0m ressi
+  110727  Ghost of Larppa [31m[ghost]:[0m :D
+  110731  Ghost of Larppa [31m[ghost]:[0m ress
+  292233  Ghost of Larppa [31m[ghost]:[0m :D:D:D::DD:
+  307232  Ghost of Larppa [31m[ghost]:[0m :D:D:d:D:dddddddddd
+  339082  Ghost of Larppa [31m[ghost]:[0m rais?
+  342256  [    90    ] Ghost of Larppa
+  342371  [    90    ] Ghost of Larppa
+  345497  Ghost of Larppa [31m[ghost]:[0m :D:D
+  345505  [    90    ] Ghost of Larppa
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\050802.zip::050802.txt
+C:\Program Files (x86)\Zmud\BatMUD\050804.zip::050804.txt
+   58235  Ghost of Larppa [31m[ghost]:[0m haha :D
+  152471  Ghost of Larppa [31m[ghost]:[0m :D
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050804.zip::050804.txt
+C:\Program Files (x86)\Zmud\BatMUD\050807.zip::050807.txt
+   83630  Ghost of Larppa [31m[ghost]:[0m :D
+   83635  Ghost of Larppa [31m[ghost]:[0m any priests?
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050807.zip::050807.txt
+C:\Program Files (x86)\Zmud\BatMUD\050812.zip::050812.txt
+   48769  Ghost of Larppa [31m[ghost]:[0m UGH :(     )
+1 match in C:\Program Files (x86)\Zmud\BatMUD\050812.zip::050812.txt
+C:\Program Files (x86)\Zmud\BatMUD\050817.zip::050817.txt
+   92424  Ghost of Larppa [31m[ghost]:[0m kuolin sit nypdin ändin takia :(
+   92515  Ghost of Larppa [31m[ghost]:[0m haha :D:Ddkajglkajsdg
+   92526  Ghost of Larppa [31m[ghost]:[0m w: uptune reavers
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\050817.zip::050817.txt
+C:\Program Files (x86)\Zmud\BatMUD\050818.zip::050818.txt
+   46835  Ghost of Larppa [31m[ghost]:[0m adjö!
+   47496  Ghost of Larppa [31m[ghost]:[0m h:D:DA:DSf
+   78553  Ghost of Larppa [31m[ghost]:[0m uhu... tsiljoona guardia
+   92217  Ghost of Larppa [31m[ghost]:[0m ress
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050818.zip::050818.txt
+C:\Program Files (x86)\Zmud\BatMUD\050820.zip::050820.txt
+    4723  [14:12]:Ghost of Larppa [31m[ghost]:[0m eihänne :D
+    4724  [14:12]:Ghost of Larppa [31m[ghost]:[0m 80k kuitennii
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050820.zip::050820.txt
+C:\Program Files (x86)\Zmud\BatMUD\050822.zip::050822.txt
+    1993  Ghost of Larppa [31m[ghost]:[0m ugh
+1 match in C:\Program Files (x86)\Zmud\BatMUD\050822.zip::050822.txt
+C:\Program Files (x86)\Zmud\BatMUD\050826.zip::050826.txt
+   43136  Ghost of Larppa [31m[ghost]:[0m hhaha :D
+   43170  Ghost of Larppa [31m[ghost]:[0m It's too dark to see. -> CAPSIMÖSSÖÄ -> You die.
+   43174  Ghost of Larppa [31m[ghost]:[0m ress?
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\050826.zip::050826.txt
+C:\Program Files (x86)\Zmud\BatMUD\050827.zip::050827.txt
+   38323  Ghost of Larppa [31m[ghost]:[0m WHEEEEEE
+   40395  Ghost of Larppa [31m[ghost]:[0m UHU! :)
+   40457  Ghost of Larppa [31m[ghost]:[0m joku hikinen 2k mosa
+  158141  Ghost of Larppa [31m[ghost]:[0m kannatti sijoittaa
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050827.zip::050827.txt
+C:\Program Files (x86)\Zmud\BatMUD\050829.zip::050829.txt
+   87686  Ghost of Larppa [31m[ghost]:[0m redessivä
+1 match in C:\Program Files (x86)\Zmud\BatMUD\050829.zip::050829.txt
+C:\Program Files (x86)\Zmud\BatMUD\050904.zip::050904.txt
+  159122  Ghost of Larppa [31m[ghost]:[0m ohos
+1 match in C:\Program Files (x86)\Zmud\BatMUD\050904.zip::050904.txt
+C:\Program Files (x86)\Zmud\BatMUD\050905.zip::050905.txt
+  148563  Ghost of Larppa [31m[ghost]:[0m dohhista
+  148733  Ghost of Larppa [31m[ghost]:[0m ei pitäis selaa intterwebbiä kesken demonin conjuumisen
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050905.zip::050905.txt
+C:\Program Files (x86)\Zmud\BatMUD\050908.zip::050908.txt
+   27132  Ghost of Larppa [31m[ghost]:[0m noni
+   27133  Ghost of Larppa [31m[ghost]:[0m kuolet :)
+   27138  Ghost of Larppa [31m[ghost]:[0m ress
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\050908.zip::050908.txt
+C:\Program Files (x86)\Zmud\BatMUD\050910.zip::050910.txt
+    3278  Ghost of Larppa [31m[ghost]:[0m uhu :O
+    3347  Ghost of Larppa [31m[ghost]:[0m juu
+    6048  Ghost of Larppa [31m[ghost]:[0m :Ddddddd
+    6052  Ghost of Larppa [31m[ghost]:[0m rais?
+    9122  Ghost of Larppa [31m[ghost]:[0m hmmm.... -1000hp crit
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\050910.zip::050910.txt
+C:\Program Files (x86)\Zmud\BatMUD\050911.zip::050911.txt
+  143948  Ghost of Larppa [31m[ghost]:[0m uhu :O
+  143952  Ghost of Larppa [31m[ghost]:[0m raissiva?
+  145000  [23:39]:Ghost of Larppa [31m[ghost]:[0m uhu :O
+  145001  [23:40]:Ghost of Larppa [31m[ghost]:[0m raissiva?
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\050911.zip::050911.txt
+C:\Program Files (x86)\Zmud\BatMUD\050919.zip::050919.txt
+  145199  Ghost of Larppa [31m[ghost]:[0m :(
+  145239  Ghost of Larppa [31m[ghost]:[0m redessi
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050919.zip::050919.txt
+C:\Program Files (x86)\Zmud\BatMUD\050921.zip::050921.txt
+   82539  Ghost of Larppa [31m[ghost]:[0m WHEEEEEEEEEEEE
+   82572  Ghost of Larppa [31m[ghost]:[0m nytsädie
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050921.zip::050921.txt
+C:\Program Files (x86)\Zmud\BatMUD\050922.zip::050922.txt
+   88214  Ghost of Larppa [31m[ghost]:[0m :D
+   88235  Ghost of Larppa [31m[ghost]:[0m RESSIÄ
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050922.zip::050922.txt
+C:\Program Files (x86)\Zmud\BatMUD\050923.zip::050923.txt
+  227257  Ghost of Larppa [31m[ghost]:[0m SIIS VOIHAN KIKKELI
+  227258  Ghost of Larppa [31m[ghost]:[0m :D
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\050923.zip::050923.txt
+C:\Program Files (x86)\Zmud\BatMUD\050925.zip::050925.txt
+   60028  Ghost of Larppa [31m[ghost]:[0m :Dddddddddd
+   60058  Ghost of Larppa [31m[ghost]:[0m kiva city
+   60074  Ghost of Larppa [31m[ghost]:[0m raiseva?
+   99971  Ghost of Larppa [31m[ghost]:[0m MÄEN ALA!
+   99972  Ghost of Larppa [31m[ghost]:[0m :D
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\050925.zip::050925.txt
+C:\Program Files (x86)\Zmud\BatMUD\050929.zip::050929.txt
+  214486  Ghost of Larppa [31m[ghost]:[0m ADJÖ!
+1 match in C:\Program Files (x86)\Zmud\BatMUD\050929.zip::050929.txt
+C:\Program Files (x86)\Zmud\BatMUD\051002.zip::051002.txt
+  226129  Ghost of Larppa [31m[ghost]:[0m ressivä
+  226145  [31m[ghost]:[0m Ghost of Larppa humps Icebear's leg like a dog.
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051002.zip::051002.txt
+C:\Program Files (x86)\Zmud\BatMUD\051007.zip::051007.txt
+   59392  Ghost of Larppa [31m[ghost]:[0m MÄ KUOLIN IHAN OIKEASTI
+   59412  Ghost of Larppa [31m[ghost]:[0m You lose connection to reality, becoming truly STUNNED. -> elephantti says 'ADJÖ!' -> sä die.
+   59458  Ghost of Larppa [31m[ghost]:[0m ress?
+   59630  [31m[ghost]:[0m Ghost of Larppa pokes Blnk in the eye.
+   59859  Ghost of Larppa [31m[ghost]:[0m :D
+   65562  Ghost of Larppa [31m[ghost]:[0m gnn
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\051007.zip::051007.txt
+C:\Program Files (x86)\Zmud\BatMUD\051008.zip::051008.txt
+   68185  Ghost of Larppa [31m[ghost]:[0m xiittiä :D
+   68190  Ghost of Larppa [31m[ghost]:[0m mite nigössä vetää trulyyn joka clawilla? :)
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051008.zip::051008.txt
+C:\Program Files (x86)\Zmud\BatMUD\051009.zip::051009.txt
+  207640  Ghost of Larppa [31m[ghost]:[0m :O
+  207816  Ghost of Larppa [31m[ghost]:[0m miltei voitin!
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051009.zip::051009.txt
+C:\Program Files (x86)\Zmud\BatMUD\051010.zip::051010.txt
+   48053  Ghost of Larppa [31m[ghost]:[0m :O
+   48141  Ghost of Larppa [31m[ghost]:[0m raiseva?
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051010.zip::051010.txt
+C:\Program Files (x86)\Zmud\BatMUD\051016.zip::051016.txt
+  107993  Ghost of Larppa [31m[ghost]:[0m oho :O
+  128581  Ghost of Larppa [31m[ghost]:[0m :D
+  128720  Ghost of Larppa [31m[ghost]:[0m :D:D:D:D
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\051016.zip::051016.txt
+C:\Program Files (x86)\Zmud\BatMUD\051017.zip::051017.txt
+   51932  Ghost of Larppa [31m[ghost]:[0m turpa kiinni taimmä tapan sut vielä OIKEASTI :D
+   52219  Ghost of Larppa [31m[ghost]:[0m OHO
+   52234  [33;45mGhost of Larppa [31m[ghost]:[33m A dispel evil hits you. -> ADJÖ[0m
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\051017.zip::051017.txt
+C:\Program Files (x86)\Zmud\BatMUD\051018.zip::051018.txt
+   31341  Ghost of Larppa [31m[ghost]:[0m adjö :O
+   41801  [31m[ghost]:[0m Ghost of Larppa sighs deeply.
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051018.zip::051018.txt
+C:\Program Files (x86)\Zmud\BatMUD\051019.zip::051019.txt
+   97638  Ghost of Larppa [31m[ghost]:[0m hillitönturbosinnemeniexpatnöyyyyynöyyyyyyyy
+   97651  [31m[ghost]:[0m Ghost of Larppa shakes his head and says 'Nope' to Delveling.
+   97678  Ghost of Larppa [31m[ghost]:[0m ress?
+   98607  Ghost of Larppa [31m[ghost]:[0m OMG!!! :O :O
+   98608  Ghost of Larppa [31m[ghost]:[0m rais?
+   98614  Ghost of Larppa [31m[ghost]:[0m cha 59
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\051019.zip::051019.txt
+C:\Program Files (x86)\Zmud\BatMUD\051020.zip::051020.txt
+    8583  Ghost of Larppa [31m[ghost]:[0m no jes...
+    8584  Ghost of Larppa [31m[ghost]:[0m Magical rifts open above Fat ogre and hideous rays of POWER combine his spell.
+   58815  Ghost of Larppa [31m[ghost]:[0m omg :O
+   58824  Ghost of Larppa [31m[ghost]:[0m what happened? :D
+   58831  Ghost of Larppa [31m[ghost]:[0m ress
+   81958  Ghost of Larppa [31m[ghost]:[0m SINNE LÄSÄHTI!!!
+   81991  Ghost of Larppa [31m[ghost]:[0m :)
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\051020.zip::051020.txt
+C:\Program Files (x86)\Zmud\BatMUD\051021.zip::051021.txt
+    2839  Ghost of Larppa [31m[ghost]:[0m oon kyl pr0!!! :O
+   50013  Ghost of Larppa [31m[ghost]:[0m oho :D
+   84669  Ghost of Larppa [31m[ghost]:[0m NO OHO
+   84680  Ghost of Larppa [31m[ghost]:[0m -1000hp dcrit mind disruption
+   84696  Ghost of Larppa [31m[ghost]:[0m rulesi!
+  106089  Ghost of Larppa [31m[ghost]:[0m :(
+  106099  Ghost of Larppa [31m[ghost]:[0m ress!!!
+  122010  Ghost of Larppa [31m[ghost]:[0m :D
+  122431  Ghost of Larppa [31m[ghost]:[0m :D
+  122546  Ghost of Larppa [31m[ghost]:[0m raiseva?
+  123358  [32mGhost of Larppa[0m
+  125703  Ghost of Larppa [31m[ghost]:[0m !
+  125708  Ghost of Larppa [31m[ghost]:[0m :D
+13 matches in C:\Program Files (x86)\Zmud\BatMUD\051021.zip::051021.txt
+C:\Program Files (x86)\Zmud\BatMUD\051022.zip::051022.txt
+   17128  Ghost of Larppa [31m[ghost]:[0m raiseva
+1 match in C:\Program Files (x86)\Zmud\BatMUD\051022.zip::051022.txt
+C:\Program Files (x86)\Zmud\BatMUD\051025.zip::051025.txt
+   66413  Ghost of Larppa [31m[ghost]:[0m :D
+   66415  Ghost of Larppa [31m[ghost]:[0m wipehänse
+  160934  Ghost of Larppa [31m[ghost]:[0m no voi neekerin giguli
+  160950  Ghost of Larppa [31m[ghost]:[0m olin hakemassa leipää :D
+  160954  Ghost of Larppa [31m[ghost]:[0m ress?
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\051025.zip::051025.txt
+C:\Program Files (x86)\Zmud\BatMUD\051026.zip::051026.txt
+   43219  Ghost of Larppa [31m[ghost]:[0m :D
+   43381  Ghost of Larppa [31m[ghost]:[0m :D
+   43382  Ghost of Larppa [31m[ghost]:[0m ress?
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\051026.zip::051026.txt
+C:\Program Files (x86)\Zmud\BatMUD\051028.zip::051028.txt
+   21086  Ghost of Larppa [31m[ghost]:[0m kih kih :D
+   21098  Ghost of Larppa [31m[ghost]:[0m turpa kiinni :D
+   22106  Ghost of Larppa [31m[ghost]:[0m ress
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\051028.zip::051028.txt
+C:\Program Files (x86)\Zmud\BatMUD\051029.zip::051029.txt
+   70413  Ghost of Larppa [31m[ghost]:[0m EIIIIIIiiiihhhhhhhhh!1111 uuuuuurgh!11111111
+   70416  Ghost of Larppa [31m[ghost]:[0m ress
+   70417  Ghost of Larppa [31m[ghost]:[0m :D
+   70422  Ghost of Larppa [31m[ghost]:[0m 44k on :)
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\051029.zip::051029.txt
+C:\Program Files (x86)\Zmud\BatMUD\051031.zip::051031.txt
+  152398  Ghost of Larppa [31m[ghost]:[0m oho :O
+  152420  Ghost of Larppa [31m[ghost]:[0m resisvä
+  152430  Ghost of Larppa [31m[ghost]:[0m ressivä
+  153607  Ghost of Larppa [31m[ghost]:[0m oottelen tota aeliusta :)
+  164232  Ghost of Larppa [31m[ghost]:[0m ok :D
+  174295  [31m[ghost]:[0m Ghost of Larppa says 'ADJÖ'.
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\051031.zip::051031.txt
+C:\Program Files (x86)\Zmud\BatMUD\051101.zip::051101.txt
+   95028  Ghost of Larppa [31m[ghost]:[0m rais?
+1 match in C:\Program Files (x86)\Zmud\BatMUD\051101.zip::051101.txt
+C:\Program Files (x86)\Zmud\BatMUD\051103.zip::051103.txt
+   35682  Ghost of Larppa [31m[ghost]:[0m :D
+   35683  Ghost of Larppa [31m[ghost]:[0m rais
+   41950  Ghost of Larppa [31m[ghost]:[0m nysse shouts!
+   41958  [31m[ghost]:[0m Ghost of Larppa is kebapii.
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\051103.zip::051103.txt
+C:\Program Files (x86)\Zmud\BatMUD\051106.zip::051106.txt
+   47936  Ghost of Larppa [31m[ghost]:[0m ress
+   48187  Ghost of Larppa [31m[ghost]:[0m :(
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051106.zip::051106.txt
+C:\Program Files (x86)\Zmud\BatMUD\051107.zip::051107.txt
+  122694  Ghost of Larppa [31m[ghost]:[0m :O
+  124183  [22:07]:Ghost of Larppa [31m[ghost]:[0m :O
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051107.zip::051107.txt
+C:\Program Files (x86)\Zmud\BatMUD\051108.zip::051108.txt
+  233065  Ghost of Larppa [31m[ghost]:[0m raiseva
+1 match in C:\Program Files (x86)\Zmud\BatMUD\051108.zip::051108.txt
+C:\Program Files (x86)\Zmud\BatMUD\051109.zip::051109.txt
+   39595  Ghost of Larppa [31m[ghost]:[0m :o
+  134901  Ghost of Larppa [31m[ghost]:[0m hmms
+  134902  Ghost of Larppa [31m[ghost]:[0m :)
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\051109.zip::051109.txt
+C:\Program Files (x86)\Zmud\BatMUD\051112.zip::051112.txt
+  112897  Ghost of Larppa [31m[ghost]:[0m :O
+  112901  Ghost of Larppa [31m[ghost]:[0m raiseva
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051112.zip::051112.txt
+C:\Program Files (x86)\Zmud\BatMUD\051113.zip::051113.txt
+   27381  Ghost of Larppa [31m[ghost]:[0m :D
+   27431  Ghost of Larppa [31m[ghost]:[0m rais?
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051113.zip::051113.txt
+C:\Program Files (x86)\Zmud\BatMUD\051115.zip::051115.txt
+  149463  Ghost of Larppa [31m[ghost]:[0m mä die!
+1 match in C:\Program Files (x86)\Zmud\BatMUD\051115.zip::051115.txt
+C:\Program Files (x86)\Zmud\BatMUD\051117.zip::051117.txt
+  151877  Ghost of Larppa [31m[ghost]:[0m :)
+  152256  Ghost of Larppa [31m[ghost]:[0m ress?
+  152529  Ghost of Larppa [31m[ghost]:[0m emmä nähny
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\051117.zip::051117.txt
+C:\Program Files (x86)\Zmud\BatMUD\051121.zip::051121.txt
+  127328  Ghost of Larppa [31m[ghost]:[0m ress
+  127366  Ghost of Larppa [31m[ghost]:[0m nonii!!!
+  131274  Ghost of Larppa [31m[ghost]:[0m w:resyrexön
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\051121.zip::051121.txt
+C:\Program Files (x86)\Zmud\BatMUD\051123.zip::051123.txt
+  167795  Ghost of Larppa [31m[ghost]:[0m :( )
+  167809  Ghost of Larppa [31m[ghost]:[0m got from parti
+  167841  Ghost of Larppa [31m[ghost]:[0m sä die mäditsi :D
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\051123.zip::051123.txt
+C:\Program Files (x86)\Zmud\BatMUD\051124.zip::051124.txt
+   64863  Ghost of Larppa [31m[ghost]:[0m ress?
+1 match in C:\Program Files (x86)\Zmud\BatMUD\051124.zip::051124.txt
+C:\Program Files (x86)\Zmud\BatMUD\051125.zip::051125.txt
+  132337  Ghost of Larppa [31m[ghost]:[0m raiseva
+1 match in C:\Program Files (x86)\Zmud\BatMUD\051125.zip::051125.txt
+C:\Program Files (x86)\Zmud\BatMUD\051127.zip::051127.txt
+   35197  Ghost of Larppa [31m[ghost]:[0m nigönnigönnigö
+  132638  Ghost of Larppa [31m[ghost]:[0m ress?
+  132651  Ghost of Larppa [31m[ghost]:[0m älä ulise nigris! :D
+  132900  [23:47]:Ghost of Larppa [31m[ghost]:[0m ress?
+  132901  [23:48]:Ghost of Larppa [31m[ghost]:[0m älä ulise nigris! :D
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\051127.zip::051127.txt
+C:\Program Files (x86)\Zmud\BatMUD\051204.zip::051204.txt
+   15245  Ghost of Larppa [31m[ghost]:[0m oho :O
+  193152  Ghost of Larppa [31m[ghost]:[0m ress?
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051204.zip::051204.txt
+C:\Program Files (x86)\Zmud\BatMUD\051205.zip::051205.txt
+   83456  Ghost of Larppa [31m[ghost]:[0m :( )
+   83459  [31m[ghost]:[0m Ghost of Larppa says firmly and without hesitation 'NO.' to Chorale.
+   83460  Ghost of Larppa [31m[ghost]:[0m :D
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\051205.zip::051205.txt
+C:\Program Files (x86)\Zmud\BatMUD\051214.zip::051214.txt
+  146971  Ghost of Larppa [31m[ghost]:[0m rais?
+1 match in C:\Program Files (x86)\Zmud\BatMUD\051214.zip::051214.txt
+C:\Program Files (x86)\Zmud\BatMUD\051218.zip::051218.txt
+   63535  Ghost of Larppa [31m[ghost]:[0m rais?
+1 match in C:\Program Files (x86)\Zmud\BatMUD\051218.zip::051218.txt
+C:\Program Files (x86)\Zmud\BatMUD\051219.zip::051219.txt
+  105937  Ghost of Larppa [31m[ghost]:[0m mugzaa
+  105938  Ghost of Larppa [31m[ghost]:[0m ress
+  106015  [31m[ghost]:[0m Ghost of Larppa kill blasterr
+  106081  Ghost of Larppa [31m[ghost]:[0m :)
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\051219.zip::051219.txt
+C:\Program Files (x86)\Zmud\BatMUD\051224.zip::051224.txt
+   59287  Ghost of Larppa [31m[ghost]:[0m UHU UHU!
+   59489  [31m[ghost]:[0m Ghost of Larppa agrees with Wirah the christmas elf fully.
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051224.zip::051224.txt
+C:\Program Files (x86)\Zmud\BatMUD\051225.zip::051225.txt
+   70997  Ghost of Larppa [31m[ghost]:[0m UHU! :O
+   70999  Ghost of Larppa [31m[ghost]:[0m ei siinä noin pitänyt käydä
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\051225.zip::051225.txt
+C:\Program Files (x86)\Zmud\BatMUD\060101.zip::060101.txt
+   44760  Ghost of Larppa [31m[ghost]:[0m :O
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060101.zip::060101.txt
+C:\Program Files (x86)\Zmud\BatMUD\060105.zip::060105.txt
+   80146  Ghost of Larppa [31m[ghost]:[0m ress?
+   90078  Ghost of Larppa [31m[ghost]:[0m ressivä
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060105.zip::060105.txt
+C:\Program Files (x86)\Zmud\BatMUD\060304.zip::060304.txt
+   18640  Ghost of Larppa [31m[ghost]:[0m :D:D
+   18825  Ghost of Larppa [31m[ghost]:[0m melkein putos! :)
+   20289  [20:49]:Ghost of Larppa [31m[ghost]:[0m :D:D
+   20291  [20:49]:Ghost of Larppa [31m[ghost]:[0m melkein putos! :)
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\060304.zip::060304.txt
+C:\Program Files (x86)\Zmud\BatMUD\060318.zip::060318.txt
+  159019  Ghost of Larppa [31m[ghost]:[0m ugh
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060318.zip::060318.txt
+C:\Program Files (x86)\Zmud\BatMUD\060319.zip::060319.txt
+    4294  Ghost of Larppa [31m[ghost]:[0m :( )
+    4309  Ghost of Larppa [31m[ghost]:[0m raiseva
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060319.zip::060319.txt
+C:\Program Files (x86)\Zmud\BatMUD\060324.zip::060324.txt
+  246202  Ghost of Larppa [31m[ghost]:[0m yngh!
+  246463  Ghost of Larppa [31m[ghost]:[0m kill mob -> double crit -> you die.
+  246785  [00:03]:Ghost of Larppa [31m[ghost]:[0m yngh!
+  246788  [00:04]:Ghost of Larppa [31m[ghost]:[0m kill mob -> double crit -> you die.
+  246906  Ghost of Larppa [31m[ghost]:[0m ressraishäsmäkkä
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\060324.zip::060324.txt
+C:\Program Files (x86)\Zmud\BatMUD\060325.zip::060325.txt
+  105083  Ghost of Larppa [31m[ghost]:[0m ugh :O
+  105266  Ghost of Larppa [31m[ghost]:[0m ress
+  106211  Ghost of Larppa [31m[ghost]:[0m ....
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\060325.zip::060325.txt
+C:\Program Files (x86)\Zmud\BatMUD\060327.zip::060327.txt
+   77081  Ghost of Larppa [31m[ghost]:[0m rais
+   77247  Ghost of Larppa [31m[ghost]:[0m uaaa?!?!?!
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060327.zip::060327.txt
+C:\Program Files (x86)\Zmud\BatMUD\060331.zip::060331.txt
+  170135  Ghost of Larppa [31m[ghost]:[0m yngh
+  170145  Ghost of Larppa [31m[ghost]:[0m Cackling devilishly Davelok BARBARICALLY BITES you causing heart tissue to fly everywhere.
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060331.zip::060331.txt
+C:\Program Files (x86)\Zmud\BatMUD\060401.zip::060401.txt
+  124201  Ghost of Larppa [31m[ghost]:[0m urgh! :D
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060401.zip::060401.txt
+C:\Program Files (x86)\Zmud\BatMUD\060402.zip::060402.txt
+   61922  Ghost of Larppa [31m[ghost]:[0m :( )
+   61939  Ghost of Larppa [31m[ghost]:[0m raiseva
+   80017  Ghost of Larppa [31m[ghost]:[0m raisevata :O :O
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\060402.zip::060402.txt
+C:\Program Files (x86)\Zmud\BatMUD\060408.zip::060408.txt
+  213528  Ghost of Larppa [31m[ghost]:[0m ress, nigösti on
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060408.zip::060408.txt
+C:\Program Files (x86)\Zmud\BatMUD\060414.zip::060414.txt
+   15622  Ghost of Larppa [31m[ghost]:[0m xättäily kilzz
+   15647  Ghost of Larppa [31m[ghost]:[0m kohta dai säki jossei ulina lopu :)
+   15742  | Ghost of Larppa [31m[ghost]:[0m kohta dai säki jossei ulina lopu :)
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\060414.zip::060414.txt
+C:\Program Files (x86)\Zmud\BatMUD\060415.zip::060415.txt
+   27887  Ghost of Larppa [31m[ghost]:[0m ressivä
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060415.zip::060415.txt
+C:\Program Files (x86)\Zmud\BatMUD\060416.zip::060416.txt
+   55415  Ghost of Larppa [31m[ghost]:[0m ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060416.zip::060416.txt
+C:\Program Files (x86)\Zmud\BatMUD\060430.zip::060430.txt
+    5139  Ghost of Larppa [31m[ghost]:[0m :D:D
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060430.zip::060430.txt
+C:\Program Files (x86)\Zmud\BatMUD\060501.zip::060501.txt
+  121559  Ghost of Larppa [31m[ghost]:[0m hoho :D
+  122012  Ghost of Larppa [31m[ghost]:[0m aoh :)
+  122120  Ghost of Larppa [31m[ghost]:[0m ja priest gm!
+  122268  [31m[ghost]:[0m Ghost of Larppa = kebapii
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\060501.zip::060501.txt
+C:\Program Files (x86)\Zmud\BatMUD\060502.zip::060502.txt
+    8554  Ghost of Larppa [31m[ghost]:[0m hehe :D
+    8556  Ghost of Larppa [31m[ghost]:[0m raisevata
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060502.zip::060502.txt
+C:\Program Files (x86)\Zmud\BatMUD\060503.zip::060503.txt
+   28507  Ghost of Larppa [31m[ghost]:[0m ress
+   33923  [21:42]:Ghost of Larppa [31m[ghost]:[0m ress
+   69301  Ghost of Larppa [31m[ghost]:[0m rais
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\060503.zip::060503.txt
+C:\Program Files (x86)\Zmud\BatMUD\060505.zip::060505.txt
+    2273  Ghost of Larppa [31m[ghost]:[0m näinhänsiinäsittenkävi! rulesi!
+    2477  Ghost of Larppa [31m[ghost]:[0m no sehännn meni hyvinnn
+    2479  Ghost of Larppa [31m[ghost]:[0m ress?
+   57522  Ghost of Larppa [31m[ghost]:[0m ress
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\060505.zip::060505.txt
+C:\Program Files (x86)\Zmud\BatMUD\060507.zip::060507.txt
+   29102  Ghost of Larppa [31m[ghost]:[0m :Dddddddddddddgkjasg:Oooooooooooooooo ress :D:D
+   32139  Ghost of Larppa [31m[ghost]:[0m :999999999999
+   32146  [31m[ghost]:[0m Ghost of Larppa slits his throat meaningfully with a fingertip grinning at Freld.
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\060507.zip::060507.txt
+C:\Program Files (x86)\Zmud\BatMUD\060513.zip::060513.txt
+   74625  Ghost of Larppa [31m[ghost]:[0m uhu... se träckkäs
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060513.zip::060513.txt
+C:\Program Files (x86)\Zmud\BatMUD\060519.zip::060519.txt
+  196368  Ghost of Larppa [31m[ghost]:[0m :D
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060519.zip::060519.txt
+C:\Program Files (x86)\Zmud\BatMUD\060520.zip::060520.txt
+   53830  Ghost of Larppa [31m[ghost]:[0m 8O
+   53833  Ghost of Larppa [31m[ghost]:[0m kävipä hupsusti
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060520.zip::060520.txt
+C:\Program Files (x86)\Zmud\BatMUD\060525.zip::060525.txt
+   64336  Ghost of Larppa [31m[ghost]:[0m ress
+   82306  [14:12]:Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060525.zip::060525.txt
+C:\Program Files (x86)\Zmud\BatMUD\060526.zip::060526.txt
+  110771  [31m[ghost]:[0m Ghost of Larppa goes 'Ugh!'.
+  110776  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060526.zip::060526.txt
+C:\Program Files (x86)\Zmud\BatMUD\060527.zip::060527.txt
+    8761  Ghost of Larppa [31m[ghost]:[0m raisevata
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060527.zip::060527.txt
+C:\Program Files (x86)\Zmud\BatMUD\060603.zip::060603.txt
+    5275  Ghost of Larppa [31m[ghost]:[0m vahvastihanse meni! :)
+    5294  Ghost of Larppa [31m[ghost]:[0m ress ululululu
+    5310  [31m[ghost]:[0m Ghost of Larppa gives suspicious looks to everyone.
+    5318  Ghost of Larppa [31m[ghost]:[0m . . . . . . . ?!
+   12199  Ghost of Larppa [31m[ghost]:[0m uhu...
+   12200  Ghost of Larppa [31m[ghost]:[0m ress?
+   14772  Ghost of Larppa [31m[ghost]:[0m ress
+   59661  Ghost of Larppa [31m[ghost]:[0m :)
+   59663  Ghost of Larppa [31m[ghost]:[0m ress
+   60286  Ghost of Larppa [31m[ghost]:[0m ress
+   61104  Ghost of Larppa [31m[ghost]:[0m ress ululululu
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\060603.zip::060603.txt
+C:\Program Files (x86)\Zmud\BatMUD\060609.zip::060609.txt
+   16309  Ghost of Larppa [31m[ghost]:[0m UHU :D
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060609.zip::060609.txt
+C:\Program Files (x86)\Zmud\BatMUD\060610.zip::060610.txt
+   49748  Ghost of Larppa [31m[ghost]:[0m :D:D:D
+   49757  Ghost of Larppa [31m[ghost]:[0m ress 41 cha!
+   50552  Ghost of Larppa [31m[ghost]:[0m sehän meni vahvasti! :D
+   50603  Ghost of Larppa [31m[ghost]:[0m ress, 39 cha! :D
+   50657  Ghost of Larppa [31m[ghost]:[0m w: free surgery to 100!
+   50993  Ghost of Larppa [31m[ghost]:[0m u h u :D
+   50996  Ghost of Larppa [31m[ghost]:[0m ress, cha 38! :D
+   57557  [31m[ghost]:[0m Ghost of Larppa goes 'mmmmm...'.
+   57805  Ghost of Larppa [31m[ghost]:[0m Torturer BARBARICALLY RENDS you inducing a shock to the heart.
+   57826  Ghost of Larppa [31m[ghost]:[0m ress... 35 cha! :D
+   74025  Ghost of Larppa [31m[ghost]:[0m :D:D
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\060610.zip::060610.txt
+C:\Program Files (x86)\Zmud\BatMUD\060709.zip::060709.txt
+  150770  Ghost of Larppa [31m[ghost]:[0m raiseva
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060709.zip::060709.txt
+C:\Program Files (x86)\Zmud\BatMUD\060710.zip::060710.txt
+    2102  Ghost of Larppa [31m[ghost]:[0m ugh :O
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060710.zip::060710.txt
+C:\Program Files (x86)\Zmud\BatMUD\060711.zip::060711.txt
+   23510  Ghost of Larppa [31m[ghost]:[0m rais
+   23519  Ghost of Larppa [31m[ghost]:[0m ...
+   24627  Ghost of Larppa [31m[ghost]:[0m raiseva :O
+   24642  Ghost of Larppa [31m[ghost]:[0m raiseeeeeeh
+   26359  Ghost of Larppa [31m[ghost]:[0m rais
+   29109  Ghost of Larppa [31m[ghost]:[0m raisea
+   29380  Ghost of Larppa [31m[ghost]:[0m 5
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\060711.zip::060711.txt
+C:\Program Files (x86)\Zmud\BatMUD\060712.zip::060712.txt
+   50082  Ghost of Larppa [31m[ghost]:[0m ress
+   50401  [15:08]:Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060712.zip::060712.txt
+C:\Program Files (x86)\Zmud\BatMUD\060713.zip::060713.txt
+   65729  Ghost of Larppa [31m[ghost]:[0m VOI NIGÖN NIGÖ :(     )
+   65730  Ghost of Larppa [31m[ghost]:[0m :D
+   73142  Ghost of Larppa [31m[ghost]:[0m ress
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\060713.zip::060713.txt
+C:\Program Files (x86)\Zmud\BatMUD\060714.zip::060714.txt
+  102157  Ghost of Larppa [31m[ghost]:[0m ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060714.zip::060714.txt
+C:\Program Files (x86)\Zmud\BatMUD\060716.zip::060716.txt
+   85395  Ghost of Larppa [31m[ghost]:[0m ress :)
+   87020  [17:18]:Ghost of Larppa [31m[ghost]:[0m ress :)
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060716.zip::060716.txt
+C:\Program Files (x86)\Zmud\BatMUD\060719.zip::060719.txt
+   33196  Ghost of Larppa [31m[ghost]:[0m ress
+   65905  Ghost of Larppa [31m[ghost]:[0m ress?
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060719.zip::060719.txt
+C:\Program Files (x86)\Zmud\BatMUD\060723.zip::060723.txt
+   55247  | Ghost of Larppa [31m[ghost]:[0m kohta dai säki jossei ulina lopu :)
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060723.zip::060723.txt
+C:\Program Files (x86)\Zmud\BatMUD\060726.zip::060726.txt
+   51114  Ghost of Larppa [31m[ghost]:[0m nytmäbirth
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060726.zip::060726.txt
+C:\Program Files (x86)\Zmud\BatMUD\060729.zip::060729.txt
+   68999  Ghost of Larppa [31m[ghost]:[0m wipehäse
+   69000  Ghost of Larppa [31m[ghost]:[0m ress
+  115613  [31m[ghost]:[0m Ghost of Larppa gets a very EVIL look on his face.
+  115615  Ghost of Larppa [31m[ghost]:[0m rais
+  115620  Ghost of Larppa [31m[ghost]:[0m hmmm ress :)
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\060729.zip::060729.txt
+C:\Program Files (x86)\Zmud\BatMUD\060730.zip::060730.txt
+   41121  Ghost of Larppa [31m[ghost]:[0m ress
+   88247  Ghost of Larppa [31m[ghost]:[0m ru le si
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060730.zip::060730.txt
+C:\Program Files (x86)\Zmud\BatMUD\060731.zip::060731.txt
+  179287  Ghost of Larppa [31m[ghost]:[0m raiseva
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060731.zip::060731.txt
+C:\Program Files (x86)\Zmud\BatMUD\060801.zip::060801.txt
+    3793  Ghost of Larppa [31m[ghost]:[0m noni :D:D:D
+    8528  Ghost of Larppa [31m[ghost]:[0m yngh
+    8548  Ghost of Larppa [31m[ghost]:[0m gnnnn rais?!
+   10184  [31m[ghost]:[0m Ghost of Larppa goes 'MUAH'.
+   10234  Ghost of Larppa [31m[ghost]:[0m rais
+   18703  Ghost of Larppa [31m[ghost]:[0m muah muah muah... rais :D
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\060801.zip::060801.txt
+C:\Program Files (x86)\Zmud\BatMUD\060804.zip::060804.txt
+   60134  Ghost of Larppa [31m[ghost]:[0m o h o :O
+   60135  Ghost of Larppa [31m[ghost]:[0m ress
+   68749  Ghost of Larppa [31m[ghost]:[0m uauauauauauaua
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\060804.zip::060804.txt
+C:\Program Files (x86)\Zmud\BatMUD\060806.zip::060806.txt
+   61335  Ghost of Larppa [31m[ghost]:[0m uauauauaa
+   61342  Ghost of Larppa [31m[ghost]:[0m rais
+   97782  Ghost of Larppa [31m[ghost]:[0m no voiha kikkeli 8O
+  104065  [19:31]:Ghost of Larppa [31m[ghost]:[0m no voiha kikkeli 8O
+  111022  Ghost of Larppa [31m[ghost]:[0m raiseva
+  111721  Ghost of Larppa [31m[ghost]:[0m rais and tarm for 1 kill!
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\060806.zip::060806.txt
+C:\Program Files (x86)\Zmud\BatMUD\060808.zip::060808.txt
+   29469  Ghost of Larppa [31m[ghost]:[0m uauauauauaaaaa
+  199474  Ghost of Larppa [31m[ghost]:[0m raiseva
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060808.zip::060808.txt
+C:\Program Files (x86)\Zmud\BatMUD\060901.zip::060901.txt
+   15706  Ghost of Larppa [31m[ghost]:[0m raiseva
+   18805  [14:00]:Ghost of Larppa [31m[ghost]:[0m raiseva
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060901.zip::060901.txt
+C:\Program Files (x86)\Zmud\BatMUD\060902.zip::060902.txt
+   35686  | Ghost of Larppa [31m[ghost]:[0m kohta dai säki jossei ulina lopu :)
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060902.zip::060902.txt
+C:\Program Files (x86)\Zmud\BatMUD\060903.zip::060903.txt
+  119425  Ghost of Larppa [31m[ghost]:[0m raiseva
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060903.zip::060903.txt
+C:\Program Files (x86)\Zmud\BatMUD\060908.zip::060908.txt
+   48035  Ghost of Larppa [31m[ghost]:[0m u h u 8D
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060908.zip::060908.txt
+C:\Program Files (x86)\Zmud\BatMUD\060910.zip::060910.txt
+   51122  Ghost of Larppa [31m[ghost]:[0m :D
+   51125  Ghost of Larppa [31m[ghost]:[0m ress
+   51152  Ghost of Larppa [31m[ghost]:[0m ressivä
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\060910.zip::060910.txt
+C:\Program Files (x86)\Zmud\BatMUD\060911.zip::060911.txt
+   40373  Ghost of Larppa [31m[ghost]:[0m ress
+   44513  Ghost of Larppa [31m[ghost]:[0m 8DDDDD
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060911.zip::060911.txt
+C:\Program Files (x86)\Zmud\BatMUD\060913.zip::060913.txt
+   26652  Ghost of Larppa [31m[ghost]:[0m ei pitäisi xättäillä
+   38197  Ghost of Larppa [31m[ghost]:[0m :D
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060913.zip::060913.txt
+C:\Program Files (x86)\Zmud\BatMUD\060916.zip::060916.txt
+  108938  Ghost of Larppa [31m[ghost]:[0m ress
+  108959  Ghost of Larppa [31m[ghost]:[0m ress, 46 cha
+  109007  Ghost of Larppa [31m[ghost]:[0m uliuliuliuli ress... low cha
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\060916.zip::060916.txt
+C:\Program Files (x86)\Zmud\BatMUD\060920.zip::060920.txt
+   11141  Ghost of Larppa [31m[ghost]:[0m eipä oo takasi tulemista 8)
+1 match in C:\Program Files (x86)\Zmud\BatMUD\060920.zip::060920.txt
+C:\Program Files (x86)\Zmud\BatMUD\060921.zip::060921.txt
+  124191  Ghost of Larppa [31m[ghost]:[0m kuolla läsähdin
+  124219  Ghost of Larppa [31m[ghost]:[0m 44 cha 8)
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\060921.zip::060921.txt
+C:\Program Files (x86)\Zmud\BatMUD\061001.zip::061001.txt
+  108298  Ghost of Larppa [31m[ghost]:[0m 8)
+1 match in C:\Program Files (x86)\Zmud\BatMUD\061001.zip::061001.txt
+C:\Program Files (x86)\Zmud\BatMUD\061003.zip::061003.txt
+  241192  Ghost of Larppa [31m[ghost]:[0m khyäää
+1 match in C:\Program Files (x86)\Zmud\BatMUD\061003.zip::061003.txt
+C:\Program Files (x86)\Zmud\BatMUD\061007.zip::061007.txt
+  154411  Ghost of Larppa [31m[ghost]:[0m rais?
+  158016  Ghost of Larppa [31m[ghost]:[0m raisee
+  158821  Ghost of Larppa [31m[ghost]:[0m raiseeeh
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\061007.zip::061007.txt
+C:\Program Files (x86)\Zmud\BatMUD\061008.zip::061008.txt
+   29401  Ghost of Larppa [31m[ghost]:[0m nooo 8(((((
+   31077  Ghost of Larppa [31m[ghost]:[0m ress 8)
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\061008.zip::061008.txt
+C:\Program Files (x86)\Zmud\BatMUD\061009.zip::061009.txt
+   49999  Ghost of Larppa [31m[ghost]:[0m :(
+   50135  [32mGhost of Larppa[0m
+   73048  Ghost of Larppa [31m[ghost]:[0m ress
+   73772  Ghost of Larppa [31m[ghost]:[0m :(
+  121037  Ghost of Larppa [31m[ghost]:[0m ress 8)
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\061009.zip::061009.txt
+C:\Program Files (x86)\Zmud\BatMUD\061019.zip::061019.txt
+  151555  Ghost of Larppa [31m[ghost]:[0m rais 8)
+1 match in C:\Program Files (x86)\Zmud\BatMUD\061019.zip::061019.txt
+C:\Program Files (x86)\Zmud\BatMUD\061021.zip::061021.txt
+   62279  Ghost of Larppa [31m[ghost]:[0m ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\061021.zip::061021.txt
+C:\Program Files (x86)\Zmud\BatMUD\061022.zip::061022.txt
+   64911  Ghost of Larppa [31m[ghost]:[0m näin!
+   64921  Ghost of Larppa [31m[ghost]:[0m vihhaanvihhaanvihhaan
+   64923  [31m[ghost]:[0m Ghost of Larppa goes 'GNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN!!'.
+   64926  Ghost of Larppa [31m[ghost]:[0m w: that gambling feeze _NOW_
+   98324  Ghost of Larppa [31m[ghost]:[0m ress
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\061022.zip::061022.txt
+C:\Program Files (x86)\Zmud\BatMUD\061023.zip::061023.txt
+  138169  Ghost of Larppa [31m[ghost]:[0m ress
+  138683  Ghost of Larppa [31m[ghost]:[0m rais
+  138684  Ghost of Larppa [31m[ghost]:[0m rais
+  138687  Ghost of Larppa [31m[ghost]:[0m ugh
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\061023.zip::061023.txt
+C:\Program Files (x86)\Zmud\BatMUD\061026.zip::061026.txt
+   32851  Ghost of Larppa [31m[ghost]:[0m rais?
+   32882  Ghost of Larppa [31m[ghost]:[0m varmaan nostetaan
+   32907  Ghost of Larppa [31m[ghost]:[0m ululululululu
+   33604  Ghost of Larppa [31m[ghost]:[0m w: someone who has raise dead trained and doesn't ignore me 8)
+   33671  Ghost of Larppa [31m[ghost]:[0m nah
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\061026.zip::061026.txt
+C:\Program Files (x86)\Zmud\BatMUD\061103.zip::061103.txt
+   34555  Ghost of Larppa [31m[ghost]:[0m :D
+   34594  Ghost of Larppa [31m[ghost]:[0m Deer DRILLS you causing heart tissue to fly everywhere.
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\061103.zip::061103.txt
+C:\Program Files (x86)\Zmud\BatMUD\061114.zip::061114.txt
+   10979  [1;37mGhost of Larppa tells you '8D'[0m
+   10982  [1;37mGhost of Larppa tells you 'haha'[0m
+   10986  Ghost of Larppa [31m[ghost]:[0m rais
+   16228  (15:31) [1;37mGhost of Larppa tells you 'haha'[0m
+   31023  Ghost of Larppa [31m[ghost]:[0m ress
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\061114.zip::061114.txt
+C:\Program Files (x86)\Zmud\BatMUD\061115.zip::061115.txt
+   73571  Ghost of Larppa [31m[ghost]:[0m ress
+   93447  Ghost of Larppa [31m[ghost]:[0m rais 8)
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\061115.zip::061115.txt
+C:\Program Files (x86)\Zmud\BatMUD\061116.zip::061116.txt
+  132094  Ghost of Larppa [31m[ghost]:[0m rais 8)
+  132099  Ghost of Larppa [31m[ghost]:[0m Routa tells you 'LOL SÄ DAI :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+  132101  Ghost of Larppa [31m[ghost]:[0m ...
+  132371  Ghost of Larppa [31m[ghost]:[0m muah :D
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\061116.zip::061116.txt
+C:\Program Files (x86)\Zmud\BatMUD\061121.zip::061121.txt
+   52839  Ghost of Larppa [31m[ghost]:[0m ress ?
+   53029  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\061121.zip::061121.txt
+C:\Program Files (x86)\Zmud\BatMUD\061127.zip::061127.txt
+   88908  Ghost of Larppa [31m[ghost]:[0m ressi 8)
+  104953  Ghost of Larppa [31m[ghost]:[0m MÄ DIE
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\061127.zip::061127.txt
+C:\Program Files (x86)\Zmud\BatMUD\061129.zip::061129.txt
+   55460  Ghost of Larppa [31m[ghost]:[0m ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\061129.zip::061129.txt
+C:\Program Files (x86)\Zmud\BatMUD\061201.zip::061201.txt
+   75079  Ghost of Larppa [31m[ghost]:[0m sehän meni vahvasti!
+   75080  Ghost of Larppa [31m[ghost]:[0m rais
+   78708  Ghost of Larppa [31m[ghost]:[0m ress 8)
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\061201.zip::061201.txt
+C:\Program Files (x86)\Zmud\BatMUD\061203.zip::061203.txt
+   14000  | Ghost of Larppa [31m[ghost]:[0m kohta dai säki jossei ulina lopu :)
+1 match in C:\Program Files (x86)\Zmud\BatMUD\061203.zip::061203.txt
+C:\Program Files (x86)\Zmud\BatMUD\061204.zip::061204.txt
+   22609  Ghost of Larppa [31m[ghost]:[0m rais
+   22656  Ghost of Larppa [31m[ghost]:[0m ulululu varmaan nostetaan
+   32145  [13:01]:Ghost of Larppa [31m[ghost]:[0m rais
+   32146  [13:03]:Ghost of Larppa [31m[ghost]:[0m ulululu varmaan nostetaan
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\061204.zip::061204.txt
+C:\Program Files (x86)\Zmud\BatMUD\061205.zip::061205.txt
+   42635  Ghost of Larppa [31m[ghost]:[0m 8D
+   42636  Ghost of Larppa [31m[ghost]:[0m rais
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\061205.zip::061205.txt
+C:\Program Files (x86)\Zmud\BatMUD\061214.zip::061214.txt
+   26114  Ghost of Larppa [31m[ghost]:[0m gnnnnnnnnnnnnnnnnnnnnnnnnn
+   26220  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\061214.zip::061214.txt
+C:\Program Files (x86)\Zmud\BatMUD\061216.zip::061216.txt
+  186848  Ghost of Larppa [31m[ghost]:[0m ress 8)
+1 match in C:\Program Files (x86)\Zmud\BatMUD\061216.zip::061216.txt
+C:\Program Files (x86)\Zmud\BatMUD\061220.zip::061220.txt
+  156277  Ghost of Larppa [31m[ghost]:[0m 8D
+  156280  Ghost of Larppa [31m[ghost]:[0m rais
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\061220.zip::061220.txt
+C:\Program Files (x86)\Zmud\BatMUD\061221.zip::061221.txt
+  101620  Ghost of Larppa [31m[ghost]:[0m 8Ddddddd
+  101621  Ghost of Larppa [31m[ghost]:[0m 8Ddddddd
+  101622  Ghost of Larppa [31m[ghost]:[0m 8Ddddddd
+  101629  Ghost of Larppa [31m[ghost]:[0m ress
+  101835  [31m[ghost]:[0m Ghost of Larppa nods at Calmis the christmas elf, yeah, sure.
+  102126  [00:27]:Ghost of Larppa [31m[ghost]:[0m 8Ddddddd
+  102127  [00:27]:Ghost of Larppa [31m[ghost]:[0m 8Ddddddd
+  102128  [00:27]:Ghost of Larppa [31m[ghost]:[0m 8Ddddddd
+  102129  [00:27]:Ghost of Larppa [31m[ghost]:[0m ress
+  102135  [00:27]:[31m[ghost]:[0m Ghost of Larppa nods at Calmis the christmas elf, yeah, sure.
+10 matches in C:\Program Files (x86)\Zmud\BatMUD\061221.zip::061221.txt
+C:\Program Files (x86)\Zmud\BatMUD\061222.zip::061222.txt
+   91186  Ghost of Larppa [31m[ghost]:[0m joop ress
+  118286  Ghost of Larppa [31m[ghost]:[0m njoop ress 8)
+  118307  [1;37mGhost of Larppa tells you 'eio kyl hirveitä niskas'[0m
+  120524  (21:45) [1;37mGhost of Larppa tells you 'eio kyl hirveitä niskas'[0m
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\061222.zip::061222.txt
+C:\Program Files (x86)\Zmud\BatMUD\061223.zip::061223.txt
+   40939  Ghost of Larppa [31m[ghost]:[0m 8Ddddddddddddddddddd sinne kosahti
+   64416  Ghost of Larppa [31m[ghost]:[0m 8D
+   64529  Ghost of Larppa [31m[ghost]:[0m . . . .
+   64531  Ghost of Larppa [31m[ghost]:[0m rules :D
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\061223.zip::061223.txt
+C:\Program Files (x86)\Zmud\BatMUD\061224.zip::061224.txt
+   14287  Ghost of Larppa [31m[ghost]:[0m 8DDdddddddddddddd
+   14306  Ghost of Larppa [31m[ghost]:[0m ress & nuq
+   49338  Ghost of Larppa [31m[ghost]:[0m nonii stunnashanse... rulesi nigön nigö 8D
+   49457  [31m[ghost]:[0m Ghost of Larppa slits his throat meaningfully with a fingertip grinning at Acentaja.
+   49566  Ghost of Larppa [31m[ghost]:[0m ress
+   50023  Ghost of Larppa [31m[ghost]:[0m that ress... now 8D
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\061224.zip::061224.txt
+C:\Program Files (x86)\Zmud\BatMUD\061226.zip::061226.txt
+  177211  Ghost of Larppa [31m[ghost]:[0m ress
+  178732  Ghost of Larppa [31m[ghost]:[0m 8D
+  178733  Ghost of Larppa [31m[ghost]:[0m ress
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\061226.zip::061226.txt
+C:\Program Files (x86)\Zmud\BatMUD\061227.zip::061227.txt
+   23357  Ghost of Larppa [31m[ghost]:[0m body vaiks 8D
+   27583  Ghost of Larppa [31m[ghost]:[0m 8Ddddddddddddddddddddddddddddddddd
+   27586  Ghost of Larppa [31m[ghost]:[0m ress
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\061227.zip::061227.txt
+C:\Program Files (x86)\Zmud\BatMUD\061228.zip::061228.txt
+  143380  Ghost of Larppa [31m[ghost]:[0m 8DDDD
+  143381  Ghost of Larppa [31m[ghost]:[0m ress
+  160375  Ghost of Larppa [31m[ghost]:[0m ress mä lähe nuq
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\061228.zip::061228.txt
+C:\Program Files (x86)\Zmud\BatMUD\061229.zip::061229.txt
+   25340  Ghost of Larppa [31m[ghost]:[0m 8D8D
+   25344  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\061229.zip::061229.txt
+C:\Program Files (x86)\Zmud\BatMUD\070101.zip::070101.txt
+  215025  Ghost of Larppa [31m[ghost]:[0m 8DDDDDD 8DDDDDDDDD
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070101.zip::070101.txt
+C:\Program Files (x86)\Zmud\BatMUD\070102.zip::070102.txt
+  117759  Ghost of Larppa [31m[ghost]:[0m rais? 8D
+  118060  Ghost of Larppa [31m[ghost]:[0m jos efektit tulee muhu niin teen susta makkarapottuja
+  118065  Ghost of Larppa [31m[ghost]:[0m 8 D
+  125373  Ghost of Larppa [31m[ghost]:[0m 8D 8D 8D
+  125608  Ghost of Larppa [31m[ghost]:[0m rais 8D
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\070102.zip::070102.txt
+C:\Program Files (x86)\Zmud\BatMUD\070104.zip::070104.txt
+   25791  Ghost of Larppa [31m[ghost]:[0m 8 D
+   25811  Ghost of Larppa [31m[ghost]:[0m rais
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070104.zip::070104.txt
+C:\Program Files (x86)\Zmud\BatMUD\070105.zip::070105.txt
+   73901  Ghost of Larppa [31m[ghost]:[0m 8D
+   73902  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070105.zip::070105.txt
+C:\Program Files (x86)\Zmud\BatMUD\070108.zip::070108.txt
+  142552  | Ghost of Larppa [31m[ghost]:[0m TAPOIT MUT
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070108.zip::070108.txt
+C:\Program Files (x86)\Zmud\BatMUD\070109.zip::070109.txt
+   76992  Ghost of Larppa [31m[ghost]:[0m rais
+   77920  Ghost of Larppa [31m[ghost]:[0m U L U L U L U L U
+  124814  Ghost of Larppa [31m[ghost]:[0m 8 D
+  124839  Ghost of Larppa [31m[ghost]:[0m ? 8D ! ?
+  124860  [  Reaver  ] Ghost of Larppa
+  124884  [00:35]:Ghost of Larppa [31m[ghost]:[0m 8 D
+  124885  [00:35]:Ghost of Larppa [31m[ghost]:[0m ? 8D ! ?
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\070109.zip::070109.txt
+C:\Program Files (x86)\Zmud\BatMUD\070112.zip::070112.txt
+  188723  Ghost of Larppa [31m[ghost]:[0m nigön nigö
+  188766  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070112.zip::070112.txt
+C:\Program Files (x86)\Zmud\BatMUD\070113.zip::070113.txt
+  111116  Ghost of Larppa [31m[ghost]:[0m ok :D
+  112700  Ghost of Larppa [31m[ghost]:[0m oh noes! ehämmä osannu uida! xO
+  112703  Ghost of Larppa [31m[ghost]:[0m rais?
+  126913  [19:00]:Ghost of Larppa [31m[ghost]:[0m ok :D
+  126916  [19:03]:Ghost of Larppa [31m[ghost]:[0m oh noes! ehämmä osannu uida! xO
+  126917  [19:03]:Ghost of Larppa [31m[ghost]:[0m rais?
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\070113.zip::070113.txt
+C:\Program Files (x86)\Zmud\BatMUD\070116.zip::070116.txt
+  134854  Ghost of Larppa [31m[ghost]:[0m ugh rais
+  134936  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070116.zip::070116.txt
+C:\Program Files (x86)\Zmud\BatMUD\070118.zip::070118.txt
+   80032  Ghost of Larppa [31m[ghost]:[0m 8)
+  178626  Ghost of Larppa [31m[ghost]:[0m rais
+  178639  Ghost of Larppa [31m[ghost]:[0m 8D
+  178640  Ghost of Larppa [31m[ghost]:[0m \8D/
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\070118.zip::070118.txt
+C:\Program Files (x86)\Zmud\BatMUD\070119.zip::070119.txt
+   35993  Ghost of Larppa [31m[ghost]:[0m 8)
+   36019  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070119.zip::070119.txt
+C:\Program Files (x86)\Zmud\BatMUD\070121.zip::070121.txt
+   47939  Ghost of Larppa [31m[ghost]:[0m 8D
+   47940  Ghost of Larppa [31m[ghost]:[0m rais
+   53834  Ghost of Larppa [31m[ghost]:[0m lähelläkään! 8)
+   53835  Ghost of Larppa [31m[ghost]:[0m rais
+   54035  [32mGhost of Larppa[0m
+   54044  [1;37mGhost of Larppa tells you 'kerro heti mullekin mistä sait ku mua vaan dissataan'[0m
+   54067  [19:12]:Ghost of Larppa [31m[ghost]:[0m lähelläkään! 8)
+   54068  [19:12]:Ghost of Larppa [31m[ghost]:[0m rais
+   54079  [1;37mGhost of Larppa tells you '...'[0m
+   54379  Ghost of Larppa [31m[ghost]:[0m 8(
+   54448  [  Reaver  ] Ghost of Larppa
+   54462  Ghost of Larppa [31m[ghost]:[0m 8D
+   54473  [1;37mGhost of Larppa tells you 'otin tagilta'[0m
+   54545  Ghost of Larppa [31m[ghost]:[0m 8D
+   54548  [31m[ghost]:[0m Ghost of Larppa gives a thumbs up to Lyriikka.
+   55027  Ghost of Larppa [31m[ghost]:[0m 8D
+   55367  (19:13) [1;37mGhost of Larppa tells you 'kerro heti mullekin mistä sait ku mua vaan [0m[1;37mdissataan'[0m
+   55369  (19:13) [1;37mGhost of Larppa tells you '...'[0m
+   55377  (19:16) [1;37mGhost of Larppa tells you 'otin tagilta'[0m
+   56332  (19:13) [1;37mGhost of Larppa tells you 'kerro heti mullekin mistä sait ku mua vaan [0m[1;37mdissataan'[0m
+   56334  (19:13) [1;37mGhost of Larppa tells you '...'[0m
+   56342  (19:16) [1;37mGhost of Larppa tells you 'otin tagilta'[0m
+   57972  Ghost of Larppa [31m[ghost]:[0m ei tartte auttaa 8D
+23 matches in C:\Program Files (x86)\Zmud\BatMUD\070121.zip::070121.txt
+C:\Program Files (x86)\Zmud\BatMUD\070122.zip::070122.txt
+   99639  Ghost of Larppa [31m[ghost]:[0m norules!
+  103284  Ghost of Larppa [31m[ghost]:[0m voikunrulesi!!!!
+  108784  [17:04]:Ghost of Larppa [31m[ghost]:[0m norules!
+  108792  [17:37]:Ghost of Larppa [31m[ghost]:[0m voikunrulesi!!!!
+  143097  Ghost of Larppa [31m[ghost]:[0m ress
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\070122.zip::070122.txt
+C:\Program Files (x86)\Zmud\BatMUD\070123.zip::070123.txt
+   70264  Ghost of Larppa [31m[ghost]:[0m 8D
+   70271  [1;37mGhost of Larppa tells you '8D'[0m
+   70272  [1;37mGhost of Larppa tells you 'oli ehkä miehekkäin rippi ikinä'[0m
+   70332  Ghost of Larppa [31m[ghost]:[0m jaa seon vissii vähä isompi oikeesti :D
+   70774  [22:50]:Ghost of Larppa [31m[ghost]:[0m 8D
+   70778  [22:53]:Ghost of Larppa [31m[ghost]:[0m jaa seon vissii vähä isompi oikeesti :D
+   71313  [22:50]:Ghost of Larppa [31m[ghost]:[0m 8D
+   71317  [22:53]:Ghost of Larppa [31m[ghost]:[0m jaa seon vissii vähä isompi oikeesti :D
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\070123.zip::070123.txt
+C:\Program Files (x86)\Zmud\BatMUD\070124.zip::070124.txt
+  214670  Ghost of Larppa [31m[ghost]:[0m ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070124.zip::070124.txt
+C:\Program Files (x86)\Zmud\BatMUD\070125.zip::070125.txt
+   87038  Ghost of Larppa [31m[ghost]:[0m moon meleko dead 8D
+   88034  Ghost of Larppa [31m[ghost]:[0m hjälp 8(
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070125.zip::070125.txt
+C:\Program Files (x86)\Zmud\BatMUD\070126.zip::070126.txt
+   82457  Ghost of Larppa [31m[ghost]:[0m 8DDDDDDDDDD
+   82476  Ghost of Larppa [31m[ghost]:[0m adjö
+   82515  Ghost of Larppa [31m[ghost]:[0m ress
+   86280  Ghost of Larppa [31m[ghost]:[0m jokatoinen mosa tappaa!
+   86282  Ghost of Larppa [31m[ghost]:[0m ress
+  156379  Ghost of Larppa [31m[ghost]:[0m ohnoessssssssssssss
+  156380  Ghost of Larppa [31m[ghost]:[0m raiseva
+  167797  [22:31]:Ghost of Larppa [31m[ghost]:[0m ohnoessssssssssssss
+  167798  [22:32]:Ghost of Larppa [31m[ghost]:[0m raiseva
+9 matches in C:\Program Files (x86)\Zmud\BatMUD\070126.zip::070126.txt
+C:\Program Files (x86)\Zmud\BatMUD\070127.zip::070127.txt
+   61685  Ghost of Larppa [31m[ghost]:[0m 8D
+   61686  Ghost of Larppa [31m[ghost]:[0m rais
+   66036  Ghost of Larppa [31m[ghost]:[0m 8D
+   66038  Ghost of Larppa [31m[ghost]:[0m rais
+   94673  Ghost of Larppa [31m[ghost]:[0m ress
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\070127.zip::070127.txt
+C:\Program Files (x86)\Zmud\BatMUD\070128.zip::070128.txt
+   15162  Ghost of Larppa [31m[ghost]:[0m and rais 8)
+   22536  Ghost of Larppa [31m[ghost]:[0m 8D 8D
+   22541  Ghost of Larppa [31m[ghost]:[0m raiseva
+   98659  Ghost of Larppa [31m[ghost]:[0m missio mä die
+   98709  Ghost of Larppa [31m[ghost]:[0m ress
+   99296  [  Reaver  ] Ghost of Larppa
+  109707  [20:19]:Ghost of Larppa [31m[ghost]:[0m missio mä die
+  109708  [20:19]:Ghost of Larppa [31m[ghost]:[0m ress
+  131033  Ghost of Larppa [31m[ghost]:[0m rules ress megsejä on
+9 matches in C:\Program Files (x86)\Zmud\BatMUD\070128.zip::070128.txt
+C:\Program Files (x86)\Zmud\BatMUD\070208.zip::070208.txt
+   18886  Ghost of Larppa [31m[ghost]:[0m 8DDDDDDDDDDDDDDDDdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070208.zip::070208.txt
+C:\Program Files (x86)\Zmud\BatMUD\070209.zip::070209.txt
+   69604  Ghost of Larppa [31m[ghost]:[0m mitäpä pena? 8)
+  105807  Ghost of Larppa [31m[ghost]:[0m noeisitten
+  105819  [31m[ghost]:[0m Ghost of Larppa agrees with Susette fully.
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\070209.zip::070209.txt
+C:\Program Files (x86)\Zmud\BatMUD\070210.zip::070210.txt
+   25818  Ghost of Larppa [31m[ghost]:[0m 8D
+   25850  Ghost of Larppa [31m[ghost]:[0m rais
+   26484  [1;37mAilu [0;54m(ee+):[1;37m (14:28) Ghost of Larppa tells you 'sumeita ambusheja... eioo menossa'[0m
+   26485  [1;37mAilu [0;54m(ee+):[1;37m (14:29) Ghost of Larppa tells you 'puhettakaa että mä 3 runia seison [0m[1;37mjossain[0m
+   31336  Ghost of Larppa [31m[ghost]:[0m 8D
+   31337  Ghost of Larppa [31m[ghost]:[0m rais
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\070210.zip::070210.txt
+C:\Program Files (x86)\Zmud\BatMUD\070214.zip::070214.txt
+   22750  Ghost of Larppa [31m[ghost]:[0m sehän meni vahvasti!
+   22751  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070214.zip::070214.txt
+C:\Program Files (x86)\Zmud\BatMUD\070215.zip::070215.txt
+  174946  Ghost of Larppa [31m[ghost]:[0m kannatti taas xätätä
+  174950  Ghost of Larppa [31m[ghost]:[0m . . .
+  178561  Ghost of Larppa [31m[ghost]:[0m nytmäbirth!
+  178563  Ghost of Larppa [31m[ghost]:[0m rais?
+  178591  [1;37mGhost of Larppa tells you 'SOLIT AINOA joka offerasi'[0m
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\070215.zip::070215.txt
+C:\Program Files (x86)\Zmud\BatMUD\070216.zip::070216.txt
+  162772  Ghost of Larppa [31m[ghost]:[0m KOSH xO, ress?
+  163406  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070216.zip::070216.txt
+C:\Program Files (x86)\Zmud\BatMUD\070218.zip::070218.txt
+   23245  Ghost of Larppa [31m[ghost]:[0m rules ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070218.zip::070218.txt
+C:\Program Files (x86)\Zmud\BatMUD\070219.zip::070219.txt
+   72810  Ghost of Larppa [31m[ghost]:[0m dys
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070219.zip::070219.txt
+C:\Program Files (x86)\Zmud\BatMUD\070225.zip::070225.txt
+  228039  Ghost of Larppa [31m[ghost]:[0m 8((((((
+  228155  Ghost of Larppa [31m[ghost]:[0m 265m on
+  228668  [31m[ghost]:[0m Ghost of Larppa slits his throat meaningfully with a fingertip grinning at Lozlo.
+  228905  [22:15]:Ghost of Larppa [31m[ghost]:[0m 8((((((
+  228906  [22:15]:Ghost of Larppa [31m[ghost]:[0m 265m on
+  228908  [22:15]:[31m[ghost]:[0m Ghost of Larppa slits his throat meaningfully with a fingertip grinning at Lozlo.
+  230196  [22:15]:Ghost of Larppa [31m[ghost]:[0m 8((((((
+  230197  [22:15]:Ghost of Larppa [31m[ghost]:[0m 265m on
+  230199  [22:15]:[31m[ghost]:[0m Ghost of Larppa slits his throat meaningfully with a fingertip grinning at Lozlo.
+  230416  [22:15]:Ghost of Larppa [31m[ghost]:[0m 8((((((
+  230417  [22:15]:Ghost of Larppa [31m[ghost]:[0m 265m on
+  230419  [22:15]:[31m[ghost]:[0m Ghost of Larppa slits his throat meaningfully with a fingertip grinning at Lozlo.
+  231755  Ghost of Larppa [31m[ghost]:[0m 8D
+13 matches in C:\Program Files (x86)\Zmud\BatMUD\070225.zip::070225.txt
+C:\Program Files (x86)\Zmud\BatMUD\070301.zip::070301.txt
+   38277  Ghost of Larppa [31m[ghost]:[0m 8 D 8 D
+   38280  Ghost of Larppa [31m[ghost]:[0m ressraisBODY
+  176778  Ghost of Larppa [31m[ghost]:[0m kosh xO
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\070301.zip::070301.txt
+C:\Program Files (x86)\Zmud\BatMUD\070302.zip::070302.txt
+  125428  Ghost of Larppa [31m[ghost]:[0m ress
+  125769  [18:47]:Ghost of Larppa [31m[ghost]:[0m ress
+  140504  Ghost of Larppa [31m[ghost]:[0m 8(
+  184558  Ghost of Larppa [31m[ghost]:[0m ress
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\070302.zip::070302.txt
+C:\Program Files (x86)\Zmud\BatMUD\070303.zip::070303.txt
+   25973  Ghost of Larppa [31m[ghost]:[0m 8D
+   25974  Ghost of Larppa [31m[ghost]:[0m ress
+   41795  Ghost of Larppa [31m[ghost]:[0m /wrists
+   41801  Ghost of Larppa [31m[ghost]:[0m lisää ressiä
+   42079  Ghost of Larppa [31m[ghost]:[0m RESS
+   44712  Ghost of Larppa [31m[ghost]:[0m 8D
+   44742  Ghost of Larppa [31m[ghost]:[0m ress
+   45627  Ghost of Larppa [31m[ghost]:[0m :D
+   45628  Ghost of Larppa [31m[ghost]:[0m rais?
+   56869  Ghost of Larppa [31m[ghost]:[0m 8D 8D
+   56994  Ghost of Larppa [31m[ghost]:[0m 8D:D:D8LDgjagpujhg
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\070303.zip::070303.txt
+C:\Program Files (x86)\Zmud\BatMUD\070315.zip::070315.txt
+  119724  Ghost of Larppa [31m[ghost]:[0m no tehän sämisitte
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070315.zip::070315.txt
+C:\Program Files (x86)\Zmud\BatMUD\070316.zip::070316.txt
+  125816  Ghost of Larppa [31m[ghost]:[0m rais 8)
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070316.zip::070316.txt
+C:\Program Files (x86)\Zmud\BatMUD\070322.zip::070322.txt
+  146233  Ghost of Larppa [31m[ghost]:[0m 8D
+  146248  Ghost of Larppa [31m[ghost]:[0m ressrais?
+  159131  Ghost of Larppa [31m[ghost]:[0m 8D
+  159132  Ghost of Larppa [31m[ghost]:[0m rais
+  159137  Ghost of Larppa [31m[ghost]:[0m ULUGLULGUAGOUG
+  159152  [31m[ghost]:[0m Ghost of Larppa sig-hs deeply.
+  159166  Ghost of Larppa [31m[ghost]:[0m 8(
+  160299  Ghost of Larppa [31m[ghost]:[0m 8DDDDDDD
+  160300  Ghost of Larppa [31m[ghost]:[0m rais
+  168611  Ghost of Larppa [31m[ghost]:[0m rais
+10 matches in C:\Program Files (x86)\Zmud\BatMUD\070322.zip::070322.txt
+C:\Program Files (x86)\Zmud\BatMUD\070325.zip::070325.txt
+   79674  [31m[ghost]:[0m Ghost of Larppa slits his throat meaningfully with a fingertip grinning at Zenick.
+   79676  Ghost of Larppa [31m[ghost]:[0m ress?
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070325.zip::070325.txt
+C:\Program Files (x86)\Zmud\BatMUD\070328.zip::070328.txt
+   52322  Ghost of Larppa [31m[ghost]:[0m no ruleshanse
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070328.zip::070328.txt
+C:\Program Files (x86)\Zmud\BatMUD\070401.zip::070401.txt
+    9239  Ghost of Larppa [31m[ghost]:[0m rais
+    9279  Ghost of Larppa [31m[ghost]:[0m 8D
+    9283  Ghost of Larppa [31m[ghost]:[0m ois pitäny ottaa se elf
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\070401.zip::070401.txt
+C:\Program Files (x86)\Zmud\BatMUD\070417.zip::070417.txt
+   31419  Ghost of Larppa [31m[ghost]:[0m oh noes :O
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070417.zip::070417.txt
+C:\Program Files (x86)\Zmud\BatMUD\070419.zip::070419.txt
+  161157  Ghost of Larppa [31m[ghost]:[0m hoho :D
+  161435  Ghost of Larppa [31m[ghost]:[0m nigön nisee
+  162004  Ghost of Larppa [31m[ghost]:[0m rais in deso... today
+  162042  Ghost of Larppa [31m[ghost]:[0m rais 8)
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\070419.zip::070419.txt
+C:\Program Files (x86)\Zmud\BatMUD\070422.zip::070422.txt
+   99006  Ghost of Larppa [31m[ghost]:[0m rais?
+  157312  Ghost of Larppa [31m[ghost]:[0m rais
+  261879  Ghost of Larppa [31m[ghost]:[0m rais
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\070422.zip::070422.txt
+C:\Program Files (x86)\Zmud\BatMUD\070427.zip::070427.txt
+     344  Ghost of Larppa [31m[ghost]:[0m rais
+     400  Ghost of Larppa [31m[ghost]:[0m nostakaas ny wäbä 8(
+   21435  Ghost of Larppa [31m[ghost]:[0m 8(
+   21436  Ghost of Larppa [31m[ghost]:[0m rais
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\070427.zip::070427.txt
+C:\Program Files (x86)\Zmud\BatMUD\070429.zip::070429.txt
+   19185  Ghost of Larppa [31m[ghost]:[0m ress
+   26396  Ghost of Larppa [31m[ghost]:[0m tuhannet nuppineulathanne
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070429.zip::070429.txt
+C:\Program Files (x86)\Zmud\BatMUD\070430.zip::070430.txt
+  114512  Ghost of Larppa [31m[ghost]:[0m rais
+  114550  Ghost of Larppa [31m[ghost]:[0m rais
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070430.zip::070430.txt
+C:\Program Files (x86)\Zmud\BatMUD\070508.zip::070508.txt
+  219849  Ghost of Larppa [31m[ghost]:[0m rais
+  219854  [  Seeker  ] Ghost of Larppa
+  219890  [  Seeker  ] Ghost of Larppa
+  225939  [  Seeker  ] Ghost of Larppa
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\070508.zip::070508.txt
+C:\Program Files (x86)\Zmud\BatMUD\070509.zip::070509.txt
+   28321  Ghost of Larppa [ghost]: ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070509.zip::070509.txt
+C:\Program Files (x86)\Zmud\BatMUD\070510.zip::070510.txt
+  101166  Ghost of Larppa [31m[ghost]:[0m xO
+  152890  [17:18]:Ghost of Larppa [31m[ghost]:[0m xO
+  153106  [17:18]:Ghost of Larppa [31m[ghost]:[0m xO
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\070510.zip::070510.txt
+C:\Program Files (x86)\Zmud\BatMUD\070511.zip::070511.txt
+   42030  Ghost of Larppa [31m[ghost]:[0m OK
+  112127  Ghost of Larppa [31m[ghost]:[0m NIGAN SALAD
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070511.zip::070511.txt
+C:\Program Files (x86)\Zmud\BatMUD\070512.zip::070512.txt
+  117916  [  Seeker  ] Ghost of Larppa
+  126699  Ghost of Larppa [31m[ghost]:[0m rais fast 8)
+  127249  Ghost of Larppa [31m[ghost]:[0m rais
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\070512.zip::070512.txt
+C:\Program Files (x86)\Zmud\BatMUD\070514.zip::070514.txt
+   20581  Ghost of Larppa [31m[ghost]:[0m :D
+   20620  Ghost of Larppa [31m[ghost]:[0m rais
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070514.zip::070514.txt
+C:\Program Files (x86)\Zmud\BatMUD\070517.zip::070517.txt
+  159436  Ghost of Larppa [31m[ghost]:[0m bah
+  159483  Ghost of Larppa [31m[ghost]:[0m ress
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070517.zip::070517.txt
+C:\Program Files (x86)\Zmud\BatMUD\070518.zip::070518.txt
+  156567  Ghost of Larppa [31m[ghost]:[0m rais
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070518.zip::070518.txt
+C:\Program Files (x86)\Zmud\BatMUD\070519.zip::070519.txt
+   40984  Ghost of Larppa [31m[ghost]:[0m rais
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070519.zip::070519.txt
+C:\Program Files (x86)\Zmud\BatMUD\070528.zip::070528.txt
+   75018  Ghost of Larppa [31m[ghost]:[0m rais
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070528.zip::070528.txt
+C:\Program Files (x86)\Zmud\BatMUD\070531.zip::070531.txt
+   25921  Ghost of Larppa [31m[ghost]:[0m rais?
+  188274  Ghost of Larppa [31m[ghost]:[0m ress
+  195835  [22:25]:Ghost of Larppa [31m[ghost]:[0m ress
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\070531.zip::070531.txt
+C:\Program Files (x86)\Zmud\BatMUD\070602.zip::070602.txt
+   73544  Ghost of Larppa [31m[ghost]:[0m ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070602.zip::070602.txt
+C:\Program Files (x86)\Zmud\BatMUD\070603.zip::070603.txt
+  191067  Ghost of Larppa [31m[ghost]:[0m rais
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070603.zip::070603.txt
+C:\Program Files (x86)\Zmud\BatMUD\070604.zip::070604.txt
+   95332  Ghost of Larppa [31m[ghost]:[0m ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070604.zip::070604.txt
+C:\Program Files (x86)\Zmud\BatMUD\070609.zip::070609.txt
+    6217  Ghost of Larppa [31m[ghost]:[0m UHU MÄ DIE 8D
+    6218  Ghost of Larppa [31m[ghost]:[0m Ok.
+    6220  Ghost of Larppa [31m[ghost]:[0m rais?
+    6237  Ghost of Larppa [31m[ghost]:[0m rais
+   61854  Ghost of Larppa [31m[ghost]:[0m 8D
+   61855  Ghost of Larppa [31m[ghost]:[0m rais
+   61868  Ghost of Larppa [31m[ghost]:[0m yhybuhu
+   61880  Ghost of Larppa [31m[ghost]:[0m w: resurektion... expaa on KIVAST
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\070609.zip::070609.txt
+C:\Program Files (x86)\Zmud\BatMUD\070610.zip::070610.txt
+  129029  Ghost of Larppa [31m[ghost]:[0m 8D
+  129030  Ghost of Larppa [31m[ghost]:[0m rais
+  129187  Ghost of Larppa [31m[ghost]:[0m UHU 8D
+  129188  Ghost of Larppa [31m[ghost]:[0m rais :D
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\070610.zip::070610.txt
+C:\Program Files (x86)\Zmud\BatMUD\070617.zip::070617.txt
+  122558  Ghost of Larppa [31m[ghost]:[0m 8(
+  122560  Ghost of Larppa [31m[ghost]:[0m rais
+  122730  Ghost of Larppa [31m[ghost]:[0m u l u l u l l u u l lu  rais
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\070617.zip::070617.txt
+C:\Program Files (x86)\Zmud\BatMUD\070622.zip::070622.txt
+    6686  Ghost of Larppa [31m[ghost]:[0m ...
+    6687  Ghost of Larppa [31m[ghost]:[0m rais
+    6915  Ghost of Larppa [31m[ghost]:[0m rais
+    6920  Ghost of Larppa [31m[ghost]:[0m w: someone to disint that meteor already
+    8306  Ghost of Larppa [31m[ghost]:[0m UUUUUuuuuuuuuuuuuuuugasjglajsg
+    8701  Ghost of Larppa [31m[ghost]:[0m voihan kikkeli
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\070622.zip::070622.txt
+C:\Program Files (x86)\Zmud\BatMUD\070627.zip::070627.txt
+  199267  Ghost of Larppa [31m[ghost]:[0m 8D
+  199268  Ghost of Larppa [31m[ghost]:[0m rais
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070627.zip::070627.txt
+C:\Program Files (x86)\Zmud\BatMUD\070628.zip::070628.txt
+  139911  Ghost of Larppa [31m[ghost]:[0m sehän meni vaffasti
+  139917  Ghost of Larppa [31m[ghost]:[0m rais
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\070628.zip::070628.txt
+C:\Program Files (x86)\Zmud\BatMUD\070629.zip::070629.txt
+   46376  Ghost of Larppa [31m[ghost]:[0m rais
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070629.zip::070629.txt
+C:\Program Files (x86)\Zmud\BatMUD\070714.zip::070714.txt
+  114461  Ghost of Larppa [31m[ghost]:[0m rais
+1 match in C:\Program Files (x86)\Zmud\BatMUD\070714.zip::070714.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi100.zip::logi100.txt
+   25723  Ghost of Larppa [ghost]: gaölksdgjlöaksjdg
+   25816  Ghost of Larppa [ghost]: ressi!
+   25882  Ghost of Larppa [ghost]: 50m on
+  135983  Ghost of Larppa [ghost]: menin unconssiin :O
+  140094  [ghost]: Ghost of Larppa slaps Gorehound the christmas elf on the cheek.
+  146600  Ghost of Larppa [ghost]: rais from wermine
+  146602  Ghost of Larppa [ghost]: eeps
+  146603  [ghost]: Ghost of Larppa nods at Chorale the christmas elf.
+  686015  Ghost of Larppa [ghost]: mitäs mää sanoin siitä juoksemisesta?
+  686016  Ghost of Larppa [ghost]: ressiä
+  800117  Ghost of Larppa [ghost]: vai ei siellä mitään paettavaa ollu? :)
+  800301  Ghost of Larppa [ghost]: ressiä
+  800304  Ghost of Larppa [ghost]: 100 cha
+13 matches in C:\Program Files (x86)\Zmud\BatMUD\logi100.zip::logi100.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi101.zip::logi101.txt
+  110115  Ghost of Larppa [ghost]: boo milk
+  110120  Ghost of Larppa [ghost]: :)
+  110270  Ghost of Larppa [ghost]: umm my kills were too small? :D didnt get any points
+  110277  Ghost of Larppa [ghost]: im crazy n00b killer
+  110390  Ghost of Larppa [ghost]: booring!
+  110414  Ghost of Larppa [ghost]: just gimme the award... im the best :O
+  110737  Ghost of Larppa
+  189851  Ghost of Larppa [ghost]: ressiä
+  190008  [ghost]: Ghost of Larppa goes 'EWWWW!' in disgust at Sunnynen.
+  191399  [13:43]:Ghost of Larppa [ghost]: ressiä
+  191403  [13:43]:[ghost]: Ghost of Larppa goes 'EWWWW!' in disgust at Sunnynen.
+  245862  Ghost of Larppa [ghost]: niimpä tietenkii
+  529735  Ghost of Larppa [ghost]: ressiä
+13 matches in C:\Program Files (x86)\Zmud\BatMUD\logi101.zip::logi101.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi102.zip::logi102.txt
+  440500  Ghost of Larppa [ghost]: noku bleedas tunnin
+  441188  Ghost of Larppa [ghost]: doh
+  441199  Ghost of Larppa [ghost]: low cha
+  441202  Ghost of Larppa [ghost]: just reinced
+  463450  Ghost of Larppa [ghost]: niseä
+  463471  Ghost of Larppa [ghost]: not too good cha...
+  463482  Ghost of Larppa [ghost]: ~50
+  470255  Ghost of Larppa [ghost]: puuh
+  470425  Ghost of Larppa [ghost]: w: that party now
+  506407  Ghost of Larppa [ghost]: moan
+  517857  Ghost of Larppa [ghost]: huge! :O
+  522717  Ghost of Larppa [ghost]: voi nigööööööh
+  522718  Ghost of Larppa [ghost]: :D
+  597670  Ghost of Larppa [ghost]: raisea
+  601643  Ghost of Larppa [ghost]: eep
+  601644  Ghost of Larppa [ghost]: hits hard tm :D
+  606714  [ghost]: Ghost of Larppa moans.
+  614403  Ghost of Larppa [ghost]: eep!
+  614408  Ghost of Larppa [ghost]: dcrit :O
+  614411  Ghost of Larppa [ghost]: really HURT
+  615739  Ghost of Larppa [ghost]: huoh!
+  652246  [ghost]: Ghost of Larppa PUUHs.
+  670086  Ghost of Larppa [ghost]: voi nigöööh
+  670979  Ghost of Larppa [ghost]: puuh
+  686853  Ghost of Larppa [ghost]: umm great... im invis and cast water walking... i turn visible and squid kills me :D
+  827486  Ghost of Larppa [ghost]: ress
+26 matches in C:\Program Files (x86)\Zmud\BatMUD\logi102.zip::logi102.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi103.zip::logi103.txt
+  411917  Ghost of Larppa [ghost]: damn lame area :D
+1 match in C:\Program Files (x86)\Zmud\BatMUD\logi103.zip::logi103.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi104.zip::logi104.txt
+   49302  Ghost of Larppa [ghost]: booooo
+   52362  Ghost of Larppa [ghost]: eep
+   52374  Ghost of Larppa [ghost]: :D
+  114437  [ghost]: Ghost of Larppa :O
+  325920  Ghost of Larppa [ghost]: damn :)
+  325958  Ghost of Larppa [ghost]: eyed campion he was in forest... teled campion and he was in locked room with tiger :D
+  325969  Ghost of Larppa [ghost]: then i tried to kill tiger and typoed my claw :)
+  325970  Ghost of Larppa [ghost]: died miserablysti
+  325981  [ghost]: Ghost of Larppa slaps a thundering high-five with Match.
+  432409  Ghost of Larppa [ghost]: ressiä
+10 matches in C:\Program Files (x86)\Zmud\BatMUD\logi104.zip::logi104.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi105.zip::logi105.txt
+  207970  Ghost of Larppa [ghost]: OHO
+  207974  Ghost of Larppa [ghost]: :D
+  268085  Ghost of Larppa [ghost]: NEGERIH
+  268087  Ghost of Larppa [ghost]: :D
+  268097  Ghost of Larppa [ghost]: dunno about charisma
+  325981  Ghost of Larppa [ghost]: EEP :O
+  325987  Ghost of Larppa [ghost]: stun double crit läps läps dys dys
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\logi105.zip::logi105.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi106.zip::logi106.txt
+   22357  [ghost]: Ghost of Larppa moans at Broetchen.
+   22358  Ghost of Larppa [ghost]: ressi
+  205462  Ghost of Larppa [ghost]: demons rock!
+  205471  Ghost of Larppa [ghost]: raiseva
+  378774  Ghost of Larppa [ghost]: :O
+  378850  Ghost of Larppa [ghost]: ressi
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\logi106.zip::logi106.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi107.zip::logi107.txt
+   86227  Ghost of Larppa [ghost]: voi nigöööh
+   86229  Ghost of Larppa [ghost]: uliuli
+   86235  Ghost of Larppa [ghost]: fumble hälärm
+   86239  Ghost of Larppa [ghost]: no idea about cha :)
+   91920  [ghost]: Ghost of Larppa moans.
+   91921  Ghost of Larppa [ghost]: ressiä
+  142708  Ghost of Larppa [ghost]: :O
+  436919  Ghost of Larppa [ghost]: VOI PIPPELI :O
+  437096  [ghost]: Ghost of Larppa beats Superlaama hard.
+9 matches in C:\Program Files (x86)\Zmud\BatMUD\logi107.zip::logi107.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi108.zip::logi108.txt
+   39667  Ghost of Larppa [ghost]: :(((((
+   39871  Ghost of Larppa [ghost]: MOON DÖD
+   39881  Ghost of Larppa [ghost]: ress plz?
+   40655  [23:42]:Ghost of Larppa [ghost]: :(((((
+   40657  [23:42]:Ghost of Larppa [ghost]: MOON DÖD
+   40658  [23:42]:Ghost of Larppa [ghost]: ress plz?
+   59034  [ghost]: Ghost of Larppa goes 'Gnnnn!'.
+  969418  Ghost of Larppa [ghost]: eep :)
+  969458  Ghost of Larppa [ghost]: next time i wont try what happens if i go to nowhere instead of church :)
+ 1136408  Ghost of Larppa [ghost]: läpsistä :)
+ 1136422  Ghost of Larppa [ghost]: ress
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\logi108.zip::logi108.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi109.zip::logi109.txt
+    3231  Ghost of Larppa [ghost]: ressi
+  349086  Ghost of Larppa [ghost]: ress
+  814942  Ghost of Larppa [ghost]: :O
+  814946  Ghost of Larppa [ghost]: ress
+ 1164478  Ghost of Larppa [ghost]: ressivä
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\logi109.zip::logi109.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi110.zip::logi110.txt
+  689792  [ghost]: Ghost of Larppa PUUHs.
+  690038  Ghost of Larppa [ghost]: ok, who killed me with slaad? :)
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\logi110.zip::logi110.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi111.zip::logi111.txt
+  155731  Ghost of Larppa [ghost]: umm what are those soldiers :O
+  155743  Ghost of Larppa [ghost]: ress rais?
+  155926  Ghost of Larppa [ghost]: ?!?!
+  524301  Ghost of Larppa [ghost]: oho :O
+  605375  Ghost of Larppa [ghost]: critti shoushou
+  605376  Ghost of Larppa [ghost]: raise
+  789737  Ghost of Larppa [ghost]: nöygh :O
+  789742  Ghost of Larppa [ghost]: raise
+  906797  Ghost of Larppa [ghost]: oho :)
+ 1076961  Ghost of Larppa [ghost]: hum :O
+ 1076965  Ghost of Larppa [ghost]: raise
+ 1179221  Ghost of Larppa [ghost]: qawsedrtfgyuhjiokpå
+ 1179223  Ghost of Larppa [ghost]: ressi
+ 1227144  Ghost of Larppa [ghost]: voi nigön nigö
+ 1339877  Ghost of Larppa [ghost]: ei pitäis sättiä :(
+ 1451139  Ghost of Larppa [ghost]: umm what happened?
+ 1451207  Ghost of Larppa [ghost]: just died for no reason?
+ 1451339  Ghost of Larppa [ghost]: i wont accept before i know what happened :)
+18 matches in C:\Program Files (x86)\Zmud\BatMUD\logi111.zip::logi111.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi112.zip::logi112.txt
+  201910  Ghost of Larppa [ghost]: arghargh
+  544332  Ghost of Larppa [ghost]: nigö en enää ikinä xättää kompatissa :D omg lollollolplzzzhhhh
+  544361  Ghost of Larppa [ghost]: ress?
+ 1064768  Ghost of Larppa [ghost]: :O
+ 1064770  Ghost of Larppa [ghost]: ress?
+ 1155466  Ghost of Larppa [ghost]: 100000 rounds ambush
+ 1155801  Ghost of Larppa [ghost]: ambush ambush
+ 1157774  Ghost of Larppa [ghost]: ripsistä
+ 1157814  Ghost of Larppa [ghost]: ressiä
+ 1158923  Ghost of Larppa [ghost]: muah :D
+ 1158926  Ghost of Larppa [ghost]: raisea
+ 1231502  Ghost of Larppa [ghost]: ressiä
+ 1231514  Ghost of Larppa [ghost]: turpakiinni vähäkankeroinen :)
+ 1258889  Ghost of Larppa [ghost]: nooooo noooooo
+ 1262492  Ghost of Larppa [ghost]: voi NIGÖN NIGÖ
+ 1262556  Ghost of Larppa [ghost]: ressi niinku olis jo
+16 matches in C:\Program Files (x86)\Zmud\BatMUD\logi112.zip::logi112.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi113.zip::logi113.txt
+  362537  Ghost of Larppa [ghost]: ressiä
+1 match in C:\Program Files (x86)\Zmud\BatMUD\logi113.zip::logi113.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi114.zip::logi114.txt
+  357498  Ghost of Larppa [ghost]: ressi
+1 match in C:\Program Files (x86)\Zmud\BatMUD\logi114.zip::logi114.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi115.zip::logi115.txt
+  197264  Ghost of Larppa [ghost]: NIGÖ
+  197272  Ghost of Larppa [ghost]: vammaist
+  197319  Ghost of Larppa [ghost]: :)
+  197452  Ghost of Larppa [ghost]: no idea how much on
+  450460  Ghost of Larppa [ghost]: nigön nigö
+  450510  Ghost of Larppa [ghost]: :)
+  450523  Ghost of Larppa [ghost]: insta backstab :(
+  454031  Ghost of Larppa [ghost]: no voi nigö :O
+  528043  Ghost of Larppa [ghost]: no oho :O
+  528052  Ghost of Larppa [ghost]: agro novice Crits juuuuuuu, small orcci backstabsjuuu juu die
+  528062  [ghost]: Ghost of Larppa huggles Awed warmly.
+  671045  Ghost of Larppa [ghost]: voi nigön bäckstäbit! gnnnnnnnn omg plz
+  671047  Ghost of Larppa [ghost]: ei vammasempaa mosaa tästä pelistä löydy :)
+  674412  Ghost of Larppa [ghost]: ressivä
+  693164  Ghost of Larppa [ghost]: näin ikkään
+  693798  Ghost of Larppa [ghost]: Smiling devilishly Sentry CRUELLY RIDDLES you causing heart tissue to fly everywhere.
+  693800  Ghost of Larppa [ghost]: a bit turbo? :)
+  693855  Ghost of Larppa [ghost]: ok i'm not killing it :)
+  693856  Ghost of Larppa [ghost]: rais?
+19 matches in C:\Program Files (x86)\Zmud\BatMUD\logi115.zip::logi115.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi116.zip::logi116.txt
+   24611  Ghost of Larppa [ghost]: hum, enkö muka taaskaan banishinu sitä... :O
+   24614  Ghost of Larppa [ghost]: ress?
+   31656  Ghost of Larppa [ghost]: :O
+  152830  Ghost of Larppa [ghost]: no jes
+  201273  Ghost of Larppa [ghost]: whee
+  201275  Ghost of Larppa [ghost]: ress
+  327078  Ghost of Larppa [ghost]: so sniff
+  328520  [17:13]:Ghost of Larppa [ghost]: so sniff
+  402434  Ghost of Larppa [ghost]: nöygh... ei pitäis lukee suomea kompatis
+  402438  Ghost of Larppa [ghost]: ress?
+10 matches in C:\Program Files (x86)\Zmud\BatMUD\logi116.zip::logi116.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi117.zip::logi117.txt
+  243022  Ghost of Larppa [ghost]: no öyrn
+  243163  Ghost of Larppa [ghost]: ressiä
+  243743  Ghost of Larppa [ghost]: reesureksön
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\logi117.zip::logi117.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi118.zip::logi118.txt
+  102280  Ghost of Larppa [ghost]: leibäni!
+  103976  Ghost of Larppa [ghost]: rais?
+  214181  Ghost of Larppa [ghost]: OHO :O
+  214192  Ghost of Larppa [ghost]: niitähän olikin kymmeniä eikä yksi
+  214213  [ghost]: Ghost of Larppa slaps Tonto on the cheek.
+  214217  Ghost of Larppa [ghost]: ressiä niinq olis jo
+  215559  Ghost of Larppa [ghost]: :O
+  215683  Ghost of Larppa [ghost]: rheshhh
+  215830  [    83    ] Ghost of Larppa
+  215882  [22:29]:Ghost of Larppa [ghost]: :O
+  215884  [22:31]:Ghost of Larppa [ghost]: rheshhh
+  216228  Ghost of Larppa [ghost]: ress please
+  216229  Ghost of Larppa [ghost]: or raise deaditus
+  216236  [ghost]: Ghost of Larppa glows at Mallarch.
+  216283  Ghost of Larppa [ghost]: rais?!?
+  312385  Ghost of Larppa [ghost]: gnnnnnnnnnnnnnnnnnnn
+  318830  Ghost of Larppa [ghost]: no voi nigön nigö
+  318835  [ghost]: Ghost of Larppa looks very EVILly at Altarism.
+  320210  Ghost of Larppa [ghost]: wqazsteyxdcguhikuyt665ftg7uy5r6ft7gy67457gy8u
+  320212  Ghost of Larppa [ghost]: en enää ikinä chättää kompatissa
+  320213  Ghost of Larppa [ghost]: ress?
+  381613  Ghost of Larppa [ghost]: sniff
+  392456  Ghost of Larppa [ghost]: no meni se henki kuitenki
+  464402  Ghost of Larppa [ghost]: summon dd lanx
+  464404  Ghost of Larppa [ghost]: :)
+  464415  Ghost of Larppa [ghost]: did anyone summon lanx? :)
+  500930  Ghost of Larppa [ghost]: huuummmmmmmmmmmmm...
+  546978  Ghost of Larppa [ghost]: no ei väkisin sitte
+  690350  Ghost of Larppa [ghost]: MIKS MIKS miksiiiiih?!
+  697874  Ghost of Larppa [ghost]: no niiimpä tietenki
+  731236  Ghost of Larppa [ghost]: :O
+  862805  Ghost of Larppa [ghost]: no voi neekerin neekeri :)
+  864170  Ghost of Larppa [ghost]: +dd :)
+  864210  Ghost of Larppa [ghost]: :)
+  895061  Ghost of Larppa [ghost]: ei pitäis sättiä
+  901682  Ghost of Larppa [ghost]: no jes...
+  907615  Ghost of Larppa [ghost]: ress
+37 matches in C:\Program Files (x86)\Zmud\BatMUD\logi118.zip::logi118.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi119.zip::logi119.txt
+   90494  Ghost of Larppa [ghost]: migz mä die
+   90514  Ghost of Larppa [ghost]: mäditsi die!
+  224279  Ghost of Larppa [ghost]: :O
+  224405  [ghost]: Ghost of Larppa slaps Rutaliator on the cheek.
+  224535  Ghost of Larppa [ghost]: ress?
+  224761  Ghost of Larppa [ghost]: ...
+  224768  Ghost of Larppa [ghost]: sitäpä hyvinnii!
+  245819  Ghost of Larppa [ghost]: ressi
+  261155  Ghost of Larppa [ghost]: nöygh
+  261156  Ghost of Larppa [ghost]: ressiväh
+  540777  Ghost of Larppa [ghost]: ressi
+  630708  Ghost of Larppa [ghost]: sinne meni neki expat
+  656952  Ghost of Larppa [ghost]: ressi
+  661949  Ghost of Larppa [ghost]: :D
+  661954  Ghost of Larppa [ghost]: rais?
+  661965  Ghost of Larppa [ghost]: :O
+  662116  Ghost of Larppa [ghost]: hehehehe :d
+  662120  Ghost of Larppa [ghost]: omg plz
+  662124  Ghost of Larppa [ghost]: antaapa olla :D
+  664432  Ghost of Larppa [ghost]: :O
+  748949  Ghost of Larppa [ghost]: ressi
+  873944  Ghost of Larppa [ghost]: voi nigön nigön nigö :O
+  884020  Ghost of Larppa [ghost]: ressi
+  886565  Ghost of Larppa [ghost]: :D
+  886567  Ghost of Larppa [ghost]: raisea
+  903264  Ghost of Larppa [ghost]: ressi
+  903446  Ghost of Larppa [ghost]: puuh
+  909859  Ghost of Larppa [ghost]: ressrais
+  939987  Ghost of Larppa [ghost]: voi niiiiigööööööh
+  939988  [ghost]: Ghost of Larppa slaps Superlaama on the cheek.
+30 matches in C:\Program Files (x86)\Zmud\BatMUD\logi119.zip::logi119.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi120.zip::logi120.txt
+   56647  Ghost of Larppa [ghost]: ress
+   74608  Ghost of Larppa [ghost]: ressi
+   74790  Ghost of Larppa [ghost]: ainahan minä :O
+   83020  Ghost of Larppa [ghost]: enpäs liidaa penaseni :)
+   83097  Ghost of Larppa [ghost]: !
+  160997  Ghost of Larppa [ghost]: summon dd garmun!
+  161177  Ghost of Larppa [ghost]: :(
+  167229  Ghost of Larppa [ghost]: moan
+  167241  Ghost of Larppa [ghost]: w: reinc
+  167245  Ghost of Larppa [ghost]: nods ät juu
+  180056  Ghost of Larppa [ghost]: voi pippelin pippeli ku ei voi pysyä hengisä
+  188404  Ghost of Larppa [ghost]: moan
+  208458  Ghost of Larppa [ghost]: voihan :(((((((((((
+  344171  Ghost of Larppa [ghost]: no voi pippelssit
+  344178  Ghost of Larppa [ghost]: walorin jarkko!
+  344638  Ghost of Larppa [ghost]: nigön pena :D
+  630469  Ghost of Larppa [ghost]: ressi
+  877161  Ghost of Larppa [ghost]: ress
+  951702  Ghost of Larppa [ghost]: asörgljigk
+ 1013384  Ghost of Larppa [ghost]: voihan pippelimuhennos
+ 1013397  Ghost of Larppa [ghost]: en expaa enään ikinä
+ 1013418  Ghost of Larppa [ghost]: ress?
+ 1064852  [ghost]: Ghost of Larppa slaps Turmio on the cheek.
+ 1072705  Ghost of Larppa [ghost]: :((((((((((((((((((((((((((((((((
+ 1074404  [19:50]:Ghost of Larppa [ghost]: :((((((((((((((((((((((((((((((((
+ 1079101  Ghost of Larppa [ghost]: no voi pippelssit
+ 1119276  Ghost of Larppa [ghost]: se sitten hastesi
+ 1119277  Ghost of Larppa [ghost]: ressi
+ 1119640  Ghost of Larppa [ghost]: raisea
+ 1119671  Ghost of Larppa [ghost]: rais?
+ 1122408  Ghost of Larppa [ghost]: no voi pippeli
+ 1122436  [17:21]:Ghost of Larppa [ghost]: no voi pippeli
+ 1122440  Ghost of Larppa [ghost]: ress?
+ 1131393  Ghost of Larppa [ghost]: voi pippelssit
+ 1660083  Ghost of Larppa [ghost]: ress?
+ 1664292  Ghost of Larppa [ghost]: hoho :D
+36 matches in C:\Program Files (x86)\Zmud\BatMUD\logi120.zip::logi120.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi121.zip::logi121.txt
+   12001  Ghost of Larppa [ghost]: muah starcrit prolly :)
+  372751  Ghost of Larppa [ghost]: no näin justiinsa
+  482436  Ghost of Larppa [ghost]: ressi...
+  589679  Ghost of Larppa [ghost]: pitikö jäädä sinne? :O
+  755320  Ghost of Larppa [ghost]: term ansi, cancero :O
+  755445  Ghost of Larppa [ghost]: sosäd :O
+  755446  Ghost of Larppa [ghost]: raisea?
+  763930  Ghost of Larppa [ghost]: ress?
+  764732  Ghost of Larppa [ghost]: nöygh
+  764926  Ghost of Larppa [ghost]: ressiä
+ 1140408  Ghost of Larppa [ghost]: oho :O
+ 1140419  Ghost of Larppa [ghost]: mikässe tommone o :D
+ 1186269  Ghost of Larppa [ghost]: ress... 500k on
+ 1186277  Ghost of Larppa [ghost]: went to wrong room :)
+14 matches in C:\Program Files (x86)\Zmud\BatMUD\logi121.zip::logi121.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi122.zip::logi122.txt
+    2800  Ghost of Larppa [ghost]: ressi
+  269195  Ghost of Larppa [ghost]: ouch :O
+  712578  Ghost of Larppa [ghost]: raisevah
+  712612  [ghost]: Ghost of Larppa slaps Freld on the cheek.
+ 1056490  Ghost of Larppa [ghost]: :O
+ 1072694  Ghost of Larppa [ghost]: ompa vammanen area
+ 1072700  Ghost of Larppa [ghost]: :O
+ 1072703  Ghost of Larppa [ghost]: ressiä?
+ 1172032  Ghost of Larppa [ghost]: oho, ei pitäis chättäillä :D
+ 1324594  Ghost of Larppa [ghost]: ressi...
+10 matches in C:\Program Files (x86)\Zmud\BatMUD\logi122.zip::logi122.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi123.zip::logi123.txt
+   50065  Ghost of Larppa [ghost]: ressiä
+  348243  Ghost of Larppa [ghost]: voi nigön nigönnigö
+  348246  [ghost]: Ghost of Larppa savagely rips Lintu's head off!
+  348252  Ghost of Larppa [ghost]: sä die!
+  458742  Ghost of Larppa [ghost]: summon dd jertsi :)
+  458744  Ghost of Larppa [ghost]: fast :)
+  465128  Ghost of Larppa [ghost]: :O
+  600907  Ghost of Larppa [ghost]: mä die :(
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi123.zip::logi123.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi128.zip::logi128.txt
+  249174  Ghost of Larppa [ghost]: nöygh?! ressivä
+  249353  Ghost of Larppa [ghost]: cha 50 :)
+  519438  Ghost of Larppa [ghost]: noooooooooooo!!!!!!!! noooooooo!!!!! :O
+  519441  Ghost of Larppa [ghost]: ress damn bad cha :O
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\logi128.zip::logi128.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi130.zip::logi130.txt
+  586931  Ghost of Larppa [ghost]: hmmm :)
+  727864  Ghost of Larppa [ghost]: wheee!!! omg plz omg plz whee
+  727909  Ghost of Larppa [ghost]: ress
+  738732  Ghost of Larppa [ghost]: ressiä...
+  749202  [ghost]: Ghost of Larppa cheerfully waves and says 'hello'.
+  749210  [ghost]: Ghost of Larppa huggles Glaurung warmly.
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\logi130.zip::logi130.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi131.zip::logi131.txt
+  188719  Ghost of Larppa [ghost]: moan
+  188720  Ghost of Larppa [ghost]: what was that
+  546669  Ghost of Larppa [ghost]: hyvin kaatu
+  546714  Ghost of Larppa [ghost]: death in 2 rounds :O
+  666330  Ghost of Larppa [ghost]: voi nigönnigö
+  666339  Ghost of Larppa [ghost]: rsS?
+  666340  Ghost of Larppa [ghost]: :D
+  687940  Ghost of Larppa [ghost]: ressiä
+  688167  Ghost of Larppa [ghost]: ressiä
+  804159  Ghost of Larppa [ghost]: no just näin, ressi lähen nukkuun
+ 1236088  Ghost of Larppa [ghost]: näin!
+ 1236089  Ghost of Larppa [ghost]: ressi
+ 1542301  Ghost of Larppa [ghost]: ressi
+ 1546111  Ghost of Larppa [ghost]: ja ressivä
+ 1561618  Ghost of Larppa [ghost]: mäpäs die!
+ 1561619  Ghost of Larppa [ghost]: ressiä
+16 matches in C:\Program Files (x86)\Zmud\BatMUD\logi131.zip::logi131.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi132.zip::logi132.txt
+  252699  Ghost of Larppa [ghost]: heh
+  252725  Ghost of Larppa [ghost]: omg plz 8 mins...
+  252733  Ghost of Larppa [ghost]: kill! maphesto is still alive!?
+  393854  Ghost of Larppa [ghost]: hehe :D
+  393856  Ghost of Larppa [ghost]: ress
+  823626  [ghost]: Ghost of Larppa sniffs sadly.
+  823627  Ghost of Larppa [ghost]: ress
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\logi132.zip::logi132.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi134.zip::logi134.txt
+  683636  Ghost of Larppa [31m[ghost]:[0m ress
+1 match in C:\Program Files (x86)\Zmud\BatMUD\logi134.zip::logi134.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi135.zip::logi135.txt
+   57094  Ghost of Larppa [31m[ghost]:[0m whee :D
+   57095  Ghost of Larppa [31m[ghost]:[0m ress
+  137525  Ghost of Larppa [31m[ghost]:[0m ress
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\logi135.zip::logi135.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi138.zip::logi138.txt
+  432106  [31m[ghost]:[0m Ghost of Larppa grins evilly.
+  432217  Ghost of Larppa [31m[ghost]:[0m elf!
+  432228  Ghost of Larppa [31m[ghost]:[0m :(
+  432234  [31m[ghost]:[0m Ghost of Larppa starts moshing hysterically.
+  432327  [31m[ghost]:[0m Ghost of Larppa wrestles with Jenar playfully.
+  666014  [31m[ghost]:[0m Ghost of Larppa sobs unconsolably.
+  666097  Ghost of Larppa [31m[ghost]:[0m bad cha!
+  666102  Ghost of Larppa [31m[ghost]:[0m :D
+  672866  Ghost of Larppa [31m[ghost]:[0m asölkeeeeeeeeeeeeeeeeeeee
+  726189  Ghost of Larppa [31m[ghost]:[0m raise dedi!
+  726237  Ghost of Larppa [31m[ghost]:[0m and surgery :)
+  726239  Ghost of Larppa [31m[ghost]:[0m took raise btw :)
+  742232  Ghost of Larppa [31m[ghost]:[0m rais
+  747595  Ghost of Larppa [31m[ghost]:[0m whee
+  747753  Ghost of Larppa [31m[ghost]:[0m rais!
+  747800  [31m[ghost]:[0m Ghost of Larppa huggles Jenar warmly.
+  763189  Ghost of Larppa [31m[ghost]:[0m raisea
+  763204  Ghost of Larppa [31m[ghost]:[0m and dirs to shelaste :D
+  763212  Ghost of Larppa [31m[ghost]:[0m a little...
+  763346  Ghost of Larppa [31m[ghost]:[0m omg that raise :D
+  763347  Ghost of Larppa [31m[ghost]:[0m omg lol plz
+  763380  [31m[ghost]:[0m Ghost of Larppa eyes Mupetti suspiciously.
+  763562  [31m[ghost]:[0m Ghost of Larppa sighs deeply.
+  765121  [31m[ghost]:[0m Ghost of Larppa moans.
+  765136  Ghost of Larppa [31m[ghost]:[0m and rais me
+  765141  Ghost of Larppa [31m[ghost]:[0m pädkha
+  806774  Ghost of Larppa [31m[ghost]:[0m GNNNNNNNNNNN
+  808873  Ghost of Larppa [31m[ghost]:[0m nöygh
+  810791  Ghost of Larppa [31m[ghost]:[0m rais
+  810830  [31m[ghost]:[0m Ghost of Larppa goes 'GNNNN!'.
+  810853  Ghost of Larppa [31m[ghost]:[0m vanha kettu!
+  810860  [31m[ghost]:[0m Ghost of Larppa nods at Lintu.
+  811892  Ghost of Larppa [31m[ghost]:[0m no sitäpä hyvinnii
+  811896  Ghost of Larppa [31m[ghost]:[0m rais and dirs to shelaste :D
+  812013  Ghost of Larppa [31m[ghost]:[0m rais!
+  880555  Ghost of Larppa [31m[ghost]:[0m ei näin!
+  920983  Ghost of Larppa [31m[ghost]:[0m nöygh!
+  921050  Ghost of Larppa [31m[ghost]:[0m ress?
+38 matches in C:\Program Files (x86)\Zmud\BatMUD\logi138.zip::logi138.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi139.zip::logi139.txt
+  149475  Ghost of Larppa [31m[ghost]:[0m ainii dempanki vois tosiaan banishia :D
+  149476  Ghost of Larppa [31m[ghost]:[0m ress?
+  314927  Ghost of Larppa [31m[ghost]:[0m noniinpä tietennii!!!
+  314951  Ghost of Larppa [31m[ghost]:[0m nyt loppu mudailut iäksi!
+  315097  [31m[ghost]:[0m Ghost of Larppa huggles Eronk warmly.
+  323622  Ghost of Larppa [31m[ghost]:[0m hehe
+  323623  Ghost of Larppa [31m[ghost]:[0m ress
+  329100  Ghost of Larppa [31m[ghost]:[0m :D:D
+  377632  Ghost of Larppa [31m[ghost]:[0m nöyg
+  377640  Ghost of Larppa [31m[ghost]:[0m ressi
+  423316  Ghost of Larppa [31m[ghost]:[0m :(
+  423320  Ghost of Larppa [31m[ghost]:[0m ress?
+  525079  Ghost of Larppa [31m[ghost]:[0m gnnnnnnn
+  525080  Ghost of Larppa [31m[ghost]:[0m ressiä
+  529447  Ghost of Larppa [31m[ghost]:[0m ress!
+  568516  Ghost of Larppa [31m[ghost]:[0m ressivä
+  568525  Ghost of Larppa [31m[ghost]:[0m 0-100k on :)
+17 matches in C:\Program Files (x86)\Zmud\BatMUD\logi139.zip::logi139.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi140.zip::logi140.txt
+  170641  Ghost of Larppa [31m[ghost]:[0m ress? 
+  213932  Ghost of Larppa [31m[ghost]:[0m !! 
+  213934  Ghost of Larppa [31m[ghost]:[0m ress 
+  253692  Ghost of Larppa [31m[ghost]:[0m omgomg ei pitäis xättiä acidioille
+  253693  Ghost of Larppa [31m[ghost]:[0m ress :D
+  253703  [1;37mWINGO [0;55m[twilight+]:[1;37m Ghost of Larppa [0;31m[ghost]:[1;37m omgomg ei pitäis xättiä acidioille[0m
+  265356  Ghost of Larppa [31m[ghost]:[0m mähänse die! :D
+  265368  Ghost of Larppa [31m[ghost]:[0m ressi
+  420126  Ghost of Larppa [31m[ghost]:[0m oho
+  420128  Ghost of Larppa [31m[ghost]:[0m ressivä
+  431879  Ghost of Larppa [31m[ghost]:[0m oho :O
+  431932  Ghost of Larppa [31m[ghost]:[0m got from börä
+  698164  Ghost of Larppa [31m[ghost]:[0m hmm... sepäs innostu
+  698165  [    85    ] Ghost of Larppa
+  724454  Ghost of Larppa [31m[ghost]:[0m :(
+  724465  Ghost of Larppa [31m[ghost]:[0m :O
+  724473  Ghost of Larppa [31m[ghost]:[0m :D
+  724493  Ghost of Larppa [31m[ghost]:[0m ress... 16k on
+  724496  Ghost of Larppa [31m[ghost]:[0m :)
+  724510  Ghost of Larppa [31m[ghost]:[0m kuolleet eivät sodi!
+20 matches in C:\Program Files (x86)\Zmud\BatMUD\logi140.zip::logi140.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi141.zip::logi141.txt
+   97464  Ghost of Larppa [31m[ghost]:[0m MÄ DIE MÄ DIE!
+   97467  Ghost of Larppa [31m[ghost]:[0m ressi
+  193975  Ghost of Larppa [31m[ghost]:[0m doh!
+  202980  [21:21]:Ghost of Larppa [31m[ghost]:[0m doh!
+  289034  Ghost of Larppa [31m[ghost]:[0m whee
+  289035  Ghost of Larppa [31m[ghost]:[0m ressivä
+  364933  Ghost of Larppa [31m[ghost]:[0m moon dead
+  364944  Ghost of Larppa [31m[ghost]:[0m rais?
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi141.zip::logi141.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi142.zip::logi142.txt
+  116942  Ghost of Larppa [31m[ghost]:[0m mä die
+  334277  Ghost of Larppa [31m[ghost]:[0m voihan pällinderi
+  334348  Ghost of Larppa [31m[ghost]:[0m hmm... here is eq on the floor :)
+  334603  Ghost of Larppa [31m[ghost]:[0m chest and steel main gauche...
+  334992  Ghost of Larppa [31m[ghost]:[0m feature? :)
+  335321  Ghost of Larppa [31m[ghost]:[0m ah...
+  344198  Ghost of Larppa [31m[ghost]:[0m bah
+  344400  Ghost of Larppa [31m[ghost]:[0m ressivä
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi142.zip::logi142.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi145.zip::logi145.txt
+  110679  Ghost of Larppa [31m[ghost]:[0m demon again :D
+  392379  Ghost of Larppa [31m[ghost]:[0m kuolin sitte! :)
+  392383  Ghost of Larppa [31m[ghost]:[0m ress
+  559998  Ghost of Larppa [31m[ghost]:[0m nigö mä retire
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\logi145.zip::logi145.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi146.zip::logi146.txt
+  251889  Ghost of Larppa [31m[ghost]:[0m :(
+  353807  Ghost of Larppa [31m[ghost]:[0m rais?
+  434366  Ghost of Larppa [31m[ghost]:[0m ressiä
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\logi146.zip::logi146.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi147.zip::logi147.txt
+  492920  Ghost of Larppa [31m[ghost]:[0m mehevää!!!!!!!
+  492925  Ghost of Larppa [31m[ghost]:[0m erss
+  492929  Ghost of Larppa [31m[ghost]:[0m ress
+  492949  Ghost of Larppa [31m[ghost]:[0m not too good cha
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\logi147.zip::logi147.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi148.zip::logi148.txt
+  198221  Ghost of Larppa [31m[ghost]:[0m ress :O
+  198228  [31m[ghost]:[0m Ghost of Larppa pokes Glaurung in the eye.
+  198234  Ghost of Larppa [31m[ghost]:[0m bad cha btw
+  312585  Ghost of Larppa [31m[ghost]:[0m doh doh :O
+  312587  Ghost of Larppa [31m[ghost]:[0m ress... 52 cha! :D
+  338012  Ghost of Larppa [31m[ghost]:[0m 50 cha :)
+  339888  Ghost of Larppa [31m[ghost]:[0m nigööööööööhhhhhhhhhhhh
+  339893  Ghost of Larppa [31m[ghost]:[0m fumble hälrämi :D
+  483325  Ghost of Larppa [31m[ghost]:[0m nigöh
+  483326  Ghost of Larppa [31m[ghost]:[0m ress
+  483333  [31m[ghost]:[0m Ghost of Larppa pokes Cilwand in the eye.
+  483335  Ghost of Larppa [31m[ghost]:[0m seoli turbo :)
+12 matches in C:\Program Files (x86)\Zmud\BatMUD\logi148.zip::logi148.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi149.zip::logi149.txt
+   20914  Ghost of Larppa [31m[ghost]:[0m xätätessä roiskuu :O
+   20916  Ghost of Larppa [31m[ghost]:[0m ressivä
+   21786  Ghost of Larppa [31m[ghost]:[0m haha :D
+   21818  [31m[ghost]:[0m Ghost of Larppa starts a wave for Chorale the christmas elf, wheeee!
+  206310  Ghost of Larppa [31m[ghost]:[0m voi nigöri! :(
+  206348  Ghost of Larppa [31m[ghost]:[0m ress mä retire
+  214012  Ghost of Larppa [31m[ghost]:[0m joo ja kyllä sitä nyt sit rupsahellaan ja ripsahellaan
+  214014  Ghost of Larppa [31m[ghost]:[0m ress?
+  214057  [31m[ghost]:[0m Ghost of Larppa SMILES at Lintu.
+  214061  [31m[ghost]:[0m Ghost of Larppa nods at Puhuri.
+  242886  Ghost of Larppa [31m[ghost]:[0m no olipas tidissiä :)
+  243424  Ghost of Larppa [31m[ghost]:[0m missä kikkelissä ne avoid deathit on?
+  246194  Ghost of Larppa [31m[ghost]:[0m mä die :O
+  246198  Ghost of Larppa [31m[ghost]:[0m ress?
+  246200  [31m[ghost]:[0m Ghost of Larppa huggles Glaurung warmly.
+  263484  [31m[ghost]:[0m Ghost of Larppa grins evilly at Proteus.
+  384427  Ghost of Larppa [31m[ghost]:[0m no oli 50hp ku huusin :D
+  384934  Ghost of Larppa [31m[ghost]:[0m :O
+  385025  Ghost of Larppa [31m[ghost]:[0m mees ulos
+19 matches in C:\Program Files (x86)\Zmud\BatMUD\logi149.zip::logi149.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi150.zip::logi150.txt
+  591222  Ghost of Larppa [31m[ghost]:[0m ress :)
+  598854  Ghost of Larppa [31m[ghost]:[0m henri säikäytti ja kuolin :(
+  779830  Ghost of Larppa [31m[ghost]:[0m mä die mä die!!! :D:D:DD
+  779832  Ghost of Larppa [31m[ghost]:[0m ressivä
+  779836  [31m[ghost]:[0m Ghost of Larppa starts moshing.
+  782389  Ghost of Larppa [31m[ghost]:[0m ei pitäis xättiä börän kans :D
+ 1163944  Ghost of Larppa [31m[ghost]:[0m no kävipä hupsusti :O
+ 1164391  Ghost of Larppa [31m[ghost]:[0m ress... no idea how much on :)
+ 1165773  [31m[ghost]:[0m Ghost of Larppa huggles Proteus warmly.
+ 2254818  Ghost of Larppa [31m[ghost]:[0m hmmh... ress
+10 matches in C:\Program Files (x86)\Zmud\BatMUD\logi150.zip::logi150.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi152.zip::logi152.txt
+   36461  Ghost of Larppa [31m[ghost]:[0m oho :O
+   36463  Ghost of Larppa [31m[ghost]:[0m astetta vihasempi loota :D
+   36469  Ghost of Larppa [31m[ghost]:[0m ress?
+   45707  Ghost of Larppa [31m[ghost]:[0m hupsista :D
+   55628  [31m[ghost]:[0m Ghost of Larppa goes 'HUOH'.
+   57542  [31m[ghost]:[0m Ghost of Larppa huggles Calmis warmly.
+  225168  Ghost of Larppa [31m[ghost]:[0m no olipa taas
+  225511  [31m[ghost]:[0m Ghost of Larppa huah
+  225514  Ghost of Larppa [31m[ghost]:[0m heh
+  225575  Ghost of Larppa [31m[ghost]:[0m just ja sit pamahti boxi nokkaan :D
+  225765  [31m[ghost]:[0m Ghost of Larppa pokes Jumbo in the ribs.
+  230250  Ghost of Larppa [31m[ghost]:[0m rais?
+  263324  [31m[ghost]:[0m Ghost of Larppa hates Zinnu.
+  263325  Ghost of Larppa [31m[ghost]:[0m :D
+  301770  Ghost of Larppa [31m[ghost]:[0m VOIHAN NIGRIS :O
+  301772  Ghost of Larppa [31m[ghost]:[0m double crit :)
+  343683  Ghost of Larppa [31m[ghost]:[0m voihan nigris!
+  343684  Ghost of Larppa [31m[ghost]:[0m ress?
+18 matches in C:\Program Files (x86)\Zmud\BatMUD\logi152.zip::logi152.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi153.zip::logi153.txt
+    4823  Ghost of Larppa [31m[ghost]:[0m ress?
+    6937  Ghost of Larppa [31m[ghost]:[0m ressiä
+   30697  Ghost of Larppa [31m[ghost]:[0m no voihan tissi
+   30707  Ghost of Larppa [31m[ghost]:[0m wanha tissi?
+   82156  Ghost of Larppa [31m[ghost]:[0m ghost rais?
+   82165  [31m[ghost]:[0m Ghost of Larppa smiles at Umbar.
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\logi153.zip::logi153.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi154.zip::logi154.txt
+  154614  Ghost of Larppa [31m[ghost]:[0m hoho
+  154616  Ghost of Larppa [31m[ghost]:[0m ress?
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\logi154.zip::logi154.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi155.zip::logi155.txt
+  743323  Ghost of Larppa [31m[ghost]:[0m oho :( )
+  743389  Ghost of Larppa [31m[ghost]:[0m sosäd
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\logi155.zip::logi155.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi158.zip::logi158.txt
+  969551  Ghost of Larppa [31m[ghost]:[0m vähemmän pidetty pikkupää!
+ 1120737  Ghost of Larppa [31m[ghost]:[0m :D
+ 1120738  Ghost of Larppa [31m[ghost]:[0m ress
+ 1321604  Ghost of Larppa [31m[ghost]:[0m ress?
+ 1659877  Ghost of Larppa [31m[ghost]:[0m ress
+ 1659878  Ghost of Larppa [31m[ghost]:[0m low cha
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\logi158.zip::logi158.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi160.zip::logi160.txt
+  111689  Ghost of Larppa [31m[ghost]:[0m ?! :O
+  192311  Ghost of Larppa [31m[ghost]:[0m jaahas
+  192317  [1;31;43mGhost of Larppa [0;31m[ghost]:[1;31m Delpers hits Line the christmas elf, Ironfist and Larppa [0m[1;31;43mwith his killing cloud.[0m
+  192318  Ghost of Larppa [31m[ghost]:[0m miksi?!
+  192328  [31m[ghost]:[0m Ghost of Larppa gets a very EVIL look on his face.
+ 1175535  Ghost of Larppa [31m[ghost]:[0m ressi, nubusti on
+ 1181639  Ghost of Larppa [31m[ghost]:[0m :Dddddddddddddd
+ 1181648  Ghost of Larppa [31m[ghost]:[0m ressiä? :D
+ 1181825  Ghost of Larppa [31m[ghost]:[0m Zin 1 - 0 Larppa
+ 1182113  [23:27]:Ghost of Larppa [31m[ghost]:[0m :Dddddddddddddd
+ 1182115  [23:27]:Ghost of Larppa [31m[ghost]:[0m ressiä? :D
+ 1182118  [23:27]:Ghost of Larppa [31m[ghost]:[0m Zin 1 - 0 Larppa
+12 matches in C:\Program Files (x86)\Zmud\BatMUD\logi160.zip::logi160.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi161.zip::logi161.txt
+  584225  Ghost of Larppa [31m[ghost]:[0m hehee :D
+  584226  Ghost of Larppa [31m[ghost]:[0m eipäs soolotakkaan enempää käshiä
+  584237  Ghost of Larppa [31m[ghost]:[0m ressi ressi
+  584269  [31m[ghost]:[0m Ghost of Larppa goes 'Gnnnn!'.
+  850359  Ghost of Larppa [31m[ghost]:[0m ressi
+  855192  Ghost of Larppa [31m[ghost]:[0m ress?
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\logi161.zip::logi161.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi162.zip::logi162.txt
+   42744  Ghost of Larppa [31m[ghost]:[0m :O
+   42745  Ghost of Larppa [31m[ghost]:[0m raiseva
+   56970  Ghost of Larppa [31m[ghost]:[0m ressi
+  109739  [32mGhost of Larppa[0m
+  110877  Ghost of Larppa [31m[ghost]:[0m vammainen kyttääjä chorale!
+  110882  Ghost of Larppa [31m[ghost]:[0m :Ddddddddddd
+  110905  Ghost of Larppa [31m[ghost]:[0m vammainen kiusattu toag!
+  374703  Ghost of Larppa [31m[ghost]:[0m no jes :D
+  374709  Ghost of Larppa [31m[ghost]:[0m vähemmän pidetty kodiakki
+  375112  Ghost of Larppa [31m[ghost]:[0m ei ihan puonnu :D
+10 matches in C:\Program Files (x86)\Zmud\BatMUD\logi162.zip::logi162.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi163.zip::logi163.txt
+   26123  Ghost of Larppa [31m[ghost]:[0m :Ddddd
+   26130  Ghost of Larppa [31m[ghost]:[0m ens kerralla vois toki kysyy millon relotaan :D
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\logi163.zip::logi163.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi164.zip::logi164.txt
+  207498  Ghost of Larppa [31m[ghost]:[0m ress?
+  359207  Ghost of Larppa [31m[ghost]:[0m olipas reissu
+  359208  Ghost of Larppa [31m[ghost]:[0m ress
+  359480  Ghost of Larppa [31m[ghost]:[0m juoksin pihalla vaanivaan jellonaan
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\logi164.zip::logi164.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi165.zip::logi165.txt
+  834370  Ghost of Larppa [31m[ghost]:[0m ressi?
+  834394  [    84    ] Ghost of Larppa
+ 1037291  Ghost of Larppa [31m[ghost]:[0m ressi
+ 1250266  Ghost of Larppa [31m[ghost]:[0m ress?
+ 1263041  Ghost of Larppa [31m[ghost]:[0m raiseva :D
+ 1757774  [    84    ] Ghost of Larppa
+ 1758547  [    84    ] Ghost of Larppa
+ 1758635  Ghost of Larppa [31m[ghost]:[0m jahas
+ 1758644  Ghost of Larppa [31m[ghost]:[0m ressi
+9 matches in C:\Program Files (x86)\Zmud\BatMUD\logi165.zip::logi165.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi169.zip::logi169.txt
+  308559  Ghost of Larppa [31m[ghost]:[0m ?
+  308562  Ghost of Larppa [31m[ghost]:[0m hyvähän sitä oli koittaa ku en nähny et halusit moista
+  308572  Ghost of Larppa [31m[ghost]:[0m ja voit olla varma että kuolet itekkin ku oon reincannu :)
+  308573  Ghost of Larppa [31m[ghost]:[0m oli sentäs 150k niskas
+  356683  Ghost of Larppa [31m[ghost]:[0m :O
+  356691  Ghost of Larppa [31m[ghost]:[0m warning sinne meni equt
+  513049  Ghost of Larppa [31m[ghost]:[0m ress? :)
+  513052  Ghost of Larppa [31m[ghost]:[0m tosi bad cha
+  513156  Ghost of Larppa [31m[ghost]:[0m loppuse dissaaminen! ressiä cha 40+!
+  513176  Ghost of Larppa [31m[ghost]:[0m :O
+  513883  [15:44]:Ghost of Larppa [31m[ghost]:[0m ress? :)
+  513884  [15:44]:Ghost of Larppa [31m[ghost]:[0m tosi bad cha
+  513889  [15:47]:Ghost of Larppa [31m[ghost]:[0m loppuse dissaaminen! ressiä cha 40+!
+  513892  [15:48]:Ghost of Larppa [31m[ghost]:[0m :O
+  606237  Ghost of Larppa [31m[ghost]:[0m :(((
+  606317  Ghost of Larppa [31m[ghost]:[0m ress 0--- cha
+  606380  Ghost of Larppa [31m[ghost]:[0m !!
+  606382  Ghost of Larppa [31m[ghost]:[0m :DDd
+  606384  Ghost of Larppa [31m[ghost]:[0m ress, cha around 40 :)
+  606489  Ghost of Larppa [31m[ghost]:[0m any nubutarmas? fumble hälärmi!
+20 matches in C:\Program Files (x86)\Zmud\BatMUD\logi169.zip::logi169.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi170.zip::logi170.txt
+   29088  Ghost of Larppa [31m[ghost]:[0m ohos...
+   29092  Ghost of Larppa [31m[ghost]:[0m ress... jumalattoman huono cha :D
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\logi170.zip::logi170.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi19.zip::logi19.txt
+   37153  Ghost of Larppa [ghost]: ress plz
+   73415  Ghost of Larppa [ghost]: damn spectre killed me when i was in toilet =) ress
+   75043  Ghost of Larppa [ghost]: damn crit, ress plz
+  315402  Ghost of Larppa [ghost]: oh damn!
+  473147  Ghost of Larppa [ghost]: damn agro monsie =)
+  473150  Ghost of Larppa [ghost]: ress plz
+  564703  Ghost of Larppa [ghost]: rais plz
+  564739  Ghost of Larppa [ghost]: anyone raising?
+  629519  Ghost of Larppa [ghost]: whatta crit?! ress plz
+  683729  Ghost of Larppa [ghost]: ress plz
+  688060  Ghost of Larppa [ghost]: ress plz
+  803415  Ghost of Larppa [ghost]: ress plz
+  984073  Ghost of Larppa [ghost]: ress plz
+  984508  Ghost of Larppa [ghost]: rais plz
+ 1009681  Ghost of Larppa [ghost]: ress plz
+ 1009712  [ghost]: Ghost of Larppa says 'yes' to Asphitator.
+ 1072945  Ghost of Larppa [ghost]: oh damn, ress plz
+ 1336036  Ghost of Larppa [ghost]: OH DAMN! ress plz =)
+ 1373355  [ghost]: Ghost of Larppa says 'yes' to Roscop.
+ 1427186  Ghost of Larppa [ghost]: OH DAMN... ress plz
+ 1438773  Ghost of Larppa [ghost]: DAMN
+ 1468910  Ghost of Larppa [ghost]: rais plz
+ 1470509  Ghost of Larppa [ghost]: w: that rais
+23 matches in C:\Program Files (x86)\Zmud\BatMUD\logi19.zip::logi19.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi20.zip::logi20.txt
+   69564  Ghost of Larppa [ghost]: rais plz
+   69584  [    30    ] Ghost of Larppa
+   69618  Ghost of Larppa [ghost]: oh damn
+   69626  Ghost of Larppa [ghost]: i need little bit help now =) everyone wanna kill me
+   71012  Ghost of Larppa [ghost]: damn
+  109426  Ghost of Larppa [ghost]: damn i hate people what summs and kills me
+  109498  Ghost of Larppa [ghost]: who even =)
+  109808  Ghost of Larppa [ghost]: ress plz
+  133887  More (87%) [qpbns?]Ghost of Larppa [ghost]: huh that was fast =) ress plz
+  135847  [ghost]: Ghost of Larppa goes 'HUOH'.
+  181766  Ghost of Larppa [ghost]: whee, i love agro bulls
+  181769  Ghost of Larppa [ghost]: rais plz
+  189740  Ghost of Larppa [ghost]: heh
+  200394  Ghost of Larppa [ghost]: rais plz
+  200398  [    30    ] Ghost of Larppa
+  244898  Ghost of Larppa [ghost]: OH DAMN
+  245028  Ghost of Larppa [ghost]: violetfire carsting or joking?
+  248124  Ghost of Larppa [ghost]: OH DAMN
+  248128  Ghost of Larppa [ghost]: w: ress and damn fast
+  248144  [ghost]: Ghost of Larppa says 'yes' to Jenar.
+  248164  Ghost of Larppa [ghost]: anyone ressing? =P
+  249024  [ghost]: Ghost of Larppa goes 'HUOH'.
+  249071  Ghost of Larppa [ghost]: someone should start ressing
+  251608  Ghost of Larppa [ghost]: oh damn, ress fast plz
+  394823  [    30    ] Ghost of Larppa
+  394835  [    30    ] Ghost of Larppa
+  757166  Ghost of Larppa [ghost]: HUOH
+  758497  [    30    ] Ghost of Larppa
+  768213  [ghost]: Ghost of Larppa goes huh? looking like he didn't quite get it.
+  768234  Ghost of Larppa [ghost]: rais plz
+  768680  Ghost of Larppa [ghost]: anyone raising?
+  781949  [00:48]:[ghost]: Ghost of Larppa goes huh? looking like he didn't quite get it.
+  781950  [00:48]:Ghost of Larppa [ghost]: rais plz
+  781951  [00:50]:Ghost of Larppa [ghost]: anyone raising?
+  783554  [00:48]:[ghost]: Ghost of Larppa goes huh? looking like he didn't quite get it.
+  783555  [00:48]:Ghost of Larppa [ghost]: rais plz
+  783556  [00:50]:Ghost of Larppa [ghost]: anyone raising?
+  785875  Ghost of Larppa [ghost]: ress plz
+  786227  [13:21]:Ghost of Larppa [ghost]: ress plz
+  970391  Ghost of Larppa [ghost]: OH DAMN
+  970531  Ghost of Larppa [ghost]: how much time left?
+  970545  Ghost of Larppa [ghost]: oh
+  970576  Ghost of Larppa [ghost]: how i get out without losing exp... last time i lost
+  970620  Ghost of Larppa [ghost]: yeah but how to lose 0% =)
+  970652  Ghost of Larppa [ghost]: pray and pray... i prayed last time and lost about 70k
+  970694  [14:25]:Ghost of Larppa [ghost]: yeah but how to lose 0% =)
+  970703  [14:26]:Ghost of Larppa [ghost]: pray and pray... i prayed last time and lost about 70k exp
+  971144  [ghost]: Ghost of Larppa goes 'HUOH'.
+ 1144241  Ghost of Larppa [ghost]: oh damn, ress plz
+ 1405264  Ghost of Larppa [ghost]: oh damn! ress plz
+ 1407419  Ghost of Larppa [ghost]: damn i died... oak can you accept that reinc, i'll
+51 matches in C:\Program Files (x86)\Zmud\BatMUD\logi20.zip::logi20.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi21.zip::logi21.txt
+  265322  Ghost of Larppa [ghost]: ress plz =) and dont need restore anymore
+  266534  [ghost]: Ghost of Larppa looks very sad.
+  807785  Ghost of Larppa [ghost]: damn clone! ress plz
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\logi21.zip::logi21.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi22.zip::logi22.txt
+  560221  Ghost of Larppa [ghost]: huh, what happened?
+1 match in C:\Program Files (x86)\Zmud\BatMUD\logi22.zip::logi22.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi23.zip::logi23.txt
+    2835  Ghost of Larppa [ghost]: ress plz...
+    3052  [22:11]:Ghost of Larppa [ghost]: ress plz...
+  224053  Ghost of Larppa [ghost]: ress plz
+  229152  [    30    ] Ghost of Larppa
+  229805  Ghost of Larppa [ghost]: rais plz
+  229871  Ghost of Larppa [ghost]: dreamr start chanting =)
+  269424  Ghost of Larppa [ghost]: how the damn those can crit that hard?
+  269455  Ghost of Larppa [ghost]: ress plz
+  342615  Ghost of Larppa [ghost]: rais plz
+  453224  Ghost of Larppa [ghost]: ress plz
+  481012  Ghost of Larppa [ghost]: heh, ress plz
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\logi23.zip::logi23.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi24.zip::logi24.txt
+  360150  Ghost of Larppa [ghost]: ress plz
+  465260  [ghost]: Ghost of Larppa eyes Hybrid suspiciously.
+  465264  Ghost of Larppa [ghost]: rais plz
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\logi24.zip::logi24.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi25.zip::logi25.txt
+  230377  Ghost of Larppa [ghost]: rais plz
+  556775  Ghost of Larppa [ghost]: oh damn... ress plz
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\logi25.zip::logi25.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi26.zip::logi26.txt
+  168491  Ghost of Larppa [ghost]: OH DAMN
+  168550  Ghost of Larppa [ghost]: another ress plz
+  234916  Ghost of Larppa [ghost]: ress plz
+  238946  Ghost of Larppa [ghost]: ressih
+  243356  Ghost of Larppa [ghost]: and again! =)
+  243370  Ghost of Larppa [ghost]: ress plz
+  243436  [ghost]: Ghost of Larppa nods at Hobbiti.
+  265850  Ghost of Larppa [ghost]: rais plz
+  265898  [ghost]: Ghost of Larppa grabs Rald by the throat, strangling viciously.
+  316387  Ghost of Larppa [ghost]: doh =)
+  316401  Ghost of Larppa [ghost]: ress plz
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\logi26.zip::logi26.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi27.zip::logi27.txt
+   19803  Ghost of Larppa [ghost]: OH DAMN! ress plz
+  143423  Ghost of Larppa [ghost]: muah! i love 5 round stuns
+  230250  Ghost of Larppa [ghost]: oh damn...
+  230269  Ghost of Larppa [ghost]: anyone ressing?
+  283510  Ghost of Larppa [ghost]: OH DAMN
+  331642  Ghost of Larppa [ghost]: ress plz
+  333566  [20:28]:Ghost of Larppa [ghost]: ress plz
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\logi27.zip::logi27.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi28.zip::logi28.txt
+  222646  Ghost of Larppa [ghost]: sad
+  222676  Ghost of Larppa [ghost]: heh =) ress plz
+  222741  [ghost]: Ghost of Larppa thanks Tree heartily.
+  470898  Ghost of Larppa [ghost]: heh
+  470900  Ghost of Larppa [ghost]: rais plz
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\logi28.zip::logi28.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi29.zip::logi29.txt
+  239509  Ghost of Larppa [ghost]: woah =)
+  239599  Ghost of Larppa [ghost]: who was that damn idiot and why did he kill me?
+  239648  Ghost of Larppa [ghost]: damn orion is getting dangerous
+  240631  [18:10]:Ghost of Larppa [ghost]: woah =)
+  240635  [18:11]:Ghost of Larppa [ghost]: who was that damn idiot and why did he kill me?
+  240636  [18:11]:Ghost of Larppa [ghost]: damn orion is getting dangerous
+  263157  Ghost of Larppa [ghost]: oh damn
+  263190  Ghost of Larppa [ghost]: ress plz 100k on =P
+  263230  [ghost]: Ghost of Larppa looks very EVILly at Enochian.
+  263270  [ghost]: Ghost of Larppa goes 'Heh'.
+  609896  Ghost of Larppa [ghost]: ress plz
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\logi29.zip::logi29.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi30.zip::logi30.txt
+  355865  Ghost of Larppa [ghost]: huh
+  410678  Ghost of Larppa [ghost]: DAMN CRIT!!!
+  443338  Ghost of Larppa [ghost]: odila casting?
+  461921  Ghost of Larppa [ghost]: ress plz
+  462116  Ghost of Larppa [ghost]: dago casting?
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\logi30.zip::logi30.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi31.zip::logi31.txt
+   64106  Ghost of Larppa [ghost]: damn follwing monsie =P
+   64317  [ghost]: Ghost of Larppa grabs Grizzt by the throat, strangling viciously.
+  149335  Ghost of Larppa [ghost]: oh damn! that kinda little monsie! =)
+  437286  Ghost of Larppa [ghost]: eh rais plz
+  497077  [    46    ] Ghost of Larppa
+  497118  Ghost of Larppa [ghost]: dunno how much i have on =P
+  549321  Ghost of Larppa [ghost]: damn i always forget that agro lion! =)
+  549555  Ghost of Larppa [ghost]: Get me outta here
+  604534  Ghost of Larppa [ghost]: oh damn =P icebolt =)
+  611029  Ghost of Larppa [ghost]: Damnettiiih =P
+  614426  Ghost of Larppa [ghost]: ress plz
+  614687  Ghost of Larppa [ghost]: Damn get me outta here!
+12 matches in C:\Program Files (x86)\Zmud\BatMUD\logi31.zip::logi31.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi32.zip::logi32.txt
+   16931  Ghost of Larppa [ghost]: ress plz
+   23692  Ghost of Larppa [ghost]: darol is cruel =P
+   23722  Ghost of Larppa [ghost]: nobody killed me! i did a suicide
+   23888  Ghost of Larppa
+   23930  Ghost of Larppa [ghost]: damn i hate this event
+   23943  Ghost of Larppa [ghost]: damn i hate asphitator =P
+   23977  Ghost of Larppa
+   24086  Ghost of Larppa
+   24178  Ghost of Larppa
+   24252  [ghost]: Ghost of Larppa looks very sadly at Bubo.
+   24360  Ghost of Larppa
+   24481  Ghost of Larppa
+  170865  Ghost of Larppa [ghost]: damn... =P
+  170876  [ghost]: Ghost of Larppa grabs Asphitator by the throat, strangling viciously.
+  387475  Ghost of Larppa [ghost]: Damn i hate fire bolt =P
+  387480  [    46    ] Ghost of Larppa
+  387980  Ghost of Larppa [ghost]: rais plz
+  387997  Ghost of Larppa [ghost]: shut up kvlt =)
+  397123  Ghost of Larppa [ghost]: rais plz
+  530752  Ghost of Larppa [ghost]: rais plz
+  533460  Ghost of Larppa [ghost]: rais plz
+  533511  Ghost of Larppa [ghost]: w: some tarma to get me outta here
+  534109  Ghost of Larppa [ghost]: summon dd opeth
+  534110  Ghost of Larppa [ghost]: and damn fast
+  535422  Ghost of Larppa [ghost]: someone plz kill jokke,bauglir and brock =)
+  535429  Ghost of Larppa [ghost]: they are killing me all the time =P
+  535436  Ghost of Larppa [ghost]: rais plz
+  535446  Ghost of Larppa [ghost]: i think its not =)
+  535467  Ghost of Larppa [ghost]: yup =)
+  535494  Ghost of Larppa [ghost]: jokke, why the damn you are pkilling me?
+  535523  [ghost]: Ghost of Larppa goes 'Heh' at Bauglir.
+  535554  Ghost of Larppa [ghost]: that raise =P
+  535933  Ghost of Larppa [ghost]: rais plz =P
+  535969  Ghost of Larppa [ghost]: puuh =P
+  536057  Ghost of Larppa [ghost]: that damn rais now!
+  536093  Ghost of Larppa [ghost]: rais plz =P
+  554959  Ghost of Larppa [ghost]: raissiah
+  557405  Ghost of Larppa [ghost]: Whatta Crit! =)
+  557413  Ghost of Larppa [ghost]: rais plz
+  558046  Ghost of Larppa [ghost]: omg lol =)
+  558146  Ghost of Larppa [ghost]: You think sarcastically 'Damn I'm good.' =)))
+  640543  Ghost of Larppa [ghost]: rais plz
+  640655  Ghost of Larppa [ghost]: merioli casting?
+  640694  [15:27]:Ghost of Larppa [ghost]: rais plz
+  640699  [15:29]:Ghost of Larppa [ghost]: merioli casting?
+  653664  Ghost of Larppa [ghost]: ???
+  653668  Ghost of Larppa [ghost]: rais plz
+  654407  [17:51]:Ghost of Larppa [ghost]: ???
+  654408  [17:51]:Ghost of Larppa [ghost]: rais plz
+  654659  [17:51]:Ghost of Larppa [ghost]: ???
+  654660  [17:51]:Ghost of Larppa [ghost]: rais plz
+  656486  Ghost of Larppa [ghost]: raiseh =P
+  656603  Ghost of Larppa [ghost]: Damn that raise plz! =)
+  656660  [    46    ] Ghost of Larppa
+  656746  [    46    ] Ghost of Larppa
+  672441  [    46    ] Ghost of Larppa
+  672446  Ghost of Larppa [ghost]: what the damn spell is paf paf paf =P
+  672459  Ghost of Larppa [ghost]: woah its damn powerful =)
+  672504  Ghost of Larppa [ghost]: gimme rais btw =)
+  672551  Ghost of Larppa [ghost]: Raiseeh! =)
+  672621  Ghost of Larppa [ghost]: i really care about it! i want you all report to me each time you score a crit!
+  674266  Ghost of Larppa [ghost]: OH DAMN! =P (sorry for caps btw. =))
+  707491  Ghost of Larppa [ghost]: oooh DAMN!
+  785242  Ghost of Larppa [ghost]: oh damn =P
+  785905  [22:23]:Ghost of Larppa [ghost]: oh damn =P
+  788281  Ghost of Larppa [ghost]: damnetti =)
+  788285  Ghost of Larppa [ghost]: rais plz
+  788444  Ghost of Larppa [ghost]: damn this is cool
+  788590  [    46    ] Ghost of Larppa
+  790987  [    46    ] Ghost of Larppa
+  791038  [    46    ] Ghost of Larppa
+  791268  Ghost of Larppa [ghost]: cheer =)
+  791985  [23:45]:Ghost of Larppa [ghost]: cheer =)
+  792044  [23:45]:Ghost of Larppa [ghost]: cheer =)
+  792111  [23:45]:Ghost of Larppa [ghost]: cheer =)
+  832786  Ghost of Larppa [ghost]: DAMN DAMN rais plz
+  877952  Ghost of Larppa [ghost]: puuh
+ 1015979  Ghost of Larppa [ghost]: damn i hate hailstorm =P
+ 1015981  Ghost of Larppa [ghost]: ress?
+ 1138588  [    46    ] Ghost of Larppa
+ 1139048  Ghost of Larppa [ghost]: amaorell casting?
+ 1139053  Ghost of Larppa [ghost]: amorell =)
+ 1142416  Ghost of Larppa [ghost]: ress plz
+ 1144572  [    46    ] Ghost of Larppa
+ 1144582  Ghost of Larppa [ghost]: ress plz
+ 1145799  [15:22]:Ghost of Larppa [ghost]: ress plz
+ 1145952  [15:22]:Ghost of Larppa [ghost]: ress plz
+ 1150548  Ghost of Larppa [ghost]: vähä oli turpo =)
+ 1150570  Ghost of Larppa [ghost]: ress plz
+ 1240396  Ghost of Larppa [ghost]: ress plz
+ 1292842  Ghost of Larppa [ghost]: rais plz
+ 1296057  Ghost of Larppa [ghost]: healer and rais plz =)
+92 matches in C:\Program Files (x86)\Zmud\BatMUD\logi32.zip::logi32.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi33.zip::logi33.txt
+   17239  Ghost of Larppa [ghost]: damn you enochian
+   17414  Ghost of Larppa [ghost]: enochian you are so cruel! you could be my best friend! =P
+   17447  Ghost of Larppa [ghost]: why enochian why!!! =P
+   17492  Ghost of Larppa [ghost]: gimme rais
+   17572  Ghost of Larppa [ghost]: that was not me =)
+   26408  Ghost of Larppa [ghost]: damn...
+   26471  Ghost of Larppa [ghost]: rais plz
+   26565  Ghost of Larppa [ghost]: why highbies are so cruel! =P
+   27273  Ghost of Larppa [ghost]: rais plz
+  133804  Ghost of Larppa [ghost]: reincing
+  253978  Ghost of Larppa [ghost]: body plz =P
+  254194  Ghost of Larppa [ghost]: nope
+  254594  Ghost of Larppa [ghost]: happosade, yup but damn low cha =)
+  254639  Ghost of Larppa [ghost]: 40-50
+  254867  Ghost of Larppa
+  254897  [14:45]:Ghost of Larppa [ghost]: body plz =P
+  254900  [14:46]:Ghost of Larppa [ghost]: nope
+  254905  [14:47]:Ghost of Larppa [ghost]: happosade, yup but damn low cha =)
+  254907  [14:47]:Ghost of Larppa [ghost]: 40-50
+  272795  Ghost of Larppa [ghost]: Damn you spider woman... had only 300k on =P
+  272830  Ghost of Larppa [ghost]: oh damn =P
+  272871  Ghost of Larppa [ghost]: DAMN!!! =)
+  272873  Ghost of Larppa [ghost]: ress plz =P
+23 matches in C:\Program Files (x86)\Zmud\BatMUD\logi33.zip::logi33.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi34.zip::logi34.txt
+    6038  [    47    ] Ghost of Larppa
+   77874  Ghost of Larppa [ghost]: damn rais plz =)
+   78207  Ghost of Larppa [ghost]: puuh, gimme that rais
+   79413  Ghost of Larppa [ghost]: puuh =)
+   79415  Ghost of Larppa [ghost]: rais plz =)
+   79616  Ghost of Larppa [ghost]: OH DAMN =)
+  208443  Ghost of Larppa [ghost]: damn
+  209099  Ghost of Larppa [ghost]: ress plz
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi34.zip::logi34.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi35.zip::logi35.txt
+   95947  Ghost of Larppa [ghost]: rais plz
+1 match in C:\Program Files (x86)\Zmud\BatMUD\logi35.zip::logi35.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi36.zip::logi36.txt
+   18147  Ghost of Larppa [ghost]: OH DAMN
+   18166  Ghost of Larppa [ghost]: ressih, damnetti! =P
+   18183  [ghost]: Ghost of Larppa hugs Enochian.
+   84978  Ghost of Larppa [ghost]: rais plz
+  195007  Ghost of Larppa [ghost]: damnetti!
+  403072  Ghost of Larppa [ghost]: oh damn =P
+  403075  Ghost of Larppa [ghost]: i hate those wandering guards =)
+  443825  Ghost of Larppa [ghost]: damnetti
+  444405  [18:31]:Ghost of Larppa [ghost]: damnetti
+  444603  Ghost of Larppa [ghost]: rais plz
+  487829  Ghost of Larppa [ghost]: damn smurf! =P
+  487952  Ghost of Larppa [ghost]: ress plz
+  487961  [ghost]: Ghost of Larppa growls and screams 'MUR!'.
+  582149  Ghost of Larppa [ghost]: ress plz
+  627963  Ghost of Larppa [ghost]: damn lava storm oh damn! =P
+  628016  Ghost of Larppa [ghost]: damn damn =)
+  633539  Ghost of Larppa [ghost]: sad
+  638138  Ghost of Larppa [ghost]: puuh! damn gimme reinc cash now =)
+  661509  Ghost of Larppa [ghost]: damn =P
+  662391  Ghost of Larppa [ghost]: rais plz
+  663384  [21:25]:Ghost of Larppa [ghost]: damn =P
+  663394  [21:28]:Ghost of Larppa [ghost]: rais plz
+  851008  Ghost of Larppa [ghost]: rais plz
+  851301  Ghost of Larppa [ghost]: rais plz
+  857008  Ghost of Larppa [ghost]: rais plz
+  857146  [19:08]:Ghost of Larppa [ghost]: rais plz
+  860860  [19:08]:Ghost of Larppa [ghost]: rais plz
+  981946  Ghost of Larppa [ghost]: oh damn! =P
+ 1010043  Ghost of Larppa [ghost]: damnetti! =P
+ 1010669  Ghost of Larppa [ghost]: but it stunned me and and... =P
+ 1020522  Ghost of Larppa [ghost]: oh damn =P
+ 1020641  Ghost of Larppa [ghost]: puuh =P
+ 1050196  Ghost of Larppa [ghost]: puuh =P
+ 1065221  Ghost of Larppa [ghost]: damn! =P
+ 1065231  Ghost of Larppa [ghost]: accept rais from chun
+ 1065240  Ghost of Larppa [ghost]: puuh =)
+ 1140170  [ghost]: Ghost of Larppa looks very sad.
+ 1140191  Ghost of Larppa [ghost]: what the damn was that place?
+ 1140208  Ghost of Larppa [ghost]: 2 rooms and no exit? =P
+ 1140593  Ghost of Larppa [ghost]: w: snowball event after bb =)
+ 1320307  Ghost of Larppa [ghost]: nooo!
+ 1320321  Ghost of Larppa [ghost]: ress plz
+ 1320387  [ghost]: Ghost of Larppa looks very sad.
+ 1355351  Ghost of Larppa [ghost]: rais plz
+ 1355418  Ghost of Larppa [ghost]: got from grizzt
+ 1380813  Ghost of Larppa [ghost]: damn get me outta here
+ 1380821  Ghost of Larppa [ghost]: kaz still casting?
+ 1513656  Ghost of Larppa [ghost]: rais pl
+ 1724712  Ghost of Larppa [ghost]: ress plz =P
+ 1881098  Ghost of Larppa [ghost]: oh damn =)
+ 1881930  Ghost of Larppa [ghost]: died for one chain mail =)
+ 1902528  Ghost of Larppa [ghost]: Damnetti!
+ 1902926  Ghost of Larppa [ghost]: säd =P
+ 1911356  Ghost of Larppa [ghost]: puuh
+ 1911359  Ghost of Larppa [ghost]: rais plz
+ 2086713  Ghost of Larppa [ghost]: jahas =)
+56 matches in C:\Program Files (x86)\Zmud\BatMUD\logi36.zip::logi36.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi37.zip::logi37.txt
+  258564  Ghost of Larppa [ghost]: oh damn! ress plz
+  361416  Ghost of Larppa [ghost]: puuh, why those smurfs keep killing me =)
+  851025  Ghost of Larppa [ghost]: omg lol =)
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\logi37.zip::logi37.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi38.zip::logi38.txt
+   47460  Ghost of Larppa [ghost]: umm rais plz... cha 8 =)
+  244419  Ghost of Larppa [ghost]: rais plz
+  296177  Ghost of Larppa [ghost]: muah =P
+  296284  Ghost of Larppa [ghost]: rais plz
+  297563  [ghost]: Ghost of Larppa goes 'Heh' at Saapas the christmas elf.
+  297834  Ghost of Larppa [ghost]: took from shodan
+  436766  Ghost of Larppa [ghost]: puuh
+  497543  Ghost of Larppa [ghost]: ummm rais plz
+  497879  Ghost of Larppa [ghost]: ress then =)
+  497881  Ghost of Larppa [ghost]: ~40k on
+ 1058552  Ghost of Larppa [ghost]: hum.... ress plz =P
+ 1067596  Ghost of Larppa [ghost]: ress plz
+ 1067633  Ghost of Larppa [ghost]: ress please
+ 1157465  Ghost of Larppa [ghost]: ummm... ress plz
+ 1306856  [ghost]: Ghost of Larppa hums a little tune at Vendar.
+ 1346363  Ghost of Larppa [ghost]: Damnettiiiiiiiiiiiiiiiiiiih =)
+ 1355265  [13:33]:Ghost of Larppa [ghost]: Damnettiiiiiiiiiiiiiiiiiiih =)
+ 1392933  Ghost of Larppa [ghost]: rais plz
+ 1488819  Ghost of Larppa [ghost]: rais plz
+ 1505281  Ghost of Larppa [ghost]: oh damn
+ 1505326  Ghost of Larppa [ghost]: ress plz
+21 matches in C:\Program Files (x86)\Zmud\BatMUD\logi38.zip::logi38.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi39.zip::logi39.txt
+  122080  Ghost of Larppa [ghost]: rais plz
+  601021  Ghost of Larppa [ghost]: DAMN! =(((( sell me that damn axe damn! =)
+  601063  Ghost of Larppa [ghost]: puuuuuuuuuh =(
+  601149  [ghost]: Ghost of Larppa nods at Troile, 'Yep!'.
+  639602  Ghost of Larppa [ghost]: oh damn?
+  639615  Ghost of Larppa [ghost]: was idling in bc with 100k on and athalon killed me =)
+  640425  [ghost]: Ghost of Larppa sniffs sadly.
+  645713  Ghost of Larppa [ghost]: ress plz
+  645970  Ghost of Larppa [ghost]: puuh! =)
+  645972  Ghost of Larppa [ghost]: rais plz
+  750585  Ghost of Larppa [ghost]: ress plz
+  927052  Ghost of Larppa [ghost]: doh
+ 1171571  Ghost of Larppa [ghost]: joo o =(
+ 1171732  [ghost]: Ghost of Larppa nods, 'Yep!'.
+ 1171761  Ghost of Larppa [ghost]: rais plz
+ 1539798  Ghost of Larppa [ghost]: ress plz
+16 matches in C:\Program Files (x86)\Zmud\BatMUD\logi39.zip::logi39.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi40.zip::logi40.txt
+  103953  Ghost of Larppa [ghost]: puuh lava storm =)
+  162388  Ghost of Larppa [ghost]: puuh =)
+  162480  Ghost of Larppa [ghost]: ress plz
+  453472  Ghost of Larppa [ghost]: puuh! that damn lava strom takes 800hp =)
+  622323  Ghost of Larppa [ghost]: humdi =)
+  885890  Ghost of Larppa [ghost]: ress plz
+ 1110493  Ghost of Larppa [ghost]: oh damn =(((
+ 1110504  Ghost of Larppa [ghost]: why i cant accept from done?
+ 1110516  Ghost of Larppa [ghost]: ress didnt work =(
+ 1114954  [13:13]:Ghost of Larppa [ghost]: oh damn =(((
+ 1114956  [13:14]:Ghost of Larppa [ghost]: why i cant accept from done?
+ 1114957  [13:15]:Ghost of Larppa [ghost]: ress didnt work =(
+ 1369074  Ghost of Larppa [ghost]: damn stupid area!
+13 matches in C:\Program Files (x86)\Zmud\BatMUD\logi40.zip::logi40.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi41.zip::logi41.txt
+  120250  Ghost of Larppa [ghost]: puuuuuuuuuuuuh =(
+  120254  Ghost of Larppa [ghost]: ress damn fast before i'll go nuq
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\logi41.zip::logi41.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi42.zip::logi42.txt
+   77198  Ghost of Larppa [ghost]: puuuuuuh =( ress plz about 100k on
+   77216  Ghost of Larppa [ghost]: lol nice name aggressio =)
+  182156  Ghost of Larppa [ghost]: oh damn!
+  182255  Ghost of Larppa [ghost]: first just bad luck and then turbo troll? =(
+  196587  Ghost of Larppa [ghost]: humdiih
+  196600  Ghost of Larppa [ghost]: about 100k lost and 70k gained now =)
+  255928  Ghost of Larppa [ghost]: oh damn...
+  255934  Ghost of Larppa [ghost]: puuh =((
+  477881  Ghost of Larppa [ghost]: nooooooooooo!
+  477885  Ghost of Larppa [ghost]: damn! someone kill that thing... =)
+  477920  Ghost of Larppa [ghost]: its just front of barb guild
+  554254  Ghost of Larppa [ghost]: rais plz
+  564897  Ghost of Larppa [ghost]: tätä =)
+  564946  Ghost of Larppa [ghost]: damn =)
+  565018  [ghost]: Ghost of Larppa huggles Walor warmly.
+  570038  Ghost of Larppa [ghost]: hehhistä
+  570192  Ghost of Larppa [ghost]: rais plz
+  570996  Ghost of Larppa [ghost]: rais?!
+18 matches in C:\Program Files (x86)\Zmud\BatMUD\logi42.zip::logi42.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi43.zip::logi43.txt
+  194231  Ghost of Larppa [ghost]: phiiiiiiiiiuuuuuuuuuuuuuh
+  194233  Ghost of Larppa [ghost]: kikkeli!
+  386260  Ghost of Larppa [ghost]: ressiä damnetti about 100k on =D)#sadf
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\logi43.zip::logi43.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi44.zip::logi44.txt
+  117592  Ghost of Larppa [ghost]: voi pippelin pippeli
+  117595  Ghost of Larppa [ghost]: ressiäh
+  547002  Ghost of Larppa [ghost]: raisea
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\logi44.zip::logi44.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi45.zip::logi45.txt
+   94021  Ghost of Larppa [ghost]: hummm
+   94070  Ghost of Larppa [ghost]: raisea
+  496427  Ghost of Larppa [ghost]: voe kikkeli, ressiä
+  496641  [ghost]: Ghost of Larppa grabs Mhvi by the throat, strangling viciously.
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\logi45.zip::logi45.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi46.zip::logi46.txt
+   62338  Ghost of Larppa [ghost]: :D
+  491686  Ghost of Larppa [ghost]: NOOO!!!
+  491691  Ghost of Larppa [ghost]: :O
+  491818  [16:48]:Ghost of Larppa [ghost]: NOOO!!!
+  491819  [16:48]:Ghost of Larppa [ghost]: :O
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\logi46.zip::logi46.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi47.zip::logi47.txt
+  496917  Ghost of Larppa [ghost]: :D
+  496923  Ghost of Larppa [ghost]: 200k on
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\logi47.zip::logi47.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi48.zip::logi48.txt
+  124451  Ghost of Larppa [ghost]: damn whatta turbo!
+  127704  Ghost of Larppa [ghost]: Smiling devilishly Pogowoko strikes you causing heart tissue to fly everywhere. :D
+  128415  [18:48]:Ghost of Larppa [ghost]: Smiling devilishly Pogowoko strikes you causing heart tissue to fly everywhere. :D
+  128502  [18:48]:Ghost of Larppa [ghost]: Smiling devilishly Pogowoko strikes you causing heart tissue to fly everywhere. :D
+  205533  Ghost of Larppa [ghost]: damn stupid quest
+  205561  Ghost of Larppa [ghost]: rais plz
+  613795  Ghost of Larppa [ghost]: ackness
+  858874  Ghost of Larppa [ghost]: just just
+  858963  Ghost of Larppa [ghost]: accept ress from serra
+  859533  [ghost]: Ghost of Larppa smiles at Serra.
+10 matches in C:\Program Files (x86)\Zmud\BatMUD\logi48.zip::logi48.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi49.zip::logi49.txt
+  144042  Ghost of Larppa [ghost]: puuuuuuuuuuuuh :O
+  144045  Ghost of Larppa [ghost]: ress
+  181391  Ghost of Larppa [ghost]: puuh that damn turbo took my stuff and killed me :O
+  181408  Ghost of Larppa [ghost]: ress plz
+  229560  Ghost of Larppa [ghost]: ress plz =O
+  333104  Ghost of Larppa [ghost]: oooo :D
+  333177  Ghost of Larppa [ghost]: raisea
+  333407  Ghost of Larppa [ghost]: rais?!?! :D
+  568907  Ghost of Larppa [ghost]: its always nice to get ga in your head :O
+  568964  Ghost of Larppa [ghost]: rais plz
+  569402  Ghost of Larppa [ghost]: anyone raising?!
+  570656  Ghost of Larppa [ghost]: :O
+  580927  Ghost of Larppa [ghost]: ? =O
+  581554  Ghost of Larppa [ghost]: rais
+  850834  Ghost of Larppa [ghost]: nooooooooooo! :O
+  850839  Ghost of Larppa [ghost]: :_(
+16 matches in C:\Program Files (x86)\Zmud\BatMUD\logi49.zip::logi49.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi50.zip::logi50.txt
+   65331  Ghost of Larppa [ghost]: ressiä ja äkkiä
+   65351  Ghost of Larppa [ghost]: :((
+   65413  [ghost]: Ghost of Larppa grabs Valkrist by the throat, strangling viciously.
+  607264  Ghost of Larppa [ghost]: näyyyyyyy
+  607266  Ghost of Larppa [ghost]: nöyyyy even
+  859707  Ghost of Larppa [ghost]: nooooooooooooooo! :O
+  859710  Ghost of Larppa [ghost]: :(
+  870139  Ghost of Larppa [ghost]: aye!
+  870145  Ghost of Larppa [ghost]: rais plz
+  870227  [ghost]: Ghost of Larppa hugs Priv.
+  923357  Ghost of Larppa [ghost]: voikikkelinkikkeli...
+  923380  Ghost of Larppa [ghost]: ress?
+  927075  Ghost of Larppa [ghost]: ressi :O
+13 matches in C:\Program Files (x86)\Zmud\BatMUD\logi50.zip::logi50.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi51.zip::logi51.txt
+   90931  Ghost of Larppa [ghost]: :O
+   90984  Ghost of Larppa [ghost]: whatta crit
+   91010  Ghost of Larppa [ghost]: rais plz
+   91044  [ghost]: Ghost of Larppa smiles at Heihachi.
+   91561  Ghost of Larppa [ghost]: solstice, i took ress.. :D
+   93155  [21:45]:Ghost of Larppa [ghost]: :O
+   93156  [21:45]:Ghost of Larppa [ghost]: whatta crit
+   93157  [21:45]:Ghost of Larppa [ghost]: rais plz
+   93158  [21:45]:[ghost]: Ghost of Larppa smiles at Heihachi.
+   93160  [21:47]:Ghost of Larppa [ghost]: solstice, i took ress.. :D
+  482217  Ghost of Larppa [ghost]: nice :D
+  482223  Ghost of Larppa [ghost]: yes its nice to run in sea for lag and lose all your exp :D
+  636813  Ghost of Larppa [ghost]: but larppa is nice
+  636814  Ghost of Larppa [ghost]: :D
+  636975  Ghost of Larppa [ghost]: barb critter hunt roxor!
+15 matches in C:\Program Files (x86)\Zmud\BatMUD\logi51.zip::logi51.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi52.zip::logi52.txt
+  146395  Ghost of Larppa [ghost]: puuh whatta turbo...
+  146400  Ghost of Larppa [ghost]: ress dunno how much on
+  158300  Ghost of Larppa [ghost]: :O
+  158316  [ghost]: Ghost of Larppa huggles Mape warmly.
+  158364  [    50    ] Ghost of Larppa
+  201816  Ghost of Larppa [ghost]: puuh forgot frenzy on :D
+  201821  Ghost of Larppa [ghost]: ress plz
+  201842  [    50    ] Ghost of Larppa
+  212330  Ghost of Larppa [ghost]: ress plz
+  212333  [    50    ] Ghost of Larppa
+  212365  [ghost]: Ghost of Larppa looks very sadly at Priv.
+  237393  Ghost of Larppa [ghost]: NÖYY!
+  237411  Ghost of Larppa [ghost]: voi reikä
+  237438  Ghost of Larppa [ghost]: ress plz
+  237948  Ghost of Larppa [ghost]: ress now!
+  364409  Ghost of Larppa [ghost]: puuh
+  364442  Ghost of Larppa [ghost]: ress 140k on
+  415136  Ghost of Larppa [ghost]: puuh
+  415138  Ghost of Larppa [ghost]: rais plz
+  415159  Ghost of Larppa [ghost]: offer! :O
+  415335  Ghost of Larppa [ghost]: grizzt can yuo get me outta here? :D
+  510836  Ghost of Larppa [ghost]: :O
+  510843  Ghost of Larppa [ghost]: damn ambush :D
+  511163  Ghost of Larppa [ghost]: ress?
+  619316  Ghost of Larppa [ghost]: w: bane axe after this madness
+  665515  Ghost of Larppa [ghost]: smile :D
+  723171  Ghost of Larppa [ghost]: voi kikkeli
+  723211  Ghost of Larppa [ghost]: Spineless tells you 'accept kikkeli from me'
+  723214  [ghost]: Ghost of Larppa eyes Spineless suspiciously.
+  723221  [    50    ] Ghost of Larppa
+  804880  Ghost of Larppa [ghost]: voi kikkelin kikkeli
+  804882  Ghost of Larppa [ghost]: :O
+  804892  Ghost of Larppa [ghost]: ressraisea!
+  810212  Ghost of Larppa [ghost]: ress plz
+  865194  Ghost of Larppa [ghost]: oh :D
+  865275  [ghost]: Ghost of Larppa nods at Glacius.
+  865438  Ghost of Larppa [ghost]: damnetin kikkeli i would say
+  913257  Ghost of Larppa [ghost]: ressi
+  919463  [16:01]:Ghost of Larppa [ghost]: ressi
+  944366  Ghost of Larppa [ghost]: eek
+  944371  Ghost of Larppa [ghost]: i always forget that agro monsie
+  944397  [    50    ] Ghost of Larppa
+  944427  [    50    ] Ghost of Larppa
+  944441  [    50    ] Ghost of Larppa
+  951698  Ghost of Larppa [ghost]: damn stupid mob
+  951811  Ghost of Larppa [ghost]: why do i always run in that same damn kikkeli mob
+  951902  Ghost of Larppa [ghost]: this was the third time today
+ 1006408  Ghost of Larppa [ghost]: hmmm that monsie was agro over boot :O
+ 1006439  Ghost of Larppa [ghost]: or then that was a stupid bug but it said we meet again :O
+ 1012932  Ghost of Larppa [ghost]: kikkelih?
+ 1012933  Ghost of Larppa [ghost]: ressi
+ 1040436  Ghost of Larppa [ghost]: nooo
+ 1040470  Ghost of Larppa [ghost]: again :D
+ 1219369  Ghost of Larppa [ghost]: ressiä damnetti
+ 1226741  [13:44]:Ghost of Larppa [ghost]: ressiä damnetti
+ 1320472  Ghost of Larppa [ghost]: damn 3k--- monsie tracked me while i was idle regening :D
+ 1330452  Ghost of Larppa [ghost]: :O
+ 1330454  Ghost of Larppa [ghost]: ressiä
+58 matches in C:\Program Files (x86)\Zmud\BatMUD\logi52.zip::logi52.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi53.zip::logi53.txt
+  279255  Ghost of Larppa [ghost]: :O
+  279332  Ghost of Larppa [ghost]: rais?
+  320220  Ghost of Larppa [ghost]: ressivä
+  329342  [15:47]:Ghost of Larppa [ghost]: ressivä
+  537933  Ghost of Larppa [ghost]: muah :D not nice
+5 matches in C:\Program Files (x86)\Zmud\BatMUD\logi53.zip::logi53.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi55.zip::logi55.txt
+   73908  Ghost of Larppa [ghost]: :O
+   73910  Ghost of Larppa [ghost]: that was durandin syytä
+   73943  Ghost of Larppa [ghost]: ress plz
+   81563  [ghost]: Ghost of Larppa yeah shadowos
+   81577  Ghost of Larppa [ghost]: eek :D
+   91145  [16:21]:[ghost]: Ghost of Larppa yeah shadowos
+   91146  [16:21]:Ghost of Larppa [ghost]: eek :D
+  325574  [ghost]: Ghost of Larppa sniffs sadly.
+  528282  Ghost of Larppa [ghost]: ress plz
+  974799  Ghost of Larppa [ghost]: eek
+  974836  Ghost of Larppa [ghost]: ressivä
+  974936  [ghost]: Ghost of Larppa waves her hands at Kiraffi, saying 'shoo, shoo!'.
+  975205  Ghost of Larppa [ghost]: nope, selling em now... damogran doesnt want em anymore :D
+  975870  [ghost]: Ghost of Larppa gives a thumbs up to Duracell.
+  979717  [20:47]:Ghost of Larppa [ghost]: nope, selling em now... damogran doesnt want em anymore :D
+  979719  [20:49]:[ghost]: Ghost of Larppa gives a thumbs up to Duracell.
+16 matches in C:\Program Files (x86)\Zmud\BatMUD\logi55.zip::logi55.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi56.zip::logi56.txt
+  246106  Ghost of Larppa [ghost]: kikkeliiih
+  246167  Ghost of Larppa [ghost]: :_(
+  248052  [15:57]:Ghost of Larppa [ghost]: kikkeliiih
+  248053  [15:57]:Ghost of Larppa [ghost]: :_(
+  249443  [15:57]:Ghost of Larppa [ghost]: kikkeliiih
+  249444  [15:57]:Ghost of Larppa [ghost]: :_(
+  481737  Ghost of Larppa [ghost]: ressivä
+  481978  Ghost of Larppa [ghost]: turpakiinni jo
+  695375  Ghost of Larppa [ghost]: noo
+  696125  Ghost of Larppa [ghost]: sädsäd
+  696164  Ghost of Larppa [ghost]: raisea?!
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\logi56.zip::logi56.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi57.zip::logi57.txt
+   81308  Ghost of Larppa [ghost]: nooo
+   81438  Ghost of Larppa [ghost]: simodillahi!
+   89202  Ghost of Larppa [ghost]: noo
+   89410  Ghost of Larppa [ghost]: offersomething...
+   89890  Ghost of Larppa [ghost]: rais?
+  101663  Ghost of Larppa [ghost]: tapoit sitte!
+  101666  [ghost]: Ghost of Larppa looks very EVILly at Mape.
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\logi57.zip::logi57.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi58.zip::logi58.txt
+  348278  Ghost of Larppa [ghost]: ei siin näin pitän käydä
+  371238  Ghost of Larppa [ghost]: :(
+  371330  [ghost]: Ghost of Larppa huggles Enochian warmly.
+  371527  Ghost of Larppa [ghost]: raiseva?
+  431169  Ghost of Larppa [ghost]: whee!
+  431202  Ghost of Larppa [ghost]: almost got him
+  431750  Ghost of Larppa [ghost]: ressivä
+  446550  Ghost of Larppa [ghost]: :_(
+  446796  Ghost of Larppa [ghost]: ress?
+  450684  Ghost of Larppa [ghost]: whee!
+  574200  Ghost of Larppa [ghost]: what the damn was that :D
+  627817  Ghost of Larppa [ghost]: oho
+  627825  Ghost of Larppa [ghost]: damn zmud :D
+  627840  Ghost of Larppa [ghost]: i was supposed to go only 1e :(
+  661925  Ghost of Larppa [ghost]: nöygh
+  661926  Ghost of Larppa [ghost]: damn i hate this stupid barb :D
+  661928  Ghost of Larppa [ghost]: i wanna reinccaa
+  661930  [ghost]: Ghost of Larppa growls and screams 'MUR!'.
+  678063  Ghost of Larppa [ghost]: hmm
+  678179  Ghost of Larppa [ghost]: Valentina BARBARICALLY BEATS you
+  678212  Ghost of Larppa [ghost]: nice one
+  678283  Ghost of Larppa [ghost]: raiseva
+  678640  Ghost of Larppa [ghost]: get me outta here
+  679400  Ghost of Larppa [ghost]: raise dediiiiii murrr
+  679415  Ghost of Larppa [ghost]: gnnnnnnh
+  878902  Ghost of Larppa [ghost]: why even small monsies always crit when you are nd?
+  878910  Ghost of Larppa [ghost]: ress plz and damn low cha
+  878969  [ghost]: Ghost of Larppa shakes her head and says 'Nope' to Jezu.
+  905746  Ghost of Larppa [ghost]: broetchenil hermot kireellä?
+  905758  Ghost of Larppa [ghost]: raisea
+  914234  [17:33]:Ghost of Larppa [ghost]: raisea
+ 1103736  Ghost of Larppa [ghost]: umm
+ 1103762  Ghost of Larppa [ghost]: ressivä
+ 1324037  Ghost of Larppa [ghost]: boo
+ 1327026  Ghost of Larppa [ghost]: neekeri!
+ 1331825  Ghost of Larppa [ghost]: puuh
+ 1331941  Ghost of Larppa [ghost]: raiseva
+ 1332451  Ghost of Larppa [ghost]: :( )
+ 1332918  Ghost of Larppa [ghost]: raise!
+ 1333172  Ghost of Larppa [ghost]: ?
+ 1337158  Ghost of Larppa [ghost]: no niinmpä tietenki
+ 1339061  Ghost of Larppa [ghost]: rais
+ 1339100  Ghost of Larppa [ghost]: rais plz :(
+ 1341572  [17:48]:Ghost of Larppa [ghost]: no niinmpä tietenki
+ 1341583  [17:58]:Ghost of Larppa [ghost]: rais
+ 1341586  [17:59]:Ghost of Larppa [ghost]: rais plz :(
+ 1345870  [17:58]:Ghost of Larppa [ghost]: rais
+ 1345873  [17:59]:Ghost of Larppa [ghost]: rais plz :(
+ 1360582  Ghost of Larppa [ghost]: :( )
+ 1360601  Ghost of Larppa [ghost]: damn stupid guild
+ 1360634  Ghost of Larppa [ghost]: i'll pay 5k for taking me to shelaste :D
+ 1361190  Ghost of Larppa [ghost]: rais plz?
+ 1366088  [18:53]:Ghost of Larppa [ghost]: damn stupid guild
+ 1366089  [18:53]:Ghost of Larppa [ghost]: i'll pay 5k for taking me to shelaste :D
+ 1366097  [18:55]:Ghost of Larppa [ghost]: rais plz?
+ 1404221  Ghost of Larppa [ghost]: asiaa!
+ 1404258  [21:08]:Ghost of Larppa [ghost]: asiaa!
+ 1404309  Ghost of Larppa [ghost]: Hp:-69086701/620 Exp:1
+ 1404314  Ghost of Larppa [ghost]: :D
+59 matches in C:\Program Files (x86)\Zmud\BatMUD\logi58.zip::logi58.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi60.zip::logi60.txt
+  503614  Ghost of Larppa [ghost]: näin...
+  504773  Ghost of Larppa [ghost]: ress plz
+2 matches in C:\Program Files (x86)\Zmud\BatMUD\logi60.zip::logi60.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi61.zip::logi61.txt
+   26265  Ghost of Larppa [ghost]: voi kikkeli
+   26351  Ghost of Larppa [ghost]: ressivä
+   26417  Ghost of Larppa [ghost]: nice -500hp crit
+   26463  Ghost of Larppa [ghost]: almost 200k on?
+  954487  Ghost of Larppa [ghost]: oho
+  954588  Ghost of Larppa [ghost]: ressiä
+ 1275778  Ghost of Larppa [ghost]: rais plz
+ 1275783  Ghost of Larppa [ghost]: omg
+ 1275799  Ghost of Larppa [ghost]: and lol ofcourse
+9 matches in C:\Program Files (x86)\Zmud\BatMUD\logi61.zip::logi61.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi62.zip::logi62.txt
+  159839  Ghost of Larppa [ghost]: vähänkö oli ankee area
+  303345  Ghost of Larppa [ghost]: noooooo
+  303391  Ghost of Larppa [ghost]: puuh
+  462193  Ghost of Larppa [ghost]: OHO
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\logi62.zip::logi62.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi63.zip::logi63.txt
+  274748  Ghost of Larppa [ghost]: hum
+  530800  Ghost of Larppa [ghost]: juu u
+  533279  [16:37]:Ghost of Larppa [ghost]: juu u
+3 matches in C:\Program Files (x86)\Zmud\BatMUD\logi63.zip::logi63.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi64.zip::logi64.txt
+    4312  Ghost of Larppa [ghost]: voigiggelin giggelin giggeli
+    4381  [ghost]: Ghost of Larppa shakes her head and says 'Nope' to Blackhand.
+   10704  Ghost of Larppa [ghost]: voi neekerin musta kikkeli tai jotain sinne päin?
+   10722  Ghost of Larppa [ghost]: ressivä?
+   67035  Ghost of Larppa [ghost]: alan itkeen ihan oikeesti
+  324320  Ghost of Larppa [ghost]: noooooooooo!
+  324359  [ghost]: Ghost of Larppa slaps Jenar on the cheek.
+  324362  Ghost of Larppa [ghost]: sulle aloin vastaan nii rips :)
+  573000  Ghost of Larppa [ghost]: oho
+  573005  Ghost of Larppa [ghost]: raise
+  577458  Ghost of Larppa [ghost]: PUUH! went to guild, decided not to train yet, ran out and died :)
+  877349  Ghost of Larppa [ghost]: sosäd
+  877411  [ghost]: Ghost of Larppa sobs unconsolably.
+13 matches in C:\Program Files (x86)\Zmud\BatMUD\logi64.zip::logi64.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi69.zip::logi69.txt
+ 1250579  Ghost of Larppa [ghost]: oho
+ 1250580  Ghost of Larppa [ghost]: ressi?
+ 1876552  Ghost of Larppa [ghost]: what the damn happened?
+ 1877798  Ghost of Larppa [ghost]: you fall through blood red hole späm spämsp äsms säm you are dead FROZEN SOLID späm späm späm dead ead späm?
+ 1879937  [15:29]:Ghost of Larppa [ghost]: what the damn happened?
+ 1879941  [15:30]:Ghost of Larppa [ghost]: you fall through blood red hole späm spämsp äsms säm you are dead FROZEN SOLID späm späm späm dead ead späm?
+ 1887857  Ghost of Larppa [ghost]: voi nigö!
+ 1887992  Ghost of Larppa [ghost]: only 220k on and truly stun :)
+ 1908077  [15:49]:Ghost of Larppa [ghost]: voi nigö!
+ 1908080  [15:49]:Ghost of Larppa [ghost]: only 220k on and truly stun :)
+ 1932247  Ghost of Larppa [ghost]: voi neekeri
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\logi69.zip::logi69.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi70.zip::logi70.txt
+  561258  Ghost of Larppa [ghost]: nöygh :(
+  561271  Ghost of Larppa [ghost]: it was soooo close
+  566882  Ghost of Larppa [ghost]: :D
+  566952  Ghost of Larppa [ghost]: typoed
+  567813  Ghost of Larppa [ghost]: rais?
+  578862  [15:57]:Ghost of Larppa [ghost]: :D
+  578863  [15:57]:Ghost of Larppa [ghost]: typoed
+  578865  [15:58]:Ghost of Larppa [ghost]: rais?
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi70.zip::logi70.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi71.zip::logi71.txt
+  310466  Ghost of Larppa [ghost]: get me outta here
+1 match in C:\Program Files (x86)\Zmud\BatMUD\logi71.zip::logi71.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi73.zip::logi73.txt
+  188331  Ghost of Larppa [ghost]: neekeriiiiiiih!!! nöyyyyyyy miksi aina minä :(
+  188340  Ghost of Larppa [ghost]: :_(((
+  188352  Ghost of Larppa [ghost]: sin män taas expat vaihteeksi
+  191806  [12:36]:Ghost of Larppa [ghost]: neekeriiiiiiih!!! nöyyyyyyy miksi aina minä :(
+  191807  [12:36]:Ghost of Larppa [ghost]: :_(((
+  191808  [12:37]:Ghost of Larppa [ghost]: sin män taas expat vaihteeksi
+  245954  Ghost of Larppa [ghost]: :(
+  246100  [ghost]: Ghost of Larppa 
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi73.zip::logi73.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi74.zip::logi74.txt
+    2748  Ghost of Larppa [ghost]: rais from some n00b tarma who doesnt care about cha :)
+    2754  Ghost of Larppa [ghost]: i got about 25cha and 40k exp
+    2915  Ghost of Larppa [ghost]: anyone?
+  179727  Ghost of Larppa [ghost]: nigö tilttas toi tekstin syöttö sit :)
+  218140  Ghost of Larppa [ghost]: lol
+  218161  Ghost of Larppa [ghost]: tracked
+  237633  Ghost of Larppa [ghost]: oho
+  239082  [20:30]:Ghost of Larppa [ghost]: oho
+  240940  [20:30]:Ghost of Larppa [ghost]: oho
+  241368  [20:30]:Ghost of Larppa [ghost]: oho
+  572320  [ghost]: Ghost of Larppa huggles Glaurung warmly.
+  572337  Ghost of Larppa [ghost]: ressiä
+  817688  Ghost of Larppa [ghost]: muah mosquito sitte :D
+  817701  Ghost of Larppa [ghost]: ress plz 110k on :(
+  817705  Ghost of Larppa [ghost]: anyone?!?!
+15 matches in C:\Program Files (x86)\Zmud\BatMUD\logi74.zip::logi74.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi76.zip::logi76.txt
+   44714  Ghost of Larppa [ghost]: oho :D
+   44753  Ghost of Larppa [ghost]: änynoobietarmoja? :D
+   75433  Ghost of Larppa [ghost]: who the damn killed me and why? :O
+   75838  Ghost of Larppa [ghost]: hmm... who keeps hiring tigers after me? :D
+   75862  Ghost of Larppa [ghost]: rais...
+   75865  Ghost of Larppa [ghost]: lidl ins lähti heveniin istumaan :D
+   75873  Ghost of Larppa [ghost]: :)
+   88951  Ghost of Larppa [ghost]: lol
+   88953  Ghost of Larppa [ghost]: ero
+   88961  Ghost of Larppa [ghost]: did somoene get tiger mission or did i kill my self ? :D
+   89035  Ghost of Larppa [ghost]: :D
+   89037  Ghost of Larppa [ghost]: ress ?
+   89052  Ghost of Larppa [ghost]: ress ? :O
+   90368  Ghost of Larppa [ghost]: rais
+   90392  Ghost of Larppa [ghost]: anyone ? :O
+   90798  Ghost of Larppa [ghost]: rais?
+   90813  Ghost of Larppa [ghost]: muah dragoness
+   90838  Ghost of Larppa [ghost]: nyt sen sanoit :)
+   92383  [ghost]: Ghost of Larppa shakes her head and says 'Nope' to Glory.
+   92388  Ghost of Larppa [ghost]: rais?
+   92406  Ghost of Larppa [ghost]: that rais? :O
+  157736  Ghost of Larppa [ghost]: lidl turbo :D
+  157738  Ghost of Larppa [ghost]: ress plz
+  157814  Ghost of Larppa [ghost]: omg
+  559132  Ghost of Larppa [ghost]: mercury, tarkistas :)
+ 1029689  Ghost of Larppa [ghost]: ress?
+ 1029697  Ghost of Larppa [ghost]: ress!
+ 1029698  Ghost of Larppa [ghost]: tänne ja heti
+ 3421374  Ghost of Larppa [ghost]: VOI NEEKERI
+ 3421426  Ghost of Larppa [ghost]: clonet?
+ 3421488  Ghost of Larppa [ghost]: OOO
+ 3421534  Ghost of Larppa [ghost]: thank god! :D
+ 3421677  Ghost of Larppa [ghost]: had only 300k on :)
+ 3423947  Ghost of Larppa [ghost]: I'll Be Back!
+ 3425639  Ghost of Larppa [ghost]: kiai-cry!
+ 3425700  Ghost of Larppa [ghost]: kiaaa!
+ 3426082  Ghost of Larppa
+ 3426188  Ghost of Larppa [ghost]: Sunny on mäntti!
+ 3426189  Ghost of Larppa [ghost]: :)
+ 3426199  Ghost of Larppa [ghost]: hugglebuggle glacius
+ 3426379  Ghost of Larppa [ghost]: ITS OVER!!!
+ 3667864  Ghost of Larppa [ghost]: eep
+ 3667867  Ghost of Larppa [ghost]: ei kannata tappaa smurffeja :D
+ 3667868  Ghost of Larppa [ghost]: double crit
+ 3667873  [ghost]: Ghost of Larppa slaps Idles on the cheek.
+ 3823289  Ghost of Larppa [ghost]: OH DAMN
+ 3823358  Ghost of Larppa [ghost]: :D
+ 3823408  Ghost of Larppa [ghost]: :)
+ 3823546  Ghost of Larppa [ghost]: btw im not happy to accept from anyone :O
+ 3827384  Ghost of Larppa [ghost]: OK THATS IT! im going to bed :)
+ 3827442  [ghost]: Ghost of Larppa grabs Saa by the throat, strangling viciously.
+ 3950182  Ghost of Larppa [ghost]: neekeri
+ 3950270  Ghost of Larppa [ghost]: sinne meni prossa
+ 3960226  Ghost of Larppa [ghost]: neeeeekeriiiiiiiih? :O
+ 3960355  [16:35]:Ghost of Larppa [ghost]: neeeeekeriiiiiiiih? :O
+ 3960440  Ghost of Larppa [ghost]: about 100k gained and 200k lost
+ 3960475  Ghost of Larppa [ghost]: damn im good!
+ 4080303  Ghost of Larppa [ghost]: neekeriiiiiiiih!
+ 4080313  Ghost of Larppa [ghost]: ress
+ 4136305  Ghost of Larppa [ghost]: ressiä
+60 matches in C:\Program Files (x86)\Zmud\BatMUD\logi76.zip::logi76.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi77.zip::logi77.txt
+  518848  Ghost of Larppa [ghost]: nigön sunny
+  533496  Ghost of Larppa [ghost]: NEEKERI
+  533531  Ghost of Larppa [ghost]: nigöh?
+  533561  Ghost of Larppa [ghost]: tms tms?
+  533642  Ghost of Larppa [ghost]: turpakiinni sunny :)
+  564907  Ghost of Larppa [ghost]: lol :O
+  564917  Ghost of Larppa [ghost]: little turbo? :D
+  564936  Ghost of Larppa [ghost]: Smiling devilishly Rat savagely strikes you causing heart tissue to fly everywhere.
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi77.zip::logi77.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi78.zip::logi78.txt
+  382387  Ghost of Larppa [ghost]: oh :O
+  382638  [ghost]: Ghost of Larppa huggles Ins warmly.
+  386339  [23:27]:Ghost of Larppa [ghost]: oh :O
+  386341  [23:27]:[ghost]: Ghost of Larppa huggles Ins warmly.
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\logi78.zip::logi78.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi79.zip::logi79.txt
+  545656  Ghost of Larppa [ghost]: ress
+  545825  Ghost of Larppa [ghost]: descent cha but could be better :)
+  545908  Ghost of Larppa [ghost]: muah typo
+  567121  Ghost of Larppa [ghost]: ressiä?
+  567130  Ghost of Larppa [ghost]: bohe, en varmaan ota :D
+  950106  Ghost of Larppa [ghost]: no voe mahoton paikka :O
+  950185  Ghost of Larppa [ghost]: ress?
+ 1804601  Ghost of Larppa [ghost]: puuh
+ 1804812  Ghost of Larppa [ghost]: and getting offers right after dying :)
+ 1962563  [ghost]: Ghost of Larppa hums a little tune.
+ 2191408  Ghost of Larppa [ghost]: ressiä
+ 2454934  Ghost of Larppa [ghost]: whee
+ 2454956  Ghost of Larppa [ghost]: zonni swamps :D
+ 3220728  Ghost of Larppa [ghost]: whee
+ 3220765  Ghost of Larppa [ghost]: damn nice area
+ 3220809  Ghost of Larppa [ghost]: im full of scars btw :O
+ 3220827  [    70    ] Ghost of Larppa
+ 3262660  Ghost of Larppa [ghost]: nigöh :O
+ 3262661  Ghost of Larppa [ghost]: ressiä :(
+ 3262748  Ghost of Larppa [ghost]: A gigantic green wyrm (hungry) whats this btw? :D
+ 3262851  Ghost of Larppa [ghost]: it killed me in 0.001s and it was wandering in wilderness :)
+ 3334950  Ghost of Larppa [ghost]: ressiä
+ 3341847  Ghost of Larppa [ghost]: ressiä
+23 matches in C:\Program Files (x86)\Zmud\BatMUD\logi79.zip::logi79.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi80.zip::logi80.txt
+  143693  Ghost of Larppa [ghost]: lol :)
+  143984  Ghost of Larppa [ghost]: do u get exp free reinc if monsie kills you? :D
+  143991  Ghost of Larppa [ghost]: pray even
+  143996  Ghost of Larppa [ghost]: sniff
+  144772  Ghost of Larppa [ghost]: rais plz
+  145361  Ghost of Larppa [ghost]: raiseeh?!?! omg plz?! :D
+  145516  Ghost of Larppa [ghost]: just gimme that raise
+  145531  Ghost of Larppa [ghost]: You think sarcastically 'Damn I'm good.'
+  313237  Ghost of Larppa [ghost]: damn! so close! :D
+  313253  Ghost of Larppa [ghost]: rais plz
+  503894  Ghost of Larppa [ghost]: lol
+11 matches in C:\Program Files (x86)\Zmud\BatMUD\logi80.zip::logi80.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi81.zip::logi81.txt
+  745828  Ghost of Larppa [ghost]: oho
+  745829  Ghost of Larppa [ghost]: rais
+  745860  Ghost of Larppa [ghost]: chashmshss you
+  840235  Ghost of Larppa [ghost]: EEP
+  840245  Ghost of Larppa [ghost]: lidl turbo :D
+  840320  Ghost of Larppa [ghost]: löi ku vierasta sikaa(tm)
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\logi81.zip::logi81.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi82.zip::logi82.txt
+   29125  Ghost of Larppa [ghost]: nyt ei ollu luckit kohillaan :)
+   29252  Ghost of Larppa [ghost]: damn capslock :)
+  150769  Ghost of Larppa [ghost]: summon dd chorale
+  150943  Ghost of Larppa [ghost]: ress plz
+  313191  Ghost of Larppa [ghost]: humm... my n00b friend decided to kill sable :D
+  313223  Ghost of Larppa [ghost]: ress plz
+  313350  Ghost of Larppa [ghost]: that ress?
+  637298  Ghost of Larppa [ghost]: nonii ja sit neekerin turbo vetäs viimesekki expat
+  637301  Ghost of Larppa [ghost]: ress plz
+9 matches in C:\Program Files (x86)\Zmud\BatMUD\logi82.zip::logi82.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi83.zip::logi83.txt
+   29963  Ghost of Larppa [ghost]: neekeri ressiä
+   30006  Ghost of Larppa [ghost]: :)
+   30259  Ghost of Larppa [ghost]: cruelly rips you! hehe
+  142820  Ghost of Larppa [ghost]: lollero mikä mosa :D
+  659798  Ghost of Larppa [ghost]: ressiä
+  668846  Ghost of Larppa [ghost]: summon dd chorale
+  668853  Ghost of Larppa [ghost]: fast
+  668866  Ghost of Larppa [ghost]: doh
+  668958  Ghost of Larppa [ghost]: ressiä
+  712959  Ghost of Larppa [ghost]: sniff
+  712964  Ghost of Larppa [ghost]: not sure how much on
+  713330  Ghost of Larppa [ghost]: doh doh doh :O
+  713331  Ghost of Larppa [ghost]: rais plz
+  770040  Ghost of Larppa [ghost]: larppa on tänään dead rips :O
+  770136  Ghost of Larppa [ghost]: damn meteor blast and -1hp :D
+  774644  Ghost of Larppa [ghost]: whee
+  774738  Ghost of Larppa [ghost]: i had 120k on... rips... 60k... rips 30k... thats it :)
+  774796  [17:21]:Ghost of Larppa [ghost]: whee
+  774797  [17:21]:Ghost of Larppa [ghost]: i had 120k on... rips... 60k... rips 30k... thats it :)
+19 matches in C:\Program Files (x86)\Zmud\BatMUD\logi83.zip::logi83.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi84.zip::logi84.txt
+   73969  Ghost of Larppa [ghost]: justjust
+   73973  Ghost of Larppa [ghost]: ressiä? :)
+   89709  Ghost of Larppa [ghost]: voi musta aukko nyt loppu mudaaminen
+   89719  Ghost of Larppa [ghost]: ei ees :)
+   89731  Ghost of Larppa [ghost]: about 300k lost in this boot
+   90151  Ghost of Larppa [ghost]: omg plz :DDddDD
+   90156  Ghost of Larppa [ghost]: is this a new tune: every mob kills me?
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\logi84.zip::logi84.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi85.zip::logi85.txt
+  304582  Ghost of Larppa [ghost]: ressi
+  463134  Ghost of Larppa [ghost]: doh...
+  463143  Ghost of Larppa [ghost]: :)
+  466512  [18:10]:Ghost of Larppa [ghost]: doh...
+  466513  [18:11]:Ghost of Larppa [ghost]: :)
+  472412  Ghost of Larppa [ghost]: oho
+  473004  Ghost of Larppa [ghost]: rais?
+  473723  Ghost of Larppa [ghost]: omg
+  567029  Ghost of Larppa [ghost]: sehän melkeen toimiki
+  583979  Ghost of Larppa [ghost]: :((((((8
+  646129  Ghost of Larppa [ghost]: :O
+  748509  Ghost of Larppa [ghost]: ressiä
+12 matches in C:\Program Files (x86)\Zmud\BatMUD\logi85.zip::logi85.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi86.zip::logi86.txt
+   25907  Ghost of Larppa [ghost]: ressiä
+  182141  Ghost of Larppa [ghost]: ressia
+  199742  Ghost of Larppa [ghost]: doh
+  199751  Ghost of Larppa [ghost]: ressiä
+  216665  Ghost of Larppa [ghost]: heh
+  220652  [19:41]:Ghost of Larppa [ghost]: heh
+  303417  Ghost of Larppa [ghost]: whee... smurf shouts
+  303423  Ghost of Larppa [ghost]: ressiä
+  321796  Ghost of Larppa [ghost]: ress?
+  331776  Ghost of Larppa [ghost]: ressiä
+  336693  Ghost of Larppa [ghost]: whee :O
+  336697  Ghost of Larppa [ghost]: raisea
+  362418  Ghost of Larppa [ghost]: sinne mentiin...
+  362426  Ghost of Larppa [ghost]: ressiä
+  641811  Ghost of Larppa [ghost]: DOH :O
+  672731  Ghost of Larppa [ghost]: voi neekerin tune
+16 matches in C:\Program Files (x86)\Zmud\BatMUD\logi86.zip::logi86.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi87.zip::logi87.txt
+   45731  Ghost of Larppa [ghost]: ressi :)
+   91308  Ghost of Larppa [ghost]: ohoh
+   91311  Ghost of Larppa [ghost]: raise
+  503377  Ghost of Larppa [ghost]: voi nigön famudillahit
+  503378  Ghost of Larppa [ghost]: :)
+  503379  Ghost of Larppa [ghost]: ressivä
+  503399  Ghost of Larppa [ghost]: kädetys+ (tm)
+  504493  Ghost of Larppa [ghost]: whee
+  510172  Ghost of Larppa [ghost]: raise
+  530390  Ghost of Larppa [ghost]: ressi
+  530454  Ghost of Larppa [ghost]: pwipe pwipe pwipe pwipe... mushroom mushroom
+  864976  Ghost of Larppa [ghost]: ressiä
+  881725  Ghost of Larppa [ghost]: doh...
+  881732  Ghost of Larppa [ghost]: conjured demon... heard something strange... forgot to channel and when i came back i was dead :O
+14 matches in C:\Program Files (x86)\Zmud\BatMUD\logi87.zip::logi87.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi88.zip::logi88.txt
+   25194  Ghost of Larppa [ghost]: boooooooo
+  504660  Ghost of Larppa [ghost]: voi neekeri
+  504891  Ghost of Larppa [ghost]: voinen nigö
+  504939  [ghost]: Ghost of Larppa drools uncontrollably.
+  505087  [ghost]: Ghost of Larppa goes 'EWWWW!' in disgust.
+  547753  [ghost]: Ghost of Larppa nods his head at Mortak, yeah, ok.
+  559467  Ghost of Larppa [ghost]: raiseh
+  743542  [ghost]: Ghost of Larppa boos in disappointment.
+  743582  Ghost of Larppa [ghost]: w: surgery to 100
+  743586  Ghost of Larppa [ghost]: :)
+  933532  Ghost of Larppa [ghost]: bad cha
+  946023  [ghost]: Ghost of Larppa cheers and shouts 'WOOOOOOOOOO!'.
+  946026  Ghost of Larppa [ghost]: bad cha :)
+ 1113450  Ghost of Larppa [ghost]: bad cha
+ 1796077  Ghost of Larppa [ghost]: jahas
+ 1796089  Ghost of Larppa [ghost]: ressiä
+ 1967231  Ghost of Larppa [ghost]: summon dd chorale
+ 1967235  Ghost of Larppa [ghost]: no needed :)
+ 1967238  Ghost of Larppa [ghost]: ressiä
+19 matches in C:\Program Files (x86)\Zmud\BatMUD\logi88.zip::logi88.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi89.zip::logi89.txt
+  417302  Ghost of Larppa [ghost]: hehe
+  417309  Ghost of Larppa [ghost]: agro show :D
+  437274  Ghost of Larppa [ghost]: doh
+  437287  Ghost of Larppa [ghost]: ress
+  437310  Ghost of Larppa [ghost]: w: ressiiih?!? iiih?!?!
+  465289  Ghost of Larppa [ghost]: ress plz...
+  465293  Ghost of Larppa [ghost]: omg
+  673964  Ghost of Larppa [ghost]: voenigööööööööh
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi89.zip::logi89.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi90.zip::logi90.txt
+   83130  Ghost of Larppa [ghost]: ohops
+  137591  Ghost of Larppa [ghost]: puuh
+  573442  Ghost of Larppa [ghost]: eep
+  573451  Ghost of Larppa [ghost]: ress plz
+  598562  Ghost of Larppa [ghost]: woah triple crit
+  598572  [ghost]: Ghost of Larppa goes ':O'.
+  783530  Ghost of Larppa [ghost]: :((
+  783548  Ghost of Larppa [ghost]: ressiä
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi90.zip::logi90.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi91.zip::logi91.txt
+   84536  Ghost of Larppa [ghost]: sin män expit
+   84553  Ghost of Larppa [ghost]: i have lost more than i have done exp in each summary this week
+  121141  Ghost of Larppa [ghost]: eeps... träkkinki
+  121144  Ghost of Larppa [ghost]: ressiä
+  121156  Ghost of Larppa [ghost]: ?
+  121366  Ghost of Larppa [ghost]: sniff
+  222641  Ghost of Larppa [ghost]: ressiä
+  222682  Ghost of Larppa [ghost]: ress?!
+  247337  Ghost of Larppa [ghost]: smile
+  247349  Ghost of Larppa [ghost]: happily
+  422408  Ghost of Larppa [ghost]: puuuuuh GNnnnnnghhhh unghhhhhhh
+  422412  [ghost]: Ghost of Larppa yells loudly.
+  422413  Ghost of Larppa [ghost]: rais
+  422414  Ghost of Larppa [ghost]: and surgery to 100
+  422416  Ghost of Larppa [ghost]: not too bad cha though :)
+  422603  [15:13]:Ghost of Larppa [ghost]: puuuuuh GNnnnnnghhhh unghhhhhhh
+  422604  [15:13]:[ghost]: Ghost of Larppa yells loudly.
+  422605  [15:13]:Ghost of Larppa [ghost]: rais
+  422606  [15:13]:Ghost of Larppa [ghost]: and surgery to 100
+  422607  [15:13]:Ghost of Larppa [ghost]: not too bad cha though :)
+20 matches in C:\Program Files (x86)\Zmud\BatMUD\logi91.zip::logi91.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi92.zip::logi92.txt
+  116982  Ghost of Larppa [ghost]: nööyyyyygh
+  117064  Ghost of Larppa [ghost]: olinpas käsi
+  117309  [ghost]: Ghost of Larppa nods at Gilly.
+  152497  Ghost of Larppa [ghost]: ohops
+  152593  Ghost of Larppa [ghost]: damn zmud :D
+  362816  Ghost of Larppa [ghost]: :)
+  717853  Ghost of Larppa [ghost]: rais plz
+  717937  Ghost of Larppa [ghost]: just turned my back for 5 seconds and i was dead
+8 matches in C:\Program Files (x86)\Zmud\BatMUD\logi92.zip::logi92.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi93.zip::logi93.txt
+  120597  Ghost of Larppa [ghost]: raisea...
+  248269  Ghost of Larppa [ghost]: eep
+  248279  Ghost of Larppa [ghost]: damn backstab :O
+  725950  Ghost of Larppa [ghost]: eep...!
+  725958  Ghost of Larppa [ghost]: rais
+  727012  Ghost of Larppa [ghost]: no jes eisen tossa ruudussa pitäny olla
+  727016  Ghost of Larppa [ghost]: :D
+  796241  Ghost of Larppa [ghost]: boo
+  796607  Ghost of Larppa [ghost]: hmm Onysable tells you 'accept Raise dead/Resurrect/New body'
+  796613  Ghost of Larppa [ghost]: is there onysable and onyxsablet? :D
+  796636  Ghost of Larppa [ghost]: nods... took from wrong one
+  799421  Ghost of Larppa [ghost]: gnnh
+  799423  Ghost of Larppa [ghost]: rahaa tässä tarvittiinki alttari!
+  799430  [    79    ] Ghost of Larppa
+  803532  [    79    ] Ghost of Larppa
+  803538  Ghost of Larppa [ghost]: umm... rais? ress?
+ 1007922  Ghost of Larppa [ghost]: ei väkisin sitte :)
+ 1007936  Ghost of Larppa [ghost]: raisea
+ 1008463  Ghost of Larppa [ghost]: raise damnetti!
+ 1008481  Ghost of Larppa [ghost]: :D
+ 1050498  Ghost of Larppa [ghost]: HUH?
+ 1050607  Ghost of Larppa [ghost]: oh damn zmud
+ 1051837  Ghost of Larppa [ghost]: doh
+ 1051838  Ghost of Larppa [ghost]: :D
+ 1051846  Ghost of Larppa [ghost]: my mistake this time :D
+ 1059168  Ghost of Larppa [ghost]: noo
+ 1059272  Ghost of Larppa [ghost]: stupid game
+ 1059300  Ghost of Larppa [ghost]: rais
+ 1324032  Ghost of Larppa [ghost]: reincing...
+ 1324057  Ghost of Larppa [ghost]: typodishhs
+ 1518125  Ghost of Larppa [ghost]: ressiä
+ 1518136  Ghost of Larppa [ghost]: alle 50 cha btw
+ 1518138  Ghost of Larppa [ghost]: not much :)
+33 matches in C:\Program Files (x86)\Zmud\BatMUD\logi93.zip::logi93.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi94.zip::logi94.txt
+  133748  Ghost of Larppa [ghost]: :OO
+  133752  Ghost of Larppa [ghost]: ressi
+  211971  Ghost of Larppa [ghost]: stupid quest :D
+  741804  [ghost]: Ghost of Larppa nods at Suger.
+  930681  Ghost of Larppa [ghost]: long uncons :)
+  930683  Ghost of Larppa [ghost]: ressiä
+ 1024353  Ghost of Larppa [ghost]: dunno about cha :O
+ 1040744  Ghost of Larppa [ghost]: kuolin silti
+ 1040750  Ghost of Larppa [ghost]: :O
+ 1060991  [22:21]:Ghost of Larppa [ghost]: :O
+10 matches in C:\Program Files (x86)\Zmud\BatMUD\logi94.zip::logi94.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi95.zip::logi95.txt
+  189293  Ghost of Larppa [ghost]: oho
+  412329  Ghost of Larppa [ghost]: boo
+  412339  [ghost]: Ghost of Larppa fumblettaa Riditsin.
+  412349  Ghost of Larppa [ghost]: 0cha
+  672641  Ghost of Larppa [ghost]: woenigönbannaani
+  672902  Ghost of Larppa [ghost]: i hate those THAT REALLY HURT späm späm spells
+6 matches in C:\Program Files (x86)\Zmud\BatMUD\logi95.zip::logi95.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi96.zip::logi96.txt
+  504891  Ghost of Larppa [ghost]: ohohohoho
+  504899  Ghost of Larppa [ghost]: raiseva
+  507485  [19:21]:Ghost of Larppa [ghost]: raiseva
+  590303  Ghost of Larppa [ghost]: rais and satiate fast :)
+  590394  Ghost of Larppa [ghost]: anyone?
+  689366  Ghost of Larppa [ghost]: ressiä
+  748732  Ghost of Larppa [ghost]: ressiä
+  893717  Ghost of Larppa [ghost]: no voi doh...
+  893761  Ghost of Larppa [ghost]: raisea
+  894067  [ghost]: Ghost of Larppa grabs Turmio by the throat, strangling viciously.
+  901663  Ghost of Larppa [ghost]: henkimän :O
+  901673  Ghost of Larppa [ghost]: raisea
+  904054  Ghost of Larppa [ghost]: puuh damn crit
+  904121  Ghost of Larppa [ghost]: -500hp dys!
+14 matches in C:\Program Files (x86)\Zmud\BatMUD\logi96.zip::logi96.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi97.zip::logi97.txt
+  222099  [ghost]: Ghost of Larppa tahtoo olla nigö.
+  362919  Ghost of Larppa [ghost]: :OOO
+  362926  Ghost of Larppa [ghost]: resraise
+  363189  [14:23]:Ghost of Larppa [ghost]: :OOO
+  363191  [14:23]:Ghost of Larppa [ghost]: resraise
+  380580  Ghost of Larppa [ghost]: no voi nigön gnn :O
+  381081  [ghost]: Ghost of Larppa shakes her head and says 'Nope' to Lyriikka.
+  406061  Ghost of Larppa [ghost]: tidissiih :O
+  406064  Ghost of Larppa [ghost]: not sure about cha... should be ok
+  411189  Ghost of Larppa [ghost]: :O
+  432099  Ghost of Larppa [ghost]: pUUUUuuuuuuuuh gnnnnnnnn omgplz
+  439525  Ghost of Larppa [ghost]: uaah... that ress :)
+  444671  Ghost of Larppa [ghost]: fumble hälärmi :O
+  444679  Ghost of Larppa [ghost]: cha about 50 :)
+  450102  [ghost]: Ghost of Larppa cheers and shouts 'WOOOOOOOOOO!'.
+  450107  Ghost of Larppa [ghost]: w: surgery
+  450124  Ghost of Larppa [ghost]: who wants to fumble? :O
+  450180  Ghost of Larppa [ghost]: etsää voi fumbleta :D
+  450241  Ghost of Larppa [ghost]: casting? :O
+  450688  Ghost of Larppa [ghost]: ress gnn?!
+  453836  Ghost of Larppa [ghost]: voi nigö
+  453909  Ghost of Larppa [ghost]: nyt loppu tuo hmma
+  460715  Ghost of Larppa [ghost]: raisea
+  461762  Ghost of Larppa [ghost]: could i have one RAISE DEAD please?!
+  489804  Ghost of Larppa [ghost]: rais
+  490528  [ghost]: Ghost of Larppa goes 'GNNNNNNNNN!!'.
+  513986  Ghost of Larppa [ghost]: rais
+  514459  Ghost of Larppa [ghost]: raiseah?!
+  514574  [ghost]: Ghost of Larppa looks very EVILly at Malag.
+  514744  Ghost of Larppa [ghost]: ress!
+  514763  [ghost]: Ghost of Larppa goes 'Ooooo...'.
+  699504  Ghost of Larppa [ghost]: no niimpä tietenki
+  699534  Ghost of Larppa [ghost]: ressiä
+  737235  Ghost of Larppa [ghost]: yell
+  737248  Ghost of Larppa [ghost]: eep
+35 matches in C:\Program Files (x86)\Zmud\BatMUD\logi97.zip::logi97.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi98.zip::logi98.txt
+  259305  Ghost of Larppa [ghost]: puuh
+  259322  Ghost of Larppa [ghost]: ress
+  475714  Ghost of Larppa [ghost]: A golden arrow hits you.
+  475719  [ghost]: Ghost of Larppa cheers and shouts 'WOOOOOOOOOO!'.
+4 matches in C:\Program Files (x86)\Zmud\BatMUD\logi98.zip::logi98.txt
+C:\Program Files (x86)\Zmud\BatMUD\logi99.zip::logi99.txt
+  206522  Ghost of Larppa [ghost]: :O
+  208929  Ghost of Larppa [ghost]: vammaista
+  322338  Ghost of Larppa [ghost]: mitäs minä sanoin :)
+  322479  Ghost of Larppa [ghost]: oli free prayt?
+  337618  Ghost of Larppa [ghost]: raise deaditus
+  337885  Ghost of Larppa [ghost]: se raiseeh!?!? :O
+  337886  [ghost]: Ghost of Larppa begs shamelessly.
+7 matches in C:\Program Files (x86)\Zmud\BatMUD\logi99.zip::logi99.txt
+TOTAL:    2468 matches in 380 files  (600 other files without matches not listed)

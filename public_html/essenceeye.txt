@@ -1,0 +1,7 @@
+#CLASS {essence eye}
+#TRIGGER {^([A-Za-z~- ]): ([#])} {#VAR currentspell "%1";#VAR currentspelllength %len( %2);#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength};#VAR burdencheck 1}
+#TRIGGER {^You skillfully cast the spell with haste.$} {#MATH currentspelllength (@currentspelllength - 1);#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength %ansi(grey,black)(haste)};#var burdencheck 1}
+#TRIGGER {^You skillfully cast the spell with greater haste.$} {#MATH currentspelllength (@currentspelllength - 2);#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength %ansi(grey,black)(greater haste)};#var burdencheck 1}
+#TRIGGER {^{You feel godly power hasten your casting.|You feel some power hasten your casting.|You feel unearthly power hasten your casting.}$} {#MATH currentspelllength (@currentspelllength - 1);#IF (@currentspelllength = 1) {#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength %ansi(grey,black)(quick lips)}} {#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength %ansi(grey,black)(or less, quick lips)}};#var burdencheck 1}
+#TRIGGER {^Your heavy burden slows down your casting.$} {#if (@burdencheck = 1) {#MATH currentspelllength (@currentspelllength + 1)};#SUB {%ansi(cyan,black)@currentspell%ansi(grey,black): %ansi(hi,white)@currentspelllength %ansi(grey,black)(BURDEN)};#var burdencheck 0}
+#CLASS 0

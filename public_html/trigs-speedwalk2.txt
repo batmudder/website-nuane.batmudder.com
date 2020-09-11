@@ -1,0 +1,97 @@
+#ALIAS 4winds-mythical {#SA Going: (four winds - mythical);e;13 se;2 s;10 se;2 e;2 se;20 e;4 e;17 sw;2 w;3 sw;10 w;sw;3 s;3 sw;2 s;2 sw;3 w;2 sw;18 s;se;20 e;20 e;20 e;20 e;20 e;18 e;20 ne;20 ne;7 n;3 nw} {speedwalk aliases}
+#ALIAS 4winds-rsf {#SA Going: (four winds - rsf);7 nw;n;3 nw;11 n;4 ne;4 n;20 n;20 n;2 nw;19 n;12 nw;10 n;4 nw;5 n;9 nw} {speedwalk aliases}
+#ALIAS axidia-pluras {#SA Going: (axidia - pluras);7 e;12 ne;4 n;2 nw;7 n;nw;sw;9 w;sw} {speedwalk aliases}
+#ALIAS barb-rsf {#SA Going: (barb - rsf);2 se;20 sw;2 sw;w;2 sw;s;5 sw;19 s;20 sw;2 sw} {speedwalk aliases}
+#ALIAS calythien-campsite {#SA Going: (calythien - campsite);6 e;se;s;se;2 e;3 se;20 s;12 s;10 sw;15 s;se;20 e;9 e;ne} {speedwalk aliases}
+#ALIAS calythien-conquest {#SA Going: (calythien - conquest);6 e;se;s;se;2 e;3 se;20 s;12 s;10 sw;16 s} {speedwalk aliases}
+#ALIAS calythien-dunedain {#SA Going: (calythien - dunedain);6 e;se;s;se;2 e;3 se;18 s;10 sw} {speedwalk aliases}
+#ALIAS campsite-conquest {#SA Going: (campsite - conquest);sw;10 w;20 w} {speedwalk aliases}
+#ALIAS campsite-pyran {#SA Going: (campsite - pyran);se;11 e;ne;18 n;2 ne;3 e;2 ne;2 n;2 ne;5 se;7 s} {speedwalk aliases}
+#ALIAS carnival-zoy {#SA Going: (midnight carnival - zoy);8 w;sw;20 w;nw;11 n;4 ne} {speedwalk aliases}
+#ALIAS church-midian {#SA Going: (church - midian);2 e;3 s;14 e;11 s;7 se;se;e;se;3 e} {speedwalk aliases}
+#ALIAS conquest-campsite {#SA Going: (conquest - campsite);20 e;10 e;ne} {speedwalk aliases}
+#ALIAS conquest-dahbec {#SA Going: (conquest - dahbec);16 w;20 w;3 sw;10 w;9 sw;10 w;13 sw;w} {speedwalk aliases}
+#ALIAS conquest-dunedain {#SA Going: (conquest - dunedain);16 n;7 ne;7 nw} {speedwalk aliases}
+#ALIAS cornfields-zebells {#SA Going: (cornfields - zebells);se;4 s;8 se;12 s;4 sw;11 s;3 se} {speedwalk aliases}
+#ALIAS crimson-midian {#SA Going: (crimson - midian);5 se;20 sw;15 w;3 sw;20 w;20 w;20 w;17 w;20 n;8 n;3 ne;n;3 e} {speedwalk aliases}
+#ALIAS crimson-rsf {#SA Going: (crimson - rsf);5 se;20 sw} {speedwalk aliases}
+#ALIAS dahbec-conquest {#SA Going: (dahbec - conquest);e;13 ne;10 e;9 ne;10 e;3 ne;20 e;16 e} {speedwalk aliases}
+#ALIAS dahbec-zebells {#SA Going: (dahbec - zebells);s;7 sw;16 w;20 w;4 sw} {speedwalk aliases}
+#ALIAS diggas-midian {#SA Going: (diggas - midian);6 ne;17 e;13 n;3 ne;n;3 e} {speedwalk aliases}
+#ALIAS donaru-lanzia {#SA Going: (donaru - lanzia);20 n;4 n;5 nw;3 w;nw;2 n;6 ne;n} {speedwalk aliases}
+#ALIAS dunedain-calythien {#SA Going: (dunedain - calythien);10 ne;18 n;3 nw;2 w;nw;n;nw;6 w} {speedwalk aliases}
+#ALIAS dunedain-conquest {#SA Going: (dunedain - conquest);7 se;7 sw;16 s} {speedwalk aliases}
+#ALIAS duzelton-midian {#SA Going: (duzelton - midian);4 n;10 w;20 n;20 w;11 w;20 n;8 n;3 ne;n;3 e} {speedwalk aliases}
+#ALIAS duzelton-rsf {#SA Going: (duzelton - rsf);4 n;10 w;20 n;20 e;20 e;6 e;3 ne;15 e} {speedwalk aliases}
+#ALIAS horndurath-ocp {#SA Going: (horn durath - ocp);se;s;4 sw;w;3 nw;15 w;5 s;2 w;transport ocp} {speedwalk aliases}
+#ALIAS hugoville-barb {#SA Going: (hugoville - barb);20 ne;2 ne;2 nw} {speedwalk aliases}
+#ALIAS hugoville-oysteria {#SA Going: (hugoville - oysteria);20 ne;16 n} {speedwalk aliases}
+#ALIAS hugoville-taiga {#SA Going: (hugoville - taiga);w;20 nw;6 nw;20 w;8 w;nw} {speedwalk aliases}
+#ALIAS jondalar-mythical {#SA Going: (jondalar - mythical);20 se;3 se;20 e;10 e;20 ne;20 ne;7 ne;3 nw} {speedwalk aliases}
+#ALIAS jondalar-sarku {#SA Going: (jondalar - sarku);7 nw;5 w} {speedwalk aliases}
+#ALIAS lerethin-ruins {#SA Going: (lerethin - ruins);7 n;4 nw;4 w;13 nw;6 n;2 ne} {speedwalk aliases}
+#ALIAS lor-lorenchia {#SA Going: (lor - lorenchia);6 sw;s;4 sw;5 se;2 sw;3 s;3 se;s;13 sw;5 s;sw;5 w;6 sw;3 s;2 sw;2 se;8 s} {speedwalk aliases}
+#ALIAS lorenchia-lor {#SA Going: (lorenchia - lor);8 n;2 nw;2 ne;3 n;6 ne;5 e;ne;5 n;13 ne;n;3 nw;3 n;2 ne;5 nw;4 ne;n;6 ne} {speedwalk aliases}
+#ALIAS lorenchia-zoy {#SA Going: (lorenchia - zoy);8 e;se;5 e;3 ne;3 e;3 ne;4 e;4 se;4 ne;2 e;4 ne;15 e;3 ne;7 e;4 ne;4 e;3 se;6 e;5 ne;7 e;5 ne;2 e;3 ne;2 e;2 se;5 e;4 se;7 ne;11 e;se;2 ne} {speedwalk aliases}
+#ALIAS midian-diggas {#SA Going: (midian - diggas);n;transport ocp;15 n;17 w;6 sw} {speedwalk aliases}
+#ALIAS midian-rsf {#SA Going: (midian - rsf);n;transport ocp;20 e;20 e;20 e;17 e;3 ne;15 e} {speedwalk aliases}
+#ALIAS mirkhold-rsf {#SA Going: (mirkhold - rsf);18 w;2 n;4 nw;5 n;9 nw} {speedwalk aliases}
+#ALIAS mirkhold-shadowdale {#SA Going: (mirkhold - shadowdale);13 sw;20 se;20 se;3 se} {speedwalk aliases}
+#ALIAS mythical-campsite {#SA Going: (mythical - campsite);3 se;7 sw;20 sw;20 sw;11 w;20 w;20 w;20 w;20 w;20 w;20 w;nw} {speedwalk aliases}
+#ALIAS mythical-donaru {#SA Going: (mythical - donaru);3 se;3 ne;5 e;15 ne;4 n;3 ne;3 n;3 ne;4 n;3 ne;4 n;3 ne;4 n;3 ne;4 n;3 ne;4 n;3 ne;4 n;3 ne;4 n;5 ne;20 n;20 n;20 n;20 n;n} {speedwalk aliases}
+#ALIAS mythical-jondalar {#SA Going: (mythical - jondalar);3 se;7 sw;20 sw;20 sw;10 w;20 w;3 nw;20 nw} {speedwalk aliases}
+#ALIAS mythical-rilynttar {#SA Going: (mythical - rilynttar);3 se;3 ne;5 e;16 se;3 s;3 sw;3 w;3 sw;3 w;6 sw;2 s;2 sw;5 s;2 sw;5 s;2 sw;5 s;2 sw;5 s;2 sw;15 w;20 sw;10 sw;20 s;7 s;8 sw;10 s;20 se} {speedwalk aliases}
+#ALIAS nc-midian {#SA Going: (nc - midian);2 w;10 sw;se;11 e;4 s;7 se;se;e;se;3 e} {speedwalk aliases}
+#ALIAS ocp-crimson {#SA Going: (ocp - crimson);20 e;20 e;20 e;17 e;3 ne;15 e;20 ne;5 nw} {speedwalk aliases}
+#ALIAS ocp-diggas {#SA Going: (ocp - diggas);15 n;17 w;6 sw} {speedwalk aliases}
+#ALIAS ocp-duzelton {#SA Going: (ocp - duzelton);20 e;11 e;20 s;10 e;4 s} {speedwalk aliases}
+#ALIAS ocp-midian {#SA Going: (ocp - midian);20 n;8 n;3 ne;n;3 e} {speedwalk aliases}
+#ALIAS ocp-old_forest {#SA Going: (ocp - old forest);11 e;6 se} {speedwalk aliases}
+#ALIAS ocp-pluras {#SA Going: (ocp - pluras);6 w;9 sw;20 s;20 s;20 s;20 s;20 s;5 s;2 sw;9 w;sw} {speedwalk aliases}
+#ALIAS ocp-rsf {#SA Going: (ocp - rsf);20 e;20 e;20 e;17 e;3 ne;15 e} {speedwalk aliases}
+#ALIAS ocp-ruins {#SA Going: (ocp - ruins);6 w;9 sw;20 s;8 s;se;15 e;7 se;5 s;sw;2 w;sw;5 s;4 se;3 s;2 se} {speedwalk aliases}
+#ALIAS ocp-teiko {#SA Going: (ocp - teiko);6 w;9 sw;20 s;8 s;se;15 e;7 se;5 s;sw;5 w;3 nw} {speedwalk aliases}
+#ALIAS old_forest-duzelton {#SA Going: (old forest - duzelton);6 ne;8 e;20 s;10 e;4 s} {speedwalk aliases}
+#ALIAS orac-shadowdale {#SA Going: (orac - shadowdale);5 nw;9 w} {speedwalk aliases}
+#ALIAS orion-midian {#SA Going: (orion - midian);20 w;11 w;20 n;8 n;3 ne;n;3 e} {speedwalk aliases}
+#ALIAS perilous-whirlpool {#SA Going: (perilous - whirlpool);4 w;2 sw;6 w;nw;w;sw;4 w;sw;7 w;2 nw;w;2 sw} {speedwalk aliases}
+#ALIAS pluras-ocp {#SA Going: (pluras - ocp);ne;9 e;2 ne;20 n;20 n;20 n;20 n;20 n;5 n;9 ne;6 e} {speedwalk aliases}
+#ALIAS pluras-rudra {#SA Going: (pluras - rudraprayag);ne;9 e;ne;se;7 s;2 se;10 s;5 sw;18 se;e;2 se} {speedwalk aliases}
+#ALIAS pyran-campsite {#SA Going: (pyran - campsite);7 n;5 nw;2 sw;2 s;2 sw;3 w;2 sw;18 s;sw;11 w;nw} {speedwalk aliases}
+#ALIAS reavers-rilynttar {#SA Going: (reavers-rilynttar);w;4 sw;14 w;20 w;20 w;4 s} {speedwalk aliases}
+#ALIAS rilynttar-reavers {#SA Going: (rilynttar-reavers);4 n;20 e;20 e;14 e;4 ne;e} {speedwalk aliases}
+#ALIAS rsf-4winds {#SA Going: (rsf - four winds);9 se;5 s;4 se;10 s;12 se;19 s;2 se;20 s;20 s;5 s;4 sw;11 s;3 se;s;7 se} {speedwalk aliases}
+#ALIAS rsf-crimson {#SA Going: (rsf - crimson);20 ne;5 nw} {speedwalk aliases}
+#ALIAS rsf-duzelton {#SA Going: (rsf - duzelton);15 w;3 sw;20 w;20 w;6 w;20 s;10 e;4 s} {speedwalk aliases}
+#ALIAS rsf-hugoville {#SA Going: (rsf - hugoville);20 ne;2 ne;19 n;4 ne;n;3 ne;e} {speedwalk aliases}
+#ALIAS rsf-midian {#SA Going: (rsf - midian);15 w;3 sw;20 w;20 w;20 w;17 w;20 n;8 n;3 ne;n;3 e} {speedwalk aliases}
+#ALIAS rsf-mirkhold {#SA Going: (rsf - mirkhold);9 se;5 s;4 se;2 s;18 e} {speedwalk aliases}
+#ALIAS rsf-ocp {#SA Going: (rsf - ocp);15 w;3 sw;20 w;20 w;20 w;17 w} {speedwalk aliases}
+#ALIAS rsf-orion {#SA Going: (rsf - orion);15 w;3 sw;20 w;20 w;6 w} {speedwalk aliases}
+#ALIAS rsf-shadowdale {#SA Going: (rsf - shadowdale);9 se;5 s;4 se;10 s;20 se;16 se;12 se} {speedwalk aliases}
+#ALIAS rsf-skeep {#SA Going: (rsf - skeep);20 ne;2 ne;19 n;4 ne;n;4 ne;e;20 ne;20 se;20 e;20 e;17 e;3 se} {speedwalk aliases}
+#ALIAS rudra-pluras {#SA Going: (rudraprayag - pluras);2 nw;w;18 nw;5 ne;10 n;2 nw;7 n;nw;sw;9 w;sw} {speedwalk aliases}
+#ALIAS ruins-lerethin {#SA Going: (ruins - lerethin);2 sw;6 s;13 se;4 e;4 se;7 s} {speedwalk aliases}
+#ALIAS ruins-ocp {#SA Going: (ruins - ocp);2 nw;3 n;4 nw;5 n;ne;2 e;ne;5 n;7 nw;15 w;nw;20 n;8 n;9 ne;6 e} {speedwalk aliases}
+#ALIAS ruins-well {#SA Going: (ruins - well);2 sw;6 s;13 se;4 e;2 se;2 e;2 ne;8 e;12 se;13 s;se} {speedwalk aliases}
+#ALIAS ruins-wrebies {#SA Going: (ruins - wrebies);2 sw;6 s;13 se;4 e;2 se;2 e;2 ne;8 e;12 se;7 s;10 e;10 ne;2 e;10 se} {speedwalk aliases}
+#ALIAS sarku-jondalar {#SA Going: (sarku - jondalar);5 e;7 se} {speedwalk aliases}
+#ALIAS shadowdale-mirkhold {#SA Going: (shadowdale - mirkhold);20 nw;20 nw;3 nw;13 ne} {speedwalk aliases}
+#ALIAS shadowdale-orac {#SA Going: (shadowdale - orac);9 e;5 se} {speedwalk aliases}
+#ALIAS shadowdale-rsf {#SA Going: (shadowdale - rsf);20 nw;16 nw;12 nw;10 n;4 nw;5 n;9 nw} {speedwalk aliases}
+#ALIAS taiga-dojo {#SA Going: (taiga - hells dojo);2 nw;2 w;4 sw;7 w;sw;2 s;2 sw;20 w;5 nw;6 w;2 sw;6 w;sw;20 w;nw;7 w} {speedwalk aliases}
+#ALIAS taiga-hugoville {#SA Going: (taiga - hugoville);se;8 e;20 e;6 se;20 se;e} {speedwalk aliases}
+#ALIAS teiko-ocp {#SA Going: (teiko - ocp);3 se;5 e;ne;5 n;7 nw;15 w;nw;20 n;8 n;9 ne;6 e} {speedwalk aliases}
+#ALIAS wc-midian {#SA Going: (wc - midian);5 sw;se;11 e;4 s;7 se;se;e;se;3 e} {speedwalk aliases}
+#ALIAS wc-ocp {#SA Going: (wc - ocp);5 sw;se;11 e;4 s;7 se;se;e;se;3 e;n;transport ocp} {speedwalk aliases}
+#ALIAS well-perins {#SA Going: (well - perins);7 ne;2 e;10 ne;15 e;ne;7 n;9 ne;17 n;5 nw;9 w;2 sw;4 s;3 se;e} {speedwalk aliases}
+#ALIAS well-ruins {#SA Going: (well - ruins);nw;13 n,12 nw;8 w;2 sw;2 w;2 nw;4 w;13 nw;6 n;2 ne} {speedwalk aliases}
+#ALIAS well-wrebies {#SA Going: (well - wrebies);2 e;17 ne;2 e;10 se} {speedwalk aliases}
+#ALIAS whirlpool-perilous {#SA Going: (whirlpool - perilous);2 ne;e;2 se;7 e;ne;4 e;ne;e;se;6 e;2 ne;4 e} {speedwalk aliases}
+#ALIAS whirlpool-zoy {#SA Going: (whirlpool - zoy);nw;5 w;sw;2 w;2 nw;2 w;2 nw;2 w;2 nw;2 w;2 nw;2 w;2 nw;2 w;2 nw;2 w;2 nw;2 w;2 nw;2 w;2 nw;2 w;2 sw;3 s;3 se;3 sw;2 s;sw;15 w;nw} {speedwalk aliases}
+#ALIAS wrebies-ruins {#SA Going: (wrebies - ruins);10 nw;2 w;10 sw;10 w;7 n;12 nw;8 w;2 sw;2 w;2 nw;4 w;13 nw;6 n;2 ne} {speedwalk aliases}
+#ALIAS wrebies-well {#SA Going: (wrebies - well);10 nw;2 w;17 sw;2 w} {speedwalk aliases}
+#ALIAS zebells-cornfields {#SA Going: (zebells - cornfields);3 nw;11 n;4 ne;12 n;8 nw;4 n;nw} {speedwalk aliases}
+#ALIAS zebells-dahbec {#SA Going: (zebells - dahbec);4 ne;20 e;16 e;7 ne;n} {speedwalk aliases}
+#ALIAS zoy-carnival {#SA Going: (zoy - midnight carnival);4 sw;11 s;se;20 e;ne;8 e} {speedwalk aliases}
+#ALIAS zoy-whirlpool {#SA Going: (zoy - whirlpool);se;15 e;ne;2 n;3 ne;3 nw;3 n;2 ne;2 e;2 se;2 e;2 se;2 e;2 se;2 e;2 se;2 e;2 se;2 e;2 se;2 e;2 se;2 e;2 se;2 e;2 se;2 e;ne;5 e;se} {speedwalk aliases}
